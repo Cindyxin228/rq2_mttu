@@ -1,0 +1,297 @@
+% ============================================================
+% Results (ICSE/OOPSLA-style) — polished layout + underscore-safe
+% Notes:
+% 1) This text is grounded in:
+%    - analysis\_results/stats-ALL.json (+ stats-ALL.md)
+%    - analysis\_results/rq2-stats-ALL.json (+ rq2-stats-ALL.md)
+%    - analysis\_results/rq3-stats-ALL.json
+%    - analysis\_results/<CVE>/{stats-<CVE>.json, rq2-stats-<CVE>.json, rq3-stats-<CVE>.json}
+% 2) All literal underscores are escaped as \_
+% ============================================================
+
+\section{Results}
+\label{sec:results}
+
+\subsection{Dataset and Analysis Scope}
+\label{sec:results-scope}
+
+\noindent\textbf{Dataset Overview.}
+Following the data collection and selection protocol in \S\ref{sec:methodology}, we collected \textbf{892} CVE-tagged RustSec advisories (snapshot: 2025-12-20) and retained \textbf{113} advisories with explicitly mapped affected functions.
+
+\noindent\textbf{Analysis Scope.}
+We subjected all \textbf{113} candidates to ecosystem-wide reachability analysis and identified \textbf{27} advisories with detected downstream reachability. Our quantitative results for RQ1 and RQ3 focus on these 27 advisories, while RQ2 focuses on the subset of \textbf{25} advisories for which safety-encapsulation evidence is available.
+Table~\ref{tab:dataset-overview} summarizes the selection funnel and analysis scale.
+
+\begin{table}[t]
+\centering
+\caption{Dataset Statistics: From Advisories to Ecosystem Impact.}
+\label{tab:dataset-overview}
+\small
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+\multicolumn{2}{@{}l}{\textit{Advisory Selection Funnel}} \\
+Total RustSec Advisories (until 2025-12-20) & 892 \\
+\quad $\hookrightarrow$ Advisories with mapped affected functions & 113 \\
+\quad $\hookrightarrow$ Advisories with detected downstream usage & \textbf{27} \\
+\quad $\hookrightarrow$ Advisories with safety analysis (RQ2) & 25 \\
+\midrule
+\multicolumn{2}{@{}l}{\textit{Ecosystem Impact Scope}} \\
+Downstream Crate Releases Analyzed & 9,402 \\
+Unique Caller Paths Resolved & 270,344 \\
+Vulnerable Function Variants & 24,514 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{RQ1: Reachability Topology}
+\label{sec:results-rq1}
+
+RQ1 investigates the structural characteristics of vulnerability propagation paths.
+We analyze three key dimensions: \emph{call depth} (path length), \emph{cross-crate propagation} (package hops), and \emph{path complexity} (constraints).
+
+\begin{table}[t]
+\centering
+\caption{Descriptive Statistics of Reachability Topology (Aggregated).}
+\label{tab:rq1-stats}
+\small
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+\textbf{Metric} & \textbf{Mean} & \textbf{Mode} & \textbf{Max} & \textbf{Total Paths} \\
+\midrule
+Path Length (Funcs) & 5.04 & 5 & 108 & 270,344 \\
+Package Hops (Crates) & 1.84 & 2 & 60 & 270,344 \\
+Unique Hops & 1.69 & 3 & 15 & 270,344 \\
+Path Constraints & 5.64 & 5 & 466 & 270,344 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Finding 1 (The "Shallow Reachability" Norm).}
+The vast majority of vulnerability paths are structurally shallow.
+As shown in Table~\ref{tab:rq1-stats}, the mode for package hops is \textbf{2} (accounting for \textbf{100,475} paths, or 37\% of the total), and the average path length is approximately 5 functions.
+This indicates that in the typical case, vulnerabilities affect direct consumers or immediate transitive dependents, rather than propagating through deep, complex call chains.
+
+\noindent\textbf{Finding 2 (The "Long Tail" of Supply Chain Risk).}
+Despite the shallow average, the distributions exhibit extreme right-skewed tails.
+We observe paths traversing up to \textbf{60 package hops} and call stacks reaching \textbf{108 functions} deep.
+This "long tail" represents a critical subset of the ecosystem where risk propagates through extensive dependency chains.
+In these cases, a vulnerability in a foundational crate can penetrate dozens of layers to reach high-level applications, validating the need for deep, transitive static analysis.
+
+\noindent\textbf{Finding 3 (Constraint Complexity Clusters).}
+While the mode for path constraints is 5 (N=34,460), we identified "complexity hotspots" with up to \textbf{466 constraints} on a single path.
+This suggests that while most paths are simple, a significant minority of reachability conditions involve complex control-flow logic.
+Targets such as \texttt{dashmap::mapref::multiple::RefMutMulti::key} exhibit high average constraint scores (36.1), serving as complex junctions in the dependency graph that may hinder simpler reachability heuristics.
+
+\vspace{0.5em}
+\noindent\fbox{\parbox{0.95\columnwidth}{
+\textbf{RQ1 Summary:} Vulnerability reachability is characterized by a "Shallow Norm, Deep Tail" distribution. While most risks are local (2 hops), extreme outliers (60 hops) demonstrate the theoretical depth of supply chain attacks.
+}}
+
+\subsection{RQ2: Safety Abstraction Failures}
+\label{sec:results-rq2}
+
+RQ2 examines the encapsulation of \texttt{unsafe} code.
+We define \emph{Safety Abstraction Failure} as the existence of a valid call path from a Safe API to a Vulnerable Unsafe Target.
+
+\begin{table}[t]
+\centering
+\caption{Safety Encapsulation Analysis Results.}
+\label{tab:rq2-stats}
+\small
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Global Unsafe Ratio & $1.73 \times 10^{-7}$ \\
+\textbf{Exposure Rate} & \textbf{100\%} \\
+Max Encapsulation Depth & 1 \\
+Rooted Path Ratio & 54.4\% \\
+Avg. Unsafe Path Length & 13.26 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Finding 4 (The Paradox of Rarity and Exposure).}
+Our analysis reveals a striking contrast: while \texttt{unsafe} code is vanishingly rare ($1.73 \times 10^{-7}$ of all code), \textbf{100\%} of the identified vulnerable targets were reachable from Safe APIs.
+This confirms that "unsafety" in the Rust ecosystem is not a localized implementation detail but a fully exposed public concern.
+The complete exposure rate suggests that current encapsulation practices are insufficient to contain the risk of unsafe code.
+
+\noindent\textbf{Finding 5 (The "Thin Wrapper" Phenomenon).}
+The maximum encapsulation depth is \textbf{1}.
+This means safe APIs are overwhelmingly direct wrappers around unsafe functions.
+There is rarely a "sanitization layer" or complex logic between the safe interface and the unsafe core.
+For instance, in \texttt{zlib\_rs}, the safe function \texttt{inflate::uncompress} directly calls the unsafe \texttt{inflate::inflate} (depth 1).
+Similarly, in \texttt{fast\_float2}, \texttt{number::parse\_number} directly invokes \texttt{common::AsciiStr::first\_unchecked}.
+This "Thin Wrapper" pattern implies that the correctness of the safe API is tightly coupled to the unchecked validity of the underlying unsafe operation, leaving zero margin for error.
+
+\noindent\textbf{Finding 6 (Rooted and Executable Paths).}
+Crucially, \textbf{54.4\%} of the unsafe paths are "rooted" (traceable to \texttt{main} or test entry points).
+This high ratio refutes the hypothesis that these exposures are merely theoretical "dead code".
+Instead, they represent active, executable paths in the analyzed crates, confirming that the abstraction failures are realizable in practice.
+
+\vspace{0.5em}
+\noindent\fbox{\parbox{0.95\columnwidth}{
+\textbf{RQ2 Summary:} Safety encapsulation often fails in practice. The "Thin Wrapper" pattern (Depth 1) combined with 100\% exposure rates means that internal unsafe code is effectively part of the public API surface.
+}}
+
+\subsection{RQ3: Structural Characteristics}
+\label{sec:results-rq3}
+
+RQ3 characterizes the linguistic features of the vulnerable code itself, focusing on the interplay between Generics and Dynamic Dispatch.
+
+\begin{table}[t]
+\centering
+\caption{Code Structure Features of Vulnerable Targets.}
+\label{tab:rq3-stats}
+\small
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Feature} & \textbf{Statistic} \\
+\midrule
+Generic Variant Ratio & \textbf{98.3\%} \\
+Most Common Generic Arity & 2 (17,813 variants) \\
+Path Generic Density (Avg) & 1.32 args/path \\
+Dynamic Dispatch Ratio & 0.016\% \\
+Ratio of \texttt{DynTrait} Calls & $2 : 27,189$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Finding 7 (The Monomorphization Multiplier).}
+We find that \textbf{98.3\%} of vulnerable target variants involve generic instantiation.
+The histogram of generic arguments is dominated by arity 2 (\textbf{17,813} variants) and arity 3 (\textbf{5,203} variants).
+This creates a "Monomorphization Multiplier": a single source-code vulnerability is replicated into thousands of distinct binary symbols (variants).
+This phenomenon complicates binary-level auditing and patch verification, as the vulnerability does not exist as a single entity but as a legion of specialized clones.
+
+\noindent\textbf{Finding 8 (Static over Dynamic).}
+Dynamic dispatch (\texttt{dyn Trait}) is negligible in vulnerability paths.
+We observed only \textbf{2} dynamic trait calls compared to \textbf{27,189} direct calls.
+This suggests that Rust's vulnerability surface is shaped almost entirely by \emph{static polymorphism} (Generics) rather than \emph{dynamic polymorphism} (Virtual Calls).
+Security tools for Rust must therefore prioritize robust handling of trait bounds and monomorphization over virtual call resolution.
+
+\vspace{0.5em}
+\noindent\fbox{\parbox{0.95\columnwidth}{
+\textbf{RQ3 Summary:} Vulnerabilities in Rust are "Polymorphic but Static". The dominance of Generics (98\%) over Dynamic Dispatch (<1\%) shifts the complexity from runtime resolution to compile-time monomorphization.
+}}
+
+\subsection{RQ4: Do Infrastructure Crates Leak Deeper Than Utility Crates?}
+\label{sec:results-rq4}
+
+RQ4 examines whether the ecosystem impact of a vulnerability depends on the \emph{role} of the affected crate.
+We contrast \emph{infrastructure crates} (widely reused building blocks such as synchronization, collections, and security primitives) with \emph{utility crates} (application-facing helpers such as string/CLI processing).
+
+\noindent\textbf{Operationalization.}
+We measure leakage depth and breadth using the per-function global averages aggregated over downstream subjects:
+(i) \textit{len\_avg} (average call-chain length) and (ii) \textit{pkg\_avg} / \textit{pkg\_unique\_avg} (average cross-crate propagation).
+These statistics are computed from the resolved caller paths and reported in the global per-function summaries.
+
+\begin{table}[t]
+\centering
+\caption{Representative vulnerable targets suggest deeper leakage for infrastructure crates.}
+\label{tab:rq4-examples}
+\small
+\begin{tabular}{@{}llrr@{}}
+\toprule
+\textbf{Category} & \textbf{Target} & \textbf{len\_avg} & \textbf{pkg\_avg} \\
+\midrule
+Infrastructure & \texttt{lock\_api::RwLockReadGuard} & 6.4834 & 2.9932 \\
+Infrastructure & \texttt{once\_cell::sync::Lazy::force} & 9.4167 & 3.7651 \\
+Infrastructure & \texttt{dashmap::mapref::multiple::RefMulti::pair} & 7.6011 & 3.3120 \\
+Utility & \texttt{shlex::quote} & 5.5353 & 2.4647 \\
+Utility & \texttt{whoami::realname} & 3.7121 & 1.5152 \\
+Utility & \texttt{remove\_dir\_all::remove\_dir\_all} & 2.9872 & 1.2436 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Finding 9 (Infrastructure crates exhibit deeper and broader leakage).}
+The examples in Table~\ref{tab:rq4-examples} are consistent with the hypothesis that infrastructure crates propagate more deeply and broadly.
+For instance, \texttt{lock\_api::RwLockReadGuard} reaches an average depth of 6.4834 functions with 2.9932 cross-crate hops, while \texttt{shlex::quote} averages 5.5353 functions with 2.4647 hops.
+Similarly, \texttt{once\_cell::sync::Lazy::force} shows substantially deeper propagation (len\_avg=9.4167) and broader cross-crate usage (pkg\_avg=3.7651), consistent with its role as a widely reused synchronization primitive.
+
+\noindent\textbf{Planned distributional comparison.}
+To avoid over-interpreting point examples, we compare the full distributions of \textit{len\_avg} and \textit{pkg\_avg} between the two categories.
+We report category-level histograms and effect sizes (e.g., Cliff's \(\delta\) and Mann--Whitney \(U\)) to quantify whether infrastructure-crate vulnerabilities tend to leak deeper and wider in the ecosystem.
+
+\begin{figure}[t]
+\centering
+\fbox{\parbox{0.96\columnwidth}{\centering
+\textbf{[Insert vector PDF]}\\
+Two panels: histograms (or violin/box plots) of \textit{len\_avg} and \textit{pkg\_avg} grouped by crate category (Infrastructure vs Utility).}}
+\caption{RQ4 comparison of leakage depth/breadth distributions by crate category.}
+\label{fig:rq4-hists}
+\end{figure}
+
+
+
+\subsection{RQ5: Patch Propagation and Downstream Time-to-Fix}
+\label{sec:results-rq5}
+
+RQ5 quantifies how quickly downstream crates adopt upstream security fixes.
+For each RustSec advisory, we identify the first fixed upstream release (\textit{fixed\_version} at time \textit{fix\_time}) and compute a \emph{Strict Lag} (in days) for each downstream crate release that upgrades to a fixed dependency.
+We summarize the downstream distribution using \textit{lag\_days\_min}, \textit{lag\_days\_p50}, \textit{lag\_days\_avg}, and \textit{lag\_days\_max} (see \texttt{out\_summary.csv}).
+
+\begin{table}[t]
+\centering
+\caption{Representative advisories illustrate the range of downstream patch propagation behavior (Strict Lag in days).}
+\label{tab:rq5-examples}
+\small
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+\textbf{Target crate} & \textbf{Downstream fixes} & \textbf{Min} & \textbf{P50} & \textbf{Max} \\
+\midrule
+\texttt{tracing} & 653 & 0 & 152 & 781 \\
+\texttt{serde\_yaml} & 8 & 949 & 1200 & 1231 \\
+\texttt{openssl} & 5 & 984 & 984 & 1650 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Finding 10 (Immediate patching exists, but it is not representative).}
+We observe advisories where at least one downstream consumer patches with essentially zero delay (e.g., \texttt{tracing} shows \textit{lag\_days\_min}=0).
+This indicates that a subset of projects can ingest fixes as soon as a patched release becomes available, consistent with automated dependency update workflows.
+However, the broader downstream distribution remains substantially slower (e.g., \texttt{tracing} still exhibits \textit{lag\_days\_p50}=152).
+
+\noindent\textbf{Finding 11 (Patch adoption is heavy-tailed, creating long-lived exposure).}
+Across advisories, downstream time-to-fix exhibits a pronounced long tail: even when early adopters patch quickly, late adopters can remain exposed for years.
+For example, \texttt{openssl} reaches \textit{lag\_days\_max}=1650, indicating that some downstream releases continue to ship with vulnerable dependencies long after a fix is available.
+
+\noindent\textbf{Finding 12 (Low-maintenance dependencies can become "zombie" vulnerability carriers).}
+Some targets exhibit uniformly slow adoption across their downstreams.
+For \texttt{serde\_yaml}, both \textit{lag\_days\_min} and \textit{lag\_days\_p50} exceed 900 days, suggesting that when a dependency is perceived as stable (or effectively unmaintained), downstream consumers may treat upgrading as optional, allowing vulnerabilities to persist.
+
+\vspace{0.5em}
+\noindent\fbox{\parbox{0.95\columnwidth}{
+\textbf{RQ5 Summary:} Downstream patch propagation is uneven. A responsive subset can adopt fixes immediately, but ecosystem-wide remediation is heavy-tailed, leaving a long-lived residue of vulnerable downstream releases.
+}}
+
+
+\section{Discussion}
+\label{sec:discussion}
+
+\paragraph{The Rust Supply Chain Risk Model.}
+Synthesizing our findings, we propose a risk model for the Rust ecosystem characterized by three compounding factors:
+\begin{enumerate}
+    \item \textbf{Granular Propagation (RQ1):} Small, thin crates allow vulnerabilities to cross package boundaries after only ~2 internal calls (Finding 1), facilitating rapid ecosystem-wide spread.
+    \item \textbf{The Facade Failure (RQ2):} Safe abstractions over \texttt{unsafe} code are often depth-1 wrappers (Finding 5). This lack of "defense in depth" means any invariant violation in the wrapper immediately triggers the underlying unsoundness.
+    \item \textbf{Monomorphization Complexity (RQ3):} Heavy use of generics means vulnerabilities are copied and specialized into thousands of variants (Finding 7), evading signature-based detection and complicating static analysis.
+\end{enumerate}
+This combination suggests that while Rust's memory safety is robust in the large, the "unsafe" boundaries are brittle choke points that are structurally amplified by the ecosystem's modularity and generic programming model.
+
+\paragraph{Implications for Tooling.}
+The "Static over Dynamic" finding (Finding 8) indicates that future security tools should invest heavily in generic instantiation analysis rather than focusing on dynamic dispatch, which is a solved problem or non-issue in this context.
+Furthermore, the "Long Tail" of reachability (Finding 2) demands scalable inter-procedural analyses capable of tracking constraints across 60+ crate boundaries.
+
+\section{Threats to Validity}
+\label{sec:threats}
+
+\noindent\textbf{Construct Validity.}
+RQ1 relies on static call graphs which may over-approximate reachability. To mitigate this, we employ a hybrid analysis that validates reachability against known call patterns where possible.
+
+\noindent\textbf{Internal Validity.}
+The analysis is limited to crates that successfully build and have sufficient metadata. While we successfully analyzed 27 advisories, dataset attrition due to build failures is a common challenge in ecosystem-level studies.
+
+\noindent\textbf{External Validity.}
+Our dataset is drawn from open-source crates on crates.io and may not generalize to proprietary codebases or non-library applications. However, as crates.io is the de facto standard registry, our results reflect the state of the public Rust ecosystem.

@@ -1,0 +1,85 @@
+\section{Methodology}
+\label{sec:methodology}
+
+We conduct a function-level reachability study for CVE-affected functions in the Rust ecosystem. Our instrument comprises a two-stage pipeline: (1) reverse-dependency traversal to identify downstream crate releases (subjects) that may depend on vulnerable functionality; and (2) MIR-based static analysis that constructs a crate-level call graph and discovers callers to the CVE-mapped target functions. The pipeline is designed for measurement: it emits structured evidence (target-scoped caller reports) and aggregated statistics that support large-scale analysis and reproducibility.
+
+\subsection{Data Collection}
+
+We collect vulnerability metadata from the RustSec Advisory Database~\cite{rustsec2025advisories}, the de facto repository for Rust ecosystem security advisories. RustSec is particularly suitable for our study because it provides Rust-specific, structured fields needed to operationalize function-level propagation measurement, including crate identifiers, affected version ranges, patched versions, and—in a subset of advisories—explicitly listed affected functions. In contrast, general-purpose vulnerability databases (e.g., NVD) typically do not provide reliable function-level mappings for Rust crates, which makes method-level reachability measurement difficult to anchor and reproduce at ecosystem scale.
+
+Our dataset snapshot includes all RustSec advisories with CVE identifiers available up to December 20, 2025, yielding \textbf{892} CVE-tagged advisories.\footnote{Source: \url{https://rustsec.org/advisories/}} To enable function-level analysis, we restrict this corpus to advisories that explicitly enumerate affected functions and whose function names can be normalized to fully qualified function paths, resulting in \textbf{113} candidate advisories. This restriction is methodological rather than selective: our analysis requires an explicit mapping from an advisory to concrete target symbols that can be matched during MIR-based call discovery.
+
+We then execute the full ecosystem pipeline for all 113 candidates. For each advisory, we traverse reverse dependencies to obtain downstream crate releases (subjects) and run MIR-based analysis to resolve concrete call paths from subjects to the affected functions. We define \emph{downstream usage} as non-empty evidence of reachability, i.e., at least one resolved call path from a downstream crate release to an affected function. Under this criterion, \textbf{27} advisories exhibit detectable downstream usage in our analyzed ecosystem snapshot and form the evaluation set for RQ1 and RQ3. RQ2 additionally requires safety-encapsulation evidence (safe-to-unsafe exposure analysis) and is available for \textbf{25} advisories.
+
+Many CVE-tagged advisories are out of scope for function-level propagation because they cannot be reduced to a specific affected function (or do not provide a function mapping). Common cases include project-status advisories (e.g., unmaintained or discontinued crates), cross-cutting unsoundness spanning multiple APIs or semantic invariants, pattern-level issues (e.g., panic-safety or logging/escape-sequence classes), and crate-/feature-level reports that provide only version constraints without pinpointing function symbols. These advisories remain important for ecosystem security, but they require different operationalizations than method-level reachability.
+
+\subsection{Inputs and Targets}
+Each run is parameterized by a CVE identifier, a vulnerable crate name, a vulnerable version range, and a set of fully qualified target function paths. The CVE-to-function mapping is externally provided (e.g., extracted from advisories and/or derived from patch diffs) and anchors reachability measurement at the symbol level.
+
+To scale ecosystem traversal, we rely on a snapshot of crates.io metadata stored in a relational database. We query (i) the version history of a crate and (ii) reverse dependencies as (dependent crate, dependent version, semver requirement) triples. These metadata drive dependency-level traversal and are independent of MIR analysis.
+
+\subsection{Dependency-Level Traversal}
+We perform breadth-first search (BFS) over reverse dependencies of the vulnerable crate. To capture temporal heterogeneity without enumerating all releases, the BFS is seeded with two endpoint versions (oldest and newest) that satisfy the vulnerable version range.
+
+For each visited crate-version node, we query its reverse dependencies and retain only dependent releases whose declared semver requirement matches the current precise version. To bound the branching factor, we select (per dependent crate name) two endpoint releases (oldest and newest) for expansion. BFS proceeds level-by-level with bounded parallelism, and we avoid repeated work via a visited set keyed by (crate name, version).
+
+\subsection{Pre-Filter and Vulnerability Check}
+Before invoking MIR-based analysis, we apply a conservative name-based pre-filter. For each target function path, we extract its final segment (function identifier) and scan the subject’s Rust sources for any occurrence of these identifiers. If no identifier is present, we skip MIR analysis for this subject release.
+
+To ensure analysis reflects a specific dependency edge (parent $\rightarrow$ subject) and remains robust to yanked releases, we force dependency resolution to the exact parent version by vendoring that parent release locally and overriding the subject’s dependency resolution to use the local copy. A subject is considered \textit{reachable} for this CVE if MIR analysis produces at least one caller report for the given targets.
+
+\subsection{Function-Level Analysis (MIR-Based)}
+For a subject crate release that passes the pre-filter, we run a MIR-based static analysis implemented as a compiler plugin that executes after type checking and MIR construction, where it has access to typed compilation context.
+
+\noindent\textbf{Call-graph construction.}
+We collect local function instances in the subject crate, including monomorphized generic instances, and build an intra-crate call graph by iteratively expanding a worklist. For each function instance with available optimized MIR, we traverse its MIR and extract call sites at \texttt{TerminatorKind::Call}. Each call site is normalized to a callee instance when possible and tagged with a coarse call kind (direct call, dynamic trait dispatch, or function-pointer call). To improve determinism and avoid over-counting, we deduplicate caller--callee pairs by retaining the call site with the minimum control-flow cost.
+
+\noindent\textbf{Constraint and path features.}
+To summarize path complexity without full path sensitivity, we compute, for each function body, a shortest-path map from the entry block to all basic blocks and count conditional constraints (e.g., \texttt{SwitchInt}) along the path. The call site inherits the constraint count of its basic block. Given a target function path, we compute callers by searching the reverse call graph for minimum-cost paths from the target to each reachable caller; along the selected path we accumulate features used by our research questions, including call depth, cross-crate hop counts, the number of dynamic-dispatch and function-pointer edges, and generic-arity aggregates.
+
+\noindent\textbf{Bounded execution.}
+To keep ecosystem-scale analysis tractable, we enforce per-subject timeouts and discard build artifacts between subjects to bound resource usage.
+
+
+\subsection{Outputs and Evidence}
+For each analyzed subject release and each specified target function, the analysis emits a target-scoped caller report in JSON format. Each report contains the target identifier, the number of discovered callers, and a list of caller entries with fields including fully qualified caller path, crate/version metadata, and path features (constraint cost, call depth, cross-crate hops, and dispatch-kind indicators). We merge target-scoped reports produced for a subject release into a single per-subject artifact; these artifacts constitute the primary evidence for our measurements.
+
+\subsection{Metric Operationalization}
+We operationalize the study’s indicators directly from the emitted artifacts.
+
+\noindent\textbf{RQ1 (Reachability topology).}
+For each (subject release, target function), we obtain callers together with (i) \emph{path length} (the number of call edges on the selected caller-to-target path), (ii) \emph{package hops} (the number of cross-crate edges on that path), (iii) \emph{unique package hops} (the number of distinct crates encountered), and (iv) \emph{path constraints} (the minimum-cost sum of control-flow constraint counts along the path). We aggregate these values across all callers, subjects, and CVEs to compute global histograms and per-CVE averages.
+
+\noindent\textbf{RQ2 (Safety abstraction failures).}
+Within each subject, we use the intra-crate call graph to identify (a) unsafe target functions (restricted to the target set) and (b) safe functions that can reach them. We quantify \emph{exposure rate} as the fraction of unsafe targets that have at least one safe-to-unsafe reachability boundary, and \emph{encapsulation depth} as the number of reverse-call edges from an unsafe target to the nearest safe caller (reported as average and maximum). To characterize executability, we sample bounded reverse-call paths from unsafe targets toward roots and report a \emph{rooted-path ratio}.
+
+\noindent\textbf{RQ3 (Vulnerable-target structure).}
+For each target, we extract code-structure indicators including the number of monomorphized target variants, the distribution of generic arity, and call-kind counts (direct, function-pointer, and dynamic-trait calls). In addition, we compute path-level ratios from caller entries: a \emph{dynamic-dispatch ratio} as (dynamic-trait edges + function-pointer edges) divided by path length, and a \emph{generic density} as the sum of generic argument arities along the path divided by path length. We aggregate these indicators per CVE and report weighted averages across CVEs.
+
+\noindent\textbf{RQ5 (Downstream explicit-fix lag).}
+RQ5 quantifies the temporal delay between an upstream patch release and the first downstream release that adopts the patch via an explicit dependency-constraint change.
+Unlike RQ1--RQ3, RQ5 does not require a function mapping and therefore applies to a broader set of RustSec advisories.
+
+For each RustSec advisory with at least one entry in \texttt{versions.patched}, we select a concrete \emph{fixed version} as the minimum patched version under semantic version ordering.
+We then resolve the fixed version’s publication time \(t_0\) from the crates.io \texttt{versions} table.
+To operationalize whether a downstream crate was ever affected under dependency semantics, we select a vulnerable sample version \(v_s\) as the greatest published semver version strictly smaller than the fixed version for that crate.
+
+For the vulnerable crate, we obtain all downstream crate releases that declare a dependency on it, represented as \((\textit{downstream\_crate}, \textit{downstream\_version}, \textit{dep\_req}, \textit{created\_at})\).
+We group releases by downstream crate and sort each group chronologically.
+We mark a downstream crate as \emph{ever affected} once it publishes a release whose parsed \texttt{dep\_req} matches \(v_s\).
+We record an \emph{explicit fix} at the first subsequent downstream release whose requirement matches the fixed version but does not match \(v_s\), capturing a state transition from allowing a vulnerable line to allowing the patched line.
+The Strict Lag is the day difference between this explicit-fix release time \(t_{\text{fix}}\) and \(t_0\).
+We store per-downstream evidence (including both the last vulnerable requirement and the first fixed requirement) in \texttt{out\_lags.csv} and compute advisory-level summaries (count, min, median, mean, max) in \texttt{out\_summary.csv}.
+Advisories are skipped when required publication timestamps are missing in the local crates.io dump or when no valid \(v_s\) can be selected.
+
+\subsection{Measurement Protocol}
+Given a CVE and its function targets, we:
+1) seed the BFS with two versions of the vulnerable crate satisfying the version range;
+2) traverse reverse dependencies layer-by-layer, preserving parent-child edges;
+3) for each subject, apply dependency patching when applicable and run the name-based pre-filter;
+4) if the pre-filter passes, execute the MIR-based analysis to discover callers for the targets;
+5) aggregate targetwise evidence into per-subject artifacts and persist them for subsequent statistics computation.
+After traversal completes, we compute per-CVE statistics across all subjects to quantify reachability phenomena and summarize measurement outcomes.
+
+\subsection{Configuration and Environment}
+By default, subjects are built with their default features; we do not enumerate all feature/target combinations. To ensure consistent MIR availability, we run analyses under a pinned toolchain with MIR encoding enabled. We bound parallelism and enforce per-subject timeouts to keep the pipeline stable at ecosystem scale. Our artifact provides scripts and a containerized environment to support rerunning the pipeline under controlled dependencies.
