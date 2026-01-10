@@ -88,8 +88,48 @@ cargo run --bin rqx2_rustsec_batch -- --help
 
 - `--output <OUTPUT>`：明细 CSV 输出路径（默认 `rustsec_rqx2_strict_lags.csv`）
 - `--summary-output <SUMMARY_OUTPUT>`：汇总 CSV 输出路径（默认 `rustsec_rqx2_strict_summary.csv`）
+- `--only <ID1,ID2,...>`：仅处理指定的 CVE 或 RustSec ID（逗号分隔）
+- `--propagation`：启用补丁传导阻力分析（无限 BFS 到叶子为止）
+- `--propagation-summary-output <PATH>`：传播统计 txt 输出路径（默认 `rustsec_rqx2_propagation_summary.txt`）
+- `--propagation-output-dir <DIR>`：传播统计 SVG 输出目录（默认 `rustsec_rqx2_propagation_svgs`）
+- `--propagation-events-output <PATH>`：传播事件明细 CSV（用于校验/抽样复现路径，可选）
+- `--propagation-events-limit <N>`：传播事件明细最多写入 N 行（0 表示不限）
+- `--propagation-max-hops <N>`：限制 BFS 的最大 hop（默认不限制）
+- `--propagation-bins <N>`：传播直方图 bins（默认 60）
 - `--downstream-cache-crates <N>`：下游依赖查询缓存的 crate 数量（默认 50）
 - `--max-advisories <N>`：仅处理前 N 条公告（试跑用）
+
+#### 一键生成完整结果（明细 + 汇总 + 逐层传播报告 + 所有图）
+
+下面这一条命令会在一次运行中产出：
+
+- strict lag 明细/汇总（CSV）
+- 补丁传播逐层统计报告（txt）
+- 补丁传播逐层直方图（SVG）
+- strict lag 的按 severity 分组直方图（SVG，python 脚本）
+
+```bash
+export PG_POOL_MAX=50
+
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --output rustsec_rqx2_strict_lags.csv \
+  --summary-output rustsec_rqx2_strict_summary.csv \
+  --downstream-cache-crates 500 \
+  --propagation \
+  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir rustsec_rqx2_propagation_svgs \
+&& python3 plot_lag_distribution.py \
+  --by-severity \
+  --output-dir lag_days_by_severity_svgs
+```
+
+试跑版（只跑前 N 条公告）：
+
+```bash
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --max-advisories 10 \
+  --propagation
+```
 
 #### 运行完整分析
 
@@ -101,7 +141,7 @@ cargo run --release --bin rqx2_rustsec_batch
 
 该命令会：
 1.  下载最新的 RustSec Advisory Database。
-2.  连接本地 PostgreSQL 数据库（需提前配置 `DATABASE_URL`）。
+2.  连接本地 PostgreSQL 数据库（通过 `PG_HOST/PG_USER/PG_PASSWORD/PG_DATABASE` 等环境变量配置）。
 3.  对所有公告进行全量版本判定与 strict lag 计算。
 4.  输出结果到 `rustsec_rqx2_strict_lags.csv`（明细）和 `rustsec_rqx2_strict_summary.csv`（汇总）。
 
@@ -112,24 +152,12 @@ cargo run --release --bin rqx2_rustsec_batch
 - 汇总 `rustsec_rqx2_strict_summary.csv` 字段：
   - `rustsec_id,cve_id,severity,target_crate,fixed_version,fix_time,downstream_fixed_cnt,lag_days_min,lag_days_p50,lag_days_avg,lag_days_max`
 
-#### 输出 CSV 含义（怎么得到 lag_days）
+#### 指标解释（lag_days / p50 / 为什么会出现 0）
 
-这两个 CSV 的关系是：明细负责“每一次修复事件”，汇总负责“把同一个漏洞下的修复事件做统计”。
-
-- 明细 `rustsec_rqx2_strict_lags.csv`：每一行代表一次 “漏洞 × 下游 crate” 的**严格修复事件**
-  - `rustsec_id / cve_id`：RustSec 公告 ID 与 CVE（若无 CVE，则用 RustSec ID 代替）
-  - `severity`：漏洞严重等级（见下方 severity 计算规则）
-  - `target_crate`：存在漏洞的上游 crate
-  - `fixed_version / fix_time`：上游修复版本以及该版本在 crates.io 的发布时间
-  - `downstream_crate`：下游 crate 名
-  - `downstream_version / downstream_time`：下游发生“严格修复”的那个发布版本，以及该版本发布时间
-  - `lag_days`：天数差，计算公式为 `downstream_time - matched_fix_time`（向下取整到天）
-  - `original_req`：下游最后一次仍可能选到漏洞版本的依赖约束（例如 `^0.7`）
-  - `fixed_req`：下游第一次不再包含任何漏洞版本、且引入修复版本的依赖约束（例如 `^0.9`）
-
-- 汇总 `rustsec_rqx2_strict_summary.csv`：按同一个漏洞（同一个 `rustsec_id/cve_id/target_crate`）汇总统计
-  - `downstream_fixed_cnt`：该漏洞下，发生严格修复的下游事件数（对应明细行数）
-  - `lag_days_min / p50 / avg / max`：对该漏洞下所有 `lag_days` 的统计
+- `lag_days`：用 crates.io 的 `created_at` 做时间戳，按天取整：`(downstream_time - fix_time).num_days()`。
+- `p50`：第 50 百分位数，也就是中位数。含义是：至少 50% 的样本 `lag_days <= p50`，且至少 50% 的样本 `lag_days >= p50`。
+- `p50 = 0.0000 days`：表示至少一半事件的滞后小于 24 小时（按天取整后为 0），并不代表“没有修复/没有传播”。
+- 负数 `lag_days`：属于“时间穿越”的无效事件（下游发布时间早于匹配到的上游修复发布时间）。程序会在 strict lag 计算阶段过滤这类记录并输出告警计数，避免污染统计。
 
 #### 按漏洞等级（severity）看 lag_days，并输出 SVG
 
@@ -140,24 +168,9 @@ cargo run --release --bin rqx2_rustsec_batch
 3.  若公告未显式给出 `advisory.severity`，则尝试从 `advisory.cvss`（CVSS v3.0/3.1 向量）计算 base score 并映射为 `LOW/MEDIUM/HIGH/CRITICAL`；若为信息型公告（存在 `advisory.informational`）则记为 `INFO`；否则为 `UNKNOWN`。
 4.  画图时按 `severity` 对明细 CSV 的 `lag_days` 分组，每一组单独画一张直方图（SVG）。
 
-severity 计算规则（用于写入 CSV 的 `severity` 列）：
+运行时进度输出：
 
-- 优先级：
-  1. 若存在 `advisory.severity`：直接使用并标准化为 `INFO/LOW/MEDIUM/HIGH/CRITICAL`
-  2. 否则若存在 `advisory.cvss` 且为 `CVSS:3.0/...` 或 `CVSS:3.1/...`：从向量计算 CVSS base score，再映射等级
-  3. 否则若存在 `advisory.informational`：记为 `INFO`
-  4. 否则：记为 `UNKNOWN`
-
-- CVSS base score 映射（v3.x 常见区间）：
-  - `0.0` → `INFO`
-  - `[0.1, 4.0)` → `LOW`
-  - `[4.0, 7.0)` → `MEDIUM`
-  - `[7.0, 9.0)` → `HIGH`
-  - `[9.0, 10.0]` → `CRITICAL`
-
-为什么还会有 `UNKNOWN`：
-
-- RustSec 并不强制每条公告都填 `severity` 或 `cvss`；当公告既没有显式 `severity`，也没有可解析的 CVSS v3 向量（且不是 informational），我们就无法“可靠推导”等级，只能标为 `UNKNOWN`，避免主观猜测导致统计失真。
+- 程序会每隔约 5 秒在终端输出一行 `progress: ...`；在进行传播 BFS 时也会输出 `propagation: ...`（包含队列长度与已扩散事件数），用于判断是否仍在运行。
 
 命令约定（建议显式指定输出名，避免覆盖/混淆）：
 
@@ -212,52 +225,82 @@ python3 plot_lag_distribution.py --by-severity --output-dir lag_days_by_severity
 - `lag_days_by_severity_svgs/lag_days_hist_INFO.svg`
 - `lag_days_by_severity_svgs/lag_days_hist_UNKNOWN.svg`（公告未提供或无法识别 severity 时）
 
-#### 如何确认结果正确（建议核对）
+#### 补丁传导阻力（无限 BFS，输出统计 + 图）
 
-1) 明细总行数 = 按 severity 分组求和（同一份 CSV、同一过滤条件下必须相等）：
+目标：衡量补丁从上游往下游“每多走一层”平均会额外耗时多少天。
+
+定义（按 hop 分层）：
+
+- hop=1：漏洞上游 crate（A）发布修复版本后，直接依赖它的下游 crate（B）首次发布严格修复版本的延迟（也就是明细 CSV 的 `lag_days`）。
+- hop=2：把 hop=1 中 B 的“修复版本”当作补丁载体；统计依赖 B 的下游 crate（C）发生一次“显式修复事件”的延迟：在载体修复时间之前曾经过敏（依赖最小允许版本低于载体修复版本），并在之后首次把依赖最小允许版本抬到不低于载体修复版本（等价于排毒 + 引入）。
+- hop=3、hop=4 ...：同理继续向下传播。
+
+逐层 lag_days 的计算思路（时间尊重的事件链）：
+
+1.  先为每个 RustSec 公告生成 hop=1 的“严格修复事件”集合（这一步和 strict lag 明细 CSV 是同一批事件）。
+2.  将 hop=1 事件中的每个下游 crate（B）视为一个补丁载体：它携带 `(fix_version, fix_time)`，表示“B 在 fix_time 发布了一个版本 fix_version，被当作补丁向下游传播”。
+3.  对每个补丁载体 crate，查询它的所有下游依赖 crate 的依赖历史（按 `created_at` 排序），在每个下游 crate（C）内部寻找一次“显式修复事件”，并把该事件的 `lag_days` 记为本 hop 的一条样本。
+4.  对 hop=2 产生的新载体继续做 BFS 扩展到 hop=3、hop=4...，直到队列耗尽（或 `--propagation-max-hops` 限制生效）。
+
+事件判定（hop>=2 的“显式修复事件”）：
+
+- 依赖关系的观察对象是 crates.io dump 中的 `dep_req`（版本约束字符串），并以 `created_at` 作为时间戳。
+- 对 `dep_req` 抽取“最小允许版本” `min_allowed(dep_req)`（近似下界），用于表达“是否发生了把下界抬过修复点”的显式升级。
+- 对于给定载体 `(fix_version, fix_time)`，在某个下游 crate（C）的发布序列里：
+  - **状态 A（Ever Affected）**：在 `fix_time` 之前，存在最后一个版本的 `min_allowed(dep_req) < fix_version`，表示该下游在修复点之前仍允许落在修复点之前的版本段里。
+  - **状态 B（Explicit Fix）**：在 `fix_time` 之后，找到第一个版本使得 `min_allowed(dep_req) >= fix_version`，表示该下游显式把依赖下界抬到修复点及之后。
+- 若能找到状态 B，则该下游的传播 `lag_days = (状态B版本的 created_at - fix_time).num_days()`，并把它作为一条 AdoptionEvent 计入当前 hop。
+
+BFS 的“去重/避免环路”口径：
+
+- BFS 过程中对每个 crate 维护 best_seen：只保留“更小 hop”或“同 hop 更早 fix_time”的到达状态；只有在到达状态严格变好时才会再次入队扩展。
+- 因此这里的 hop 最大值代表“在该去重口径下观测到的最深事件链层数”，不会枚举同一 crate 的所有不同路径组合。
+
+统计输出口径说明：
+
+- `rustsec_rqx2_propagation_summary.txt` 第一行的 `hops=1..K`：K 是本次运行处理到的所有公告中，实际产生过事件的最大 hop。
+- `min/p50/avg/max` 统计的是每个 hop 内所有事件的 `lag_days` 分布；`p50` 为中位数。
+- `p50 = 0.0000 days` 表示至少一半事件的滞后小于 24 小时（按天取整后为 0），不等于“未修复”。
+
+与“静态依赖图深度”的关系：
+
+- 本分析的 hop 是基于“修复/采用事件”的时间尊重传播链；静态反向依赖图的 BFS 深度是“存在依赖边”的最短路深度。
+- 静态图通常是跨时间的边集合并集，可能包含“时间穿越的捷径”，因此两者的最大深度不要求相等。
+
+运行命令（一次输出 CSV + 传播统计 txt + 传播直方图 SVG）：
 
 ```bash
-python3 - <<'PY'
-import csv
-from collections import Counter
-p='rustsec_rqx2_strict_lags.csv'
-ctr=Counter(); total=0
-with open(p,newline='') as f:
-    for row in csv.DictReader(f):
-        v=row.get('lag_days','').strip()
-        if not v:
-            continue
-        total += 1
-        sev=(row.get('severity') or 'UNKNOWN').strip().upper() or 'UNKNOWN'
-        ctr[sev] += 1
-print("total_lag_rows", total)
-print("sum_by_severity", sum(ctr.values()))
-print(dict(ctr))
-PY
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --propagation \
+  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir rustsec_rqx2_propagation_svgs
 ```
 
-2) 随机抽一行，手动验证 `lag_days = downstream_time - matched_fix_time` 的“天数差”是否一致：
+输出文件：
+
+- `rustsec_rqx2_propagation_summary.txt`：按 hop 与全量 all hops 的统计（count / min / p50 / avg / max）。
+- `rustsec_rqx2_propagation_svgs/propagation_lag_hist_all.svg`：所有 hop 合并后的 `lag_days` 分布图。
+- `rustsec_rqx2_propagation_svgs/propagation_lag_hist_hop_<K>.svg`：每一层 hop 的 `lag_days` 分布图。
+
+运行时进度输出：
+
+- 程序会每隔约 5 秒在终端输出一行 `progress: ...`；在进行传播 BFS 时也会输出 `propagation: ...`（包含队列长度与已扩散事件数），用于判断是否仍在运行。
+
+性能建议（不减少计算内容）：
+
+- 增大数据库连接池：通过环境变量 `PG_POOL_MAX`（例如 30 或 50）。
+- 增大下游缓存：通过参数 `--downstream-cache-crates`（例如 200 或 500），可以显著减少重复查询。
+
+示例：
 
 ```bash
-python3 - <<'PY'
-import csv
-from datetime import datetime, timezone
+export PG_POOL_MAX=50
 
-def parse_ts(s: str) -> datetime:
-    s = s.replace(" UTC", "").strip()
-    return datetime.fromisoformat(s).replace(tzinfo=timezone.utc)
-
-p='rustsec_rqx2_strict_lags.csv'
-with open(p,newline='') as f:
-    r=csv.DictReader(f)
-    row=next(r)
-fix=parse_ts(row['fix_time'])
-down=parse_ts(row['downstream_time'])
-calc=(down-fix).days
-print("example", row['rustsec_id'], row['downstream_crate'], row['downstream_version'])
-print("csv_lag_days", row['lag_days'])
-print("recomputed_days", calc)
-PY
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --downstream-cache-crates 500 \
+  --propagation \
+  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir rustsec_rqx2_propagation_svgs
 ```
 
 ## 核心实现逻辑与流程

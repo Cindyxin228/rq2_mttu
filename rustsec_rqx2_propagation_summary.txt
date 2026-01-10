@@ -1,0 +1,121 @@
+patch propagation analysis (hops=1..16)
+
+all hops
+  count = 1055597
+  min   = 0 days
+  p50   = 3.0000 days
+  avg   = 94.8803 days
+  max   = 3181 days
+
+hop 1
+  count = 30277
+  min   = 0 days
+  p50   = 312.0000 days
+  avg   = 518.3374 days
+  max   = 3181 days
+
+hop 2
+  count = 103658
+  min   = 0 days
+  p50   = 49.0000 days
+  avg   = 160.3797 days
+  max   = 2361 days
+
+hop 3
+  count = 169958
+  min   = 0 days
+  p50   = 10.0000 days
+  avg   = 115.6884 days
+  max   = 2284 days
+
+hop 4
+  count = 184270
+  min   = 0 days
+  p50   = 6.0000 days
+  avg   = 91.5335 days
+  max   = 2231 days
+
+hop 5
+  count = 191771
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 66.9201 days
+  max   = 2073 days
+
+hop 6
+  count = 153384
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 52.4375 days
+  max   = 2059 days
+
+hop 7
+  count = 108660
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 48.7053 days
+  max   = 1787 days
+
+hop 8
+  count = 67598
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 50.6181 days
+  max   = 1904 days
+
+hop 9
+  count = 27607
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 41.6522 days
+  max   = 1797 days
+
+hop 10
+  count = 10553
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 34.1398 days
+  max   = 1508 days
+
+hop 11
+  count = 4597
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 24.7468 days
+  max   = 1570 days
+
+hop 12
+  count = 2211
+  min   = 0 days
+  p50   = 4.0000 days
+  avg   = 32.5364 days
+  max   = 699 days
+
+hop 13
+  count = 920
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 22.6163 days
+  max   = 741 days
+
+hop 14
+  count = 92
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 8.4457 days
+  max   = 168 days
+
+hop 15
+  count = 26
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 3.6154 days
+  max   = 47 days
+
+hop 16
+  count = 15
+  min   = 0 days
+  p50   = 0.0000 days
+  avg   = 0.0000 days
+  max   = 0 days
+

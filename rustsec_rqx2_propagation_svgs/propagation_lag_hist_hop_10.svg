@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect x="0" y="0" width="960" height="540" fill="white"/>
+<line x1="70.00" y1="480.00" x2="940.00" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="484.00" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">0</text>
+<line x1="70.00" y1="374.53" x2="940.00" y2="374.53" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="378.53" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">2000</text>
+<line x1="70.00" y1="269.06" x2="940.00" y2="269.06" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="273.06" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">4000</text>
+<line x1="70.00" y1="163.60" x2="940.00" y2="163.60" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="167.60" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">6000</text>
+<line x1="70.00" y1="58.13" x2="940.00" y2="58.13" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="62.13" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">8000</text>
+<line x1="70.00" y1="-47.34" x2="940.00" y2="-47.34" stroke="#E6E6E6" stroke-width="1"/>
+<text x="60.00" y="-43.34" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">10000</text>
+<line x1="70.00" y1="20.00" x2="70.00" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="70.00" y="500.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">0</text>
+<line x1="358.46" y1="20.00" x2="358.46" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="358.46" y="500.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">500</text>
+<line x1="646.92" y1="20.00" x2="646.92" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="646.92" y="500.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">1000</text>
+<line x1="935.38" y1="20.00" x2="935.38" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="935.38" y="500.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">1500</text>
+<line x1="1223.85" y1="20.00" x2="1223.85" y2="480.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="1223.85" y="500.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">2000</text>
+<line x1="70.00" y1="480.00" x2="940.00" y2="480.00" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.00" y1="20.00" x2="70.00" y2="480.00" stroke="#222222" stroke-width="1.5"/>
+<rect x="70.00" y="20.00" width="13.50" height="460.00" fill="#4C78A8"/>
+<rect x="84.50" y="462.12" width="13.50" height="17.88" fill="#4C78A8"/>
+<rect x="99.00" y="467.98" width="13.50" height="12.02" fill="#4C78A8"/>
+<rect x="113.50" y="467.77" width="13.50" height="12.23" fill="#4C78A8"/>
+<rect x="128.00" y="468.35" width="13.50" height="11.65" fill="#4C78A8"/>
+<rect x="142.50" y="472.78" width="13.50" height="7.22" fill="#4C78A8"/>
+<rect x="157.00" y="475.68" width="13.50" height="4.32" fill="#4C78A8"/>
+<rect x="171.50" y="473.99" width="13.50" height="6.01" fill="#4C78A8"/>
+<rect x="186.00" y="476.52" width="13.50" height="3.48" fill="#4C78A8"/>
+<rect x="200.50" y="477.63" width="13.50" height="2.37" fill="#4C78A8"/>
+<rect x="215.00" y="477.63" width="13.50" height="2.37" fill="#4C78A8"/>
+<rect x="229.50" y="478.52" width="13.50" height="1.48" fill="#4C78A8"/>
+<rect x="244.00" y="478.47" width="13.50" height="1.53" fill="#4C78A8"/>
+<rect x="258.50" y="478.26" width="13.50" height="1.74" fill="#4C78A8"/>
+<rect x="273.00" y="478.37" width="13.50" height="1.63" fill="#4C78A8"/>
+<rect x="287.50" y="479.26" width="13.50" height="0.74" fill="#4C78A8"/>
+<rect x="302.00" y="478.95" width="13.50" height="1.05" fill="#4C78A8"/>
+<rect x="316.50" y="479.58" width="13.50" height="0.42" fill="#4C78A8"/>
+<rect x="331.00" y="479.47" width="13.50" height="0.53" fill="#4C78A8"/>
+<rect x="345.50" y="479.00" width="13.50" height="1.00" fill="#4C78A8"/>
+<rect x="360.00" y="479.74" width="13.50" height="0.26" fill="#4C78A8"/>
+<rect x="374.50" y="479.79" width="13.50" height="0.21" fill="#4C78A8"/>
+<rect x="389.00" y="479.42" width="13.50" height="0.58" fill="#4C78A8"/>
+<rect x="403.50" y="479.21" width="13.50" height="0.79" fill="#4C78A8"/>
+<rect x="418.00" y="479.84" width="13.50" height="0.16" fill="#4C78A8"/>
+<rect x="432.50" y="479.68" width="13.50" height="0.32" fill="#4C78A8"/>
+<rect x="447.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="461.50" y="479.74" width="13.50" height="0.26" fill="#4C78A8"/>
+<rect x="476.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="490.50" y="479.79" width="13.50" height="0.21" fill="#4C78A8"/>
+<rect x="505.00" y="479.63" width="13.50" height="0.37" fill="#4C78A8"/>
+<rect x="519.50" y="479.63" width="13.50" height="0.37" fill="#4C78A8"/>
+<rect x="534.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="548.50" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="563.00" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="577.50" y="479.37" width="13.50" height="0.63" fill="#4C78A8"/>
+<rect x="592.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="606.50" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="621.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="635.50" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="650.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="664.50" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="679.00" y="480.00" width="13.50" height="0.00" fill="#4C78A8"/>
+<rect x="693.50" y="479.79" width="13.50" height="0.21" fill="#4C78A8"/>
+<rect x="708.00" y="479.84" width="13.50" height="0.16" fill="#4C78A8"/>
+<rect x="722.50" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="737.00" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="751.50" y="479.79" width="13.50" height="0.21" fill="#4C78A8"/>
+<rect x="766.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="780.50" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="795.00" y="479.89" width="13.50" height="0.11" fill="#4C78A8"/>
+<rect x="809.50" y="480.00" width="13.50" height="0.00" fill="#4C78A8"/>
+<rect x="824.00" y="479.84" width="13.50" height="0.16" fill="#4C78A8"/>
+<rect x="838.50" y="480.00" width="13.50" height="0.00" fill="#4C78A8"/>
+<rect x="853.00" y="479.84" width="13.50" height="0.16" fill="#4C78A8"/>
+<rect x="867.50" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="882.00" y="480.00" width="13.50" height="0.00" fill="#4C78A8"/>
+<rect x="896.50" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="911.00" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<rect x="925.50" y="479.95" width="13.50" height="0.05" fill="#4C78A8"/>
+<text x="480.00" y="28" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#222222">propagation lag_days histogram (hop=10, n=10553)</text>
+<text x="480.00" y="48" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#222222">bins=60, x_max=1508</text>
+<text x="480.00" y="520.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#222222">lag_days</text>
+<text x="18" y="270.00" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#222222" transform="rotate(-90 18 270.00)">count</text>
+</svg>

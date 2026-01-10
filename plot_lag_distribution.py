@@ -58,7 +58,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--filter",
         default="",
-        help="Regex filter applied to rustsec_id/cve_id/severity/target_crate/downstream_crate (optional)",
+        help="Regex filter applied to rustsec_id/cve_id/target_crate/downstream_crate (optional)",
     )
     return p.parse_args()
 
@@ -89,7 +89,6 @@ def read_lags_filtered(path: Path, pattern: str) -> list[int]:
                 [
                     row.get("rustsec_id", ""),
                     row.get("cve_id", ""),
-                    row.get("severity", ""),
                     row.get("target_crate", ""),
                     row.get("downstream_crate", ""),
                 ]
