@@ -1,0 +1,1283 @@
+connecting to postgres...
+downloading rustsec advisory-db...
+rustsec advisories loaded: 880
+progress: 1/880 advisories, written_rows=0, skipped=0, elapsed=0.0s
+propagation: adv=2/880 pkg=hyper queue=144 seen=836 events=951 elapsed=8.1s
+progress: 3/880 advisories, written_rows=434, skipped=0, elapsed=9.4s
+propagation fallback: rustsec_id=RUSTSEC-2016-0003 cve_id=CVE-2016-10933 pkg=portaudio reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2024-10-13 16:33:21.791196 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2016-0004 cve_id=RUSTSEC-2016-0004 pkg=libusb reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2016-09-10 18:59:30.800141 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.3.0
+propagation fallback: rustsec_id=RUSTSEC-2016-0005 cve_id=RUSTSEC-2016-0005 pkg=rust-crypto reason=no_patched_using_latest_version latest_version=0.2.36 latest_time=2016-05-20 05:40:27.059177 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.2.36
+propagation fallback: rustsec_id=RUSTSEC-2016-0006 cve_id=RUSTSEC-2016-0006 pkg=cassandra reason=no_patched_using_latest_version latest_version=0.8.1 latest_time=2016-12-13 01:55:19.598297 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.8.1
+propagation: adv=8/880 pkg=hyper queue=233 seen=816 events=448 elapsed=15.7s
+progress: 9/880 advisories, written_rows=1196, skipped=0, elapsed=18.9s
+propagation: adv=9/880 pkg=security-framework queue=277 seen=872 events=1109 elapsed=23.9s
+progress: 10/880 advisories, written_rows=1198, skipped=0, elapsed=26.2s
+progress: 11/880 advisories, written_rows=1280, skipped=0, elapsed=31.3s
+propagation fallback: rustsec_id=RUSTSEC-2017-0007 cve_id=RUSTSEC-2017-0007 pkg=lz4-compress reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2017-05-04 21:11:38.849734 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2017-0008 cve_id=RUSTSEC-2017-0008 pkg=serial reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2017-07-02 01:26:07.970417 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=15/880 pkg=untrusted queue=344 seen=908 events=1348 elapsed=36.5s
+propagation: adv=15/880 pkg=untrusted queue=128 seen=1260 events=1859 elapsed=41.5s
+progress: 16/880 advisories, written_rows=1312, skipped=0, elapsed=42.8s
+propagation: adv=17/880 pkg=smallvec queue=882 seen=1177 events=1308 elapsed=49.7s
+propagation: adv=17/880 pkg=smallvec queue=1267 seen=1819 events=2200 elapsed=54.7s
+propagation: adv=17/880 pkg=smallvec queue=1794 seen=2568 events=3286 elapsed=59.7s
+propagation: adv=17/880 pkg=smallvec queue=2158 seen=3217 events=4600 elapsed=64.7s
+propagation: adv=17/880 pkg=smallvec queue=2140 seen=3654 events=5408 elapsed=69.8s
+propagation: adv=17/880 pkg=smallvec queue=2164 seen=4001 events=6257 elapsed=74.9s
+propagation: adv=17/880 pkg=smallvec queue=2384 seen=4646 events=7636 elapsed=79.9s
+propagation: adv=17/880 pkg=smallvec queue=2292 seen=5019 events=8474 elapsed=84.9s
+propagation: adv=17/880 pkg=smallvec queue=2116 seen=5345 events=9338 elapsed=89.9s
+propagation: adv=17/880 pkg=smallvec queue=2048 seen=5768 events=10243 elapsed=94.9s
+propagation: adv=17/880 pkg=smallvec queue=1616 seen=5899 events=11047 elapsed=99.9s
+propagation: adv=17/880 pkg=smallvec queue=2020 seen=6766 events=13143 elapsed=104.9s
+propagation: adv=17/880 pkg=smallvec queue=1853 seen=7199 events=14237 elapsed=109.9s
+propagation: adv=17/880 pkg=smallvec queue=2263 seen=8132 events=16435 elapsed=114.9s
+propagation: adv=17/880 pkg=smallvec queue=1746 seen=8228 events=18014 elapsed=119.9s
+propagation: adv=17/880 pkg=smallvec queue=1365 seen=8479 events=18798 elapsed=124.9s
+propagation: adv=17/880 pkg=smallvec queue=1016 seen=8783 events=19733 elapsed=129.9s
+propagation: adv=17/880 pkg=smallvec queue=482 seen=8922 events=20495 elapsed=134.9s
+progress: 18/880 advisories, written_rows=1460, skipped=0, elapsed=139.9s
+propagation: adv=19/880 pkg=serde_yaml queue=18 seen=596 events=779 elapsed=145.5s
+progress: 20/880 advisories, written_rows=1734, skipped=0, elapsed=145.7s
+propagation: adv=20/880 pkg=yaml-rust queue=414 seen=774 events=802 elapsed=150.7s
+propagation: adv=20/880 pkg=yaml-rust queue=885 seen=1593 events=1830 elapsed=155.8s
+propagation: adv=20/880 pkg=yaml-rust queue=1579 seen=2781 events=3525 elapsed=160.8s
+propagation: adv=20/880 pkg=yaml-rust queue=2525 seen=4093 events=5294 elapsed=165.8s
+propagation: adv=20/880 pkg=yaml-rust queue=2377 seen=4566 events=6166 elapsed=170.8s
+propagation: adv=20/880 pkg=yaml-rust queue=2234 seen=4944 events=7139 elapsed=175.8s
+propagation: adv=20/880 pkg=yaml-rust queue=1899 seen=5214 events=7737 elapsed=180.8s
+propagation: adv=20/880 pkg=yaml-rust queue=1637 seen=5547 events=8693 elapsed=185.8s
+propagation: adv=20/880 pkg=yaml-rust queue=1319 seen=5839 events=9603 elapsed=190.8s
+propagation: adv=20/880 pkg=yaml-rust queue=933 seen=6044 events=10270 elapsed=195.8s
+propagation: adv=20/880 pkg=yaml-rust queue=938 seen=6603 events=11762 elapsed=200.9s
+propagation: adv=20/880 pkg=yaml-rust queue=750 seen=6985 events=13771 elapsed=205.9s
+propagation: adv=20/880 pkg=yaml-rust queue=238 seen=7102 events=15490 elapsed=210.9s
+progress: 21/880 advisories, written_rows=1762, skipped=0, elapsed=214.1s
+propagation: adv=24/880 pkg=openssl queue=757 seen=1254 events=1375 elapsed=221.1s
+propagation: adv=24/880 pkg=openssl queue=338 seen=1404 events=1678 elapsed=226.1s
+propagation: adv=24/880 pkg=openssl queue=49 seen=1592 events=2252 elapsed=231.1s
+progress: 25/880 advisories, written_rows=1894, skipped=0, elapsed=231.9s
+propagation fallback: rustsec_id=RUSTSEC-2018-0014 cve_id=RUSTSEC-2018-0014 pkg=chan reason=no_patched_using_latest_version latest_version=0.1.23 latest_time=2018-08-01 00:23:38.154453 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.1.23
+propagation fallback: rustsec_id=RUSTSEC-2018-0015 cve_id=RUSTSEC-2018-0015 pkg=term reason=no_patched_using_latest_version latest_version=1.2.1 latest_time=2025-12-06 16:40:14.525516 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.6.1
+propagation fallback: rustsec_id=RUSTSEC-2018-0016 cve_id=RUSTSEC-2018-0016 pkg=quickersort reason=no_patched_using_latest_version latest_version=3.0.1 latest_time=2018-01-30 18:42:53.191635 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 3.0.1
+propagation fallback: rustsec_id=RUSTSEC-2018-0017 cve_id=RUSTSEC-2018-0017 pkg=tempdir reason=no_patched_using_latest_version latest_version=0.3.7 latest_time=2018-03-21 07:46:03.078845 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=32/880 pkg=smallvec queue=352 seen=702 events=855 elapsed=237.5s
+propagation: adv=32/880 pkg=smallvec queue=1141 seen=1715 events=2157 elapsed=242.5s
+propagation: adv=32/880 pkg=smallvec queue=1265 seen=2159 events=2855 elapsed=247.5s
+propagation: adv=32/880 pkg=smallvec queue=1703 seen=2813 events=3981 elapsed=252.5s
+propagation: adv=32/880 pkg=smallvec queue=2091 seen=3561 events=5282 elapsed=258.0s
+propagation: adv=32/880 pkg=smallvec queue=2018 seen=3818 events=5884 elapsed=263.0s
+propagation: adv=32/880 pkg=smallvec queue=1743 seen=4010 events=6605 elapsed=268.0s
+propagation: adv=32/880 pkg=smallvec queue=2213 seen=4896 events=8382 elapsed=273.0s
+propagation: adv=32/880 pkg=smallvec queue=1880 seen=5158 events=8887 elapsed=278.0s
+propagation: adv=32/880 pkg=smallvec queue=1924 seen=5682 events=9878 elapsed=283.0s
+propagation: adv=32/880 pkg=smallvec queue=2388 seen=6667 events=11811 elapsed=288.2s
+propagation: adv=32/880 pkg=smallvec queue=1935 seen=6771 events=12542 elapsed=293.2s
+propagation: adv=32/880 pkg=smallvec queue=1746 seen=7061 events=13750 elapsed=298.2s
+propagation: adv=32/880 pkg=smallvec queue=1983 seen=7849 events=15709 elapsed=303.3s
+propagation: adv=32/880 pkg=smallvec queue=1552 seen=8035 events=17215 elapsed=308.3s
+propagation: adv=32/880 pkg=smallvec queue=1202 seen=8301 events=18064 elapsed=313.3s
+propagation: adv=32/880 pkg=smallvec queue=839 seen=8574 events=18917 elapsed=318.3s
+propagation: adv=32/880 pkg=smallvec queue=358 seen=8747 events=19691 elapsed=323.3s
+progress: 33/880 advisories, written_rows=2040, skipped=0, elapsed=327.2s
+propagation fallback: rustsec_id=RUSTSEC-2019-0005 cve_id=CVE-2019-15546 pkg=pancurses reason=no_patched_using_latest_version latest_version=0.17.0 latest_time=2021-09-29 17:40:08.753881 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2019-0006 cve_id=CVE-2019-15547 pkg=ncurses reason=no_patched_using_latest_version latest_version=6.0.1 latest_time=2024-07-12 17:40:24.069214 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 44/880 advisories, written_rows=2272, skipped=0, elapsed=332.4s
+propagation: adv=45/880 pkg=smallvec queue=876 seen=1208 events=1372 elapsed=339.2s
+propagation: adv=45/880 pkg=smallvec queue=1284 seen=1836 events=2253 elapsed=344.2s
+propagation: adv=45/880 pkg=smallvec queue=1561 seen=2452 events=3330 elapsed=349.2s
+propagation: adv=45/880 pkg=smallvec queue=2105 seen=3196 events=4599 elapsed=354.2s
+propagation: adv=45/880 pkg=smallvec queue=2101 seen=3621 events=5379 elapsed=359.2s
+propagation: adv=45/880 pkg=smallvec queue=2122 seen=3941 events=6118 elapsed=364.2s
+propagation: adv=45/880 pkg=smallvec queue=2026 seen=4333 events=7149 elapsed=369.2s
+propagation: adv=45/880 pkg=smallvec queue=2233 seen=5011 events=8653 elapsed=374.2s
+propagation: adv=45/880 pkg=smallvec queue=1903 seen=5262 events=9106 elapsed=379.3s
+propagation: adv=45/880 pkg=smallvec queue=1944 seen=5775 events=10133 elapsed=384.3s
+propagation: adv=45/880 pkg=smallvec queue=1882 seen=6201 events=10968 elapsed=389.3s
+propagation: adv=45/880 pkg=smallvec queue=1380 seen=6275 events=11691 elapsed=394.3s
+propagation: adv=45/880 pkg=smallvec queue=1129 seen=6528 events=13241 elapsed=399.3s
+propagation: adv=45/880 pkg=smallvec queue=1608 seen=7506 events=15391 elapsed=404.3s
+propagation: adv=45/880 pkg=smallvec queue=1230 seen=7728 events=16079 elapsed=409.3s
+propagation: adv=45/880 pkg=smallvec queue=658 seen=7790 events=16554 elapsed=414.3s
+propagation: adv=45/880 pkg=smallvec queue=370 seen=8169 events=17835 elapsed=419.3s
+progress: 46/880 advisories, written_rows=2397, skipped=0, elapsed=422.8s
+propagation: adv=47/880 pkg=memoffset queue=643 seen=972 events=1115 elapsed=429.1s
+propagation: adv=47/880 pkg=memoffset queue=2692 seen=3157 events=3824 elapsed=434.6s
+propagation: adv=47/880 pkg=memoffset queue=3724 seen=4456 events=5948 elapsed=439.6s
+propagation: adv=47/880 pkg=memoffset queue=3797 seen=5000 events=7069 elapsed=444.6s
+propagation: adv=47/880 pkg=memoffset queue=3642 seen=5376 events=7936 elapsed=449.6s
+propagation: adv=47/880 pkg=memoffset queue=4252 seen=6470 events=9536 elapsed=454.6s
+propagation: adv=47/880 pkg=memoffset queue=4224 seen=6934 events=10638 elapsed=459.6s
+propagation: adv=47/880 pkg=memoffset queue=4930 seen=8041 events=12879 elapsed=465.0s
+propagation: adv=47/880 pkg=memoffset queue=5721 seen=9148 events=15052 elapsed=470.1s
+propagation: adv=47/880 pkg=memoffset queue=5671 seen=9633 events=16160 elapsed=475.1s
+propagation: adv=47/880 pkg=memoffset queue=5275 seen=9847 events=16919 elapsed=480.1s
+propagation: adv=47/880 pkg=memoffset queue=5169 seen=10291 events=18336 elapsed=485.1s
+propagation: adv=47/880 pkg=memoffset queue=4785 seen=10481 events=19063 elapsed=490.1s
+propagation: adv=47/880 pkg=memoffset queue=4307 seen=10612 events=20627 elapsed=495.1s
+propagation: adv=47/880 pkg=memoffset queue=3907 seen=10840 events=21497 elapsed=500.1s
+propagation: adv=47/880 pkg=memoffset queue=3825 seen=11366 events=22430 elapsed=505.1s
+propagation: adv=47/880 pkg=memoffset queue=3742 seen=11728 events=23690 elapsed=510.1s
+propagation: adv=47/880 pkg=memoffset queue=3194 seen=11778 events=25479 elapsed=515.3s
+propagation: adv=47/880 pkg=memoffset queue=2900 seen=11973 events=26437 elapsed=520.3s
+propagation: adv=47/880 pkg=memoffset queue=2736 seen=12326 events=29494 elapsed=525.3s
+propagation: adv=47/880 pkg=memoffset queue=2450 seen=12682 events=30590 elapsed=530.3s
+propagation: adv=47/880 pkg=memoffset queue=1914 seen=12829 events=31306 elapsed=535.3s
+propagation: adv=47/880 pkg=memoffset queue=1462 seen=12978 events=32275 elapsed=540.3s
+propagation: adv=47/880 pkg=memoffset queue=1698 seen=13657 events=34421 elapsed=545.3s
+propagation: adv=47/880 pkg=memoffset queue=1132 seen=13701 events=35625 elapsed=550.3s
+propagation: adv=47/880 pkg=memoffset queue=668 seen=13881 events=36612 elapsed=555.3s
+propagation: adv=47/880 pkg=memoffset queue=167 seen=14019 events=37196 elapsed=560.3s
+progress: 48/880 advisories, written_rows=2430, skipped=0, elapsed=562.1s
+propagation: adv=48/880 pkg=smallvec queue=877 seen=1208 events=1372 elapsed=568.5s
+propagation: adv=48/880 pkg=smallvec queue=1278 seen=1844 events=2264 elapsed=573.5s
+propagation: adv=48/880 pkg=smallvec queue=1772 seen=2647 events=3469 elapsed=578.5s
+propagation: adv=48/880 pkg=smallvec queue=2112 seen=3217 events=4638 elapsed=583.5s
+propagation: adv=48/880 pkg=smallvec queue=2082 seen=3630 events=5420 elapsed=588.7s
+propagation: adv=48/880 pkg=smallvec queue=2065 seen=3970 events=6166 elapsed=593.7s
+propagation: adv=48/880 pkg=smallvec queue=1847 seen=4274 events=6897 elapsed=598.7s
+propagation: adv=48/880 pkg=smallvec queue=2109 seen=5012 events=8444 elapsed=603.7s
+propagation: adv=48/880 pkg=smallvec queue=1989 seen=5404 events=9356 elapsed=608.7s
+propagation: adv=48/880 pkg=smallvec queue=1885 seen=5792 events=10237 elapsed=613.8s
+propagation: adv=48/880 pkg=smallvec queue=1780 seen=6180 events=11566 elapsed=618.8s
+propagation: adv=48/880 pkg=smallvec queue=1330 seen=6250 events=12636 elapsed=623.8s
+propagation: adv=48/880 pkg=smallvec queue=1115 seen=6577 events=13481 elapsed=628.8s
+propagation: adv=48/880 pkg=smallvec queue=1611 seen=7565 events=15627 elapsed=633.8s
+propagation: adv=48/880 pkg=smallvec queue=1217 seen=7782 events=16382 elapsed=638.8s
+propagation: adv=48/880 pkg=smallvec queue=571 seen=7812 events=17024 elapsed=643.9s
+propagation: adv=48/880 pkg=smallvec queue=264 seen=8195 events=18021 elapsed=648.9s
+progress: 49/880 advisories, written_rows=2550, skipped=0, elapsed=651.6s
+propagation: adv=49/880 pkg=spin queue=678 seen=1069 events=1389 elapsed=656.7s
+propagation: adv=49/880 pkg=spin queue=652 seen=1522 events=2457 elapsed=661.7s
+propagation: adv=49/880 pkg=spin queue=1117 seen=2408 events=4093 elapsed=666.8s
+propagation: adv=49/880 pkg=spin queue=945 seen=2717 events=4928 elapsed=671.8s
+propagation: adv=49/880 pkg=spin queue=733 seen=3128 events=5540 elapsed=677.1s
+propagation: adv=49/880 pkg=spin queue=399 seen=3393 events=6137 elapsed=682.1s
+propagation: adv=49/880 pkg=spin queue=167 seen=3706 events=6720 elapsed=687.1s
+progress: 50/880 advisories, written_rows=2568, skipped=0, elapsed=689.7s
+propagation: adv=53/880 pkg=once_cell queue=1628 seen=1793 events=2040 elapsed=697.5s
+propagation: adv=53/880 pkg=once_cell queue=1311 seen=2095 events=2691 elapsed=702.5s
+propagation: adv=53/880 pkg=once_cell queue=1079 seen=2291 events=3560 elapsed=707.5s
+propagation: adv=53/880 pkg=once_cell queue=916 seen=2698 events=4422 elapsed=712.5s
+propagation: adv=53/880 pkg=once_cell queue=658 seen=3051 events=5579 elapsed=717.6s
+propagation: adv=53/880 pkg=once_cell queue=887 seen=3779 events=6989 elapsed=722.6s
+propagation: adv=53/880 pkg=once_cell queue=1487 seen=4779 events=8696 elapsed=727.6s
+propagation: adv=53/880 pkg=once_cell queue=1957 seen=5634 events=10707 elapsed=732.6s
+propagation: adv=53/880 pkg=once_cell queue=1572 seen=5872 events=11378 elapsed=737.6s
+propagation: adv=53/880 pkg=once_cell queue=1868 seen=6646 events=13759 elapsed=742.6s
+propagation: adv=53/880 pkg=once_cell queue=1867 seen=7098 events=15339 elapsed=747.6s
+propagation: adv=53/880 pkg=once_cell queue=1706 seen=7457 events=16960 elapsed=752.6s
+propagation: adv=53/880 pkg=once_cell queue=1259 seen=7581 events=19831 elapsed=757.6s
+propagation: adv=53/880 pkg=once_cell queue=725 seen=7702 events=20810 elapsed=762.6s
+propagation: adv=53/880 pkg=once_cell queue=318 seen=7875 events=21938 elapsed=767.6s
+progress: 54/880 advisories, written_rows=2808, skipped=0, elapsed=771.1s
+skip: rustsec_id=RUSTSEC-2019-0031 cve_id=RUSTSEC-2019-0031 pkg=spin reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2019-0032 cve_id=RUSTSEC-2019-0032 pkg=crust reason=no_patched_using_latest_version latest_version=0.32.1 latest_time=2019-06-04 14:33:52.750007 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.32.1
+propagation: adv=69/880 pkg=http queue=1245 seen=1526 events=2423 elapsed=779.6s
+propagation: adv=69/880 pkg=http queue=660 seen=1568 events=2799 elapsed=784.6s
+propagation: adv=69/880 pkg=http queue=515 seen=1999 events=3378 elapsed=789.6s
+propagation: adv=69/880 pkg=http queue=191 seen=2149 events=4036 elapsed=794.7s
+progress: 70/880 advisories, written_rows=3057, skipped=1, elapsed=797.5s
+propagation: adv=70/880 pkg=http queue=1242 seen=1523 events=2419 elapsed=803.2s
+propagation: adv=70/880 pkg=http queue=1015 seen=1871 events=3085 elapsed=808.2s
+propagation: adv=70/880 pkg=http queue=500 seen=1968 events=3306 elapsed=813.2s
+propagation: adv=70/880 pkg=http queue=203 seen=2149 events=4021 elapsed=818.2s
+progress: 71/880 advisories, written_rows=3216, skipped=1, elapsed=821.1s
+propagation: adv=71/880 pkg=rand_core queue=693 seen=951 events=1136 elapsed=826.3s
+propagation: adv=71/880 pkg=rand_core queue=880 seen=1454 events=1835 elapsed=831.3s
+propagation: adv=71/880 pkg=rand_core queue=1082 seen=2025 events=2791 elapsed=836.3s
+propagation: adv=71/880 pkg=rand_core queue=1227 seen=2616 events=3792 elapsed=841.4s
+propagation: adv=71/880 pkg=rand_core queue=1093 seen=2968 events=4822 elapsed=846.4s
+propagation: adv=71/880 pkg=rand_core queue=1205 seen=3389 events=5669 elapsed=851.4s
+propagation: adv=71/880 pkg=rand_core queue=1220 seen=3897 events=6714 elapsed=856.4s
+propagation: adv=71/880 pkg=rand_core queue=982 seen=4173 events=7309 elapsed=861.4s
+propagation: adv=71/880 pkg=rand_core queue=837 seen=4575 events=8235 elapsed=866.5s
+propagation: adv=71/880 pkg=rand_core queue=717 seen=4951 events=8929 elapsed=871.5s
+propagation: adv=71/880 pkg=rand_core queue=929 seen=5686 events=10288 elapsed=876.5s
+propagation: adv=71/880 pkg=rand_core queue=509 seen=5915 events=11004 elapsed=881.5s
+propagation: adv=71/880 pkg=rand_core queue=1137 seen=6665 events=12328 elapsed=886.6s
+propagation: adv=71/880 pkg=rand_core queue=1000 seen=7013 events=13321 elapsed=891.6s
+propagation: adv=71/880 pkg=rand_core queue=1408 seen=7860 events=15329 elapsed=896.6s
+propagation: adv=71/880 pkg=rand_core queue=1204 seen=8143 events=16071 elapsed=901.6s
+propagation: adv=71/880 pkg=rand_core queue=767 seen=8282 events=16539 elapsed=906.6s
+propagation: adv=71/880 pkg=rand_core queue=270 seen=8416 events=17088 elapsed=911.6s
+propagation: adv=71/880 pkg=rand_core queue=258 seen=8960 events=18000 elapsed=916.6s
+progress: 72/880 advisories, written_rows=3257, skipped=1, elapsed=919.2s
+propagation fallback: rustsec_id=RUSTSEC-2019-0036 cve_id=CVE-2019-25010 pkg=failure reason=no_patched_using_latest_version latest_version=0.1.8 latest_time=2020-05-02 18:13:11.746367 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=72/880 pkg=failure queue=108 seen=609 events=3323 elapsed=924.2s
+progress: 73/880 advisories, written_rows=3257, skipped=1, elapsed=925.2s
+propagation fallback: rustsec_id=RUSTSEC-2019-0039 cve_id=RUSTSEC-2019-0039 pkg=typemap reason=no_patched_using_latest_version latest_version=0.3.3 latest_time=2015-06-12 23:38:39.547618 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2019-0040 cve_id=RUSTSEC-2019-0040 pkg=boxfnonce reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2019-02-02 11:08:54.189214 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0003 cve_id=RUSTSEC-2020-0003 pkg=rust_sodium reason=no_patched_using_latest_version latest_version=0.10.2 latest_time=2019-01-28 16:54:02.231713 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.10.2
+propagation fallback: rustsec_id=RUSTSEC-2020-0005 cve_id=CVE-2020-35860 pkg=cbox reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2016-03-12 16:00:56.105160 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=84/880 pkg=hyper queue=813 seen=1199 events=1449 elapsed=935.6s
+propagation: adv=84/880 pkg=hyper queue=309 seen=1291 events=1622 elapsed=940.6s
+progress: 85/880 advisories, written_rows=3673, skipped=1, elapsed=944.4s
+propagation fallback: rustsec_id=RUSTSEC-2020-0010 cve_id=RUSTSEC-2020-0010 pkg=tiberius reason=no_patched_using_latest_version latest_version=0.12.3 latest_time=2024-07-19 10:27:38.305294 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.3.2
+propagation fallback: rustsec_id=RUSTSEC-2020-0011 cve_id=RUSTSEC-2020-0011 pkg=plutonium reason=no_patched_using_latest_version latest_version=0.5.2 latest_time=2020-08-28 15:12:26.825907 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0013 cve_id=RUSTSEC-2020-0013 pkg=fake-static reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2019-07-27 11:28:34.106945 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0015 cve_id=CVE-2020-1967 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=1 patched_sample=>= 111.9 unaffected_sample=< 111.6
+propagation fallback: rustsec_id=RUSTSEC-2020-0016 cve_id=RUSTSEC-2020-0016 pkg=net2 reason=no_patched_using_latest_version latest_version=0.2.39 latest_time=2023-06-14 18:02:31.313490 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0018 cve_id=RUSTSEC-2020-0018 pkg=block-cipher-trait reason=no_patched_using_latest_version latest_version=0.99.0 latest_time=2021-08-25 14:27:00.354249 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=95/880 pkg=tokio-rustls queue=1018 seen=1433 events=1678 elapsed=951.2s
+propagation: adv=95/880 pkg=tokio-rustls queue=686 seen=1643 events=2095 elapsed=956.2s
+propagation: adv=95/880 pkg=tokio-rustls queue=194 seen=1705 events=2473 elapsed=961.2s
+progress: 96/880 advisories, written_rows=3774, skipped=1, elapsed=964.2s
+propagation fallback: rustsec_id=RUSTSEC-2020-0020 cve_id=RUSTSEC-2020-0020 pkg=stb_truetype reason=no_patched_using_latest_version latest_version=0.3.1 latest_time=2019-11-23 13:39:54.159461 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=96/880 pkg=stb_truetype queue=138 seen=547 events=686 elapsed=969.2s
+progress: 97/880 advisories, written_rows=3774, skipped=1, elapsed=973.5s
+propagation fallback: rustsec_id=RUSTSEC-2020-0021 cve_id=CVE-2020-35876 pkg=rio reason=no_patched_using_latest_version latest_version=0.9.4 latest_time=2020-08-21 09:39:56.646854 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0022 cve_id=CVE-2020-35877 pkg=ozone reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2017-09-22 12:01:43.475434 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0023 cve_id=CVE-2020-35879 pkg=rulinalg reason=no_patched_using_latest_version latest_version=0.4.2 latest_time=2017-02-17 20:35:45.526634 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=< 0.4.0
+propagation fallback: rustsec_id=RUSTSEC-2020-0025 cve_id=CVE-2020-35880 pkg=bigint reason=no_patched_using_latest_version latest_version=4.4.3 latest_time=2020-05-07 13:12:46.043155 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=102/880 pkg=linked-hash-map queue=6 seen=478 events=958 elapsed=978.9s
+progress: 103/880 advisories, written_rows=3803, skipped=1, elapsed=979.0s
+propagation fallback: rustsec_id=RUSTSEC-2020-0027 cve_id=CVE-2020-35881 pkg=traitobject reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2025-02-13 09:47:18.773006 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0032 cve_id=CVE-2020-35885 pkg=alpm-rs reason=no_patched_using_latest_version latest_version=0.1.24 latest_time=2019-02-27 22:49:06.925953 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0033 cve_id=CVE-2020-36432 pkg=alg_ds reason=no_patched_using_latest_version latest_version=0.3.2 latest_time=2025-12-03 06:00:24.273401 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0034 cve_id=CVE-2020-35886 pkg=arr reason=no_patched_using_latest_version latest_version=0.6.1 latest_time=2020-09-11 03:41:43.184775 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0035 cve_id=CVE-2020-36433 pkg=chunky reason=no_patched_using_latest_version latest_version=0.3.7 latest_time=2019-07-02 14:18:51.159177 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0036 cve_id=CVE-2019-25010 pkg=failure reason=no_patched_using_latest_version latest_version=0.1.8 latest_time=2020-05-02 18:13:11.746367 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=112/880 pkg=failure queue=124 seen=610 events=3268 elapsed=985.7s
+progress: 113/880 advisories, written_rows=3926, skipped=1, elapsed=986.9s
+propagation fallback: rustsec_id=RUSTSEC-2020-0037 cve_id=CVE-2020-35889 pkg=crayon reason=no_patched_using_latest_version latest_version=0.7.1 latest_time=2018-12-14 02:09:39.437591 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0038 cve_id=CVE-2020-35890 pkg=ordnung reason=no_patched_using_latest_version latest_version=0.0.1 latest_time=2020-04-20 21:25:50.943953 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0043 cve_id=CVE-2020-35896 pkg=ws reason=no_patched_using_latest_version latest_version=0.9.2 latest_time=2022-02-15 17:36:16.932278 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 122/880 advisories, written_rows=3939, skipped=1, elapsed=992.3s
+propagation fallback: rustsec_id=RUSTSEC-2020-0047 cve_id=CVE-2020-35900 pkg=array-queue reason=no_patched_using_latest_version latest_version=0.4.3 latest_time=2025-09-20 04:36:42.546181 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=< 0.3.0
+propagation fallback: rustsec_id=RUSTSEC-2020-0051 cve_id=RUSTSEC-2020-0051 pkg=rustsec reason=no_patched_using_latest_version latest_version=0.31.0 latest_time=2025-11-07 21:03:24.094541 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=>= 0.19.0
+propagation: adv=128/880 pkg=crossbeam-channel queue=385 seen=793 events=864 elapsed=998.0s
+propagation: adv=128/880 pkg=crossbeam-channel queue=952 seen=1780 events=2057 elapsed=1003.0s
+propagation: adv=128/880 pkg=crossbeam-channel queue=2836 seen=3925 events=4875 elapsed=1010.1s
+propagation: adv=128/880 pkg=crossbeam-channel queue=3958 seen=5201 events=7225 elapsed=1015.1s
+propagation: adv=128/880 pkg=crossbeam-channel queue=3795 seen=5574 events=8130 elapsed=1020.1s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5534 seen=7751 events=11481 elapsed=1025.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5581 seen=8295 events=12892 elapsed=1030.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5689 seen=8810 events=14091 elapsed=1035.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5481 seen=9106 events=14964 elapsed=1040.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5421 seen=9541 events=16255 elapsed=1045.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=5156 seen=9786 events=17011 elapsed=1050.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=4855 seen=10002 events=17769 elapsed=1055.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=4556 seen=10234 events=20480 elapsed=1060.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=4016 seen=10296 events=21689 elapsed=1065.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=3957 seen=10810 events=23228 elapsed=1070.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=3461 seen=10960 events=23778 elapsed=1075.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=3319 seen=11317 events=24865 elapsed=1080.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=2993 seen=11513 events=25806 elapsed=1085.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=2894 seen=11892 events=26918 elapsed=1090.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=2523 seen=12097 events=28010 elapsed=1095.6s
+propagation: adv=128/880 pkg=crossbeam-channel queue=2099 seen=12246 events=29624 elapsed=1100.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=1623 seen=12387 events=30497 elapsed=1105.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=1521 seen=12781 events=32386 elapsed=1110.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=1046 seen=12901 events=33130 elapsed=1115.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=1284 seen=13544 events=35174 elapsed=1120.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=935 seen=13795 events=36809 elapsed=1125.7s
+propagation: adv=128/880 pkg=crossbeam-channel queue=366 seen=13855 events=37151 elapsed=1130.7s
+progress: 129/880 advisories, written_rows=4148, skipped=1, elapsed=1134.9s
+skip: rustsec_id=RUSTSEC-2020-0053 cve_id=RUSTSEC-2020-0053 pkg=dirs reason=withdrawn detail=advisory withdrawn
+skip: rustsec_id=RUSTSEC-2020-0054 cve_id=RUSTSEC-2020-0054 pkg=directories reason=withdrawn detail=advisory withdrawn
+skip: rustsec_id=RUSTSEC-2020-0055 cve_id=RUSTSEC-2020-0055 pkg=libpulse-binding reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2020-0056 cve_id=RUSTSEC-2020-0056 pkg=stdweb reason=no_patched_using_latest_version latest_version=0.4.20 latest_time=2019-10-10 19:27:40.574687 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.4.20
+propagation fallback: rustsec_id=RUSTSEC-2020-0057 cve_id=RUSTSEC-2020-0057 pkg=block-cipher reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2020-10-25 19:16:07.095637 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0058 cve_id=RUSTSEC-2020-0058 pkg=stream-cipher reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2020-10-25 19:16:57.273514 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=135/880 pkg=futures-util queue=1527 seen=1698 events=1833 elapsed=1142.4s
+propagation: adv=135/880 pkg=futures-util queue=2270 seen=2891 events=3607 elapsed=1147.4s
+propagation: adv=135/880 pkg=futures-util queue=1920 seen=3208 events=4194 elapsed=1152.4s
+propagation: adv=135/880 pkg=futures-util queue=2482 seen=4258 events=5922 elapsed=1157.5s
+propagation: adv=135/880 pkg=futures-util queue=2112 seen=4478 events=6953 elapsed=1162.5s
+propagation: adv=135/880 pkg=futures-util queue=1727 seen=4643 events=8586 elapsed=1167.5s
+propagation: adv=135/880 pkg=futures-util queue=1441 seen=4885 events=9334 elapsed=1172.5s
+propagation: adv=135/880 pkg=futures-util queue=953 seen=4979 events=10912 elapsed=1177.5s
+propagation: adv=135/880 pkg=futures-util queue=626 seen=5220 events=12221 elapsed=1182.5s
+propagation: adv=135/880 pkg=futures-util queue=280 seen=5471 events=13417 elapsed=1187.5s
+progress: 136/880 advisories, written_rows=4341, skipped=4, elapsed=1191.6s
+propagation: adv=136/880 pkg=futures-task queue=405 seen=715 events=1005 elapsed=1196.6s
+propagation: adv=136/880 pkg=futures-task queue=1250 seen=1872 events=2841 elapsed=1201.6s
+propagation: adv=136/880 pkg=futures-task queue=1034 seen=2208 events=3433 elapsed=1206.6s
+propagation: adv=136/880 pkg=futures-task queue=930 seen=2662 events=4249 elapsed=1211.6s
+propagation: adv=136/880 pkg=futures-task queue=732 seen=3033 events=5297 elapsed=1216.6s
+propagation: adv=136/880 pkg=futures-task queue=581 seen=3467 events=6423 elapsed=1221.7s
+propagation: adv=136/880 pkg=futures-task queue=246 seen=3734 events=7295 elapsed=1226.7s
+propagation: adv=136/880 pkg=futures-task queue=315 seen=4390 events=8706 elapsed=1231.7s
+progress: 137/880 advisories, written_rows=4346, skipped=4, elapsed=1234.4s
+propagation: adv=137/880 pkg=futures-task queue=1030 seen=1311 events=1607 elapsed=1239.7s
+propagation: adv=137/880 pkg=futures-task queue=1020 seen=1822 events=2804 elapsed=1244.7s
+propagation: adv=137/880 pkg=futures-task queue=687 seen=2077 events=3346 elapsed=1249.7s
+propagation: adv=137/880 pkg=futures-task queue=492 seen=2439 events=4345 elapsed=1254.8s
+propagation: adv=137/880 pkg=futures-task queue=216 seen=2695 events=5277 elapsed=1259.8s
+progress: 138/880 advisories, written_rows=4352, skipped=4, elapsed=1262.4s
+propagation: adv=138/880 pkg=futures-util queue=1379 seen=1572 events=1717 elapsed=1267.9s
+propagation: adv=138/880 pkg=futures-util queue=2138 seen=2807 events=3441 elapsed=1272.9s
+propagation: adv=138/880 pkg=futures-util queue=1882 seen=3104 events=4127 elapsed=1277.9s
+propagation: adv=138/880 pkg=futures-util queue=2316 seen=4095 events=5587 elapsed=1282.9s
+propagation: adv=138/880 pkg=futures-util queue=1858 seen=4216 events=6836 elapsed=1287.9s
+propagation: adv=138/880 pkg=futures-util queue=1526 seen=4450 events=8170 elapsed=1293.0s
+propagation: adv=138/880 pkg=futures-util queue=1082 seen=4672 events=9435 elapsed=1298.0s
+propagation: adv=138/880 pkg=futures-util queue=677 seen=4884 events=11154 elapsed=1303.0s
+propagation: adv=138/880 pkg=futures-util queue=359 seen=5173 events=12322 elapsed=1308.0s
+progress: 139/880 advisories, written_rows=4505, skipped=4, elapsed=1312.7s
+propagation fallback: rustsec_id=RUSTSEC-2020-0063 cve_id=RUSTSEC-2020-0063 pkg=safe-nd reason=no_patched_using_latest_version latest_version=0.11.7 latest_time=2020-10-22 14:18:09.607994 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0064 cve_id=RUSTSEC-2020-0064 pkg=ffi_utils reason=no_patched_using_latest_version latest_version=0.17.0 latest_time=2020-07-16 09:03:29.350403 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0065 cve_id=RUSTSEC-2020-0065 pkg=fake_clock reason=no_patched_using_latest_version latest_version=0.3.1 latest_time=2020-10-22 14:08:44.266357 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0066 cve_id=RUSTSEC-2020-0066 pkg=safe_bindgen reason=no_patched_using_latest_version latest_version=0.13.3 latest_time=2020-10-22 14:26:33.398322 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0067 cve_id=RUSTSEC-2020-0067 pkg=quic-p2p reason=no_patched_using_latest_version latest_version=0.7.1 latest_time=2020-10-22 11:04:51.913053 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=146/880 pkg=lock_api queue=1997 seen=2161 events=2634 elapsed=1320.9s
+propagation: adv=146/880 pkg=lock_api queue=2214 seen=2765 events=3693 elapsed=1325.9s
+propagation: adv=146/880 pkg=lock_api queue=2688 seen=3585 events=4982 elapsed=1331.0s
+propagation: adv=146/880 pkg=lock_api queue=2559 seen=3950 events=6314 elapsed=1336.0s
+propagation: adv=146/880 pkg=lock_api queue=2809 seen=4614 events=7691 elapsed=1341.0s
+propagation: adv=146/880 pkg=lock_api queue=3383 seen=5621 events=9228 elapsed=1346.1s
+propagation: adv=146/880 pkg=lock_api queue=3718 seen=6256 events=10637 elapsed=1351.1s
+propagation: adv=146/880 pkg=lock_api queue=3613 seen=6709 events=11775 elapsed=1356.1s
+propagation: adv=146/880 pkg=lock_api queue=3404 seen=7057 events=12657 elapsed=1361.1s
+propagation: adv=146/880 pkg=lock_api queue=3113 seen=7244 events=15299 elapsed=1366.1s
+propagation: adv=146/880 pkg=lock_api queue=2806 seen=7482 events=16805 elapsed=1371.1s
+propagation: adv=146/880 pkg=lock_api queue=2376 seen=7668 events=17170 elapsed=1376.3s
+propagation: adv=146/880 pkg=lock_api queue=2481 seen=8275 events=18348 elapsed=1381.3s
+propagation: adv=146/880 pkg=lock_api queue=2012 seen=8449 events=18997 elapsed=1386.3s
+propagation: adv=146/880 pkg=lock_api queue=2395 seen=9237 events=20585 elapsed=1391.3s
+propagation: adv=146/880 pkg=lock_api queue=2070 seen=9493 events=21616 elapsed=1396.3s
+propagation: adv=146/880 pkg=lock_api queue=1685 seen=9674 events=22274 elapsed=1401.3s
+propagation: adv=146/880 pkg=lock_api queue=1208 seen=9740 events=22825 elapsed=1406.3s
+propagation: adv=146/880 pkg=lock_api queue=1415 seen=10417 events=24283 elapsed=1411.4s
+propagation: adv=146/880 pkg=lock_api queue=1207 seen=10796 events=25737 elapsed=1416.4s
+propagation: adv=146/880 pkg=lock_api queue=775 seen=11000 events=26494 elapsed=1421.4s
+propagation: adv=146/880 pkg=lock_api queue=323 seen=11169 events=27566 elapsed=1426.4s
+progress: 147/880 advisories, written_rows=4533, skipped=4, elapsed=1430.4s
+propagation: adv=147/880 pkg=time queue=2082 seen=2408 events=2518 elapsed=1436.3s
+propagation: adv=147/880 pkg=time queue=2025 seen=2780 events=3685 elapsed=1441.3s
+propagation: adv=147/880 pkg=time queue=1391 seen=2794 events=3966 elapsed=1446.3s
+propagation: adv=147/880 pkg=time queue=1580 seen=3534 events=4957 elapsed=1451.4s
+propagation: adv=147/880 pkg=time queue=1244 seen=3821 events=5668 elapsed=1456.4s
+propagation: adv=147/880 pkg=time queue=978 seen=4117 events=6487 elapsed=1461.4s
+propagation: adv=147/880 pkg=time queue=469 seen=4241 events=6934 elapsed=1466.4s
+propagation: adv=147/880 pkg=time queue=129 seen=4457 events=7793 elapsed=1471.4s
+progress: 148/880 advisories, written_rows=4737, skipped=4, elapsed=1473.2s
+propagation: adv=149/880 pkg=image queue=126 seen=721 events=782 elapsed=1478.3s
+propagation: adv=149/880 pkg=image queue=302 seen=1388 events=1750 elapsed=1483.3s
+progress: 150/880 advisories, written_rows=4978, skipped=4, elapsed=1488.2s
+propagation fallback: rustsec_id=RUSTSEC-2020-0076 cve_id=RUSTSEC-2020-0076 pkg=routing reason=no_patched_using_latest_version latest_version=0.37.1 latest_time=2020-12-01 11:09:09.234046 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0077 cve_id=RUSTSEC-2020-0077 pkg=memmap reason=no_patched_using_latest_version latest_version=0.7.0 latest_time=2018-09-20 05:11:46.005513 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.7.0
+propagation: adv=153/880 pkg=memmap queue=494 seen=754 events=942 elapsed=1493.9s
+propagation: adv=153/880 pkg=memmap queue=1444 seen=1889 events=2697 elapsed=1499.0s
+propagation: adv=153/880 pkg=memmap queue=1635 seen=2376 events=3632 elapsed=1504.1s
+propagation: adv=153/880 pkg=memmap queue=2206 seen=3333 events=5522 elapsed=1509.2s
+propagation: adv=153/880 pkg=memmap queue=2408 seen=3897 events=7091 elapsed=1514.8s
+propagation: adv=153/880 pkg=memmap queue=2465 seen=4359 events=8082 elapsed=1519.9s
+propagation: adv=153/880 pkg=memmap queue=2299 seen=4727 events=8915 elapsed=1524.9s
+propagation: adv=153/880 pkg=memmap queue=1715 seen=4767 events=9232 elapsed=1529.9s
+propagation: adv=153/880 pkg=memmap queue=1273 seen=4888 events=9642 elapsed=1534.9s
+propagation: adv=153/880 pkg=memmap queue=1319 seen=5502 events=10589 elapsed=1539.9s
+propagation: adv=153/880 pkg=memmap queue=1118 seen=5839 events=11493 elapsed=1544.9s
+propagation: adv=153/880 pkg=memmap queue=709 seen=5997 events=11953 elapsed=1549.9s
+propagation: adv=153/880 pkg=memmap queue=366 seen=6255 events=12648 elapsed=1554.9s
+progress: 154/880 advisories, written_rows=5007, skipped=4, elapsed=1559.8s
+propagation: adv=154/880 pkg=net2 queue=210 seen=719 events=879 elapsed=1564.9s
+progress: 155/880 advisories, written_rows=5010, skipped=4, elapsed=1567.2s
+propagation: adv=155/880 pkg=socket2 queue=846 seen=1314 events=1500 elapsed=1572.3s
+propagation: adv=155/880 pkg=socket2 queue=1370 seen=2242 events=3531 elapsed=1577.3s
+propagation: adv=155/880 pkg=socket2 queue=1453 seen=2811 events=4425 elapsed=1582.3s
+propagation: adv=155/880 pkg=socket2 queue=978 seen=2921 events=4684 elapsed=1587.3s
+propagation: adv=155/880 pkg=socket2 queue=1360 seen=3625 events=6075 elapsed=1592.4s
+propagation: adv=155/880 pkg=socket2 queue=1248 seen=4066 events=6929 elapsed=1597.4s
+propagation: adv=155/880 pkg=socket2 queue=1038 seen=4382 events=7803 elapsed=1602.6s
+propagation: adv=155/880 pkg=socket2 queue=774 seen=4690 events=8645 elapsed=1607.7s
+propagation: adv=155/880 pkg=socket2 queue=467 seen=4936 events=9306 elapsed=1612.7s
+propagation: adv=155/880 pkg=socket2 queue=219 seen=5249 events=10575 elapsed=1617.7s
+progress: 156/880 advisories, written_rows=5062, skipped=4, elapsed=1621.2s
+propagation: adv=156/880 pkg=miow queue=1117 seen=1372 events=1573 elapsed=1626.4s
+propagation: adv=156/880 pkg=miow queue=1892 seen=2496 events=3792 elapsed=1631.5s
+propagation: adv=156/880 pkg=miow queue=1934 seen=2956 events=5081 elapsed=1636.5s
+propagation: adv=156/880 pkg=miow queue=1719 seen=3266 events=5756 elapsed=1641.5s
+propagation: adv=156/880 pkg=miow queue=1171 seen=3326 events=6117 elapsed=1646.5s
+propagation: adv=156/880 pkg=miow queue=862 seen=3539 events=6531 elapsed=1651.5s
+propagation: adv=156/880 pkg=miow queue=492 seen=3764 events=7048 elapsed=1656.5s
+propagation: adv=156/880 pkg=miow queue=311 seen=4081 events=7772 elapsed=1661.5s
+propagation: adv=156/880 pkg=miow queue=6 seen=4377 events=8572 elapsed=1666.5s
+progress: 157/880 advisories, written_rows=5068, skipped=4, elapsed=1666.6s
+propagation: adv=157/880 pkg=mio queue=1113 seen=1400 events=1554 elapsed=1671.6s
+propagation: adv=157/880 pkg=mio queue=1606 seen=2245 events=2993 elapsed=1676.6s
+propagation: adv=157/880 pkg=mio queue=1909 seen=2998 events=5118 elapsed=1681.7s
+propagation: adv=157/880 pkg=mio queue=1920 seen=3494 events=6003 elapsed=1686.7s
+propagation: adv=157/880 pkg=mio queue=1391 seen=3578 events=6238 elapsed=1691.7s
+propagation: adv=157/880 pkg=mio queue=801 seen=3627 events=6599 elapsed=1696.7s
+propagation: adv=157/880 pkg=mio queue=509 seen=3928 events=7218 elapsed=1701.7s
+propagation: adv=157/880 pkg=mio queue=447 seen=4367 events=8213 elapsed=1706.7s
+propagation: adv=157/880 pkg=mio queue=77 seen=4562 events=9058 elapsed=1711.7s
+progress: 158/880 advisories, written_rows=5101, skipped=4, elapsed=1712.8s
+propagation fallback: rustsec_id=RUSTSEC-2020-0083 cve_id=RUSTSEC-2020-0083 pkg=safe_app reason=no_patched_using_latest_version latest_version=0.18.1 latest_time=2020-12-07 15:51:39.590500 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0084 cve_id=RUSTSEC-2020-0084 pkg=safe_authenticator reason=no_patched_using_latest_version latest_version=0.18.1 latest_time=2020-12-07 15:50:55.169248 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0085 cve_id=RUSTSEC-2020-0085 pkg=safe_vault reason=no_patched_using_latest_version latest_version=0.20.2 latest_time=2020-12-07 16:49:43.870823 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0086 cve_id=RUSTSEC-2020-0086 pkg=safe_core reason=no_patched_using_latest_version latest_version=0.43.1 latest_time=2020-12-07 15:47:58.141185 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0090 cve_id=CVE-2020-35927 pkg=thex reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2017-12-12 03:33:47.130231 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0095 cve_id=RUSTSEC-2020-0095 pkg=difference reason=no_patched_using_latest_version latest_version=2.0.0 latest_time=2018-01-23 17:31:55.462599 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 173/880 advisories, written_rows=5210, skipped=4, elapsed=1719.7s
+propagation fallback: rustsec_id=RUSTSEC-2020-0097 cve_id=CVE-2020-36205 pkg=xcb reason=no_patched_using_latest_version latest_version=1.6.0 latest_time=2025-08-15 08:02:22.084565 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 1.0 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0099 cve_id=CVE-2020-36207 pkg=aovec reason=no_patched_using_latest_version latest_version=1.1.0 latest_time=2017-09-26 20:09:51.905536 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0109 cve_id=RUSTSEC-2020-0109 pkg=stderr reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2017-08-09 13:57:39.926512 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0113 cve_id=CVE-2020-36219 pkg=atomic-option reason=no_patched_using_latest_version latest_version=0.1.2 latest_time=2016-04-18 08:03:54.756468 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0124 cve_id=CVE-2020-36444 pkg=async-coap reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2019-08-21 20:29:14.059272 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0125 cve_id=CVE-2020-36445 pkg=convec reason=no_patched_using_latest_version latest_version=2.0.1 latest_time=2017-10-12 14:38:23.341729 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0126 cve_id=CVE-2020-36446 pkg=signal-simple reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2019-11-06 07:09:29.105248 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0128 cve_id=CVE-2020-36448 pkg=cache reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2018-08-19 21:40:35.652404 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0130 cve_id=CVE-2020-36450 pkg=bunch reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2019-07-02 15:31:46.134759 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0131 cve_id=CVE-2020-36451 pkg=rcu_cell reason=no_patched_using_latest_version latest_version=1.2.1 latest_time=2025-05-09 08:18:27.646243 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0133 cve_id=CVE-2020-36453 pkg=scottqueue reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2015-12-06 20:55:10.610289 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0134 cve_id=CVE-2020-36454 pkg=parc reason=no_patched_using_latest_version latest_version=1.0.1 latest_time=2019-11-08 12:06:25.987014 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0136 cve_id=CVE-2020-36456 pkg=toolshed reason=no_patched_using_latest_version latest_version=0.8.1 latest_time=2019-06-12 09:41:10.748741 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0138 cve_id=CVE-2020-36458 pkg=lexer reason=no_patched_using_latest_version latest_version=0.1.18 latest_time=2021-08-19 18:07:22.359641 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0139 cve_id=CVE-2020-36459 pkg=dces reason=no_patched_using_latest_version latest_version=0.3.1 latest_time=2022-03-22 11:06:40.091171 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0140 cve_id=CVE-2020-36460 pkg=model reason=no_patched_using_latest_version latest_version=0.1.2 latest_time=2019-01-05 11:08:27.757516 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0141 cve_id=CVE-2020-36461 pkg=noise_search reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2022-08-15 12:19:13.769188 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0143 cve_id=CVE-2020-36463 pkg=multiqueue reason=no_patched_using_latest_version latest_version=0.3.2 latest_time=2017-02-18 06:54:40.174986 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0144 cve_id=RUSTSEC-2020-0144 pkg=lzw reason=no_patched_using_latest_version latest_version=0.10.0 latest_time=2016-02-28 18:58:07.077733 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=> 0.10.0
+progress: 220/880 advisories, written_rows=5254, skipped=4, elapsed=1724.8s
+propagation: adv=220/880 pkg=heapless queue=1908 seen=2338 events=2758 elapsed=1729.9s
+propagation: adv=220/880 pkg=heapless queue=1736 seen=2645 events=5193 elapsed=1734.9s
+propagation: adv=220/880 pkg=heapless queue=1492 seen=3001 events=5728 elapsed=1739.9s
+propagation: adv=220/880 pkg=heapless queue=1587 seen=3670 events=6758 elapsed=1744.9s
+propagation: adv=220/880 pkg=heapless queue=1294 seen=3895 events=8241 elapsed=1749.9s
+propagation: adv=220/880 pkg=heapless queue=952 seen=4153 events=8943 elapsed=1754.9s
+propagation: adv=220/880 pkg=heapless queue=500 seen=4308 events=9700 elapsed=1759.9s
+propagation: adv=220/880 pkg=heapless queue=135 seen=4548 events=10651 elapsed=1764.9s
+progress: 221/880 advisories, written_rows=5302, skipped=4, elapsed=1766.6s
+propagation: adv=221/880 pkg=generic-array queue=1162 seen=1429 events=2203 elapsed=1771.7s
+propagation: adv=221/880 pkg=generic-array queue=1067 seen=1641 events=3398 elapsed=1776.7s
+propagation: adv=221/880 pkg=generic-array queue=1106 seen=2150 events=4515 elapsed=1781.8s
+propagation: adv=221/880 pkg=generic-array queue=1483 seen=2923 events=5846 elapsed=1786.8s
+propagation: adv=221/880 pkg=generic-array queue=3243 seen=4902 events=9262 elapsed=1791.8s
+propagation: adv=221/880 pkg=generic-array queue=3689 seen=5820 events=10870 elapsed=1796.8s
+propagation: adv=221/880 pkg=generic-array queue=3613 seen=6207 events=11829 elapsed=1801.8s
+propagation: adv=221/880 pkg=generic-array queue=3289 seen=6503 events=12447 elapsed=1806.8s
+propagation: adv=221/880 pkg=generic-array queue=2970 seen=6793 events=13039 elapsed=1811.8s
+propagation: adv=221/880 pkg=generic-array queue=2450 seen=6892 events=13459 elapsed=1816.8s
+propagation: adv=221/880 pkg=generic-array queue=2059 seen=7059 events=13992 elapsed=1821.8s
+propagation: adv=221/880 pkg=generic-array queue=1679 seen=7258 events=15017 elapsed=1826.8s
+propagation: adv=221/880 pkg=generic-array queue=1694 seen=7723 events=15938 elapsed=1831.8s
+propagation: adv=221/880 pkg=generic-array queue=1280 seen=7953 events=16682 elapsed=1836.8s
+propagation: adv=221/880 pkg=generic-array queue=1482 seen=8731 events=18075 elapsed=1841.8s
+propagation: adv=221/880 pkg=generic-array queue=1331 seen=9036 events=18900 elapsed=1846.8s
+propagation: adv=221/880 pkg=generic-array queue=847 seen=9165 events=19499 elapsed=1851.8s
+propagation: adv=221/880 pkg=generic-array queue=525 seen=9464 events=20241 elapsed=1856.9s
+propagation: adv=221/880 pkg=generic-array queue=126 seen=9717 events=21124 elapsed=1861.9s
+progress: 222/880 advisories, written_rows=5342, skipped=4, elapsed=1863.9s
+propagation fallback: rustsec_id=RUSTSEC-2020-0147 cve_id=RUSTSEC-2020-0147 pkg=rulinalg reason=no_patched_using_latest_version latest_version=0.4.2 latest_time=2017-02-17 20:35:45.526634 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0148 cve_id=CVE-2020-36466 pkg=cgc reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2020-04-29 16:49:58.766655 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0149 cve_id=CVE-2020-36469 pkg=appendix reason=no_patched_using_latest_version latest_version=2.0.0 latest_time=2019-01-18 12:57:28.220870 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0150 cve_id=CVE-2020-36470 pkg=disrustor reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2023-06-05 22:16:00.978640 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 0.3 unaffected_sample=
+propagation: adv=226/880 pkg=generator queue=443 seen=827 events=1229 elapsed=1868.9s
+propagation: adv=226/880 pkg=generator queue=751 seen=1654 events=3043 elapsed=1873.9s
+propagation: adv=226/880 pkg=generator queue=541 seen=1945 events=6045 elapsed=1878.9s
+propagation: adv=226/880 pkg=generator queue=14 seen=2030 events=7770 elapsed=1883.9s
+progress: 227/880 advisories, written_rows=5345, skipped=4, elapsed=1884.0s
+propagation fallback: rustsec_id=RUSTSEC-2020-0153 cve_id=CVE-2020-36511 pkg=bite reason=no_patched_using_latest_version latest_version=0.0.5 latest_time=2018-03-25 18:24:56.831579 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0154 cve_id=CVE-2020-36512 pkg=buffoon reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2015-12-30 20:17:00.161470 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0155 cve_id=CVE-2020-36513 pkg=acc_reader reason=no_patched_using_latest_version latest_version=2.0.0 latest_time=2016-02-01 21:10:08.279769 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+skip: rustsec_id=RUSTSEC-2020-0156 cve_id=CVE-2019-20399 pkg=libsecp256k1-rs reason=no_fix_times detail=fixed_versions_count=1 fixed_versions_sample=0.3.1 db_versions_count=5
+propagation fallback: rustsec_id=RUSTSEC-2020-0158 cve_id=RUSTSEC-2020-0158 pkg=slice-deque reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2019-10-11 08:32:04.142615 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=234/880 pkg=chrono queue=1244 seen=1806 events=1137 elapsed=1891.2s
+propagation: adv=234/880 pkg=chrono queue=2378 seen=3288 events=3005 elapsed=1896.2s
+propagation: adv=234/880 pkg=chrono queue=2052 seen=3564 events=4155 elapsed=1901.2s
+propagation: adv=234/880 pkg=chrono queue=1782 seen=3873 events=5623 elapsed=1906.2s
+propagation: adv=234/880 pkg=chrono queue=1414 seen=4104 events=6072 elapsed=1911.2s
+propagation: adv=234/880 pkg=chrono queue=1258 seen=4405 events=7035 elapsed=1916.2s
+propagation: adv=234/880 pkg=chrono queue=1034 seen=4793 events=7971 elapsed=1921.2s
+propagation: adv=234/880 pkg=chrono queue=1168 seen=5404 events=9409 elapsed=1926.3s
+propagation: adv=234/880 pkg=chrono queue=814 seen=5631 events=10408 elapsed=1931.3s
+propagation: adv=234/880 pkg=chrono queue=639 seen=6097 events=14763 elapsed=1936.3s
+propagation: adv=234/880 pkg=chrono queue=238 seen=6263 events=16648 elapsed=1941.3s
+progress: 235/880 advisories, written_rows=6382, skipped=5, elapsed=1943.9s
+propagation fallback: rustsec_id=RUSTSEC-2020-0162 cve_id=RUSTSEC-2020-0162 pkg=tokio-proto reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2017-03-15 17:54:39.540965 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0163 cve_id=RUSTSEC-2020-0163 pkg=term_size reason=no_patched_using_latest_version latest_version=1.0.0-beta1 latest_time=2017-12-08 21:19:27.174469 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=238/880 pkg=term_size queue=213 seen=618 events=642 elapsed=1952.4s
+propagation: adv=238/880 pkg=term_size queue=1670 seen=2387 events=2602 elapsed=1957.5s
+propagation: adv=238/880 pkg=term_size queue=2196 seen=3356 events=3971 elapsed=1962.5s
+propagation: adv=238/880 pkg=term_size queue=2409 seen=4084 events=5163 elapsed=1967.5s
+propagation: adv=238/880 pkg=term_size queue=2047 seen=4328 events=5669 elapsed=1972.5s
+propagation: adv=238/880 pkg=term_size queue=1868 seen=4761 events=6487 elapsed=1977.5s
+propagation: adv=238/880 pkg=term_size queue=1745 seen=5108 events=7595 elapsed=1982.5s
+propagation: adv=238/880 pkg=term_size queue=1629 seen=5498 events=8700 elapsed=1987.5s
+propagation: adv=238/880 pkg=term_size queue=1625 seen=5960 events=9922 elapsed=1992.5s
+propagation: adv=238/880 pkg=term_size queue=1178 seen=6138 events=10440 elapsed=1997.5s
+propagation: adv=238/880 pkg=term_size queue=966 seen=6498 events=11689 elapsed=2002.5s
+propagation: adv=238/880 pkg=term_size queue=747 seen=6917 events=15384 elapsed=2007.5s
+propagation: adv=238/880 pkg=term_size queue=431 seen=7136 events=17009 elapsed=2012.5s
+progress: 239/880 advisories, written_rows=6382, skipped=5, elapsed=2016.1s
+propagation fallback: rustsec_id=RUSTSEC-2020-0168 cve_id=RUSTSEC-2020-0168 pkg=mach reason=no_patched_using_latest_version latest_version=0.3.2 latest_time=2019-06-01 11:04:57.829203 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2020-0169 cve_id=RUSTSEC-2020-0169 pkg=multi_mut reason=no_patched_using_latest_version latest_version=0.1.3 latest_time=2017-01-17 04:01:25.015012 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0002 cve_id=RUSTSEC-2021-0002 pkg=interfaces2 reason=no_patched_using_latest_version latest_version=0.0.5 latest_time=2018-09-13 16:24:44.076746 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=247/880 pkg=smallvec queue=1073 seen=1407 events=1716 elapsed=2023.3s
+propagation: adv=247/880 pkg=smallvec queue=947 seen=1799 events=3303 elapsed=2028.3s
+propagation: adv=247/880 pkg=smallvec queue=1224 seen=2475 events=4619 elapsed=2033.3s
+propagation: adv=247/880 pkg=smallvec queue=1293 seen=3115 events=5626 elapsed=2038.4s
+propagation: adv=247/880 pkg=smallvec queue=2594 seen=4513 events=7651 elapsed=2043.4s
+propagation: adv=247/880 pkg=smallvec queue=2446 seen=4821 events=8680 elapsed=2048.4s
+propagation: adv=247/880 pkg=smallvec queue=1972 seen=4974 events=9273 elapsed=2053.4s
+propagation: adv=247/880 pkg=smallvec queue=2157 seen=5615 events=10722 elapsed=2058.4s
+propagation: adv=247/880 pkg=smallvec queue=2780 seen=6658 events=12287 elapsed=2063.4s
+propagation: adv=247/880 pkg=smallvec queue=2934 seen=7257 events=13608 elapsed=2068.4s
+propagation: adv=247/880 pkg=smallvec queue=3219 seen=7867 events=14987 elapsed=2073.4s
+propagation: adv=247/880 pkg=smallvec queue=2955 seen=8147 events=15735 elapsed=2078.4s
+propagation: adv=247/880 pkg=smallvec queue=2673 seen=8322 events=18542 elapsed=2083.5s
+propagation: adv=247/880 pkg=smallvec queue=2076 seen=8388 events=18996 elapsed=2088.5s
+propagation: adv=247/880 pkg=smallvec queue=1887 seen=8744 events=20133 elapsed=2093.5s
+propagation: adv=247/880 pkg=smallvec queue=1760 seen=9153 events=21406 elapsed=2098.6s
+propagation: adv=247/880 pkg=smallvec queue=1620 seen=9622 events=22444 elapsed=2103.6s
+propagation: adv=247/880 pkg=smallvec queue=1234 seen=9886 events=23505 elapsed=2108.6s
+propagation: adv=247/880 pkg=smallvec queue=1542 seen=10603 events=25037 elapsed=2113.6s
+propagation: adv=247/880 pkg=smallvec queue=1053 seen=10709 events=25528 elapsed=2118.6s
+propagation: adv=247/880 pkg=smallvec queue=801 seen=10986 events=26791 elapsed=2123.6s
+propagation: adv=247/880 pkg=smallvec queue=820 seen=11477 events=28164 elapsed=2128.6s
+propagation: adv=247/880 pkg=smallvec queue=438 seen=11716 events=29230 elapsed=2133.6s
+progress: 248/880 advisories, written_rows=6608, skipped=5, elapsed=2138.5s
+propagation fallback: rustsec_id=RUSTSEC-2021-0006 cve_id=CVE-2021-25903 pkg=cache reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2018-08-19 21:40:35.652404 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0011 cve_id=CVE-2021-25908 pkg=fil-ocl reason=no_patched_using_latest_version latest_version=0.19.6 latest_time=2021-02-24 09:57:05.082235 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=< 0.12.0
+propagation fallback: rustsec_id=RUSTSEC-2021-0019 cve_id=CVE-2021-26955 pkg=xcb reason=no_patched_using_latest_version latest_version=1.6.0 latest_time=2025-08-15 08:02:22.084565 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 1.0 unaffected_sample=
+propagation: adv=264/880 pkg=hyper queue=797 seen=1376 events=1108 elapsed=2145.4s
+propagation: adv=264/880 pkg=hyper queue=1318 seen=2274 events=3396 elapsed=2150.4s
+propagation: adv=264/880 pkg=hyper queue=916 seen=2372 events=5217 elapsed=2155.4s
+propagation: adv=264/880 pkg=hyper queue=1086 seen=3066 events=6298 elapsed=2160.4s
+propagation: adv=264/880 pkg=hyper queue=886 seen=3406 events=7388 elapsed=2165.4s
+propagation: adv=264/880 pkg=hyper queue=477 seen=3563 events=7827 elapsed=2170.4s
+propagation: adv=264/880 pkg=hyper queue=102 seen=3761 events=8616 elapsed=2175.4s
+progress: 265/880 advisories, written_rows=7569, skipped=5, elapsed=2176.8s
+propagation: adv=267/880 pkg=rand_core queue=1839 seen=2095 events=2595 elapsed=2182.0s
+propagation: adv=267/880 pkg=rand_core queue=2213 seen=2899 events=3715 elapsed=2187.0s
+propagation: adv=267/880 pkg=rand_core queue=2681 seen=3753 events=5203 elapsed=2192.0s
+propagation: adv=267/880 pkg=rand_core queue=2770 seen=4324 events=6417 elapsed=2197.2s
+propagation: adv=267/880 pkg=rand_core queue=3064 seen=4815 events=7896 elapsed=2202.2s
+propagation: adv=267/880 pkg=rand_core queue=3183 seen=5460 events=9166 elapsed=2207.2s
+propagation: adv=267/880 pkg=rand_core queue=2840 seen=5699 events=9952 elapsed=2212.2s
+propagation: adv=267/880 pkg=rand_core queue=2515 seen=5920 events=11457 elapsed=2217.2s
+propagation: adv=267/880 pkg=rand_core queue=2649 seen=6362 events=13226 elapsed=2222.4s
+propagation: adv=267/880 pkg=rand_core queue=2515 seen=6730 events=15920 elapsed=2227.5s
+propagation: adv=267/880 pkg=rand_core queue=2280 seen=7148 events=18558 elapsed=2232.5s
+propagation: adv=267/880 pkg=rand_core queue=1804 seen=7271 events=19985 elapsed=2237.5s
+propagation: adv=267/880 pkg=rand_core queue=1554 seen=7616 events=21160 elapsed=2242.5s
+propagation: adv=267/880 pkg=rand_core queue=1135 seen=7745 events=22511 elapsed=2247.5s
+propagation: adv=267/880 pkg=rand_core queue=1019 seen=8380 events=24538 elapsed=2252.5s
+propagation: adv=267/880 pkg=rand_core queue=421 seen=8450 events=25126 elapsed=2257.5s
+progress: 268/880 advisories, written_rows=7671, skipped=5, elapsed=2261.2s
+propagation fallback: rustsec_id=RUSTSEC-2021-0024 cve_id=RUSTSEC-2021-0024 pkg=safe-api reason=no_patched_using_latest_version latest_version=0.15.1 latest_time=2021-02-16 09:58:19.532432 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0025 cve_id=RUSTSEC-2021-0025 pkg=jsonrpc-quic reason=no_patched_using_latest_version latest_version=0.0.9 latest_time=2021-02-16 09:49:50.052935 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0034 cve_id=RUSTSEC-2021-0034 pkg=office reason=no_patched_using_latest_version latest_version=0.8.2 latest_time=2016-11-09 05:26:37.254790 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0039 cve_id=CVE-2021-29929 pkg=endian_trait reason=no_patched_using_latest_version latest_version=0.6.0 latest_time=2018-06-25 20:41:51.304935 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0040 cve_id=CVE-2021-29930 pkg=arenavec reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2019-07-31 20:39:27.544786 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0041 cve_id=CVE-2021-29932 pkg=parse_duration reason=no_patched_using_latest_version latest_version=2.1.1 latest_time=2021-03-25 04:51:45.223082 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0042 cve_id=CVE-2021-29933 pkg=insert_many reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2016-08-23 21:58:50.263471 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0045 cve_id=CVE-2021-29936 pkg=adtensor reason=no_patched_using_latest_version latest_version=0.0.3 latest_time=2019-04-08 03:43:06.683431 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0046 cve_id=CVE-2021-29937 pkg=telemetry reason=no_patched_using_latest_version latest_version=0.1.3 latest_time=2021-03-29 08:46:47.943873 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0047 cve_id=CVE-2021-29938 pkg=slice-deque reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2019-10-11 08:32:04.142615 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0049 cve_id=CVE-2021-29940 pkg=through reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2018-11-16 03:19:06.664268 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0052 cve_id=CVE-2021-30455 pkg=id-map reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2025-08-14 20:16:50.908792 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0053 cve_id=CVE-2021-31996 pkg=algorithmica reason=no_patched_using_latest_version latest_version=0.1.10 latest_time=2023-12-31 05:52:39.523151 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0055 cve_id=CVE-2021-3449 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 111.15 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0056 cve_id=CVE-2021-3450 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=1 patched_sample=>= 111.15 unaffected_sample=< 111.11
+propagation fallback: rustsec_id=RUSTSEC-2021-0057 cve_id=CVE-2021-23840 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 111.14 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0058 cve_id=CVE-2021-23841 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 111.14 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0059 cve_id=RUSTSEC-2021-0059 pkg=aesni reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2021-05-03 18:43:01.338490 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0060 cve_id=RUSTSEC-2021-0060 pkg=aes-soft reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2021-05-03 18:44:22.356330 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0061 cve_id=RUSTSEC-2021-0061 pkg=aes-ctr reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2021-05-03 18:46:01.752833 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0062 cve_id=RUSTSEC-2021-0062 pkg=miscreant reason=no_patched_using_latest_version latest_version=0.99.0 latest_time=2021-08-25 14:03:15.186847 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0064 cve_id=RUSTSEC-2021-0064 pkg=cpuid-bool reason=no_patched_using_latest_version latest_version=0.99.99 latest_time=2021-05-06 23:32:28.057308 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0065 cve_id=CVE-2021-38187 pkg=anymap reason=no_patched_using_latest_version latest_version=1.0.0-beta.2 latest_time=2022-02-22 02:55:07.137874 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 315/880 advisories, written_rows=7996, skipped=5, elapsed=2268.4s
+propagation: adv=316/880 pkg=tokio queue=1738 seen=2197 events=1628 elapsed=2275.3s
+propagation: adv=316/880 pkg=tokio queue=2478 seen=3432 events=3379 elapsed=2280.3s
+propagation: adv=316/880 pkg=tokio queue=2256 seen=3682 events=4085 elapsed=2285.3s
+propagation: adv=316/880 pkg=tokio queue=2817 seen=4624 events=5971 elapsed=2290.3s
+propagation: adv=316/880 pkg=tokio queue=2654 seen=4918 events=7925 elapsed=2295.3s
+propagation: adv=316/880 pkg=tokio queue=2144 seen=5032 events=9749 elapsed=2300.3s
+propagation: adv=316/880 pkg=tokio queue=1855 seen=5307 events=10612 elapsed=2305.3s
+propagation: adv=316/880 pkg=tokio queue=1802 seen=5851 events=11554 elapsed=2310.3s
+propagation: adv=316/880 pkg=tokio queue=1431 seen=6083 events=12079 elapsed=2315.3s
+propagation: adv=316/880 pkg=tokio queue=1205 seen=6478 events=13545 elapsed=2320.3s
+propagation: adv=316/880 pkg=tokio queue=715 seen=6627 events=13900 elapsed=2325.3s
+propagation: adv=316/880 pkg=tokio queue=389 seen=6869 events=15111 elapsed=2330.3s
+propagation: adv=316/880 pkg=tokio queue=166 seen=7185 events=16044 elapsed=2335.3s
+progress: 317/880 advisories, written_rows=9476, skipped=5, elapsed=2340.1s
+progress: 321/880 advisories, written_rows=9584, skipped=5, elapsed=2348.0s
+propagation fallback: rustsec_id=RUSTSEC-2021-0077 cve_id=CVE-2021-38196 pkg=better-macro reason=no_patched_using_latest_version latest_version=1.0.4 latest_time=2021-01-16 19:19:35.986376 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=322/880 pkg=hyper queue=842 seen=1392 events=1113 elapsed=2353.4s
+propagation: adv=322/880 pkg=hyper queue=1433 seen=2361 events=2887 elapsed=2358.4s
+propagation: adv=322/880 pkg=hyper queue=1001 seen=2451 events=5298 elapsed=2363.4s
+propagation: adv=322/880 pkg=hyper queue=1217 seen=3212 events=6471 elapsed=2368.5s
+propagation: adv=322/880 pkg=hyper queue=943 seen=3504 events=7438 elapsed=2373.5s
+propagation: adv=322/880 pkg=hyper queue=471 seen=3652 events=7846 elapsed=2378.5s
+propagation: adv=322/880 pkg=hyper queue=153 seen=3876 events=8727 elapsed=2383.5s
+progress: 323/880 advisories, written_rows=10532, skipped=5, elapsed=2385.3s
+propagation: adv=323/880 pkg=hyper queue=862 seen=1392 events=1113 elapsed=2390.7s
+propagation: adv=323/880 pkg=hyper queue=1438 seen=2358 events=2881 elapsed=2395.7s
+propagation: adv=323/880 pkg=hyper queue=1016 seen=2449 events=5282 elapsed=2400.7s
+propagation: adv=323/880 pkg=hyper queue=1152 seen=3170 events=6411 elapsed=2405.8s
+propagation: adv=323/880 pkg=hyper queue=954 seen=3520 events=7512 elapsed=2410.8s
+propagation: adv=323/880 pkg=hyper queue=494 seen=3677 events=7867 elapsed=2415.8s
+propagation: adv=323/880 pkg=hyper queue=168 seen=3883 events=8727 elapsed=2420.8s
+progress: 324/880 advisories, written_rows=11480, skipped=5, elapsed=2422.9s
+progress: 326/880 advisories, written_rows=11573, skipped=5, elapsed=2428.6s
+skip: rustsec_id=RUSTSEC-2021-0082 cve_id=CVE-2021-45680 pkg=vec-const reason=no_fix_times detail=fixed_versions_count=1 fixed_versions_sample=2.0.0 db_versions_count=0
+fixed_version fallback: rustsec_id=RUSTSEC-2021-0083 cve_id=CVE-2021-45681 pkg=derive-com-impl reason=patched_req_first_published fixed_versions_sample=0.2.0
+propagation fallback: rustsec_id=RUSTSEC-2021-0084 cve_id=CVE-2021-45682 pkg=bronzedb-protocol reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2019-05-30 03:54:10.563303 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0085 cve_id=CVE-2021-45683 pkg=binjs_io reason=no_patched_using_latest_version latest_version=0.2.1 latest_time=2018-11-22 13:41:44.808514 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0091 cve_id=CVE-2021-45689 pkg=gfx-auxil reason=no_patched_using_latest_version latest_version=0.10.0 latest_time=2021-06-19 04:56:51.104052 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 336/880 advisories, written_rows=11605, skipped=6, elapsed=2433.7s
+propagation fallback: rustsec_id=RUSTSEC-2021-0092 cve_id=CVE-2021-45690 pkg=messagepack-rs reason=no_patched_using_latest_version latest_version=0.8.1 latest_time=2021-11-25 11:08:36.701580 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=337/880 pkg=crossbeam-deque queue=967 seen=1215 events=1407 elapsed=2438.7s
+propagation: adv=337/880 pkg=crossbeam-deque queue=1266 seen=1880 events=2700 elapsed=2443.7s
+propagation: adv=337/880 pkg=crossbeam-deque queue=2660 seen=3386 events=4837 elapsed=2448.8s
+propagation: adv=337/880 pkg=crossbeam-deque queue=3985 seen=4887 events=7297 elapsed=2453.8s
+propagation: adv=337/880 pkg=crossbeam-deque queue=4724 seen=5539 events=9355 elapsed=2458.8s
+propagation: adv=337/880 pkg=crossbeam-deque queue=4685 seen=5972 events=10258 elapsed=2464.5s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5877 seen=7537 events=13002 elapsed=2470.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5938 seen=8042 events=14233 elapsed=2475.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5674 seen=8275 events=14931 elapsed=2480.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5537 seen=8664 events=15919 elapsed=2485.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5275 seen=8915 events=16591 elapsed=2490.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=6817 seen=10538 events=20099 elapsed=2495.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=6561 seen=10800 events=20939 elapsed=2500.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=6360 seen=11010 events=21757 elapsed=2505.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=6183 seen=11159 events=23908 elapsed=2510.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=6160 seen=11629 events=27001 elapsed=2515.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5680 seen=11732 events=28428 elapsed=2520.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=5261 seen=11906 events=29234 elapsed=2525.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=4868 seen=12061 events=29942 elapsed=2530.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=4720 seen=12467 events=31233 elapsed=2535.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=4303 seen=12654 events=32056 elapsed=2540.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=3786 seen=12716 events=32951 elapsed=2545.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=3322 seen=12814 events=34306 elapsed=2550.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=3320 seen=13271 events=35496 elapsed=2555.1s
+propagation: adv=337/880 pkg=crossbeam-deque queue=3139 seen=13637 events=36702 elapsed=2560.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=2627 seen=13720 events=37924 elapsed=2565.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=2702 seen=14238 events=39736 elapsed=2570.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=2215 seen=14356 events=40315 elapsed=2575.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=1978 seen=14684 events=42306 elapsed=2580.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=1411 seen=14784 events=43061 elapsed=2585.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=899 seen=14891 events=43721 elapsed=2590.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=548 seen=15158 events=45055 elapsed=2595.2s
+propagation: adv=337/880 pkg=crossbeam-deque queue=77 seen=15305 events=46188 elapsed=2600.2s
+progress: 338/880 advisories, written_rows=11613, skipped=6, elapsed=2601.2s
+propagation fallback: rustsec_id=RUSTSEC-2021-0094 cve_id=CVE-2021-45694 pkg=rdiff reason=no_patched_using_latest_version latest_version=0.1.2 latest_time=2016-09-07 23:30:45.555440 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0095 cve_id=CVE-2021-45695 pkg=mopa reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2016-04-05 05:44:02.436451 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0096 cve_id=RUSTSEC-2021-0096 pkg=spirv_headers reason=no_patched_using_latest_version latest_version=1.5.1 latest_time=2021-05-05 20:37:45.343083 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0097 cve_id=CVE-2021-3711 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 111.16 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0098 cve_id=CVE-2021-3712 pkg=openssl-src reason=no_patched_using_latest_version latest_version=300.5.4+3.5.4 latest_time=2025-10-20 21:45:42.890625 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 111.16 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0099 cve_id=RUSTSEC-2021-0099 pkg=cosmos_sdk reason=no_patched_using_latest_version latest_version=0.99.0 latest_time=2021-08-25 13:28:37.295367 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=344/880 pkg=sha2 queue=889 seen=1276 events=1296 elapsed=2606.8s
+propagation: adv=344/880 pkg=sha2 queue=1761 seen=2511 events=3191 elapsed=2611.8s
+propagation: adv=344/880 pkg=sha2 queue=1630 seen=2741 events=4421 elapsed=2616.8s
+propagation: adv=344/880 pkg=sha2 queue=1525 seen=3180 events=5920 elapsed=2621.8s
+propagation: adv=344/880 pkg=sha2 queue=1673 seen=3891 events=6897 elapsed=2626.8s
+propagation: adv=344/880 pkg=sha2 queue=1539 seen=4284 events=8307 elapsed=2631.8s
+propagation: adv=344/880 pkg=sha2 queue=1173 seen=4528 events=9041 elapsed=2636.8s
+propagation: adv=344/880 pkg=sha2 queue=742 seen=4692 events=9708 elapsed=2641.8s
+propagation: adv=344/880 pkg=sha2 queue=391 seen=4959 events=10840 elapsed=2646.8s
+progress: 345/880 advisories, written_rows=12063, skipped=6, elapsed=2651.8s
+propagation fallback: rustsec_id=RUSTSEC-2021-0101 cve_id=CVE-2021-31155 pkg=pleaser reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2024-09-06 19:24:23.828301 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 0.4 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0102 cve_id=CVE-2021-31154 pkg=pleaser reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2024-09-06 19:24:23.828301 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 0.4 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0104 cve_id=CVE-2021-31153 pkg=pleaser reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2024-09-06 19:24:23.828301 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 0.4 unaffected_sample=
+propagation: adv=359/880 pkg=zeroize_derive queue=822 seen=1225 events=3125 elapsed=2659.9s
+propagation: adv=359/880 pkg=zeroize_derive queue=598 seen=1522 events=5049 elapsed=2664.9s
+propagation: adv=359/880 pkg=zeroize_derive queue=435 seen=1873 events=6748 elapsed=2669.9s
+propagation: adv=359/880 pkg=zeroize_derive queue=59 seen=2075 events=7442 elapsed=2674.9s
+progress: 360/880 advisories, written_rows=12101, skipped=6, elapsed=2675.5s
+propagation: adv=363/880 pkg=nix queue=372 seen=867 events=855 elapsed=2681.2s
+propagation: adv=363/880 pkg=nix queue=269 seen=1322 events=1710 elapsed=2686.2s
+propagation: adv=363/880 pkg=nix queue=237 seen=1812 events=2771 elapsed=2691.2s
+progress: 364/880 advisories, written_rows=12433, skipped=6, elapsed=2692.5s
+propagation fallback: rustsec_id=RUSTSEC-2021-0120 cve_id=CVE-2021-45708 pkg=abomonation reason=no_patched_using_latest_version latest_version=0.7.3 latest_time=2019-07-11 13:00:14.563293 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0121 cve_id=CVE-2021-45709 pkg=crypto2 reason=no_patched_using_latest_version latest_version=0.1.2 latest_time=2021-04-17 06:41:44.393361 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=368/880 pkg=tokio queue=1958 seen=2389 events=1993 elapsed=2700.1s
+propagation: adv=368/880 pkg=tokio queue=2397 seen=3365 events=3404 elapsed=2705.1s
+propagation: adv=368/880 pkg=tokio queue=2235 seen=3681 events=4179 elapsed=2710.1s
+propagation: adv=368/880 pkg=tokio queue=2787 seen=4678 events=5902 elapsed=2715.1s
+propagation: adv=368/880 pkg=tokio queue=2517 seen=4875 events=8146 elapsed=2720.1s
+propagation: adv=368/880 pkg=tokio queue=1915 seen=4935 events=8295 elapsed=2725.1s
+propagation: adv=368/880 pkg=tokio queue=1633 seen=5188 events=9470 elapsed=2730.1s
+propagation: adv=368/880 pkg=tokio queue=1629 seen=5752 events=10409 elapsed=2735.1s
+propagation: adv=368/880 pkg=tokio queue=1303 seen=6013 events=11009 elapsed=2740.2s
+propagation: adv=368/880 pkg=tokio queue=1073 seen=6376 events=11889 elapsed=2745.2s
+propagation: adv=368/880 pkg=tokio queue=633 seen=6536 events=12344 elapsed=2750.2s
+propagation: adv=368/880 pkg=tokio queue=549 seen=7028 events=13524 elapsed=2755.2s
+propagation: adv=368/880 pkg=tokio queue=54 seen=7117 events=14381 elapsed=2760.2s
+progress: 369/880 advisories, written_rows=14118, skipped=6, elapsed=2760.9s
+propagation fallback: rustsec_id=RUSTSEC-2021-0127 cve_id=RUSTSEC-2021-0127 pkg=serde_cbor reason=no_patched_using_latest_version latest_version=0.11.2 latest_time=2021-08-15 14:08:47.328110 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=374/880 pkg=lru queue=343 seen=781 events=1336 elapsed=2768.4s
+propagation: adv=374/880 pkg=lru queue=505 seen=1449 events=2596 elapsed=2773.4s
+propagation: adv=374/880 pkg=lru queue=123 seen=1697 events=4096 elapsed=2778.4s
+progress: 375/880 advisories, written_rows=14296, skipped=6, elapsed=2779.4s
+propagation fallback: rustsec_id=RUSTSEC-2021-0131 cve_id=CVE-2020-8927 pkg=brotli-sys reason=no_patched_using_latest_version latest_version=0.3.2 latest_time=2017-09-19 18:17:29.521413 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0133 cve_id=RUSTSEC-2021-0133 pkg=cargo-download reason=no_patched_using_latest_version latest_version=0.1.2 latest_time=2019-02-13 20:09:37.530045 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0134 cve_id=RUSTSEC-2021-0134 pkg=rental reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2021-05-01 23:22:36.642491 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+skip: rustsec_id=RUSTSEC-2021-0135 cve_id=RUSTSEC-2021-0135 pkg=tower-http reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2021-0136 cve_id=RUSTSEC-2021-0136 pkg=sass-rs reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2019-05-22 12:40:15.143182 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0137 cve_id=RUSTSEC-2021-0137 pkg=sodiumoxide reason=no_patched_using_latest_version latest_version=0.2.7 latest_time=2021-06-24 08:34:09.003782 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0139 cve_id=RUSTSEC-2021-0139 pkg=ansi_term reason=no_patched_using_latest_version latest_version=0.12.1 latest_time=2019-09-02 10:16:04.908577 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0140 cve_id=RUSTSEC-2021-0140 pkg=rusttype reason=no_patched_using_latest_version latest_version=0.9.3 latest_time=2022-11-02 15:25:50.237708 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0141 cve_id=RUSTSEC-2021-0141 pkg=dotenv reason=no_patched_using_latest_version latest_version=0.15.0 latest_time=2019-10-21 16:51:12.672006 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0142 cve_id=RUSTSEC-2021-0142 pkg=dotenv_codegen reason=no_patched_using_latest_version latest_version=0.15.0 latest_time=2019-10-21 16:52:46.404581 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0144 cve_id=RUSTSEC-2021-0144 pkg=traitobject reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2025-02-13 09:47:18.773006 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0145 cve_id=RUSTSEC-2021-0145 pkg=atty reason=no_patched_using_latest_version latest_version=0.2.14 latest_time=2020-01-05 22:19:33.123499 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 390/880 advisories, written_rows=14306, skipped=7, elapsed=2785.5s
+propagation fallback: rustsec_id=RUSTSEC-2021-0146 cve_id=RUSTSEC-2021-0146 pkg=twoway reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2021-05-19 22:06:38.467348 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+skip: rustsec_id=RUSTSEC-2021-0147 cve_id=RUSTSEC-2021-0147 pkg=daemonize reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2021-0148 cve_id=RUSTSEC-2021-0148 pkg=nphysics3d reason=no_patched_using_latest_version latest_version=0.24.0 latest_time=2021-08-08 16:19:55.765452 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0149 cve_id=RUSTSEC-2021-0149 pkg=nphysics2d reason=no_patched_using_latest_version latest_version=0.24.0 latest_time=2021-08-08 16:19:27.047553 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0150 cve_id=RUSTSEC-2021-0150 pkg=ncollide3d reason=no_patched_using_latest_version latest_version=0.33.0 latest_time=2022-03-18 07:57:00.844880 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0151 cve_id=RUSTSEC-2021-0151 pkg=ncollide2d reason=no_patched_using_latest_version latest_version=0.33.0 latest_time=2022-03-18 07:56:42.233123 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2021-0153 cve_id=RUSTSEC-2021-0153 pkg=encoding reason=no_patched_using_latest_version latest_version=0.2.33 latest_time=2016-08-28 16:54:28.588718 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0001 cve_id=RUSTSEC-2022-0001 pkg=lmdb reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2018-03-03 18:42:08.346009 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0004 cve_id=RUSTSEC-2022-0004 pkg=rustc-serialize reason=no_patched_using_latest_version latest_version=0.3.25 latest_time=2023-12-01 09:52:20.384822 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0005 cve_id=RUSTSEC-2022-0005 pkg=ftd2xx-embedded-hal reason=no_patched_using_latest_version latest_version=0.9.1 latest_time=2021-08-10 18:14:07.391871 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=404/880 pkg=thread_local queue=1186 seen=1437 events=1934 elapsed=2794.7s
+propagation: adv=404/880 pkg=thread_local queue=746 seen=1609 events=5623 elapsed=2799.7s
+propagation: adv=404/880 pkg=thread_local queue=802 seen=2182 events=6886 elapsed=2804.7s
+propagation: adv=404/880 pkg=thread_local queue=392 seen=2386 events=8721 elapsed=2809.7s
+propagation: adv=404/880 pkg=thread_local queue=236 seen=2748 events=10169 elapsed=2814.7s
+progress: 405/880 advisories, written_rows=14410, skipped=8, elapsed=2818.2s
+propagation fallback: rustsec_id=RUSTSEC-2022-0011 cve_id=RUSTSEC-2022-0011 pkg=rust-crypto reason=no_patched_using_latest_version latest_version=0.2.36 latest_time=2016-05-20 05:40:27.059177 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=411/880 pkg=regex queue=1267 seen=1792 events=987 elapsed=2829.1s
+propagation: adv=411/880 pkg=regex queue=1533 seen=2509 events=1991 elapsed=2834.1s
+propagation: adv=411/880 pkg=regex queue=1038 seen=2635 events=2363 elapsed=2839.1s
+propagation: adv=411/880 pkg=regex queue=921 seen=3015 events=3516 elapsed=2844.2s
+propagation: adv=411/880 pkg=regex queue=723 seen=3363 events=4285 elapsed=2849.2s
+propagation: adv=411/880 pkg=regex queue=440 seen=3680 events=5106 elapsed=2854.2s
+propagation: adv=411/880 pkg=regex queue=412 seen=4236 events=6406 elapsed=2859.2s
+progress: 412/880 advisories, written_rows=15504, skipped=8, elapsed=2864.0s
+propagation fallback: rustsec_id=RUSTSEC-2022-0015 cve_id=RUSTSEC-2022-0015 pkg=pty reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2017-06-25 04:48:33.979783 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=417/880 pkg=crossbeam-channel queue=375 seen=815 events=869 elapsed=2870.2s
+propagation: adv=417/880 pkg=crossbeam-channel queue=993 seen=1809 events=2217 elapsed=2875.2s
+propagation: adv=417/880 pkg=crossbeam-channel queue=1871 seen=3053 events=3874 elapsed=2880.2s
+propagation: adv=417/880 pkg=crossbeam-channel queue=3432 seen=4696 events=6278 elapsed=2885.4s
+propagation: adv=417/880 pkg=crossbeam-channel queue=3844 seen=5422 events=7980 elapsed=2890.4s
+propagation: adv=417/880 pkg=crossbeam-channel queue=3922 seen=6043 events=9012 elapsed=2895.4s
+propagation: adv=417/880 pkg=crossbeam-channel queue=4093 seen=6731 events=10660 elapsed=2900.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=6642 seen=9428 events=15454 elapsed=2905.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=6511 seen=9768 events=16446 elapsed=2910.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=6440 seen=10115 events=17401 elapsed=2915.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=6212 seen=10359 events=18172 elapsed=2920.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=5955 seen=10610 events=18998 elapsed=2925.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=5631 seen=10846 events=19667 elapsed=2930.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=5345 seen=11057 events=22422 elapsed=2935.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=4982 seen=11288 events=23429 elapsed=2940.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=4505 seen=11392 events=24992 elapsed=2945.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=4061 seen=11549 events=25507 elapsed=2950.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=3620 seen=11659 events=27164 elapsed=2955.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=3133 seen=11763 events=27910 elapsed=2960.7s
+propagation: adv=417/880 pkg=crossbeam-channel queue=2988 seen=12195 events=28861 elapsed=2965.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=2959 seen=12578 events=30319 elapsed=2970.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=2805 seen=12982 events=31665 elapsed=2975.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=2407 seen=13132 events=32397 elapsed=2980.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=1998 seen=13302 events=34036 elapsed=2985.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=1433 seen=13420 events=34929 elapsed=2990.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=1650 seen=14088 events=37120 elapsed=2995.8s
+propagation: adv=417/880 pkg=crossbeam-channel queue=1400 seen=14387 events=38422 elapsed=3000.9s
+propagation: adv=417/880 pkg=crossbeam-channel queue=986 seen=14565 events=39663 elapsed=3005.9s
+propagation: adv=417/880 pkg=crossbeam-channel queue=390 seen=14629 events=40122 elapsed=3010.9s
+propagation: adv=417/880 pkg=crossbeam-channel queue=9 seen=14848 events=41888 elapsed=3015.9s
+progress: 418/880 advisories, written_rows=15689, skipped=8, elapsed=3016.0s
+propagation: adv=419/880 pkg=crossbeam-queue queue=276 seen=821 events=944 elapsed=3021.6s
+propagation: adv=419/880 pkg=crossbeam-queue queue=84 seen=1213 events=1565 elapsed=3026.6s
+progress: 420/880 advisories, written_rows=15736, skipped=8, elapsed=3028.2s
+propagation: adv=420/880 pkg=hyper queue=828 seen=1391 events=1113 elapsed=3033.6s
+propagation: adv=420/880 pkg=hyper queue=1428 seen=2362 events=3480 elapsed=3038.7s
+propagation: adv=420/880 pkg=hyper queue=1043 seen=2511 events=5369 elapsed=3043.7s
+propagation: adv=420/880 pkg=hyper queue=1222 seen=3218 events=6489 elapsed=3048.7s
+propagation: adv=420/880 pkg=hyper queue=987 seen=3543 events=7459 elapsed=3053.7s
+propagation: adv=420/880 pkg=hyper queue=589 seen=3703 events=8059 elapsed=3058.7s
+propagation: adv=420/880 pkg=hyper queue=205 seen=3912 events=8765 elapsed=3063.7s
+progress: 421/880 advisories, written_rows=16684, skipped=8, elapsed=3066.2s
+propagation fallback: rustsec_id=RUSTSEC-2022-0023 cve_id=RUSTSEC-2022-0023 pkg=static_type_map reason=no_patched_using_latest_version latest_version=0.5.2 latest_time=2022-05-11 15:11:46.562478 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0024 cve_id=RUSTSEC-2022-0024 pkg=double-checked-cell reason=no_patched_using_latest_version latest_version=2.1.0 latest_time=2020-12-12 15:17:55.623017 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0034 cve_id=RUSTSEC-2022-0034 pkg=pkcs11 reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2020-04-20 06:00:24.567787 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0036 cve_id=RUSTSEC-2022-0036 pkg=r2d2_odbc reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2019-12-18 17:55:50.451084 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0039 cve_id=RUSTSEC-2022-0039 pkg=odbc reason=no_patched_using_latest_version latest_version=0.17.0 latest_time=2020-05-09 14:20:13.913529 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0040 cve_id=RUSTSEC-2022-0040 pkg=owning_ref reason=no_patched_using_latest_version latest_version=0.4.1 latest_time=2020-02-27 05:48:49.191192 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=438/880 pkg=owning_ref queue=1400 seen=1564 events=1985 elapsed=3074.4s
+propagation: adv=438/880 pkg=owning_ref queue=1582 seen=2131 events=3197 elapsed=3079.4s
+propagation: adv=438/880 pkg=owning_ref queue=2042 seen=2919 events=4509 elapsed=3084.7s
+propagation: adv=438/880 pkg=owning_ref queue=1810 seen=3074 events=5943 elapsed=3089.7s
+propagation: adv=438/880 pkg=owning_ref queue=2321 seen=3910 events=7304 elapsed=3094.7s
+propagation: adv=438/880 pkg=owning_ref queue=2274 seen=4309 events=8210 elapsed=3099.7s
+propagation: adv=438/880 pkg=owning_ref queue=1927 seen=4524 events=8789 elapsed=3104.7s
+propagation: adv=438/880 pkg=owning_ref queue=1484 seen=4644 events=9204 elapsed=3109.7s
+propagation: adv=438/880 pkg=owning_ref queue=964 seen=4708 events=9426 elapsed=3114.7s
+propagation: adv=438/880 pkg=owning_ref queue=1212 seen=5433 events=10550 elapsed=3119.7s
+propagation: adv=438/880 pkg=owning_ref queue=958 seen=5679 events=11258 elapsed=3124.7s
+propagation: adv=438/880 pkg=owning_ref queue=520 seen=5832 events=11666 elapsed=3129.7s
+propagation: adv=438/880 pkg=owning_ref queue=165 seen=6003 events=12425 elapsed=3134.7s
+progress: 439/880 advisories, written_rows=16786, skipped=8, elapsed=3137.0s
+propagation: adv=439/880 pkg=crossbeam-utils queue=185 seen=643 events=1451 elapsed=3142.1s
+progress: 440/880 advisories, written_rows=16823, skipped=8, elapsed=3146.1s
+package alias: rustsec_pkg=rustdecimal db_pkg=rust_decimal
+propagation fallback: rustsec_id=RUSTSEC-2022-0042 cve_id=RUSTSEC-2022-0042 pkg=rust_decimal reason=no_patched_using_latest_version latest_version=1.39.0 latest_time=2025-10-12 18:47:44.904002 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=441/880 pkg=tower-http queue=140 seen=611 events=797 elapsed=3152.5s
+propagation: adv=441/880 pkg=tower-http queue=312 seen=1332 events=2181 elapsed=3157.5s
+progress: 442/880 advisories, written_rows=16841, skipped=8, elapsed=3160.0s
+skip: rustsec_id=RUSTSEC-2022-0044 cve_id=RUSTSEC-2022-0044 pkg=markdown reason=withdrawn detail=advisory withdrawn
+skip: rustsec_id=RUSTSEC-2022-0048 cve_id=RUSTSEC-2022-0048 pkg=xml-rs reason=withdrawn detail=advisory withdrawn
+propagation: adv=447/880 pkg=iana-time-zone queue=1947 seen=2281 events=2590 elapsed=3165.8s
+propagation: adv=447/880 pkg=iana-time-zone queue=2365 seen=3108 events=4003 elapsed=3170.9s
+propagation: adv=447/880 pkg=iana-time-zone queue=2056 seen=3362 events=4412 elapsed=3175.9s
+propagation: adv=447/880 pkg=iana-time-zone queue=1772 seen=3564 events=5283 elapsed=3180.9s
+propagation: adv=447/880 pkg=iana-time-zone queue=1583 seen=3956 events=6108 elapsed=3185.9s
+propagation: adv=447/880 pkg=iana-time-zone queue=1355 seen=4291 events=6830 elapsed=3190.9s
+propagation: adv=447/880 pkg=iana-time-zone queue=1120 seen=4659 events=7716 elapsed=3196.0s
+propagation: adv=447/880 pkg=iana-time-zone queue=1084 seen=5208 events=8858 elapsed=3201.0s
+propagation: adv=447/880 pkg=iana-time-zone queue=676 seen=5405 events=10102 elapsed=3206.0s
+propagation: adv=447/880 pkg=iana-time-zone queue=629 seen=5882 events=13279 elapsed=3211.0s
+propagation: adv=447/880 pkg=iana-time-zone queue=238 seen=6022 events=14989 elapsed=3216.0s
+progress: 448/880 advisories, written_rows=16872, skipped=10, elapsed=3218.9s
+propagation fallback: rustsec_id=RUSTSEC-2022-0050 cve_id=RUSTSEC-2022-0050 pkg=interledger-packet reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2019-11-11 11:46:51.212041 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0053 cve_id=RUSTSEC-2022-0053 pkg=mapr reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2020-09-25 18:26:16.348088 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0054 cve_id=RUSTSEC-2022-0054 pkg=wee_alloc reason=no_patched_using_latest_version latest_version=0.4.5 latest_time=2019-08-22 17:15:35.888353 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=453/880 pkg=axum-core queue=223 seen=705 events=852 elapsed=3225.8s
+propagation: adv=453/880 pkg=axum-core queue=125 seen=1166 events=1660 elapsed=3230.8s
+progress: 454/880 advisories, written_rows=16897, skipped=10, elapsed=3235.3s
+propagation fallback: rustsec_id=RUSTSEC-2022-0056 cve_id=RUSTSEC-2022-0056 pkg=clipboard reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2018-09-22 21:58:38.810943 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0057 cve_id=RUSTSEC-2022-0057 pkg=badge reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2020-07-26 23:22:38.419716 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0058 cve_id=RUSTSEC-2022-0058 pkg=inconceivable reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2020-01-31 23:35:30.808291 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0060 cve_id=RUSTSEC-2022-0060 pkg=orbtk reason=no_patched_using_latest_version latest_version=0.3.1-alpha4 latest_time=2022-03-25 07:03:30.408932 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0061 cve_id=RUSTSEC-2022-0061 pkg=parity-wasm reason=no_patched_using_latest_version latest_version=0.45.0 latest_time=2022-05-26 11:28:32.718825 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=468/880 pkg=secp256k1 queue=232 seen=818 events=3715 elapsed=3243.1s
+progress: 469/880 advisories, written_rows=16998, skipped=10, elapsed=3245.8s
+propagation fallback: rustsec_id=RUSTSEC-2022-0071 cve_id=RUSTSEC-2022-0071 pkg=rusoto_credential reason=no_patched_using_latest_version latest_version=0.48.0 latest_time=2022-04-25 03:45:41.872028 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0073 cve_id=RUSTSEC-2022-0073 pkg=alloc-cortex-m reason=no_patched_using_latest_version latest_version=0.4.4 latest_time=2022-12-20 20:29:56.019078 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 474/880 advisories, written_rows=17130, skipped=10, elapsed=3252.4s
+propagation fallback: rustsec_id=RUSTSEC-2022-0077 cve_id=RUSTSEC-2022-0077 pkg=claim reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2021-02-04 16:50:55.008584 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0080 cve_id=RUSTSEC-2022-0080 pkg=parity-util-mem reason=no_patched_using_latest_version latest_version=0.12.0 latest_time=2022-09-20 13:06:58.449209 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2022-0081 cve_id=RUSTSEC-2022-0081 pkg=json reason=no_patched_using_latest_version latest_version=0.12.4 latest_time=2020-03-18 08:39:23.818803 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 489/880 advisories, written_rows=17324, skipped=10, elapsed=3260.0s
+propagation fallback: rustsec_id=RUSTSEC-2022-0093 cve_id=CVE-2022-50237 pkg=ed25519-dalek reason=no_patched_using_latest_version latest_version=3.0.0-pre.3 latest_time=2025-12-07 16:55:33.859572 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 2 unaffected_sample=
+progress: 494/880 advisories, written_rows=17516, skipped=10, elapsed=3266.2s
+propagation: adv=502/880 pkg=tokio queue=2188 seen=2625 events=1642 elapsed=3273.7s
+propagation: adv=502/880 pkg=tokio queue=2586 seen=3538 events=3006 elapsed=3278.7s
+propagation: adv=502/880 pkg=tokio queue=2355 seen=3845 events=3714 elapsed=3283.7s
+propagation: adv=502/880 pkg=tokio queue=2270 seen=4238 events=4708 elapsed=3288.8s
+propagation: adv=502/880 pkg=tokio queue=2605 seen=4961 events=7001 elapsed=3293.8s
+propagation: adv=502/880 pkg=tokio queue=2378 seen=5262 events=8761 elapsed=3298.9s
+propagation: adv=502/880 pkg=tokio queue=1832 seen=5372 events=9497 elapsed=3303.9s
+propagation: adv=502/880 pkg=tokio queue=1530 seen=5644 events=10475 elapsed=3308.9s
+propagation: adv=502/880 pkg=tokio queue=1305 seen=6000 events=11230 elapsed=3313.9s
+propagation: adv=502/880 pkg=tokio queue=1199 seen=6531 events=12321 elapsed=3318.9s
+propagation: adv=502/880 pkg=tokio queue=981 seen=6820 events=13595 elapsed=3323.9s
+propagation: adv=502/880 pkg=tokio queue=426 seen=6917 events=14075 elapsed=3328.9s
+propagation: adv=502/880 pkg=tokio queue=145 seen=7268 events=15097 elapsed=3333.9s
+progress: 503/880 advisories, written_rows=19723, skipped=10, elapsed=3335.3s
+skip: rustsec_id=RUSTSEC-2023-0002 cve_id=RUSTSEC-2023-0002 pkg=git2 reason=withdrawn detail=advisory withdrawn
+propagation: adv=505/880 pkg=bzip2 queue=1199 seen=1626 events=1907 elapsed=3342.7s
+propagation: adv=505/880 pkg=bzip2 queue=1208 seen=2164 events=2741 elapsed=3347.7s
+propagation: adv=505/880 pkg=bzip2 queue=1274 seen=2763 events=3605 elapsed=3352.7s
+propagation: adv=505/880 pkg=bzip2 queue=1200 seen=3183 events=4473 elapsed=3357.7s
+propagation: adv=505/880 pkg=bzip2 queue=730 seen=3353 events=5006 elapsed=3362.8s
+propagation: adv=505/880 pkg=bzip2 queue=474 seen=3684 events=5871 elapsed=3367.8s
+propagation: adv=505/880 pkg=bzip2 queue=210 seen=3957 events=6931 elapsed=3372.8s
+propagation: adv=505/880 pkg=bzip2 queue=197 seen=4494 events=8258 elapsed=3377.8s
+progress: 506/880 advisories, written_rows=19782, skipped=11, elapsed=3379.4s
+propagation: adv=506/880 pkg=tokio queue=2256 seen=2693 events=1447 elapsed=3386.3s
+propagation: adv=506/880 pkg=tokio queue=2629 seen=3573 events=2771 elapsed=3391.3s
+propagation: adv=506/880 pkg=tokio queue=2398 seen=3892 events=3492 elapsed=3396.3s
+propagation: adv=506/880 pkg=tokio queue=2297 seen=4264 events=4415 elapsed=3401.3s
+propagation: adv=506/880 pkg=tokio queue=2685 seen=4996 events=6901 elapsed=3406.3s
+propagation: adv=506/880 pkg=tokio queue=2574 seen=5275 events=9274 elapsed=3411.3s
+propagation: adv=506/880 pkg=tokio queue=1965 seen=5318 events=9713 elapsed=3416.4s
+propagation: adv=506/880 pkg=tokio queue=1618 seen=5564 events=10715 elapsed=3421.4s
+propagation: adv=506/880 pkg=tokio queue=1379 seen=5900 events=11458 elapsed=3426.4s
+propagation: adv=506/880 pkg=tokio queue=1351 seen=6456 events=12396 elapsed=3431.4s
+propagation: adv=506/880 pkg=tokio queue=1076 seen=6748 events=13487 elapsed=3436.4s
+propagation: adv=506/880 pkg=tokio queue=570 seen=6834 events=14135 elapsed=3441.4s
+propagation: adv=506/880 pkg=tokio queue=377 seen=7246 events=15208 elapsed=3446.4s
+progress: 507/880 advisories, written_rows=21732, skipped=11, elapsed=3449.7s
+propagation: adv=516/880 pkg=ascii queue=401 seen=863 events=1031 elapsed=3455.9s
+propagation: adv=516/880 pkg=ascii queue=128 seen=1150 events=1575 elapsed=3460.9s
+progress: 517/880 advisories, written_rows=21873, skipped=11, elapsed=3463.7s
+propagation fallback: rustsec_id=RUSTSEC-2023-0017 cve_id=RUSTSEC-2023-0017 pkg=maligned reason=no_patched_using_latest_version latest_version=0.2.1 latest_time=2020-05-13 19:32:07.509310 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0019 cve_id=RUSTSEC-2023-0019 pkg=kuchiki reason=no_patched_using_latest_version latest_version=0.8.1 latest_time=2020-08-05 12:02:30.144298 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0020 cve_id=RUSTSEC-2023-0020 pkg=const-cstr reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2018-02-10 01:35:36.479365 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=523/880 pkg=openssl queue=168 seen=672 events=855 elapsed=3469.3s
+propagation: adv=523/880 pkg=openssl queue=1201 seen=2118 events=2692 elapsed=3474.3s
+propagation: adv=523/880 pkg=openssl queue=1034 seen=2509 events=3415 elapsed=3479.3s
+propagation: adv=523/880 pkg=openssl queue=740 seen=2830 events=4398 elapsed=3484.3s
+propagation: adv=523/880 pkg=openssl queue=436 seen=3100 events=5187 elapsed=3489.3s
+propagation: adv=523/880 pkg=openssl queue=122 seen=3351 events=6184 elapsed=3494.3s
+progress: 524/880 advisories, written_rows=22022, skipped=11, elapsed=3495.8s
+propagation: adv=524/880 pkg=openssl queue=1238 seen=1750 events=2012 elapsed=3501.8s
+propagation: adv=524/880 pkg=openssl queue=1117 seen=2186 events=2833 elapsed=3506.8s
+propagation: adv=524/880 pkg=openssl queue=931 seen=2572 events=3520 elapsed=3511.8s
+propagation: adv=524/880 pkg=openssl queue=672 seen=2899 events=4506 elapsed=3516.8s
+propagation: adv=524/880 pkg=openssl queue=371 seen=3154 events=5461 elapsed=3521.8s
+propagation: adv=524/880 pkg=openssl queue=38 seen=3389 events=6405 elapsed=3526.8s
+progress: 525/880 advisories, written_rows=22154, skipped=11, elapsed=3527.3s
+propagation: adv=525/880 pkg=openssl queue=1239 seen=1758 events=2026 elapsed=3532.8s
+propagation: adv=525/880 pkg=openssl queue=1072 seen=2158 events=2828 elapsed=3537.8s
+propagation: adv=525/880 pkg=openssl queue=893 seen=2560 events=3500 elapsed=3542.8s
+propagation: adv=525/880 pkg=openssl queue=638 seen=2877 events=4467 elapsed=3547.9s
+propagation: adv=525/880 pkg=openssl queue=367 seen=3131 events=5325 elapsed=3552.9s
+propagation: adv=525/880 pkg=openssl queue=72 seen=3365 events=6286 elapsed=3557.9s
+progress: 526/880 advisories, written_rows=22286, skipped=11, elapsed=3558.8s
+propagation fallback: rustsec_id=RUSTSEC-2023-0025 cve_id=RUSTSEC-2023-0025 pkg=git-hash reason=no_patched_using_latest_version latest_version=0.10.3 latest_time=2023-02-17 08:53:12.668043 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0026 cve_id=RUSTSEC-2023-0026 pkg=git-path reason=no_patched_using_latest_version latest_version=0.7.2 latest_time=2023-02-17 08:54:14.743166 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0028 cve_id=RUSTSEC-2023-0028 pkg=buf_redux reason=no_patched_using_latest_version latest_version=0.8.4 latest_time=2019-07-31 18:22:11.723122 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=532/880 pkg=spin queue=489 seen=966 events=1352 elapsed=3564.5s
+propagation: adv=532/880 pkg=spin queue=672 seen=1699 events=2503 elapsed=3569.5s
+propagation: adv=532/880 pkg=spin queue=129 seen=1820 events=2985 elapsed=3574.5s
+progress: 533/880 advisories, written_rows=22341, skipped=11, elapsed=3575.8s
+propagation fallback: rustsec_id=RUSTSEC-2023-0032 cve_id=RUSTSEC-2023-0032 pkg=ntru reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2016-12-09 16:54:46.169775 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=534/880 pkg=borsh queue=755 seen=1206 events=2255 elapsed=3581.0s
+propagation: adv=534/880 pkg=borsh queue=608 seen=1517 events=3245 elapsed=3586.0s
+propagation: adv=534/880 pkg=borsh queue=407 seen=1866 events=4334 elapsed=3591.0s
+propagation: adv=534/880 pkg=borsh queue=345 seen=2393 events=5889 elapsed=3596.0s
+progress: 535/880 advisories, written_rows=22485, skipped=11, elapsed=3599.3s
+propagation: adv=535/880 pkg=h2 queue=2852 seen=3148 events=3734 elapsed=3604.3s
+propagation: adv=535/880 pkg=h2 queue=2572 seen=3358 events=5692 elapsed=3609.3s
+propagation: adv=535/880 pkg=h2 queue=2318 seen=3670 events=6242 elapsed=3614.4s
+propagation: adv=535/880 pkg=h2 queue=2257 seen=4210 events=7094 elapsed=3619.4s
+propagation: adv=535/880 pkg=h2 queue=2015 seen=4564 events=7956 elapsed=3624.4s
+propagation: adv=535/880 pkg=h2 queue=1585 seen=4678 events=9085 elapsed=3629.6s
+propagation: adv=535/880 pkg=h2 queue=1323 seen=4956 events=10182 elapsed=3634.6s
+propagation: adv=535/880 pkg=h2 queue=824 seen=5054 events=10603 elapsed=3639.6s
+propagation: adv=535/880 pkg=h2 queue=576 seen=5401 events=11907 elapsed=3644.6s
+propagation: adv=535/880 pkg=h2 queue=158 seen=5594 events=12647 elapsed=3649.6s
+propagation: adv=535/880 pkg=h2 queue=121 seen=6124 events=14109 elapsed=3654.7s
+progress: 536/880 advisories, written_rows=22508, skipped=11, elapsed=3655.6s
+propagation: adv=536/880 pkg=enumflags2 queue=105 seen=682 events=1206 elapsed=3660.6s
+progress: 537/880 advisories, written_rows=22521, skipped=11, elapsed=3661.5s
+propagation fallback: rustsec_id=RUSTSEC-2023-0036 cve_id=RUSTSEC-2023-0036 pkg=tree_magic reason=no_patched_using_latest_version latest_version=0.2.3 latest_time=2020-02-25 02:31:59.956289 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0037 cve_id=RUSTSEC-2023-0037 pkg=xsalsa20poly1305 reason=no_patched_using_latest_version latest_version=0.9.1 latest_time=2023-05-17 02:38:14.839050 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0040 cve_id=RUSTSEC-2023-0040 pkg=users reason=no_patched_using_latest_version latest_version=0.11.0 latest_time=2020-10-08 02:15:28.604296 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0043 cve_id=RUSTSEC-2023-0043 pkg=ftp reason=no_patched_using_latest_version latest_version=3.0.1 latest_time=2018-04-15 17:51:16.707401 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=545/880 pkg=openssl queue=1234 seen=1730 events=1959 elapsed=3668.3s
+propagation: adv=545/880 pkg=openssl queue=1134 seen=2191 events=2824 elapsed=3673.4s
+propagation: adv=545/880 pkg=openssl queue=949 seen=2568 events=3452 elapsed=3678.4s
+propagation: adv=545/880 pkg=openssl queue=751 seen=2877 events=4514 elapsed=3683.4s
+propagation: adv=545/880 pkg=openssl queue=388 seen=3117 events=5283 elapsed=3688.4s
+propagation: adv=545/880 pkg=openssl queue=73 seen=3364 events=6286 elapsed=3693.4s
+progress: 546/880 advisories, written_rows=22702, skipped=11, elapsed=3694.2s
+propagation: adv=546/880 pkg=memoffset queue=211 seen=645 events=1508 elapsed=3699.2s
+propagation: adv=546/880 pkg=memoffset queue=19 seen=959 events=3118 elapsed=3704.2s
+progress: 547/880 advisories, written_rows=22743, skipped=11, elapsed=3704.5s
+propagation fallback: rustsec_id=RUSTSEC-2023-0046 cve_id=RUSTSEC-2023-0046 pkg=cyfs-base reason=no_patched_using_latest_version latest_version=0.6.12 latest_time=2023-04-13 06:07:42.826706 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0047 cve_id=RUSTSEC-2023-0047 pkg=lmdb-rs reason=no_patched_using_latest_version latest_version=0.7.6 latest_time=2017-06-07 16:28:55.785109 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0049 cve_id=RUSTSEC-2023-0049 pkg=tui reason=no_patched_using_latest_version latest_version=0.19.0 latest_time=2022-08-14 13:40:31.787551 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0050 cve_id=RUSTSEC-2023-0050 pkg=multipart reason=no_patched_using_latest_version latest_version=0.18.0 latest_time=2021-05-29 03:47:28.226106 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0051 cve_id=RUSTSEC-2023-0051 pkg=dlopen_derive reason=no_patched_using_latest_version latest_version=0.1.4 latest_time=2019-06-09 16:31:45.063784 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=554/880 pkg=rustls-webpki queue=2623 seen=3011 events=4025 elapsed=3711.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=2054 seen=3114 events=4444 elapsed=3716.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=1751 seen=3440 events=5032 elapsed=3721.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=1729 seen=4080 events=6021 elapsed=3726.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=1697 seen=4567 events=7662 elapsed=3731.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=1441 seen=4935 events=8671 elapsed=3736.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=969 seen=5070 events=9172 elapsed=3741.9s
+propagation: adv=554/880 pkg=rustls-webpki queue=1476 seen=6145 events=10955 elapsed=3747.0s
+propagation: adv=554/880 pkg=rustls-webpki queue=1145 seen=6376 events=12014 elapsed=3752.0s
+propagation: adv=554/880 pkg=rustls-webpki queue=617 seen=6495 events=13498 elapsed=3757.0s
+propagation: adv=554/880 pkg=rustls-webpki queue=213 seen=6736 events=15035 elapsed=3762.0s
+progress: 555/880 advisories, written_rows=22766, skipped=11, elapsed=3764.1s
+propagation fallback: rustsec_id=RUSTSEC-2023-0054 cve_id=RUSTSEC-2023-0054 pkg=mail-internals reason=no_patched_using_latest_version latest_version=0.2.3 latest_time=2019-03-26 15:05:00.315415 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0059 cve_id=RUSTSEC-2023-0059 pkg=users reason=no_patched_using_latest_version latest_version=0.11.0 latest_time=2020-10-08 02:15:28.604296 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=564/880 pkg=quinn-proto queue=556 seen=1025 events=1227 elapsed=3774.1s
+propagation: adv=564/880 pkg=quinn-proto queue=373 seen=1389 events=1900 elapsed=3779.1s
+propagation: adv=564/880 pkg=quinn-proto queue=152 seen=1701 events=2842 elapsed=3784.1s
+progress: 565/880 advisories, written_rows=22842, skipped=11, elapsed=3786.0s
+propagation: adv=566/880 pkg=tungstenite queue=997 seen=1477 events=1672 elapsed=3791.6s
+propagation: adv=566/880 pkg=tungstenite queue=742 seen=1796 events=3300 elapsed=3796.6s
+propagation: adv=566/880 pkg=tungstenite queue=289 seen=1965 events=4318 elapsed=3801.6s
+propagation: adv=566/880 pkg=tungstenite queue=17 seen=2292 events=5234 elapsed=3806.6s
+progress: 567/880 advisories, written_rows=22894, skipped=11, elapsed=3806.8s
+propagation fallback: rustsec_id=RUSTSEC-2023-0066 cve_id=CVE-2023-46277 pkg=pleaser reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2024-09-06 19:24:23.828301 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0067 cve_id=RUSTSEC-2023-0067 pkg=fehler reason=no_patched_using_latest_version latest_version=1.0.0 latest_time=2020-04-06 14:04:28.708002 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0071 cve_id=CVE-2023-49092 pkg=rsa reason=no_patched_using_latest_version latest_version=0.10.0-rc.10 latest_time=2025-11-07 00:50:32.050117 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=573/880 pkg=openssl queue=93 seen=614 events=974 elapsed=3813.1s
+progress: 574/880 advisories, written_rows=23026, skipped=11, elapsed=3814.6s
+propagation: adv=575/880 pkg=zerocopy queue=2361 seen=2547 events=3039 elapsed=3820.5s
+propagation: adv=575/880 pkg=zerocopy queue=2449 seen=3163 events=4067 elapsed=3825.5s
+propagation: adv=575/880 pkg=zerocopy queue=2912 seen=4036 events=5673 elapsed=3830.5s
+propagation: adv=575/880 pkg=zerocopy queue=2854 seen=4422 events=6687 elapsed=3835.5s
+propagation: adv=575/880 pkg=zerocopy queue=3683 seen=5591 events=8761 elapsed=3840.6s
+propagation: adv=575/880 pkg=zerocopy queue=3593 seen=5852 events=10241 elapsed=3845.6s
+propagation: adv=575/880 pkg=zerocopy queue=3757 seen=6476 events=11888 elapsed=3850.6s
+propagation: adv=575/880 pkg=zerocopy queue=3461 seen=6748 events=13145 elapsed=3855.6s
+propagation: adv=575/880 pkg=zerocopy queue=3055 seen=6941 events=14198 elapsed=3860.6s
+propagation: adv=575/880 pkg=zerocopy queue=2684 seen=7189 events=15219 elapsed=3865.6s
+propagation: adv=575/880 pkg=zerocopy queue=2596 seen=7660 events=16494 elapsed=3870.6s
+propagation: adv=575/880 pkg=zerocopy queue=3088 seen=8555 events=19315 elapsed=3875.6s
+propagation: adv=575/880 pkg=zerocopy queue=2858 seen=8871 events=20572 elapsed=3880.6s
+propagation: adv=575/880 pkg=zerocopy queue=2599 seen=9136 events=21437 elapsed=3885.6s
+propagation: adv=575/880 pkg=zerocopy queue=2214 seen=9231 events=22444 elapsed=3890.6s
+propagation: adv=575/880 pkg=zerocopy queue=1838 seen=9375 events=23418 elapsed=3895.6s
+propagation: adv=575/880 pkg=zerocopy queue=1525 seen=9625 events=24490 elapsed=3900.6s
+propagation: adv=575/880 pkg=zerocopy queue=1049 seen=9691 events=27185 elapsed=3905.6s
+propagation: adv=575/880 pkg=zerocopy queue=608 seen=9822 events=28067 elapsed=3910.6s
+propagation: adv=575/880 pkg=zerocopy queue=119 seen=9987 events=29069 elapsed=3915.6s
+progress: 576/880 advisories, written_rows=23164, skipped=11, elapsed=3916.7s
+propagation: adv=576/880 pkg=unsafe-libyaml queue=41 seen=582 events=996 elapsed=3921.8s
+progress: 577/880 advisories, written_rows=23167, skipped=11, elapsed=3922.4s
+propagation fallback: rustsec_id=RUSTSEC-2023-0076 cve_id=RUSTSEC-2023-0076 pkg=cpython reason=no_patched_using_latest_version latest_version=0.7.2 latest_time=2024-07-02 17:52:21.565989 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=579/880 pkg=tracing queue=1219 seen=1687 events=2830 elapsed=3928.6s
+propagation: adv=579/880 pkg=tracing queue=1156 seen=2104 events=4064 elapsed=3933.7s
+propagation: adv=579/880 pkg=tracing queue=992 seen=2419 events=4976 elapsed=3938.7s
+propagation: adv=579/880 pkg=tracing queue=1881 seen=3745 events=7397 elapsed=3943.7s
+propagation: adv=579/880 pkg=tracing queue=1577 seen=3970 events=8457 elapsed=3948.7s
+propagation: adv=579/880 pkg=tracing queue=1349 seen=4316 events=9096 elapsed=3953.7s
+propagation: adv=579/880 pkg=tracing queue=1350 seen=4913 events=9949 elapsed=3958.7s
+propagation: adv=579/880 pkg=tracing queue=1084 seen=5229 events=11090 elapsed=3963.7s
+propagation: adv=579/880 pkg=tracing queue=664 seen=5423 events=11761 elapsed=3968.7s
+propagation: adv=579/880 pkg=tracing queue=544 seen=5883 events=13031 elapsed=3973.7s
+propagation: adv=579/880 pkg=tracing queue=58 seen=5993 events=13744 elapsed=3978.7s
+progress: 580/880 advisories, written_rows=24296, skipped=11, elapsed=3979.4s
+propagation fallback: rustsec_id=RUSTSEC-2023-0079 cve_id=RUSTSEC-2023-0079 pkg=pqc_kyber reason=no_patched_using_latest_version latest_version=0.7.1 latest_time=2023-08-23 02:22:23.045863 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0081 cve_id=RUSTSEC-2023-0081 pkg=safemem reason=no_patched_using_latest_version latest_version=0.3.3 latest_time=2019-10-22 03:54:11.474305 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0084 cve_id=RUSTSEC-2023-0084 pkg=hpack reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2015-10-22 14:48:00.632834 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0085 cve_id=RUSTSEC-2023-0085 pkg=hpack reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2015-10-22 14:48:00.632834 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0088 cve_id=RUSTSEC-2023-0088 pkg=loopdev reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2021-10-27 13:25:21.104659 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2023-0089 cve_id=RUSTSEC-2023-0089 pkg=atomic-polyfill reason=no_patched_using_latest_version latest_version=1.0.3 latest_time=2023-07-11 19:35:12.876716 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 592/880 advisories, written_rows=24368, skipped=11, elapsed=3986.8s
+propagation fallback: rustsec_id=RUSTSEC-2023-0094 cve_id=RUSTSEC-2023-0094 pkg=martin-mbtiles reason=no_patched_using_latest_version latest_version=0.7.0 latest_time=2023-10-30 22:44:30.586322 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 598/880 advisories, written_rows=24533, skipped=11, elapsed=3992.1s
+propagation: adv=600/880 pkg=h2 queue=460 seen=944 events=1425 elapsed=3997.4s
+propagation: adv=600/880 pkg=h2 queue=907 seen=1888 events=3386 elapsed=4002.4s
+propagation: adv=600/880 pkg=h2 queue=587 seen=2196 events=4120 elapsed=4007.4s
+propagation: adv=600/880 pkg=h2 queue=283 seen=2455 events=5138 elapsed=4012.4s
+propagation: adv=600/880 pkg=h2 queue=296 seen=3081 events=6417 elapsed=4017.4s
+progress: 601/880 advisories, written_rows=24567, skipped=11, elapsed=4019.9s
+propagation fallback: rustsec_id=RUSTSEC-2024-0004 cve_id=RUSTSEC-2024-0004 pkg=cosmwasm reason=no_patched_using_latest_version latest_version=0.7.2 latest_time=2020-03-23 21:06:09.205714 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 610/880 advisories, written_rows=24644, skipped=11, elapsed=4025.3s
+propagation fallback: rustsec_id=RUSTSEC-2024-0014 cve_id=RUSTSEC-2024-0014 pkg=generational-arena reason=no_patched_using_latest_version latest_version=0.2.9 latest_time=2023-05-22 19:27:16.031877 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0015 cve_id=RUSTSEC-2024-0015 pkg=filesystem reason=no_patched_using_latest_version latest_version=0.4.4 latest_time=2019-02-17 01:06:35.733151 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0018 cve_id=RUSTSEC-2024-0018 pkg=crayon reason=no_patched_using_latest_version latest_version=0.7.1 latest_time=2018-12-14 02:09:39.437591 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=< 0.6.0
+propagation: adv=616/880 pkg=mio queue=1819 seen=2146 events=2370 elapsed=4033.8s
+propagation: adv=616/880 pkg=mio queue=2135 seen=2934 events=4108 elapsed=4038.8s
+propagation: adv=616/880 pkg=mio queue=2104 seen=3384 events=5509 elapsed=4043.8s
+propagation: adv=616/880 pkg=mio queue=1699 seen=3550 events=6502 elapsed=4048.8s
+propagation: adv=616/880 pkg=mio queue=1427 seen=3888 events=7526 elapsed=4053.8s
+propagation: adv=616/880 pkg=mio queue=1012 seen=3939 events=9848 elapsed=4059.0s
+propagation: adv=616/880 pkg=mio queue=648 seen=4176 events=10944 elapsed=4064.0s
+propagation: adv=616/880 pkg=mio queue=318 seen=4491 events=12502 elapsed=4069.0s
+propagation: adv=616/880 pkg=mio queue=116 seen=4908 events=13660 elapsed=4074.0s
+progress: 617/880 advisories, written_rows=24704, skipped=11, elapsed=4075.0s
+propagation fallback: rustsec_id=RUSTSEC-2024-0320 cve_id=RUSTSEC-2024-0320 pkg=yaml-rust reason=no_patched_using_latest_version latest_version=0.4.5 latest_time=2021-01-03 19:58:30.295058 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 620/880 advisories, written_rows=24807, skipped=11, elapsed=4080.7s
+propagation fallback: rustsec_id=RUSTSEC-2024-0331 cve_id=RUSTSEC-2024-0331 pkg=puccinier reason=no_patched_using_latest_version latest_version=1.0.5+deprecated latest_time=2024-03-31 02:04:28.415517 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=621/880 pkg=h2 queue=89 seen=602 events=1514 elapsed=4085.8s
+progress: 622/880 advisories, written_rows=24827, skipped=11, elapsed=4086.9s
+propagation fallback: rustsec_id=RUSTSEC-2024-0333 cve_id=RUSTSEC-2024-0333 pkg=rsa-export reason=no_patched_using_latest_version latest_version=0.3.3 latest_time=2021-03-29 15:12:37.267801 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0334 cve_id=RUSTSEC-2024-0334 pkg=libp2p-tokio-socks5 reason=no_patched_using_latest_version latest_version=0.8.0 latest_time=2021-07-07 01:34:57.517100 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=625/880 pkg=rustls queue=1414 seen=1813 events=1980 elapsed=4092.7s
+propagation: adv=625/880 pkg=rustls queue=1895 seen=2807 events=4004 elapsed=4097.7s
+propagation: adv=625/880 pkg=rustls queue=1453 seen=2988 events=4616 elapsed=4102.7s
+propagation: adv=625/880 pkg=rustls queue=1368 seen=3417 events=5736 elapsed=4107.7s
+propagation: adv=625/880 pkg=rustls queue=893 seen=3525 events=7157 elapsed=4112.8s
+propagation: adv=625/880 pkg=rustls queue=673 seen=3862 events=8743 elapsed=4117.8s
+propagation: adv=625/880 pkg=rustls queue=322 seen=4154 events=9976 elapsed=4122.8s
+propagation: adv=625/880 pkg=rustls queue=26 seen=4460 events=11479 elapsed=4127.8s
+progress: 626/880 advisories, written_rows=25017, skipped=11, elapsed=4128.0s
+propagation fallback: rustsec_id=RUSTSEC-2024-0337 cve_id=RUSTSEC-2024-0337 pkg=zip_next reason=no_patched_using_latest_version latest_version=1.1.1 latest_time=2024-04-20 18:49:38.998824 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=633/880 pkg=curve25519-dalek queue=36 seen=495 events=1660 elapsed=4134.6s
+progress: 634/880 advisories, written_rows=25174, skipped=11, elapsed=4134.9s
+propagation: adv=646/880 pkg=openssl queue=20 seen=605 events=1306 elapsed=4144.1s
+progress: 647/880 advisories, written_rows=25396, skipped=11, elapsed=4144.3s
+progress: 652/880 advisories, written_rows=25496, skipped=11, elapsed=4149.4s
+propagation fallback: rustsec_id=RUSTSEC-2024-0364 cve_id=CVE-2024-43785 pkg=gitoxide-core reason=no_patched_using_latest_version latest_version=0.50.0 latest_time=2025-11-22 19:39:28.914849 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 655/880 advisories, written_rows=25681, skipped=11, elapsed=4156.7s
+propagation fallback: rustsec_id=RUSTSEC-2024-0368 cve_id=RUSTSEC-2024-0368 pkg=olm-sys reason=no_patched_using_latest_version latest_version=1.3.2 latest_time=2022-06-11 18:07:52.427352 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0370 cve_id=RUSTSEC-2024-0370 pkg=proc-macro-error reason=no_patched_using_latest_version latest_version=1.0.4 latest_time=2020-07-31 18:08:20.096247 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=659/880 pkg=proc-macro-error queue=1222 seen=1668 events=1800 elapsed=4163.0s
+propagation: adv=659/880 pkg=proc-macro-error queue=698 seen=1777 events=2111 elapsed=4168.0s
+propagation: adv=659/880 pkg=proc-macro-error queue=275 seen=2002 events=2578 elapsed=4173.0s
+propagation: adv=659/880 pkg=proc-macro-error queue=518 seen=2751 events=3837 elapsed=4178.0s
+propagation: adv=659/880 pkg=proc-macro-error queue=340 seen=3094 events=4953 elapsed=4183.0s
+propagation: adv=659/880 pkg=proc-macro-error queue=337 seen=3648 events=7812 elapsed=4188.1s
+progress: 660/880 advisories, written_rows=25711, skipped=11, elapsed=4192.1s
+propagation: adv=662/880 pkg=quinn-proto queue=579 seen=1086 events=1475 elapsed=4198.7s
+propagation: adv=662/880 pkg=quinn-proto queue=223 seen=1325 events=2299 elapsed=4203.7s
+progress: 663/880 advisories, written_rows=25758, skipped=11, elapsed=4208.3s
+propagation fallback: rustsec_id=RUSTSEC-2024-0375 cve_id=RUSTSEC-2024-0375 pkg=atty reason=no_patched_using_latest_version latest_version=0.2.14 latest_time=2020-01-05 22:19:33.123499 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=665/880 pkg=tonic queue=185 seen=792 events=1490 elapsed=4217.8s
+progress: 666/880 advisories, written_rows=26402, skipped=11, elapsed=4222.3s
+propagation: adv=667/880 pkg=pyo3 queue=20 seen=622 events=1588 elapsed=4227.5s
+progress: 668/880 advisories, written_rows=26545, skipped=11, elapsed=4227.9s
+propagation fallback: rustsec_id=RUSTSEC-2024-0379 cve_id=RUSTSEC-2024-0379 pkg=fast-float reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2021-01-13 16:57:12.236999 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0380 cve_id=RUSTSEC-2024-0380 pkg=pqcrypto-dilithium reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2023-10-16 14:57:09.487802 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0381 cve_id=RUSTSEC-2024-0381 pkg=pqcrypto-kyber reason=no_patched_using_latest_version latest_version=0.8.1 latest_time=2024-01-25 11:02:41.188398 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0382 cve_id=RUSTSEC-2024-0382 pkg=hwloc reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2017-04-26 16:36:09.766034 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0383 cve_id=RUSTSEC-2024-0383 pkg=bcc reason=no_patched_using_latest_version latest_version=0.0.34 latest_time=2023-10-25 20:01:03.722662 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0384 cve_id=RUSTSEC-2024-0384 pkg=instant reason=no_patched_using_latest_version latest_version=0.1.13 latest_time=2024-05-17 19:56:13.760985 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0385 cve_id=RUSTSEC-2024-0385 pkg=cw0 reason=no_patched_using_latest_version latest_version=0.10.3 latest_time=2021-11-16 18:39:09.136369 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0386 cve_id=RUSTSEC-2024-0386 pkg=strason reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2024-08-20 15:36:05.399990 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0387 cve_id=RUSTSEC-2024-0387 pkg=opentelemetry_api reason=no_patched_using_latest_version latest_version=0.20.0 latest_time=2023-07-29 21:19:27.301558 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0388 cve_id=RUSTSEC-2024-0388 pkg=derivative reason=no_patched_using_latest_version latest_version=2.2.0 latest_time=2021-01-23 17:05:39.339355 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 678/880 advisories, written_rows=26545, skipped=11, elapsed=4235.8s
+propagation fallback: rustsec_id=RUSTSEC-2024-0389 cve_id=RUSTSEC-2024-0389 pkg=openslide reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2018-11-19 22:37:55.164852 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0390 cve_id=RUSTSEC-2024-0390 pkg=minitrace reason=no_patched_using_latest_version latest_version=0.6.7 latest_time=2024-06-23 09:27:48.964437 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0394 cve_id=RUSTSEC-2024-0394 pkg=mmap reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2015-04-09 22:50:05.976610 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0395 cve_id=RUSTSEC-2024-0395 pkg=chrono-english reason=no_patched_using_latest_version latest_version=0.1.8 latest_time=2025-08-13 08:08:04.494326 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0396 cve_id=RUSTSEC-2024-0396 pkg=conrod_core reason=no_patched_using_latest_version latest_version=0.76.1 latest_time=2022-01-17 04:32:33.654294 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0397 cve_id=RUSTSEC-2024-0397 pkg=conrod reason=no_patched_using_latest_version latest_version=0.62.1 latest_time=2020-08-03 10:26:19.786092 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0398 cve_id=RUSTSEC-2024-0398 pkg=sharks reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2021-03-14 17:06:26.228462 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=688/880 pkg=rustls queue=1240 seen=1660 events=1797 elapsed=4241.1s
+propagation: adv=688/880 pkg=rustls queue=802 seen=1773 events=2984 elapsed=4246.1s
+propagation: adv=688/880 pkg=rustls queue=450 seen=2043 events=3869 elapsed=4251.1s
+propagation: adv=688/880 pkg=rustls queue=169 seen=2364 events=5010 elapsed=4256.1s
+progress: 689/880 advisories, written_rows=26653, skipped=11, elapsed=4258.2s
+propagation: adv=689/880 pkg=ruzstd queue=133 seen=734 events=1368 elapsed=4263.2s
+progress: 690/880 advisories, written_rows=26660, skipped=11, elapsed=4264.5s
+propagation: adv=690/880 pkg=zlib-rs queue=1338 seen=1672 events=1970 elapsed=4269.7s
+propagation: adv=690/880 pkg=zlib-rs queue=1156 seen=2022 events=2835 elapsed=4274.7s
+propagation: adv=690/880 pkg=zlib-rs queue=814 seen=2356 events=3928 elapsed=4279.7s
+propagation: adv=690/880 pkg=zlib-rs queue=373 seen=2585 events=4886 elapsed=4284.7s
+propagation: adv=690/880 pkg=zlib-rs queue=63 seen=2874 events=6284 elapsed=4289.7s
+progress: 691/880 advisories, written_rows=26662, skipped=11, elapsed=4290.4s
+propagation: adv=691/880 pkg=hashbrown queue=602 seen=1043 events=1677 elapsed=4295.6s
+propagation: adv=691/880 pkg=hashbrown queue=512 seen=1497 events=2908 elapsed=4300.6s
+propagation: adv=691/880 pkg=hashbrown queue=182 seen=1725 events=4350 elapsed=4305.6s
+progress: 692/880 advisories, written_rows=26772, skipped=11, elapsed=4307.2s
+propagation fallback: rustsec_id=RUSTSEC-2024-0403 cve_id=RUSTSEC-2024-0403 pkg=js-sandbox reason=no_patched_using_latest_version latest_version=0.2.0-rc.2 latest_time=2023-09-12 16:40:45.431185 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=698/880 pkg=pyo3 queue=169 seen=719 events=1772 elapsed=4314.5s
+progress: 699/880 advisories, written_rows=26938, skipped=11, elapsed=4318.2s
+propagation fallback: rustsec_id=RUSTSEC-2024-0410 cve_id=RUSTSEC-2024-0410 pkg=gdkwayland reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:14.919203 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0411 cve_id=RUSTSEC-2024-0411 pkg=gdkwayland-sys reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:18.844994 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0412 cve_id=RUSTSEC-2024-0412 pkg=gdk reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:05.982567 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0413 cve_id=RUSTSEC-2024-0413 pkg=atk reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:45:55.239461 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0414 cve_id=RUSTSEC-2024-0414 pkg=gdkx11-sys reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:25.531482 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0415 cve_id=RUSTSEC-2024-0415 pkg=gtk reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:31.974872 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0416 cve_id=RUSTSEC-2024-0416 pkg=atk-sys reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:45:59.322690 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0417 cve_id=RUSTSEC-2024-0417 pkg=gdkx11 reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:22.248137 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0418 cve_id=RUSTSEC-2024-0418 pkg=gdk-sys reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:10.399451 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0419 cve_id=RUSTSEC-2024-0419 pkg=gtk3-macros reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:46.144873 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0420 cve_id=RUSTSEC-2024-0420 pkg=gtk-sys reason=no_patched_using_latest_version latest_version=0.18.2 latest_time=2024-12-09 11:46:36.837054 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=710/880 pkg=idna queue=868 seen=1300 events=1602 elapsed=4323.3s
+propagation: adv=710/880 pkg=idna queue=1383 seen=2263 events=2962 elapsed=4328.4s
+propagation: adv=710/880 pkg=idna queue=1166 seen=2516 events=3906 elapsed=4333.4s
+propagation: adv=710/880 pkg=idna queue=808 seen=2684 events=4791 elapsed=4338.4s
+propagation: adv=710/880 pkg=idna queue=443 seen=2925 events=5857 elapsed=4343.4s
+propagation: adv=710/880 pkg=idna queue=71 seen=3130 events=7099 elapsed=4348.4s
+progress: 711/880 advisories, written_rows=26969, skipped=11, elapsed=4349.3s
+propagation fallback: rustsec_id=RUSTSEC-2024-0422 cve_id=RUSTSEC-2024-0422 pkg=gtk-layer-shell reason=no_patched_using_latest_version latest_version=0.8.2 latest_time=2024-12-09 12:40:53.916372 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0423 cve_id=RUSTSEC-2024-0423 pkg=gtk-layer-shell-sys reason=no_patched_using_latest_version latest_version=0.7.2 latest_time=2024-12-09 12:34:42.294321 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0425 cve_id=RUSTSEC-2024-0425 pkg=get-size reason=no_patched_using_latest_version latest_version=0.1.4 latest_time=2023-06-23 19:09:28.659479 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0426 cve_id=RUSTSEC-2024-0426 pkg=spl-token-swap reason=no_patched_using_latest_version latest_version=3.0.0 latest_time=2022-06-08 13:01:27.684407 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0427 cve_id=RUSTSEC-2024-0427 pkg=get-size-derive reason=no_patched_using_latest_version latest_version=0.1.3 latest_time=2023-06-23 19:08:22.249811 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0430 cve_id=RUSTSEC-2024-0430 pkg=magic-crypt reason=no_patched_using_latest_version latest_version=4.0.1 latest_time=2024-11-02 08:51:05.425314 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0435 cve_id=RUSTSEC-2024-0435 pkg=fyrox-core reason=no_patched_using_latest_version latest_version=1.0.0-rc.1 latest_time=2025-10-21 17:13:16.918386 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>= 0.36 unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2024-0436 cve_id=RUSTSEC-2024-0436 pkg=paste reason=no_patched_using_latest_version latest_version=1.0.15 latest_time=2024-05-07 01:50:22.784771 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=725/880 pkg=paste queue=262 seen=768 events=3995 elapsed=4358.6s
+progress: 726/880 advisories, written_rows=27084, skipped=11, elapsed=4361.0s
+propagation: adv=727/880 pkg=wasmtime queue=17 seen=545 events=4045 elapsed=4367.9s
+progress: 728/880 advisories, written_rows=27183, skipped=11, elapsed=4368.1s
+progress: 732/880 advisories, written_rows=27306, skipped=11, elapsed=4374.9s
+propagation fallback: rustsec_id=RUSTSEC-2024-0444 cve_id=CVE-2024-43367 pkg=boa_engine reason=no_patched_using_latest_version latest_version=0.21.0 latest_time=2025-10-21 23:26:07.368290 UTC patched_versions_count=1 unaffected_versions_count=1 patched_sample=>= 0.19 unaffected_sample=< 0.16
+fixed_version fallback: rustsec_id=RUSTSEC-2024-0446 cve_id=CVE-2024-41815 pkg=starship reason=patched_req_first_published fixed_versions_sample=1.20.1
+propagation fallback: rustsec_id=RUSTSEC-2025-0003 cve_id=RUSTSEC-2025-0003 pkg=fast-float reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2021-01-13 16:57:12.236999 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=742/880 pkg=hickory-proto queue=412 seen=914 events=1184 elapsed=4384.2s
+propagation: adv=742/880 pkg=hickory-proto queue=225 seen=1236 events=2601 elapsed=4389.2s
+progress: 743/880 advisories, written_rows=27422, skipped=11, elapsed=4391.4s
+skip: rustsec_id=RUSTSEC-2025-0007 cve_id=RUSTSEC-2025-0007 pkg=ring reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2025-0010 cve_id=RUSTSEC-2025-0010 pkg=ring reason=no_patched_using_latest_version latest_version=0.17.14 latest_time=2025-03-11 19:42:03.889273 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=>= 0.17
+propagation fallback: rustsec_id=RUSTSEC-2025-0011 cve_id=RUSTSEC-2025-0011 pkg=openpgp-card-sequoia reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2024-06-05 07:01:49.853163 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0012 cve_id=RUSTSEC-2025-0012 pkg=backoff reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2021-12-14 21:16:45.606935 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 749/880 advisories, written_rows=27494, skipped=12, elapsed=4396.8s
+propagation fallback: rustsec_id=RUSTSEC-2025-0013 cve_id=RUSTSEC-2025-0013 pkg=resolve reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2018-02-16 22:14:55.873371 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+skip: rustsec_id=RUSTSEC-2025-0014 cve_id=RUSTSEC-2025-0014 pkg=humantime reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2025-0017 cve_id=RUSTSEC-2025-0017 pkg=trust-dns-proto reason=no_patched_using_latest_version latest_version=0.23.2 latest_time=2023-10-23 16:03:22.585328 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=<= 0.23.0
+propagation fallback: rustsec_id=RUSTSEC-2025-0018 cve_id=RUSTSEC-2025-0018 pkg=xmas-elf reason=no_patched_using_latest_version latest_version=0.10.0 latest_time=2025-03-26 14:04:50.774745 UTC patched_versions_count=1 unaffected_versions_count=0 patched_sample=>=0.10 unaffected_sample=
+propagation: adv=756/880 pkg=pyo3 queue=415 seen=955 events=1929 elapsed=4402.8s
+propagation: adv=756/880 pkg=pyo3 queue=18 seen=1143 events=3101 elapsed=4407.8s
+progress: 757/880 advisories, written_rows=27757, skipped=13, elapsed=4408.0s
+propagation: adv=759/880 pkg=tokio queue=1519 seen=2124 events=856 elapsed=4417.9s
+propagation: adv=759/880 pkg=tokio queue=1084 seen=2320 events=1443 elapsed=4422.9s
+propagation: adv=759/880 pkg=tokio queue=765 seen=2573 events=2365 elapsed=4427.9s
+propagation: adv=759/880 pkg=tokio queue=386 seen=2815 events=3514 elapsed=4432.9s
+propagation: adv=759/880 pkg=tokio queue=209 seen=3220 events=6178 elapsed=4437.9s
+progress: 760/880 advisories, written_rows=29688, skipped=13, elapsed=4440.0s
+propagation: adv=760/880 pkg=crossbeam-channel queue=47 seen=539 events=1172 elapsed=4445.3s
+progress: 761/880 advisories, written_rows=29802, skipped=13, elapsed=4446.3s
+propagation fallback: rustsec_id=RUSTSEC-2025-0025 cve_id=RUSTSEC-2025-0025 pkg=rustc-serialize reason=no_patched_using_latest_version latest_version=0.3.25 latest_time=2023-12-01 09:52:20.384822 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0026 cve_id=RUSTSEC-2025-0026 pkg=registry reason=no_patched_using_latest_version latest_version=1.3.0 latest_time=2024-10-25 23:58:43.557655 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0028 cve_id=RUSTSEC-2025-0028 pkg=cve-rs reason=no_patched_using_latest_version latest_version=0.7.0 latest_time=2025-09-26 13:50:19.914161 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0029 cve_id=RUSTSEC-2025-0029 pkg=totally-safe reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2024-10-13 15:44:34.315978 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0030 cve_id=RUSTSEC-2025-0030 pkg=totally-safe-transmute reason=no_patched_using_latest_version latest_version=0.0.4 latest_time=2022-10-09 03:24:09.791278 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0031 cve_id=RUSTSEC-2025-0031 pkg=tanton_engine reason=no_patched_using_latest_version latest_version=1.0.0 latest_time=2022-11-27 19:09:59.443777 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0033 cve_id=RUSTSEC-2025-0033 pkg=scanner reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2016-04-07 19:01:44.473969 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0034 cve_id=RUSTSEC-2025-0034 pkg=fast_id_map reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2024-03-03 12:18:45.512338 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0035 cve_id=RUSTSEC-2025-0035 pkg=macroquad reason=no_patched_using_latest_version latest_version=0.4.14 latest_time=2025-03-20 13:33:02.592966 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0036 cve_id=RUSTSEC-2025-0036 pkg=surf reason=no_patched_using_latest_version latest_version=2.3.2 latest_time=2021-11-01 19:42:02.284631 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0038 cve_id=RUSTSEC-2025-0038 pkg=arrow2 reason=no_patched_using_latest_version latest_version=0.18.0 latest_time=2023-09-17 08:00:04.117566 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0039 cve_id=RUSTSEC-2025-0039 pkg=anon-vec reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2023-08-23 17:49:53.388306 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0040 cve_id=CVE-2025-5791 pkg=users reason=no_patched_using_latest_version latest_version=0.11.0 latest_time=2020-10-08 02:15:28.604296 UTC patched_versions_count=0 unaffected_versions_count=1 patched_sample= unaffected_sample=< 0.8.0
+propagation fallback: rustsec_id=RUSTSEC-2025-0044 cve_id=RUSTSEC-2025-0044 pkg=slice-ring-buffer reason=no_patched_using_latest_version latest_version=0.3.4 latest_time=2024-07-27 05:36:55.376993 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0048 cve_id=RUSTSEC-2025-0048 pkg=tsify-next reason=no_patched_using_latest_version latest_version=0.5.6 latest_time=2025-04-20 17:07:48.365375 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0049 cve_id=RUSTSEC-2025-0049 pkg=scratchpad reason=no_patched_using_latest_version latest_version=1.3.1 latest_time=2021-02-19 10:05:16.077633 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0052 cve_id=RUSTSEC-2025-0052 pkg=async-std reason=no_patched_using_latest_version latest_version=1.13.2 latest_time=2025-08-15 01:43:25.834384 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0053 cve_id=RUSTSEC-2025-0053 pkg=arenavec reason=no_patched_using_latest_version latest_version=0.1.1 latest_time=2019-07-31 20:39:27.544786 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation: adv=791/880 pkg=tracing-subscriber queue=322 seen=960 events=1250 elapsed=4455.1s
+progress: 792/880 advisories, written_rows=30196, skipped=13, elapsed=4458.5s
+propagation fallback: rustsec_id=RUSTSEC-2025-0056 cve_id=RUSTSEC-2025-0056 pkg=adler reason=no_patched_using_latest_version latest_version=1.0.2 latest_time=2021-02-26 12:12:02.566 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0057 cve_id=RUSTSEC-2025-0057 pkg=fxhash reason=no_patched_using_latest_version latest_version=0.2.1 latest_time=2017-07-29 19:02:18.664479 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0058 cve_id=RUSTSEC-2025-0058 pkg=custom_derive reason=no_patched_using_latest_version latest_version=0.1.7 latest_time=2016-11-21 05:04:37.771915 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0059 cve_id=RUSTSEC-2025-0059 pkg=servo-fontconfig reason=no_patched_using_latest_version latest_version=0.5.1 latest_time=2020-07-09 15:36:02.052476 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0060 cve_id=RUSTSEC-2025-0060 pkg=crypto-hash reason=no_patched_using_latest_version latest_version=0.3.4 latest_time=2019-08-18 06:55:25.755576 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0061 cve_id=RUSTSEC-2025-0061 pkg=iron reason=no_patched_using_latest_version latest_version=0.6.1 latest_time=2019-08-14 18:28:22.400965 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0064 cve_id=RUSTSEC-2025-0064 pkg=wren_rust reason=no_patched_using_latest_version latest_version=0.2.0 latest_time=2017-06-19 19:37:10.864061 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0066 cve_id=RUSTSEC-2025-0066 pkg=google-apis-common reason=no_patched_using_latest_version latest_version=8.0.0 latest_time=2025-07-24 03:19:32.840265 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0067 cve_id=RUSTSEC-2025-0067 pkg=libyml reason=no_patched_using_latest_version latest_version=0.0.5 latest_time=2024-08-24 12:41:49.519714 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0068 cve_id=RUSTSEC-2025-0068 pkg=serde_yml reason=no_patched_using_latest_version latest_version=0.0.12 latest_time=2024-08-25 16:06:09.793708 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0069 cve_id=RUSTSEC-2025-0069 pkg=daemonize reason=no_patched_using_latest_version latest_version=0.5.0 latest_time=2023-02-25 07:57:03.268345 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0072 cve_id=RUSTSEC-2025-0072 pkg=wrflib reason=no_patched_using_latest_version latest_version=0.0.3 latest_time=2022-01-25 16:27:27.987502 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0074 cve_id=RUSTSEC-2025-0074 pkg=unic-segment reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:45:10.753005 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0075 cve_id=RUSTSEC-2025-0075 pkg=unic-char-range reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 04:58:08.510025 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0076 cve_id=RUSTSEC-2025-0076 pkg=unic-ucd-name reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:12:06.848374 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0077 cve_id=RUSTSEC-2025-0077 pkg=unic-ucd reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:12:56.218622 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0078 cve_id=RUSTSEC-2025-0078 pkg=unic-ucd-normal reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:12:23.635662 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0079 cve_id=RUSTSEC-2025-0079 pkg=unic-ucd-hangul reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:10:49.461512 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0080 cve_id=RUSTSEC-2025-0080 pkg=unic-common reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 04:57:59.630433 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0081 cve_id=RUSTSEC-2025-0081 pkg=unic-char-property reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 04:58:16.449988 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0082 cve_id=RUSTSEC-2025-0082 pkg=unic-normal reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:13:11.790557 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0083 cve_id=RUSTSEC-2025-0083 pkg=unic-ucd-bidi reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:11:08.628443 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0084 cve_id=RUSTSEC-2025-0084 pkg=unic-emoji reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:48:30.624986 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0085 cve_id=RUSTSEC-2025-0085 pkg=unic-idna reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:13:42.207776 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0086 cve_id=RUSTSEC-2025-0086 pkg=unic-char reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:10:32.066088 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0087 cve_id=RUSTSEC-2025-0087 pkg=unic-cli reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:49:37.305687 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0088 cve_id=RUSTSEC-2025-0088 pkg=unic-idna-punycode reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:13:32.254211 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0089 cve_id=RUSTSEC-2025-0089 pkg=unic-ucd-name_aliases reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:12:14.218840 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0090 cve_id=RUSTSEC-2025-0090 pkg=unic-emoji-char reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:48:10.653608 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0091 cve_id=RUSTSEC-2025-0091 pkg=unic-utils reason=no_patched_using_latest_version latest_version=0.6.0 latest_time=2017-09-22 19:36:23.477148 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0092 cve_id=RUSTSEC-2025-0092 pkg=unic-ucd-case reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:11:24.490390 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0093 cve_id=RUSTSEC-2025-0093 pkg=unic-char-basics reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:10:21.600564 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0094 cve_id=RUSTSEC-2025-0094 pkg=unic-ucd-category reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:10:42.955849 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0095 cve_id=RUSTSEC-2025-0095 pkg=unic reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:48:57.409553 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0096 cve_id=RUSTSEC-2025-0096 pkg=unic-bidi reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 07:44:53.168440 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0097 cve_id=RUSTSEC-2025-0097 pkg=unic-idna-mapping reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:13:25.276538 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0098 cve_id=RUSTSEC-2025-0098 pkg=unic-ucd-version reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 04:58:25.487899 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0099 cve_id=RUSTSEC-2025-0099 pkg=unic-ucd-block reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:11:15.969041 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0100 cve_id=RUSTSEC-2025-0100 pkg=unic-ucd-ident reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:11:39.054438 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0101 cve_id=RUSTSEC-2025-0101 pkg=unic-ucd-common reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:11:32.061858 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0102 cve_id=RUSTSEC-2025-0102 pkg=unic-ucd-age reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:10:59.811967 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0103 cve_id=RUSTSEC-2025-0103 pkg=unic-ucd-core reason=no_patched_using_latest_version latest_version=0.6.0 latest_time=2017-09-22 19:37:53.382951 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0104 cve_id=RUSTSEC-2025-0104 pkg=unic-ucd-segment reason=no_patched_using_latest_version latest_version=0.9.0 latest_time=2019-03-03 05:12:31.476662 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0108 cve_id=RUSTSEC-2025-0108 pkg=ncurses reason=no_patched_using_latest_version latest_version=6.0.1 latest_time=2024-07-12 17:40:24.069214 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0109 cve_id=RUSTSEC-2025-0109 pkg=binary_vec_io reason=no_patched_using_latest_version latest_version=0.1.12 latest_time=2021-11-12 23:38:25.450663 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0111 cve_id=RUSTSEC-2025-0111 pkg=tokio-tar reason=no_patched_using_latest_version latest_version=0.3.1 latest_time=2023-07-14 21:02:27.805709 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0113 cve_id=RUSTSEC-2025-0113 pkg=shaman reason=no_patched_using_latest_version latest_version=0.1.0 latest_time=2015-05-14 03:13:28.384618 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0114 cve_id=RUSTSEC-2025-0114 pkg=tandem_http_client reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2022-11-30 14:54:43.818732 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0115 cve_id=RUSTSEC-2025-0115 pkg=tandem_http_server reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2022-11-30 14:56:25.494506 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0116 cve_id=RUSTSEC-2025-0116 pkg=tandem_garble_interop reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2022-11-30 14:52:11.052864 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0117 cve_id=RUSTSEC-2025-0117 pkg=tandem reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2022-11-30 14:50:40.911156 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0119 cve_id=RUSTSEC-2025-0119 pkg=number_prefix reason=no_patched_using_latest_version latest_version=0.4.0 latest_time=2020-04-07 01:48:04.585296 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+skip: rustsec_id=RUSTSEC-2025-0120 cve_id=RUSTSEC-2025-0120 pkg=json5 reason=withdrawn detail=advisory withdrawn
+propagation fallback: rustsec_id=RUSTSEC-2025-0121 cve_id=RUSTSEC-2025-0121 pkg=gcc reason=no_patched_using_latest_version latest_version=0.3.55 latest_time=2018-10-08 22:06:05.796359 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0122 cve_id=RUSTSEC-2025-0122 pkg=cargo-asm reason=no_patched_using_latest_version latest_version=0.1.16 latest_time=2018-06-07 16:11:07.853596 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0123 cve_id=RUSTSEC-2025-0123 pkg=opentelemetry-jaeger reason=no_patched_using_latest_version latest_version=0.22.0 latest_time=2024-05-15 17:19:37.026720 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 860/880 advisories, written_rows=30302, skipped=14, elapsed=4464.0s
+propagation fallback: rustsec_id=RUSTSEC-2025-0124 cve_id=RUSTSEC-2025-0124 pkg=rand_os reason=no_patched_using_latest_version latest_version=0.2.2 latest_time=2019-08-28 14:24:22.432373 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0127 cve_id=CVE-2025-66017 pkg=cggmp21 reason=no_patched_using_latest_version latest_version=0.6.3 latest_time=2025-11-24 10:46:28.228234 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0131 cve_id=RUSTSEC-2025-0131 pkg=rtvm-interpreter reason=no_patched_using_latest_version latest_version=4.0.0 latest_time=2024-04-21 21:14:29.972484 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0134 cve_id=RUSTSEC-2025-0134 pkg=rustls-pemfile reason=no_patched_using_latest_version latest_version=2.2.0 latest_time=2024-09-30 16:29:22.598843 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+propagation fallback: rustsec_id=RUSTSEC-2025-0141 cve_id=RUSTSEC-2025-0141 pkg=bincode reason=no_patched_using_latest_version latest_version=2.0.1 latest_time=2025-03-10 18:28:08.334006 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+progress: 878/880 advisories, written_rows=30313, skipped=14, elapsed=4469.7s
+propagation fallback: rustsec_id=RUSTSEC-2025-0142 cve_id=RUSTSEC-2025-0142 pkg=mnl reason=no_patched_using_latest_version latest_version=0.3.0 latest_time=2025-11-18 10:10:56.816626 UTC patched_versions_count=0 unaffected_versions_count=0 patched_sample= unaffected_sample=
+verified propagation edges: 5 samples
+processed advisories: 880, written rows: 30313, skipped advisories: 14
+propagation fallback advisories (no patched using latest version): 340
+crates.io version-time fallback: hits=6 misses=4
+skipped advisories breakdown:
+  withdrawn: 12
+  no_fix_times: 2

@@ -1,0 +1,14 @@
+constraint break analysis (edge=downstream crate at fix_time)
+
+totals
+  downstream_crates_with_history = 128501
+  affected_edges                = 113224
+  locked_out_edges              = 24217
+  break_rate_percent            = 21
+  unknown_req_unparseable       = 0
+
+affected edges dep_req shape (at fix_time)
+  exact-pin (=...)              = 656
+  has upper bound (< or <=)     = 488
+  caret 0.x (^0.)               = 62010
+  other                         = 50070

@@ -37,6 +37,35 @@ cargo build --release
 
 本仓库的主要入口是两个二进制程序（`src/main.rs` 目前只是占位输出）。
 
+### 快速开始（最常用命令）
+
+全量分析命令（推荐，输出 strict lag CSV + 逐层传播报告 + 所有图）：
+
+```bash
+export PG_POOL_MAX=50
+
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --output rustsec_rqx2_strict_lags.csv \
+  --summary-output rustsec_rqx2_strict_summary.csv \
+  --log-output rustsec_rqx2_run.log \
+  --downstream-cache-crates 500 \
+  --propagation \
+  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir rustsec_rqx2_propagation_svgs \
+&& python3 plot_lag_distribution.py \
+  --by-severity \
+  --output-dir lag_days_by_severity_svgs
+```
+
+试跑命令（只跑前 N 条公告，用于检查环境/输出是否正常）：
+
+```bash
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --max-advisories 10 \
+  --propagation \
+  --log-output rustsec_rqx2_run.log
+```
+
 ### 1) 单个漏洞：`rqx2_strict`
 
 查看帮助：
@@ -96,8 +125,33 @@ cargo run --bin rqx2_rustsec_batch -- --help
 - `--propagation-events-limit <N>`：传播事件明细最多写入 N 行（0 表示不限）
 - `--propagation-max-hops <N>`：限制 BFS 的最大 hop（默认不限制）
 - `--propagation-bins <N>`：传播直方图 bins（默认 60）
+- `--constraint`：启用“依赖约束导致补丁无法下传”的断裂率分析
+- `--constraint-breakdown-output <PATH>`：断裂率逐公告明细 CSV（默认 `rustsec_rqx2_constraint_breakdown.csv`）
+- `--constraint-summary-output <PATH>`：断裂率汇总 txt（默认 `rustsec_rqx2_constraint_summary.txt`）
+- `--constraint-output-dir <DIR>`：断裂率相关 SVG 输出目录（默认 `rustsec_rqx2_constraint_svgs`）
+- `--constraint-bins <N>`：断裂率直方图 bins（默认 40）
+- `--constraint-min-age-days <N>`：仅统计修复起点时间距今至少 N 天的公告（默认 0，不过滤）
 - `--downstream-cache-crates <N>`：下游依赖查询缓存的 crate 数量（默认 50）
 - `--max-advisories <N>`：仅处理前 N 条公告（试跑用）
+- `--log-output <PATH>`：将运行进度/跳过原因/传播回退等日志写入文件（同时仍会输出到终端）
+
+传播回退口径（仅影响 `--propagation`）：
+
+- 如果公告里解析不出可用的修复版本（patched 信息缺失或无法提取出具体版本），会记录一条 `propagation fallback: ...` 日志，并用“该 crate 的最新版本发布时间”作为传播的起点版本/时间继续做向下游传播分析。
+- 如果 patched/unaffected 都为空，则视为“该 crate 所有版本都受影响”（用于漏洞版本集合判定）。
+  - 注意：strict lag 仍需要可用的 `fixed_version + fix_time` 才能计算；没有的话该公告不会产出 strict lag 行，但传播分析仍可继续进行。
+
+包名归一化（避免查库查不到版本）：
+
+- 少数 RustSec 公告里的 `package` 名称可能与 crates.io 名称不一致（例如 `rustdecimal` 实际是 `rust_decimal`）。程序会做一层别名映射，并在日志里输出 `package alias: rustsec_pkg=... db_pkg=...` 便于核对。
+
+修复时间获取策略（fix_time）：
+
+- strict lag 的 `fix_time` 优先来自 crates.io dump（PostgreSQL 的 versions.created_at）。
+- 如果 RustSec 给出的修复版本号在 dump 里查不到时间，会按下面顺序回退：
+  1. dump 内等价版本匹配（忽略 build metadata）：例如 dump 里可能有 `300.0.10+openssl-src.300.0.10`，而 RustSec 写的是 `300.0.10`。在语义化版本（SemVer）里，`+...` 属于 build metadata，**不参与版本大小比较**，因此它们语义上是同一个版本号；程序会在该 crate 的所有版本字符串里找出 major/minor/patch/pre 完全一致的“真实版本字符串”，再用它去查时间。
+  2. patched 约束下选取“最早已发布”的修复版本：如果 RustSec 提到的那个修复版本号本身并未发布到 crates.io（例如 API 404），就从 dump 里的已发布版本中，找出第一个满足 patched 约束的版本（它一定存在于 dump），并用它的 created_at 作为 `fix_time`。
+  3. crates.io API 回退：若 dump 仍查不到，则请求 `https://crates.io/api/v1/crates/<crate>/<version>`，用返回的 `created_at` 作为该版本发布时间（会在最终汇总打印 `crates.io version-time fallback: hits=... misses=...`）。
 
 #### 一键生成完整结果（明细 + 汇总 + 逐层传播报告 + 所有图）
 
@@ -114,21 +168,66 @@ export PG_POOL_MAX=50
 cargo run --release --bin rqx2_rustsec_batch -- \
   --output rustsec_rqx2_strict_lags.csv \
   --summary-output rustsec_rqx2_strict_summary.csv \
+  --log-output rustsec_rqx2_run.log \
   --downstream-cache-crates 500 \
   --propagation \
   --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
   --propagation-output-dir rustsec_rqx2_propagation_svgs \
+  --constraint \
+  --constraint-breakdown-output rustsec_rqx2_constraint_breakdown.csv \
+  --constraint-summary-output rustsec_rqx2_constraint_summary.txt \
+  --constraint-output-dir rustsec_rqx2_constraint_svgs \
 && python3 plot_lag_distribution.py \
   --by-severity \
   --output-dir lag_days_by_severity_svgs
 ```
+
+#### 输出文件总览（路径 / 内容）
+
+该项目会输出多类文件，默认都写在当前工作目录；大部分路径都可通过参数覆盖（见 `--help`）。
+
+批处理主程序 `rqx2_rustsec_batch`：
+
+- strict lag 明细 CSV：`./rustsec_rqx2_strict_lags.csv`（可用 `--output` 改名）
+  - 每行是一条“严格修复事件”（某公告 × 某下游 crate），字段见下文明细解释
+- strict lag 汇总 CSV：`./rustsec_rqx2_strict_summary.csv`（可用 `--summary-output` 改名）
+  - 按公告汇总 strict lag 的 `count/min/p50/avg/max`
+- 运行日志（可选）：`./rustsec_rqx2_run.log`（用 `--log-output` 开启）
+  - 包含进度、跳过原因、修复时间回退、传播回退等信息
+
+传播分析（需要 `--propagation`）：
+
+- 传播统计 txt：`./rustsec_rqx2_propagation_summary.txt`（可用 `--propagation-summary-output` 改名）
+  - 对 hop=1..K 以及 all hops 的 `lag_days` 统计（count/min/p50/avg/max）
+- 传播直方图目录：`./rustsec_rqx2_propagation_svgs/`（可用 `--propagation-output-dir` 改目录）
+  - `propagation_lag_hist_all.svg`：所有 hop 合并后的分布图
+  - `propagation_lag_hist_hop_<K>.svg`：每一层 hop 的分布图
+- 传播事件明细 CSV（可选）：由 `--propagation-events-output <PATH>` 指定
+  - 记录传播边的采样明细（用于抽样校验/复现）
+
+链条断裂率（需要 `--constraint`）：
+
+- 断裂率逐公告明细 CSV：`./rustsec_rqx2_constraint_breakdown.csv`（可用 `--constraint-breakdown-output` 改名）
+  - 每条公告一行：受影响边数量、断裂边数量、断裂率百分比、以及 `dep_req` 形态计数
+- 断裂率汇总 txt：`./rustsec_rqx2_constraint_summary.txt`（可用 `--constraint-summary-output` 改名）
+  - 全量汇总（affected_edges / locked_out_edges / break_rate_percent）及形态分布
+- 断裂率图表目录：`./rustsec_rqx2_constraint_svgs/`（可用 `--constraint-output-dir` 改目录）
+  - `constraint_break_rate_hist_advisory.svg`：逐公告断裂率分布直方图
+  - `constraint_req_shape_bar.svg`：受影响边的 `dep_req` 形态柱状图
+
+Python 辅助脚本：
+
+- strict lag 直方图（单图）：默认 `./lag_days_hist.svg`（`python3 plot_lag_distribution.py --output ...`）
+- strict lag 直方图（按 severity 分组）：输出到 `--output-dir` 指定目录（例如 `./lag_days_by_severity_svgs/`）
+- strict summary 表格（Markdown）：`python3 render_summary_table.py --output <PATH>`（默认输出到 stdout）
 
 试跑版（只跑前 N 条公告）：
 
 ```bash
 cargo run --release --bin rqx2_rustsec_batch -- \
   --max-advisories 10 \
-  --propagation
+  --propagation \
+  --log-output rustsec_rqx2_run.log
 ```
 
 #### 运行完整分析
@@ -144,6 +243,8 @@ cargo run --release --bin rqx2_rustsec_batch
 2.  连接本地 PostgreSQL 数据库（通过 `PG_HOST/PG_USER/PG_PASSWORD/PG_DATABASE` 等环境变量配置）。
 3.  对所有公告进行全量版本判定与 strict lag 计算。
 4.  输出结果到 `rustsec_rqx2_strict_lags.csv`（明细）和 `rustsec_rqx2_strict_summary.csv`（汇总）。
+
+注意：该命令默认不启用 `--propagation`，也不会生成传播 SVG 或按 severity 的图；如果你想要“全量 + 传播 + 图”，用上面的“快速开始（最常用命令）”即可。
 
 输出：
 
@@ -281,6 +382,59 @@ cargo run --release --bin rqx2_rustsec_batch -- \
 - `rustsec_rqx2_propagation_summary.txt`：按 hop 与全量 all hops 的统计（count / min / p50 / avg / max）。
 - `rustsec_rqx2_propagation_svgs/propagation_lag_hist_all.svg`：所有 hop 合并后的 `lag_days` 分布图。
 - `rustsec_rqx2_propagation_svgs/propagation_lag_hist_hop_<K>.svg`：每一层 hop 的 `lag_days` 分布图。
+
+#### 链条断裂率（依赖约束导致补丁无法下传）
+
+目标：评估“版本锁定/依赖约束政策”对安全补丁传播的结构性阻碍。
+
+什么时候需要看依赖约束：
+
+- 对于某个 RustSec 公告的上游 crate，在修复时间点 `fix_time`，如果某个下游 crate 的依赖约束 `dep_req` 允许受影响版本，但不允许任何已发布的修复版本，则该下游在不改约束的前提下无法通过解析到达修复版本，属于“链条断裂”。
+
+统计口径（对 `DownstreamVersionInfo.dep_req` 的形态做归类）：
+
+- `=...`：精确锁死（exact pin）
+- 含 `<` 或 `<=`：显式上界（upper bound）
+- `^0.`：0.x 隐性锁定风险较高（caret 0.x）
+- 其它：不属于以上三类
+
+运行命令（在跑 strict lag / propagation 时顺带输出断裂率统计与图）：
+
+```bash
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --constraint \
+  --constraint-min-age-days 30 \
+  --constraint-summary-output rustsec_rqx2_constraint_summary.txt \
+  --constraint-breakdown-output rustsec_rqx2_constraint_breakdown.csv \
+  --constraint-output-dir rustsec_rqx2_constraint_svgs
+```
+
+输出文件：
+
+- `rustsec_rqx2_constraint_summary.txt`：全量汇总（affected_edges / locked_out_edges / break_rate_percent）以及受影响边的依赖约束形态分布。
+- `rustsec_rqx2_constraint_breakdown.csv`：逐公告明细（每条公告的 affected_edges、locked_out_edges、break_rate_percent 与形态计数）。
+- `rustsec_rqx2_constraint_svgs/constraint_break_rate_hist_advisory.svg`：逐公告断裂率（百分比）的分布直方图。
+- `rustsec_rqx2_constraint_svgs/constraint_req_shape_bar.svg`：受影响边的依赖约束形态柱状图。
+
+口径解释（`fix_time` / “最近一次版本” / 指标含义）：
+
+- `fix_time`：该公告的“修复已出现”的时间戳，来自 crates.io 的版本发布时间 `created_at`。一个公告可能在多个版本线上都有修复版本（例如同时修了 `0.3.9` 与 `0.4.2`），因此会得到多个修复版本发布时间。断裂率分析需要选定一个时间截面作为快照，这里取“最早出现的修复发布时间”作为 `fix_time`，含义是：从这个时刻开始，生态里已经存在至少一个可用修复版本。注意这里度量的是“约束是否允许解析到修复”（结构性可达性），不等价于“下游是否已经完成修复发布”。如果你担心“修复刚发布一两天，生态还来不及行动”带来解释困难，可以用 `--constraint-min-age-days` 过滤掉过新的公告（例如 30 天）。
+- “修复时点快照”：对每个（公告，target_crate）的统计，都会把时间固定在该公告的 `fix_time`，只看“当时下游生态的依赖约束长什么样”。
+- “最近一次版本”：对每个下游 crate，把它所有发布版本按 `created_at` 排序，取 `created_at < fix_time` 的最后一个版本；该版本对应的 `dep_req` 就是该下游在修复时点的“当前依赖约束”。如果某下游在 `fix_time` 之前还没有发布过任何版本，则该下游不会参与该公告的断裂率统计。
+- edge：这里的一条 edge 表示“在 `fix_time` 修复时点，一个下游 crate 对上游 target_crate 的一条依赖约束快照”。
+- `affected_edges`：在这些 edge 中，`dep_req` 允许至少一个已知受影响版本（vuln_versions）的 edge 数量。vuln_versions 是用该 crate 的历史版本集合结合 RustSec 的 patched/unaffected 推导得到的“受影响版本集合”。
+- `locked_out_edges`：在 `affected_edges` 中，`dep_req` 不允许任何已发布的修复版本（patched 提取到且能查到发布时间的修复版本集合）的 edge 数量；这表示“不修改约束，仅靠解析/更新无法到达修复版本”，属于链条断裂。
+- `break_rate_percent`：`locked_out_edges / affected_edges * 100`（整数百分比）。
+- `unknown_req_unparseable`：修复时点的 `dep_req` 无法被 semver 解析的 edge 数量；这类 edge 无法判断是否受影响/是否断裂。
+- `affected edges dep_req shape`：只在 `affected_edges` 里，对修复时点的 `dep_req` 做简单形态分桶计数：
+  - `=...`：精确锁死
+  - 含 `<` 或 `<=`：显式上界
+  - `^0.`：0.x caret 约束
+  - 其它：不属于以上三类
+
+注意：
+
+- `constraint_summary.txt` 的 totals 是跨所有公告累加的计数，同一个下游 crate 在不同公告里会重复出现；如果需要按公告解读断裂率，用 `rustsec_rqx2_constraint_breakdown.csv` 更直观。
 
 运行时进度输出：
 
