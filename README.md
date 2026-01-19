@@ -6,7 +6,7 @@
 
 ### 1) crates.io PostgreSQL 数据库
 
-程序会直接查询 crates.io 的关系型数据（至少需要 `crates / versions / dependencies` 等表）。仓库里提供了一个导入脚本 [import.sql](file:///home/test/rust_project_backup/import.sql)（假设你已经准备好了 `data/*.csv` 的 crates.io dump）。
+程序会直接查询 crates.io 的关系型数据（至少需要 `crates / versions / dependencies` 等表）。仓库里提供了一个导入脚本 [import.sql](file:///home/test/rust_project_backup/tools/db/import.sql)（假设你已经准备好了 `data/*.csv` 的 crates.io dump）。
 
 ### 2) 环境变量
 
@@ -45,16 +45,16 @@ cargo build --release
 export PG_POOL_MAX=50
 
 cargo run --release --bin rqx2_rustsec_batch -- \
-  --output rustsec_rqx2_strict_lags.csv \
-  --summary-output rustsec_rqx2_strict_summary.csv \
-  --log-output rustsec_rqx2_run.log \
+  --output outputs/strict/rustsec_rqx2_strict_lags.csv \
+  --summary-output outputs/strict/rustsec_rqx2_strict_summary.csv \
+  --log-output outputs/logs/rustsec_rqx2_run.log \
   --downstream-cache-crates 500 \
   --propagation \
-  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
-  --propagation-output-dir rustsec_rqx2_propagation_svgs \
-&& python3 plot_lag_distribution.py \
+  --propagation-summary-output outputs/propagation/rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir outputs/propagation/rustsec_rqx2_propagation_svgs \
+&& python3 tools/plot_lag_distribution.py \
   --by-severity \
-  --output-dir lag_days_by_severity_svgs
+  --output-dir outputs/figures/lag_days_by_severity_svgs
 ```
 
 试跑命令（只跑前 N 条公告，用于检查环境/输出是否正常）：
@@ -63,7 +63,7 @@ cargo run --release --bin rqx2_rustsec_batch -- \
 cargo run --release --bin rqx2_rustsec_batch -- \
   --max-advisories 10 \
   --propagation \
-  --log-output rustsec_rqx2_run.log
+  --log-output outputs/logs/rustsec_rqx2_run.log
 ```
 
 ### 1) 单个漏洞：`rqx2_strict`
@@ -166,60 +166,60 @@ cargo run --bin rqx2_rustsec_batch -- --help
 export PG_POOL_MAX=50
 
 cargo run --release --bin rqx2_rustsec_batch -- \
-  --output rustsec_rqx2_strict_lags.csv \
-  --summary-output rustsec_rqx2_strict_summary.csv \
-  --log-output rustsec_rqx2_run.log \
+  --output outputs/strict/rustsec_rqx2_strict_lags.csv \
+  --summary-output outputs/strict/rustsec_rqx2_strict_summary.csv \
+  --log-output outputs/logs/rustsec_rqx2_run.log \
   --downstream-cache-crates 500 \
   --propagation \
-  --propagation-summary-output rustsec_rqx2_propagation_summary.txt \
-  --propagation-output-dir rustsec_rqx2_propagation_svgs \
+  --propagation-summary-output outputs/propagation/rustsec_rqx2_propagation_summary.txt \
+  --propagation-output-dir outputs/propagation/rustsec_rqx2_propagation_svgs \
   --constraint \
-  --constraint-breakdown-output rustsec_rqx2_constraint_breakdown.csv \
-  --constraint-summary-output rustsec_rqx2_constraint_summary.txt \
-  --constraint-output-dir rustsec_rqx2_constraint_svgs \
-&& python3 plot_lag_distribution.py \
+  --constraint-breakdown-output outputs/constraint/rustsec_rqx2_constraint_breakdown.csv \
+  --constraint-summary-output outputs/constraint/rustsec_rqx2_constraint_summary.txt \
+  --constraint-output-dir outputs/constraint/rustsec_rqx2_constraint_svgs \
+&& python3 tools/plot_lag_distribution.py \
   --by-severity \
-  --output-dir lag_days_by_severity_svgs
+  --output-dir outputs/figures/lag_days_by_severity_svgs
 ```
 
 #### 输出文件总览（路径 / 内容）
 
-该项目会输出多类文件，默认都写在当前工作目录；大部分路径都可通过参数覆盖（见 `--help`）。
+该项目会输出多类文件；建议统一写入 `outputs/` 目录，便于区分“代码 vs 结果”。大部分路径都可通过参数覆盖（见 `--help`）。
 
 批处理主程序 `rqx2_rustsec_batch`：
 
-- strict lag 明细 CSV：`./rustsec_rqx2_strict_lags.csv`（可用 `--output` 改名）
+- strict lag 明细 CSV：`./outputs/strict/rustsec_rqx2_strict_lags.csv`（可用 `--output` 改名）
   - 每行是一条“严格修复事件”（某公告 × 某下游 crate），字段见下文明细解释
-- strict lag 汇总 CSV：`./rustsec_rqx2_strict_summary.csv`（可用 `--summary-output` 改名）
+- strict lag 汇总 CSV：`./outputs/strict/rustsec_rqx2_strict_summary.csv`（可用 `--summary-output` 改名）
   - 按公告汇总 strict lag 的 `count/min/p50/avg/max`
-- 运行日志（可选）：`./rustsec_rqx2_run.log`（用 `--log-output` 开启）
+- 运行日志（可选）：`./outputs/logs/rustsec_rqx2_run.log`（用 `--log-output` 开启）
   - 包含进度、跳过原因、修复时间回退、传播回退等信息
 
 传播分析（需要 `--propagation`）：
 
-- 传播统计 txt：`./rustsec_rqx2_propagation_summary.txt`（可用 `--propagation-summary-output` 改名）
+- 传播统计 txt：`./outputs/propagation/rustsec_rqx2_propagation_summary.txt`（可用 `--propagation-summary-output` 改名）
   - 对 hop=1..K 以及 all hops 的 `lag_days` 统计（count/min/p50/avg/max）
-- 传播直方图目录：`./rustsec_rqx2_propagation_svgs/`（可用 `--propagation-output-dir` 改目录）
+- 传播直方图目录：`./outputs/propagation/rustsec_rqx2_propagation_svgs/`（可用 `--propagation-output-dir` 改目录）
   - `propagation_lag_hist_all.svg`：所有 hop 合并后的分布图
   - `propagation_lag_hist_hop_<K>.svg`：每一层 hop 的分布图
-- 传播事件明细 CSV（可选）：由 `--propagation-events-output <PATH>` 指定
+- 传播事件明细 CSV（可选）：由 `--propagation-events-output <PATH>` 指定（建议：`./outputs/propagation/propagation_events_raw.csv`）
   - 记录传播边的采样明细（用于抽样校验/复现）
 
 链条断裂率（需要 `--constraint`）：
 
-- 断裂率逐公告明细 CSV：`./rustsec_rqx2_constraint_breakdown.csv`（可用 `--constraint-breakdown-output` 改名）
+- 断裂率逐公告明细 CSV：`./outputs/constraint/rustsec_rqx2_constraint_breakdown.csv`（可用 `--constraint-breakdown-output` 改名）
   - 每条公告一行：受影响边数量、断裂边数量、断裂率百分比、以及 `dep_req` 形态计数
-- 断裂率汇总 txt：`./rustsec_rqx2_constraint_summary.txt`（可用 `--constraint-summary-output` 改名）
+- 断裂率汇总 txt：`./outputs/constraint/rustsec_rqx2_constraint_summary.txt`（可用 `--constraint-summary-output` 改名）
   - 全量汇总（affected_edges / locked_out_edges / break_rate_percent）及形态分布
-- 断裂率图表目录：`./rustsec_rqx2_constraint_svgs/`（可用 `--constraint-output-dir` 改目录）
+- 断裂率图表目录：`./outputs/constraint/rustsec_rqx2_constraint_svgs/`（可用 `--constraint-output-dir` 改目录）
   - `constraint_break_rate_hist_advisory.svg`：逐公告断裂率分布直方图
   - `constraint_req_shape_bar.svg`：受影响边的 `dep_req` 形态柱状图
 
 Python 辅助脚本：
 
-- strict lag 直方图（单图）：默认 `./lag_days_hist.svg`（`python3 plot_lag_distribution.py --output ...`）
-- strict lag 直方图（按 severity 分组）：输出到 `--output-dir` 指定目录（例如 `./lag_days_by_severity_svgs/`）
-- strict summary 表格（Markdown）：`python3 render_summary_table.py --output <PATH>`（默认输出到 stdout）
+- strict lag 直方图（单图）：默认 `./outputs/figures/lag_days_hist.svg`（`python3 tools/plot_lag_distribution.py --output ...`）
+- strict lag 直方图（按 severity 分组）：输出到 `--output-dir` 指定目录（例如 `./outputs/figures/lag_days_by_severity_svgs/`）
+- strict summary 表格（Markdown）：`python3 tools/render_summary_table.py --output <PATH>`（默认输出到 stdout）
 
 试跑版（只跑前 N 条公告）：
 
@@ -227,7 +227,7 @@ Python 辅助脚本：
 cargo run --release --bin rqx2_rustsec_batch -- \
   --max-advisories 10 \
   --propagation \
-  --log-output rustsec_rqx2_run.log
+  --log-output outputs/logs/rustsec_rqx2_run.log
 ```
 
 #### 运行完整分析
@@ -242,7 +242,7 @@ cargo run --release --bin rqx2_rustsec_batch
 1.  下载最新的 RustSec Advisory Database。
 2.  连接本地 PostgreSQL 数据库（通过 `PG_HOST/PG_USER/PG_PASSWORD/PG_DATABASE` 等环境变量配置）。
 3.  对所有公告进行全量版本判定与 strict lag 计算。
-4.  输出结果到 `rustsec_rqx2_strict_lags.csv`（明细）和 `rustsec_rqx2_strict_summary.csv`（汇总）。
+4.  输出结果到 `outputs/strict/rustsec_rqx2_strict_lags.csv`（明细）和 `outputs/strict/rustsec_rqx2_strict_summary.csv`（汇总）。
 
 注意：该命令默认不启用 `--propagation`，也不会生成传播 SVG 或按 severity 的图；如果你想要“全量 + 传播 + 图”，用上面的“快速开始（最常用命令）”即可。
 
@@ -295,7 +295,7 @@ python3 plot_lag_distribution.py \
 ```bash
 python3 plot_lag_distribution.py \
   --by-severity \
-  --output-dir lag_days_by_severity_svgs_all
+  --output-dir lag_days_by_severity_svgs
 ```
 
 - 分组图（按 severity + 过滤）：输出一个目录（目录名建议包含 filter 标识）

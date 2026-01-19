@@ -13,6 +13,18 @@ use semver::{Op, Version, VersionReq};
 use time_to_fix_cve::database::{Database, DownstreamVersionInfo};
 use zip::ZipArchive;
 
+fn ensure_parent_dir(path: &str) -> Result<()> {
+    let p = Path::new(path);
+    let Some(parent) = p.parent() else {
+        return Ok(());
+    };
+    if parent.as_os_str().is_empty() {
+        return Ok(());
+    }
+    std::fs::create_dir_all(parent)?;
+    Ok(())
+}
+
 struct Logger {
     file: Option<std::io::BufWriter<std::fs::File>>,
 }
@@ -20,6 +32,7 @@ struct Logger {
 impl Logger {
     fn new(path: Option<&str>) -> Result<Self> {
         let file = if let Some(p) = path {
+            ensure_parent_dir(p)?;
             Some(std::io::BufWriter::new(std::fs::File::create(p)?))
         } else {
             None
@@ -133,6 +146,18 @@ struct Args {
 #[tokio::main]
 async fn main() -> Result<()> {
     let args = Args::parse();
+    ensure_parent_dir(&args.output)?;
+    ensure_parent_dir(&args.summary_output)?;
+    if args.propagation {
+        ensure_parent_dir(&args.propagation_summary_output)?;
+    }
+    if let Some(p) = args.propagation_events_output.as_deref() {
+        ensure_parent_dir(p)?;
+    }
+    if args.constraint {
+        ensure_parent_dir(&args.constraint_breakdown_output)?;
+        ensure_parent_dir(&args.constraint_summary_output)?;
+    }
     let mut logger = Logger::new(args.log_output.as_deref())?;
 
     logger.println("connecting to postgres...")?;
@@ -1052,11 +1077,15 @@ async fn main() -> Result<()> {
                 &all_lags,
                 args.propagation_bins,
                 x_max,
+                true,
                 &format!(
                     "propagation lag_days histogram (all hops, n={})",
                     all_lags.len()
                 ),
-                &format!("bins={}, x_max={}", args.propagation_bins, x_max),
+                &format!(
+                    "bins={}, x_max={}, y_scale=log10",
+                    args.propagation_bins, x_max
+                ),
             )?;
         }
 
@@ -1071,12 +1100,16 @@ async fn main() -> Result<()> {
                 lags,
                 args.propagation_bins,
                 x_max,
+                true,
                 &format!(
                     "propagation lag_days histogram (hop={}, n={})",
                     hop,
                     lags.len()
                 ),
-                &format!("bins={}, x_max={}", args.propagation_bins, x_max),
+                &format!(
+                    "bins={}, x_max={}, y_scale=log10",
+                    args.propagation_bins, x_max
+                ),
             )?;
         }
     }
@@ -1153,11 +1186,15 @@ async fn main() -> Result<()> {
                 &constraint_break_rate_per_adv_percent,
                 args.constraint_bins,
                 x_max,
+                false,
                 &format!(
                     "constraint break_rate histogram (per advisory, n={})",
                     constraint_break_rate_per_adv_percent.len()
                 ),
-                &format!("bins={}, x_max={}", args.constraint_bins, x_max),
+                &format!(
+                    "bins={}, x_max={}, y_scale=linear",
+                    args.constraint_bins, x_max
+                ),
             )?;
         }
 
@@ -1701,13 +1738,24 @@ fn write_hist_svg(
     values: &[i64],
     bins: usize,
     x_max: i64,
+    log_y: bool,
     title: &str,
     subtitle: &str,
 ) -> Result<()> {
     let bins = bins.max(1);
     let x_max = x_max.max(1);
     let counts = histogram_counts(values, bins, x_max);
-    let y_max = counts.iter().copied().max().unwrap_or(0).max(1) as f64;
+
+    let y_values: Vec<f64> = if log_y {
+        counts
+            .iter()
+            .map(|&c| if c > 0 { (c as f64).log10() } else { 0.0 })
+            .collect()
+    } else {
+        counts.iter().map(|&c| c as f64).collect()
+    };
+
+    let y_max = y_values.iter().copied().fold(0.0, f64::max).max(1.0);
 
     let w = 960.0;
     let h = 540.0;
@@ -1748,11 +1796,16 @@ fn write_hist_svg(
         parts.push(format!(
             r#"<line x1="{x0:.2}" y1="{y:.2}" x2="{x1:.2}" y2="{y:.2}" stroke="{grid}" stroke-width="1"/>"#
         ));
+        let label_val = if log_y {
+            format!("{:.1}", t)
+        } else {
+            format!("{:.0}", t)
+        };
         parts.push(format!(
             r#"<text x="{x:.2}" y="{ytext:.2}" text-anchor="end" font-family="{font}" font-size="12" fill="{axis}">{label}</text>"#,
             x = x0 - 10.0,
             ytext = y + 4.0,
-            label = svg_escape(&format!("{t:.0}"))
+            label = svg_escape(&label_val)
         ));
     }
 
@@ -1775,8 +1828,8 @@ fn write_hist_svg(
         r#"<line x1="{x0:.2}" y1="{y0:.2}" x2="{x0:.2}" y2="{y1:.2}" stroke="{axis}" stroke-width="1.5"/>"#
     ));
 
-    for (i, &c) in counts.iter().enumerate() {
-        let bh = (c as f64 / y_max) * plot_h;
+    for (i, &v) in y_values.iter().enumerate() {
+        let bh = (v / y_max) * plot_h;
         let x = x0 + i as f64 * bar_w;
         let y = y1 - bh;
         parts.push(format!(
@@ -1800,9 +1853,12 @@ fn write_hist_svg(
         x = w / 2.0,
         y = h - 20.0
     ));
+
+    let y_label = if log_y { "count (log10)" } else { "count" };
     parts.push(format!(
-        r#"<text x="18" y="{y:.2}" text-anchor="middle" font-family="{font}" font-size="14" fill="{axis}" transform="rotate(-90 18 {y:.2})">count</text>"#,
-        y = h / 2.0
+        r#"<text x="18" y="{y:.2}" text-anchor="middle" font-family="{font}" font-size="14" fill="{axis}" transform="rotate(-90 18 {y:.2})">{lbl}</text>"#,
+        y = h / 2.0,
+        lbl = y_label
     ));
     parts.push("</svg>\n".to_string());
 
