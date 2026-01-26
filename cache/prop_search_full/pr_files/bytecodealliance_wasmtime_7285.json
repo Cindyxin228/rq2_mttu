@@ -1,0 +1,1 @@
+["crates/wasmtime/src/config.rs", "crates/wasmtime/src/engine/serialization.rs", "tests/all/module.rs"]

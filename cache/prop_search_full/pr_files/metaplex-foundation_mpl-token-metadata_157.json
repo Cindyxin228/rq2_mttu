@@ -1,0 +1,1 @@
+["clients/js/test/close/fungible.test.ts", "clients/js/test/close/nonFungible.test.ts", "clients/js/test/revokeCollectionV1.test.ts", "programs/token-metadata/program/src/processor/delegate/revoke.rs", "programs/token-metadata/program/tests/utils/metadata.rs"]

@@ -1,0 +1,1 @@
+["configs/moshi_mlx_2b.json", "moshi_mlx/moshi_mlx/models/generate.py", "moshi_mlx/moshi_mlx/models/lm.py", "moshi_mlx/moshi_mlx/run_inference.py"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "about.toml", "client-keystore/Cargo.toml", "client-keystore/src/lib.rs", "primitives/Cargo.toml", "primitives/src/pallet_traits/pallet_contracts_config.rs", "primitives/src/serde_impls.rs", "primitives/src/types.rs"]

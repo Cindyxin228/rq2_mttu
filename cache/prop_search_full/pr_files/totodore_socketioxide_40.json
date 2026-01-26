@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/src/chat/handlers.rs", "socketioxide/src/adapter.rs", "socketioxide/src/client.rs", "socketioxide/src/errors.rs", "socketioxide/src/ns.rs", "socketioxide/src/operators.rs", "socketioxide/src/socket.rs"]

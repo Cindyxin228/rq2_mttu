@@ -1,0 +1,1 @@
+["README.md", "examples/bq_load_job.rs", "examples/client.rs", "examples/pagination.rs", "src/client_builder.rs", "src/dataset.rs", "src/job.rs", "src/lib.rs", "src/table.rs", "src/tabledata.rs"]

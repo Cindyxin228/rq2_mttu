@@ -1,0 +1,1 @@
+["golem-cli/tests/api_deployment_fileserver.rs", "golem-worker-service-base/src/gateway_execution/file_server_binding_handler.rs", "golem-worker-service-base/src/gateway_execution/to_response.rs", "test-components/file-server/golem.yaml"]

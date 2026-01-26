@@ -1,0 +1,1 @@
+[".changes/archive-format-plain-breaking-changes.md", ".changes/extract-file-breaking.change.md", ".changes/extract-files-breaking-change.md", ".changes/extract-performance.md", "core/tauri/src/api/error.rs", "core/tauri/src/api/file/extract.rs", "core/tauri/src/updater/core.rs"]

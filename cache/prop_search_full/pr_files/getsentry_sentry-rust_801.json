@@ -1,0 +1,1 @@
+["CHANGELOG.md", "sentry-core/src/performance.rs", "sentry-opentelemetry/src/processor.rs", "sentry-opentelemetry/tests/creates_distributed_trace.rs"]

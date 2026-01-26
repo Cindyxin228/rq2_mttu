@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/Cargo.toml", "lib/sparesults/Cargo.toml", "lib/sparesults/src/error.rs", "lib/sparesults/src/json.rs", "lib/src/sparql/eval.rs", "lib/src/sparql/mod.rs", "lints/test_debian_compatibility.py"]

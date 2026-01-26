@@ -1,0 +1,1 @@
+["derive/src/args.rs", "derive/src/complex_object.rs", "derive/src/input_object.rs", "derive/src/object.rs", "derive/src/subscription.rs", "src/docs/complex_object.md", "src/docs/input_object.md", "src/docs/object.md", "src/docs/subscription.md", "tests/complex_object.rs", "tests/input_object.rs", "tests/object.rs"]

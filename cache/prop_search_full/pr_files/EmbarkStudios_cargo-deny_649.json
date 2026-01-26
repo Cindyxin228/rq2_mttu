@@ -1,0 +1,1 @@
+["Cargo.lock", "tests/bans.rs", "tests/snapshots/bans__deny_target_specific_dependencies-2.snap", "tests/snapshots/bans__deny_target_specific_dependencies-3.snap", "tests/snapshots/bans__deny_target_specific_dependencies.snap", "tests/snapshots/licenses__clarifications.snap", "tests/test_data/features/Cargo.lock", "tests/test_data/features/Cargo.toml"]

@@ -1,0 +1,1 @@
+["cli/args/config_file.rs", "cli/args/flags.rs", "cli/args/mod.rs", "cli/lsp/analysis.rs", "cli/lsp/diagnostics.rs", "cli/lsp/language_server.rs", "cli/lsp/testing/execution.rs", "cli/main.rs", "cli/tools/bench.rs", "cli/tools/fmt.rs", "cli/tools/lint.rs", "cli/tools/test.rs", "cli/tools/vendor/mod.rs", "cli/util/file_watcher.rs", "cli/util/fs.rs"]

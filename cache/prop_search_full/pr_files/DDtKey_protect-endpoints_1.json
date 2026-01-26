@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "examples/base_example.rs", "examples/integration-httpauth.rs", "src/authorities/extractors.rs", "src/guards.rs", "src/middleware.rs", "tests/authorities_check/guard_check.rs", "tests/authorities_check/manual_check.rs", "tests/common.rs", "tests/proc_macro/different_fn_types.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build-test-contracts-common.yaml", ".github/workflows/build-test-sources.yaml", "rust-bins/src/bin/keygen-genesis.rs", "rust-bins/src/bin/keygen.rs", "rust-bins/src/lib.rs", "rust-src/ed25519_hd_key_derivation/src/lib.rs", "rust-src/key_derivation/src/lib.rs"]

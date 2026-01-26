@@ -1,0 +1,1 @@
+["fedimint-cli/src/client.rs", "fedimint-client/src/db.rs", "fedimint-client/src/lib.rs", "fedimint-client/src/oplog.rs", "flake.nix", "modules/fedimint-wallet-tests/tests/tests.rs"]

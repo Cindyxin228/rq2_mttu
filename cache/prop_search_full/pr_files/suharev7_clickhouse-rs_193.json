@@ -1,0 +1,1 @@
+["src/binary/parser.rs", "src/binary/protocol.rs", "src/client_info.rs", "src/io/transport.rs", "src/types/cmd.rs", "src/types/mod.rs", "src/types/options.rs", "tests/clickhouse.rs"]

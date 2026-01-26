@@ -1,0 +1,1 @@
+[".gitattributes", ".github/workflows/rust.yml", "datafusion/proto/Cargo.toml", "datafusion/proto/build.rs", "datafusion/proto/src/generated/.gitignore", "datafusion/proto/src/generated/mod.rs", "datafusion/proto/src/generated/pbjson.rs", "datafusion/proto/src/generated/prost.rs", "dev/release/rat_exclude_files.txt", "docs/source/contributor-guide/index.md"]

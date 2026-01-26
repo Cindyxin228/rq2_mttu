@@ -1,0 +1,1 @@
+["README.md", "wonnx-cli/src/gpu.rs", "wonnx/src/compiler.rs", "wonnx/templates/matrix/gemm.wgsl", "wonnx/templates/matrix/gemm_1.wgsl", "wonnx/tests/matrix.rs"]

@@ -1,0 +1,1 @@
+["cassandra-protocol/src/frame.rs", "cassandra-protocol/src/frame/frame_batch.rs", "cassandra-protocol/src/frame/frame_prepare.rs", "cassandra-protocol/src/frame/frame_query.rs", "cassandra-protocol/src/query/batch_query_builder.rs", "cassandra-protocol/src/types.rs"]

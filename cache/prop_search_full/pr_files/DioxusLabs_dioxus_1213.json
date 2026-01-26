@@ -1,0 +1,1 @@
+["packages/core/src/scopes.rs", "packages/liveview/src/adapters/axum_adapter.rs", "packages/liveview/src/adapters/salvo_adapter.rs", "packages/liveview/src/adapters/warp_adapter.rs", "packages/liveview/src/pool.rs", "packages/signals/src/lib.rs"]

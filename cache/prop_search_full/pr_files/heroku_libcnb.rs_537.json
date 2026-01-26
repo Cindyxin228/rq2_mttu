@@ -1,0 +1,1 @@
+["examples/ruby-sample/tests/integration_test.rs", "libcnb-test/src/build.rs", "libcnb/src/buildpack.rs", "libcnb/src/layer/handling.rs", "libcnb/src/layer/tests.rs", "libcnb/src/platform.rs", "libherokubuildpack/src/error.rs", "libherokubuildpack/src/tar.rs"]

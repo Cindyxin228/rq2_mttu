@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/repl/console.bas", "cli/tests/repl/console.out", "sdl/src/console.rs", "sdl/src/host.rs", "std/src/console/cmds.rs", "std/src/console/mod.rs", "std/src/console/trivial.rs", "std/src/program.rs", "std/src/testutils.rs", "terminal/src/lib.rs", "web/src/canvas.rs"]

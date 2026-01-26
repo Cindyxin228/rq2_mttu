@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/cargo-test-support/src/lib.rs", "deny.toml", "src/bin/cargo/cli.rs", "src/bin/cargo/commands/run.rs", "src/cargo/core/features.rs", "src/cargo/util/toml/embedded.rs", "src/cargo/util/toml/mod.rs", "src/doc/src/reference/unstable.md", "tests/testsuite/main.rs", "tests/testsuite/script.rs"]

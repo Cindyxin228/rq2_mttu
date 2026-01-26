@@ -1,0 +1,1 @@
+["src/executor/delete.rs", "src/executor/insert.rs", "src/executor/update.rs", "tests/returning_tests.rs"]

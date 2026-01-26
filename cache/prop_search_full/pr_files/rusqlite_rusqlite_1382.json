@@ -1,0 +1,1 @@
+["src/column.rs", "src/error.rs", "src/lib.rs", "src/pragma.rs", "src/row.rs", "src/serialize.rs", "src/session.rs", "src/statement.rs", "src/transaction.rs", "src/types/value_ref.rs", "src/version.rs"]

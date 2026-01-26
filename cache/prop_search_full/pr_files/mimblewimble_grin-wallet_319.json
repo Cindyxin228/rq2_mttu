@@ -1,0 +1,1 @@
+["api/src/owner_rpc_s.rs", "impls/src/lifecycle/default.rs", "impls/src/lifecycle/seed.rs", "tests/data/v3_reqs/create_wallet_invalid_mn.req.json", "tests/data/v3_reqs/create_wallet_valid_mn.req.json", "tests/owner_v3_lifecycle.rs"]

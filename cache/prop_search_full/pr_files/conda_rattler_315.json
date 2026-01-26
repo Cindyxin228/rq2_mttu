@@ -1,0 +1,1 @@
+[".github/workflows/python-bindings.yml", "py-rattler/Cargo.lock", "py-rattler/Cargo.toml", "py-rattler/pixi.toml", "py-rattler/rattler/__init__.py", "py-rattler/rattler/networking/__init__.py", "py-rattler/rattler/networking/authenticated_client.py", "py-rattler/src/lib.rs", "py-rattler/src/networking/mod.rs"]

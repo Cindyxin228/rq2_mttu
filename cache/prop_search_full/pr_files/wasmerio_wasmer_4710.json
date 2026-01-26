@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/c-api/Cargo.toml", "lib/cli/Cargo.toml", "lib/compiler-llvm/Cargo.toml", "lib/emscripten/Cargo.toml", "lib/sys-utils/Cargo.toml", "lib/types/Cargo.toml", "lib/virtual-fs/Cargo.toml", "lib/virtual-net/Cargo.toml", "lib/vm/Cargo.toml", "lib/wasix/Cargo.toml", "tests/integration/cli/Cargo.toml"]

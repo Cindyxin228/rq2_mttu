@@ -1,0 +1,1 @@
+["cli/main.rs", "cli/standalone.rs", "cli/tests/integration/compat_tests.rs", "cli/tests/testdata/compat/worker/worker.mjs", "cli/tests/testdata/compat/worker/worker_test.mjs", "cli/tests/testdata/compat/worker/worker_test.out", "runtime/examples/hello_runtime.rs", "runtime/js/99_main.js", "runtime/ops/worker_host.rs", "runtime/web_worker.rs", "runtime/worker.rs"]

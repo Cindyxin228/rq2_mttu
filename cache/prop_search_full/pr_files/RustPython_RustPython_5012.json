@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "compiler/codegen/src/compile.rs", "compiler/codegen/src/symboltable.rs", "extra_tests/snippets/syntax_non_utf8.py", "vm/src/stdlib/ast/gen.rs"]

@@ -1,0 +1,1 @@
+["scripts/check-changelog.sh", "src/merkle/smt/mod.rs", "src/merkle/store/tests.rs"]

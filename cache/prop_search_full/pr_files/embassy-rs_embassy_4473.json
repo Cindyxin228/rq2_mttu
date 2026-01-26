@@ -1,0 +1,1 @@
+["embassy-embedded-hal/src/adapter/yielding_async.rs", "embassy-embedded-hal/src/flash/concat_flash.rs", "embassy-embedded-hal/src/flash/partition/asynch.rs", "embassy-embedded-hal/src/flash/partition/blocking.rs"]

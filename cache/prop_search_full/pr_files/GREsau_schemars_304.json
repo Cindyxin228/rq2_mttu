@@ -1,0 +1,1 @@
+["schemars/tests/enum.rs", "schemars/tests/expected/enum-rename-all-fields.json", "schemars/tests/expected/enum-rename-all.json", "schemars/tests/expected/enum-rename-attr.json", "schemars_derive/src/attr/schemars_to_serde.rs"]

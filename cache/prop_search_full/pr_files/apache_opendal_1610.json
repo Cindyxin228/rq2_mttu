@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/services/azblob/backend.rs", "src/services/azblob/batch.rs", "src/services/azblob/error.rs", "src/services/azblob/mod.rs"]

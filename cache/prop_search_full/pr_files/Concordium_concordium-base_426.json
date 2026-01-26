@@ -1,0 +1,1 @@
+["concordium-base.cabal", "concordium-grpc-api", "haskell-src/Concordium/GRPC2.hs", "haskell-src/Concordium/Types/Queries.hs", "haskell-src/Concordium/Utils/InterpolationSearch.hs", "haskell-tests/ConcordiumTests/Utils/InterpolationSearch.hs"]

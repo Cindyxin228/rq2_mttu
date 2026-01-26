@@ -1,0 +1,1 @@
+["src/bin/wallet.rs", "src/crdt.rs", "src/ledger.rs", "src/lib.rs", "src/ncp.rs", "src/signature.rs", "src/transaction.rs", "tests/data_replicator.rs", "tests/multinode.rs"]

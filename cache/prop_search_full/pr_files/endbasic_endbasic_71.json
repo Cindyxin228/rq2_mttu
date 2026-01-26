@@ -1,0 +1,1 @@
+["NEWS.md", "cli/examples/guess.bas", "cli/examples/tour.bas", "cli/tests/examples/tour.out", "cli/tests/lang/control-flow.bas", "cli/tests/lang/yes-no.bas", "cli/tests/repl/colors.in", "cli/tests/repl/console.bas", "cli/tests/repl/dir.out", "cli/tests/repl/help.out", "core/src/exec.rs", "core/src/lexer.rs", "core/src/parser.rs", "std/src/help.rs"]

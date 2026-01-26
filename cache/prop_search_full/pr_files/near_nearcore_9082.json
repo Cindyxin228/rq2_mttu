@@ -1,0 +1,1 @@
+["core/primitives/src/syncing.rs", "integration-tests/src/tests/client/mod.rs", "integration-tests/src/tests/client/state_dump.rs", "nearcore/src/state_sync.rs"]

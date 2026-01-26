@@ -1,0 +1,1 @@
+["src/bp/blind.rs", "src/bp/mod.rs", "src/bp/short_id.rs", "src/common/wrapper.rs", "src/csv/serialize/commitment/primitives.rs", "src/csv/serialize/network.rs", "src/lib.rs", "src/rgb/schemata/fungible.rs", "src/rgb/seal.rs", "src/rgb/serialize.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocl/Cargo.toml", "bin/nanocl/src/commands/install.rs", "bin/nanocl/src/utils/mod.rs", "bin/nanocld/Cargo.toml", "bin/nanocld/src/config.rs", "bin/nanocld/src/utils/mod.rs", "bin/nanocld/src/utils/network.rs", "crates/nanocl_utils/Cargo.toml", "crates/nanocl_utils/src/lib.rs", "crates/nanocl_utils/src/unix/mod.rs", "crates/nanocl_utils/src/unix/network.rs"]

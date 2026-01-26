@@ -1,0 +1,1 @@
+["run_test.sh", "templates/generic/web-app/.github/workflows/test.yaml.hbs", "templates/ui-frameworks/lit/web-app/ui/package.json.hbs"]

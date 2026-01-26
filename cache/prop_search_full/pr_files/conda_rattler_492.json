@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/rattler/src/package_cache.rs", "crates/rattler_package_streaming/tests/write.rs", "crates/rattler_repodata_gateway/src/fetch/jlap/mod.rs", "crates/rattler_repodata_gateway/src/fetch/mod.rs", "crates/rattler_repodata_gateway/src/utils/simple_channel_server.rs", "crates/rattler_shell/src/shell/mod.rs"]

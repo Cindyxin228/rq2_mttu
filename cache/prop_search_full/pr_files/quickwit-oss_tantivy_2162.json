@@ -1,0 +1,1 @@
+["src/aggregation/bucket/histogram/histogram.rs", "src/aggregation/bucket/mod.rs", "src/aggregation/metric/percentiles.rs", "src/core/json_utils.rs", "src/fastfield/mod.rs", "src/indexer/mod.rs", "src/positions/mod.rs", "src/query/phrase_query/mod.rs", "src/query/query_parser/query_parser.rs", "src/schema/schema.rs"]

@@ -1,0 +1,1 @@
+["src/accessor.rs", "src/credential.rs", "src/error.rs", "src/lib.rs", "src/object.rs", "src/operator.rs", "src/ops.rs", "src/readers/mod.rs", "src/scheme.rs", "src/services/fs.rs", "src/services/memory.rs", "src/services/mod.rs", "src/services/s3/backend.rs", "src/services/s3/mod.rs"]

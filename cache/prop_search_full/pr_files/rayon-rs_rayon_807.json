@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/pr.yaml", "Cargo.toml", "README.md", "bors.toml", "ci/compat-Cargo.lock", "rayon-core/Cargo.toml", "src/iter/copied.rs"]

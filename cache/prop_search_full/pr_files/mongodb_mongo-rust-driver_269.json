@@ -1,0 +1,1 @@
+["src/client/mod.rs", "src/operation/aggregate/test.rs", "src/operation/count/test.rs", "src/operation/distinct/test.rs", "src/operation/find/test.rs", "src/results.rs", "src/test/spec/unified_runner/operation.rs"]

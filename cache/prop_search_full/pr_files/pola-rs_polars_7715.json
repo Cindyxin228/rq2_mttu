@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-plan/src/logical_plan/anonymous_scan.rs", "polars/polars-lazy/src/physical_plan/executors/scan/ndjson.rs"]

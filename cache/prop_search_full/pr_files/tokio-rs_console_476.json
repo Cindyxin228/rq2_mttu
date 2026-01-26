@@ -1,0 +1,1 @@
+["console-subscriber/tests/framework.rs", "console-subscriber/tests/poll.rs", "console-subscriber/tests/spawn.rs", "console-subscriber/tests/support/mod.rs", "console-subscriber/tests/support/subscriber.rs", "console-subscriber/tests/support/task.rs"]

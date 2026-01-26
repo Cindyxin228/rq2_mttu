@@ -1,0 +1,1 @@
+["polars/polars-lazy/src/frame/pivot.rs", "polars/polars-ops/src/frame/pivot/mod.rs", "polars/tests/it/core/pivot.rs", "py-polars/Cargo.lock", "py-polars/polars/dataframe/frame.py", "py-polars/polars/utils/__init__.py", "py-polars/polars/utils/various.py", "py-polars/src/dataframe.rs", "py-polars/tests/unit/operations/test_pivot.py"]

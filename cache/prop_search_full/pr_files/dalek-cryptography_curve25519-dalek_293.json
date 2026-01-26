@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "src/backend/serial/scalar_mul/mod.rs", "src/backend/serial/u32/constants.rs", "src/backend/serial/u64/constants.rs", "src/backend/vector/avx2/mod.rs", "src/backend/vector/ifma/mod.rs", "src/backend/vector/mod.rs", "src/constants.rs", "src/edwards.rs", "src/lib.rs", "src/montgomery.rs", "src/ristretto.rs"]

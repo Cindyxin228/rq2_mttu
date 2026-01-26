@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".travis.yml", "device/src/region/eu433/mod.rs", "device/src/region/eu868/mod.rs", "device/src/state_machines/no_session.rs", "device/src/state_machines/session.rs", "device/src/types.rs", "encoding/src/creator.rs", "encoding/src/default_crypto.rs", "encoding/src/maccommands.rs", "encoding/src/parser.rs"]

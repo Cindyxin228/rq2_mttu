@@ -1,0 +1,1 @@
+["src/batch/batch_read.rs", "src/bin.rs", "src/client.rs", "src/commands/buffer.rs", "src/commands/read_command.rs", "src/commands/scan_command.rs", "src/policy/query_policy.rs", "src/policy/scan_policy.rs", "src/query/statement.rs", "tests/src/batch.rs", "tests/src/query.rs", "tests/src/scan.rs"]

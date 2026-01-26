@@ -1,0 +1,1 @@
+[".github/workflows/publish.yml", "burn-autodiff/Cargo.toml", "burn-common/Cargo.toml", "burn-core/Cargo.toml", "burn-dataset/Cargo.toml", "burn-derive/Cargo.toml", "burn-import/Cargo.toml", "burn-ndarray/Cargo.toml", "burn-no-std-tests/Cargo.toml", "burn-tch/Cargo.toml", "burn-tensor-testgen/Cargo.toml", "burn-tensor/Cargo.toml", "burn-train/Cargo.toml", "burn/Cargo.toml"]

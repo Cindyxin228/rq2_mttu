@@ -1,0 +1,1 @@
+["common/src/utils.rs", "contrib/confs/rebuilderd-worker.conf", "contrib/docs/rebuilderd-worker.conf.5.scd", "daemon/src/api.rs", "daemon/src/web.rs", "tools/src/args.rs", "tools/src/main.rs", "worker/src/config.rs", "worker/src/diffoscope.rs", "worker/src/proc.rs", "worker/src/rebuild.rs"]

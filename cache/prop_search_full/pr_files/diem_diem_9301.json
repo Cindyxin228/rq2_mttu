@@ -1,0 +1,1 @@
+["docker/ci/arch/Dockerfile", "docker/ci/github/Dockerfile", "docker/client/Dockerfile", "docker/faucet/Dockerfile", "docker/forge/Dockerfile", "docker/init/Dockerfile", "docker/safety-rules/Dockerfile", "docker/tools/Dockerfile", "docker/validator/Dockerfile"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/downloader.rs", "src/net_protocol.rs", "src/protocol.rs", "src/rpc.rs", "src/rpc/client.rs", "src/rpc/client/blobs.rs", "src/util/fs.rs"]

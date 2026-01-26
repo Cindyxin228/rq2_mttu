@@ -1,0 +1,1 @@
+["crates/rune-modules/Cargo.toml", "crates/rune-modules/src/lib.rs", "crates/rune-modules/src/macros.rs", "crates/rune/src/compiling/assemble/expr.rs", "crates/rune/src/compiling/unit_builder.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/ir/ir_compiler.rs", "crates/rune/src/query/mod.rs"]

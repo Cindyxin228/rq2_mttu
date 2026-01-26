@@ -1,0 +1,1 @@
+["create-rust-app/src/auth/mod.rs", "create-rust-app/src/auth/permissions/role_permission.rs", "create-rust-app/src/auth/permissions/user_permission.rs", "create-rust-app/src/auth/permissions/user_role.rs", "create-rust-app/src/auth/schema.rs", "create-rust-app/src/auth/user.rs", "create-rust-app/src/auth/user_session.rs", "create-rust-app/src/lib.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "examples/aead/Cargo.toml", "examples/daead/Cargo.toml", "examples/keygen/Cargo.toml", "examples/keymgr/Cargo.toml", "examples/kms/Cargo.toml", "examples/mac/Cargo.toml", "examples/signature/Cargo.toml", "examples/streaming/Cargo.toml", "proto/src/lib.rs", "testing/Cargo.toml", "tests/Cargo.toml"]

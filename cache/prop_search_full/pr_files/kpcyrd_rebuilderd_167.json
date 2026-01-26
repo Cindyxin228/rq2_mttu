@@ -1,0 +1,1 @@
+[".github/workflows/docker.yml", "Cargo.lock", "README.md", "contrib/confs/rebuilderd-sync.conf", "docker-compose.yml", "tools/Cargo.toml", "tools/src/main.rs", "tools/src/schedule/fedora.rs", "tools/src/schedule/mod.rs", "worker/Dockerfile.fedora", "worker/rebuilder-fedora.sh"]

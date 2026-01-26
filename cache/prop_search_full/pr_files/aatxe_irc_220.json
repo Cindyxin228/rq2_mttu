@@ -1,0 +1,1 @@
+["Cargo.toml", "irc-proto/Cargo.toml", "src/client/conn.rs", "src/client/mock.rs", "src/client/mod.rs", "src/client/transport.rs", "src/error.rs"]

@@ -1,0 +1,1 @@
+["cli/src/import/config.rs", "cli/src/import/csv.rs", "cli/src/import/extract.rs", "cli/src/import/iso_camt053.rs", "cli/src/import/single_entry.rs", "cli/src/import/viseca.rs", "cli/tests/testdata/csv_multi_currency.csv", "cli/tests/testdata/csv_multi_currency.ledger", "cli/tests/testdata/test_config.yml", "doc/import.ja.md"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "core/src/value.rs", "src/global.rs", "src/lib.rs", "src/pwasm.rs", "src/types.rs", "wasmi_v1/Cargo.toml"]

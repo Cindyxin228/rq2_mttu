@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/benches.rs", "datasets/data.json", "datasets/expected_db_uids.json", "datasets/key", "datasets/key.json", "datasets/label", "datasets/serialized_index", "datasets/sqlite.db", "datasets/test_vector.txt", "src/in_memory_example.rs", "tests/non_regression.rs", "tests/test_in_memory.rs"]

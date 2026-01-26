@@ -1,0 +1,1 @@
+["aws-creds/src/credentials.rs", "s3/Cargo.toml", "s3/src/blocking.rs", "s3/src/bucket.rs", "s3/src/lib.rs", "s3/src/request.rs", "s3/src/request_trait.rs", "s3/src/signing.rs", "s3/src/surf_request.rs"]

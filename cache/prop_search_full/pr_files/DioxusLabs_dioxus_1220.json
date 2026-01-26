@@ -1,0 +1,1 @@
+["packages/core/src/create.rs", "packages/core/src/diff.rs", "packages/core/src/nodes.rs", "packages/core/src/scope_arena.rs", "packages/core/src/virtual_dom.rs", "packages/core/tests/task.rs", "packages/dioxus-tui/examples/colorpicker.rs", "packages/web/src/rehydrate.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/pkg.yml", "Cargo.lock", "Cargo.toml", "doc/manual/source/building-from-source.rst", "pkg/debian/postinst", "pkg/rpm/scriptlets.toml", "pkg/rules/packages-to-build.yml", "pkg/rules/packages-to-test.yml", "src/cli/options/config.rs", "src/cli/report.rs", "src/commons/file.rs", "src/server/mq.rs"]

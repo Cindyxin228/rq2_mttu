@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "flake.lock", "src/scaffold/app/nix.rs", "src/scaffold/zome.rs", "src/templates/example.rs", "src/templates/web_app.rs", "src/versions.rs", "templates/lit/web-app/ui/package.json.hbs", "templates/svelte/web-app/ui/package.json.hbs", "templates/vue/web-app/ui/package.json.hbs"]

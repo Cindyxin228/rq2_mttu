@@ -1,0 +1,1 @@
+["cts_runner/src/bootstrap.js", "cts_runner/test.lst", "deno_webgpu/01_webgpu.js", "deno_webgpu/device.rs", "deno_webgpu/lib.rs", "deno_webgpu/query_set.rs", "deno_webgpu/shader.rs"]

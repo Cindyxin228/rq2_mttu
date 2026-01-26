@@ -1,0 +1,1 @@
+["Cargo.lock", "fxprof-processed-profile/Cargo.toml", "fxprof-processed-profile/src/markers.rs", "gecko_profile/Cargo.toml", "gecko_profile/src/markers.rs", "samply-api/Cargo.toml", "samply-api/src/asm/request_json.rs", "samply-api/src/source/request_json.rs", "samply-api/src/symbolicate/request_json.rs", "samply-api/src/symbolicate/response_json.rs"]

@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_compat/tests/es2015_parameters.rs", "crates/swc_ecma_utils/src/function/fn_env_hoister.rs"]

@@ -1,0 +1,1 @@
+["src/ocfl/bimap.rs", "src/ocfl/inventory.rs", "src/ocfl/mod.rs", "src/ocfl/repo.rs", "src/ocfl/serde.rs", "src/ocfl/store/s3.rs", "src/ocfl/types.rs"]

@@ -1,0 +1,1 @@
+["crates/swc/src/config/mod.rs", "crates/swc/tests/fixture/issue-3882/input/.swcrc", "crates/swc/tests/fixture/issue-3882/input/types.d.ts", "crates/swc/tests/fixture/issue-3882/output/types.d.ts", "crates/swc_ecma_parser/src/parser/mod.rs", "crates/swc_ecma_parser/src/parser/stmt.rs"]

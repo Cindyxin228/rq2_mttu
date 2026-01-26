@@ -1,0 +1,1 @@
+["src/base.rs", "src/main.rs", "src/message/mod.rs", "src/tests.rs", "src/windows/mod.rs", "src/windows/room/chat.rs", "src/windows/room/mod.rs", "src/windows/room/scrollback.rs", "src/windows/room/space.rs", "src/worker.rs"]

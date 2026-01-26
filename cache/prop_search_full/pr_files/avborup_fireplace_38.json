@@ -1,0 +1,1 @@
+["src/firestore/client/mod.rs", "src/firestore/mod.rs", "src/firestore/query.rs", "src/firestore/reference.rs", "src/firestore/test_helpers.rs", "src/lib.rs"]

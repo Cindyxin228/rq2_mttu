@@ -1,0 +1,1 @@
+["CHANGELOG.md", "debugger/src/debug_adapter.rs", "probe-rs/src/architecture/arm/core/m0.rs", "probe-rs/src/architecture/arm/core/m33.rs", "probe-rs/src/architecture/arm/core/m4.rs", "probe-rs/src/architecture/riscv/mod.rs", "probe-rs/src/core/mod.rs", "probe-rs/src/session.rs"]

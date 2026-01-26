@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "reduct_base/src/error.rs", "reduct_rs/Cargo.toml", "reduct_rs/README.md", "reduct_rs/src/bucket.rs", "reduct_rs/src/client.rs", "reduct_rs/src/http_client.rs", "reduct_rs/src/lib.rs", "reduct_rs/src/record.rs", "reduct_rs/src/record/query.rs", "reduct_rs/src/record/read_record.rs", "reduct_rs/src/record/write_record.rs"]

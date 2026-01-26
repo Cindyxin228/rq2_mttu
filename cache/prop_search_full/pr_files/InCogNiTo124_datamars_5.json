@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "src/ops/geomean.rs", "src/ops/harmean.rs", "src/ops/max.rs", "src/ops/mean.rs", "src/ops/median.rs", "src/ops/min.rs", "src/ops/std.rs", "src/ops/sum.rs"]

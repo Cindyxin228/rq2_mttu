@@ -1,0 +1,1 @@
+["src/import/config.rs", "src/import/csv.rs", "src/import/iso_camt053.rs", "src/import/iso_camt053/extract.rs", "src/import/single_entry.rs", "tests/testdata/index_amount.ledger", "tests/testdata/iso_camt.ledger", "tests/testdata/test_config.yml"]

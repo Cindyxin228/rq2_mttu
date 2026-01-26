@@ -1,0 +1,1 @@
+["Cargo.toml", "src/core/index.rs", "src/directory/directory.rs", "src/directory/directory_lock.rs", "src/directory/error.rs", "src/directory/managed_directory.rs", "src/directory/mmap_directory.rs", "src/directory/mod.rs", "src/directory/tests.rs", "src/error.rs", "src/indexer/directory_lock.rs", "src/indexer/index_writer.rs", "src/indexer/mod.rs", "src/lib.rs"]

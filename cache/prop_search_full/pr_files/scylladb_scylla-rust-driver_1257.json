@@ -1,0 +1,1 @@
+["Cargo.lock.msrv", "scylla-cql/Cargo.toml", "scylla-cql/src/lib.rs", "scylla-cql/src/pretty.rs", "scylla-cql/src/value.rs", "scylla/Cargo.toml", "scylla/src/cluster/metadata.rs", "scylla/src/network/connection_pool.rs", "scylla/src/observability/driver_tracing.rs", "scylla/src/utils/mod.rs", "scylla/src/utils/pretty.rs"]

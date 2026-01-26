@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", "Cargo.toml", "crates/core/src/model/object/map.rs", "crates/core/src/model/object/ser.rs", "crates/core/src/model/scalar/datetime/strftime.rs", "crates/core/src/model/scalar/ser.rs", "crates/core/src/model/ser.rs", "crates/core/src/model/value/ser.rs"]

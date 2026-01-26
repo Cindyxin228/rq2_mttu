@@ -1,0 +1,1 @@
+[".github/workflows/s3.yml", "akd/src/proto/mod.rs", "akd_local_auditor/Cargo.toml", "akd_local_auditor/docker-compose.yml", "akd_local_auditor/src/auditor/mod.rs", "akd_local_auditor/src/console_log.rs", "akd_local_auditor/src/main.rs", "akd_local_auditor/src/storage/mod.rs", "akd_local_auditor/src/storage/s3/mod.rs", "akd_local_auditor/src/storage/s3/test.rs"]

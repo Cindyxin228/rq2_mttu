@@ -1,0 +1,1 @@
+["components/merkledb/src/db.rs", "components/merkledb/src/lib.rs", "exonum/src/runtime/dispatcher/mod.rs", "exonum/src/runtime/dispatcher/schema.rs", "services/supervisor/src/lib.rs", "services/supervisor/src/schema.rs", "services/supervisor/tests/supervisor/main.rs"]

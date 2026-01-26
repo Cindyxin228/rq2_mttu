@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "Makefile", "benches/bench_tests.rs", "src/egraph.rs", "src/language.rs", "src/rewrite.rs", "src/unionfind.rs", "src/util.rs", "tests/lambda.rs", "tests/math.rs", "tests/prop.rs"]

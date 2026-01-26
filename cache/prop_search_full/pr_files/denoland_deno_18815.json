@@ -1,0 +1,1 @@
+["core/runtime.rs", "serde_v8/de.rs", "serde_v8/error.rs", "serde_v8/magic/bigint.rs", "serde_v8/magic/bytestring.rs", "serde_v8/magic/detached_buffer.rs", "serde_v8/magic/external_pointer.rs", "serde_v8/magic/string_or_buffer.rs", "serde_v8/magic/u16string.rs", "serde_v8/magic/v8slice.rs", "serde_v8/tests/de.rs"]

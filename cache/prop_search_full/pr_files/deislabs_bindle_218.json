@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Makefile", "bin/client/main.rs", "bin/client/opts.rs", "bin/server.rs", "docs/README.md", "src/authn/http_basic.rs", "src/authn/mod.rs", "src/client/mod.rs", "test/data/htpasswd"]

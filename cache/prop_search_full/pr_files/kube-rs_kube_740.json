@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", ".github/workflows/release.yml", "Makefile", "kube-core/src/admission.rs", "kube-derive/src/lib.rs", "kube/src/lib.rs", "tarpaulin.toml"]

@@ -1,0 +1,1 @@
+["scylla-cql/Cargo.toml", "scylla-macros/Cargo.toml", "scylla-proxy/Cargo.toml", "scylla/Cargo.toml", "scylla/src/client/session_builder.rs", "scylla/src/cloud/config.rs"]

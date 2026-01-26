@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-command/Cargo.toml", "crates/nu-command/src/filters/lines.rs", "crates/nu-command/tests/commands/lines.rs"]

@@ -1,0 +1,1 @@
+["client/display/table_builder.rs", "daemon/lib.rs", "daemon/pid.rs", "lib/src/network/secret.rs", "lib/src/settings.rs", "tests/client/log.rs", "tests/client/status.rs", "tests/client/status_query.rs", "tests/helper/client.rs", "tests/helper/daemon.rs"]

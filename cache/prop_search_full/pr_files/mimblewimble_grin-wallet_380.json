@@ -1,0 +1,1 @@
+["Cargo.lock", "api/src/foreign_rpc.rs", "api/src/owner_rpc.rs", "controller/tests/file.rs", "libwallet/src/slate.rs", "libwallet/src/slate_versions/ser.rs", "libwallet/src/slate_versions/v4.rs"]

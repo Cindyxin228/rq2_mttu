@@ -1,0 +1,1 @@
+["CHANGES.md", "crates/vertigo-cli/src/command.rs", "crates/vertigo/src/computed/dependencies/graph_one_to_many.rs", "crates/vertigo/src/dom_list.rs", "crates/vertigo/src/driver_module/dom_suspense/dom_connection.rs", "crates/vertigo/src/driver_module/event_emitter.rs", "crates/vertigo/src/fetch/lazy_cache.rs", "lint-project/src/main.rs"]

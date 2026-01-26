@@ -1,0 +1,1 @@
+["tests-build/tests/fail/macros_dead_code.stderr", "tests-build/tests/fail/macros_invalid_input.stderr", "tests-build/tests/fail/macros_type_mismatch.stderr"]

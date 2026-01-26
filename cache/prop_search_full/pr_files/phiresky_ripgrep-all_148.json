@@ -1,0 +1,1 @@
+[".envrc", ".gitignore", "README.md", "flake.lock", "flake.nix", "src/adapters.rs", "src/adapters/postproc.rs", "src/adapters/spawning.rs", "src/bin/rga-preproc.rs", "src/caching_writer.rs", "src/config.rs", "src/preproc.rs", "src/recurse.rs"]

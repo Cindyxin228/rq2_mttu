@@ -1,0 +1,1 @@
+["alacritty/src/cli.rs", "alacritty/src/config/window.rs", "alacritty/src/display/mod.rs", "alacritty/src/display/window.rs", "alacritty/src/event.rs", "alacritty/src/main.rs", "alacritty/src/window_context.rs", "extra/completions/_alacritty", "extra/completions/alacritty.bash", "extra/completions/alacritty.fish"]

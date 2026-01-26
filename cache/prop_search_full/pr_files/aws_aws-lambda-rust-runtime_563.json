@@ -1,0 +1,1 @@
+["examples/extension-telemetry-basic/Cargo.toml", "examples/extension-telemetry-basic/README.md", "examples/extension-telemetry-basic/src/main.rs", "lambda-extension/README.md", "lambda-extension/src/extension.rs", "lambda-extension/src/lib.rs", "lambda-extension/src/requests.rs", "lambda-extension/src/telemetry.rs"]

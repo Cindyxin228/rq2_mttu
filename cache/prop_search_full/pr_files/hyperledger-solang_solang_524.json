@@ -1,0 +1,1 @@
+["docs/language.rst", "src/emit/ewasm.rs", "src/emit/mod.rs", "src/emit/solana.rs", "src/sema/builtin.rs", "tests/solana_tests/builtin.rs"]

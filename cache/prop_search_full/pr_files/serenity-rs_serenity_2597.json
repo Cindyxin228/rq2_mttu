@@ -1,0 +1,1 @@
+["src/builder/create_channel.rs", "src/builder/create_message.rs", "src/builder/create_scheduled_event.rs", "src/builder/create_sticker.rs", "src/builder/edit_guild.rs", "src/builder/edit_role.rs", "src/builder/edit_scheduled_event.rs", "src/client/error.rs", "src/utils/mod.rs"]

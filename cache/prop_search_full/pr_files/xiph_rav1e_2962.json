@@ -1,0 +1,1 @@
+["Cargo.toml", "ivf/src/lib.rs", "src/api/config/encoder.rs", "src/api/config/speedsettings.rs", "src/api/test.rs", "src/bin/common.rs", "src/bin/rav1e-ch.rs", "src/bin/rav1e.rs", "src/fuzzing.rs", "src/lib.rs", "src/test_encode_decode/mod.rs", "v_frame/src/lib.rs"]

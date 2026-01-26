@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/configuration.rs", "src/gooseberry/database.rs", "src/gooseberry/knowledge_base.rs", "src/gooseberry/mod.rs", "src/gooseberry/search.rs", "src/utils.rs", "tests/cli.rs"]

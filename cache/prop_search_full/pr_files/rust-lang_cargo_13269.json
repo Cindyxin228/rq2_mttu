@@ -1,0 +1,1 @@
+["src/bin/cargo/cli.rs", "tests/testsuite/cargo/mod.rs", "tests/testsuite/cargo/z_help/mod.rs", "tests/testsuite/cargo/z_help/stderr.log", "tests/testsuite/cargo/z_help/stdout.log", "tests/testsuite/help.rs"]

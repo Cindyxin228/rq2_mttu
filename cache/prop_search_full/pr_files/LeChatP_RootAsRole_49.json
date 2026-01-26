@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "SECURITY.md", "build.rs", "capable-ebpf/Cargo.toml", "capable/Cargo.toml", "resources/rootasrole.json", "src/database/version.rs", "src/descriptions.rs", "src/plugin/hashchecker.rs", "src/sr/timeout.rs", "src/version.rs", "xtask/Cargo.toml"]

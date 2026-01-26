@@ -1,0 +1,1 @@
+["crates/devices/virtio-blk/Cargo.toml", "crates/devices/virtio-blk/src/stdio_executor.rs", "crates/devices/virtio-console/Cargo.toml", "crates/devices/virtio-console/src/console.rs", "crates/devices/virtio-vsock/Cargo.toml", "crates/virtio-device/Cargo.toml", "crates/virtio-queue-ser/Cargo.toml", "crates/virtio-queue/Cargo.toml", "fuzz/Cargo.toml", "fuzz/common/Cargo.toml"]

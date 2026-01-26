@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/env/src/chain_extension.rs", "crates/ink/codegen/src/generator/chain_extension.rs", "crates/ink/ir/src/ir/attrs.rs", "crates/ink/ir/src/ir/chain_extension.rs", "crates/ink/macro/src/lib.rs", "crates/ink/src/chain_extension.rs", "crates/ink/src/lib.rs", "crates/ink/tests/ui/chain_extension/E-01-simple.rs", "examples/rand-extension/lib.rs"]

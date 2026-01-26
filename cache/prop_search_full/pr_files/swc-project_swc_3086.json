@@ -1,0 +1,1 @@
+["crates/swc/scripts/instrument.sh", "crates/swc_bundler/scripts/instrument.sh", "crates/swc_ecma_codegen/scripts/instrument.sh", "crates/swc_ecma_minifier/scripts/instrument.sh", "crates/swc_ecma_parser/scripts/instrument.sh", "scripts/instrument.sh"]

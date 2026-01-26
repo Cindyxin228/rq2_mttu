@@ -1,0 +1,1 @@
+["src/components/edit.rs", "src/components/help.rs", "src/components/shared/editable_line.rs", "src/modules/list/utils.rs", "src/modules/show_commit/view_builder.rs", "src/view.rs", "src/view/line_segment.rs", "src/view/render_slice.rs", "src/view/render_slice/tests.rs", "src/view/view_line.rs"]

@@ -1,0 +1,1 @@
+["guide/src/function/signature.md", "pyo3-macros-backend/src/pyclass.rs", "tests/ui/abi3_nativetype_inheritance.stderr", "tests/ui/invalid_argument_attributes.stderr", "tests/ui/pyclass_send.stderr"]

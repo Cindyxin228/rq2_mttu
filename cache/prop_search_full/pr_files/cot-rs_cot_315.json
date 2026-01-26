@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "Cargo.lock", "Cargo.toml", "compose.yml", "cot-macros/Cargo.toml", "cot-macros/src/lib.rs", "cot-macros/src/main_fn.rs", "cot/Cargo.toml", "cot/src/lib.rs", "cot/src/project.rs", "cot/src/test.rs", "cot/tests/admin.rs"]

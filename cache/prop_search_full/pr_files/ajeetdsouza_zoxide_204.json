@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Makefile", "build.rs", "src/app/_app.rs", "src/app/add.rs", "src/app/import.rs", "src/app/init.rs", "src/app/mod.rs", "src/app/query.rs", "src/app/remove.rs", "src/error.rs", "src/fzf.rs", "src/main.rs", "src/shell.rs", "tests/completion.rs"]

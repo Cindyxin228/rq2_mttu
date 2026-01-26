@@ -1,0 +1,1 @@
+["multiaddr/src/protocol.rs", "tentacle/Cargo.toml", "tentacle/src/service.rs", "tentacle/src/transports/memory.rs", "tentacle/src/transports/mod.rs", "tentacle/src/utils/dns.rs", "tentacle/tests/test_priority.rs"]

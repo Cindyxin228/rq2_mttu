@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/adc.rs", "src/dma/traits.rs", "src/i2c.rs", "src/i2c/dma.rs", "src/serial/uart_impls.rs", "src/spi.rs"]

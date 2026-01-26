@@ -1,0 +1,1 @@
+["crossbeam-channel/tests/array.rs", "crossbeam-channel/tests/list.rs", "crossbeam-channel/tests/zero.rs", "crossbeam-deque/tests/fifo.rs", "crossbeam-deque/tests/injector.rs", "crossbeam-deque/tests/lifo.rs", "crossbeam-queue/tests/array_queue.rs", "crossbeam-queue/tests/seg_queue.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci-build.yml", ".github/workflows/push-docker-images-release.yml", "Dockerfile.sqlx", "README.md", "docker-bake.hcl", "docs/DEPLOYING.md"]

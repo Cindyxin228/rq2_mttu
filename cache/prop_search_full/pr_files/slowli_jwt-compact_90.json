@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/dependabot.yml", "Cargo.toml", "README.md", "e2e-tests/no-std/Cargo.toml", "e2e-tests/no-std/src/main.rs", "src/alg.rs", "src/alg/digest_compat.rs", "src/alg/es256k.rs", "src/alg/hmacs.rs", "src/alg/k256.rs", "src/alg/rsa.rs", "src/token.rs"]

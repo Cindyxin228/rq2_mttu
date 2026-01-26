@@ -1,0 +1,1 @@
+["datafusion/src/error.rs", "datafusion/src/physical_plan/cross_join.rs", "datafusion/src/physical_plan/filter.rs", "datafusion/src/physical_plan/hash_aggregate.rs", "datafusion/src/physical_plan/projection.rs", "datafusion/src/physical_plan/repartition.rs", "datafusion/src/physical_plan/sorts/sort.rs", "datafusion/src/physical_plan/windows/window_agg_exec.rs"]

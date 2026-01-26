@@ -1,0 +1,1 @@
+["Dockerfile", "cli/core/deployer.ts", "cli/core/utils/fs.ts", "cli/package-lock.json", "cli/package.json", "cli/tests/config/jest.json", "cli/types/package.json", "scripts/local-node-setup.sh"]

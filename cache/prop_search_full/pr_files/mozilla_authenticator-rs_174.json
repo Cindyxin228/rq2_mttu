@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "src/transport/linux/hidwrapper.rs", "src/transport/linux/ioctl_riscv64.rs", "src/transport/windows/winapi.rs"]

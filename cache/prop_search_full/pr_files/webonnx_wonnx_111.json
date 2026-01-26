@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "wonnx-cli/Cargo.toml", "wonnx-cli/src/cpu.rs", "wonnx-cli/src/gpu.rs", "wonnx-cli/src/info.rs", "wonnx-cli/src/main.rs", "wonnx-cli/src/types.rs", "wonnx-cli/src/utils.rs", "wonnx-preprocessing/src/text.rs", "wonnx-py/requirements.txt", "wonnx/src/compiler.rs", "wonnx/src/ir.rs", "wonnx/src/optimizer.rs", "wonnx/src/utils.rs", "wonnx/tests/matrix.rs"]

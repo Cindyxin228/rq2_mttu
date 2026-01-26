@@ -1,0 +1,1 @@
+["polars/polars-core/src/chunked_array/logical/categorical/builder.rs", "polars/polars-core/src/chunked_array/logical/categorical/merge.rs", "polars/polars-core/src/chunked_array/logical/categorical/stringcache.rs", "polars/polars-core/src/frame/hash_join/mod.rs", "py-polars/tests/unit/io/test_csv.py"]

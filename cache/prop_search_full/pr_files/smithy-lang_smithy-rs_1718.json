@@ -1,0 +1,1 @@
+["CHANGELOG.next.toml", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/AwsCodegenDecorator.kt", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/customize/sts/STSDecorator.kt", "aws/sdk/integration-tests/sts/Cargo.toml", "aws/sdk/integration-tests/sts/tests/retry_idp_comms_err.rs"]

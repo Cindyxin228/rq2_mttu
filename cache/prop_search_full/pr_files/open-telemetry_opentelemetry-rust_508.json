@@ -1,0 +1,1 @@
+["opentelemetry-aws/src/lib.rs", "opentelemetry-datadog/src/lib.rs", "opentelemetry-jaeger/src/lib.rs", "opentelemetry-zipkin/src/propagator/mod.rs", "opentelemetry/src/sdk/propagation/composite.rs", "opentelemetry/src/sdk/propagation/trace_context.rs", "opentelemetry/src/sdk/trace/tracer.rs", "opentelemetry/src/trace/context.rs", "opentelemetry/src/trace/noop.rs"]

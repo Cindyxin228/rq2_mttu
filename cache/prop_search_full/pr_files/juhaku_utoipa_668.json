@@ -1,0 +1,1 @@
+["utoipa-gen/Cargo.toml", "utoipa-gen/src/ext.rs", "utoipa-gen/src/ext/axum.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/tests/path_derive_axum_test.rs"]

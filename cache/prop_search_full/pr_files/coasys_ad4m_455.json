@@ -1,0 +1,1 @@
+["core/package.json", "core/pnpm-lock.yaml", "executor/src/core/LanguageController.ts", "executor/src/core/Perspective.test.ts", "executor/src/core/Perspective.ts", "executor/src/core/agent/Signatures.ts", "pnpm-lock.yaml", "tests/js/tests/neighbourhood.ts"]

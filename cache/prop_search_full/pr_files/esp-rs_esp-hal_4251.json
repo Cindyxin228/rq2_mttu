@@ -1,0 +1,1 @@
+["esp-radio/src/ble/btdm.rs", "esp-radio/src/ble/os_adapter_esp32c3_s3.rs", "esp-radio/src/ble/os_adapter_esp32s3.rs", "esp-radio/src/radio/radio_esp32c3.rs"]

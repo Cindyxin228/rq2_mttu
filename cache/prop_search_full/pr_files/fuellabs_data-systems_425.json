@@ -1,0 +1,1 @@
+["crates/domains/src/inputs/queryable.rs", "crates/domains/src/outputs/queryable.rs", "crates/domains/src/receipts/queryable.rs", "crates/domains/src/transactions/queryable.rs", "crates/domains/src/utxos/queryable.rs"]

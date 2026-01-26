@@ -1,0 +1,1 @@
+["src/app.rs", "src/config_file.rs", "src/core.rs", "src/display.rs", "src/flags/blocks.rs", "src/flags/ignore_globs.rs", "src/flags/permission.rs", "src/flags/recursion.rs", "src/icon.rs", "src/meta/filetype.rs", "src/meta/mod.rs", "src/meta/name.rs", "src/meta/owner.rs", "src/meta/permissions.rs", "src/sort.rs", "src/theme/color.rs", "src/theme/icon.rs"]

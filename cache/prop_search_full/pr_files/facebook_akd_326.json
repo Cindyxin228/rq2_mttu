@@ -1,0 +1,1 @@
+["akd/Cargo.toml", "akd_core/Cargo.toml", "akd_local_auditor/Cargo.toml", "akd_mysql/Cargo.toml", "akd_test_tools/Cargo.toml", "integration_tests/Cargo.toml", "poc/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "zbus/Cargo.toml", "zbus/src/connection/builder.rs", "zbus/src/fdo.rs", "zbus/src/object_server/mod.rs", "zbus_macros/Cargo.toml", "zbus_names/Cargo.toml", "zbus_xml/Cargo.toml", "zbus_xmlgen/Cargo.toml", "zvariant/Cargo.toml", "zvariant_derive/Cargo.toml", "zvariant_utils/Cargo.toml"]

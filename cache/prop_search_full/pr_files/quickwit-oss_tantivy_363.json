@@ -1,0 +1,1 @@
+["Cargo.toml", "src/collector/facet_collector.rs", "src/common/bitset.rs", "src/fastfield/mod.rs", "src/functional_test.rs", "src/lib.rs", "src/postings/mod.rs"]

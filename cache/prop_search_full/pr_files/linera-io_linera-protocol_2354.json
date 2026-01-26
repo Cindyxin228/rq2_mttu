@@ -1,0 +1,1 @@
+["examples/non-fungible/README.md", "examples/non-fungible/src/contract.rs", "examples/non-fungible/src/lib.rs", "examples/non-fungible/src/service.rs", "linera-base/src/data_types.rs", "linera-sdk/src/service/test_runtime.rs", "linera-service/src/cli_wrappers/wallet.rs", "linera-service/tests/end_to_end_tests.rs"]

@@ -1,0 +1,1 @@
+["polars/polars-core/src/chunked_array/ops/explode.rs", "polars/polars-core/src/chunked_array/upstream_traits.rs", "polars/polars-core/src/series/implementations/mod.rs", "polars/polars-core/src/series/implementations/null.rs", "py-polars/tests/unit/operations/test_explode.py"]

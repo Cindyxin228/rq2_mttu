@@ -1,0 +1,1 @@
+["fontdrasil/build.rs", "fontdrasil/data/aglfn.txt", "fontdrasil/data/glyphlist.txt", "fontdrasil/src/agl.rs", "fontdrasil/src/lib.rs", "layout-normalizer/Cargo.toml", "layout-normalizer/build.rs", "layout-normalizer/src/glyph_names.rs", "resources/scripts/check_no_println.sh"]

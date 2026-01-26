@@ -1,0 +1,1 @@
+[".github/Dockerfile.buildx", ".github/workflows/build-release.yml", ".github/workflows/publish-release.yml", ".github/workflows/push-tester.yml", ".github/workflows/version-build.yaml", "Cargo.lock"]

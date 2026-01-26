@@ -1,0 +1,1 @@
+["benches/serde.rs", "benches/serde_json.rs", "benches/single.rs", "examples/benchmark.rs", "rustfmt.toml", "src/codec.rs", "src/de.rs", "src/decode.rs", "src/encode.rs", "src/lib.rs", "src/reader.rs", "src/schema.rs", "src/schema_compatibility.rs", "src/ser.rs", "src/types.rs", "src/util.rs", "src/writer.rs", "tests/io.rs", "tests/schema.rs"]

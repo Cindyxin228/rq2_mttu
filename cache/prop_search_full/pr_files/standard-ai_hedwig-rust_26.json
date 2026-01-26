@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/publish.rs", "src/lib.rs", "src/publish/mod.rs", "src/publish/publishers/googlepubsub.rs", "src/publish/publishers/mock.rs", "src/publish/publishers/mod.rs", "src/publish/publishers/null.rs", "src/publish/sink.rs", "src/publishers.rs", "src/tests.rs", "src/validators/json_schema.rs", "src/validators/mod.rs"]

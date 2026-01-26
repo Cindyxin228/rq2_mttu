@@ -1,0 +1,1 @@
+[".github/workflows/default.yml", "examples/src/fail_tests/auto_covariant.stderr", "examples/src/lib.rs", "examples/src/ok_tests.rs", "ouroboros/src/lib.rs", "ouroboros_macro/src/generate/derives.rs", "ouroboros_macro/src/info_structures.rs"]

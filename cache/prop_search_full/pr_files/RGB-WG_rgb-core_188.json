@@ -1,0 +1,1 @@
+["src/contract/contract.rs", "src/contract/fungible.rs", "src/schema/mod.rs", "src/schema/operations.rs", "src/schema/schema.rs", "src/stl.rs", "src/validation/model.rs", "src/validation/schema.rs", "src/validation/status.rs", "src/vm/op_contract.rs", "src/vm/script.rs", "stl/RGB@0.1.0.sta", "stl/RGB@0.1.0.stl", "stl/RGB@0.1.0.sty"]

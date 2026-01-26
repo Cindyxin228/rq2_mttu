@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/apple/macos/process.rs", "src/apple/macos/system.rs", "src/freebsd/system.rs", "src/linux/component.rs", "src/linux/process.rs", "src/linux/system.rs", "src/windows/cpu.rs", "src/windows/process.rs"]

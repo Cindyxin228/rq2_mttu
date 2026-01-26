@@ -1,0 +1,1 @@
+["README.asciidoc", "fhttp-core/src/config.rs", "fhttp/src/bin/fhttp.rs", "fhttp/tests/failed_calls.rs", "fhttp/tests/integration_test.rs", "fhttp/tests/invalid_url.rs", "fhttp/tests/print_paths.rs", "fhttp/tests/profile_with_request_var.rs"]

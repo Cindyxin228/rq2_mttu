@@ -1,0 +1,1 @@
+["testdata/tree/nightly_only/README.md", "testdata/tree/nightly_only/src/lib.rs", "testdata/tree/nightly_only/src/main.rs", "tests/cli/snapshots/cli__list_mutants_in_all_trees_as_json.snap", "tests/cli/snapshots/cli__list_mutants_in_all_trees_as_text.snap"]

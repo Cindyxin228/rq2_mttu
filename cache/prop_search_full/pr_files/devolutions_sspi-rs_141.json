@@ -1,0 +1,1 @@
+["ffi/src/common.rs", "ffi/src/sec_buffer.rs", "ffi/src/sec_pkg_info.rs", "tools/sspi-ffi-attacker/Cargo.toml", "tools/sspi-ffi-attacker/src/attack.rs", "tools/sspi-ffi-attacker/src/main.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/mdbook.yml", "Makefile", "book/book.toml", "book/src/cite.hbs", "book/src/knowledge/command_match.md", "book/src/knowledge/ebpf.md", "book/src/knowledge/rbac.md", "book/src/knowledge/sod.md", "book/src/references.bib", "book/src/references.hbs", "capable/src/main.rs", "dependencies.sh"]

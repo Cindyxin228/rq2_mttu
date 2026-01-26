@@ -1,0 +1,1 @@
+["src/dynamics/joint/ball_joint.rs", "src/dynamics/joint/fixed_joint.rs", "src/dynamics/joint/generic_joint.rs", "src/dynamics/joint/joint.rs", "src/dynamics/joint/prismatic_joint.rs", "src/dynamics/joint/revolute_joint.rs", "src/dynamics/rigid_body_components.rs", "src/geometry/collider_components.rs"]

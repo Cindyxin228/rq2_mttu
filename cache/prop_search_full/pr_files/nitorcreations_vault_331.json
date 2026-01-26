@@ -1,0 +1,1 @@
+[".github/workflows/black.yml", ".github/workflows/cargo.yml", ".github/workflows/go.yml", ".github/workflows/isort.yml", ".github/workflows/pip.yml", ".github/workflows/ruff.yml", ".pre-commit-config.yaml", "rust/Cargo.lock", "rust/Cargo.toml", "rust/README.md", "rust/src/cli.rs", "rust/src/errors.rs", "rust/src/lib.rs", "rust/src/main.rs"]

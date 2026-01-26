@@ -1,0 +1,1 @@
+["rusqlite_migration/src/errors.rs", "rusqlite_migration/src/lib.rs", "rusqlite_migration/src/tests/synch.rs", "rusqlite_migration_tests/tests/up_and_down.rs"]

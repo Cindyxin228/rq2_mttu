@@ -1,0 +1,1 @@
+["crates/typst-ide/src/jump.rs", "crates/typst-realize/src/lib.rs", "tests/ref/html/link-html-here.html", "tests/ref/html/link-html-id-attach.html", "tests/ref/html/link-html-nested-empty.html", "tests/src/custom.rs", "tests/suite/introspection/tags.typ", "tests/suite/model/link.typ"]

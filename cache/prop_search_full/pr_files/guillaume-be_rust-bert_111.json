@@ -1,0 +1,1 @@
+["src/albert/albert_model.rs", "src/bart/bart_model.rs", "src/bert/bert_model.rs", "src/common/mod.rs", "src/distilbert/distilbert_model.rs", "src/electra/electra_model.rs", "src/gpt2/gpt2_model.rs", "src/lib.rs", "src/reformer/reformer_model.rs", "src/t5/t5_model.rs", "src/xlnet/xlnet_model.rs"]

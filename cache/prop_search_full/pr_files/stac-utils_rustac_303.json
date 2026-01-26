@@ -1,0 +1,1 @@
+["stac/CHANGELOG.md", "stac/src/bbox.rs", "stac/src/bounds.rs", "stac/src/collection.rs", "stac/src/extensions/projection.rs", "stac/src/gdal.rs", "stac/src/item.rs", "stac/src/lib.rs"]

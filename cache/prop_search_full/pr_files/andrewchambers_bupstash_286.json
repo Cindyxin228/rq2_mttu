@@ -1,0 +1,1 @@
+["cli-tests/cli-tests.bats", "doc/cli/exec-with-locks.txt", "doc/cli/help.txt", "doc/man/bupstash-exec-with-locks.1.md", "doc/man/bupstash.1.md", "src/fstx.rs", "src/main.rs", "src/repository.rs"]

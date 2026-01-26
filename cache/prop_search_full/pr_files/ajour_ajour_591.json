@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CLI.md", "Cargo.lock", "crates/core/Cargo.toml", "crates/core/src/backup.rs", "crates/core/src/config/mod.rs", "crates/core/src/fs/backup.rs", "crates/core/src/repository/mod.rs", "src/cli.rs", "src/command/backup.rs", "src/gui/element/settings.rs", "src/gui/mod.rs", "src/gui/update.rs", "src/main.rs"]

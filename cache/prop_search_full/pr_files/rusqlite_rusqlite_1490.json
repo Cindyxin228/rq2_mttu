@@ -1,0 +1,1 @@
+["libsqlite3-sys/src/error.rs", "src/blob/mod.rs", "src/collation.rs", "src/functions.rs", "src/row.rs", "src/transaction.rs", "src/types/to_sql.rs", "src/types/value.rs", "src/types/value_ref.rs"]

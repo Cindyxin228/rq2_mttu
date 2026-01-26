@@ -1,0 +1,1 @@
+["src/almel.yaml", "src/config.rs", "src/init/almel.bash", "src/init/almel.fish", "src/init/almel.zsh", "src/opt.rs", "src/segments/duration.rs", "src/segments/git_repo.rs", "src/segments/mod.rs", "src/segments/time.rs"]

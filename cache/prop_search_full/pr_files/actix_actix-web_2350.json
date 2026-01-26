@@ -1,0 +1,1 @@
+["actix-router/src/resource.rs", "actix-web-codegen/CHANGES.md", "actix-web-codegen/Cargo.toml", "actix-web-codegen/src/route.rs", "actix-web-codegen/tests/trybuild.rs", "actix-web-codegen/tests/trybuild/route-malformed-path-fail.rs", "actix-web-codegen/tests/trybuild/route-malformed-path-fail.stderr"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tests/scanner.rs", "wayland-client/build.rs", "wayland-protocols/build.rs", "wayland-scanner/src/lib.rs", "wayland-scanner/src/parse.rs", "wayland-server/build.rs"]

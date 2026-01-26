@@ -1,0 +1,1 @@
+["src/justfile.rs", "src/subcommand.rs", "tests/lib.rs", "tests/misc.rs", "tests/quiet.rs", "tests/summary.rs"]

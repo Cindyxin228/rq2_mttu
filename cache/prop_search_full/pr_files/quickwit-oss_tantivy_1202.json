@@ -1,0 +1,1 @@
+["src/indexer/index_writer.rs", "src/indexer/mod.rs", "src/indexer/prepared_commit.rs", "src/indexer/segment_updater.rs", "src/lib.rs"]

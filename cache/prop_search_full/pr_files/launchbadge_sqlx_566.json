@@ -1,0 +1,1 @@
+["sqlx-core/Cargo.toml", "sqlx-core/src/postgres/connection/describe.rs", "sqlx-core/src/postgres/connection/executor.rs", "sqlx-core/src/postgres/io/buf_mut.rs", "src/macros.rs", "tests/postgres/postgres.rs", "tests/sqlite/describe.rs"]

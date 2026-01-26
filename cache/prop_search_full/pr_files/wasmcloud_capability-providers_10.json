@@ -1,0 +1,1 @@
+["Makefile.common", "fs/Makefile", "http-client/Makefile", "http-server/Makefile", "logging/Makefile", "nats/Makefile", "redis-streams/Makefile", "redis/Makefile", "redisgraph/Makefile", "s3/Makefile", "telnet/Makefile"]

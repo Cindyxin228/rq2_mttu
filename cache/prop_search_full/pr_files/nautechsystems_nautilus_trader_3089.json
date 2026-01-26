@@ -1,0 +1,1 @@
+["crates/adapters/hyperliquid/src/common/parse.rs", "crates/adapters/hyperliquid/src/data/mod.rs", "crates/adapters/hyperliquid/src/execution/mod.rs", "crates/adapters/hyperliquid/src/http/query.rs", "crates/adapters/hyperliquid/src/http/rate_limits.rs", "crates/adapters/hyperliquid/src/websocket/client.rs"]

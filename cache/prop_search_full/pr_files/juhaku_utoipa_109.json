@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/lib.rs", "src/openapi/schema.rs", "tests/component_derive_test.rs", "tests/path_derive.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/component_type.rs"]

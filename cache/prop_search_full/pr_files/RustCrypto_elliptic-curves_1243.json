@@ -1,0 +1,1 @@
+["ed448-goldilocks/Cargo.toml", "ed448-goldilocks/src/curve/edwards/extended.rs", "ed448-goldilocks/src/decaf/points.rs", "ed448-goldilocks/src/field/scalar.rs", "ed448-goldilocks/src/sign/signature.rs", "ed448-goldilocks/src/sign/signing_key.rs", "ed448-goldilocks/src/sign/verifying_key.rs"]

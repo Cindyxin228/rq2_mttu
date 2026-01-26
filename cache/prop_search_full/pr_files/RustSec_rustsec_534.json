@@ -1,0 +1,1 @@
+["cargo-audit/src/application.rs", "cargo-audit/src/bin/cargo-audit/main.rs", "cargo-audit/src/commands/audit.rs", "cargo-audit/src/commands/audit/fix.rs", "cargo-audit/src/prelude.rs"]

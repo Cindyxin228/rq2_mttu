@@ -1,0 +1,1 @@
+["chain/src/chain.rs", "p2p/src/store.rs", "servers/src/common/adapters.rs", "servers/src/mwc/seed.rs", "servers/src/mwc/sync.rs", "servers/src/mwc/sync/body_sync.rs", "servers/src/mwc/sync/header_sync.rs", "servers/src/mwc/sync/orphans_sync.rs", "servers/src/mwc/sync/sync_manager.rs", "servers/src/mwc/sync/syncer.rs"]

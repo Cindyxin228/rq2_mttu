@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/client_dispatch.rs", "tests/client_proxies.rs", "tests/server_resources.rs", "wayland-client/src/native_lib/proxy.rs", "wayland-server/src/rust_imp/resources.rs"]

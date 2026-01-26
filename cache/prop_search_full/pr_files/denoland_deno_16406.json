@@ -1,0 +1,1 @@
+[".dprint.json", "Cargo.lock", "cli/Cargo.toml", "cli/lockfile.rs", "cli/main.rs", "cli/proc_state.rs", "cli/tests/testdata/coverage/complex_expected.lcov", "cli/tests/testdata/coverage/complex_expected.out", "cli/tools/doc.rs", "cli/tools/vendor/test.rs", "cli/tsc.rs", "core/Cargo.toml", "ext/fetch/Cargo.toml", "tools/wpt/expectation.json"]

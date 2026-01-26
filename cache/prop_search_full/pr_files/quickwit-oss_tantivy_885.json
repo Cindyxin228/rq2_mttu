@@ -1,0 +1,1 @@
+["Cargo.toml", "src/core/segment_component.rs", "src/schema/flags.rs", "src/store/compression_brotli.rs", "src/store/mod.rs", "src/store/reader.rs"]

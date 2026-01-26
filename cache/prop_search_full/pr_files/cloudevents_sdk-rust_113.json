@@ -1,0 +1,1 @@
+["cloudevents-sdk-rdkafka/Cargo.toml", "cloudevents-sdk-reqwest/Cargo.toml", "cloudevents-sdk-warp/Cargo.toml", "example-projects/rdkafka-example/Cargo.toml", "example-projects/reqwest-wasm-example/Cargo.toml", "example-projects/warp-example/Cargo.toml"]

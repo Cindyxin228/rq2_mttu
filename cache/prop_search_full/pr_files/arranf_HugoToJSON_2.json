@@ -1,0 +1,1 @@
+["fuzz/hugo_to_json-fuzz-target/src/main.rs", "src/lib.rs", "src/main.rs", "src/page_index.rs", "src/settings.rs", "src/traverse/traverser.rs", "tests/cli.rs"]

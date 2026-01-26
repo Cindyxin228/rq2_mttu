@@ -1,0 +1,1 @@
+[".changelog/transfer-encoding-signing.md", "aws/rust-runtime/Cargo.lock", "aws/rust-runtime/aws-sigv4/Cargo.toml", "aws/rust-runtime/aws-sigv4/src/http_request/canonical_request.rs", "aws/rust-runtime/aws-sigv4/src/http_request/settings.rs"]

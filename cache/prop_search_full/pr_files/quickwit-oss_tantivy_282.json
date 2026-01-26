@@ -1,0 +1,1 @@
+["src/common/composite_file.rs", "src/core/searcher.rs", "src/core/segment_reader.rs", "src/fastfield/delete.rs", "src/lib.rs", "src/space_usage/mod.rs", "src/store/reader.rs"]

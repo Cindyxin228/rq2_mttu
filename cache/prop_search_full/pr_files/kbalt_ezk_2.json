@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/sip-auth/Cargo.toml", "crates/sip-auth/src/digest.rs", "crates/sip-auth/src/error.rs", "crates/sip-auth/src/lib.rs", "crates/sip-types/src/header/multiple.rs", "crates/sip-types/src/header/typed/auth.rs", "crates/sip-types/src/header/typed/mod.rs"]

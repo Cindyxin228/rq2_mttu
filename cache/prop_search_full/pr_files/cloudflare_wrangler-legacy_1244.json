@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", "src/settings/toml/tests/mod.rs", "tests/build.rs", "tests/fixture/mod.rs", "tests/preview.rs"]

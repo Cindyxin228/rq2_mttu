@@ -1,0 +1,1 @@
+["iroh-dns-server/examples/publish.rs", "iroh-dns-server/examples/resolve.rs", "iroh-relay/src/dns/node_info.rs", "iroh/src/discovery.rs", "iroh/src/discovery/local_swarm_discovery.rs", "iroh/src/discovery/static_provider.rs", "iroh/src/endpoint.rs", "iroh/src/magicsock.rs"]

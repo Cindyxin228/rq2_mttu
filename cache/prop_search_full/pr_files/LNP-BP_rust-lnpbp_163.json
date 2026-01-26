@@ -1,0 +1,1 @@
+["derive/src/lnp_api.rs", "src/bp/dbc/txout.rs", "src/bp/scripts/types.rs", "src/lnp/application/channel.rs", "src/lnp/application/extension.rs", "src/lnp/application/payment/extenders/htlc.rs", "src/lnp/application/payment/mod.rs", "src/lnp/application/payment/types.rs"]

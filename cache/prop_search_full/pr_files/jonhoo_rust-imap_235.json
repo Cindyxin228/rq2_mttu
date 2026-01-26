@@ -1,0 +1,1 @@
+["src/client.rs", "src/lib.rs", "src/parse.rs", "src/types/mod.rs", "src/types/quota.rs", "src/utils.rs", "tests/imap_integration.rs"]

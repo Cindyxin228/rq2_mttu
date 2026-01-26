@@ -1,0 +1,1 @@
+["src/sql-parser/src/ast/defs/statement.rs", "src/sql-parser/src/parser.rs", "src/sql-parser/tests/testdata/ddl", "src/sql/src/plan/statement/ddl.rs", "test/sqllogictest/cluster_log_drop.slt"]

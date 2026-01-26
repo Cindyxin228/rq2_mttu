@@ -1,0 +1,1 @@
+["polars/polars-core/src/series/mod.rs", "py-polars/polars/internals/expr/expr.py", "py-polars/polars/internals/lazyframe/frame.py", "py-polars/polars/internals/series/series.py", "py-polars/tests/unit/test_errors.py", "py-polars/tests/unit/test_struct.py"]

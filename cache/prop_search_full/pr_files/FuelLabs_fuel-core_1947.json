@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/scripts/generate_pages_index.py", "tests/tests/sync.rs", "tests/tests/tx_gossip.rs"]

@@ -1,0 +1,1 @@
+["resource/ckb.toml", "rpc/Cargo.toml", "rpc/src/server.rs", "rpc/src/tests/mod.rs", "rpc/src/tests/module/test.rs", "rpc/src/tests/setup.rs", "test/template/ckb.toml", "util/app-config/src/configs/rpc.rs"]

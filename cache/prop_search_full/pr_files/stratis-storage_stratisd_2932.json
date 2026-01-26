@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/dbus_api/api/mod.rs", "src/dbus_api/blockdev/mod.rs", "src/dbus_api/consts.rs", "src/dbus_api/filesystem/mod.rs", "src/dbus_api/pool/mod.rs", "stratisd.conf", "tests/client-dbus/src/stratisd_client_dbus/_constants.py", "tests/client-dbus/src/stratisd_client_dbus/_introspect.py"]

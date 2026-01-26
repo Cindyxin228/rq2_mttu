@@ -1,0 +1,1 @@
+["examples/esp-now/embassy_esp_now/src/main.rs", "examples/esp-now/embassy_esp_now_duplex/src/main.rs", "examples/wifi/embassy_dhcp/src/main.rs", "qa-test/src/bin/embassy_wifi_bench.rs"]

@@ -1,0 +1,1 @@
+["README.md", "contracts/l1-l2-messaging/cairo/src/l1_l2.cairo", "crates/starknet-devnet-core/src/account.rs", "scripts/fetch_ci_binaries.py", "tests/integration/test_fork.rs", "tests/integration/test_gas_modification.rs"]

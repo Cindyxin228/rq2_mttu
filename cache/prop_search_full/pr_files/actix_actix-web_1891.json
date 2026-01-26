@@ -1,0 +1,1 @@
+["CHANGES.md", "Cargo.toml", "actix-files/src/named.rs", "actix-files/src/service.rs", "benches/responder.rs", "src/handler.rs", "src/responder.rs", "src/types/either.rs", "src/types/form.rs", "src/types/json.rs"]

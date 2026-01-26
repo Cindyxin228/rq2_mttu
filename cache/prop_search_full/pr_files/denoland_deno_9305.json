@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.shared_globals.d.ts", "cli/tests/unit/fetch_test.ts", "cli/tests/unit/form_data_test.ts", "cli/tests/unit/request_test.ts", "core/lib.deno_core.d.ts", "op_crates/fetch/26_fetch.js", "op_crates/fetch/internal.d.ts", "op_crates/web/internal.d.ts", "op_crates/web/lib.deno_web.d.ts", "runtime/js/99_main.js", "test_util/wpt", "tools/wpt/expectation.json"]

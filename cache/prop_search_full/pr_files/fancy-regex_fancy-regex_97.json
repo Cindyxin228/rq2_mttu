@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/analyze.rs", "src/compile.rs", "src/error.rs", "src/expand.rs", "src/lib.rs", "src/parse.rs", "src/vm.rs", "tests/captures.rs", "tests/matching.rs", "tests/oniguruma.rs", "tests/oniguruma/test_utf8_ignore.c"]

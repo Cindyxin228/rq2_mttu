@@ -1,0 +1,1 @@
+["src/core/index_meta.rs", "src/core/segment.rs", "src/core/segment_meta.rs", "src/indexer/delete_queue.rs", "src/indexer/doc_opstamp_mapping.rs", "src/indexer/index_writer.rs", "src/indexer/merge_operation.rs", "src/indexer/operation.rs", "src/indexer/prepared_commit.rs", "src/indexer/segment_updater.rs", "src/indexer/segment_writer.rs", "src/indexer/stamper.rs", "src/lib.rs"]

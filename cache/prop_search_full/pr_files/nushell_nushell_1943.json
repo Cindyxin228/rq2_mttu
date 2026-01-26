@@ -1,0 +1,1 @@
+["crates/nu-cli/src/data/config/conf.rs", "crates/nu-cli/src/data/config/nuconfig.rs", "crates/nu-cli/src/data/config/tests.rs", "crates/nu-cli/src/env.rs", "crates/nu-cli/src/env/directory_specific_environment.rs", "crates/nu-cli/src/env/environment.rs", "crates/nu-cli/src/env/environment_syncer.rs"]

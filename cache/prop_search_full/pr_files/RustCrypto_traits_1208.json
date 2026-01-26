@@ -1,0 +1,1 @@
+["elliptic-curve/src/arithmetic.rs", "elliptic-curve/src/dev.rs", "elliptic-curve/src/scalar.rs", "elliptic-curve/src/scalar/blinded.rs", "elliptic-curve/src/scalar/invert.rs", "elliptic-curve/src/scalar/nonzero.rs"]

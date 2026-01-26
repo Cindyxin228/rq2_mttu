@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "common/Cargo.toml", "common/src/lib.rs", "program-keccak-inclusion/Cargo.toml", "program-keccak-inclusion/src/main.rs", "runner-keccak-inclusion/sample_groth16_proof.json", "runner-keccak-inclusion/src/main.rs"]

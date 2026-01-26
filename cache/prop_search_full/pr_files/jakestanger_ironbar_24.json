@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/main.rs", "src/modules/focused.rs", "src/modules/launcher/item.rs", "src/modules/launcher/mod.rs", "src/modules/launcher/open_state.rs", "src/sway.rs", "src/sway/node.rs", "src/wayland/client.rs", "src/wayland/mod.rs", "src/wayland/toplevel.rs", "src/wayland/toplevel_manager.rs"]

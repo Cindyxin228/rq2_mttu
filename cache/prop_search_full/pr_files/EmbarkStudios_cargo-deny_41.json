@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "deny.toml", "spdx_cache.bin.gz", "spdx_cache.bin.zstd", "src/ban.rs", "src/cargo-deny/check.rs", "src/cargo-deny/list.rs", "src/cargo-deny/main.rs", "src/inclusion_graph.rs", "src/lib.rs", "src/licenses.rs"]

@@ -1,0 +1,1 @@
+["lib/deno_graph_wasm_bg.wasm", "src/graph.rs", "src/lib.rs"]

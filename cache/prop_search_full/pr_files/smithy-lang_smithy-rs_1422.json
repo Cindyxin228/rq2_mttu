@@ -1,0 +1,1 @@
+["aws/sdk-codegen-test/build.gradle.kts", "aws/sdk/build.gradle.kts", "buildSrc/src/main/kotlin/CodegenTestCommon.kt", "buildSrc/src/main/kotlin/HashUtils.kt", "codegen-server-test/build.gradle.kts", "codegen-server-test/python/build.gradle.kts", "codegen-test/build.gradle.kts", "gradle.properties"]

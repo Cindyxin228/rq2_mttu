@@ -1,0 +1,1 @@
+["crypto/txscript/src/data_stack.rs", "kos/src/imports.rs", "rpc/grpc/client/src/route.rs", "rpc/grpc/server/src/connection.rs", "wallet/core/src/settings.rs", "wallet/core/src/utxo/processor.rs"]

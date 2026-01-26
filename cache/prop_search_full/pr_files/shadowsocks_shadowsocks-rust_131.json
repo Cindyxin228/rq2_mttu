@@ -1,0 +1,1 @@
+["src/config.rs", "src/crypto/cipher.rs", "src/relay/socks5.rs", "src/relay/tcprelay/mod.rs", "src/relay/tcprelay/server.rs", "src/relay/tcprelay/socks5_local.rs", "src/relay/udprelay/server.rs"]

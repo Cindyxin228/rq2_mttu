@@ -1,0 +1,1 @@
+["kube-client/src/lib.rs", "kube-core/src/lib.rs", "kube-derive/src/lib.rs", "kube-runtime/src/lib.rs", "kube/src/lib.rs"]

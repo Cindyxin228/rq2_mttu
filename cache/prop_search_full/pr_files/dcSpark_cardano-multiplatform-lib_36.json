@@ -1,0 +1,1 @@
+["rust/pkg/cardano_multiplatform_lib.js.flow", "rust/src/address.rs", "rust/src/fees.rs", "rust/src/lib.rs", "rust/src/metadata.rs", "rust/src/plutus.rs", "rust/src/serialization.rs", "rust/src/tx_builder.rs", "rust/src/utils.rs", "rust/src/witness_builder.rs"]

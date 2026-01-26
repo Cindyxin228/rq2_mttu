@@ -1,0 +1,1 @@
+["nix-example/.gitignore", "nix-example/default.nix", "nix-example/emulsion/default.nix", "subcrates/gelatin/src/shaders/color_shadow_f_110.glsl", "subcrates/gelatin/src/shaders/color_shadow_f_140.glsl", "subcrates/gelatin/src/shaders/texture_shadow_f_110.glsl", "subcrates/gelatin/src/shaders/texture_shadow_f_140.glsl"]

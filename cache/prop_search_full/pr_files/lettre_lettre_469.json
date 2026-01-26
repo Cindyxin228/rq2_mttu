@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/transport_smtp.rs", "src/message/encoder.rs", "src/message/mimebody.rs", "src/transport/sendmail/mod.rs", "src/transport/smtp/async_transport.rs", "src/transport/smtp/commands.rs", "src/transport/smtp/extension.rs", "src/transport/smtp/transport.rs"]

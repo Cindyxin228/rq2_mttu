@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/config/abbrev.rs", "src/config/config_path.rs", "src/config/mod.rs", "src/expand/mod.rs", "src/list/mod.rs", "test/config.yaml", "test/config2.yml", "test/integration_test.zsh"]

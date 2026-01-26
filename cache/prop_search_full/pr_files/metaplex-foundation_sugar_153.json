@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "script/sugar-cli-test.sh", "src/cache.rs", "src/constants.rs", "src/deploy/process.rs", "src/upload/aws.rs", "src/upload/bundlr.rs", "src/upload/process.rs"]

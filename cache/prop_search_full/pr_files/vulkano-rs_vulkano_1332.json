@@ -1,0 +1,1 @@
+["CHANGELOG_VULKANO.md", "examples/Cargo.toml", "vulkano-shaders/Cargo.toml", "vulkano-win/Cargo.toml", "vulkano/Cargo.toml", "vulkano/src/command_buffer/submit/semaphores_wait.rs"]

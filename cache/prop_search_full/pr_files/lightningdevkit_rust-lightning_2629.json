@@ -1,0 +1,1 @@
+["lightning/src/events/mod.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/outbound_payment.rs", "lightning/src/ln/reload_tests.rs", "lightning/src/sign/type_resolver.rs"]

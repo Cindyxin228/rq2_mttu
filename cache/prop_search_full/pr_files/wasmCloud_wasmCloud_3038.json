@@ -1,0 +1,1 @@
+["crates/core/Cargo.toml", "crates/core/README.md", "crates/core/src/lib.rs", "crates/core/src/registry.rs", "crates/core/src/tls.rs", "crates/host/Cargo.toml", "crates/wash-lib/Cargo.toml"]

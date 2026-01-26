@@ -1,0 +1,1 @@
+["graph-error/src/graph_failure.rs", "graph-error/src/internal.rs", "src/http/intoresponse.rs", "src/lib.rs", "src/onenote/request.rs", "test_files/upload_session_file.txt", "tests/delta.rs", "tests/drive_request.rs", "tests/onenote_request.rs"]

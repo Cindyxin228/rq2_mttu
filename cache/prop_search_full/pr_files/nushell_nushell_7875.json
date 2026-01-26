@@ -1,0 +1,1 @@
+["crates/nu-command/tests/commands/cd.rs", "crates/nu-command/tests/commands/reject.rs", "crates/nu-command/tests/commands/with_env.rs", "tests/shell/pipeline/commands/internal.rs"]

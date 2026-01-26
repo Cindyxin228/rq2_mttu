@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "components/addressmanager/Cargo.toml", "components/addressmanager/src/lib.rs", "components/addressmanager/src/port_mapping_extender.rs", "consensus/core/src/config/mod.rs", "kaspad/src/args.rs", "kaspad/src/daemon.rs"]

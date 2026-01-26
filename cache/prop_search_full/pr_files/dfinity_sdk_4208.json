@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/cli-reference/dfx-canister.mdx", "e2e/tests-dfx/canister_logs.bash", "src/dfx/src/commands/canister/logs.rs", "src/dfx/src/util/clap/parsers.rs"]

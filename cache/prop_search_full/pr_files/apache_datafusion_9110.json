@@ -1,0 +1,1 @@
+["datafusion/expr/src/built_in_function.rs", "datafusion/physical-expr/src/array_expressions.rs", "datafusion/sqllogictest/test_files/array.slt"]

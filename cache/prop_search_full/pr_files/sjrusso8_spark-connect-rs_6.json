@@ -1,0 +1,1 @@
+["README.md", "docker-compose.yml", "examples/delta.rs", "examples/writer.rs", "src/column.rs", "src/dataframe.rs", "src/lib.rs", "src/plan.rs", "src/readwriter.rs", "src/session.rs", "src/storage.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build-docker-image.yml", ".github/workflows/continous-integration-os.yml", ".github/workflows/release-binaries.yml", "deny.toml", "docker/Dockerfile", "docker/zcash-params/Dockerfile", "zebra-node-services/Cargo.toml", "zebra-state/Cargo.toml", "zebrad/Cargo.toml"]

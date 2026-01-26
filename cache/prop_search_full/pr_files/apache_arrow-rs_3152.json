@@ -1,0 +1,1 @@
+["arrow-array/src/array/primitive_array.rs", "arrow-array/src/types.rs", "arrow-cast/src/cast.rs", "arrow-csv/src/reader.rs", "arrow-data/src/decimal.rs", "arrow-schema/src/datatype.rs", "arrow-select/src/take.rs", "arrow/benches/cast_kernels.rs", "arrow/src/datatypes/ffi.rs", "arrow/tests/array_transform.rs"]

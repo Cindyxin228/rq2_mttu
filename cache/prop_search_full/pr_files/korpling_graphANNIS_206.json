@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "cli/Cargo.toml", "cli/src/bin/annis.rs", "core/Cargo.toml", "core/src/annostorage/mod.rs", "core/src/annostorage/ondisk.rs", "core/src/graph/mod.rs", "core/src/serializer.rs", "core/src/types.rs", "core/src/util/disk_collections.rs", "docs/src/cli.md", "graphannis/src/annis/db/relannis.rs", "graphannis/src/annis/util/mod.rs"]

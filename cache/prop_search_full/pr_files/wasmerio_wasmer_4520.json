@@ -1,0 +1,1 @@
+["lib/compiler-singlepass/src/codegen.rs", "lib/compiler-singlepass/src/machine.rs", "lib/compiler-singlepass/src/machine_arm64.rs", "lib/compiler-singlepass/src/machine_x64.rs"]

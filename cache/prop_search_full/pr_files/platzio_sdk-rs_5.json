@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/resources/deployment_tasks.rs", "src/resources/deployments.rs", "src/resources/envs.rs", "src/resources/helm_chart.rs", "src/resources/helm_registries.rs", "src/resources/k8s_clusters.rs", "src/resources/mod.rs", "src/resources/secrets.rs", "src/resources/user_tokens.rs"]

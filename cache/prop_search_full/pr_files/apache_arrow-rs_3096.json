@@ -1,0 +1,1 @@
+["arrow-array/src/delta.rs", "arrow-array/src/temporal_conversions.rs", "arrow-array/src/timezone.rs", "arrow-array/src/types.rs", "arrow-cast/src/cast.rs", "arrow-cast/src/parse.rs", "arrow-csv/src/reader.rs", "arrow/benches/cast_kernels.rs", "arrow/src/compute/kernels/arithmetic.rs", "parquet/src/record/api.rs"]

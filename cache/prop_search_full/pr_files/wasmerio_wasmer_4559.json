@@ -1,0 +1,1 @@
+["lib/compiler-singlepass/src/emitter_arm64.rs", "lib/compiler-singlepass/src/machine_arm64.rs", "tests/compilers/data/4519_singlepass_panic.wasm", "tests/compilers/issues.rs"]

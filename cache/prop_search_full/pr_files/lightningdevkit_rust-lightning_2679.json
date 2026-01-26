@@ -1,0 +1,1 @@
+["ci/ci-tests.sh", "lightning/src/ln/channelmanager.rs", "lightning/src/onion_message/messenger.rs", "lightning/src/onion_message/mod.rs", "lightning/src/onion_message/offers.rs"]

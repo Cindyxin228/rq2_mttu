@@ -1,0 +1,1 @@
+["glib-macros/src/utils.rs", "glib-macros/tests/properties.rs", "glib-macros/tests/test.rs", "glib-macros/tests/value_delegate_derive.rs", "glib/src/boxed_inline.rs", "glib/src/collections/strv.rs", "glib/src/gstring.rs", "glib/src/main_context_futures.rs", "glib/src/param_spec.rs", "glib/src/value.rs"]

@@ -1,0 +1,1 @@
+["src/lib/ghrtask.rs", "src/main.rs", "src/tasks/dep.rs", "src/tasks/jq.rs", "src/tasks/skaffold.rs", "src/tasks/vim.rs", "src/tasks/yq.rs"]

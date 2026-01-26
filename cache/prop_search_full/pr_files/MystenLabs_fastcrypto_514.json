@@ -1,0 +1,1 @@
+["Cargo.lock", "deny.toml", "fastcrypto-zkp/Cargo.toml", "fastcrypto-zkp/examples/circom-inputs/mycircuit.r1cs", "fastcrypto-zkp/examples/circom-inputs/mycircuit.wasm", "fastcrypto-zkp/examples/circom-inputs/mycircuit.zkey", "fastcrypto-zkp/examples/circom-inputs/rsa_sha2.r1cs", "fastcrypto-zkp/examples/circom-inputs/rsa_sha2.wasm", "fastcrypto-zkp/examples/circom_demo.rs"]

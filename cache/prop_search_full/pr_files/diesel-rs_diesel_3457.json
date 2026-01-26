@@ -1,0 +1,1 @@
+["diesel_cli/Cargo.toml", "diesel_cli/src/database.rs", "diesel_cli/src/infer_schema_internals/foreign_keys.rs", "diesel_cli/src/infer_schema_internals/inference.rs", "diesel_cli/src/infer_schema_internals/mysql.rs", "diesel_cli/src/main.rs", "diesel_cli/src/print_schema.rs"]

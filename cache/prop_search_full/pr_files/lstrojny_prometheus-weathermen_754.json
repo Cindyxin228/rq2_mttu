@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "flake.lock", "flake.nix", "src/logging.rs", "src/main.rs", "src/providers/deutscher_wetterdienst.rs", "src/providers/http_request.rs"]

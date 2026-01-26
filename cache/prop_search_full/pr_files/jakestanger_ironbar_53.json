@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/modules/Workspaces.md", "src/clients/compositor/hyprland.rs", "src/clients/compositor/mod.rs", "src/clients/compositor/sway.rs", "src/clients/mod.rs", "src/clients/sway.rs", "src/modules/workspaces.rs"]

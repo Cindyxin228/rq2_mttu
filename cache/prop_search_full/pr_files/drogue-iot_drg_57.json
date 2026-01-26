@@ -1,0 +1,1 @@
+[".github/scripts/package_release.sh", ".github/workflows/build.yaml", ".github/workflows/release.yml", "dist/wix/drg.wxi", "dist/wix/drg.wxs"]

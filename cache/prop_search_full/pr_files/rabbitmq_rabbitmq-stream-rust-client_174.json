@@ -1,0 +1,1 @@
+["protocol/Cargo.toml", "protocol/src/message/amqp/types/annotations.rs", "tests/integration/environment_test.rs", "tests/integration/producer_test.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "changelog.md", "readme.md", "src/cli/mod.rs", "src/cmd/mod.rs", "src/lib/mod.rs", "test-files/c-demo/subfolder/pkg_c/module_nofmt/module_nofmt.c", "test-files/c-demo/subfolder/pkg_c/module_nofmt/module_nofmt.h", "test-files/json/format.json", "test-files/json/test-err-format.json", "test-files/json/test-ok-format.json", "tests/invoke.rs"]

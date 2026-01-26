@@ -1,0 +1,1 @@
+["datafusion_iceberg/examples/refresh_materialized_view.rs", "datafusion_iceberg/src/materialized_view/delta_queries/transform.rs", "datafusion_iceberg/src/materialized_view/mod.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "src/backend/postgres/query.rs", "src/backend/query_builder.rs", "src/query/delete.rs", "src/query/insert.rs", "src/query/mod.rs", "src/query/returning.rs", "src/query/update.rs", "tests/mysql/query.rs", "tests/postgres/query.rs", "tests/sqlite/query.rs"]

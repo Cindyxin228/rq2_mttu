@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "ffi/Cargo.toml", "ffi/examples/read-table/README.md", "ffi/examples/read-table/read_table.c", "ffi/src/ffi_tracing.rs", "ffi/src/handle.rs", "ffi/src/lib.rs"]

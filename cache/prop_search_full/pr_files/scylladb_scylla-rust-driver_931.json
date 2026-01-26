@@ -1,0 +1,1 @@
+["Cargo.lock.msrv", "scylla-cql/Cargo.toml", "scylla-cql/src/frame/frame_errors.rs", "scylla-cql/src/frame/mod.rs", "scylla-cql/src/frame/request/mod.rs", "scylla-cql/src/frame/response/mod.rs", "scylla-cql/src/frame/types.rs", "scylla-proxy/Cargo.toml", "scylla/Cargo.toml"]

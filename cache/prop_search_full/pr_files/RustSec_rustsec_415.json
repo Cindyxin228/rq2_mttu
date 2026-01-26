@@ -1,0 +1,1 @@
+[".cargo/audit.toml", ".github/workflows/cargo-audit.yml", "Cargo.lock", "admin/Cargo.lock", "cargo-audit/Cargo.toml", "rustsec/Cargo.toml", "rustsec/tests/integration.rs"]

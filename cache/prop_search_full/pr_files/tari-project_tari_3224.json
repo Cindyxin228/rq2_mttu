@@ -1,0 +1,1 @@
+["base_layer/wallet/tests/output_manager_service/service.rs", "comms/src/connection_manager/dialer.rs", "comms/src/connection_manager/listener.rs", "comms/src/connection_manager/manager.rs", "comms/src/protocol/rpc/client.rs", "integration_tests/features/Sync.feature", "integration_tests/package-lock.json"]

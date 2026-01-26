@@ -1,0 +1,1 @@
+["crates/proto/src/op/message.rs", "crates/proto/src/op/query.rs", "crates/proto/src/rr/dns_class.rs", "crates/proto/src/rr/record_data.rs", "crates/proto/src/rr/resource.rs"]

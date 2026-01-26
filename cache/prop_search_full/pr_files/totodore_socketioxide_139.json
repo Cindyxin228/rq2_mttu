@@ -1,0 +1,1 @@
+["examples/basic-crud-application/src/handlers/todo.rs", "examples/private-messaging/src/handlers.rs", "socketioxide/src/errors.rs", "socketioxide/src/handler.rs", "socketioxide/src/hyper_v1.rs", "socketioxide/src/io.rs", "socketioxide/src/layer.rs", "socketioxide/src/operators.rs", "socketioxide/src/service.rs", "socketioxide/src/socket.rs"]

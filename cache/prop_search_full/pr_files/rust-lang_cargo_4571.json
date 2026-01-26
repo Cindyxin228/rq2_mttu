@@ -1,0 +1,1 @@
+["src/cargo/core/resolver/encode.rs", "src/cargo/ops/lockfile.rs", "src/doc/book/src/guide/cargo-toml-vs-cargo-lock.md", "src/doc/guide.md", "tests/bad-config.rs", "tests/generate-lockfile.rs", "tests/git.rs", "tests/install.rs", "tests/lockfile-compat.rs", "tests/overrides.rs", "tests/workspaces.rs"]

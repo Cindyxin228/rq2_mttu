@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/datafusion/Cargo.toml", "crates/hudi/Cargo.toml", "release/bump_version_in_main.sh"]

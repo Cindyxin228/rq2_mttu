@@ -1,0 +1,1 @@
+["coordinator/src/main.rs", "coordinator/src/substrate/mod.rs", "coordinator/src/tests/tributary/dkg.rs", "coordinator/src/tributary/db.rs", "coordinator/src/tributary/handle.rs", "coordinator/src/tributary/scanner.rs"]

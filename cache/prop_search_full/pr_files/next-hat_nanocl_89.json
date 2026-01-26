@@ -1,0 +1,1 @@
+[".github/workflows/tests.yml", "Cargo.lock", "bin/nanocld/migrations/2022-05-20-134629_create_namespaces/up.sql", "bin/nanocld/src/boot/init.rs", "bin/nanocld/src/boot/system.rs", "bin/nanocld/src/services/namespace.rs", "bin/nanocld/src/utils/cargo.rs", "bin/nanocld/src/utils/namespace.rs", "crates/nanocl_models/src/generic.rs", "crates/nanocl_models/src/namespace.rs"]

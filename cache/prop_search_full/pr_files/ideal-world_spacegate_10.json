@@ -1,0 +1,1 @@
+["kernel/src/config/config_by_k8s.rs", "kernel/src/plugins/context.rs", "kernel/src/plugins/filters.rs", "kernel/src/plugins/filters/status.rs", "kernel/src/plugins/filters/status/status_plugin.rs"]

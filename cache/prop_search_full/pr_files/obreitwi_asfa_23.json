@@ -1,0 +1,1 @@
+["src/cli.rs", "src/cmd/check.rs", "src/cmd/clean.rs", "src/cmd/list.rs", "src/cmd/mod.rs", "src/cmd/push.rs", "src/cmd/rename.rs", "src/main.rs", "tests/cmd_check.rs", "tests/simple-file-upload.rs"]

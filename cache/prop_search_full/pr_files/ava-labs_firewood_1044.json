@@ -1,0 +1,1 @@
+["ffi/firewood.go", "ffi/firewood.h", "ffi/firewood_test.go", "ffi/go.mod", "ffi/go.sum", "ffi/metrics.go", "ffi/metrics_test.go", "ffi/src/lib.rs", "ffi/src/metrics_setup.rs", "ffi/tests/eth/go.mod", "ffi/tests/eth/go.sum", "ffi/tests/firewood/go.mod", "ffi/tests/firewood/go.sum"]

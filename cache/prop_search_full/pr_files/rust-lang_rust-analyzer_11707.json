@@ -1,0 +1,1 @@
+["crates/hir/src/semantics.rs", "crates/hir_def/src/resolver.rs", "crates/ide_completion/src/completions/lifetime.rs", "crates/ide_completion/src/context.rs"]

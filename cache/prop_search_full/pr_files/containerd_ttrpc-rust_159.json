@@ -1,0 +1,1 @@
+[".github/workflows/bvt.yml", "Cargo.toml", "compiler/Cargo.toml", "compiler/src/codegen.rs", "example/Cargo.toml", "example/protocols/protos/health.proto", "ttrpc-codegen/Cargo.toml", "ttrpc-codegen/src/parser.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build/instructions_template.rs", "src/atom_table.rs", "src/lib.rs", "src/machine/dispatch.rs", "src/machine/mock_wam.rs", "src/machine/mod.rs", "src/machine/system_calls.rs"]

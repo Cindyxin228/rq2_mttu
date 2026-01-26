@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/tuples/src/main.nr", "crates/noirc_driver/src/contract.rs", "crates/noirc_frontend/src/hir/type_check/expr.rs", "crates/noirc_frontend/src/hir/type_check/stmt.rs", "crates/noirc_frontend/src/parser/parser.rs"]

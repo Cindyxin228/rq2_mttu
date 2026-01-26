@@ -1,0 +1,1 @@
+["golem-worker-service-base/src/api_definition/api_common.rs", "golem-worker-service-base/src/api_definition/mod.rs", "golem-worker-service-base/src/http/http_request.rs", "golem-worker-service-base/src/repo/api_deployment_repo.rs", "golem-worker-service-base/src/service/api_deployment.rs", "golem-worker-service/src/api/deploy_api_definition.rs", "openapi/golem-service.yaml"]

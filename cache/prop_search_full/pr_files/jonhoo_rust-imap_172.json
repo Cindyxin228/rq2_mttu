@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "azure-pipelines.yml", "src/client.rs", "src/error.rs", "src/parse.rs", "src/types/deleted.rs", "src/types/mailbox.rs", "src/types/mod.rs"]

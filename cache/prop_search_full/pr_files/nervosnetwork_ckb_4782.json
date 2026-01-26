@@ -1,0 +1,1 @@
+["script/src/lib.rs", "script/src/types.rs", "script/src/verify.rs", "script/src/verify/tests/ckb_latest/features_since_v2021.rs", "script/src/verify/tests/ckb_latest/features_since_v2023.rs", "script/src/verify/tests/utils.rs", "tx-pool/src/chunk_process.rs", "verification/src/cache.rs", "verification/src/lib.rs", "verification/src/transaction_verifier.rs"]

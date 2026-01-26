@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/consumer.rs", "examples/producer.rs", "src/authentication.rs", "src/client.rs", "src/connection.rs", "src/connection_manager.rs", "src/error.rs", "src/lib.rs"]

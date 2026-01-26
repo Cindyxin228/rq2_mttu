@@ -1,0 +1,1 @@
+["components/plurals/src/lib.rs", "ffi/diplomat/c/include/ICU4XPluralCategory.h", "ffi/diplomat/cpp/docs/source/pluralrules_ffi.rst", "ffi/diplomat/cpp/include/ICU4XPluralCategory.h", "ffi/diplomat/src/pluralrules.rs", "ffi/diplomat/wasm/icu4x/docs/pluralrules_ffi.rst", "provider/datagen/src/transform/cldr/datetime/skeletons.rs"]

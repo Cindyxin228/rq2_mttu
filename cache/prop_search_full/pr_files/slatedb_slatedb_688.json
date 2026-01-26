@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/src/create_snapshot.rs", "examples/src/scan_snapshot.rs", "slatedb/src/batch_write.rs", "slatedb/src/db.rs", "slatedb/src/db/builder.rs", "slatedb/src/db_snapshot.rs", "slatedb/src/lib.rs", "slatedb/src/transaction_manager.rs", "website/src/content/docs/docs/tutorials/snapshot.mdx"]

@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-plan/src/logical_plan/optimizer/projection_pushdown.rs", "py-polars/tests/unit/test_projections.py"]

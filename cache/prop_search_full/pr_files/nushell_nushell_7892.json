@@ -1,0 +1,1 @@
+[".github/workflows/typos.yml", ".typos.toml", "crates/nu-command/src/bytes/at.rs", "crates/nu-command/src/filters/split_by.rs", "crates/nu-command/src/network/url/join.rs", "crates/nu-command/src/strings/mod.rs"]

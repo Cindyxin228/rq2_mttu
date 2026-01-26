@@ -1,0 +1,1 @@
+["kanidmd/src/lib/actors/mod.rs", "kanidmd/src/lib/actors/v1_read.rs", "kanidmd/src/lib/actors/v1_write.rs", "kanidmd/src/lib/core.rs", "kanidmd/src/lib/event.rs", "kanidmd/src/lib/idm/event.rs", "kanidmd/src/lib/interval.rs", "kanidmd/src/lib/plugins/attrunique.rs", "kanidmd/src/lib/plugins/base.rs", "kanidmd/src/lib/plugins/refint.rs", "kanidmd/src/lib/utils.rs"]

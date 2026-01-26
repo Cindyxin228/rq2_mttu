@@ -1,0 +1,1 @@
+["compio-fs/src/named_pipe.rs", "compio-fs/src/open_options/mod.rs", "compio-fs/src/open_options/unix.rs", "compio-fs/src/open_options/windows.rs", "compio/benches/named_pipe.rs", "compio/examples/named_pipe.rs"]

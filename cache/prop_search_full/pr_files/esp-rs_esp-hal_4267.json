@@ -1,0 +1,1 @@
+["esp-hal/src/clock/mod.rs", "esp-phy/src/lib.rs", "esp-radio/Cargo.toml", "esp-radio/src/common_adapter.rs"]

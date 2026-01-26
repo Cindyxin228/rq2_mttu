@@ -1,0 +1,1 @@
+["CHANGELOG.md", "integration_tests/Cargo.toml", "integration_tests/tests/athena.rs", "rusoto/services/athena/Cargo.toml", "rusoto/services/athena/README.md", "rusoto/services/athena/src/custom/mod.rs", "rusoto/services/athena/src/generated.rs", "rusoto/services/athena/src/lib.rs", "service_crategen/services.json"]

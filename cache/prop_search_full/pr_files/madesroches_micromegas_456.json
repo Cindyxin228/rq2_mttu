@@ -1,0 +1,1 @@
+["AI_GUIDELINES.md", "CLAUDE.md", "rust/analytics/tests/async_span_tests.rs", "rust/tracing/proc-macros/src/lib.rs", "rust/tracing/src/dispatch.rs", "rust/tracing/src/guards.rs", "rust/tracing/src/spans/events.rs", "rust/tracing/src/spans/instrumented_future.rs"]

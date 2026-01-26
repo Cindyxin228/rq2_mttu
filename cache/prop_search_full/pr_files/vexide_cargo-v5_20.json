@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/commands/build.rs", "src/commands/field_control/mod.rs", "src/commands/new.rs", "src/commands/screenshot.rs", "src/connection.rs", "src/errors.rs"]

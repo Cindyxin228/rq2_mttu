@@ -1,0 +1,1 @@
+["Cargo.toml", "deny.toml", "src/index/git_remote.rs", "src/utils/flock.rs", "src/utils/flock/win_bindings.rs", "tests/git.rs"]

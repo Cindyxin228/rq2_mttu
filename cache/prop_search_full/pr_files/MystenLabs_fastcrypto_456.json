@@ -1,0 +1,1 @@
+["fastcrypto/src/hash.rs", "fastcrypto/src/hmac.rs", "fastcrypto/src/private_seed.rs", "fastcrypto/src/tests/hash_tests.rs", "fastcrypto/src/tests/hmac_tests.rs"]

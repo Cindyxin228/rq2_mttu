@@ -1,0 +1,1 @@
+["devimint/src/federation/config.rs", "devimint/src/gatewayd.rs", "fedimint-core/src/lib.rs", "fedimintd/src/fedimintd.rs", "fedimintd/src/lib.rs", "gateway/fedimint-gateway-server/src/lib.rs", "gateway/fedimint-lightning/src/ldk.rs", "gateway/fedimint-lightning/src/ldk/tests.rs", "gateway/integration_tests/src/main.rs"]

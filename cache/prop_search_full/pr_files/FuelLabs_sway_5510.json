@@ -1,0 +1,1 @@
+["sway-lib-core/src/ops.sw", "test/src/e2e_vm_tests/test_programs/should_fail/arith_overflow/u8_add_overflow/test.toml", "test/src/e2e_vm_tests/test_programs/should_fail/arith_overflow/u8_mul_overflow/test.toml"]

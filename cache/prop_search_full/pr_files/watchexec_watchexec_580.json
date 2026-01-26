@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cli/build.rs", "crates/cli/src/filterer/globset.rs", "crates/filterer/ignore/Cargo.toml", "crates/filterer/ignore/src/lib.rs", "crates/filterer/ignore/tests/filtering.rs", "crates/filterer/ignore/tests/ignores/none-allowed", "crates/ignore-files/Cargo.toml", "crates/ignore-files/src/filter.rs"]

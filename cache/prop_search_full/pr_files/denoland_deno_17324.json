@@ -1,0 +1,1 @@
+["cli/napi/env.rs", "ext/napi/lib.rs", "test_napi/cleanup_hook_test.js", "test_napi/src/arraybuffer.rs", "test_napi/src/lib.rs", "test_napi/src/strings.rs", "test_napi/tests/napi_tests.rs"]

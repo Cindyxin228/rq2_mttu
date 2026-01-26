@@ -1,0 +1,1 @@
+[".github/workflows/windows-builds-on-master.yaml", ".github/workflows/windows-builds-on-pr.yaml", ".github/workflows/windows-builds-on-stable.yaml", "Cargo.toml", "ci/actions-templates/windows-builds-template.yaml"]

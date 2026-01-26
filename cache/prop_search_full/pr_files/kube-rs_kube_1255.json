@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/namespace_reflector.rs", "justfile", "kube-client/src/client/tls.rs", "kube-core/src/params.rs", "kube-core/src/request.rs", "kube-core/src/watch.rs", "kube-runtime/src/watcher.rs"]

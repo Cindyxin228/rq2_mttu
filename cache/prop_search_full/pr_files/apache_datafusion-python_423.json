@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "datafusion/tests/test_store.py", "src/catalog.rs", "src/context.rs", "src/dataframe.rs", "src/dataset.rs", "src/dataset_exec.rs", "src/physical_plan.rs", "src/record_batch.rs", "src/udaf.rs", "src/udf.rs"]

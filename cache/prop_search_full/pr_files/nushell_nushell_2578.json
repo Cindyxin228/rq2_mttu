@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/random/integer.rs", "crates/nu-cli/src/commands/range.rs", "crates/nu-cli/src/deserializer.rs", "crates/nu-cli/tests/commands/random/integer.rs", "docs/commands/random.md"]

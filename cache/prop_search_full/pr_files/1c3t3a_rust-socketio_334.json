@@ -1,0 +1,1 @@
+["socketio/src/asynchronous/client/client.rs", "socketio/src/asynchronous/socket.rs", "socketio/src/client/raw_client.rs", "socketio/src/event.rs", "socketio/src/socket.rs"]

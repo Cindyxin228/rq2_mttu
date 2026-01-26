@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "Makefile", "core/Cargo.toml", "gasometer/Cargo.toml", "runtime/Cargo.toml", "rust-toolchain.toml"]

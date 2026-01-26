@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/index_versions/v2/builder.rs", "src/index_versions/v2/mod.rs", "src/index_versions/v2/scores.rs", "src/index_versions/v2/search.rs", "src/index_versions/v2/stopwords.rs", "src/index_versions/v2/structs.rs", "src/searcher/test.rs"]

@@ -1,0 +1,1 @@
+[".editorconfig", ".github/workflows/ci.yml", "Cargo.toml", "README.md", "fastrace-datadog/Cargo.toml", "fastrace-futures/Cargo.toml", "fastrace-jaeger/Cargo.toml", "fastrace-macro/Cargo.toml", "fastrace-opentelemetry/Cargo.toml", "fastrace/Cargo.toml", "test-statically-disable/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/wasmcloud-control-interface/Cargo.toml", "crates/wasmcloud-control-interface/src/generated/ctliface.rs", "crates/wasmcloud-control-interface/src/lib.rs", "crates/wasmcloud-host/Cargo.toml", "tests/control.rs"]

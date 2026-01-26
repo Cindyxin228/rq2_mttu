@@ -1,0 +1,1 @@
+["webrender/src/composite.rs", "webrender/src/picture.rs", "wrench/reftests/compositor-surface/reftest.list", "wrench/reftests/compositor-surface/transparent-opaque-image-ref.yaml", "wrench/reftests/compositor-surface/transparent-opaque-image.yaml"]

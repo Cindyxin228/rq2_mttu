@@ -1,0 +1,1 @@
+["cli/src/print.rs", "core/src/ast/query.rs", "core/src/executor/fetch.rs", "core/src/translate/query.rs", "test-suite/src/dictionary_index.rs", "test-suite/src/lib.rs"]

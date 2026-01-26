@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "integration_tests/Cargo.toml", "rusoto/services/lex-runtime/Cargo.toml", "rusoto/services/lex-runtime/README.md", "rusoto/services/lex-runtime/src/custom/mod.rs", "rusoto/services/lex-runtime/src/generated.rs", "rusoto/services/lex-runtime/src/lib.rs", "service_crategen/services.json"]

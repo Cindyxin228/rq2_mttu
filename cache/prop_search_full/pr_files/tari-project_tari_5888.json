@@ -1,0 +1,1 @@
+["base_layer/core/src/base_node/sync/header_sync/synchronizer.rs", "base_layer/core/src/base_node/sync/rpc/service.rs", "base_layer/core/src/chain_storage/blockchain_database.rs", "base_layer/core/src/validation/header/header_full_validator.rs", "base_layer/core/src/validation/helpers.rs"]

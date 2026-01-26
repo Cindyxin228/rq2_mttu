@@ -1,0 +1,1 @@
+[".github/workflows/check-formatting.yml", ".github/workflows/pyth-sdk-example-anchor-contract.yml", ".github/workflows/pyth-sdk-example-solana-contract.yml", ".github/workflows/pyth-sdk-solana.yml", "Cargo.lock", "pyth-sdk-solana/Cargo.toml", "pyth-sdk-solana/src/state.rs"]

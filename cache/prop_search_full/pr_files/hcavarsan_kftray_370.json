@@ -1,0 +1,1 @@
+["crates/kftray-tauri/Cargo.toml", "crates/kftray-tauri/src/commands/github.rs", "frontend/package.json", "frontend/src/components/AddConfigModal/index.tsx", "frontend/src/components/AutoImportModal/index.tsx", "frontend/src/main.tsx", "pnpm-lock.yaml"]

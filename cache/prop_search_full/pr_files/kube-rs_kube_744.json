@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/README.md", "examples/configmapgen_controller.rs", "examples/pod_reflector.rs", "examples/pod_watcher.rs", "examples/secret_syncer.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/vfs/Cargo.toml", "lib/vfs/src/builder.rs", "lib/vfs/src/filesystems.rs", "lib/vfs/src/host_fs.rs", "lib/vfs/src/lib.rs", "lib/vfs/src/mem_fs/filesystem.rs", "lib/vfs/src/ops.rs", "lib/vfs/src/overlay_fs.rs", "lib/vfs/src/passthru_fs.rs", "lib/vfs/src/union_fs.rs"]

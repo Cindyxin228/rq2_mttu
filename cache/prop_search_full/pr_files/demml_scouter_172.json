@@ -1,0 +1,1 @@
+[".github/workflows/build-assets-dev.yml", ".github/workflows/build-assets.yml", "docker/official/alpine/Dockerfile", "docker/official/debian/Dockerfile", "docker/official/distroless/Dockerfile", "docker/official/rocky/Dockerfile", "docker/official/scratch/Dockerfile", "docker/official/ubuntu/Dockerfile"]

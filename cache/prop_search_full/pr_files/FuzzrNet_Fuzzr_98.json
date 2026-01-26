@@ -1,0 +1,1 @@
+["benches/ipfs.rs", "src/bin/fuzzr.rs", "src/data/ipfs_client.rs", "src/data/ipfs_ops.rs", "src/data/thumbnails.rs", "src/page/publish.rs"]

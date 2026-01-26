@@ -1,0 +1,1 @@
+["benches/ironoxide_bench.rs", "examples/decrypting.rs", "examples/enc-search-sample.rs", "examples/encrypting.rs", "src/group.rs", "src/internal.rs", "src/internal/document_api.rs", "src/internal/group_api.rs", "src/internal/rest.rs", "src/internal/user_api.rs", "tests/common.rs", "tests/document_ops.rs", "tests/group_ops.rs", "tests/user_ops.rs"]

@@ -1,0 +1,1 @@
+[".dockerignore", ".drone.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "config/defaults.hjson", "crates/utils/src/settings/structs.rs", "src/main.rs"]

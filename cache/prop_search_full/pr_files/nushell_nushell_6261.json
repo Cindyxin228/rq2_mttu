@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-parser/Cargo.toml", "crates/nu-parser/src/parse_keywords.rs", "crates/nu-plugin/src/plugin/declaration.rs", "crates/nu-plugin/src/plugin/mod.rs"]

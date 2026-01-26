@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "Makefile", "examples/log-demo.rs", "examples/thread-demo.rs", "integrations/sentry-actix/src/lib.rs", "src/backtrace_support.rs", "src/hub.rs", "src/integrations/failure.rs", "src/scope/real.rs", "src/transport.rs", "src/utils.rs", "tests/test_basic.rs"]

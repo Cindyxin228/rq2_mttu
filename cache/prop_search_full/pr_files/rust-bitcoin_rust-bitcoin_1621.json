@@ -1,0 +1,1 @@
+["bitcoin/src/psbt/serialize.rs", "bitcoin/src/taproot.rs", "bitcoin/tests/serde.rs"]

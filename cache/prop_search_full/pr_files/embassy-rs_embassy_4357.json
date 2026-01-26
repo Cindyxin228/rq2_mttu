@@ -1,0 +1,1 @@
+["embassy-stm32/Cargo.toml", "embassy-stm32/build.rs", "embassy-stm32/src/adc/adc4.rs", "embassy-stm32/src/adc/mod.rs", "embassy-stm32/src/rcc/wba.rs", "examples/stm32wba/src/bin/adc.rs"]

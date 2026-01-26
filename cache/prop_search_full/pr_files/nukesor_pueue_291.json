@@ -1,0 +1,1 @@
+["client/client.rs", "client/commands/edit.rs", "client/commands/restart.rs", "client/display/log/mod.rs", "client/display/state.rs", "daemon/network/message_handler/mod.rs", "daemon/task_handler/callback.rs", "lib/src/network/message.rs", "lib/src/task.rs", "tests/factories.rs", "tests/helper/task.rs", "tests/unix/edit.rs", "tests/unix/restart.rs"]

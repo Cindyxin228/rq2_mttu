@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "bin/fuel-core/chainspec/dev-testnet/state_transition_bytecode.wasm", "bin/fuel-core/chainspec/testnet/state_transition_bytecode.wasm", "crates/services/upgradable-executor/src/executor.rs", "deployment/charts/Chart.yaml"]

@@ -1,0 +1,1 @@
+["esp-preempt/build.rs", "esp-preempt/src/task/mod.rs", "esp-radio/src/compat/timer_compat.rs", "qa-test/Cargo.toml", "qa-test/src/bin/embassy_wifi_stress.rs"]

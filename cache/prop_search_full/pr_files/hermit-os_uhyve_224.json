@@ -1,0 +1,1 @@
+["Cargo.toml", "src/arch/x86_64/registers/debug.rs", "src/bin/uhyve.rs", "src/linux/gdb/mod.rs", "src/linux/gdb/regs.rs", "src/linux/uhyve.rs", "src/linux/vcpu.rs", "src/vm.rs"]

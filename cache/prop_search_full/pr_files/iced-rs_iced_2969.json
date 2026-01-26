@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "core/src/renderer.rs", "examples/custom_quad/src/main.rs", "wgpu/src/layer.rs", "wgpu/src/quad.rs", "wgpu/src/quad/gradient.rs", "wgpu/src/quad/solid.rs", "wgpu/src/shader/quad/gradient.wgsl", "wgpu/src/shader/quad/solid.wgsl", "widget/Cargo.toml", "widget/src/button.rs", "widget/src/container.rs", "widget/src/float.rs"]

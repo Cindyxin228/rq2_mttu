@@ -1,0 +1,1 @@
+[".github/.golangci_yaml_expected_changes.txt", ".github/scripts/verify_golangci_yaml_changes.sh", ".github/workflows/ci.yaml", ".github/workflows/expected-golangci-yaml-diff.yaml", "ffi/.golangci.yaml", "ffi/metrics.go", "ffi/metrics_test.go"]

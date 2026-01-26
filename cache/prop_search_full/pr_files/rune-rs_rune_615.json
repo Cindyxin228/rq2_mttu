@@ -1,0 +1,1 @@
+["crates/rune-macros/src/module.rs", "crates/rune/src/modules/collections.rs", "crates/rune/src/modules/collections/hash_map.rs", "crates/rune/src/modules/core.rs", "crates/rune/src/modules/ops.rs", "crates/rune/src/modules/tuple.rs", "crates/rune/src/modules/vec.rs", "crates/rune/src/runtime/key.rs", "crates/rune/src/runtime/value.rs", "crates/rune/src/runtime/vm_error.rs"]

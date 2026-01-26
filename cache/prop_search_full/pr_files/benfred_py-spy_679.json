@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "Cargo.toml", "ci/test_freebsd.sh", "ci/update_python_test_versions.py", "src/binary_parser.rs", "src/config.rs", "src/coredump.rs", "src/lib.rs", "src/main.rs", "src/python_process_info.rs", "src/python_spy.rs", "src/utils.rs", "tests/integration_test.rs"]

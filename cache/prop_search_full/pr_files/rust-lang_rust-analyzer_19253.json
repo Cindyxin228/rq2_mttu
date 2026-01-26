@@ -1,0 +1,1 @@
+["crates/ide-assists/src/handlers/convert_bool_then.rs", "crates/syntax/src/ast/syntax_factory/constructors.rs", "crates/syntax/src/syntax_editor/mapping.rs", "docs/book/src/assists_generated.md"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "ffi/Cargo.toml", "ffi/src/common.rs", "ffi/src/debug.rs", "ffi/src/lib.rs", "ffi/src/macros.rs", "ffi/src/sec_handle.rs", "ffi/src/sec_pkg_info.rs", "ffi/src/sec_winnt_auth_identity.rs", "ffi/src/security_tables.rs", "src/sspi/ntlm/messages/computations.rs", "src/sspi/winapi.rs"]

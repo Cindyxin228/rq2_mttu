@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "tools/release/01_bump_crate_versions.ts", "tools/release/05_create_release_notes.ts", "tools/release/deno_workspace.ts", "tools/release/deps.ts"]

@@ -1,0 +1,1 @@
+[".travis.yml", "components/merkledb/benches/refs.rs", "components/merkledb/benches/transactions.rs", "components/merkledb/src/proof_map_index/proof.rs", "exonum/src/blockchain/mod.rs", "exonum/src/events/tests.rs", "exonum/src/runtime/supervisor/multisig.rs", "exonum/src/sandbox/mod.rs", "testkit/src/builder.rs", "testkit/src/lib.rs", "testkit/tests/service_hooks/main.rs"]

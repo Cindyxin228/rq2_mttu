@@ -1,0 +1,1 @@
+["cli/config_file.rs", "cli/fs_util.rs", "cli/lsp/diagnostics.rs", "cli/lsp/language_server.rs", "cli/main.rs", "cli/proc_state.rs", "cli/tests/integration/lsp_tests.rs", "cli/tests/testdata/lsp/deno.fmt.exclude.jsonc", "cli/tests/testdata/lsp/deno.lint.exclude.jsonc", "cli/tools/fmt.rs", "cli/tools/lint.rs"]

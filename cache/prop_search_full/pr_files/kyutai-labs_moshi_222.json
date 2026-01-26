@@ -1,0 +1,1 @@
+["rust/Cargo.toml", "rust/mimi-pyo3/Cargo.toml", "rust/moshi-backend/Cargo.toml", "rust/moshi-cli/Cargo.toml", "rust/moshi-cli/src/audio_io.rs", "rust/moshi-core/src/lm_generate_multistream.rs"]

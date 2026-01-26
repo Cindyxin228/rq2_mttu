@@ -1,0 +1,1 @@
+["api/src/owner.rs", "api/src/owner_rpc.rs", "controller/src/command.rs", "controller/tests/repost.rs", "controller/tests/transaction.rs", "impls/src/backends/lmdb.rs", "libwallet/src/api_impl/owner.rs", "libwallet/src/internal/tx.rs", "libwallet/src/types.rs"]

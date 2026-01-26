@@ -1,0 +1,1 @@
+[".changes/sidecar-scope-improvement.md", "core/tauri-utils/src/config.rs", "core/tauri/src/endpoints/shell.rs", "core/tauri/src/scope/shell.rs", "examples/sidecar/index.html", "examples/sidecar/src-tauri/Cargo.lock", "examples/sidecar/src-tauri/Cargo.toml", "examples/sidecar/src-tauri/tauri.conf.json", "tooling/api/src/shell.ts"]

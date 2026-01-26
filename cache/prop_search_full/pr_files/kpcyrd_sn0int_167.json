@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ci/run.sh", "docs/build.rst", "docs/install.rst", "sn0int-std/Cargo.toml", "src/api.rs", "src/cmd/pkg_cmd.rs", "src/models/domain.rs", "src/models/subdomain.rs", "src/shell/mod.rs"]

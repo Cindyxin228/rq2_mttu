@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/continuous-delivery.yml", "Earthfile", "ci/install-github-cli.sh", "ci/release-artifacts.sh"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "gitoxide-core/Cargo.toml", "gix-actor/Cargo.toml", "gix-archive/Cargo.toml", "gix-config/Cargo.toml", "gix-date/Cargo.toml", "gix-features/Cargo.toml", "gix-index/Cargo.toml", "gix-object/Cargo.toml", "gix-protocol/Cargo.toml", "gix-ref/Cargo.toml", "gix-sec/Cargo.toml", "gix-tempfile/Cargo.toml", "tests/it/Cargo.toml", "tests/tools/Cargo.toml"]

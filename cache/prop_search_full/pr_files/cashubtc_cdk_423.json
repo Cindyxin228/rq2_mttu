@@ -1,0 +1,1 @@
+["crates/cdk-integration-tests/tests/fake_wallet.rs", "crates/cdk-integration-tests/tests/regtest.rs", "crates/cdk/examples/proof-selection.rs", "crates/cdk/src/wallet/balance.rs", "crates/cdk/src/wallet/melt.rs", "crates/cdk/src/wallet/mod.rs", "crates/cdk/src/wallet/multi_mint_wallet.rs", "crates/cdk/src/wallet/proofs.rs", "crates/cdk/src/wallet/send.rs"]

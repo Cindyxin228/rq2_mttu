@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/release.yml", "CHANGELOG.md", "Cargo.lock", "Makefile", "README.md", "shell.nix", "src/cmd/init.rs", "src/shell.rs", "templates/nushell.txt", "templates/powershell.txt"]

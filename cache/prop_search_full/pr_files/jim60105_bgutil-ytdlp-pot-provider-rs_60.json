@@ -1,0 +1,1 @@
+[".github/workflows/build-container.yml", ".github/workflows/release.yml", "Cargo.toml", "Containerfile", "README.md", "docs/CLI_MIGRATION.md", "docs/deployment-guide.md", "docs/troubleshooting.md", "plugin/yt_dlp_plugins/extractor/getpot_bgutil_cli.py", "scripts/install_plugin_dev.sh", "src/cli/generate.rs", "src/cli/mod.rs", "src/cli/server.rs", "src/lib.rs", "src/main.rs"]

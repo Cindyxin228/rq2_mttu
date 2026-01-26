@@ -1,0 +1,1 @@
+["filecoin-proofs/Cargo.toml", "filecoin-proofs/src/bin/parampublish.rs", "filecoin-proofs/src/bin/phase2.rs", "filecoin-proofs/src/param.rs", "filecoin-proofs/tests/parampublish/prompts_to_publish.rs", "filecoin-proofs/tests/parampublish/read_metadata_files.rs", "filecoin-proofs/tests/parampublish/write_json_manifest.rs"]

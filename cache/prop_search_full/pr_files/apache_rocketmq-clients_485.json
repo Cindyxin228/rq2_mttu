@@ -1,0 +1,1 @@
+[".github/workflows/rust_build.yml", "rust/Cargo.toml", "rust/README.md", "rust/examples/producer.rs", "rust/src/client.rs", "rust/src/conf.rs", "rust/src/lib.rs", "rust/src/model/common.rs", "rust/src/model/message.rs", "rust/src/model/mod.rs", "rust/src/producer.rs", "rust/src/simple_consumer.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "apple-codesign/Cargo.toml", "apple-codesign/tests/cli_tests.rs", "apple-codesign/tests/cmd/analyze-certificate.trycmd", "apple-codesign/tests/cmd/generate-csr.trycmd", "apple-codesign/tests/cmd/generate-self-signed-cert.trycmd", "apple-codesign/tests/cmd/help.trycmd", "apple-codesign/tests/cmd/x509-oids.trycmd"]

@@ -1,0 +1,1 @@
+["lightning/src/chain/chainmonitor.rs", "lightning/src/chain/channelmonitor.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/functional_test_utils.rs", "lightning/src/ln/functional_tests.rs"]

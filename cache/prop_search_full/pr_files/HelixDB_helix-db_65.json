@@ -1,0 +1,1 @@
+["Cargo.lock", "helix-cli/Cargo.toml", "helix-container/Cargo.toml", "helixdb/Cargo.toml", "helixdb/src/helix_gateway/connection/connection.rs", "helixdb/src/helix_gateway/thread_pool/thread_pool.rs", "helixdb/src/protocol/response.rs"]

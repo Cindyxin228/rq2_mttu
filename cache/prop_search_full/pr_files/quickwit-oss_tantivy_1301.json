@@ -1,0 +1,1 @@
+["fastfield_codecs/src/lib.rs", "src/fastfield/alive_bitset.rs", "src/fastfield/bytes/writer.rs", "src/fastfield/mod.rs", "src/fastfield/multivalued/writer.rs", "src/fastfield/serializer/mod.rs", "src/fastfield/writer.rs"]

@@ -1,0 +1,1 @@
+["core/tests/compile-fail/component_derive_tests.rs", "core/tests/compile-fail/component_derive_tests.stderr", "core/tests/macro_compile_tests.rs", "macros/component-definition-derive/src/lib.rs"]

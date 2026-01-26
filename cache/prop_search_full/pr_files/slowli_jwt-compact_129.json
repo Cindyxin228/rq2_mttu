@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "src/alg/eddsa_compact.rs", "src/alg/eddsa_dalek.rs", "src/alg/eddsa_sodium.rs", "src/alg/es256k.rs", "src/alg/k256.rs", "src/alg/p256.rs", "src/alg/rsa.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "components/equihash/Cargo.toml", "components/equihash/src/lib.rs", "components/equihash/src/verify.rs", "zcash_primitives/Cargo.toml", "zcash_primitives/src/block.rs"]

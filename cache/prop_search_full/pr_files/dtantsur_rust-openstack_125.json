@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/list-containers.rs", "examples/list-objects.rs", "src/object_storage/objects.rs", "src/object_storage/protocol.rs", "tests/integration-object-storage.rs"]

@@ -1,0 +1,1 @@
+["lib/cli/build.rs", "lib/cli/src/common.rs", "lib/registry/src/lib.rs", "lib/registry/src/utils.rs", "tests/integration/cli/tests/run.rs"]

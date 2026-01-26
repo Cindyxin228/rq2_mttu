@@ -1,0 +1,1 @@
+["src/adapter/file_adapter.rs", "src/adapter/memory_adapter.rs", "src/adapter/mod.rs", "src/adapter/null_adapter.rs", "src/enforcer.rs"]

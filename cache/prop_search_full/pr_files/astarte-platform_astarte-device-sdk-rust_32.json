@@ -1,0 +1,1 @@
+[".github/workflows/build-workflow.yaml", ".github/workflows/e2e-test.yaml", "Cargo.toml", "examples/datatypes.rs", "examples/interfaces/org.astarte-platform.test.Everything.json", "examples/simple.rs", "src/e2etest/e2etest.rs", "src/interfaces.rs", "src/lib.rs", "src/types.rs"]

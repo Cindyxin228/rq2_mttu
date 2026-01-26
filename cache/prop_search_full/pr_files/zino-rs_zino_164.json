@@ -1,0 +1,1 @@
+["crates/zino-ai/src/lib.rs", "crates/zino-ai/src/providers/baidu/client.rs", "crates/zino-ai/src/tool/error.rs", "crates/zino-ai/src/tool/executor.rs", "crates/zino-ai/src/tool/function_wrapper.rs", "crates/zino-ai/src/tool/macros.rs", "crates/zino-ai/src/tool/mod.rs", "crates/zino-ai/src/tool/registry.rs"]

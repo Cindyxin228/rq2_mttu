@@ -1,0 +1,1 @@
+["crates/rune/src/compile.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/query/query.rs", "crates/rune/src/shared/items.rs", "crates/rune/src/worker.rs", "crates/rune/src/worker/task.rs", "scripts/make_function.rn"]

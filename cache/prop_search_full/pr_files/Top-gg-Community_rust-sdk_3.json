@@ -1,0 +1,1 @@
+[".gitattributes", ".github/dependabot.yml", "Cargo.toml", "LICENSE", "README.md", "rustfmt.toml", "src/bot.rs", "src/client.rs", "src/error.rs", "src/http.rs", "src/lib.rs", "src/snowflake.rs", "src/user.rs", "src/util.rs"]

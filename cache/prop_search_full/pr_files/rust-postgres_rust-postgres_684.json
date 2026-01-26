@@ -1,0 +1,1 @@
+["postgres-types/src/lib.rs", "postgres/src/binary_copy.rs", "postgres/src/client.rs", "postgres/src/generic_client.rs", "postgres/src/transaction.rs", "tokio-postgres/src/binary_copy.rs", "tokio-postgres/src/bind.rs", "tokio-postgres/src/client.rs", "tokio-postgres/src/generic_client.rs", "tokio-postgres/src/query.rs", "tokio-postgres/src/transaction.rs"]

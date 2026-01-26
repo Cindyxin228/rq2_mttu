@@ -1,0 +1,1 @@
+["crates/ide/src/lib.rs", "crates/ide/src/signature_help.rs", "crates/rust-analyzer/src/handlers.rs", "crates/rust-analyzer/src/to_proto.rs"]

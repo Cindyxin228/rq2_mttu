@@ -1,0 +1,1 @@
+["src/builder/create_message.rs", "src/builder/edit_channel.rs", "src/framework/standard/configuration.rs", "src/model/channel/channel_id.rs", "src/model/channel/guild_channel.rs", "src/model/channel/private_channel.rs", "src/model/guild/guild_id.rs", "src/model/guild/mod.rs", "src/model/guild/partial_guild.rs", "src/utils/custom_message.rs"]

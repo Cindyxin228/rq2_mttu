@@ -1,0 +1,1 @@
+[".github/workflows/check-fuzz.yml", ".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "fuzz/.gitignore", "fuzz/Cargo.toml", "fuzz/README.md", "fuzz/fuzz_targets/json.js", "fuzz/fuzz_targets/json_differential.rs", "pinned-cargo-fuzz-version", "pinned-nightly-version", "supply-chain/config.toml", "supply-chain/imports.lock"]

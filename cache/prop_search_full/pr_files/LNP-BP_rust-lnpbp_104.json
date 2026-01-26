@@ -1,0 +1,1 @@
+["src/bp/chain.rs", "src/bp/dbc/types.rs", "src/bp/mod.rs", "src/bp/network.rs", "src/bp/strict_encoding.rs", "src/common/data_format.rs", "src/paradigms/strict_encoding.rs", "src/rgb/contract/data.rs", "src/rgb/contract/nodes.rs", "src/rgb/schema/script.rs", "src/rgb/schema/state.rs", "src/rgb/schema/types.rs", "src/rgb/stash/consignment.rs"]

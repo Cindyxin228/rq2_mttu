@@ -1,0 +1,1 @@
+["src/machine/dispatch.rs", "tests/scryer/cli/issues/compilation_bug.in/a.pl", "tests/scryer/cli/issues/compilation_bug.in/b.pl", "tests/scryer/cli/issues/compilation_bug.in/c.pl", "tests/scryer/cli/issues/compilation_bug.stdin", "tests/scryer/cli/issues/compilation_bug.stdout", "tests/scryer/cli/issues/compilation_bug.toml"]

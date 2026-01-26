@@ -1,0 +1,1 @@
+["core/src/lib.rs", "core/src/types/xvcroot.rs", "lib/src/init/mod.rs", "workflow_tests/Cargo.toml", "workflow_tests/tests/common/mod.rs", "workflow_tests/tests/test_core_root.rs", "workflow_tests/tests/test_init_3.rs"]

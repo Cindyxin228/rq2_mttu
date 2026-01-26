@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "examples/custom_methods.rs", "examples/dyn_reply.rs", "examples/stream.rs", "examples/wrapping.rs", "src/filters/any.rs", "src/filters/cors.rs", "src/filters/log.rs", "src/filters/path.rs", "src/filters/sse.rs", "src/lib.rs"]

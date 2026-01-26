@@ -1,0 +1,1 @@
+["src/desktop/global_shortcuts.rs", "src/desktop/inhibit.rs", "src/desktop/input_capture.rs", "src/desktop/location.rs", "src/desktop/mod.rs", "src/desktop/remote_desktop.rs", "src/desktop/screencast.rs", "src/desktop/session.rs", "src/lib.rs"]

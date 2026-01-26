@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "src/bin/test.rs", "src/lib.rs", "src/windows.rs", "src/windows/errors.rs", "src/windows/minidump_writer.rs", "tests/linux_minidump_writer.rs", "tests/ptrace_dumper.rs", "tests/windows_minidump_writer.rs"]

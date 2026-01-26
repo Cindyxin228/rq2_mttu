@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fuzz/Cargo.toml", "fuzz/fuzz_targets/same_result.rs", "src/dummy.rs", "src/rewrite.rs", "src/snapshot.rs", "src/translate.rs"]

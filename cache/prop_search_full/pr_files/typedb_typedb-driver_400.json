@@ -1,0 +1,1 @@
+["api/user/User.java", "api/user/UserManager.java", "common/rpc/RequestBuilder.java", "connection/cluster/ClusterServerStub.java", "connection/cluster/ClusterUser.java", "connection/cluster/ClusterUserManager.java", "dependencies/vaticle/repositories.bzl", "test/behaviour/connection/user/UserSteps.java"]

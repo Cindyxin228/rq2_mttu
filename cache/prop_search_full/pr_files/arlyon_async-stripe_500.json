@@ -1,0 +1,1 @@
+["openapi/version.json", "src/resources/generated/charge.rs", "src/resources/generated/identity_verification_report.rs", "src/resources/generated/payment_intent.rs", "src/resources/generated/payment_method.rs", "src/resources/generated/setup_intent.rs", "src/resources/subscription_ext.rs"]

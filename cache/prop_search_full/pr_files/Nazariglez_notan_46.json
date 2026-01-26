@@ -1,0 +1,1 @@
+["examples/assets/pixel.frag.glsl", "examples/assets/shaders/pixel_invert.frag", "examples/assets/shaders/pixel_invert.frag.spv", "examples/gfx_postprocess.rs", "examples/gfx_render_target.rs", "examples/mouse_point.rs", "examples/render_target.rs", "nae-core/src/math.rs", "nae-gfx/src/draw.rs", "nae-gfx/src/lib.rs"]

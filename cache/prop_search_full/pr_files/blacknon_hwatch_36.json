@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".rpm/hwatch.spec", "Cargo.toml", "README.md", "completion/bash/hwatch-completion.bash", "completion/zsh/_hwatch", "examples/version.rs", "man/hwatch.1", "man/man.md", "package/.tar2package.yml", "src/app.rs", "src/header.rs", "src/main.rs", "src/output.rs", "src/view.rs", "src/watch.rs"]

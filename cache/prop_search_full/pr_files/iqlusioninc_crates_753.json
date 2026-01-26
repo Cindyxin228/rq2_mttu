@@ -1,0 +1,1 @@
+["bip32/Cargo.toml", "bip32/src/child_number.rs", "bip32/src/derivation_path.rs", "bip32/src/error.rs", "bip32/src/extended_key/private_key.rs", "bip32/src/prefix.rs"]

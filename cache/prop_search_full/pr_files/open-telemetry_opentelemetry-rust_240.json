@@ -1,0 +1,1 @@
+["opentelemetry-contrib/src/id_generator/aws_xray_id_generator.rs", "opentelemetry-jaeger/src/lib.rs", "src/api/mod.rs", "src/api/trace/noop.rs", "src/global/mod.rs", "src/global/trace.rs", "src/sdk/trace/provider.rs", "src/sdk/trace/span_processor.rs"]

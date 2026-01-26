@@ -1,0 +1,1 @@
+["changelog/issue-5799.md", "generated/references.json", "workers/docker-worker/config.yml", "workers/docker-worker/schemas/v1/payload.yml", "workers/docker-worker/src/task.js", "workers/docker-worker/test/integration/disable_seccomp_containers_test.js"]

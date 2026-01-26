@@ -1,0 +1,1 @@
+["schemars/tests/docs.rs", "schemars/tests/enum.rs", "schemars/tests/expected/deprecated-enum.json", "schemars/tests/expected/doc_comments_enum.json", "schemars/tests/expected/enum-unit-doc.json", "schemars_derive/src/attr/mod.rs", "schemars_derive/src/schema_exprs.rs"]

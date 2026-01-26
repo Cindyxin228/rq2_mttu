@@ -1,0 +1,1 @@
+["cli/tests/integration/run_tests.rs", "cli/tests/testdata/wasm_streaming_panic_test.js", "cli/tests/testdata/wasm_streaming_panic_test.js.out", "core/bindings.rs", "core/ops_builtin.rs", "ext/fetch/26_fetch.js"]

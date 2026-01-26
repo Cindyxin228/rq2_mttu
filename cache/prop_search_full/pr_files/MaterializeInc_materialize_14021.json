@@ -1,0 +1,1 @@
+["src/persist-client/src/impl/encoding.rs", "src/persist-client/src/impl/gc.rs", "src/persist-client/src/impl/machine.rs", "src/persist-client/src/impl/maintenance.rs", "src/persist-client/src/impl/metrics.rs", "src/persist-client/src/impl/state.proto", "src/persist-client/src/impl/state.rs", "src/persist-client/src/impl/trace.rs"]

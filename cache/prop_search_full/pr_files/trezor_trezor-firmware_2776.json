@@ -1,0 +1,1 @@
+["core/.gitignore", "core/Makefile", "core/SConscript.boardloader", "core/SConscript.bootloader", "core/SConscript.bootloader_ci", "core/SConscript.firmware", "core/SConscript.prodtest", "core/SConscript.reflash", "core/SConscript.unix", "core/site_scons/tools.py", "core/tools/make_cmakelists.py"]

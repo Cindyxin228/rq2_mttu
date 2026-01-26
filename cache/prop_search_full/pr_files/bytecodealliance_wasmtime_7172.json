@@ -1,0 +1,1 @@
+["crates/component-macro/test-helpers/src/lib.rs", "crates/component-macro/tests/codegen/multiversion/deps/v1/root.wit", "crates/component-macro/tests/codegen/multiversion/deps/v2/root.wit", "crates/component-macro/tests/codegen/multiversion/root.wit", "crates/wit-bindgen/src/lib.rs"]

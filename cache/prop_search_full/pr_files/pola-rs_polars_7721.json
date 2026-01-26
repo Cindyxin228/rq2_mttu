@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-plan/src/dsl/list.rs", "polars/polars-ops/src/chunked_array/list/namespace.rs", "py-polars/polars/expr/list.py", "py-polars/polars/series/list.py", "py-polars/src/lazy/dsl.rs", "py-polars/tests/unit/namespaces/test_list.py"]

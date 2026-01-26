@@ -1,0 +1,1 @@
+["cargo-shuttle/src/args.rs", "cargo-shuttle/src/client.rs", "cargo-shuttle/src/lib.rs", "common/src/models/project.rs", "docker-compose.dev.yml", "gateway/src/api/latest.rs", "gateway/src/lib.rs", "gateway/src/main.rs", "gateway/src/project.rs", "gateway/src/proxy.rs", "gateway/src/service.rs", "gateway/src/task.rs"]

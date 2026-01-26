@@ -1,0 +1,1 @@
+["src/compositor.rs", "src/output.rs", "src/seat/touch.rs", "src/shell/xdg/mod.rs", "src/shell/xdg/window/mod.rs", "src/shm/mod.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "apps/host/Cargo.toml", "apps/host/fixtures/example.wasm", "apps/host/src/runtime/wasmtime.rs", "core/Cargo.toml", "transport/Cargo.toml", "transport/src/p2p/transport.rs"]

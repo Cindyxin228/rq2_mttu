@@ -1,0 +1,1 @@
+["crates/mun_codegen/src/ir/dispatch_table.rs", "crates/mun_codegen/src/snapshots/test__nested_private_extern_fn.snap", "crates/mun_codegen/src/snapshots/test__nested_private_fn.snap", "crates/mun_codegen/src/snapshots/test__nested_private_recursive_fn.snap", "crates/mun_codegen/src/snapshots/test__nested_private_recursive_fn_with_args.snap", "crates/mun_codegen/src/test.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "FEATURES.md", "src/platform/windows.rs", "src/platform_impl/windows/dark_mode.rs", "src/platform_impl/windows/event_loop.rs", "src/platform_impl/windows/mod.rs", "src/platform_impl/windows/window.rs", "src/platform_impl/windows/window_state.rs", "src/window.rs"]

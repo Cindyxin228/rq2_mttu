@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "src/bin/bb.rs", "src/commands.rs", "src/commands/build.rs", "src/commands/build/build_strategy.rs", "src/commands/init.rs", "src/commands/local.rs", "src/commands/template.rs", "src/lib.rs", "src/ops.rs"]

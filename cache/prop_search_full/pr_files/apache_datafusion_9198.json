@@ -1,0 +1,1 @@
+["datafusion/physical-expr/src/equivalence/properties.rs", "datafusion/sqllogictest/test_files/order.slt", "datafusion/sqllogictest/test_files/subquery.slt", "datafusion/sqllogictest/test_files/union.slt", "datafusion/sqllogictest/test_files/window.slt"]

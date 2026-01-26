@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "common/src/hash.rs", "compiler/codegen/src/compile.rs", "compiler/codegen/src/symboltable.rs", "stdlib/src/resource.rs", "stdlib/src/socket.rs", "vm/src/builtins/object.rs", "vm/src/builtins/type.rs", "vm/src/exceptions.rs", "vm/src/warn.rs"]

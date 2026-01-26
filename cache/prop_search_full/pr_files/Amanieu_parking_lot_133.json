@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "core/Cargo.toml", "core/build.rs", "core/src/lib.rs", "src/once.rs", "src/raw_mutex.rs", "src/util.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/test-core.yml", "Cargo.toml", "core/tauri-codegen/Cargo.toml", "core/tauri-codegen/src/context.rs", "core/tests/app-updater/tests/update.rs"]

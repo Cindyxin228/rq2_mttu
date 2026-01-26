@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "crates/tutti-cli/src/commands/run.rs", "crates/tutti-cli/src/logger.rs", "crates/tutti-core/Cargo.toml", "crates/tutti-core/src/error.rs", "crates/tutti-core/src/supervisor/background.rs", "crates/tutti-core/src/supervisor/commands.rs", "crates/tutti-daemon/src/lib.rs", "crates/tutti-transport/src/api.rs"]

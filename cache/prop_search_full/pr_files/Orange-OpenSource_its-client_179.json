@@ -1,0 +1,1 @@
+["rust/examples/config.ini", "rust/src/client/configuration.rs", "rust/src/client/configuration/geo_configuration.rs", "rust/src/mobility/quadtree/quadkey.rs", "rust/src/transport/mqtt/geo_topic.rs"]

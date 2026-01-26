@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/cockroach/Cargo.toml", "examples/cockroach_json/Cargo.toml", "examples/postgres/Cargo.toml", "examples/postgres_json/Cargo.toml", "examples/rusqlite/Cargo.toml", "examples/sqlx_mysql/Cargo.toml", "examples/sqlx_postgres/Cargo.toml", "examples/sqlx_sqlite/Cargo.toml", "sea-query-derive/Cargo.toml"]

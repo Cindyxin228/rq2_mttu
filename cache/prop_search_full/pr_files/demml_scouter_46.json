@@ -1,0 +1,1 @@
+[".github/workflows/build-assets.yml", ".github/workflows/publish-docs.yml", ".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "crates/scouter_events/src/consumer/kafka/consumer.rs", "crates/scouter_events/src/consumer/kafka/startup.rs", "docker/official-base-image/ubuntu/Dockerfile", "py-scouter/pyproject.toml", "py-scouter/uv.lock"]

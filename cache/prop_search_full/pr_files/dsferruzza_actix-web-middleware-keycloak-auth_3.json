@@ -1,0 +1,1 @@
+[".github/workflows/build-and-test.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "examples/custom_claims.rs", "examples/paperclip.rs", "examples/simple.rs", "src/errors.rs", "src/extractors.rs", "src/lib.rs", "src/paperclip.rs", "src/roles.rs", "tests/middleware.rs"]

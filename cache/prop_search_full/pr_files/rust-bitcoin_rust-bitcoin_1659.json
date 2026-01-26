@@ -1,0 +1,1 @@
+["bitcoin/src/crypto/sighash.rs", "bitcoin/src/hash_types.rs", "bitcoin/src/taproot.rs", "hashes/embedded/src/main.rs", "hashes/extended_tests/schemars/src/main.rs", "hashes/src/lib.rs", "hashes/src/sha256t.rs", "hashes/src/util.rs"]

@@ -1,0 +1,1 @@
+[".circleci/Dockerfile.sentinel", "CHANGELOG.md", "Cargo.toml", "README.md", "src/protocol/connection.rs", "src/types/config.rs", "tests/runners/all-features.sh"]

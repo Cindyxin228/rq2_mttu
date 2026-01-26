@@ -1,0 +1,1 @@
+["sqlx-core/src/migrate/migration.rs", "sqlx-core/src/migrate/migrator.rs", "sqlx-core/src/migrate/source.rs", "sqlx-macros-core/src/migrate.rs", "sqlx-postgres/src/migrate.rs", "src/macros/test.md", "tests/postgres/migrate.rs", "tests/postgres/migrations_no_tx/0_create_db.sql", "tests/postgres/test-attr.rs"]

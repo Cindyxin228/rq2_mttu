@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/google.rs", "src/discovery.rs", "src/jwt.rs", "src/lib.rs", "src/registration.rs", "src/types.rs", "src/user_info.rs", "src/verification.rs", "tests/rp_certification_code.rs", "tests/rp_certification_dynamic.rs", "tests/rp_common/mod.rs"]

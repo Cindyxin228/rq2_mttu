@@ -1,0 +1,1 @@
+["deku-derive/src/lib.rs", "deku-derive/src/macros/deku_read.rs", "deku-derive/src/macros/deku_write.rs", "examples/custom_reader_and_writer.rs", "examples/example.rs", "examples/ipv4.rs", "src/lib.rs", "src/prelude.rs", "tests/test_macro.rs"]

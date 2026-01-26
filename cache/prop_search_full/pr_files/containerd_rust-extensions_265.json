@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/client/Cargo.toml", "crates/client/README.md", "crates/client/examples/version.rs", "crates/client/src/lib.rs", "rust-toolchain.toml", "scripts/install-protobuf.sh"]

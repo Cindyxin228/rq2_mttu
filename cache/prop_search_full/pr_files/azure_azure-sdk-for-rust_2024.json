@@ -1,0 +1,1 @@
+["sdk/core/azure_core_amqp/src/error.rs", "sdk/eventhubs/azure_messaging_eventhubs/src/error.rs", "sdk/typespec/src/error/mod.rs", "sdk/typespec/typespec_client_core/src/http/models/etag.rs", "sdk/typespec/typespec_client_core/src/http/options/retry.rs", "sdk/typespec/typespec_client_core/src/macros.rs"]

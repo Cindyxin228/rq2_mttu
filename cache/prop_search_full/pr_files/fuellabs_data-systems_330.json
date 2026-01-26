@@ -1,0 +1,1 @@
+["Makefile", "Tiltfile", "crates/fuel-streams-publisher/src/cli.rs", "crates/fuel-streams-publisher/src/main.rs", "docker/fuel-streams-publisher.Dockerfile", "docker/monitoring/prometheus/prometheus.yml", "scripts/run_publisher.sh", "scripts/set_envs.sh"]

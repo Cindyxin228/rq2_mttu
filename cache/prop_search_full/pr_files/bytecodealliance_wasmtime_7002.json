@@ -1,0 +1,1 @@
+["winch/codegen/src/codegen/context.rs", "winch/codegen/src/isa/aarch64/masm.rs", "winch/codegen/src/isa/x64/masm.rs", "winch/codegen/src/masm.rs", "winch/codegen/src/visitor.rs"]

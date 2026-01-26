@@ -1,0 +1,1 @@
+["fortanix-vme/ci-common.sh", "fortanix-vme/fortanix-vme-abi/src/lib.rs", "fortanix-vme/fortanix-vme-runner/src/lib.rs", "fortanix-vme/tests/incoming_connection/out.expected", "fortanix-vme/tests/incoming_connection/src/main.rs", "fortanix-vme/tests/incoming_connection/test_interaction.sh"]

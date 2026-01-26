@@ -1,0 +1,1 @@
+["src/command/daemonsets.rs", "src/command/delete.rs", "src/command/mod.rs", "src/command_processor.rs", "src/kobj.rs"]

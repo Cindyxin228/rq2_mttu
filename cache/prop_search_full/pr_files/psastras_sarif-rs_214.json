@@ -1,0 +1,1 @@
+["Cargo.lock", "clang-tidy-sarif/Cargo.toml", "clippy-sarif/Cargo.toml", "hadolint-sarif/Cargo.toml", "sarif-fmt/Cargo.toml", "serde-sarif/Cargo.toml", "shellcheck-sarif/Cargo.toml"]

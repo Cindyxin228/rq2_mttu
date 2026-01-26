@@ -1,0 +1,1 @@
+["datafusion/optimizer/src/simplify_expressions/expr_simplifier.rs", "datafusion/optimizer/src/simplify_expressions/utils.rs", "datafusion/sqllogictest/test_files/simplify_expr.slt"]

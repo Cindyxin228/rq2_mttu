@@ -1,0 +1,1 @@
+["protocols/v2/codec-sv2/src/lib.rs", "protocols/v2/noise-sv2/src/cipher_state.rs", "protocols/v2/noise-sv2/src/initiator.rs", "protocols/v2/noise-sv2/src/lib.rs", "protocols/v2/noise-sv2/src/responder.rs", "roles/roles-utils/network-helpers/src/lib.rs", "roles/roles-utils/network-helpers/src/noise_connection.rs"]

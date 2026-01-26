@@ -1,0 +1,1 @@
+[".config/nextest.toml", ".github/workflows/coverage.yml", ".github/workflows/test-report.yml", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "daemon/network/message_handler/kill.rs", "daemon/network/message_handler/pause.rs", "daemon/network/message_handler/start.rs", "tests/client/group.rs", "tests/daemon/edit.rs", "tests/helper/wait.rs"]

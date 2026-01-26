@@ -1,0 +1,1 @@
+["examples/partition-query.rs", "src/db/list_doc.rs", "src/db/query.rs", "src/db/query_models.rs", "src/fluent_api/select_builder.rs", "src/fluent_api/tests/mockdb.rs"]

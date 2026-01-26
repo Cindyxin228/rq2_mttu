@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/jwt-httpauth/Cargo.toml", "proc-macro/Cargo.toml", "src/guards.rs", "src/permissions/attache.rs", "src/permissions/mod.rs", "tests/common.rs"]

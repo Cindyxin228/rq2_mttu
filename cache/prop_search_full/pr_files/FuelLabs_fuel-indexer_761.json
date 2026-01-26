@@ -1,0 +1,1 @@
+["packages/fuel-indexer-api-server/src/api.rs", "packages/fuel-indexer-api-server/src/uses.rs", "packages/fuel-indexer-schema/src/db/arguments.rs", "packages/fuel-indexer-schema/src/db/graphql.rs", "packages/fuel-indexer-schema/src/db/queries.rs", "packages/fuel-indexer-tests/tests/e2e/graphql_api_postgres.rs", "packages/fuel-indexer-tests/tests/integration/graphql_schema.rs"]

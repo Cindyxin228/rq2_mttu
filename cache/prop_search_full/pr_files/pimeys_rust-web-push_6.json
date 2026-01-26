@@ -1,0 +1,1 @@
+[".vscode/settings.json", "Cargo.toml", "src/client.rs", "src/lib.rs", "src/message.rs", "src/services/autopush.rs", "src/vapid/signer.rs"]

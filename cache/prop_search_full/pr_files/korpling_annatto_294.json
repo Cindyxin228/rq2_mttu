@@ -1,0 +1,1 @@
+["src/exporter/mod.rs", "src/exporter/snapshots/annatto__exporter__table__tests__core.snap", "src/exporter/snapshots/annatto__exporter__table__tests__quoted.snap", "src/exporter/table.rs", "src/lib.rs", "tests/snapshots/cli__list_modules.snap"]

@@ -1,0 +1,1 @@
+["lib/cli/src/commands/auth/login/mod.rs", "lib/cli/src/commands/package/download.rs", "lib/cli/src/config/env.rs", "lib/registry/src/wasmer_env.rs"]

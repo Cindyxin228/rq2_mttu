@@ -1,0 +1,1 @@
+["cli/lsp/testing/execution.rs", "cli/ops/testing.rs", "cli/tests/integration/test_tests.rs", "cli/tests/testdata/test/captured_output.out", "cli/tests/testdata/test/captured_output.ts", "cli/tests/testdata/test/captured_output.worker.js", "cli/tools/test.rs", "runtime/ops/io.rs"]

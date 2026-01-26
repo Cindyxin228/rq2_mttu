@@ -1,0 +1,1 @@
+["src/filter/boxed.rs", "src/filters/any.rs", "src/filters/cors.rs", "src/filters/log.rs", "src/filters/multipart.rs", "src/filters/path.rs"]

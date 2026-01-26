@@ -1,0 +1,1 @@
+["xrpl_cli/Cargo.toml", "xrpl_cli/src/account/balances.rs", "xrpl_cli/src/account/info.rs", "xrpl_cli/src/account/offers.rs", "xrpl_cli/src/account/trustlines.rs", "xrpl_cli/src/main.rs", "xrpl_sdk_jsonrpc/Cargo.toml", "xrpl_sdk_jsonrpc/src/client.rs", "xrpl_sdk_ws/Cargo.toml"]

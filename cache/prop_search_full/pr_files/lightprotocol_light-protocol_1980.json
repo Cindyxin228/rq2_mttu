@@ -1,0 +1,1 @@
+["cli/src/commands/test-validator/index.ts", "cli/src/utils/initTestEnv.ts", "cli/src/utils/processProverServer.ts", "js/compressed-token/package.json", "prover/server/Dockerfile", "prover/server/docker-compose.yml", "prover/server/main.go"]

@@ -1,0 +1,1 @@
+["ffi/Cargo.toml", "ffi/src/sec_handle.rs", "src/lib.rs", "src/sspi.rs", "src/sspi/kerberos.rs", "src/sspi/kerberos/client/generators.rs", "src/sspi/kerberos/config.rs", "src/sspi/kerberos/utils.rs", "src/sspi/negotiate.rs", "src/sspi/network_client.rs", "src/sspi/pku2u.rs", "src/sspi/pku2u/config.rs", "tools/wasm-testcompile/src/lib.rs"]

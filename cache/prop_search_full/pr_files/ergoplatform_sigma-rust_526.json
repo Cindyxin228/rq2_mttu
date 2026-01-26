@@ -1,0 +1,1 @@
+["bindings/ergo-lib-c-core/src/wallet.rs", "bindings/ergo-lib-c/src/wallet.rs", "bindings/ergo-lib-ios/Sources/ErgoLib/Wallet.swift", "bindings/ergo-lib-wasm/src/wallet.rs", "ergo-lib/src/wallet.rs", "ergotree-interpreter/src/sigma_protocol/prover.rs"]

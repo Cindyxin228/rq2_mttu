@@ -1,0 +1,1 @@
+["e2e/config/test_config_ignore", "src/cli/trust.rs", "src/config/config_file/mise_toml.rs", "src/config/config_file/mod.rs", "src/config/config_file/tool_versions.rs", "src/config/mod.rs", "src/config/settings.rs", "src/errors.rs"]

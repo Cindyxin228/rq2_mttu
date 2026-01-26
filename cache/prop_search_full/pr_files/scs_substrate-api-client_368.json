@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "examples/examples/get_existential_deposit.rs", "testing/Cargo.toml", "testing/examples/author_tests.rs", "testing/examples/chain_tests.rs", "testing/examples/frame_system_tests.rs", "testing/examples/pallet_balances_tests.rs", "testing/examples/pallet_transaction_payment_tests.rs", "testing/examples/state_tests.rs"]

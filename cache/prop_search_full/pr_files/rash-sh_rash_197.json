@@ -1,0 +1,1 @@
+["Cargo.lock", "rash_core/Cargo.toml", "rash_core/src/logger.rs", "rash_core/src/modules/copy.rs", "rash_core/src/task/mod.rs", "rash_core/src/task/valid.rs", "rash_core/src/utils/tera.rs", "rash_core/src/vars/builtin.rs"]

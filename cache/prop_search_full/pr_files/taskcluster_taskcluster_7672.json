@@ -1,0 +1,1 @@
+["changelog/issue-7671.md", "tools/d2g/d2g.go", "tools/d2g/d2gtest/testdata/testcases/devices_tests.yml", "tools/d2g/d2gtest/testdata/testcases/task_def_test.yml", "workers/generic-worker/d2g_test.go"]

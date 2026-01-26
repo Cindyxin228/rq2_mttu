@@ -1,0 +1,1 @@
+["cli/tests/testdata/webcrypto/id_rsaEncryption.pem", "cli/tests/testdata/webcrypto/id_rsassaPss.pem", "cli/tests/unit/webcrypto_test.ts", "ext/crypto/00_crypto.js", "ext/crypto/01_webidl.js", "ext/crypto/key.rs", "ext/crypto/lib.deno_crypto.d.ts", "ext/crypto/lib.rs", "tools/wpt/expectation.json"]

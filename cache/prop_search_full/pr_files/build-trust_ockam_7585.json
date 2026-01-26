@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_identity/src/identities/storage/change_history_repository_sql.rs", "implementations/rust/ockam/ockam_node/src/storage/database/migrations/20240213100000_add_controller_history.sql"]

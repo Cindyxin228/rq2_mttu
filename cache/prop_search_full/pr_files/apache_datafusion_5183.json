@@ -1,0 +1,1 @@
+["datafusion/common/src/table_reference.rs", "datafusion/core/src/execution/context.rs", "datafusion/sql/src/statement.rs", "datafusion/substrait/src/consumer.rs"]

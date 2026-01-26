@@ -1,0 +1,1 @@
+["src/config.rs", "src/db/mod.rs", "src/format/kdb.rs", "src/format/kdbx3.rs", "src/format/kdbx4.rs", "src/format/kdbx4/dump.rs", "src/format/kdbx4/mod.rs", "src/format/kdbx4/parse.rs", "src/format/mod.rs", "src/io.rs", "src/lib.rs", "src/variant_dictionary.rs", "src/xml_db/dump/mod.rs", "src/xml_db/mod.rs"]

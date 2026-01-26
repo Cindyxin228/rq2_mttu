@@ -1,0 +1,1 @@
+["opentelemetry-otlp/Cargo.toml", "opentelemetry-otlp/build.rs", "opentelemetry-otlp/tests/grpc_build.rs"]

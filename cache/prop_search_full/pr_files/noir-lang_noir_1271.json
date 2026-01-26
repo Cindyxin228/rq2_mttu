@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/6_array/src/main.nr", "crates/nargo_cli/tests/test_data/array_dynamic/Nargo.toml", "crates/nargo_cli/tests/test_data/array_dynamic/Prover.toml", "crates/nargo_cli/tests/test_data/array_dynamic/src/main.nr", "crates/noirc_frontend/src/hir/type_check/expr.rs", "crates/noirc_frontend/src/hir/type_check/stmt.rs"]

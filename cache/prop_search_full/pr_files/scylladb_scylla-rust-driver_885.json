@@ -1,0 +1,1 @@
+["scylla-cql/src/macros.rs", "scylla-cql/src/types/serialize/value.rs", "scylla-macros/src/serialize/cql.rs", "scylla/src/transport/cql_types_test.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/aws/common/signature.rs", "src/aws/s3/s3client.rs", "src/http/client/error.rs", "src/lib.rs"]

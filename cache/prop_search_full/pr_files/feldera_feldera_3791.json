@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/adapters/src/adhoc/mod.rs", "crates/fda/Cargo.toml", "crates/fda/src/cli.rs", "crates/fda/src/main.rs", "crates/fda/src/shell.rs", "crates/feldera-types/src/query.rs", "openapi.json"]

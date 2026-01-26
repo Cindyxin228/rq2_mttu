@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/bevy_app/Cargo.toml", "crates/bevy_app/src/schedule_runner.rs", "crates/bevy_tasks/src/lib.rs", "crates/bevy_tasks/src/single_threaded_task_pool.rs", "crates/bevy_window/Cargo.toml", "examples/README.md", "examples/wasm/.gitignore", "examples/wasm/favicon.ico", "examples/wasm/headless_wasm.rs", "examples/wasm/hello_wasm.rs", "examples/wasm/index.html"]

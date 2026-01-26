@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/math/avg.rs", "crates/nu-cli/src/commands/math/sum.rs", "crates/nu-data/src/value.rs", "crates/nu-protocol/src/value.rs"]

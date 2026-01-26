@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", "Cargo.toml", "src/adapter/file_adapter.rs", "src/cache/default_cache.rs", "src/cache/mod.rs", "src/cached_api.rs", "src/cached_enforcer.rs", "src/convert.rs", "src/enforcer.rs", "src/macros.rs", "src/rbac/default_role_manager.rs", "src/rbac/role_manager.rs"]

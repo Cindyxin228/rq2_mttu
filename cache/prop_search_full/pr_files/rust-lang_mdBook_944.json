@@ -1,0 +1,1 @@
+["Cargo.toml", "src/book/mod.rs", "src/cmd/clean.rs", "src/cmd/watch.rs", "src/config.rs", "src/lib.rs", "src/main.rs", "tests/rendered_output.rs"]

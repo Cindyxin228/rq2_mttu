@@ -1,0 +1,1 @@
+["chain/src/chain.rs", "network/src/protocols/tests/mod.rs", "notify/src/lib.rs", "rpc/src/module/subscription.rs", "test/src/specs/tx_pool/get_raw_tx_pool.rs"]

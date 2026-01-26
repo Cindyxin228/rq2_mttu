@@ -1,0 +1,1 @@
+["player/src/lib.rs", "wgpu-core/src/command/compute.rs", "wgpu-core/src/command/mod.rs", "wgpu-core/src/command/ray_tracing.rs", "wgpu-core/src/command/render.rs"]

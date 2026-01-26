@@ -1,0 +1,1 @@
+[".envrc", "Cargo.lock", "crates/chainql-core/Cargo.toml", "crates/chainql-core/src/client/live.rs", "crates/chainql-core/src/wasm.rs", "flake.lock", "flake.nix"]

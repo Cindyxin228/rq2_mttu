@@ -1,0 +1,1 @@
+["core/src/format.rs", "core/src/lib.rs", "core/src/load.rs", "core/src/parse.rs", "core/src/parse/character.rs", "core/src/parse/combinator.rs", "core/src/parse/directive.rs", "core/src/parse/expr.rs", "core/src/parse/metadata.rs", "core/src/parse/posting.rs", "core/src/parse/primitive.rs", "core/src/parse/testing.rs", "core/src/parse/transaction.rs", "core/src/repl.rs"]

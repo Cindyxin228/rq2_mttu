@@ -1,0 +1,1 @@
+["config/src/credentials.rs", "config/src/lib.rs", "controller-client/Cargo.toml", "controller-client/src/lib.rs", "integration_test/certs/ca-cert.crt", "integration_test/certs/invalid.crt", "wire_protocol/src/connection_factory.rs"]

@@ -1,0 +1,1 @@
+["src/adapter/src/catalog.rs", "src/adapter/src/coord.rs", "src/adapter/src/coord/ddl.rs", "src/adapter/src/coord/sequencer.rs", "src/compute-client/src/logging.rs", "src/controller/src/lib.rs", "src/sql/src/catalog.rs", "src/sql/src/plan/statement/ddl.rs", "test/sqllogictest/cluster_log_drop.slt", "test/sqllogictest/cluster_log_sinks.slt", "test/testdrive/catalog.td"]

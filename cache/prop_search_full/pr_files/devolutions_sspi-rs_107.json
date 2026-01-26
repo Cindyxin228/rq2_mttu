@@ -1,0 +1,1 @@
+["ffi/src/credentials_attributes.rs", "ffi/src/sec_handle.rs", "src/credssp/mod.rs", "src/kerberos/mod.rs", "src/negotiate.rs", "src/ntlm/config.rs", "src/ntlm/messages/client/negotiate.rs", "src/ntlm/mod.rs", "src/pku2u/mod.rs", "tools/wasm-testcompile/src/lib.rs"]

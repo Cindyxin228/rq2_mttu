@@ -1,0 +1,1 @@
+["lightning/src/routing/gossip.rs", "lightning/src/routing/router.rs", "lightning/src/routing/scoring.rs", "lightning/src/util/test_utils.rs"]

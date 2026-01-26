@@ -1,0 +1,1 @@
+["base_layer/wallet/src/base_node_service/monitor.rs", "comms/rpc_macros/src/generator.rs", "comms/src/noise/socket.rs", "comms/src/protocol/rpc/client.rs", "comms/src/protocol/rpc/error.rs", "comms/src/protocol/rpc/test/greeting_service.rs", "comms/src/protocol/rpc/test/smoke.rs"]

@@ -1,0 +1,1 @@
+["crates/rune-cli/Cargo.toml", "crates/rune-core/Cargo.toml", "crates/rune-languageserver/Cargo.toml", "crates/rune-macros/Cargo.toml", "crates/rune-modules/Cargo.toml", "crates/rune-wasm/Cargo.toml", "crates/rune/Cargo.toml"]

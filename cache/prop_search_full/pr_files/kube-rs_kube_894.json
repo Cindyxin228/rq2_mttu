@@ -1,0 +1,1 @@
+["examples/crd_derive_multi.rs", "examples/pod_cp.rs", "examples/pod_exec.rs", "kube-client/src/lib.rs", "kube-core/src/schema.rs", "kube-derive/tests/crd_enum_test.rs"]

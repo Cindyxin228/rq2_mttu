@@ -1,0 +1,1 @@
+["Cargo.toml", "src/openapi/schema.rs", "src/openapi/security.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/path.rs", "utoipa-swagger-ui/Cargo.toml", "utoipa-swagger-ui/README.md", "utoipa-swagger-ui/src/lib.rs"]

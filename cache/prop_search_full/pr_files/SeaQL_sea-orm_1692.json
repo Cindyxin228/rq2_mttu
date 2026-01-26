@@ -1,0 +1,1 @@
+["tests/common/features/schema.rs", "tests/connection_tests.rs", "tests/loader_tests.rs", "tests/relational_tests.rs", "tests/returning_tests.rs", "tests/self_join_tests.rs", "tests/sequential_op_tests.rs", "tests/transaction_tests.rs"]

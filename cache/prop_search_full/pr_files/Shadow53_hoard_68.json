@@ -1,0 +1,1 @@
+["Cargo.lock", "Dockerfile", "book/src/cli/flags-subcommands.md", "ci-tests/tests/__main__.py", "ci-tests/tests/testers/hoard_list.py", "ci-tests/tests/testers/hoard_tester.py", "ci-tests/tests/testers/last_paths.py", "src/command/mod.rs", "src/config/mod.rs", "src/logging.rs", "src/main.rs"]

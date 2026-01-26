@@ -1,0 +1,1 @@
+["common/defs/ethereum/networks.json", "common/defs/ethereum/released-definitions-timestamp.txt", "common/defs/ethereum/tokens.json", "common/defs/support.json", "common/tools/cointool.py", "core/src/apps/ethereum/definitions_constants.py", "core/src/apps/ethereum/tokens.py"]

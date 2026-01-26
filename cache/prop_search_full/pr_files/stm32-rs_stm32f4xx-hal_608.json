@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/dma/traits.rs", "src/fmpi2c.rs", "src/fmpi2c/hal_1.rs", "src/gpio/alt.rs", "src/lib.rs", "src/prelude.rs", "src/serial.rs", "src/serial/config.rs", "src/serial/uart_impls.rs", "src/uart.rs"]

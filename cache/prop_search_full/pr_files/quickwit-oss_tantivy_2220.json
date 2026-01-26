@@ -1,0 +1,1 @@
+["examples/snippet.rs", "src/core/index.rs", "src/directory/mmap_directory.rs", "src/indexer/merge_operation.rs", "src/indexer/mod.rs", "src/indexer/segment_writer.rs", "src/lib.rs", "src/snippet/mod.rs", "src/termdict/mod.rs", "tokenizer-api/src/lib.rs"]

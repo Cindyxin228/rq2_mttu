@@ -1,0 +1,1 @@
+["lib/wasi/src/os/task/control_plane.rs", "lib/wasi/src/os/task/process.rs", "lib/wasi/src/state/env.rs", "lib/wasi/src/syscalls/wasix/proc_join.rs", "lib/wasi/src/syscalls/wasix/proc_parent.rs", "lib/wasi/src/syscalls/wasix/proc_signal.rs", "lib/wasi/src/syscalls/wasix/proc_spawn.rs"]

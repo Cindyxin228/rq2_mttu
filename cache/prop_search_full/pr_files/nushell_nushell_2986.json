@@ -1,0 +1,1 @@
+["crates/nu-parser/src/lib.rs", "crates/nu-parser/src/parse/def.rs", "crates/nu-parser/src/parse/def/data_structs.rs", "crates/nu-parser/src/parse/def/param_flag_list.rs", "crates/nu-parser/src/parse/def/primitives.rs", "crates/nu-parser/src/parse/def/signature.rs", "crates/nu-parser/src/parse/def/tests.rs"]

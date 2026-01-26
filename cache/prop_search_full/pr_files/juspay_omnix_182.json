@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "crates/nixci/CHANGELOG.md", "crates/nixci/Cargo.toml", "crates/nixci/src/config.rs", "crates/nixci/src/nix/system_list.rs", "crates/nixci/tests/integration_test.rs", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/tests/cli.rs"]

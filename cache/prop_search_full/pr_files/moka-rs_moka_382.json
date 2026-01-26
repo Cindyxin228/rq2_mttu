@@ -1,0 +1,1 @@
+[".ci_extras/remove-examples-msrv.sh", ".github/workflows/CI.yml", ".github/workflows/CIQuantaDisabled.yml", "CHANGELOG.md", "Cargo.toml", "examples/README.md", "examples/reinsert_expired_entries_sync.rs"]

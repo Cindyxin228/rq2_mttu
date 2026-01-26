@@ -1,0 +1,1 @@
+["examples/gradients.rs", "src/gradient_store.rs", "src/lib.rs", "src/paint.rs", "src/renderer.rs", "src/renderer/opengl.rs", "src/renderer/opengl/main-fs.glsl", "src/renderer/params.rs"]

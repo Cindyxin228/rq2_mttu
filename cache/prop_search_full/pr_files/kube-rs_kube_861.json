@@ -1,0 +1,1 @@
+["examples/pod_attach.rs", "examples/pod_exec.rs", "examples/pod_shell.rs", "kube-client/src/api/remote_command.rs", "kube-client/src/lib.rs"]

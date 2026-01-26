@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "nickel/Cargo.toml", "src/client/hyper.rs", "src/client/lazy.rs", "src/client/mod.rs", "src/lib.rs", "src/local_test.rs", "src/mock.rs", "src/server/boundary.rs", "src/server/mod.rs"]

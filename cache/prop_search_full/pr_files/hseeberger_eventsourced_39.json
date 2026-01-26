@@ -1,0 +1,1 @@
+["eventsourced-nats/proto/evt_log.proto", "eventsourced-nats/src/evt_log.rs", "eventsourced-nats/src/lib.rs", "eventsourced-nats/src/snapshot_store.rs", "eventsourced-postgres/src/evt_log.rs", "eventsourced-postgres/src/lib.rs", "eventsourced/src/evt_log.rs", "eventsourced/src/lib.rs", "examples/counter/src/counter.rs"]

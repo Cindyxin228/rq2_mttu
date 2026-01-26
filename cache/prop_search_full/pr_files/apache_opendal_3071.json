@@ -1,0 +1,1 @@
+["core/src/services/azblob/backend.rs", "core/src/services/azblob/batch.rs", "core/src/services/azblob/error.rs", "core/src/services/azblob/mod.rs"]

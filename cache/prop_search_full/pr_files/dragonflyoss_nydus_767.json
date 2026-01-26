@@ -1,0 +1,1 @@
+["contrib/nydus-test/framework/rafs.py", "rafs/src/metadata/direct_v6.rs", "rafs/src/metadata/layout/v6.rs", "rafs/src/metadata/md_v6.rs", "rafs/src/metadata/mod.rs", "src/bin/nydus-image/core/bootstrap.rs", "src/bin/nydus-image/core/prefetch.rs", "src/bin/nydus-image/inspect.rs"]

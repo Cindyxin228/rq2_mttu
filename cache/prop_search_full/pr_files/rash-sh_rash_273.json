@@ -1,0 +1,1 @@
+[".cargo-husky/hooks/commit-msg", "CHANGELOG.md", "Cargo.lock", "Dockerfile", "VERSION", "mdbook_rash/Cargo.toml", "rash_book/src/parser.md", "rash_core/Cargo.toml", "rash_core/src/docopt/mod.rs", "rash_core/src/docopt/options.rs", "rash_core/src/lib.rs", "rash_derive/Cargo.toml"]

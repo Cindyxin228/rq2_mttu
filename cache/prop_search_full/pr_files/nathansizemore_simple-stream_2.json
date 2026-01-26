@@ -1,0 +1,1 @@
+["Cargo.toml", "src/frame/checksum32.rs", "src/frame/mod.rs", "src/frame/simple.rs", "src/frame/websocket.rs", "src/lib.rs", "src/plain.rs", "src/secure.rs"]

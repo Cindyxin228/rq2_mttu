@@ -1,0 +1,1 @@
+["src/scaffold/web_app.rs", "templates/generic/web-app/{{#if (eq package_manager 'pnpm')}}pnpm-workspace.yaml{{\u00a1if}}.hbs"]

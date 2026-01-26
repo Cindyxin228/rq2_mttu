@@ -1,0 +1,1 @@
+["lib/sparesults/src/csv.rs", "lib/sparesults/src/parser.rs", "lib/sparesults/src/solution.rs", "lib/src/sparql/eval.rs", "lib/src/sparql/mod.rs", "lib/src/sparql/model.rs", "lib/src/sparql/service.rs", "lib/src/sparql/update.rs", "lib/src/storage/numeric_encoder.rs"]

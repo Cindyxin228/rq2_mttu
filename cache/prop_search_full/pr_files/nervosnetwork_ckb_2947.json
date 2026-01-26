@@ -1,0 +1,1 @@
+["miner/src/client.rs", "miner/src/miner.rs", "miner/src/worker/dummy.rs", "miner/src/worker/eaglesong_simple.rs", "miner/src/worker/mod.rs", "resource/ckb-miner.toml"]

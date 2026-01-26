@@ -1,0 +1,1 @@
+[".github/actions/artifact_failure/action.yml", ".github/workflows/ci.yml", "src/bin/sccache-dist/token_check.rs", "src/compiler/compiler.rs", "src/dist/client_auth.rs", "src/dist/http.rs", "src/util.rs", "tests/dist.rs", "tests/harness/mod.rs"]

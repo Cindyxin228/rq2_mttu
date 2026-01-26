@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/frame_errors.rs", "scylla-cql/src/frame/response/mod.rs", "scylla-cql/src/frame/response/result.rs", "scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/src/network/connection.rs", "scylla/src/observability/driver_tracing.rs", "scylla/src/response/query_result.rs", "scylla/src/response/request_response.rs"]

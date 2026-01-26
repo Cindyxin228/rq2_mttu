@@ -1,0 +1,1 @@
+["vulkano/src/command_buffer/auto.rs", "vulkano/src/command_buffer/synced/commands.rs", "vulkano/src/command_buffer/sys.rs", "vulkano/src/pipeline/depth_stencil.rs"]

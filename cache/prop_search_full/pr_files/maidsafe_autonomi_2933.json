@@ -1,0 +1,1 @@
+["ant-cli/src/actions/connect.rs", "ant-cli/src/commands.rs", "ant-cli/src/commands/analyze.rs", "ant-cli/src/commands/file.rs", "ant-cli/src/commands/register.rs", "ant-cli/src/commands/vault.rs", "ant-cli/src/commands/wallet.rs", "ant-cli/src/exit_code.rs", "ant-cli/src/main.rs", "ant-cli/src/opt.rs", "autonomi/src/client/data_types/chunk.rs", "autonomi/src/client/mod.rs"]

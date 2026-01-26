@@ -1,0 +1,1 @@
+["benchmarks/expected-plans/q11.txt", "benchmarks/expected-plans/q14.txt", "benchmarks/expected-plans/q20.txt", "datafusion/core/tests/sql/decimal.rs", "datafusion/core/tests/sql/subqueries.rs", "datafusion/expr/src/logical_plan/plan.rs", "datafusion/expr/src/type_coercion/binary.rs", "datafusion/physical-expr/src/expressions/binary.rs"]

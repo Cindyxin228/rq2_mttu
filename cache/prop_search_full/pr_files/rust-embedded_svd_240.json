@@ -1,0 +1,1 @@
+["svd-parser/Cargo.toml", "svd-parser/src/expand.rs", "svd-parser/src/registercluster.rs", "svd-rs/CHANGELOG.md", "svd-rs/src/cluster.rs", "svd-rs/src/field.rs", "svd-rs/src/peripheral.rs", "svd-rs/src/register.rs"]

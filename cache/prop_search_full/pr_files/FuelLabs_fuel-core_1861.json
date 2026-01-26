@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/client/assets/schema.sdl", "crates/client/src/client/schema/chain.rs", "crates/client/src/client/schema/primitives.rs", "crates/client/src/client/schema/snapshots/fuel_core_client__client__schema__chain__tests__chain_gql_query_output.snap", "crates/fuel-core/src/schema/chain.rs"]

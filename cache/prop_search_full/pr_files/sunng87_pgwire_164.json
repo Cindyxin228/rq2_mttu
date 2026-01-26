@@ -1,0 +1,1 @@
+["examples/duckdb.rs", "examples/sqlite.rs", "src/api/query.rs", "src/api/results.rs", "tests-integration/test-server/src/main.rs"]

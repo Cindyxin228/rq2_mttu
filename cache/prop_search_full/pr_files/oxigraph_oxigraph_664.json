@@ -1,0 +1,1 @@
+["oxrocksdb-sys/rocksdb", "python/generate_stubs.py", "python/src/io.rs", "python/src/sparql.rs", "python/src/store.rs", "python/tests/test_io.py", "python/tests/test_store.py"]

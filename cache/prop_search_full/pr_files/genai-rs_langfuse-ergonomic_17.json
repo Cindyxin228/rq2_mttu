@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "examples/basic_trace.rs", "examples/batch_ingestion.rs", "examples/multiple_traces.rs", "examples/self_hosted.rs", "examples/test_trace.rs", "examples/trace_with_metadata.rs", "src/error.rs", "tests/mock_tests.rs"]

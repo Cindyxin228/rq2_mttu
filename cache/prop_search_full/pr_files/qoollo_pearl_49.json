@@ -1,0 +1,1 @@
+["src/blob/core.rs", "src/blob/file.rs", "src/blob/index/bloom.rs", "src/blob/index/simple.rs", "src/lib.rs", "src/storage/config.rs", "src/storage/core.rs", "tests/common.rs", "tests/tests.rs"]

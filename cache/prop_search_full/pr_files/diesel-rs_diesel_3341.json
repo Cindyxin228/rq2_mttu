@@ -1,0 +1,1 @@
+["diesel/src/query_builder/select_statement/dsl_impls.rs", "diesel/src/query_dsl/group_by_dsl.rs", "diesel/src/query_source/aliasing/dsl_impls.rs", "diesel_compile_tests/tests/fail/invalid_group_by.rs", "diesel_compile_tests/tests/fail/invalid_group_by.stderr"]

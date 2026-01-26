@@ -1,0 +1,1 @@
+["apps/kube/ingress/manifests/admission-create-job-patch.yaml", "apps/kube/ingress/manifests/admission-patch-job-patch.yaml"]

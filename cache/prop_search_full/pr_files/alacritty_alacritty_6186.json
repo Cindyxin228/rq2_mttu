@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "alacritty.yml", "alacritty/Cargo.toml", "alacritty/src/config/font.rs", "alacritty/src/display/mod.rs", "alacritty/src/renderer/text/builtin_font.rs", "alacritty/src/window_context.rs", "alacritty_config_derive/src/de_struct.rs", "alacritty_config_derive/tests/config.rs"]

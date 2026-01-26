@@ -1,0 +1,1 @@
+["src/armor/reader.rs", "src/composed/key/builder.rs", "src/composed/key/mod.rs", "src/composed/message/types.rs", "src/composed/signed_key/mod.rs", "src/crypto/aes_kw.rs", "src/crypto/hash.rs", "src/errors.rs", "src/lib.rs", "src/packet/mod.rs", "src/types/key_id.rs", "tests/key_test.rs", "tests/message_test.rs"]

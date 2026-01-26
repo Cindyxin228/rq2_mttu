@@ -1,0 +1,1 @@
+[".dockerignore", "Cargo.lock", "Dockerfile", "contrib/get_tip.py", "electrs_index/Cargo.toml", "electrs_index/src/config.rs", "electrs_query/Cargo.toml", "electrs_rpc/Cargo.toml", "tests/run.sh"]

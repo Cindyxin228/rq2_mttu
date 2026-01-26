@@ -1,0 +1,1 @@
+["ci/testnet-deploy.sh", "multinode-demo/common.sh", "multinode-demo/metrics_write_datapoint.sh", "multinode-demo/oom_monitor.sh", "snap/hooks/configure", "snap/snapcraft.yaml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bootstrap/compile.rs", "src/bootstrap/dist.rs", "src/ci/pgo.sh", "src/ci/run.sh", "src/stage0.txt", "src/test/ui-fulldeps/session-derive-errors.stderr", "src/tools/rls", "src/tools/rustfmt", "src/tools/tidy/src/deps.rs"]

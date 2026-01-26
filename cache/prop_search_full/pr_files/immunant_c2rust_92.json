@@ -1,0 +1,1 @@
+["c2rust-transpile/src/c_ast/mod.rs", "c2rust-transpile/src/convert_type.rs", "c2rust-transpile/src/translator/builtins.rs", "c2rust-transpile/src/translator/mod.rs", "c2rust-transpile/src/translator/variadic.rs", "scripts/test_translator.py", "tests/items/src/test_varargs.rs", "tests/items/src/varargs.c"]

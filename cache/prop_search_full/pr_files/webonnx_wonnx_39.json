@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "templates/endomorphism/batchnormalization.wgsl", "templates/pool/conv_kernel_3.wgsl", "templates/structs.wgsl"]

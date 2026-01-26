@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/grafana-plugin-sdk/examples/main.rs", "crates/grafana-plugin-sdk/src/backend/data.rs", "crates/grafana-plugin-sdk/src/backend/mod.rs", "crates/grafana-plugin-sdk/src/pluginv2/pluginv2.rs", "crates/grafana-plugin-sdk/vendor/proto/backend.proto"]

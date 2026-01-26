@@ -1,0 +1,1 @@
+["crates/core/src/sql/ast.rs", "crates/core/src/sql/literal.rs", "crates/core/src/sql/mod.rs", "crates/core/src/sql/test_to_sql.rs", "crates/core/src/syn/mod.rs", "crates/types/src/value/file.rs"]

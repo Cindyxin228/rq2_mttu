@@ -1,0 +1,1 @@
+["core/src/load.rs", "core/src/report/book_keeping.rs", "testdata/report/golden/multi_commodity.golden.balance.in_jpy_up_to_date.txt", "testdata/report/golden/multi_commodity.golden.balance.in_usd_historical.txt", "testdata/report/multi_commodity.ledger"]

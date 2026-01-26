@@ -1,0 +1,1 @@
+["Cargo.toml", "src/color.rs", "src/config.rs", "src/getch.rs", "src/main.rs", "src/negotiation.rs", "src/repl.rs", "src/setting.rs", "src/telnet.rs"]

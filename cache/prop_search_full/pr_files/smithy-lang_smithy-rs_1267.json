@@ -1,0 +1,1 @@
+["codegen-server-test/build.gradle.kts", "codegen-server-test/model/misc.smithy", "codegen-test/build.gradle.kts", "codegen-test/model/misc.smithy", "codegen/src/main/kotlin/software/amazon/smithy/rust/codegen/smithy/generators/StructureGenerator.kt"]

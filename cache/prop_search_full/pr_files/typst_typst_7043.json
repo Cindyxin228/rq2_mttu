@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/typst-svg/Cargo.toml", "crates/typst-svg/src/image.rs", "tests/ref/html/image-pdf-basic.html", "tests/ref/image-pdf-basic.png", "tests/ref/image-pdf-complex.png", "tests/suite/visualize/image.typ"]

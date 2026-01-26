@@ -1,0 +1,1 @@
+["examples/containerlogs.rs", "examples/servicedelete.rs", "examples/serviceinspect.rs", "examples/servicelogs.rs", "examples/services.rs", "src/builder.rs", "src/lib.rs", "src/rep.rs", "src/transport.rs"]

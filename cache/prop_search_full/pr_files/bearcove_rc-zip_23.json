@@ -1,0 +1,1 @@
+["crates/rc-zip/Cargo.toml", "crates/rc-zip/src/prelude.rs", "crates/rc-zip/src/reader/sync/read_zip.rs"]

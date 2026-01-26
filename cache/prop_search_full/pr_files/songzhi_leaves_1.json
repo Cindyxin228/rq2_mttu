@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/mock.rs", "examples/mysql.rs", "examples/redis.rs", "src/dao/mod.rs", "src/dao/mongo.rs", "src/lib.rs", "src/segment.rs", "tests/mongodb.rs", "tests/redis.rs"]

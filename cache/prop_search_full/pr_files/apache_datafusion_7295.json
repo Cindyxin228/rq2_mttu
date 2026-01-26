@@ -1,0 +1,1 @@
+["datafusion/common/src/config.rs", "datafusion/core/src/datasource/file_format/parquet.rs", "datafusion/sqllogictest/test_files/information_schema.slt", "docs/source/user-guide/configs.md"]

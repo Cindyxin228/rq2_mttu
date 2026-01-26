@@ -1,0 +1,1 @@
+[".github/workflows/checks.yml", "Cargo.lock", "examples/embedded_async/Cargo.toml", "examples/postgres_embedded/Cargo.toml", "examples/postgres_embedded/README.md", "examples/postgres_embedded/src/main.rs", "examples/sqlx_embedded/Cargo.toml", "examples/sqlx_embedded/README.md", "examples/sqlx_embedded/src/main.rs", "postgresql_archive/src/archive.rs"]

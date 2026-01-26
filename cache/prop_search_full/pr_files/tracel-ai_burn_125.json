@@ -1,0 +1,1 @@
+["burn-ndarray/src/ops/tensor.rs", "burn-tensor/src/tensor/base.rs", "burn/src/nn/attention/mask.rs", "burn/src/nn/attention/mha.rs", "burn/src/nn/attention/mod.rs", "burn/src/nn/cache/autoregressive.rs", "burn/src/nn/cache/base.rs", "burn/src/nn/cache/mod.rs", "burn/src/nn/mod.rs", "burn/src/nn/transformer/encoder.rs"]

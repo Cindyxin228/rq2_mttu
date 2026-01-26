@@ -1,0 +1,1 @@
+["examples/e05_command_framework/src/main.rs", "src/cache/wrappers.rs", "src/framework/standard/args.rs", "src/framework/standard/help_commands.rs", "src/framework/standard/mod.rs", "src/model/guild/mod.rs", "src/utils/argument_convert/member.rs", "src/utils/token.rs"]

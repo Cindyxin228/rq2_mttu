@@ -1,0 +1,1 @@
+["datafusion-common/src/column.rs", "datafusion-common/src/dfschema.rs", "datafusion-common/src/lib.rs", "datafusion/src/logical_plan/builder.rs", "datafusion/src/logical_plan/dfschema.rs", "datafusion/src/logical_plan/expr.rs"]

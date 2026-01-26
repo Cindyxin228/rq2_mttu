@@ -1,0 +1,1 @@
+["pgrx-macros/src/operators.rs", "pgrx-pg-sys/src/submodules/panic.rs", "pgrx/src/pg_catalog/pg_proc.rs", "pgrx/src/spi.rs", "pgrx/src/trigger_support/mod.rs", "pgrx/src/trigger_support/pg_trigger.rs"]

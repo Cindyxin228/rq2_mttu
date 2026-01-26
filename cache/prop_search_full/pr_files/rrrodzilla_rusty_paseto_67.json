@@ -1,0 +1,1 @@
+["src/core/footer.rs", "src/core/mod.rs", "src/core/untrusted_token.rs", "tests/untrusted_footer_key_rotation.rs"]

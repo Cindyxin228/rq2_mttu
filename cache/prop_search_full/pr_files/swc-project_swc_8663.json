@@ -1,0 +1,1 @@
+["crates/swc/tests/errors/lints/no-new-object/default/.swcrc", "crates/swc/tests/errors/lints/no-new-object/default/input.js", "crates/swc/tests/errors/lints/no-new-object/default/output.swc-stderr", "crates/swc_ecma_lints/src/config.rs", "crates/swc_ecma_lints/src/rules/mod.rs", "crates/swc_ecma_lints/src/rules/no_new_object.rs"]

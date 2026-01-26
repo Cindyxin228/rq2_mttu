@@ -1,0 +1,1 @@
+["chacha20/src/backend/autodetect.rs", "chacha20/src/backend/avx2.rs", "chacha20/src/backend/sse2.rs", "chacha20/src/rng.rs"]

@@ -1,0 +1,1 @@
+["crates/nix_health/src/check/trusted_users.rs", "crates/nix_health/src/lib.rs", "crates/nix_rs/src/env.rs", "crates/omnix-gui/src/app/state/mod.rs", "crates/omnix-gui/src/app/widget.rs", "flake.lock"]

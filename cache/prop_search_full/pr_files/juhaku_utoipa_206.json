@@ -1,0 +1,1 @@
+["tests/component_derive_test.rs", "tests/path_derive.rs", "utoipa-gen/src/schema/component.rs", "utoipa-gen/src/schema/into_params.rs"]

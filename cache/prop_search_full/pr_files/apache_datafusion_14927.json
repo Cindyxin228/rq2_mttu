@@ -1,0 +1,1 @@
+["datafusion/core/tests/dataframe/dataframe_functions.rs", "datafusion/core/tests/dataframe/mod.rs", "datafusion/functions-aggregate/src/count.rs", "datafusion/sqllogictest/test_files/subquery.slt"]

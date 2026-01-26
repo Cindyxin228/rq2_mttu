@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.unstable.d.ts", "cli/file_fetcher.rs", "cli/http_util.rs", "cli/tests/unit/fetch_test.ts", "ext/fetch/lib.rs", "ext/net/ops_tls.rs", "ext/tls/lib.rs", "runtime/build.rs", "runtime/web_worker.rs", "runtime/worker.rs", "test_util/src/lib.rs"]

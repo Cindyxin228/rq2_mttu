@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fuel-core/Cargo.toml", "fuel-core/src/service/metrics.rs", "fuel-core/src/state/rocks_db.rs", "fuel-metrics/Cargo.toml", "fuel-metrics/src/core_metrics.rs", "fuel-metrics/src/lib.rs"]

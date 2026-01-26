@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "ci/qemu-cpuinfo.patch", "cranelift/filetests/filetests/isa/x64/simd-bitwise-compile.clif"]

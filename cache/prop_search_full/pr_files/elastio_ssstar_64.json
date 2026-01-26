@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "ssstar-testing/Cargo.toml", "ssstar-testing/src/minio.rs", "ssstar/Cargo.toml", "ssstar/src/error.rs", "ssstar/src/objstore/mod.rs", "ssstar/src/objstore/s3.rs"]

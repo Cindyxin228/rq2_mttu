@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/kp-get-version.rs", "src/db/mod.rs", "src/parse/mod.rs", "tests/file_read_tests.rs"]

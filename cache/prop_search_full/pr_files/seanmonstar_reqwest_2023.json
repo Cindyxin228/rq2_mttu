@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/wasm_github_fetch/Cargo.toml", "src/blocking/body.rs", "src/blocking/request.rs", "src/blocking/response.rs", "src/proxy.rs", "src/tls.rs"]

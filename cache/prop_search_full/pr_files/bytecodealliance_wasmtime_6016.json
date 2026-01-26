@@ -1,0 +1,1 @@
+["cranelift/codegen/src/legalizer/mod.rs", "cranelift/filetests/filetests/egraph/misc.clif", "cranelift/filetests/filetests/runtests/simd-extractlane.clif"]

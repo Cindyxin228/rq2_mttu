@@ -1,0 +1,1 @@
+["cargo-audit/src/auditor.rs", "cargo-audit/src/config.rs", "cargo-audit/src/presenter.rs", "rustsec/src/advisory/informational.rs", "rustsec/src/lib.rs", "rustsec/src/registry.rs", "rustsec/src/report.rs", "rustsec/src/warning.rs"]

@@ -1,0 +1,1 @@
+["experimental/segmenter/tests/complex_word.rs", "provider/datagen/src/transform/segmenter/mod.rs", "provider/testdata/data/baked/segmenter/word_v1.rs", "provider/testdata/data/json/fingerprints.csv", "provider/testdata/data/json/segmenter/word@1/und.json", "provider/testdata/data/postcard/fingerprints.csv", "provider/testdata/data/testdata.postcard"]

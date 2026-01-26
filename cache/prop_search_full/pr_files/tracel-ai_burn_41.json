@@ -1,0 +1,1 @@
+["burn-tensor/src/tensor/backend/autodiff/backend.rs", "burn-tensor/src/tensor/backend/base.rs", "burn-tensor/src/tensor/backend/ndarray/backend.rs", "burn-tensor/src/tensor/backend/ndarray/tensor.rs", "burn-tensor/src/tensor/backend/tch/backend.rs", "burn-tensor/src/tensor/backend/tch/tensor.rs", "burn-tensor/src/tensor/data.rs", "burn/examples/mnist.rs"]

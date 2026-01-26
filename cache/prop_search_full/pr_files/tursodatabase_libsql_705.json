@@ -1,0 +1,1 @@
+["libsql-replication/src/injector/mod.rs", "libsql-replication/src/replicator.rs", "libsql/src/replication/remote_client.rs"]

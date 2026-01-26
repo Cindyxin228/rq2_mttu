@@ -1,0 +1,1 @@
+["payjoin-test-utils/src/lib.rs", "payjoin/src/psbt/mod.rs", "payjoin/src/receive/v1/exclusive/mod.rs", "payjoin/src/receive/v1/mod.rs", "payjoin/src/send/error.rs", "payjoin/src/send/mod.rs", "payjoin/src/send/v1.rs", "payjoin/src/send/v2/mod.rs"]

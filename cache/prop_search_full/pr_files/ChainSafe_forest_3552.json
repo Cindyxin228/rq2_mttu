@@ -1,0 +1,1 @@
+[".config/nextest.toml", "Cargo.lock", "Cargo.toml", "src/beacon/drand.rs", "src/cli/subcommands/config_cmd.rs", "src/libp2p_bitswap/internals/codec.rs", "src/state_migration/tests/mod.rs", "src/utils/io/writer_checksum.rs", "tests/config.rs", "tests/lint.rs", "tests/lints/mod.rs"]

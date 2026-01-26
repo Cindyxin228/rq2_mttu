@@ -1,0 +1,1 @@
+["src/formatter/string_formatter.rs", "src/modules/dotnet.rs", "src/modules/hostname.rs", "src/modules/nim.rs", "src/modules/time.rs", "src/modules/utils/directory.rs", "src/modules/utils/directory_win.rs", "src/print.rs"]

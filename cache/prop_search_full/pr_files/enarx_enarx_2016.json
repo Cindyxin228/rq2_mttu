@@ -1,0 +1,1 @@
+[".github/workflows/nix.yml", ".github/workflows/release.yml", "docs/Install.md", "src/cli/mod.rs", "src/cli/platform/info.rs", "src/cli/platform/mod.rs", "src/cli/platform/sgx/mod.rs", "src/cli/platform/sgx/register.rs", "src/cli/platform/snp/info.rs", "src/cli/platform/snp/mod.rs", "src/cli/platform/snp/update.rs"]

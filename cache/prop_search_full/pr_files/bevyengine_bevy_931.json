@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "crates/bevy_core/src/time/timer.rs", "crates/bevy_diagnostic/src/print_diagnostics_plugin.rs", "examples/2d/sprite_sheet.rs", "examples/app/plugin.rs", "examples/ecs/event.rs", "examples/ecs/timers.rs", "examples/ui/font_atlas_debug.rs"]

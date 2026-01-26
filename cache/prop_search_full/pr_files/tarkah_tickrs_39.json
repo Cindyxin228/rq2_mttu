@@ -1,0 +1,1 @@
+["README.md", "api/src/client.rs", "api/src/model.rs", "src/cli.rs", "src/common.rs", "src/event.rs", "src/main.rs", "src/service/stock.rs", "src/task/current_price.rs", "src/task/prices.rs", "src/widget/help.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

@@ -1,0 +1,1 @@
+[".github/actions/setup/action.yml", ".github/workflows/main.yml", "cargo", "pubkey/src/lib.rs", "scripts/check-msrv.sh", "scripts/rust-version.sh", "signature/src/error.rs"]

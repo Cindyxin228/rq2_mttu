@@ -1,0 +1,1 @@
+[".changes/fix-window-destroy-deadlock.md", "core/tauri/src/manager/mod.rs", "core/tauri/src/webview/mod.rs", "core/tauri/src/window/mod.rs"]

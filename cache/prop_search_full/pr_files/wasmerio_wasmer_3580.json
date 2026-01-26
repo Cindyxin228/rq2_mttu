@@ -1,0 +1,1 @@
+["lib/api/src/externals/memory.rs", "lib/api/src/externals/memory_view.rs", "lib/api/src/js/externals/memory.rs", "lib/api/src/js/externals/memory_view.rs", "lib/api/src/sys/externals/memory.rs", "lib/api/src/sys/externals/memory_view.rs", "lib/wasi/src/bindings/wasix_http_client_v1.rs"]

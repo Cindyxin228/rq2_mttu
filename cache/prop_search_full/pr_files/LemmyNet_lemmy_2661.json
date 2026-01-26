@@ -1,0 +1,1 @@
+["migrations/2023-01-17-165819_cleanup_post_aggregates_indexes/down.sql", "migrations/2023-01-17-165819_cleanup_post_aggregates_indexes/up.sql"]

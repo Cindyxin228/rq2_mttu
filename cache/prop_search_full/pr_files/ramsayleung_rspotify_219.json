@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "rspotify-model/src/enums/misc.rs", "rspotify-model/src/enums/types.rs", "rspotify-model/src/search.rs", "src/auth_code.rs", "src/auth_code_pkce.rs", "src/client_creds.rs", "src/lib.rs"]

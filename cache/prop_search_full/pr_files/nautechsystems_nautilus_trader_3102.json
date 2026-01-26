@@ -1,0 +1,1 @@
+[".gitignore", "crates/persistence/src/backend/catalog.rs", "crates/persistence/src/backend/session.rs", "crates/persistence/src/parquet.rs", "crates/persistence/tests/test_catalog.rs", "docs/concepts/data.md", "nautilus_trader/persistence/catalog/parquet.py"]

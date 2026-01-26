@@ -1,0 +1,1 @@
+[".github/workflows/android.yml", ".github/workflows/ios.yml", ".github/workflows/js_tests.yml", ".github/workflows/wasm_test.yml", "ergo-lib/src/chain/ergo_box/box_builder.rs", "ergo-lib/src/wallet/tx_builder.rs"]

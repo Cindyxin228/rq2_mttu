@@ -1,0 +1,1 @@
+["crates/nix_rs/src/env.rs", "crates/nix_rs/src/flake/url.rs", "src/app/flake.rs", "src/app/health.rs", "src/app/info.rs", "src/app/mod.rs", "src/app/state.rs", "src/app/state/datum.rs", "src/app/widget.rs", "src/main.rs"]

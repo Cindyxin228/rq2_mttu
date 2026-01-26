@@ -1,0 +1,1 @@
+["Cargo.lock", "script/Cargo.toml", "script/src/scheduler.rs", "script/src/syscalls/exec.rs", "script/src/syscalls/exec_v2.rs", "script/src/syscalls/mod.rs", "script/src/syscalls/spawn.rs", "script/src/syscalls/utils.rs", "script/src/types.rs", "script/src/verify.rs", "script/src/verify/tests/ckb_latest/features_since_v2021.rs"]

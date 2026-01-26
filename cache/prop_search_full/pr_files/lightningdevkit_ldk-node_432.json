@@ -1,0 +1,1 @@
+["bindings/kotlin/ldk-node-jvm/lib/src/test/kotlin/org/lightningdevkit/ldknode/LibraryTest.kt", "bindings/ldk_node.udl", "src/builder.rs", "src/payment/mod.rs", "src/payment/store.rs", "src/uniffi_types.rs", "src/wallet/mod.rs", "tests/common/mod.rs", "tests/integration_tests_rust.rs"]

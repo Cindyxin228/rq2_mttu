@@ -1,0 +1,1 @@
+["curve25519-dalek/Cargo.toml", "curve25519-dalek/src/backend/serial/fiat_u32/field.rs", "curve25519-dalek/src/backend/serial/fiat_u64/field.rs", "curve25519-dalek/src/backend/serial/u32/constants.rs", "curve25519-dalek/src/backend/serial/u32/field.rs", "curve25519-dalek/src/backend/serial/u64/constants.rs", "curve25519-dalek/src/backend/serial/u64/field.rs"]

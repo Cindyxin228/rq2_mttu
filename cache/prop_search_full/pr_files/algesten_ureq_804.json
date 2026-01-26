@@ -1,0 +1,1 @@
+["src/config.rs", "src/error.rs", "src/lib.rs", "src/pool.rs", "src/resolver.rs", "src/run.rs", "src/timings.rs", "src/tls/native_tls.rs", "src/tls/rustls.rs", "src/transport/io.rs", "src/transport/mod.rs", "src/transport/socks.rs", "src/transport/tcp.rs", "src/transport/test.rs", "src/transport/time.rs"]

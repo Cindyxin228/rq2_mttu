@@ -1,0 +1,1 @@
+["slatedb/src/batch.rs", "slatedb/src/batch_write.rs", "slatedb/src/db_snapshot.rs", "slatedb/src/error.rs", "slatedb/src/transaction_manager.rs"]

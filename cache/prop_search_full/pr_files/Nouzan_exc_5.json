@@ -1,0 +1,1 @@
+["exc-binance/src/types/adaptations/book.rs", "exc-binance/src/types/adaptations/candle.rs", "exc-binance/src/types/adaptations/instrument.rs", "exc-binance/src/types/adaptations/trade.rs", "exc-binance/src/types/adaptations/trading.rs", "exc-binance/src/websocket/protocol/frame/account.rs"]

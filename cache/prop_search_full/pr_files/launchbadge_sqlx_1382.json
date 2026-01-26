@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "sqlx-cli/Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-core/src/pool/connection.rs", "sqlx-core/src/pool/inner.rs", "sqlx-core/src/postgres/types/money.rs", "sqlx-core/src/sqlite/statement/handle.rs", "sqlx-macros/Cargo.toml", "sqlx-rt/Cargo.toml"]

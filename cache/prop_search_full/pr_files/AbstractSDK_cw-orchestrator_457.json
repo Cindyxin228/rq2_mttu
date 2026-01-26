@@ -1,0 +1,1 @@
+[".github/workflows/scheduled.yml", ".github/workflows/test.yml", "cw-orch-daemon/src/channel.rs", "cw-orch-daemon/tests/tx_resp.rs", "packages/clone-testing/src/core.rs", "packages/cw-orch-core/src/environment/index_response.rs", "packages/cw-orch-mock/src/core.rs"]

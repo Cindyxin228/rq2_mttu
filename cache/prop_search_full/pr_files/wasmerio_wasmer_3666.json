@@ -1,0 +1,1 @@
+["lib/wasi/src/capabilities.rs", "lib/wasi/src/http/client_impl.rs", "lib/wasi/src/lib.rs", "lib/wasi/src/os/console/mod.rs", "lib/wasi/src/runners/wcgi/handler.rs", "lib/wasi/src/state/builder.rs", "lib/wasi/src/state/env.rs", "lib/wasi/src/state/mod.rs", "tests/integration/cli/tests/snapshot.rs"]

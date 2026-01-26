@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "src/platform/macos.rs", "src/platform_impl/macos/app_delegate.rs", "src/platform_impl/macos/app_state.rs", "src/platform_impl/macos/event_loop.rs", "src/platform_impl/macos/menu.rs", "src/platform_impl/macos/mod.rs", "src/platform_impl/macos/window.rs"]

@@ -1,0 +1,1 @@
+["sdk/core/azure_core_amqp/src/cbs.rs", "sdk/core/azure_core_amqp/src/noop.rs", "sdk/core/azure_core_test/src/proxy.rs", "sdk/cosmos/azure_data_cosmos/src/pipeline/authorization_policy.rs", "sdk/eventhubs/azure_messaging_eventhubs/src/producer/mod.rs"]

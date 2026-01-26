@@ -1,0 +1,1 @@
+["Cargo.toml", "src/core/index.rs", "src/core/mod.rs", "src/core/segment_id.rs", "src/core/segment_meta.rs", "src/directory/directory_lock.rs", "src/directory/managed_directory.rs", "src/directory/tests.rs", "src/fastfield/mod.rs", "src/indexer/segment_manager.rs", "src/lib.rs", "src/postings/mod.rs", "src/query/fuzzy_query.rs", "src/schema/facet.rs", "src/schema/mod.rs"]

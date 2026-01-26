@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "README.md", "src/args.rs", "src/bin/main.rs", "src/desktop_api.rs", "src/error.rs", "src/http.rs", "src/lib.rs", "src/no_proxy.rs", "src/proxy_handler.rs", "src/socket_transfer.rs", "src/socks.rs"]

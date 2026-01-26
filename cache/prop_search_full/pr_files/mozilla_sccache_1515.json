@@ -1,0 +1,1 @@
+["src/cache/cache.rs", "src/cache/gcs.rs", "src/config.rs", "src/server.rs", "tests/sccache_cargo.rs"]

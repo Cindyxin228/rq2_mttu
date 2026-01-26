@@ -1,0 +1,1 @@
+["src/backend/dx11/src/lib.rs", "src/backend/dx12/src/command.rs", "src/backend/empty/src/lib.rs", "src/backend/gl/src/command.rs", "src/backend/metal/src/command.rs", "src/backend/vulkan/src/command.rs", "src/backend/vulkan/src/lib.rs", "src/hal/src/command/mod.rs", "src/warden/src/gpu.rs"]

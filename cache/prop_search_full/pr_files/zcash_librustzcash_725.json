@@ -1,0 +1,1 @@
+["zcash_client_sqlite/src/wallet.rs", "zcash_client_sqlite/src/wallet/init.rs", "zcash_client_sqlite/src/wallet/transact.rs", "zcash_primitives/Cargo.toml", "zcash_primitives/src/zip32.rs"]

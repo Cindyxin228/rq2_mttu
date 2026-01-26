@@ -1,0 +1,1 @@
+["Cargo.lock", "provider/blob/Cargo.toml", "provider/blob/src/blob_data_provider.rs", "provider/blob/src/blob_schema.rs", "provider/blob/src/export/blob_exporter.rs", "provider/blob/tests/test_versions.rs"]

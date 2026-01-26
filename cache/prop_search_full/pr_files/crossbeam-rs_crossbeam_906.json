@@ -1,0 +1,1 @@
+["ci/miri.sh", "crossbeam-channel/tests/ready.rs"]

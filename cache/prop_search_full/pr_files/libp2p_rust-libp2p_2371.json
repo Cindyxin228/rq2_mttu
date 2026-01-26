@@ -1,0 +1,1 @@
+["core/Cargo.toml", "protocols/gossipsub/Cargo.toml", "protocols/kad/Cargo.toml", "protocols/rendezvous/Cargo.toml", "transports/noise/Cargo.toml"]

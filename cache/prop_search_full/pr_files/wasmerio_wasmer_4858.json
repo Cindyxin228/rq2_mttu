@@ -1,0 +1,1 @@
+["lib/wasix/src/journal/effector/save_event.rs", "lib/wasix/src/os/task/thread.rs", "lib/wasix/src/state/func_env.rs", "lib/wasix/src/syscalls/journal/restore_snapshot.rs", "lib/wasix/src/syscalls/wasix/thread_exit.rs", "lib/wasix/src/syscalls/wasix/thread_spawn.rs"]

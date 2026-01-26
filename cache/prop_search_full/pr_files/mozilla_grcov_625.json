@@ -1,0 +1,1 @@
+["src/cobertura.rs", "src/covdir.rs", "src/defs.rs", "src/file_filter.rs", "src/filter.rs", "src/gcov.rs", "src/html.rs", "src/lib.rs", "src/llvm_tools.rs", "src/main.rs", "src/output.rs", "src/parser.rs", "src/path_rewriting.rs", "src/producer.rs", "src/reader.rs", "tests/test.rs"]

@@ -1,0 +1,1 @@
+["core/bytecode/src/compiler.rs", "core/bytecode/src/instruction_reader.rs", "core/bytecode/src/loader.rs", "core/cli/src/repl.rs", "core/koto/src/koto.rs", "core/koto/tests/docs_examples.rs", "core/koto/tests/repl_mode_tests.rs", "core/runtime/tests/runtime_failures.rs", "core/runtime/tests/runtime_test_utils.rs", "core/runtime/tests/stdout.rs"]

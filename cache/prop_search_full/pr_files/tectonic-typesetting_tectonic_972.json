@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/bridge_core/src/lib.rs", "crates/bundles/src/cache.rs", "crates/bundles/src/dir.rs", "crates/engine_xdvipdfmx/src/lib.rs", "crates/xdv/examples/xdvdump.rs", "src/driver.rs", "src/io/memory.rs"]

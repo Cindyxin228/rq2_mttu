@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "completion/zsh/_hwatch", "img/ansi_color.gif", "img/interval.gif", "img/line_diff.png", "img/shell_function.gif", "img/tty.gif", "img/watch_diff.png", "img/word_diff.png", "man/README.md", "man/man.md", "src/ansi.rs", "src/app.rs", "src/common.rs", "src/exec.rs", "src/header.rs", "src/main.rs", "src/output.rs", "src/view.rs"]

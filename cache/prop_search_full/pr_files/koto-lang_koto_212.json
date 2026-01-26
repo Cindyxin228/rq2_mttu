@@ -1,0 +1,1 @@
+["justfile", "koto/tests/functions.koto", "src/bytecode/src/compiler.rs", "src/bytecode/src/instruction_reader.rs", "src/runtime/src/vm.rs", "src/runtime/tests/external_value_tests.rs", "src/runtime/tests/runtime_test_utils.rs", "src/runtime/tests/stdout.rs", "src/runtime/tests/vm_tests.rs"]

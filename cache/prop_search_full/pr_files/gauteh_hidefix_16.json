@@ -1,0 +1,1 @@
+[".envrc", "Cargo.lock", "Cargo.toml", "pyproject.toml", "python/hidefix/xarray.py", "src/idx/dataset/any.rs", "src/idx/dataset/dataset.rs", "src/idx/mod.rs", "src/lib.rs", "src/python/mod.rs", "tests/conftest.py", "tests/python/test_index.py", "tests/python/test_netcdf.py", "tests/python/test_slice.py", "tests/python/test_xarray_backend.py", "tests/python/test_xarray_large.py"]

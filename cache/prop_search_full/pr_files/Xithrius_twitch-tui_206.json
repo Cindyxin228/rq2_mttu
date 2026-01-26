@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "default-config.toml", "src/handlers/config.rs", "src/handlers/data.rs", "src/terminal.rs", "src/ui/chunks/chatting.rs", "src/ui/chunks/message_search.rs", "src/ui/chunks/mod.rs", "src/ui/mod.rs", "src/ui/popups/channels.rs", "src/ui/statics.rs", "src/utils/styles.rs"]

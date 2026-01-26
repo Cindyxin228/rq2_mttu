@@ -1,0 +1,1 @@
+["SUPPORT.md", "eng/scripts/Test-Packages.ps1", "sdk/core/azure_core_amqp/README.md", "sdk/core/azure_core_amqp/Test-Cleanup.ps1", "sdk/core/azure_core_amqp/Test-Setup.ps1", "sdk/core/azure_core_amqp/examples/connection.rs", "sdk/core/azure_core_amqp/src/connection.rs", "sdk/core/azure_core_amqp/src/fe2o3/connection.rs", "sdk/core/azure_core_amqp/src/lib.rs"]

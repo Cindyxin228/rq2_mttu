@@ -1,0 +1,1 @@
+[".circleci/bintray-publish.sh", ".circleci/config.yml", ".circleci/conjure-rust.pom", ".gitignore", "build.gradle", "dist/conjure-rust", "dist/conjure-rust.bat", "gradle.properties", "gradle/wrapper/.gitignore", "gradle/wrapper/gradle-wrapper.jar", "gradle/wrapper/gradle-wrapper.properties", "gradlew", "gradlew.bat", "settings.gradle", "versions.lock"]

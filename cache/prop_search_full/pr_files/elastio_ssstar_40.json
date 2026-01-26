@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "deny.toml", "rust-toolchain", "ssstar-cli/Cargo.toml", "ssstar-cli/src/main.rs", "ssstar-cli/src/progress.rs", "ssstar-testing/src/test_data.rs", "ssstar/Cargo.toml", "ssstar/src/config.rs", "ssstar/src/error.rs", "ssstar/src/extract.rs", "ssstar/src/objstore/mod.rs", "ssstar/src/objstore/s3.rs", "ssstar/tests/progress/mod.rs"]

@@ -1,0 +1,1 @@
+["crates/scouter_server/src/api/archive.rs", "crates/scouter_server/tests/api/archive_cloud.rs", "crates/scouter_sql/src/sql/traits/archive.rs", "py-scouter/pyproject.toml", "py-scouter/uv.lock"]

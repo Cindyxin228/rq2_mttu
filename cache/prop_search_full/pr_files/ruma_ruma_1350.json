@@ -1,0 +1,1 @@
+["crates/ruma-common/Cargo.toml", "crates/ruma-common/src/api/metadata.rs", "crates/ruma-common/tests/api/manual_endpoint_impl.rs"]

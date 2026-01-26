@@ -1,0 +1,1 @@
+["Cargo.toml", "Makefile", "README.md", "crates/extract/Cargo.toml", "crates/extract/src/generator.rs", "crates/support/Cargo.toml", "crates/support/src/lib.rs", "src/main.rs", "tests/integration_tests.rs", "tests/locales/v2.yml"]

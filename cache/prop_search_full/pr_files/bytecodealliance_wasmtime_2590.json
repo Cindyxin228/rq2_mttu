@@ -1,0 +1,1 @@
+["crates/environ/src/module.rs", "crates/environ/src/module_environ.rs", "crates/jit/src/instantiate.rs", "crates/wasmtime/src/instance.rs", "crates/wasmtime/src/module.rs", "tests/misc_testsuite/module-linking/alias-outer.wast", "tests/misc_testsuite/module-linking/alias.wast"]

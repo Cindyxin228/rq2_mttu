@@ -1,0 +1,1 @@
+[".github/workflows/build_linux.yml", ".github/workflows/build_windows.yml", ".github/workflows/clippy.yml", ".github/workflows/test.yml", ".travis.yml", "Cargo.toml", "README.md", "benches/byte_to_float.rs", "src/alg/blockhash.rs", "src/alg/mod.rs", "src/bin/hash_image.rs", "src/dct.rs", "src/lib.rs", "src/traits.rs"]

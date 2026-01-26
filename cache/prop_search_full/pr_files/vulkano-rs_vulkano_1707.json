@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/src/bin/interactive_fractal/app.rs", "examples/src/bin/interactive_fractal/fractal_compute_pipeline.rs", "examples/src/bin/interactive_fractal/main.rs", "examples/src/bin/interactive_fractal/pixels_draw_pipeline.rs", "examples/src/bin/interactive_fractal/place_over_frame.rs", "examples/src/bin/interactive_fractal/renderer.rs"]

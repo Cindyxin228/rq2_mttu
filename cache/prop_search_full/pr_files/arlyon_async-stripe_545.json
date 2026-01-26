@@ -1,0 +1,1 @@
+[".github/workflows/async-stripe.yml", ".github/workflows/openapi.yml", ".github/workflows/release.yml", "src/client/base/tokio.rs", "src/error.rs", "src/resources/balance_transaction_ext.rs", "src/resources/currency.rs", "tests/mock/mod.rs"]

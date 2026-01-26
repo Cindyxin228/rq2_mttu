@@ -1,0 +1,1 @@
+["doc/rustdocfx/go.mod", "doc/rustdocfx/go.sum", "doc/rustdocfx/main.go", "doc/rustdocfx/render_index.go", "doc/rustdocfx/render_index_test.go", "doc/rustdocfx/templates/index.json.mustache", "doc/rustdocfx/templates/indexEntry.mustache"]

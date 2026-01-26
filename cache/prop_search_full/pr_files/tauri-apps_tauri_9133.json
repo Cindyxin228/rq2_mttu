@@ -1,0 +1,1 @@
+[".changes/fix-remote-domain-url.md", "core/tauri-config-schema/schema.json", "core/tauri-utils/src/acl/capability.rs", "core/tauri-utils/src/acl/mod.rs", "core/tests/acl/fixtures/snapshots/acl_tests__tests__file-explorer-remote.snap", "examples/api/src-tauri/capabilities/run-app.json", "tooling/cli/schema.json"]

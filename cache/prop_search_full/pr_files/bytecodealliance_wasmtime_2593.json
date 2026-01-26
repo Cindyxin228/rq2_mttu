@@ -1,0 +1,1 @@
+["crates/c-api/include/wasmtime.h", "crates/c-api/src/config.rs", "crates/wasmtime/src/config.rs", "crates/wasmtime/src/instance.rs", "crates/wasmtime/src/store.rs", "tests/all/module_linking.rs"]

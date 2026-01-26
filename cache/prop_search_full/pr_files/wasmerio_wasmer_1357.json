@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Makefile", "src/bin/wasmer.rs", "src/commands.rs", "src/commands/cache.rs", "src/commands/kernel.rs", "src/commands/run.rs", "src/commands/selfupdate.rs", "src/commands/validate.rs", "src/common.rs", "src/lib.rs", "src/update.rs", "src/utils.rs", "src/webassembly.rs"]

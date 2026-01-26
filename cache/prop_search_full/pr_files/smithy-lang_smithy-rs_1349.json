@@ -1,0 +1,1 @@
+["tools/api-linter/Cargo.lock", "tools/ci-cdk/canary-runner/Cargo.lock", "tools/crate-hasher/Cargo.lock", "tools/publisher/Cargo.lock", "tools/smithy-rs-sync/Cargo.lock"]

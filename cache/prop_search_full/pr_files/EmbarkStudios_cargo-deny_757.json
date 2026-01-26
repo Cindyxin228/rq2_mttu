@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/advisories/cfg.rs", "src/advisories/diags.rs", "src/bans.rs", "src/bans/cfg.rs", "src/bans/diags.rs", "src/cargo-deny/common/cfg.rs", "src/diag.rs", "src/diag/general.rs", "src/licenses.rs", "src/licenses/cfg.rs", "src/licenses/diags.rs", "src/licenses/gather.rs", "src/sources/cfg.rs", "src/sources/diags.rs"]

@@ -1,0 +1,1 @@
+["benchmark.sh", "ci/build.bash", "ci/set_rust_version.bash", "ci/test.bash"]

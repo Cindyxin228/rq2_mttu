@@ -1,0 +1,1 @@
+[".github/workflows/publish-template.yml", ".github/workflows/publish.yml", ".github/workflows/test-burn-dataset.yml", ".github/workflows/test-burn-ndarray.yml", ".github/workflows/test-burn-tch.yml", ".github/workflows/test-burn-tensor.yml", ".github/workflows/test-burn.yml", ".github/workflows/test-template.yml", ".github/workflows/test.yml", "ci/publish.sh"]

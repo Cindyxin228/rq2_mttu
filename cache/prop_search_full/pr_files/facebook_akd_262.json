@@ -1,0 +1,1 @@
+["README.md", "akd/Cargo.toml", "akd/src/lib.rs", "akd_client/src/lib.rs", "akd_local_auditor/src/storage/dynamodb/mod.rs", "akd_local_auditor/src/storage/s3/mod.rs"]

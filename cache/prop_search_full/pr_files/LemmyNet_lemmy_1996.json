@@ -1,0 +1,1 @@
+["ansible/VERSION", "ansible/templates/docker-compose.yml", "docker/dev/docker-compose.yml", "docker/federation/docker-compose.yml", "docker/pleroma/docker-compose.yml", "docker/prod/docker-compose.yml"]

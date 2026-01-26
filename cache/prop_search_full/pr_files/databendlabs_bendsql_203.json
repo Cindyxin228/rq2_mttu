@@ -1,0 +1,1 @@
+["Cargo.toml", "bindings/nodejs/Cargo.toml", "bindings/python/Cargo.toml", "cli/Cargo.toml", "core/Cargo.toml", "driver/Cargo.toml", "sql/Cargo.toml"]

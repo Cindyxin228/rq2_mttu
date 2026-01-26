@@ -1,0 +1,1 @@
+["src/api/config/encoder.rs", "src/api/config/mod.rs", "src/api/test.rs", "src/bin/common.rs", "src/encoder.rs", "src/fuzzing.rs", "src/header.rs", "src/lib.rs", "src/test_encode_decode/mod.rs"]

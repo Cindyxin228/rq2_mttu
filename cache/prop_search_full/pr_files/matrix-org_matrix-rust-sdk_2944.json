@@ -1,0 +1,1 @@
+["crates/matrix-sdk-base/src/media.rs", "crates/matrix-sdk-base/src/store/integration_tests.rs", "crates/matrix-sdk-base/src/store/memory_store.rs", "crates/matrix-sdk-common/src/ring_buffer.rs", "crates/matrix-sdk/src/media.rs", "crates/matrix-sdk/tests/integration/client.rs"]

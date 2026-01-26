@@ -1,0 +1,1 @@
+["src/auth.rs", "src/job.rs", "src/lib.rs", "src/model/data_format_options.rs", "src/model/get_query_results_parameters.rs", "src/model/get_query_results_response.rs", "src/model/mod.rs", "src/model/query_response.rs"]

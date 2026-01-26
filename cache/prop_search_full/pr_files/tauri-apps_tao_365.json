@@ -1,0 +1,1 @@
+["examples/system_tray.rs", "src/menu.rs", "src/platform_impl/android/mod.rs", "src/platform_impl/ios/mod.rs", "src/platform_impl/linux/menu.rs", "src/platform_impl/macos/menu.rs", "src/platform_impl/windows/menu.rs"]

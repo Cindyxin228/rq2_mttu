@@ -1,0 +1,1 @@
+["src/ledger/app_bitcoin.rs", "src/ledger/app_ethereum.rs", "src/ledger/manager.rs", "src/ledger/traits.rs", "tests/ledger_bitcoin.rs", "tests/ledger_ethereum.rs", "tests/speculos_bitcoin.rs", "tests/speculos_ethereum.rs"]

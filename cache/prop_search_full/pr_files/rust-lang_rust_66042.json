@@ -1,0 +1,1 @@
+["src/librustc_typeck/astconv.rs", "src/librustc_typeck/check/mod.rs", "src/librustc_typeck/collect.rs", "src/test/ui/associated-types/associated-types-in-ambiguous-context.rs", "src/test/ui/associated-types/associated-types-in-ambiguous-context.stderr"]

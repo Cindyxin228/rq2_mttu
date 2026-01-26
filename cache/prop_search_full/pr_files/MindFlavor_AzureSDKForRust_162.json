@@ -1,0 +1,1 @@
+["azure_sdk_auth_aad/Cargo.toml", "azure_sdk_auth_aad/examples/interactive.rs", "azure_sdk_auth_aad/examples/non_interactive.rs", "azure_sdk_auth_aad/src/lib.rs", "azure_sdk_auth_aad/src/login_response.rs", "azure_sdk_core/Cargo.toml", "azure_sdk_core/src/errors.rs", "azure_sdk_storage_core/Cargo.toml", "azure_sdk_storage_core/src/rest_client.rs", "rustfmt.toml"]

@@ -1,0 +1,1 @@
+["registry/Cargo.toml", "registry/tests/storage/s3.rs", "src/command.rs", "src/lock.rs", "src/package/compressed.rs"]

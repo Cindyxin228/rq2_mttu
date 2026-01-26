@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "rust-toolchain", "src/composed/message/parser.rs", "src/composed/signed_key/key_parser_macros.rs", "src/composed/signed_key/parse.rs", "src/composed/signed_key/shared.rs", "src/lib.rs", "src/packet/public_key_parser.rs", "src/packet/secret_key_parser.rs", "src/packet/single.rs", "src/util.rs"]

@@ -1,0 +1,1 @@
+["src/change_stream/mod.rs", "src/change_stream/options.rs", "src/client/mod.rs", "src/client/options/mod.rs", "src/coll/mod.rs", "src/db/mod.rs", "src/operation/mod.rs", "src/operation/watch/mod.rs", "src/operation/watch/test.rs", "src/test/client.rs", "src/test/coll.rs", "src/test/db.rs"]

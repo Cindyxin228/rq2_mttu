@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command.rs", "src/interactive.rs", "src/labels/label.rs", "src/projects/list.rs", "src/tasks/add.rs", "src/tasks/close.rs", "src/tasks/edit.rs", "src/tasks/filter.rs", "src/tasks/list.rs", "src/tasks/priority.rs"]

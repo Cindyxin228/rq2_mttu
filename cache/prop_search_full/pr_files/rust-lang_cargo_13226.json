@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/rustfix/Cargo.toml", "crates/rustfix/src/lib.rs", "crates/rustfix/tests/everything/use-insert.fixed.rs", "crates/rustfix/tests/everything/use-insert.json", "crates/rustfix/tests/everything/use-insert.rs", "crates/rustfix/tests/parse_and_replace.rs"]

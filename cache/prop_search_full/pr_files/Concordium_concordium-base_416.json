@@ -1,0 +1,1 @@
+["rust-src/concordium_base/src/common/serialize.rs", "rust-src/concordium_base/src/id/account_holder.rs", "rust-src/concordium_base/src/id/id_prover.rs", "rust-src/concordium_base/src/id/id_verifier.rs", "rust-src/concordium_base/src/id/types.rs", "rust-src/concordium_base/src/web3id/did.rs", "rust-src/concordium_base/src/web3id/mod.rs", "rust-src/key_derivation/src/lib.rs"]

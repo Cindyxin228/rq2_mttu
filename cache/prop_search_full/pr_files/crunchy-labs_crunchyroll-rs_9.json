@@ -1,0 +1,1 @@
+["examples/search-series.rs", "src/categories.rs", "src/crunchyroll.rs", "src/feed.rs", "src/list/watchlist.rs", "src/media/media.rs", "src/search.rs", "tests/test_categories.rs", "tests/test_episode.rs", "tests/test_movie_listing.rs", "tests/test_season.rs", "tests/test_series.rs", "tests/test_watch_history.rs"]

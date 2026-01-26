@@ -1,0 +1,1 @@
+["rpc/README.md", "rpc/src/module/pool.rs", "rpc/src/tests/examples.rs", "tx-pool/src/component/entry.rs", "util/jsonrpc-types/src/pool.rs", "util/launcher/src/shared_builder.rs", "util/types/src/core/service.rs", "util/types/src/core/tx_pool.rs"]

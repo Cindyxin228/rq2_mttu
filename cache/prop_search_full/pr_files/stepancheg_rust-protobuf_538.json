@@ -1,0 +1,1 @@
+["perftest/bytes/Cargo.toml", "protobuf-codegen-pure-test/Cargo.toml", "protobuf-fuzz/Cargo.toml", "protobuf-test-common/Cargo.toml", "protobuf-test/Cargo.toml", "protobuf/Cargo.toml", "protobuf/src/buf_read_iter.rs"]

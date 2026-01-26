@@ -1,0 +1,1 @@
+["arrow/src/compute/kernels/arithmetic.rs", "arrow/src/compute/kernels/boolean.rs", "arrow/src/compute/kernels/comparison.rs", "arrow/src/compute/kernels/concat_elements.rs", "arrow/src/compute/util.rs"]

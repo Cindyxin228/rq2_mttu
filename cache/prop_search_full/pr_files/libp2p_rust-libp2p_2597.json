@@ -1,0 +1,1 @@
+["core/Cargo.toml", "protocols/autonat/Cargo.toml", "protocols/dcutr/Cargo.toml", "protocols/floodsub/Cargo.toml", "protocols/gossipsub/Cargo.toml", "protocols/identify/Cargo.toml", "protocols/kad/Cargo.toml", "protocols/relay/Cargo.toml", "protocols/rendezvous/Cargo.toml", "transports/noise/Cargo.toml", "transports/plaintext/Cargo.toml"]

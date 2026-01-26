@@ -1,0 +1,1 @@
+["src/indexer/merger.rs", "src/indexer/segment_writer.rs", "src/store/mod.rs", "src/store/reader.rs"]

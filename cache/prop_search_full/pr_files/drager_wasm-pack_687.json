@@ -1,0 +1,1 @@
+["src/bindgen.rs", "src/command/build.rs", "src/command/test.rs", "src/generate.rs", "src/install/mod.rs", "src/install/tool.rs", "src/wasm_opt.rs", "tests/all/download.rs", "tests/all/utils/fixture.rs"]

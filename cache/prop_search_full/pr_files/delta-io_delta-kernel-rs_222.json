@@ -1,0 +1,1 @@
+["Cargo.toml", "acceptance/Cargo.toml", "kernel/Cargo.toml", "kernel/src/actions/mod.rs", "kernel/src/actions/schemas.rs", "kernel/src/engine/arrow_data.rs", "kernel/src/features/column_mapping.rs", "kernel/src/features/mod.rs", "kernel/src/lib.rs", "kernel/src/scan/mod.rs", "kernel/src/scan/state.rs", "kernel/src/schema.rs", "kernel/src/snapshot.rs"]

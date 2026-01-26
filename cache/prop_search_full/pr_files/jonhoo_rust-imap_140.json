@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client.rs", "src/error.rs", "src/extensions/idle.rs", "src/lib.rs", "tests/imap_integration.rs"]

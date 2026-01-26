@@ -1,0 +1,1 @@
+["Cargo.lock", "finalfrontier-utils/Cargo.toml", "finalfrontier-utils/src/bin/ff-train-deps.rs", "finalfrontier-utils/src/bin/ff-train-skipgram.rs", "finalfrontier-utils/src/lib.rs", "finalfrontier-utils/src/util.rs", "man/ff-train-deps.1.md", "man/ff-train-skipgram.1.md"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/gum/fast_interceptor/Cargo.toml", "examples/gum/memory_access_monitor/Cargo.toml", "examples/gum/memory_access_monitor/src/main.rs", "frida-gum/Cargo.toml", "frida-gum/src/error.rs", "frida-gum/src/lib.rs", "frida-gum/src/memory_access_monitor.rs"]

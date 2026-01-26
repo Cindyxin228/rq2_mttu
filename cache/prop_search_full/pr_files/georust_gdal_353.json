@@ -1,0 +1,1 @@
+["examples/read_write_ogr_datetime.rs", "gdal-sys/build.rs", "src/config.rs", "src/raster/rasterband.rs", "src/test_utils.rs", "src/vector/feature.rs", "src/vector/geometry.rs"]

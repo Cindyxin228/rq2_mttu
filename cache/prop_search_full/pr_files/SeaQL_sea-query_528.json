@@ -1,0 +1,1 @@
+["src/expr.rs", "src/lib.rs", "src/query/case.rs", "src/query/select.rs", "src/query/with.rs", "tests/mysql/query.rs", "tests/postgres/query.rs", "tests/sqlite/query.rs"]

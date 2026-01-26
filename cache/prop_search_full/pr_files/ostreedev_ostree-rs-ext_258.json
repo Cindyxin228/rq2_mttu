@@ -1,0 +1,1 @@
+["lib/Cargo.toml", "lib/src/fixture.rs", "lib/src/fixtures/exampleos-v1.tar.zst", "lib/src/fixtures/exampleos.tar.zst", "lib/src/fixtures/ostree-gpg-test-home.tar.gz", "lib/src/integrationtest.rs", "lib/src/lib.rs", "lib/tests/it/main.rs"]

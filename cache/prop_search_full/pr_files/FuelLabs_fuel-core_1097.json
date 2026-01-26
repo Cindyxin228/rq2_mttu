@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bin/fuel-core/src/cli/snapshot.rs", "crates/fuel-core/Cargo.toml", "crates/fuel-core/src/schema.rs", "crates/fuel-core/src/service/sub_services.rs", "deployment/Dockerfile", "tests/Cargo.toml", "xtask/Cargo.toml"]

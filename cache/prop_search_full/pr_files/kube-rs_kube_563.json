@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/workflows/ci.yml", "README.md", "examples/crd_derive.rs", "tests/deployment.yaml"]

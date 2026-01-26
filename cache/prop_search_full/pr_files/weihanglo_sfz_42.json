@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cli/args.rs", "src/extensions.rs", "src/http/conditional_requests.rs", "src/http/content_encoding.rs", "src/http/range_requests.rs", "src/main.rs", "src/server/mod.rs", "src/server/res.rs", "tests/.hidden.html", "tests/symlink_dir", "tests/symlink_file.txt"]

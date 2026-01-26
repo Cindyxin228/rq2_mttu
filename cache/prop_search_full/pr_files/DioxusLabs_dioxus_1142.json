@@ -1,0 +1,1 @@
+["packages/core-macro/Cargo.toml", "packages/core-macro/tests/rsx.rs", "packages/core-macro/tests/rsx/trailing-comma-0.rs", "packages/core-macro/tests/rsx/trailing-comma-0.stderr", "packages/rsx/src/element.rs"]

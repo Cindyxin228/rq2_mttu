@@ -1,0 +1,1 @@
+["completions/bash", "completions/fish", "completions/zsh", "man/paru.8", "man/paru.conf.5", "src/command_line.rs", "src/config.rs", "src/help.rs", "src/search.rs"]

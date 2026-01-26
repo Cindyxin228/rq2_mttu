@@ -1,0 +1,1 @@
+["admin/src/assigner.rs", "admin/src/web.rs", "cargo-audit/src/auditor.rs", "platforms/src/platform/req.rs", "rustsec/src/advisory.rs", "rustsec/src/advisory/id.rs", "rustsec/src/advisory/linter.rs", "rustsec/src/database.rs", "rustsec/src/database/query.rs", "rustsec/src/osv/ranges_for_advisory.rs", "rustsec/tests/integration.rs"]

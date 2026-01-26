@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs_src/how-to_guides/propagate-metrics-hypervisor-to-vm_qemu-kvm.md", "src/exporters/mod.rs", "src/exporters/qemu.rs", "src/exporters/warpten.rs", "src/lib.rs", "src/sensors/mod.rs", "tests/integration.rs"]

@@ -1,0 +1,1 @@
+["crates/assists/src/handlers/merge_imports.rs", "crates/assists/src/handlers/replace_qualified_name_with_use.rs", "crates/assists/src/utils/insert_use.rs"]

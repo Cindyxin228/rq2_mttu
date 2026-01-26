@@ -1,0 +1,1 @@
+["crates/nu-command/src/default_context.rs", "crates/nu-command/src/network/url/join.rs", "crates/nu-command/src/network/url/mod.rs", "crates/nu-command/tests/commands/url/join.rs", "crates/nu-command/tests/commands/url/mod.rs"]

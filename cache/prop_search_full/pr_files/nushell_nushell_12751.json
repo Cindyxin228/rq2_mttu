@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/nu-command/src/date/utils.rs", "crates/nu-command/tests/commands/table.rs", "crates/nu-json/src/de.rs", "crates/nu-std/CONTRIBUTING.md", "tests/shell/pipeline/commands/external.rs", "typos.toml"]

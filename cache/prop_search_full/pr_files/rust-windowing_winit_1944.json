@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/platform_impl/android/mod.rs", "src/platform_impl/ios/window.rs", "src/platform_impl/linux/mod.rs", "src/platform_impl/linux/x11/ffi.rs", "src/platform_impl/linux/x11/window.rs", "src/platform_impl/macos/window.rs", "src/platform_impl/web/window.rs", "src/platform_impl/windows/window.rs", "src/window.rs"]

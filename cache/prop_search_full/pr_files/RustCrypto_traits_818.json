@@ -1,0 +1,1 @@
+[".github/workflows/elliptic-curve.yml", "elliptic-curve/Cargo.lock", "elliptic-curve/src/hex.rs", "elliptic-curve/src/lib.rs", "elliptic-curve/src/public_key.rs", "elliptic-curve/src/scalar/core.rs", "elliptic-curve/src/scalar/non_zero.rs"]

@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "codegen/tools/adc_channel.py", "codegen/tools/adc_channel.sh", "src/adc/channel.rs", "src/timer.rs", "testsuite/Cargo.toml", "testsuite/tests/timer.rs"]

@@ -1,0 +1,1 @@
+["cli/lsp/analysis.rs", "cli/tests/integration/lsp_tests.rs", "cli/tests/testdata/lsp/code_action_ignore_lint_response.json", "cli/tests/testdata/lsp/code_action_update_ignore_lint_params.json", "cli/tests/testdata/lsp/code_action_update_ignore_lint_response.json"]

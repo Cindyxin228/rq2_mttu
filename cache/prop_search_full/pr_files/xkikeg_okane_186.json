@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli/Cargo.toml", "core/Cargo.toml", "core/src/parse.rs", "core/src/parse/posting.rs", "core/src/parse/transaction.rs", "core/src/report/book_keeping.rs", "core/src/report/error.rs", "core/src/syntax/tracked.rs", "core/testdata/error/undeducible.ledger"]

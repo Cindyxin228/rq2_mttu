@@ -1,0 +1,1 @@
+["mining/src/manager.rs", "mining/src/manager_tests.rs", "mining/src/mempool/mod.rs", "mining/src/model/mod.rs", "mining/src/model/tx_query.rs", "protocol/flows/src/v5/txrelay/flow.rs", "rpc/core/src/error.rs", "rpc/service/src/service.rs"]

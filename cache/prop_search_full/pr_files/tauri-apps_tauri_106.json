@@ -1,0 +1,1 @@
+["cli/tauri-cli/Cargo.toml", "cli/tauri-cli/src/bundle/deb_bundle.rs", "cli/tauri-cli/src/bundle/ios_bundle.rs", "cli/tauri-cli/src/bundle/osx_bundle.rs", "cli/tauri-cli/src/bundle/wix.rs"]

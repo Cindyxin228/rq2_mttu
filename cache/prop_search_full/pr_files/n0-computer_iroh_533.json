@@ -1,0 +1,1 @@
+["iroh-p2p/Cargo.toml", "iroh-p2p/src/config.rs", "iroh-p2p/src/node.rs", "iroh-p2p/src/swarm.rs", "iroh-rpc-types/src/addr.rs", "iroh-share/src/p2p_node.rs"]

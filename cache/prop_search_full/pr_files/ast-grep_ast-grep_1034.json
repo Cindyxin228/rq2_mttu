@@ -1,0 +1,1 @@
+["crates/lsp/Cargo.toml", "crates/lsp/src/lib.rs", "crates/lsp/tests/basic.rs"]

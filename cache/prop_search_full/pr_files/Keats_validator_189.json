@@ -1,0 +1,1 @@
+["validator_derive/src/lib.rs", "validator_derive_tests/tests/compile-fail/unsupported_field_type.rs", "validator_derive_tests/tests/compile-fail/unsupported_field_type.stderr", "validator_derive_tests/tests/run-pass/unsupported_field_type.rs", "validator_derive_tests/tests/unsupported_array.rs"]

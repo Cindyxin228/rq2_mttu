@@ -1,0 +1,1 @@
+["diesel/Cargo.toml", "diesel_bench/Cargo.toml", "diesel_bench/benches/diesel_async_benches.rs", "diesel_bench/benches/rusqlite_benches.rs", "diesel_bench/benches/sqlx_benches.rs", "diesel_cli/Cargo.toml", "diesel_tests/Cargo.toml"]

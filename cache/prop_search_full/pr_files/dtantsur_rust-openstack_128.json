@@ -1,0 +1,1 @@
+[".github/workflows/functional.yaml", ".github/workflows/functional.yml", ".github/workflows/main.yml", "examples/list-objects.rs", "playbooks/rust-openstack-acceptance/run.yaml", "playbooks/rust-openstack-acceptance/test.yaml", "src/lib.rs", "src/object_storage/objects.rs", "tests/integration-create-delete-server.rs", "tests/integration-network-crud.rs", "tools/collect-logs.sh"]

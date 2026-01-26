@@ -1,0 +1,1 @@
+[".github/workflows/ed25519-dalek.yml", ".github/workflows/workspace.yml", "curve25519-dalek-derive/README.md", "curve25519-dalek/src/backend/vector/avx2/field.rs", "curve25519-dalek/src/backend/vector/ifma/field.rs", "curve25519-dalek/src/backend/vector/packed_simd.rs", "ed25519-dalek/Cargo.toml"]

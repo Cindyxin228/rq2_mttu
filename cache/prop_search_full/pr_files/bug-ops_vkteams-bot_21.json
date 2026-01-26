@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "crates/vkteams-bot/examples/config/bot.toml", "crates/vkteams-bot/examples/ratelimit_background.rs", "crates/vkteams-bot/src/bot/mod.rs", "crates/vkteams-bot/src/bot/net.rs", "crates/vkteams-bot/src/config/types.rs"]

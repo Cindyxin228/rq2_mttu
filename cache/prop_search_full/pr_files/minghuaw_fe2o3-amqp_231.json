@@ -1,0 +1,1 @@
+["examples/event_hubs/Cargo.toml", "examples/event_hubs/src/bin/simple_sender.rs", "fe2o3-amqp/src/frames/amqp.rs", "fe2o3-amqp/src/frames/sasl.rs", "fe2o3-amqp/src/link/mod.rs", "fe2o3-amqp/src/link/receiver.rs", "fe2o3-amqp/src/link/receiver_link.rs", "fe2o3-amqp/src/link/sender.rs", "fe2o3-amqp/src/sasl_profile/mod.rs", "fe2o3-amqp/src/transport/mod.rs"]

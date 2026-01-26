@@ -1,0 +1,1 @@
+["cargo-shuttle/src/lib.rs", "deployer/src/deployment/queue.rs", "service/src/loader.rs", "service/tests/integration/build_crate.rs"]

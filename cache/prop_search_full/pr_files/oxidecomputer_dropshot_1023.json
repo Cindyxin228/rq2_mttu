@@ -1,0 +1,1 @@
+["dropshot/tests/fail/bad_channel13.rs", "dropshot/tests/fail/bad_channel13.stderr", "dropshot/tests/fail/bad_endpoint13.rs", "dropshot/tests/fail/bad_endpoint13.stderr", "dropshot_endpoint/src/endpoint.rs", "dropshot_endpoint/tests/output/endpoint_with_empty_where_clause.rs"]

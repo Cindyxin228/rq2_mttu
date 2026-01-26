@@ -1,0 +1,1 @@
+["openrr-client/tests/test_robot_client.rs", "openrr-planner/src/collision/self_collision_checker.rs", "openrr-planner/src/errors.rs", "openrr-planner/src/funcs.rs", "openrr-planner/src/planner/joint_path_planner.rs"]

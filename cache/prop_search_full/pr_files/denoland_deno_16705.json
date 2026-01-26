@@ -1,0 +1,1 @@
+["cli/file_fetcher.rs", "cli/http_cache.rs", "cli/http_util.rs", "cli/lsp/language_server.rs", "cli/lsp/registries.rs", "cli/npm/cache.rs", "cli/npm/registry.rs", "cli/proc_state.rs"]

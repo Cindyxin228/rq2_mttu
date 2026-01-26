@@ -1,0 +1,1 @@
+["Cargo.lock", "chain/jsonrpc/client/Cargo.toml", "chain/jsonrpc/fuzz/Cargo.toml", "chain/jsonrpc/jsonrpc-tests/Cargo.toml", "chain/rosetta-rpc/Cargo.toml", "chain/telemetry/Cargo.toml", "nearcore/Cargo.toml"]

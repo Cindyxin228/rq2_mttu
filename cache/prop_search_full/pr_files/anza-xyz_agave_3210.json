@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "programs/sbf/Cargo.lock", "programs/sbf/Cargo.toml", "sdk/cargo-build-sbf/tests/crates/fail/Cargo.toml", "sdk/cargo-build-sbf/tests/crates/noop/Cargo.toml", "svm/tests/example-programs/clock-sysvar/Cargo.toml", "svm/tests/example-programs/hello-solana/Cargo.toml", "svm/tests/example-programs/simple-transfer/Cargo.toml"]

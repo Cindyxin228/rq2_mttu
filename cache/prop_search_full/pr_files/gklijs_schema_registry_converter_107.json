@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/async_impl/avro.rs", "src/blocking/avro.rs", "src/proto_resolver.rs", "tests/blocking/kafka_consumer.rs", "tests/blocking/kafka_producer.rs"]

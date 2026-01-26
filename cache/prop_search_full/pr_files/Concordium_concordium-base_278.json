@@ -1,0 +1,1 @@
+["concordium-base.cabal", "haskell-bins/genesis/Genesis.hs", "haskell-src/Concordium/Constants.hs", "haskell-src/Concordium/Genesis/Data.hs", "haskell-src/Concordium/Genesis/Data/P6.hs", "haskell-src/Concordium/Types/ProtocolVersion.hs"]

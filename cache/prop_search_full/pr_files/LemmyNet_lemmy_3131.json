@@ -1,0 +1,1 @@
+["crates/apub/src/activities/create_or_update/comment.rs", "crates/apub/src/activities/create_or_update/post.rs", "crates/db_schema/src/aggregates/comment_aggregates.rs", "crates/db_schema/src/aggregates/post_aggregates.rs"]

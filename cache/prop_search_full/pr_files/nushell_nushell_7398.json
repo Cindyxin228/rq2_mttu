@@ -1,0 +1,1 @@
+["crates/nu-cli/src/completions/directory_completions.rs", "crates/nu-cli/src/completions/file_completions.rs", "crates/nu-cli/tests/completions.rs", "crates/nu-cli/tests/support/completions_helpers.rs", "tests/fixtures/quoted_completions/te st.txt", "tests/fixtures/quoted_completions/te#st.txt", "tests/fixtures/quoted_completions/te'st.txt"]

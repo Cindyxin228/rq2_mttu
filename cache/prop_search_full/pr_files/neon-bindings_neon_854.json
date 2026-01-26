@@ -1,0 +1,1 @@
+["crates/neon-runtime/src/napi/bindings/functions.rs", "crates/neon-runtime/src/napi/no_panic.rs", "crates/neon-runtime/src/napi/tsfn.rs", "test/napi/lib/threads.js"]

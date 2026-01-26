@@ -1,0 +1,1 @@
+["docs/ENDPOINTS.md", "examples/src/main.rs", "examples/src/spaces_examples.rs", "src/endpoints/mod.rs", "src/endpoints/space/delete.rs", "src/endpoints/space/get.rs", "src/endpoints/space/mod.rs", "src/endpoints/space/patch.rs", "src/endpoints/space/post.rs", "src/endpoints/space/put.rs"]

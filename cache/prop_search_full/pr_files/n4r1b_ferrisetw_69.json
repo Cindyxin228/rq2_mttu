@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/dns.rs", "examples/kernel_trace.rs", "examples/multiple_providers.rs", "examples/user_trace.rs", "src/lib.rs", "src/native/etw_types.rs", "src/native/etw_types/event_record.rs", "src/native/evntrace.rs", "src/native/pla.rs", "src/native/tdh.rs", "src/provider.rs", "src/trace.rs", "tests/dns.rs", "tests/kernel_trace.rs"]

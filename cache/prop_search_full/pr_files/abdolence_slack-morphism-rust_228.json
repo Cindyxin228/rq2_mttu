@@ -1,0 +1,1 @@
+["src/api/apps.rs", "src/api/fixtures/slack_api_apps_manifest_create_request.json", "src/models/blocks/fixtures/slack_home_view.json", "src/models/blocks/view.rs", "src/models/common/mod.rs"]

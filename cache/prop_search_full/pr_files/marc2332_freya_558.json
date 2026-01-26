@@ -1,0 +1,1 @@
+["crates/components/src/loader.rs", "crates/dom/src/dom_adapter.rs", "crates/dom/src/mutations_writer.rs", "crates/native-core/src/node.rs", "crates/native-core/src/node_ref.rs", "crates/state/src/layer.rs", "crates/state/src/viewport.rs"]

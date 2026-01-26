@@ -1,0 +1,1 @@
+["src/cargo/ops/cargo_new.rs", "src/cargo/util/toml/targets.rs", "tests/testsuite/build.rs", "tests/testsuite/init.rs", "tests/testsuite/new.rs", "tests/testsuite/workspaces.rs"]

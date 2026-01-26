@@ -1,0 +1,1 @@
+["protobuf-codegen-pure/src/convert.rs", "protobuf-codegen-pure/src/model.rs", "protobuf-codegen-pure/src/parser.rs", "protobuf-codegen/src/protobuf_name.rs", "protobuf-test/src/common/v2/test_reflect_no_package.rs", "protobuf-test/src/common/v2/test_reflect_no_package_pb.proto"]

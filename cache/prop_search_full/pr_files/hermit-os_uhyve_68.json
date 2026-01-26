@@ -1,0 +1,1 @@
+["codecov.yml", "src/bin/uhyve.rs", "src/linux/uhyve.rs", "src/linux/virtio.rs", "src/macos/vcpu.rs", "src/utils.rs", "src/vm.rs"]

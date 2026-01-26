@@ -1,0 +1,1 @@
+["script/sugar-cli-test.sh", "src/config/data.rs", "src/create_config/process.rs", "src/upload/methods/mod.rs", "src/upload/methods/pinata.rs", "src/upload/uploader.rs"]

@@ -1,0 +1,1 @@
+["datafusion/Cargo.toml", "datafusion/src/lib.rs", "datafusion/src/row/mod.rs", "datafusion/src/row/reader.rs", "datafusion/src/row/writer.rs"]

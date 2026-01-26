@@ -1,0 +1,1 @@
+["cassandra-protocol/Cargo.toml", "cassandra-protocol/src/compression.rs", "cdrs-tokio/Cargo.toml", "cdrs-tokio/src/cluster/config_rustls.rs", "cdrs-tokio/src/cluster/rustls_connection_manager.rs", "cdrs-tokio/src/transport.rs"]

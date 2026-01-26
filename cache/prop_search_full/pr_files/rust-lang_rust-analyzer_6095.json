@@ -1,0 +1,1 @@
+["crates/ide/src/lib.rs", "crates/ide/src/status.rs", "crates/ide_db/src/change.rs", "crates/ide_db/src/lib.rs", "crates/ide_db/src/wasm_shims.rs", "crates/rust-analyzer/src/main_loop.rs"]

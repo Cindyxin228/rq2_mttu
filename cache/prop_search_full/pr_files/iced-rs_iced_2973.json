@@ -1,0 +1,1 @@
+["core/src/renderer/null.rs", "core/src/text.rs", "examples/gallery/src/main.rs", "examples/scrollable/src/main.rs", "examples/styling/src/main.rs", "examples/tour/src/main.rs", "graphics/fonts/Iced-Icons.ttf", "renderer/src/fallback.rs", "tiny_skia/src/lib.rs", "wgpu/src/lib.rs", "widget/src/helpers.rs", "widget/src/overlay/menu.rs", "widget/src/scrollable.rs"]

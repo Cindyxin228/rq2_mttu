@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/containerd-shim-wasm/Cargo.toml", "crates/containerd-shim-wasm/src/sandbox/shim/otel.rs"]

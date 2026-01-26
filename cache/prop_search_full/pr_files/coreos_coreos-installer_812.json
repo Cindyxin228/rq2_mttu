@@ -1,0 +1,1 @@
+["src/live/mod.rs", "src/source.rs", "src/util.rs", "tests/images/customize.sh", "tests/images/dev-initrd.sh", "tests/images/iso-ignition.sh", "tests/images/iso-kargs.sh", "tests/images/iso-network.sh", "tests/images/unsupported.sh"]

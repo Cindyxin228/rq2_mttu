@@ -1,0 +1,1 @@
+["esp-hal/ld/riscv/hal-defaults.x", "esp-hal/ld/sections/rwdata.x"]

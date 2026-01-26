@@ -1,0 +1,1 @@
+["opentelemetry-proto/src/proto/tonic/opentelemetry.proto.collector.logs.v1.rs", "opentelemetry-proto/src/proto/tonic/opentelemetry.proto.collector.metrics.v1.rs", "opentelemetry-proto/src/proto/tonic/opentelemetry.proto.collector.trace.v1.rs", "opentelemetry-stdout/Cargo.toml", "opentelemetry-stdout/src/lib.rs"]

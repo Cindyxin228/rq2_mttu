@@ -1,0 +1,1 @@
+["rustfmt.toml", "src/email/email_provider.rs", "src/email/mail_cmd.rs", "src/email/mod.rs", "src/email/sendgrid.rs", "src/main.rs", "test-docker/Dockerfile", "test-docker/build.sh"]

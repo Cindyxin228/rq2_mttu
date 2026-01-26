@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "codegen/ui_tests/rhai_fn_non_clonable_return.stderr", "codegen/ui_tests/rhai_mod_non_clonable_return.stderr", "src/lib.rs", "src/packages/arithmetic.rs", "src/scope.rs"]

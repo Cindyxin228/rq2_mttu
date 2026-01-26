@@ -1,0 +1,1 @@
+["src/command/bump/mod.rs", "src/conventional/bump.rs", "src/conventional/changelog/release.rs", "src/conventional/changelog/serde.rs", "src/conventional/commit.rs", "src/log/filter.rs", "src/settings/mod.rs"]

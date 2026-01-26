@@ -1,0 +1,1 @@
+["pyo3-macros-backend/src/method.rs", "pyo3-macros-backend/src/pymethod.rs", "pyo3-macros-backend/src/quotes.rs", "src/impl_.rs", "src/impl_/coroutine.rs", "src/impl_/wrap.rs", "tests/test_compile_error.rs"]

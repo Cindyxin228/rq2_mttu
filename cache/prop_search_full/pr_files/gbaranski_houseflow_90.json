@@ -1,0 +1,1 @@
+["devices/watermixer-esp8266/Dockerfile", "devices/watermixer-esp8266/platformio.ini", "devices/watermixer-esp8266/src/config.example.h", "devices/watermixer-esp8266/src/main.cpp", "devices/watermixer-esp8266/src/memoryStorage.h", "devices/watermixer-esp8266/src/mqtt.h", "devices/watermixer-esp8266/src/remoteUpdate.h"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "book/src/schema/schemas_and_mutations.md", "juniper/CHANGELOG.md", "juniper/Cargo.toml", "juniper/src/schema/model.rs", "juniper/src/schema/translate/graphql_parser.rs", "juniper/src/schema/translate/mod.rs", "juniper/src/tests/fixtures/starwars/schema_language.rs", "juniper/src/tests/fixtures/starwars/starwars.graphql"]

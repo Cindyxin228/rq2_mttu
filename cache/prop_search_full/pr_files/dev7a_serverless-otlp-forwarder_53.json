@@ -1,0 +1,1 @@
+[".github/workflows/publish-rust-lambda-otel-lite.yml", ".github/workflows/publish-rust-otlp-sigv4-client.yml", ".github/workflows/publish-rust-otlp-stdout-client.yml"]

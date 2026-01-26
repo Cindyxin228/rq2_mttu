@@ -1,0 +1,1 @@
+["scylla/src/network/connection.rs", "scylla/src/statement/prepared.rs", "scylla/tests/integration/statements/prepared.rs"]

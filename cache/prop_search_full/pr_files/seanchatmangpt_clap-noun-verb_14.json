@@ -1,0 +1,1 @@
+["src/kernel/attestation.rs", "src/kernel/clnrm.rs", "src/kernel/concurrent.rs", "src/kernel/const_caps.rs", "src/kernel/execution_receipts.rs", "src/kernel/frame_schema.rs", "src/kernel/grammar_dsl.rs", "src/kernel/quotas.rs", "src/kernel/replay_engine.rs", "src/kernel/session_log.rs", "src/kernel/simd.rs"]

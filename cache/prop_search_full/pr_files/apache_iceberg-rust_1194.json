@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/catalog/hms/Cargo.toml", "crates/iceberg/Cargo.toml", "crates/integrations/cli/Cargo.toml", "crates/integrations/cli/README.md", "crates/integrations/cli/src/catalog.rs", "crates/integrations/cli/src/lib.rs", "crates/integrations/cli/src/main.rs"]

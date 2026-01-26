@@ -1,0 +1,1 @@
+[".gitignore", ".travis.yml", "autobahn/client-results.json", "autobahn/server-results.json", "scripts/autobahn-client.sh", "scripts/autobahn-server.sh", "src/client/builder.rs", "src/client/mod.rs", "src/server/upgrade/mod.rs"]

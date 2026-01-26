@@ -1,0 +1,1 @@
+["components/salsa-macro-rules/src/setup_interned_struct.rs", "components/salsa-macro-rules/src/setup_tracked_fn.rs", "components/salsa-macro-rules/src/setup_tracked_struct.rs", "src/id.rs", "src/input.rs", "src/interned.rs", "src/tracked_struct.rs", "tests/interned-structs_self_ref.rs"]

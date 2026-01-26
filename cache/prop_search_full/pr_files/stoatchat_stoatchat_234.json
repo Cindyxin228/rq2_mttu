@@ -1,0 +1,1 @@
+[".github/workflows/docker.yaml", "Dockerfile", "crates/bonfire/Dockerfile", "crates/delta/Dockerfile", "scripts/build-image-layer.sh"]

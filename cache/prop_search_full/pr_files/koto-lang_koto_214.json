@@ -1,0 +1,1 @@
+["examples/poetry/src/koto_bindings.rs", "koto/tests/libs/color.koto", "libs/color/src/color.rs", "libs/geometry/src/macros.rs", "libs/geometry/src/rect.rs", "src/runtime/src/core/io.rs", "src/runtime/src/meta_map.rs", "src/runtime/tests/external_value_tests.rs"]

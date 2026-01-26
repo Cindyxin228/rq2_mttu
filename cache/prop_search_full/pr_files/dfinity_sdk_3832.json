@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/dfx-core/src/error/extension.rs", "src/dfx-core/src/error/reqwest.rs", "src/dfx-core/src/extension/manager/install.rs", "src/dfx-core/src/extension/manifest/dependencies.rs", "src/dfx-core/src/http/get.rs", "src/dfx-core/src/http/mod.rs", "src/dfx-core/src/http/retryable.rs"]

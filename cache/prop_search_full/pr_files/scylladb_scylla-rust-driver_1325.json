@@ -1,0 +1,1 @@
+["scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/src/network/connection_pool.rs", "scylla/src/policies/load_balancing/mod.rs", "scylla/tests/integration/default_policy.rs", "scylla/tests/integration/load_balancing.rs", "scylla/tests/integration/main.rs"]

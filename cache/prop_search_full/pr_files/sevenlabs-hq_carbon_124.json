@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cli/Cargo.toml", "crates/cli/src/commands.rs", "crates/cli/src/handlers/mod.rs", "crates/cli/src/handlers/parse.rs", "crates/cli/src/handlers/process_pda_idl.rs", "crates/cli/src/main.rs"]

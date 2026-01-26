@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "crates/esthri-cli/src/http_server.rs", "crates/esthri-cli/src/main.rs", "crates/esthri-cli/tests/integration/http_server.rs", "crates/esthri/src/ops/download.rs", "crates/esthri/src/rusoto.rs"]

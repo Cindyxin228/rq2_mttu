@@ -1,0 +1,1 @@
+["Cargo.toml", "bindings/kotlin/ldk-node-jvm/lib/src/test/kotlin/org/lightningdevkit/ldknode/LibraryTest.kt", "bindings/uniffi-bindgen/Cargo.toml", "bindings/uniffi-bindgen/src/main.rs", "scripts/uniffi_bindgen_generate_kotlin.sh", "scripts/uniffi_bindgen_generate_kotlin_android.sh", "scripts/uniffi_bindgen_generate_python.sh", "scripts/uniffi_bindgen_generate_swift.sh"]

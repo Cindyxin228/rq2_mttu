@@ -1,0 +1,1 @@
+["lib/wasi-tests/tests/wasitests/close_preopen_fd.rs", "lib/wasi-tests/tests/wasitests/mod.rs", "lib/wasi-tests/wasitests/close_preopen_fd.out", "lib/wasi-tests/wasitests/close_preopen_fd.rs", "lib/wasi-tests/wasitests/close_preopen_fd.wasm", "lib/wasi/src/state/mod.rs", "lib/wasi/src/syscalls/mod.rs"]

@@ -1,0 +1,1 @@
+["deny.toml", "sync/src/relayer/tests/helper.rs", "test/src/node.rs", "test/src/rpc.rs", "test/src/specs/fault_injection/randomly_kill.rs", "test/src/specs/sync/sync_churn.rs", "test/src/specs/sync/sync_invalid.rs"]

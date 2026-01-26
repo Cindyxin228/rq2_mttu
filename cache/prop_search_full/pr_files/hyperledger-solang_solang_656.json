@@ -1,0 +1,1 @@
+["solang-parser/src/lexer.rs", "solang-parser/src/lib.rs", "solang-parser/src/pt.rs", "solang-parser/src/solidity.lalrpop", "src/codegen/expression.rs", "src/sema/mod.rs"]

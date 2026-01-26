@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client.rs", "src/extensions/list_status.rs", "src/extensions/metadata.rs", "src/parse.rs", "src/testing.rs", "src/types/acls.rs", "src/types/capabilities.rs", "src/types/fetch.rs", "src/types/name.rs", "src/types/quota.rs", "tests/imap_integration.rs"]

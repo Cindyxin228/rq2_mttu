@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "forc/Cargo.toml", "forc/src/cli/commands/test.rs", "forc/tests/cli_integration.rs", "forc/tests/fixtures/test_contract/.gitignore", "forc/tests/fixtures/test_contract/Forc.lock", "forc/tests/fixtures/test_contract/Forc.toml", "forc/tests/fixtures/test_contract/src/main.sw"]

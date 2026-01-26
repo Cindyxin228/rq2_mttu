@@ -1,0 +1,1 @@
+["ci/shell.nix", "core/tests/run_tests_device_emu_monero.sh"]

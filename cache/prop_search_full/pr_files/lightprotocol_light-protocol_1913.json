@@ -1,0 +1,1 @@
+["prover/server/Dockerfile.light", "prover/server/go.mod", "prover/server/go.sum", "prover/server/server/metrics.go", "prover/server/server/queue_job.go", "prover/server/server/server.go"]

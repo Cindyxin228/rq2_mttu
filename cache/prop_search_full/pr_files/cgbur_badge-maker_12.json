@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/bench.rs", "src/badge/badge.rs", "src/badge/badge_builder.rs", "src/badge/color/color.rs", "src/badge/logo.rs", "src/badge/style.rs", "src/render/base.rs", "src/render/renderers/badge.rs", "src/render/renderers/links.rs", "src/render/renderers/logo.rs", "src/render/renderers/text.rs", "src/render/util/xml.rs"]

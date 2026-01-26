@@ -1,0 +1,1 @@
+["esp-rtos/src/embassy/mod.rs", "esp-rtos/src/scheduler.rs", "esp-rtos/src/semaphore.rs", "esp-rtos/src/wait_queue.rs"]

@@ -1,0 +1,1 @@
+["src/api/api_client.rs", "src/api/rpc_api/author.rs", "src/api/rpc_api/chain.rs", "src/api/rpc_api/frame_system.rs", "src/api/rpc_api/pallet_transaction_payment.rs", "src/api/rpc_api/state.rs", "src/lib.rs", "src/utils.rs", "testing/examples/pallet_transaction_payment_tests.rs"]

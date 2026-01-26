@@ -1,0 +1,1 @@
+["src/commands/mod.rs", "src/commands/sync.rs", "src/opts.rs", "tests/command/test_sync.rs"]

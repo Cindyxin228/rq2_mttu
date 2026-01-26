@@ -1,0 +1,1 @@
+["README.md", "src/album.rs", "src/artist.rs", "src/command.rs", "src/commands.rs", "src/episode.rs", "src/playable.rs", "src/playlist.rs", "src/queue.rs", "src/show.rs", "src/spotify.rs", "src/track.rs", "src/traits.rs", "src/ui/listview.rs", "src/ui/queue.rs"]

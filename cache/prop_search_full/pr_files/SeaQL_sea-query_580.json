@@ -1,0 +1,1 @@
+["sea-query-binder/src/sqlx.rs", "sea-query-postgres/src/lib.rs", "sea-query-rusqlite/src/lib.rs"]

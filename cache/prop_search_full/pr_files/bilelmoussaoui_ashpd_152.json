@@ -1,0 +1,1 @@
+["src/desktop/clipboard.rs", "src/desktop/global_shortcuts.rs", "src/desktop/inhibit.rs", "src/desktop/location.rs", "src/desktop/memory_monitor.rs", "src/desktop/network_monitor.rs", "src/desktop/notification.rs", "src/desktop/session.rs", "src/desktop/settings.rs", "src/documents/file_transfer.rs", "src/flatpak/mod.rs", "src/flatpak/update_monitor.rs", "src/proxy.rs"]

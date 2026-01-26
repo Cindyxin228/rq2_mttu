@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/emulation_firefox.rs", "src/tls/config.rs", "src/tls/conn/boring.rs", "src/tls/conn/cert/brotli.rs", "src/tls/conn/cert/mod.rs", "src/tls/conn/cert/zlib.rs", "src/tls/conn/cert/zstd.rs", "src/tls/conn/ext.rs", "src/tls/conn/macros.rs", "src/tls/conn/mod.rs", "src/tls/mod.rs", "src/tls/x509/store/mod.rs", "src/tls/x509/store/parser.rs", "tests/badssl.rs"]

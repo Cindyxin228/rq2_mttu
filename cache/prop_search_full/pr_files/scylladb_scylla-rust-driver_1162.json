@@ -1,0 +1,1 @@
+["scylla/src/client/session_test.rs", "scylla/src/cluster/metadata.rs", "scylla/src/cluster/state.rs", "scylla/src/cluster/worker.rs", "scylla/src/policies/load_balancing/default.rs", "scylla/src/routing/locator/mod.rs", "scylla/src/routing/locator/precomputed_replicas.rs", "scylla/src/routing/locator/test.rs"]

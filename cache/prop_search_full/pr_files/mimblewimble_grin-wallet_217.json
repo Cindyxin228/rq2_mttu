@@ -1,0 +1,1 @@
+["api/src/owner.rs", "api/src/owner_rpc_s.rs", "impls/src/lifecycle/default.rs", "impls/src/lifecycle/seed.rs", "libwallet/src/types.rs", "tests/common/mod.rs", "tests/data/v3_reqs/change_password.req.json", "tests/data/v3_reqs/create_wallet.req.json", "tests/data/v3_reqs/delete_wallet.req.json", "tests/owner_v3_lifecycle.rs"]

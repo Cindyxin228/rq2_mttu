@@ -1,0 +1,1 @@
+["scylla-proxy/src/proxy.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/connection_pool.rs", "scylla/src/transport/session.rs", "scylla/src/transport/session_builder.rs"]

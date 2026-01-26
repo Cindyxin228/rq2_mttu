@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client/body.rs", "src/client/client/future.rs", "src/client/client/mod.rs", "src/client/client/service.rs", "src/client/middleware/mod.rs", "src/client/middleware/retry/mod.rs"]

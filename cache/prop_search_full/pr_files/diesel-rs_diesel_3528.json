@@ -1,0 +1,1 @@
+["diesel/src/deserialize.rs", "diesel_compile_tests/tests/fail/derive_deprecated/deprecated_sql_type.stderr", "diesel_compile_tests/tests/fail/select_carries_correct_result_type_info.stderr", "diesel_compile_tests/tests/fail/select_sql_still_ensures_result_type.stderr", "diesel_compile_tests/tests/fail/selectable_with_typemisamatch.stderr"]

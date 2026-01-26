@@ -1,0 +1,1 @@
+["data/fail/fail77.json", "data/fail/fail78.json", "src/avx2/utf8check.rs", "src/sse42/utf8check.rs", "tests/jsonchecker.rs"]

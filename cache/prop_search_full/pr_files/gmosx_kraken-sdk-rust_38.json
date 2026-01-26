@@ -1,0 +1,1 @@
+["kraken_ws_client/src/api/status.rs", "kraken_ws_client/src/api/subscribe_executions.rs", "kraken_ws_client/src/api/subscribe_instrument.rs", "kraken_ws_client/src/api/subscribe_ohlc.rs", "kraken_ws_client/src/api/subscribe_trade.rs", "kraken_ws_client/src/client.rs"]

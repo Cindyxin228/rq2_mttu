@@ -1,0 +1,1 @@
+["Cargo.lock", "samply-symbols/Cargo.toml", "samply-symbols/src/demangle.rs", "samply-symbols/src/lib.rs", "samply/Cargo.toml", "samply/src/import/perf.rs", "samply/src/linux/profiler.rs", "samply/src/linux_shared/converter.rs"]

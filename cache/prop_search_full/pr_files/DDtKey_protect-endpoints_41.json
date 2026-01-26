@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "proc-macro/Cargo.toml", "proc-macro/src/expand.rs", "tests/common.rs", "tests/permissions_check/guard_check.rs", "tests/permissions_check/manual_check/enum_type.rs", "tests/proc_macro/type_feature.rs"]

@@ -1,0 +1,1 @@
+["rpc/core/src/error.rs", "rpc/grpc/client/src/lib.rs", "rpc/grpc/core/proto/messages.proto", "rpc/grpc/core/proto/rpc.proto", "rpc/grpc/core/src/convert/kaspad.rs", "rpc/grpc/core/src/convert/message.rs", "rpc/grpc/core/src/ops.rs", "rpc/grpc/server/src/request_handler/factory.rs"]

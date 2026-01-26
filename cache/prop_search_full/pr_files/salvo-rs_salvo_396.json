@@ -1,0 +1,1 @@
+["crates/oapi-macros/src/parameter/derive.rs", "crates/oapi-macros/src/serde.rs", "crates/oapi/docs/derive_to_parameters.md", "crates/oapi/src/openapi/schema/mod.rs"]

@@ -1,0 +1,1 @@
+["datafusion/core/src/datasource/listing_table_factory.rs", "datafusion/core/src/physical_plan/file_format/mod.rs", "datafusion/core/tests/sqllogictests/test_files/ddl.slt"]

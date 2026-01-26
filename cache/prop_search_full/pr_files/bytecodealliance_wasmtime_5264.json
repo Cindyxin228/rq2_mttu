@@ -1,0 +1,1 @@
+["crates/wasi-common/src/snapshots/preview_1.rs", "crates/wasi-crypto/src/wiggle_interfaces/asymmetric_common.rs", "crates/wasi-crypto/src/wiggle_interfaces/common.rs", "crates/wasi-crypto/src/wiggle_interfaces/signatures.rs", "crates/wasi-crypto/src/wiggle_interfaces/symmetric.rs", "crates/wiggle/src/lib.rs", "crates/wiggle/tests/strings.rs"]

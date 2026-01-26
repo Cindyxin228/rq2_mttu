@@ -1,0 +1,1 @@
+["interop-tests/Cargo.toml", "interop-tests/LICENSE-APACHE", "interop-tests/LICENSE-MIT", "interop-tests/README.md", "tuf/Cargo.toml", "tuf/src/interchange/cjson/shims.rs", "tuf/src/metadata.rs", "tuf/src/repo_builder.rs"]

@@ -1,0 +1,1 @@
+["README.md", "crates/starknet-server/src/api/http/endpoints/mint_token.rs", "crates/starknet-server/src/api/http/models.rs", "crates/starknet-server/tests/test_minting.rs", "crates/starknet/src/starknet/mod.rs", "crates/types/src/rpc/transaction_receipt.rs"]

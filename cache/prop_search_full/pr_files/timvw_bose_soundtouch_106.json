@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/tui.rs", "src/error.rs", "src/lib.rs", "src/types.rs", "tests/http.rs", "tests/samples/connection.xml", "tests/samples/now_playing.xml", "tests/samples/volume.xml", "tests/websocket.rs"]

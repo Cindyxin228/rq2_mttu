@@ -1,0 +1,1 @@
+["src/geometry/dual_quaternion.rs", "src/geometry/orthographic.rs", "src/geometry/perspective.rs", "src/geometry/quaternion.rs", "src/geometry/rotation_specialization.rs", "src/geometry/unit_complex.rs"]

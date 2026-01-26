@@ -1,0 +1,1 @@
+[".github/workflows/rust.yaml", ".github/workflows/tarpaulin.yaml", "arma-rs/src/command.rs", "arma-rs/src/context.rs", "arma-rs/src/group.rs", "arma-rs/src/lib.rs", "arma-rs/src/value/from_arma.rs", "arma-rs/src/value/loadout.rs"]

@@ -1,0 +1,1 @@
+["packages/fuel-indexer-lib/src/utils.rs", "packages/fuel-indexer-macros/src/indexer.rs", "packages/fuel-indexer-tests/trybuild/fail_if_attribute_abi_arg_includes_invalid_type.stderr", "packages/fuel-indexer-tests/trybuild/fail_if_attribute_schema_arg_is_invalid.stderr", "packages/fuel-indexer/src/commands/run.rs", "packages/fuel-indexer/src/database.rs"]

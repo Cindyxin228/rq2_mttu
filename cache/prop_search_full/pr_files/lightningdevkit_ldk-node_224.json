@@ -1,0 +1,1 @@
+["bindings/kotlin/ldk-node-android/lib/build.gradle.kts", "bindings/kotlin/ldk-node-jvm/lib/build.gradle.kts", "bindings/ldk_node.udl", "src/event.rs", "src/lib.rs"]

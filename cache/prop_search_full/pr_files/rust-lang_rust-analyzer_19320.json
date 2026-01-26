@@ -1,0 +1,1 @@
+["crates/ide-assists/src/handlers/replace_derive_with_manual_impl.rs", "crates/ide-assists/src/utils.rs", "crates/syntax/src/ast/make.rs"]

@@ -1,0 +1,1 @@
+[".envrc", "crates/flakreate/crate.nix", "crates/nix_health/crate.nix", "crates/nix_rs/crate.nix", "crates/nixci/crate.nix", "crates/omnix-cli/crate.nix", "crates/omnix-gui/crate.nix", "flake.lock", "flake.nix", "nix/modules/nixpkgs.nix", "nix/modules/rust.nix"]

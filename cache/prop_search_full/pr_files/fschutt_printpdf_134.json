@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/document_info.rs", "src/extgstate.rs", "src/font.rs", "src/icc_profile.rs", "src/lib.rs", "src/pdf_document.rs", "src/pdf_metadata.rs", "src/pdf_page.rs", "src/subsetting.rs", "src/xmp_metadata.rs", "src/xobject.rs"]

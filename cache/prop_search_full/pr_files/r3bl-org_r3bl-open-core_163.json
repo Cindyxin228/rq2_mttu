@@ -1,0 +1,1 @@
+[".vscode/settings.json", "CHANGELOG.md", "core/src/utils/file_logging.rs", "simple_logger/README.md", "simple_logger/src/config.rs", "simple_logger/src/lib.rs", "simple_logger/src/loggers/logging.rs", "simple_logger/src/loggers/mod.rs", "simple_logger/src/loggers/termlog.rs", "simple_logger/src/loggers/testlog.rs", "tuify/run.nu"]

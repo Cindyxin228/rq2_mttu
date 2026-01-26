@@ -1,0 +1,1 @@
+["src/action.rs", "src/linux/elf.rs", "src/linux/symbol.rs", "test_data/linux/basic.dbg.sym", "test_data/linux/basic.full.sym"]

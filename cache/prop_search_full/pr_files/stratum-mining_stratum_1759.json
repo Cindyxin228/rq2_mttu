@@ -1,0 +1,1 @@
+["protocols/v2/subprotocols/job-declaration/src/allocate_mining_job_token.rs", "roles/jd-client/src/lib/template_receiver/mod.rs", "roles/jd-server/src/lib/job_declarator/message_handler.rs", "roles/jd-server/src/lib/job_declarator/mod.rs"]

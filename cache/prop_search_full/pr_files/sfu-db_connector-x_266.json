@@ -1,0 +1,1 @@
+["benchmarks/tpch-cx.py", "connectorx/src/sources/bigquery/errors.rs", "connectorx/src/sources/bigquery/mod.rs", "connectorx/src/transports/bigquery_arrow.rs", "connectorx/tests/test_bigquery.rs", "docs/databases/bigquery.md"]

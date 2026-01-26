@@ -1,0 +1,1 @@
+["README.md", "designs/idm_rest_layout.rst", "kanidm_client/Cargo.toml", "kanidm_client/src/lib.rs", "kanidm_client/tests/proto_v1_test.rs", "kanidmd/src/lib/access.rs", "kanidmd/src/lib/actors/v1.rs", "kanidmd/src/lib/core.rs", "kanidmd/src/lib/event.rs", "kanidmd/src/lib/filter.rs", "kanidmd/src/lib/macros.rs"]

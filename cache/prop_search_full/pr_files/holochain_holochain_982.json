@@ -1,0 +1,1 @@
+["crates/kitsune_p2p/direct_test/src/direct_test_local_periodic.rs", "crates/kitsune_p2p/kitsune_p2p/src/gossip/sharded_gossip.rs", "crates/kitsune_p2p/kitsune_p2p/src/test_util/harness_agent.rs", "crates/kitsune_p2p/types/src/config.rs"]

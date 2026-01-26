@@ -1,0 +1,1 @@
+["iceberg-file-catalog/src/lib.rs", "iceberg-glue-catalog/src/lib.rs", "iceberg-rust-spec/src/spec/table_metadata.rs", "iceberg-rust/src/table/transaction/operation.rs", "iceberg-sql-catalog/src/lib.rs"]

@@ -1,0 +1,1 @@
+["cli/tests/unit/webcrypto_test.ts", "extensions/crypto/00_crypto.js", "extensions/crypto/lib.deno_crypto.d.ts", "extensions/crypto/lib.rs", "tools/wpt/expectation.json"]

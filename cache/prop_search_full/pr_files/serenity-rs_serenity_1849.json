@@ -1,0 +1,1 @@
+["src/builder/create_channel.rs", "src/builder/edit_channel.rs", "src/framework/standard/parse/mod.rs", "src/http/client.rs", "src/model/channel/channel_id.rs", "src/model/channel/guild_channel.rs", "src/model/guild/member.rs", "src/model/guild/mod.rs", "src/model/invite.rs", "src/model/permissions.rs", "src/model/user.rs"]

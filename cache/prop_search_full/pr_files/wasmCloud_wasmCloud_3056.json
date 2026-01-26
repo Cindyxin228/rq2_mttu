@@ -1,0 +1,1 @@
+[".github/workflows/wasmcloud-host-chart.yml", "charts/wasmcloud-host/Chart.yaml", "charts/wasmcloud-host/templates/_helpers.tpl", "charts/wasmcloud-host/templates/configmap.yaml", "charts/wasmcloud-host/values.yaml"]

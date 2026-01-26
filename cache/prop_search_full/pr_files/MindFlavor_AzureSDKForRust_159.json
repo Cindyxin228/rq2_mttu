@@ -1,0 +1,1 @@
+["azure_sdk_storage_core/Cargo.toml", "azure_sdk_storage_core/examples/sas00.rs", "azure_sdk_storage_core/src/blob_sas_builder.rs", "azure_sdk_storage_core/src/container_sas_builder.rs", "azure_sdk_storage_core/src/lib.rs", "azure_sdk_storage_core/src/prelude.rs", "azure_sdk_storage_core/src/rest_client.rs"]

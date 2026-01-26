@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "src/at.rs", "src/at_notifications.rs", "src/dns.rs", "src/ffi.rs", "src/gnss.rs", "src/lib.rs", "src/socket.rs"]

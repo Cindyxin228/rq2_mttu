@@ -1,0 +1,1 @@
+["diesel/src/query_builder/insert_statement/insert_with_default_for_sqlite.rs", "diesel/src/type_impls/tuples.rs", "diesel_cli/src/infer_schema_internals/information_schema.rs", "diesel_compile_tests/tests/fail/array_expressions_must_be_same_type.stderr", "diesel_compile_tests/tests/fail/select_requires_valid_grouping.stderr", "diesel_compile_tests/tests/fail/selectable.stderr"]

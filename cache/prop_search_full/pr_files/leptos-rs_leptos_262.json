@@ -1,0 +1,1 @@
+["integrations/actix/src/lib.rs", "integrations/axum/src/lib.rs", "leptos_config/src/lib.rs", "leptos_dom/src/html.rs", "leptos_dom/src/logging.rs", "leptos_macro/src/props.rs", "leptos_macro/src/server.rs", "leptos_reactive/src/effect.rs", "router/src/history/params.rs"]

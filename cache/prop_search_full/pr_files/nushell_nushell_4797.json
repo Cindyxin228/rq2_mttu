@@ -1,0 +1,1 @@
+["crates/nu-command/src/filters/default.rs", "crates/nu-command/src/filters/empty.rs", "crates/nu-command/tests/commands/rename.rs", "src/tests/test_table_operations.rs"]

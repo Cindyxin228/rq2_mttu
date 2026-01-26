@@ -1,0 +1,1 @@
+["cli/tests/integration/check_tests.rs", "cli/tests/testdata/declaration_header_file_with_no_exports.ts", "cli/tests/testdata/declaration_header_file_with_no_exports_js.d.ts", "cli/tests/testdata/declaration_header_file_with_no_exports_js.js", "cli/tsc/99_main_compiler.js"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "guide/src/features.md", "guide/src/migration.md", "newsfragments/3707.added.md", "src/err/mod.rs", "src/types/datetime.rs", "src/types/pysuper.rs", "tests/test_exceptions.rs", "tests/test_super.rs"]

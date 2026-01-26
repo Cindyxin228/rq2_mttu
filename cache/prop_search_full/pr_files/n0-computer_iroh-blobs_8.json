@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/rpc.rs", "src/rpc/client/blobs.rs", "src/rpc/client/blobs/batch.rs", "src/rpc/client/tags.rs"]

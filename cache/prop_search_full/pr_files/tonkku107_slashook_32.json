@@ -1,0 +1,1 @@
+["Cargo.toml", "macros/src/lib.rs", "src/commands/handler.rs", "src/commands/mod.rs", "src/structs/applications.rs", "src/structs/channels.rs", "src/structs/interactions.rs", "src/structs/permissions.rs", "src/webhook/signature_headers.rs"]

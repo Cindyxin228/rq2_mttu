@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "reqwest-tracing/Cargo.toml", "reqwest-tracing/README.md", "reqwest-tracing/src/lib.rs", "reqwest-tracing/src/middleware.rs", "reqwest-tracing/src/otel.rs"]

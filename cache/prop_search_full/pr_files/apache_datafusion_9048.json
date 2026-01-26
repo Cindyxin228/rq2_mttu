@@ -1,0 +1,1 @@
+["datafusion/core/tests/fuzz_cases/window_fuzz.rs", "datafusion/expr/src/partition_evaluator.rs", "datafusion/physical-expr/src/window/built_in.rs", "datafusion/physical-expr/src/window/lead_lag.rs", "datafusion/physical-expr/src/window/rank.rs", "datafusion/physical-expr/src/window/row_number.rs"]

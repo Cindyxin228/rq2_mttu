@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "examples/celery_app.rs", "scripts/brokers/redis.sh", "src/broker/mod.rs", "src/broker/redis.rs", "src/error.rs", "src/prelude.rs", "src/protocol/mod.rs", "src/protocol/tests.rs", "tests/brokers/mod.rs", "tests/brokers/redis.rs"]

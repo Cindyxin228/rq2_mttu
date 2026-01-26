@@ -1,0 +1,1 @@
+["crates/rune/src/cli/tests.rs", "crates/rune/src/modules/vec.rs", "crates/rune/src/runtime/from_value.rs", "crates/rune/src/runtime/value.rs", "crates/rune/src/runtime/vec.rs"]

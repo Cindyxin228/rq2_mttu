@@ -1,0 +1,1 @@
+["crates/development/src/config_helpers.rs", "crates/dprint/src/arg_parser.rs", "crates/dprint/src/commands/formatting.rs", "crates/dprint/src/resolution.rs", "rust-toolchain.toml", "website/src/cli.md"]

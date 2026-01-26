@@ -1,0 +1,1 @@
+[".cargo/audit.toml", "Cargo.toml", "bindings/nodejs/Cargo.toml", "bindings/nodejs/index.d.ts", "bindings/nodejs/src/lib.rs", "bindings/nodejs/tests/binding.js", "bindings/python/Cargo.toml", "bindings/tests/features/binding.feature", "cli/Cargo.toml", "core/Cargo.toml", "driver/Cargo.toml", "driver/src/value.rs"]

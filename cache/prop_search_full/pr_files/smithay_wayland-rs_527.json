@@ -1,0 +1,1 @@
+["wayland-client/src/event_queue.rs", "wayland-scanner/src/common.rs", "wayland-scanner/src/server_gen.rs", "wayland-scanner/tests/scanner_assets/test-client-code.rs", "wayland-scanner/tests/scanner_assets/test-server-code.rs", "wayland-tests/tests/server_created_object.rs"]

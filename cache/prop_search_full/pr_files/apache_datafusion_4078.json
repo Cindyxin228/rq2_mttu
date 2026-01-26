@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/windows/mod.rs", "datafusion/core/tests/sql/window.rs", "datafusion/physical-expr/src/window/aggregate.rs", "datafusion/physical-expr/src/window/built_in.rs", "datafusion/physical-expr/src/window/nth_value.rs", "datafusion/physical-expr/src/window/partition_evaluator.rs", "datafusion/physical-expr/src/window/window_expr.rs"]

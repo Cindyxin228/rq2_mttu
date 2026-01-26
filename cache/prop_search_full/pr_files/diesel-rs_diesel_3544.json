@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "diesel/src/insertable.rs", "diesel_cli/src/print_schema.rs", "diesel_derives/Cargo.toml", "diesel_derives/src/attrs.rs", "diesel_migrations/migrations_internals/src/lib.rs", "diesel_tests/tests/perf_details.rs", "rust-toolchain"]

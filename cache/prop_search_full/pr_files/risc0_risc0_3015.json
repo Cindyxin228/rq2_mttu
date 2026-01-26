@@ -1,0 +1,1 @@
+["risc0/circuit/rv32im/examples/rv32im.rs", "risc0/circuit/rv32im/src/execute/executor.rs", "risc0/circuit/rv32im/src/execute/platform.rs", "risc0/circuit/rv32im/src/execute/testutil.rs", "risc0/circuit/rv32im/src/prove/witgen/preflight.rs", "risc0/zkvm/examples/datasheet.rs"]

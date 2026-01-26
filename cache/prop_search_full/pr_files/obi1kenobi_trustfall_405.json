@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "experiments/trustfall_rustdoc/Cargo.lock", "experiments/trustfall_rustdoc/Cargo.toml", "trustfall/Cargo.toml", "trustfall/examples/weather/metar.rs", "trustfall_core/Cargo.toml", "trustfall_stubgen/Cargo.toml"]

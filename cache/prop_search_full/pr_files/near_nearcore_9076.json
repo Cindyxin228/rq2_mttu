@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/types.rs", "nearcore/src/runtime/mod.rs", "nearcore/src/state_sync.rs", "tools/mock-node/src/setup.rs", "tools/state-viewer/src/state_parts.rs"]

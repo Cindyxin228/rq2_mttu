@@ -1,0 +1,1 @@
+["actix-redis/Cargo.toml", "actix-redis/examples/authentication.rs", "actix-redis/src/lib.rs", "actix-redis/src/redis.rs", "actix-redis/src/session.rs"]

@@ -1,0 +1,1 @@
+["examples/aggregation.rs", "src/aggregation/mod.rs", "src/core/index_meta.rs", "src/indexer/merger.rs", "src/query/phrase_query/mod.rs", "src/schema/field_type.rs", "src/schema/index_record_option.rs", "src/schema/text_options.rs"]

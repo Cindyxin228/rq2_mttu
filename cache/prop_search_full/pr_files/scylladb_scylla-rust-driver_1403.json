@@ -1,0 +1,1 @@
+["scylla-cql/src/deserialize/row_tests.rs", "scylla-macros/src/deserialize/row.rs", "scylla-macros/src/lib.rs", "scylla-macros/src/serialize/row.rs", "scylla/tests/integration/macros/hygiene.rs"]

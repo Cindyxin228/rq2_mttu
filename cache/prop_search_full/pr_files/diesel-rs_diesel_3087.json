@@ -1,0 +1,1 @@
+["diesel/src/expression/functions/date_and_time.rs", "diesel/src/sql_types/mod.rs", "diesel/src/sqlite/mod.rs", "diesel/src/sqlite/types/date_and_time/chrono.rs", "diesel/src/sqlite/types/date_and_time/mod.rs", "diesel/src/sqlite/types/mod.rs", "diesel/src/type_impls/date_and_time.rs", "diesel_compile_tests/tests/fail/array_expressions_must_be_same_type.stderr"]

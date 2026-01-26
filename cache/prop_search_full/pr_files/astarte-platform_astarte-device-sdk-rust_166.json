@@ -1,0 +1,1 @@
+["astarte-device-sdk-derive/Cargo.lock", "examples/object.rs", "src/interface/mod.rs", "src/interfaces.rs", "src/lib.rs", "src/options.rs", "src/pairing.rs", "src/registration.rs", "src/types.rs", "tests/e2etest/mock_data_aggregate.rs"]

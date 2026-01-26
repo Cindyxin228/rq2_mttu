@@ -1,0 +1,1 @@
+["rust/src/connection.rs", "rust/src/lib.rs", "rust/src/message/kind.rs", "rust/src/message/mod.rs", "rust/src/message/upload_url.rs", "rust/src/message/verdict.rs", "rust/src/message/verdict_request_for_url.rs", "rust/tests/real_api_integration_tests.rs"]

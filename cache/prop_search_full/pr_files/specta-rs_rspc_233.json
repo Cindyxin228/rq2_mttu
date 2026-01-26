@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/core/Cargo.toml", "crates/core/src/exec/connection.rs", "crates/core/src/exec/execute.rs", "crates/core/src/exec/subscription_map.rs", "crates/core/src/exec/task.rs", "crates/core/src/router.rs", "examples/astro/.gitignore"]

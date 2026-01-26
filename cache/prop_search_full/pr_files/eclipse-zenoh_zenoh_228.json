@@ -1,0 +1,1 @@
+["EXAMPLE_CONFIG.json5", "commons/zenoh-cfg-properties/src/config.rs", "io/zenoh-transport/src/multicast/link.rs", "io/zenoh-transport/src/unicast/link.rs"]

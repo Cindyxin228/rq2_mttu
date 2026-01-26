@@ -1,0 +1,1 @@
+["src/commands/kv/mod.rs", "src/commands/publish.rs", "src/commands/secret/mod.rs", "src/http.rs", "src/settings/toml/kv_namespace.rs", "src/settings/toml/tests/mod.rs", "src/terminal/message.rs", "src/upload/mod.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/coverage.yml", "README.md", "e2e/Cargo.toml", "examples/Cargo.toml", "justfile", "kube-client/Cargo.toml", "kube-core/Cargo.toml", "kube-derive/Cargo.toml", "kube-runtime/Cargo.toml", "kube/Cargo.toml", "release.toml"]

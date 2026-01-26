@@ -1,0 +1,1 @@
+["wgpu-core/src/instance.rs", "wgpu-hal/src/vulkan/adapter.rs", "wgpu-hal/src/vulkan/conv.rs", "wgpu-hal/src/vulkan/device.rs", "wgpu-hal/src/vulkan/instance.rs"]

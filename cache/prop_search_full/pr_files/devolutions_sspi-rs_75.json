@@ -1,0 +1,1 @@
+[".github/workflows/build-native.yml", ".github/workflows/ci.yml", ".github/workflows/nuget.yml", "Cargo.toml", "ffi/Cargo.toml", "ffi/src/credentials_attributes.rs", "ffi/src/sec_handle.rs", "rust-toolchain.toml", "src/dns.rs", "src/sspi.rs", "src/sspi/ntlm/test.rs"]

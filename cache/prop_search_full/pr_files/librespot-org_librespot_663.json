@@ -1,0 +1,1 @@
+["Cargo.lock", "core/Cargo.toml", "core/src/authentication.rs", "core/src/config.rs", "examples/get_token.rs", "examples/play.rs", "examples/playlist_tracks.rs"]

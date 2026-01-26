@@ -1,0 +1,1 @@
+[".evergreen/check-rustdoc.sh", ".evergreen/config.yml", "Cargo.toml", "README.md", "rustfmt.toml", "src/bson.rs", "src/datetime.rs", "src/de/error.rs", "src/de/mod.rs", "src/document.rs", "src/extjson/de.rs", "src/lib.rs", "src/ser/error.rs", "src/serde_helpers.rs"]

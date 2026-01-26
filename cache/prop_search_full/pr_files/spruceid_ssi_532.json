@@ -1,0 +1,1 @@
+["did-key/Cargo.toml", "ssi-crypto/Cargo.toml", "ssi-jwk/Cargo.toml", "ssi-jwk/src/lib.rs", "ssi-jws/Cargo.toml", "ssi-jws/src/lib.rs", "ssi-ldp/Cargo.toml", "ssi-ldp/src/eip712.rs", "ssi-ldp/src/suites/eip.rs", "ssi-tzkey/Cargo.toml", "ssi-tzkey/src/lib.rs", "ssi-vc/Cargo.toml", "ssi-vc/src/cacao.rs", "ssi-vc/src/lib.rs"]

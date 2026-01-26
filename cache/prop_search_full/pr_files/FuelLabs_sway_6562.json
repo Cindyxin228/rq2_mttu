@@ -1,0 +1,1 @@
+["sway-lib-std/src/outputs.sw", "test/src/sdk-harness/Forc.lock", "test/src/sdk-harness/Forc.toml", "test/src/sdk-harness/test_artifacts/tx_output_change_contract/Forc.toml", "test/src/sdk-harness/test_artifacts/tx_output_change_contract/src/main.sw", "test/src/sdk-harness/test_artifacts/tx_output_predicate/src/main.sw", "test/src/sdk-harness/test_projects/tx_fields/mod.rs"]

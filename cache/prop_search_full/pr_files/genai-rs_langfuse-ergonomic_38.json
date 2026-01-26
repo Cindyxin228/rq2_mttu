@@ -1,0 +1,1 @@
+[".github/settings.yml", ".github/workflows/cargo-deny.yml", ".github/workflows/ci.yml", "Cargo.toml", "deny.toml", "rustfmt.toml", "src/batcher.rs"]

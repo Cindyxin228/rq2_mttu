@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "connect/Cargo.toml", "connect/src/discovery.rs", "connect/src/spirc.rs", "core/src/mercury/mod.rs", "core/src/mercury/sender.rs", "core/src/session.rs", "playback/src/player.rs", "src/lib.rs", "src/main.rs", "src/player_event_handler.rs"]

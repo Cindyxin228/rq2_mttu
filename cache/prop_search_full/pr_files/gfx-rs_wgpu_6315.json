@@ -1,0 +1,1 @@
+["tests/src/init.rs", "tests/src/native.rs", "tests/src/report.rs", "tests/src/run.rs", "tests/tests/create_surface_error.rs", "tests/tests/device.rs", "wgpu-macros/src/lib.rs"]

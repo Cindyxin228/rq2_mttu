@@ -1,0 +1,1 @@
+["tests/common.rs", "tests/path_derive.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/path/parameter.rs", "utoipa-gen/src/schema.rs", "utoipa-gen/src/schema/component/attr.rs", "utoipa-gen/src/schema/into_params.rs"]

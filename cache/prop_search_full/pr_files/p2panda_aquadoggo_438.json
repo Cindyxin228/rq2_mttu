@@ -1,0 +1,1 @@
+["CHANGELOG.md", "aquadoggo/migrations/20230523135826_alter-operations.sql", "aquadoggo/src/db/models/operation.rs", "aquadoggo/src/db/models/utils.rs", "aquadoggo/src/db/stores/operation.rs", "aquadoggo/src/db/types/operation.rs", "aquadoggo/src/materializer/tasks/reduce.rs"]

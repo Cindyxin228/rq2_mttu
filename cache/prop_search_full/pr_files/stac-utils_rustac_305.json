@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/python.yml", "Cargo.toml", "python/.gitignore", "python/Cargo.toml", "python/data/invalid-item.json", "python/pyproject.toml", "python/src/lib.rs", "python/stacrs.pyi", "python/tests/conftest.py", "python/tests/test_validate.py"]

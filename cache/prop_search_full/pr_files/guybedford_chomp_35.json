@@ -1,0 +1,1 @@
+["README.md", "src/chompfile.rs", "src/task.rs", "src/templates.toml", "templates/babel.toml", "templates/jspm.toml", "templates/npm.toml", "templates/prettier.toml", "templates/svelte.toml", "templates/swc.toml", "test/chompfile.toml"]

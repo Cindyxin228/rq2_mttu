@@ -1,0 +1,1 @@
+["crates/notan_draw/src/builder.rs", "crates/notan_draw/src/draw.rs", "crates/notan_draw/src/transform.rs", "crates/notan_input/src/mouse.rs", "crates/notan_math/src/constants.rs", "crates/notan_math/src/lib.rs", "crates/notan_math/src/utils.rs", "examples/input_mouse_local_position.rs"]

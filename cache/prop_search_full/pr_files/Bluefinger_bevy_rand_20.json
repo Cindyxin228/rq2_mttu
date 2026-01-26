@@ -1,0 +1,1 @@
+["bevy_prng/src/chacha.rs", "bevy_prng/src/newtype.rs", "bevy_prng/src/pcg.rs", "bevy_prng/src/wyrand.rs", "bevy_prng/src/xoshiro.rs"]

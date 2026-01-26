@@ -1,0 +1,1 @@
+["README.md", "manual/src/grep.md", "src/cli.rs", "src/config.rs", "src/delta.rs", "src/features/hyperlinks.rs", "src/handlers/grep.rs", "src/handlers/hunk_header.rs", "src/handlers/ripgrep_json.rs", "src/options/set.rs", "src/paint.rs", "src/parse_styles.rs"]

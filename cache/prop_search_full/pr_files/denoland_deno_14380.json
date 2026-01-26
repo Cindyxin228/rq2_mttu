@@ -1,0 +1,1 @@
+["core/lib.rs", "serde_v8/de.rs", "serde_v8/lib.rs", "serde_v8/magic/buffer.rs", "serde_v8/magic/detached_buffer.rs", "serde_v8/magic/mod.rs", "serde_v8/magic/string_or_buffer.rs", "serde_v8/magic/v8slice.rs", "serde_v8/ser.rs", "serde_v8/serializable.rs", "serde_v8/tests/de.rs", "serde_v8/tests/magic.rs"]

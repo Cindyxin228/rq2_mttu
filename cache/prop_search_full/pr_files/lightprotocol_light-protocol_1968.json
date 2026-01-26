@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "program-libs/indexed-array/Cargo.toml", "program-tests/merkle-tree/Cargo.toml", "scripts/detect-version-changes.sh", "scripts/validate-packages.sh", "sparse-merkle-tree/Cargo.toml"]

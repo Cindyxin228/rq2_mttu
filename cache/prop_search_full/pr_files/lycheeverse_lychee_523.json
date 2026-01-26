@@ -1,0 +1,1 @@
+["README.md", "benches/src/extract.rs", "examples/extract/extract.rs", "fixtures/TEST_CODE_BLOCKS.md", "lychee-bin/src/main.rs", "lychee-bin/src/options.rs", "lychee-bin/tests/cli.rs", "lychee-lib/src/collector.rs", "lychee-lib/src/extract/html5ever.rs", "lychee-lib/src/extract/html5gum.rs", "lychee-lib/src/extract/markdown.rs", "lychee-lib/src/extract/mod.rs"]

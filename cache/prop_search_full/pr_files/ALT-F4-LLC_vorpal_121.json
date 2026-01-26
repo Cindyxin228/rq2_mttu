@@ -1,0 +1,1 @@
+[".github/workflows/vorpal.yaml", "Cargo.lock", "cli/Cargo.toml", "cli/src/artifact.rs", "cli/src/main.rs", "registry/Cargo.toml", "registry/src/gha.rs", "registry/src/lib.rs", "sdk/Cargo.toml", "sdk/src/config/artifact/language/rust.rs", "sdk/src/config/mod.rs", "store/src/paths.rs", "store/src/temps.rs", "worker/src/artifact.rs"]

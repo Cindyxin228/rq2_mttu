@@ -1,0 +1,1 @@
+["rust/src/bindings/external/common/mset.rs", "rust/src/core/common/log/proxy.rs", "rust/src/core/common/log/tee_file.rs", "rust/src/core/plugin/state.rs", "rust/tests/core.rs"]

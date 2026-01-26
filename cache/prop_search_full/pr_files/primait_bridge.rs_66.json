@@ -1,0 +1,1 @@
+["Cargo.toml", "src/auth0/cache/crypto.rs", "src/auth0/cache/redis_impl.rs", "src/lib.rs", "src/response.rs", "src/response/graphql.rs", "tests/async_auth0/graphql.rs", "tests/async_bridge/graphql.rs"]

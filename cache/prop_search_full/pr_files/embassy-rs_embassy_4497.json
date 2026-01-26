@@ -1,0 +1,1 @@
+["embassy-nxp/Cargo.toml", "embassy-nxp/src/chips/lpc55.rs", "embassy-nxp/src/lib.rs", "embassy-nxp/src/usart.rs", "embassy-nxp/src/usart/lpc55.rs", "examples/lpc55s69/src/bin/usart_blocking.rs"]

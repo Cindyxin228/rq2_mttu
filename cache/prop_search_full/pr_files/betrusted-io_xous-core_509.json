@@ -1,0 +1,1 @@
+["libs/xous-bio/Cargo.toml", "libs/xous-bio/src/bio_tests/mod.rs", "libs/xous-bio/src/bio_tests/spi.rs", "libs/xous-bio/src/bio_tests/units.rs", "libs/xous-bio/src/lib.rs", "utralib/cramium/core.svd", "utralib/cramium/daric.svd", "utralib/cramium/soc.svd", "utralib/src/generated/cramium_soc.rs"]

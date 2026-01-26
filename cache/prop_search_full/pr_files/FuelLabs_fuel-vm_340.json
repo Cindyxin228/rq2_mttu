@@ -1,0 +1,1 @@
+["fuel-asm/Cargo.toml", "fuel-asm/src/args.rs", "fuel-asm/src/encoding_tests.rs", "fuel-asm/src/lib.rs", "fuel-asm/src/macros.rs", "fuel-asm/tests/encoding.rs", "fuel-vm/src/util.rs"]

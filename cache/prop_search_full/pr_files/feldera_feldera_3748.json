@@ -1,0 +1,1 @@
+["crates/adapters/src/integrated/delta_table/input.rs", "crates/adapters/src/integrated/delta_table/test.rs", "crates/feldera-types/src/transport/delta_table.rs", "docs/pipelines/connectors/sources/delta.md", "openapi.json"]

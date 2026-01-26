@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/release.yaml", "javascript/src/entrypoints/fullfat_workerd.ts", "javascript/src/entrypoints/fullfat_workerd_next.ts", "javascript/src/low_level.ts", "javascript/src/next_slim.ts", "javascript/test/basic_test.ts", "javascript/test/cursors.ts", "rust/automerge-wasm/Cargo.toml"]

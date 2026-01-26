@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/cli/options/bgpsec.rs", "src/cli/ta/options/mod.rs", "src/cli/ta/options/proxy.rs", "src/cli/ta/options/signer.rs", "src/commons/error.rs", "src/commons/file.rs", "src/daemon/http/tls.rs", "src/lib.rs"]

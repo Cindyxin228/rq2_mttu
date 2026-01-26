@@ -1,0 +1,1 @@
+["src/contract/attachment.rs", "src/contract/contract.rs", "src/contract/data.rs", "src/contract/fungible.rs", "src/contract/mod.rs", "src/stl.rs", "src/validation/logic.rs", "src/validation/state.rs", "src/vm/op_contract.rs"]

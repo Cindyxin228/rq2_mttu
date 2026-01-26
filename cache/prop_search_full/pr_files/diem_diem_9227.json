@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "language/tools/move-cli/src/sandbox/utils/on_disk_state_view.rs", "shuffle/cli/Cargo.toml", "shuffle/cli/README.md", "shuffle/cli/src/main.rs", "shuffle/cli/src/new.rs", "shuffle/cli/src/node.rs", "shuffle/genesis/src/lib.rs", "shuffle/genesis/src/main.rs", "shuffle/genesis/tests/e2e.rs", "x.toml"]

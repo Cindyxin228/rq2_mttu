@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/binstalk/Cargo.toml", "crates/binstalk/src/fetchers/gh_crate_meta.rs", "crates/binstalk/src/helpers.rs", "crates/binstalk/src/helpers/futures_resolver.rs"]

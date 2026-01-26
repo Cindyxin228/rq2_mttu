@@ -1,0 +1,1 @@
+["datafusion/common/src/config.rs", "datafusion/core/tests/sqllogictests/src/engines/datafusion/create_table.rs", "datafusion/core/tests/sqllogictests/test_files/information_schema.slt", "datafusion/sql/src/planner.rs", "datafusion/sql/src/relation/mod.rs", "datafusion/sql/src/statement.rs", "docs/source/user-guide/configs.md"]

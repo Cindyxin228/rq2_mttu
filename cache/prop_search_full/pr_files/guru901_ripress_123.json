@@ -1,0 +1,1 @@
+["src/error.rs", "src/lib.rs", "src/req/body/mod.rs", "src/req/body/text_data.rs", "src/req/query_params.rs", "src/req/route_params.rs", "src/tests/request/body.rs", "src/tests/request/route_params.rs"]

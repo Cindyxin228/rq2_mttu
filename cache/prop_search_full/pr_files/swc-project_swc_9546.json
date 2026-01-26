@@ -1,0 +1,1 @@
+[".changeset/warm-lies-work.md", "crates/swc/tests/fixture/issues-5xxx/5068/1/output/index.js", "crates/swc_ecma_minifier/tests/mangle/issue-9542/input.js", "crates/swc_ecma_minifier/tests/mangle/issue-9542/output.js", "crates/swc_ecma_transforms_base/src/rename/mod.rs"]

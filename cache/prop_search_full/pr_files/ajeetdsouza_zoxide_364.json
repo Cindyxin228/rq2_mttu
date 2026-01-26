@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/cmd/query.rs", "src/cmd/remove.rs", "src/db/mod.rs", "src/error.rs", "src/fzf.rs", "src/main.rs", "src/shell.rs", "src/util.rs", "tests/completions.rs"]

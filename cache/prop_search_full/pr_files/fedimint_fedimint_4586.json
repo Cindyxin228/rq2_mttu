@@ -1,0 +1,1 @@
+["devimint/src/cli.rs", "devimint/src/external.rs", "devimint/src/federation.rs", "fedimint-cli/src/client.rs", "fedimint-client/src/lib.rs", "fedimint-client/src/sm/executor.rs", "fedimint-core/src/db/mod.rs", "fedimint-core/src/task.rs", "fedimint-load-test-tool/src/main.rs", "fedimint-logging/src/lib.rs", "modules/fedimint-mint-client/src/lib.rs"]

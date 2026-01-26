@@ -1,0 +1,1 @@
+["crates/swc/tests/errors/lints/prefer-object-spread/default/.swcrc", "crates/swc/tests/errors/lints/prefer-object-spread/default/input.js", "crates/swc/tests/errors/lints/prefer-object-spread/default/output.swc-stderr", "crates/swc_ecma_lints/src/config.rs", "crates/swc_ecma_lints/src/rules/mod.rs", "crates/swc_ecma_lints/src/rules/prefer_object_spread.rs"]

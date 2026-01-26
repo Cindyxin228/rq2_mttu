@@ -1,0 +1,1 @@
+["examples/src/streaming/grpc_client.rs", "examples/src/streaming/grpc_server.rs", "volo-grpc/src/codec/decode.rs", "volo-grpc/src/status.rs"]

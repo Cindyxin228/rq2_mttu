@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "src/bin/rocfl.rs", "src/cmd/opts.rs", "src/ocfl/digest.rs", "src/ocfl/error.rs", "src/ocfl/repo.rs", "src/ocfl/store/fs.rs", "src/ocfl/validate/mod.rs", "tests/cli-tests.rs"]

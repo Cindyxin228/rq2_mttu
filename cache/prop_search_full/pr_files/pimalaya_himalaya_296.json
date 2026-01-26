@@ -1,0 +1,1 @@
+["src/config/account_entity.rs", "src/config/config_entity.rs", "src/domain/imap/imap_handler.rs", "src/domain/imap/imap_service.rs", "src/domain/mbox/mbox_handler.rs", "src/domain/msg/flag_handler.rs", "src/domain/msg/msg_entity.rs", "src/domain/msg/msg_handler.rs", "src/domain/msg/tpl_handler.rs", "src/domain/smtp/smtp_service.rs", "src/main.rs"]

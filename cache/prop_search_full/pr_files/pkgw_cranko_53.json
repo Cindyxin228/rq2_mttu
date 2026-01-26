@@ -1,0 +1,1 @@
+["src/cargo.rs", "src/csproj.rs", "src/github.rs", "src/logger.rs", "src/main.rs", "src/npm.rs", "src/project.rs", "src/pypa.rs", "src/repository.rs", "src/version.rs", "src/zenodo.rs", "www/fetch-tgz.tmpl.sh"]

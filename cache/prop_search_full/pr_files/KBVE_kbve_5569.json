@@ -1,0 +1,1 @@
+["apps/kube/_backups/ingress/application.yaml", "apps/kube/_backups/ingress/manifests/admission-create-job-patch.yaml", "apps/kube/_backups/ingress/manifests/admission-patch-job-patch.yaml", "apps/kube/_backups/ingress/manifests/kustomization.yaml", "apps/kube/ingress/application.yaml", "apps/kube/ingress/values.yaml"]

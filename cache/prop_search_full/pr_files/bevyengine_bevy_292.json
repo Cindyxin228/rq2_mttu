@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/bevy_ecs/src/system/query.rs", "crates/bevy_tasks/benches/iter.rs", "crates/bevy_tasks/src/iter/adapters.rs", "crates/bevy_tasks/src/iter/mod.rs", "crates/bevy_tasks/src/lib.rs", "examples/ecs/parallel_query.rs"]

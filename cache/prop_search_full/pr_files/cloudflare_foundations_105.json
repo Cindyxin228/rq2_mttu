@@ -1,0 +1,1 @@
+["Cargo.toml", "foundations/Cargo.toml", "foundations/src/telemetry/log/init.rs", "foundations/src/telemetry/log/mod.rs", "foundations/src/telemetry/log/retry_writer.rs"]

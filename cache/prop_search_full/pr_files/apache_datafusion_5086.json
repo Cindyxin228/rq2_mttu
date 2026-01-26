@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/decimal.rs", "datafusion/core/tests/sql/mod.rs", "datafusion/core/tests/sqllogictests/test_files/decimal.slt"]

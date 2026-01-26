@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/artifacts/git.rs", "src/keygen/tls.rs", "src/sign/pgp.rs", "src/tamper/apt_package_list.rs", "src/tamper/apt_release.rs", "src/tamper/pacman.rs"]

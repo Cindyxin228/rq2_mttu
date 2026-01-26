@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "appveyor.yml", "src/ipc.rs", "src/lib.rs", "src/platform/mod.rs", "src/platform/test.rs", "src/platform/windows/aliased_cell.rs", "src/platform/windows/mod.rs", "src/test.rs"]

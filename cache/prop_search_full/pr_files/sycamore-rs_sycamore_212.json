@@ -1,0 +1,1 @@
+["docs/Cargo.toml", "examples/hello/Cargo.toml", "examples/iteration/Cargo.toml", "examples/todomvc/Cargo.toml", "examples/tweened/Cargo.toml", "packages/sycamore-macro/Cargo.toml", "packages/sycamore-reactive/Cargo.toml", "packages/sycamore-router-macro/Cargo.toml", "packages/sycamore-router/Cargo.toml", "packages/sycamore/Cargo.toml", "website/Cargo.toml"]

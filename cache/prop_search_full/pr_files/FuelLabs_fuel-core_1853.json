@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/database/Cargo.toml", "crates/database/src/lib.rs", "crates/fuel-core/Cargo.toml", "crates/fuel-core/src/state/rocks_db.rs"]

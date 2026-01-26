@@ -1,0 +1,1 @@
+["crates/rattler_conda_types/Cargo.toml", "crates/rattler_conda_types/src/package/index.rs", "crates/rattler_conda_types/src/repo_data/mod.rs", "crates/rattler_conda_types/src/utils/serde.rs", "crates/rattler_solve/src/libsolv/input.rs"]

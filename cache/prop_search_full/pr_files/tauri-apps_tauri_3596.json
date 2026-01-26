@@ -1,0 +1,1 @@
+[".changes/builder-create-window-result.md", ".changes/label-validation.md", ".changes/runtime-window-creation-result.md", "core/tauri-runtime/src/lib.rs", "core/tauri-runtime/src/window.rs", "core/tauri/src/app.rs", "core/tauri/src/window.rs", "examples/multiwindow/src-tauri/src/main.rs"]

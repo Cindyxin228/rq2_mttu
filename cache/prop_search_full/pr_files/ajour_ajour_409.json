@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/core/src/config/mod.rs", "crates/core/src/error.rs", "crates/core/src/utility.rs", "src/cli.rs", "src/gui/element.rs", "src/gui/mod.rs", "src/gui/update.rs", "src/main.rs"]

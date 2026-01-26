@@ -1,0 +1,1 @@
+["core/lib.rs", "ext/web/lib.rs", "serde_v8/src/lib.rs", "serde_v8/src/magic/mod.rs", "serde_v8/src/magic/u16string.rs", "serde_v8/src/ser.rs", "serde_v8/src/serializable.rs"]

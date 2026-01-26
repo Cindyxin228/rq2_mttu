@@ -1,0 +1,1 @@
+["scripts/requirements-stac-geoparquet.txt", "stac-arrow/examples/two-sentinel-2-items.json", "stac-arrow/src/json.rs", "stac-arrow/src/lib.rs"]

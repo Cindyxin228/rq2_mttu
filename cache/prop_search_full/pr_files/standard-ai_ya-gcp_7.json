@@ -1,0 +1,1 @@
+["Cargo.toml", "generators/Cargo.toml", "src/auth/grpc.rs", "src/generated/google.api.rs", "src/generated/google.pubsub.v1.rs", "src/pubsub/publish_sink.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-cli/tests/commands/mod.rs", "crates/nu-cli/tests/commands/nu_highlight.rs", "crates/nu-cli/tests/completions/mod.rs", "crates/nu-cli/tests/completions/support/completions_helpers.rs", "crates/nu-cli/tests/completions/support/mod.rs", "crates/nu-cli/tests/main.rs", "crates/nu-parser/src/flatten.rs"]

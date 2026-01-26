@@ -1,0 +1,1 @@
+["src/libcore/macros.rs", "src/librustc_codegen_ssa/mir/block.rs", "src/librustc_mir/interpret/intrinsics.rs", "src/libsyntax_expand/base.rs", "src/libsyntax_pos/hygiene.rs", "src/test/ui/rfc-2091-track-caller/caller-location-intrinsic.rs"]

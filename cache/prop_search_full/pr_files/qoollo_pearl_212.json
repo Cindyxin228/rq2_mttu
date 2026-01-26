@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/blob/core.rs", "src/blob/file.rs", "src/blob/header.rs", "src/blob/index/bptree/core.rs", "src/blob/index/bptree/serializer.rs", "src/blob/index/header.rs", "src/blob/index/simple.rs", "src/record.rs", "src/tools/utils.rs"]

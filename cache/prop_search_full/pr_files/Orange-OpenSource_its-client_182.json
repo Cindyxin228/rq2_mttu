@@ -1,0 +1,1 @@
+["rust/examples/copycat.rs", "rust/examples/json_counter.rs", "rust/examples/telemetry.rs", "rust/src/client/application/pipeline.rs", "rust/src/transport/mqtt/mqtt_client.rs", "rust/src/transport/mqtt/mqtt_router.rs", "rust/src/transport/telemetry.rs"]

@@ -1,0 +1,1 @@
+["examples/linearizable-register.rs", "examples/paxos.rs", "examples/single-copy-register.rs"]

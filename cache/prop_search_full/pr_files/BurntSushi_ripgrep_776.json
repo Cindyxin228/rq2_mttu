@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "Cargo.toml", "build.rs", "ci/before_deploy.sh", "ci/install.sh", "ci/script.sh", "ci/sha256.sh", "ci/utils.sh", "doc/convert-to-man", "doc/rg.1", "doc/rg.1.md", "doc/rg.1.txt.tpl", "src/app.rs", "src/args.rs", "tests/tests.rs"]

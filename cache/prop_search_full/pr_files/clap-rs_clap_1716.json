@@ -1,0 +1,1 @@
+["bors.toml", "clap_derive/src/derives/clap.rs", "clap_derive/src/derives/from_argmatches.rs", "clap_derive/src/derives/into_app.rs", "clap_derive/src/derives/mod.rs", "clap_derive/src/derives/subcommand.rs", "clap_derive/src/lib.rs", "clap_derive/tests/basic.rs", "clap_derive/tests/privacy.rs"]

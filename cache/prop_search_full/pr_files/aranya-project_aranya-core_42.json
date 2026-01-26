@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/aranya-policy-vm/Cargo.toml", "crates/aranya-policy-vm/src/bench.rs", "crates/aranya-policy-vm/src/lib.rs", "crates/aranya-policy-vm/src/machine.rs", "crates/aranya-runtime/Cargo.toml", "crates/aranya-runtime/benches/vm.rs", "crates/aranya-runtime/src/testing/vm.rs", "deny.toml", "supply-chain/config.toml", "supply-chain/imports.lock"]

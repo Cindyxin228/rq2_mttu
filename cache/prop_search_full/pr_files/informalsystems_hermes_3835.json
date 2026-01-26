@@ -1,0 +1,1 @@
+[".changelog/unreleased/bug-fixes/ibc-relayer/3831-better-compat-check.md", "crates/relayer/src/chain/cosmos.rs", "crates/relayer/src/chain/cosmos/compatibility.rs", "crates/relayer/src/chain/cosmos/version.rs", "crates/relayer/src/error.rs", "crates/relayer/src/upgrade_chain.rs"]

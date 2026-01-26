@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cargo-contract/Cargo.toml", "crates/cargo-contract/src/main.rs", "crates/extrinsics/src/extrinsic_calls.rs", "crates/extrinsics/src/instantiate.rs", "crates/extrinsics/src/lib.rs"]

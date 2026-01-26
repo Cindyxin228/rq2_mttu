@@ -1,0 +1,1 @@
+["evento/src/event_store.rs", "evento/tests/event_store.rs", "example/.env", "example/src/command.rs", "example/src/order/aggregate.rs", "example/src/order/projection.rs", "example/src/product/aggregate.rs", "example/src/product/projection.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/per-pr.yml", "core-api/src/telemetry.rs", "core/Cargo.toml", "core/src/telemetry/otel.rs", "docker/docker-compose-ci.yaml", "etc/otel-collector-ci.yaml", "etc/otel-collector-config.yaml", "etc/prometheus.yaml", "test-utils/src/lib.rs", "tests/integ_tests/metrics_tests.rs"]

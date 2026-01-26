@@ -1,0 +1,1 @@
+["cli/main.rs", "cli/npm/cache.rs", "cli/npm/mod.rs", "cli/tests/testdata/041_info_flag.out", "cli/tests/testdata/041_info_flag_location.out", "cli/tests/testdata/info_json.out", "cli/tests/testdata/info_json_location.out"]

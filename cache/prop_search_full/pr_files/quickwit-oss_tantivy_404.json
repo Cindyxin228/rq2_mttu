@@ -1,0 +1,1 @@
+["src/core/index.rs", "src/core/mod.rs", "src/directory/managed_directory.rs", "src/directory/ram_directory.rs", "src/error.rs", "src/indexer/directory_lock.rs", "src/indexer/index_writer.rs", "src/indexer/mod.rs", "src/indexer/segment_manager.rs"]

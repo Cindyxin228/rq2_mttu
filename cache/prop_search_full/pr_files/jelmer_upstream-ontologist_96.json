@@ -1,0 +1,1 @@
+["Makefile", "pyproject.toml", "setup.py", "src/bin/autocodemeta.rs", "src/lib.rs", "src/providers/debian.rs", "src/vcs_command.rs", "upstream-ontologist-py/src/lib.rs", "upstream_ontologist/_upstream_ontologist.pyi", "upstream_ontologist/codemeta.py", "upstream_ontologist/guess.py"]

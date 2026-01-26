@@ -1,0 +1,1 @@
+["curve25519-dalek/src/backend/vector/avx2/edwards.rs", "curve25519-dalek/src/backend/vector/packed_simd.rs", "curve25519-dalek/src/edwards.rs", "curve25519-dalek/src/montgomery.rs", "curve25519-dalek/src/ristretto.rs", "ed25519-dalek/src/signing.rs"]

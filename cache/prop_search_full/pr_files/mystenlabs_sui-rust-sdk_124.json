@@ -1,0 +1,1 @@
+["crates/sui-crypto/src/ed25519.rs", "crates/sui-crypto/src/multisig.rs", "crates/sui-crypto/src/secp256k1.rs", "crates/sui-crypto/src/secp256r1.rs", "crates/sui-crypto/src/simple.rs", "crates/sui-crypto/src/zklogin/mod.rs", "crates/sui-crypto/src/zklogin/verify.rs"]

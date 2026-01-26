@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "bin/nanocl/src/commands/cargo_image.rs", "bin/nanocl/src/main.rs", "bin/nanocld/Cargo.toml", "bin/nanocld/src/services/cargo_image.rs", "bin/nanocld/src/utils/cargo_image.rs", "crates/nanocl_stubs/src/cargo_image.rs", "crates/nanocl_stubs/src/namespace.rs", "crates/nanocld_client/src/cargo_image.rs", "readme.md", "tests/busybox.tar.gz"]

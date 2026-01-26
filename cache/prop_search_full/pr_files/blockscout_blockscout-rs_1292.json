@@ -1,0 +1,1 @@
+["stats/stats-server/src/read_service.rs", "stats/stats-server/tests/it/mock_blockscout_reindex.rs", "stats/stats-server/tests/it/mock_blockscout_simple/stats_not_indexed.rs"]

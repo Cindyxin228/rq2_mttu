@@ -1,0 +1,1 @@
+["lightning/src/ln/msgs.rs", "lightning/src/onion_message/packet.rs", "lightning/src/routing/gossip.rs", "lightning/src/util/ser.rs"]

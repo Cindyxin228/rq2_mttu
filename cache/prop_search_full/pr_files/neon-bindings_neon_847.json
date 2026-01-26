@@ -1,0 +1,1 @@
+["crates/neon-runtime/src/napi/reference.rs", "src/handle/root.rs", "src/lifecycle.rs", "test/napi/Cargo.toml", "test/napi/lib/workers.js", "test/napi/src/js/workers.rs", "test/napi/src/lib.rs"]

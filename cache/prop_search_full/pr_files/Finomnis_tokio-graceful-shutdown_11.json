@@ -1,0 +1,1 @@
+[".gitignore", "examples/06_nested_subsystems.rs", "examples/07_nested_error.rs", "examples/08_panic_handling.rs", "examples/11_double_panic.rs", "examples/13_partial_shutdown.rs", "examples/14_partial_shutdown_error.rs", "src/subsystem/handle.rs", "tests/integration_test.rs"]

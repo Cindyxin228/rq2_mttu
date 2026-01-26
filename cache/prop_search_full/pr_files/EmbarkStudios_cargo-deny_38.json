@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "README.md", "deny.toml", "examples/02_deny_license/Cargo.toml", "examples/03_deny_copyleft/Cargo.lock", "examples/03_deny_copyleft/Cargo.toml", "examples/03_deny_copyleft/README.md", "examples/03_deny_copyleft/deny.toml", "examples/03_deny_copyleft/main.rs", "src/cargo-deny/check.rs", "src/licenses.rs"]

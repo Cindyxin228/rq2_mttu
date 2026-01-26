@@ -1,0 +1,1 @@
+[".devcontainer/Dockerfile", ".github/workflows/test.yml", "CHANGELOG.md", "COMPILING.md", "Cargo.lock", "Cargo.toml", "contrib/Dockerfile", "core/Cargo.toml", "core/src/error.rs", "discovery/Cargo.toml", "discovery/src/avahi.rs", "discovery/src/lib.rs", "discovery/src/server.rs", "oauth/Cargo.toml", "src/main.rs"]

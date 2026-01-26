@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".github/linters/.markdown-lint.yml", ".github/linters/.yaml-lint.yml", ".github/workflows/linter.yml", ".github/workflows/publish.yml", ".github/workflows/test.yml", ".packit.yml", "README.md", "src/lib.rs", "src/logger.rs", "src/main.rs", "src/parser.rs", "src/scanner.rs", "tests/integration_test.rs"]

@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".circleci/windows/java/deploy_release.bat", ".circleci/windows/python/deploy_release.bat"]

@@ -1,0 +1,1 @@
+[".github/workflows/async.yml", "async/CHANGELOG.md", "async/Cargo.toml", "async/data/extended-item.parquet", "async/data/items.ndjson", "async/src/error.rs", "async/src/lib.rs", "async/src/object_store.rs", "cli/CHANGELOG.md", "cli/src/args/items.rs", "cli/src/format.rs", "core/CHANGELOG.md", "core/src/item_collection.rs"]

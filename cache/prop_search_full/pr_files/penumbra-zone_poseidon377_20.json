@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "poseidon-paramgen/src/lib.rs", "poseidon-paramgen/src/mds.rs", "poseidon-paramgen/src/round_constants.rs", "poseidon-permutation/Cargo.toml", "poseidon-permutation/benches/permutation.rs", "poseidon-permutation/src/lib.rs", "poseidon-permutation/src/permutation.rs", "poseidonperm_x17.sage", "vendor/hadeshash/code/poseidonperm_x3_64_24_optimized.sage"]

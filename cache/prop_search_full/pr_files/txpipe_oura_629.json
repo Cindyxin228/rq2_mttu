@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/sinks/redis_streams.md", "examples/redis/daemon.toml", "examples/redis/docker-compose.yaml", "src/sinks/_pending/redis/mod.rs", "src/sinks/_pending/redis/run.rs", "src/sinks/_pending/redis/setup.rs", "src/sinks/mod.rs", "src/sinks/redis.rs"]

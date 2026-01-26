@@ -1,0 +1,1 @@
+["integration-tests/src/tests/client/process_blocks.rs", "runtime/near-test-contracts/src/lib.rs", "runtime/near-vm-runner/src/prepare.rs", "runtime/near-vm-runner/src/tests/compile_errors.rs"]

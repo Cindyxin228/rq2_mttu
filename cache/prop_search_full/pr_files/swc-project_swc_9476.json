@@ -1,0 +1,1 @@
+[".changeset/clean-jobs-build.md", "crates/swc_common/src/syntax_pos.rs", "crates/swc_common/src/syntax_pos/hygiene.rs", "crates/swc_plugin_runner/src/imported_fn/hygiene.rs", "crates/swc_plugin_runner/src/imported_fn/mod.rs"]

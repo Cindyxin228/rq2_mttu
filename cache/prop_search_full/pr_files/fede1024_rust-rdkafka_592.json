@@ -1,0 +1,1 @@
+["src/client.rs", "src/producer/base_producer.rs", "src/producer/future_producer.rs", "src/producer/mod.rs", "tests/test_low_producers.rs"]

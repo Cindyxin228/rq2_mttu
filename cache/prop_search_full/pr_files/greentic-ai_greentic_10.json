@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/channel_plugin/Cargo.toml", "greentic/flows/running/tester.ygtc", "greentic/flows/running/weather_bot.ygtc", "greentic/plugins/channels/running/channel_ws", "src/agent/agent_reply_schema.rs", "src/agent/mod.rs", "src/agent/ollama.rs", "src/process/qa_process.rs"]

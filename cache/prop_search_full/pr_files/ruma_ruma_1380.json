@@ -1,0 +1,1 @@
+["crates/ruma-client-api/src/push/set_pushrule.rs", "crates/ruma-client-api/src/state/get_state_events_for_key.rs", "crates/ruma-client-api/src/state/send_state_event.rs", "crates/ruma-common/src/api/metadata.rs", "crates/ruma-common/tests/api/manual_endpoint_impl.rs", "crates/ruma-macros/src/api/request/outgoing.rs"]

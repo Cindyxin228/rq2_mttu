@@ -1,0 +1,1 @@
+["diesel/Cargo.toml", "diesel/src/connection/instrumentation.rs", "diesel/src/mysql/connection/bind.rs", "diesel/src/mysql/connection/mod.rs", "diesel/src/pg/connection/cursor.rs", "diesel/src/pg/connection/mod.rs", "diesel/src/sqlite/connection/mod.rs"]

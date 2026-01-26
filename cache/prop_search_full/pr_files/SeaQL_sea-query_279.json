@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/sqlx_mysql/src/main.rs", "examples/sqlx_postgres/src/main.rs", "examples/sqlx_sqlite/src/main.rs", "src/backend/mysql/query.rs", "src/backend/query_builder.rs", "src/query/insert.rs", "src/query/mod.rs", "src/query/on_conflict.rs", "tests/mysql/query.rs", "tests/postgres/query.rs", "tests/sqlite/query.rs"]

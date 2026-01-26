@@ -1,0 +1,1 @@
+["src/gateway/bridge/shard_runner_message.rs", "src/model/channel/guild_channel.rs", "src/model/channel/message.rs", "src/model/channel/reaction.rs", "src/model/colour.rs", "src/model/guild/automod.rs", "src/model/guild/role.rs", "src/model/mod.rs", "src/model/prelude.rs", "src/utils/argument_convert/guild.rs", "src/utils/argument_convert/mod.rs"]

@@ -1,0 +1,1 @@
+["README.md", "src/engine.rs", "src/entity/article.rs", "src/markdown/render.rs", "static/zine.css", "static/zine.js", "templates/article.jinja", "templates/base.jinja", "templates/heading.jinja", "zine-entry.css"]

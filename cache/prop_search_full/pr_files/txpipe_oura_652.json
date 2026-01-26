@@ -1,0 +1,1 @@
+["examples/assert/daemon.toml", "src/sinks/_pending/assert/mod.rs", "src/sinks/_pending/assert/run.rs", "src/sinks/_pending/assert/setup.rs", "src/sinks/assert/checks.rs", "src/sinks/assert/mod.rs", "src/sinks/assert/prelude.rs", "src/sinks/mod.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/core/src/catalog.rs", "crates/core/src/network.rs", "crates/core/src/parse.rs", "crates/core/src/repository/backend/git.rs", "crates/core/src/repository/backend/tukui.rs", "crates/core/src/repository/backend/wowi.rs", "crates/core/src/utility.rs", "src/command/install.rs", "src/command/update.rs", "src/gui/mod.rs", "src/gui/update.rs"]

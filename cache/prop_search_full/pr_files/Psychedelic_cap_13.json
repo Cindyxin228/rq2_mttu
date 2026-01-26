@@ -1,0 +1,1 @@
+["candid/root.did", "candid/router.did", "canisters/root/src/lib.rs", "canisters/root/src/upgrade.rs", "canisters/router/src/installer.rs", "canisters/router/src/lib.rs", "canisters/router/src/upgrade.rs", "common/src/canister_map.rs", "common/src/user_canisters.rs"]

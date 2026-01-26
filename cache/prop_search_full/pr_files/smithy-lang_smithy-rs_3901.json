@@ -1,0 +1,1 @@
+["aws/sdk-adhoc-test/build.gradle.kts", "buildSrc/src/main/kotlin/CodegenTestCommon.kt", "codegen-client-test/build.gradle.kts", "tools/ci-cdk/canary-runner/src/build_bundle.rs", "tools/ci-scripts/check-semver-hazards", "tools/ci-scripts/codegen-diff/semver-checks.py"]

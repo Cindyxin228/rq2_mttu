@@ -1,0 +1,1 @@
+["build.rs", "src/fs/feature/git.rs", "src/fs/feature/xattr.rs", "src/fs/file.rs", "src/fs/filter.rs", "src/options/filter.rs", "src/options/misfire.rs", "src/options/parser.rs", "src/options/style.rs", "src/options/view.rs", "src/output/details.rs", "src/output/grid.rs", "src/output/icons.rs", "src/output/table.rs", "src/output/time.rs"]

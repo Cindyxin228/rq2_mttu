@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "codegen/Cargo.toml", "examples/Cargo.toml", "subxt/Cargo.toml", "testing/integration-tests/Cargo.toml", "testing/test-runtime/Cargo.toml"]

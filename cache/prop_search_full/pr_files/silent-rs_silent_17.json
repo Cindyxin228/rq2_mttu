@@ -1,0 +1,1 @@
+[".DS_Store", ".github/workflows/build.yml", ".pre-commit-config.yaml", "examples/websocket-chat/src/main.rs", "examples/websocket/src/main.rs", "silent/src/lib.rs", "silent/src/route/handler_append.rs", "silent/src/ws/handler_wrapper_websocket.rs", "silent/src/ws/mod.rs", "silent/src/ws/upgrade.rs", "silent/src/ws/websocket.rs", "silent/src/ws/websocket_handler.rs"]

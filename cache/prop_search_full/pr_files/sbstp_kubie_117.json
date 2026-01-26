@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/cmd/context.rs", "src/cmd/delete.rs", "src/cmd/edit.rs", "src/cmd/mod.rs", "src/cmd/namespace.rs", "src/fzf.rs", "src/kubeconfig.rs", "src/main.rs", "src/shell/detect.rs", "src/shell/mod.rs", "src/shell/prompt.rs"]

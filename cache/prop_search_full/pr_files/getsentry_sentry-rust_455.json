@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "sentry-anyhow/src/lib.rs", "sentry-tower/src/lib.rs", "sentry-tracing/src/layer.rs", "sentry/src/transports/curl.rs", "sentry/src/transports/reqwest.rs", "sentry/src/transports/ureq.rs"]

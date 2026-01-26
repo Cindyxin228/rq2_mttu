@@ -1,0 +1,1 @@
+["examples/basic/tests/fuzz_operations/fuzz_target.rs", "lib/bolero-generator/Cargo.toml", "lib/bolero-generator/src/uniform.rs", "lib/bolero-kani/src/lib.rs"]

@@ -1,0 +1,1 @@
+["examples/cache-optimization/models/message.rs", "twilight-cache-inmemory/src/event/message.rs", "twilight-cache-inmemory/src/model/message.rs", "twilight-cache-inmemory/src/traits.rs", "twilight-model/src/gateway/event/mod.rs", "twilight-model/src/gateway/payload/incoming/message_update.rs"]

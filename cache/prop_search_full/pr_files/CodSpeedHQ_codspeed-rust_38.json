@@ -1,0 +1,1 @@
+["crates/cargo-codspeed/src/build.rs", "crates/cargo-codspeed/tests/helpers.rs", "crates/cargo-codspeed/tests/package_in_deps.in/.gitignore", "crates/cargo-codspeed/tests/package_in_deps.in/Cargo.toml", "crates/cargo-codspeed/tests/package_in_deps.in/benches/bencher_example.rs", "crates/cargo-codspeed/tests/package_in_deps.rs"]

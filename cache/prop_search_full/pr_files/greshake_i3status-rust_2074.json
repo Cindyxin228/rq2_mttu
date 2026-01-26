@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/blocks/packages/pacman.rs", "src/blocks/prelude.rs", "src/blocks/privacy/pipewire.rs", "src/blocks/rofication.rs", "src/blocks/sound/pulseaudio.rs", "src/blocks/weather/met_no.rs", "src/formatting/formatter/datetime.rs", "src/lib.rs", "src/util.rs"]

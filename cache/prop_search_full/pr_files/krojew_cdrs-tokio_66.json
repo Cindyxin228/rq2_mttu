@@ -1,0 +1,1 @@
+["cassandra-protocol/src/frame.rs", "cassandra-protocol/src/frame/events.rs", "cassandra-protocol/src/frame/frame_error.rs", "cassandra-protocol/src/frame/frame_register.rs", "cassandra-protocol/src/frame/frame_supported.rs", "cassandra-protocol/src/types.rs", "cdrs-tokio/src/frame_parser.rs"]

@@ -1,0 +1,1 @@
+["src/client.rs", "src/helix/channels/get_channel_information.rs", "src/helix/channels/modify_channel_information.rs", "src/helix/eventsub/delete_eventsub_subscription.rs", "src/helix/points/delete_custom_reward.rs", "src/helix/streams/replace_stream_tags.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/backends/capture/avfoundation.rs", "src/backends/capture/gst_backend.rs", "src/backends/capture/msmf_backend.rs", "src/backends/capture/v4l2_backend.rs", "src/camera.rs", "src/query.rs", "src/utils.rs"]

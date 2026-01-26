@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yaml", "examples/logging_example.rs", "src/acp_protocol.rs", "src/client.rs", "src/types.rs", "tests/plan_message_test.rs"]

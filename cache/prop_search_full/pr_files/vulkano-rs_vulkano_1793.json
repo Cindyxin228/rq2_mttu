@@ -1,0 +1,1 @@
+["vulkano-shaders/Cargo.toml", "vulkano-shaders/src/structs.rs", "vulkano/Cargo.toml", "vulkano/autogen/extensions.rs", "vulkano/autogen/features.rs", "vulkano/autogen/fns.rs", "vulkano/autogen/properties.rs", "vulkano/autogen/spirv_parse.rs", "vulkano/autogen/spirv_reqs.rs", "vulkano/src/swapchain/capabilities.rs", "vulkano/vk.xml"]

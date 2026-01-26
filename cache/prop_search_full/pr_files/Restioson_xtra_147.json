@@ -1,0 +1,1 @@
+["examples/crude_bench.rs", "src/address.rs", "src/broadcast_future.rs", "src/inbox.rs", "src/inbox/tx.rs", "src/lib.rs", "src/message_channel.rs", "src/receiver.rs", "src/send_future.rs", "tests/basic.rs"]

@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/generics/src/main.nr", "crates/noirc_driver/src/contract.rs", "crates/noirc_frontend/src/lexer/lexer.rs", "crates/noirc_frontend/src/parser/errors.rs", "crates/noirc_frontend/src/parser/parser.rs"]

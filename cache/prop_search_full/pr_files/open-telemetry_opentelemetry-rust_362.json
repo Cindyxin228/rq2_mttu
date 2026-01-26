@@ -1,0 +1,1 @@
+["opentelemetry-otlp/src/proto/metrics.rs", "opentelemetry-otlp/src/proto/opentelemetry-proto", "opentelemetry/Cargo.toml", "opentelemetry/src/api/trace/mod.rs", "opentelemetry/src/exporter/trace/mod.rs", "opentelemetry/src/sdk/trace/provider.rs", "opentelemetry/src/sdk/trace/span_processor.rs"]

@@ -1,0 +1,1 @@
+[".agignore", ".travis.yml", "bin/Cargo.toml", "bin/src/common/server.rs", "lib/Cargo.toml", "lib/src/rdb/datastore.rs", "lib/src/rdb/managers.rs"]

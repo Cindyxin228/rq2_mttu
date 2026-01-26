@@ -1,0 +1,1 @@
+["crates/store/re_datafusion/src/grpc_streaming_provider.rs", "crates/store/re_datafusion/src/partition_table.rs", "crates/store/re_datafusion/src/search_provider.rs", "crates/store/re_datafusion/src/table_entry_provider.rs", "crates/store/re_log_types/src/entry_id.rs", "crates/store/re_log_types/src/lib.rs"]

@@ -1,0 +1,1 @@
+["src/cargo/sources/registry/mod.rs", "src/cargo/util/semver_ext.rs", "src/doc/man/cargo-update.md", "src/doc/man/generated_txt/cargo-update.txt", "src/doc/src/commands/cargo-update.md", "src/doc/src/reference/resolver.md", "src/etc/man/cargo-update.1", "tests/testsuite/update.rs"]

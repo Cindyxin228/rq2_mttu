@@ -1,0 +1,1 @@
+["datafusion/Cargo.toml", "datafusion/fuzz-utils/Cargo.toml", "datafusion/fuzz-utils/src/lib.rs", "datafusion/src/execution/memory_manager.rs", "datafusion/src/execution/mod.rs", "datafusion/src/physical_plan/sorts/sort.rs", "datafusion/tests/merge_fuzz.rs", "datafusion/tests/order_spill_fuzz.rs"]

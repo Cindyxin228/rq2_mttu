@@ -1,0 +1,1 @@
+["bin/as2bindle.rs", "bin/cargo2bindle.rs", "docs/signing-spec.md", "src/invoice/mod.rs", "src/invoice/signature.rs", "src/search/strict.rs"]

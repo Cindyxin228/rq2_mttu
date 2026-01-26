@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/release.yml", "src/bin/cddl.rs", "src/lexer.rs", "src/parser.rs", "src/validation/cbor.rs", "src/validation/json/mod.rs", "www/package-lock.json"]

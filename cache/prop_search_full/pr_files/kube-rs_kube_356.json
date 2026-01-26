@@ -1,0 +1,1 @@
+[".circleci/config.yml", "examples/Cargo.toml", "examples/README.md", "examples/crd_derive.rs", "examples/crd_derive_no_schema.rs", "kube-derive/Cargo.toml", "kube-derive/src/custom_resource.rs"]

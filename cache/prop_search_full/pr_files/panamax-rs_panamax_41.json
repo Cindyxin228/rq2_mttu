@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/crates.rs", "src/crates_index.rs", "src/download.rs", "src/main.rs", "src/mirror.default.toml", "src/mirror.rs", "src/progress_bar.rs", "src/rustup.rs"]

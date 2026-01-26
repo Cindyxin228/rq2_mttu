@@ -1,0 +1,1 @@
+["src/cli.rs", "src/context.rs", "src/env/environment.rs", "src/env/environment_syncer.rs", "src/lib.rs", "src/main.rs", "src/utils.rs", "tests/fixtures/formats/script_multiline.nu", "tests/shell/pipeline/commands/external.rs"]

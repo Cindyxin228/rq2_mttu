@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/main.rs", "src/tests/audit_as_crates_io.rs", "src/tests/snapshots/cargo_vet__tests__audit_as_crates_io__complex-audit-as-crates-io-max-wrong-json.snap", "tests/snapshots/test_cli__test-project-bad-certify-human.snap", "tests/snapshots/test_cli__test-project-bad-certify-json.snap", "tests/test-cli.rs"]

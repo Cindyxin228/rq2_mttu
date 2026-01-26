@@ -1,0 +1,1 @@
+[".changelog/presigned-request-fix.md", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/HttpResponseChecksumDecorator.kt", "aws/sdk/integration-tests/s3/tests/express.rs", "aws/sdk/integration-tests/s3/tests/presigning.rs", "tools/ci-cdk/canary-lambda/src/latest/s3_canary.rs", "tools/ci-cdk/canary-runner/src/build_bundle.rs"]

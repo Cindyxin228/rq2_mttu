@@ -1,0 +1,1 @@
+["architecture.md", "examples/configmapgen_controller.rs", "examples/secret_syncer.rs", "kube-client/src/api/entry.rs", "kube-runtime/src/controller/mod.rs", "kube-runtime/src/finalizer.rs"]

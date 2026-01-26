@@ -1,0 +1,1 @@
+["sdk/security_keyvault/src/certificates/models.rs", "sdk/security_keyvault/src/certificates/operations/create.rs", "sdk/security_keyvault/src/certificates/operations/merge.rs", "sdk/security_keyvault/src/certificates/operations/mod.rs", "sdk/security_keyvault/src/clients/certificate_client.rs"]

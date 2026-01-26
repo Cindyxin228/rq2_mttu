@@ -1,0 +1,1 @@
+["core/src/color_text.rs", "tui/src/tui/editor/editor_buffer/editor_buffer_struct.rs", "tui/src/tui/editor/editor_buffer/selection_map.rs", "tui/src/tui/editor/editor_component/editor_event.rs", "tui/src/tui/editor/editor_engine/editor_engine_internal_api.rs"]

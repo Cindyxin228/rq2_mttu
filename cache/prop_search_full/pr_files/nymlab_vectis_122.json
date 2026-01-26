@@ -1,0 +1,1 @@
+[".github/workflows/doc.yml", ".github/workflows/docker.yml", ".github/workflows/publish_types.yml", ".github/workflows/tests.yml", ".gitignore", "cli/interfaces/build/tsconfig.json", "cli/package.json", "cli/tsconfig.types.json", "cli/types/package.json"]

@@ -1,0 +1,1 @@
+[".cirrus.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/httpd.rs", "src/httpd/auth.rs", "src/httpd/auth/basic_auth.rs", "src/httpd/auth/basic_auth_config.rs", "src/httpd/errors.rs", "src/httpd/handlers.rs", "src/httpd/templates.rs", "src/main.rs"]

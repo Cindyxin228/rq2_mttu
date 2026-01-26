@@ -1,0 +1,1 @@
+["Cargo.toml", "src/binary/reader.rs", "src/date.rs", "src/plist.rs", "src/xml/reader.rs", "src/xml/writer.rs", "tests/serde_tests/mod.rs"]

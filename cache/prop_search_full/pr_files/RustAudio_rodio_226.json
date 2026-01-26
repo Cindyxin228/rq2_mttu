@@ -1,0 +1,1 @@
+["src/decoder/flac.rs", "tests/audacity16bit_level5.flac", "tests/audacity24bit_level0.flac", "tests/audacity24bit_level5.flac", "tests/audacity24bit_level8.flac", "tests/flac_test.rs"]

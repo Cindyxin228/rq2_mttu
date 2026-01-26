@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/oapi/src/rapidoc/mod.rs", "crates/oapi/src/redoc/mod.rs", "crates/oapi/src/scalar/mod.rs", "crates/oapi/src/swagger_ui/mod.rs", "examples/oapi-todos/src/main.rs"]

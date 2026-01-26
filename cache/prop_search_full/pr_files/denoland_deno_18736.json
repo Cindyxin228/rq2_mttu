@@ -1,0 +1,1 @@
+["cli/tests/node_compat/config.json", "cli/tests/node_compat/test/fixtures/keys/agent1-cert.pem", "cli/tests/node_compat/test/fixtures/keys/agent1-key.pem", "cli/tests/node_compat/test/fixtures/keys/ca1-cert.pem", "cli/tests/node_compat/test/parallel/test-crypto-secret-keygen.js", "tools/node_compat/TODO.md", "tools/node_compat/setup.ts"]

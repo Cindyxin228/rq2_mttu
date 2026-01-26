@@ -1,0 +1,1 @@
+["common/Cargo.lock", "protocols/v2/framing-sv2/Cargo.toml", "protocols/v2/subprotocols/common-messages/Cargo.toml", "roles/Cargo.lock", "test/integration-tests/Cargo.lock", "utils/Cargo.lock"]

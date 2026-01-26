@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "src/grid.rs", "src/latin_square.rs", "src/queens.rs", "src/sudoku.rs", "tests/common.rs", "tests/regression_tests.rs", "tests/sudoku_tests.rs"]

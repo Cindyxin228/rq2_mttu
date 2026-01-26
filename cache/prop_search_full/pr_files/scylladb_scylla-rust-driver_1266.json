@@ -1,0 +1,1 @@
+["docs/source/schema/schema.md", "scylla/src/client/session_test.rs", "scylla/src/cluster/state.rs", "scylla/src/policies/load_balancing/default.rs", "scylla/tests/integration/utils.rs"]

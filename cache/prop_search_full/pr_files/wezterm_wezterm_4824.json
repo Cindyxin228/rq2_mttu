@@ -1,0 +1,1 @@
+["wezterm-gui/src/main.rs", "wezterm-gui/src/resize_increment_calculator.rs", "wezterm-gui/src/termwindow/mod.rs", "wezterm-gui/src/termwindow/resize.rs", "window/src/lib.rs", "window/src/os/macos/window.rs", "window/src/os/wayland/window.rs", "window/src/os/x11/window.rs", "window/src/os/x_and_wayland.rs"]

@@ -1,0 +1,1 @@
+["src/accessor.rs", "src/io_util/seekable_reader.rs", "src/object.rs", "src/operator.rs", "src/ops.rs", "src/services/azblob/backend.rs", "src/services/fs/backend.rs", "src/services/fs/object_stream.rs", "src/services/memory/backend.rs", "src/services/s3/backend.rs", "tests/behavior/behavior.rs"]

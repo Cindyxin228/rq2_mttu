@@ -1,0 +1,1 @@
+["addons/bitcoin/src/commands/actions/encode.rs", "addons/bitcoin/src/functions/opcodes/constants.rs", "addons/evm/src/codec/contract_deployment/create_opts.rs", "addons/stacks/src/commands/actions/mod.rs", "crates/txtx-addon-kit/src/types/types.rs"]

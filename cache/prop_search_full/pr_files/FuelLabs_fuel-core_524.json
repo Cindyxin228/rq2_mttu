@@ -1,0 +1,1 @@
+["fuel-core-interfaces/src/db.rs", "fuel-core-interfaces/src/model/messages.rs", "fuel-core-interfaces/src/relayer.rs", "fuel-core-interfaces/src/txpool.rs", "fuel-core/src/database/message.rs", "fuel-relayer/src/finalization_queue.rs", "fuel-txpool/src/containers/dependency.rs", "fuel-txpool/src/txpool.rs"]

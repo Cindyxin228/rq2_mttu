@@ -1,0 +1,1 @@
+["src/app.rs", "src/cli.rs", "src/leptos_extra/mod.rs", "src/leptos_extra/query.rs", "src/leptos_extra/signal.rs", "src/lib.rs", "src/nix/flake/mod.rs", "src/nix/flake/show.rs", "src/nix/flake/url.rs", "src/nix/mod.rs", "src/query.rs", "src/widget.rs"]

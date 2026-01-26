@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".travis.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "examples/key_util.rs", "examples/sodium_keypair.rs", "src/cipher_with_mac.rs", "src/erased.rs", "src/lib.rs", "src/pure.rs", "src/rcrypto.rs", "src/sodium.rs", "src/traits.rs", "src/utils.rs", "tests/serialization.rs", "tests/version_match.rs", "wasm/Cargo.toml"]

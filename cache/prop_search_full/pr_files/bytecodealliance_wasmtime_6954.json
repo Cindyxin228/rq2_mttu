@@ -1,0 +1,1 @@
+["cranelift/codegen/src/isa/riscv64/inst/mod.rs", "cranelift/codegen/src/isa/riscv64/inst/vector.rs", "cranelift/filetests/filetests/isa/riscv64/issue-6954.clif", "cranelift/filetests/filetests/runtests/issue-6954.clif"]

@@ -1,0 +1,1 @@
+["sdk.code-workspace", "sdk/rust/Cargo.lock", "sdk/rust/Cargo.toml", "sdk/rust/src/file/file_id.rs", "sdk/rust/src/key/public_key/tests.rs", "sdk/rust/src/protobuf/convert.rs", "todo-list.txt"]

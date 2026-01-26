@@ -1,0 +1,1 @@
+["cli/flags.rs", "cli/lsp/cache.rs", "cli/main.rs", "cli/proc_state.rs", "cli/standalone.rs", "cli/tools/coverage/mod.rs", "cli/tools/doc.rs", "cli/tools/fmt.rs", "cli/tools/lint.rs", "cli/tools/standalone.rs", "cli/tools/test.rs"]

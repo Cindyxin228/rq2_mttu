@@ -1,0 +1,1 @@
+["reqwest-tracing/CHANGELOG.md", "reqwest-tracing/src/lib.rs", "reqwest-tracing/src/reqwest_otel_span_builder.rs", "reqwest-tracing/src/reqwest_otel_span_macro.rs"]

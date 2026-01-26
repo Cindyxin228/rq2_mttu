@@ -1,0 +1,1 @@
+["Cargo.toml", "src/transport/sendmail/mod.rs", "src/transport/smtp/client/mod.rs", "src/transport/smtp/commands.rs", "src/transport/stub/mod.rs"]

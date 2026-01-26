@@ -1,0 +1,1 @@
+["Cargo.lock", "docker-compose.yml", "example/Cargo.toml", "example/src/command.rs", "example/src/main.rs", "example/src/order/api.rs", "example/src/order/mod.rs", "example/src/order/projection.rs", "example/src/product/api.rs", "example/src/product/mod.rs", "example/src/product/projection.rs"]

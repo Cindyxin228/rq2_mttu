@@ -1,0 +1,1 @@
+["Cargo.toml", "src/core/index.rs", "src/core/index_meta.rs", "src/directory/mmap_directory.rs", "src/indexer/index_writer.rs", "src/indexer/merge_operation.rs", "src/indexer/mod.rs", "src/indexer/prepared_commit.rs", "src/indexer/segment_manager.rs", "src/indexer/segment_updater.rs", "src/snippet/mod.rs"]

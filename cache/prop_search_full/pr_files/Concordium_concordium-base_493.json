@@ -1,0 +1,1 @@
+["concordium-base.cabal", "haskell-src/Concordium/MerkleProofs.hs", "haskell-src/Concordium/Types/ProtocolVersion.hs", "haskell-src/Concordium/Types/Transactions.hs", "haskell-tests/ConcordiumTests/MerkleProofs.hs", "haskell-tests/Spec.hs"]

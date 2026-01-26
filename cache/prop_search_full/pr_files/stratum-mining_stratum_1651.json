@@ -1,0 +1,1 @@
+["protocols/v2/roles-logic-sv2/Cargo.toml", "protocols/v2/roles-logic-sv2/src/channel_logic/channel_factory.rs", "protocols/v2/subprotocols/mining/Cargo.toml", "protocols/v2/subprotocols/mining/src/set_custom_mining_job.rs", "roles/Cargo.lock", "roles/jd-client/src/lib/upstream_sv2/upstream.rs"]

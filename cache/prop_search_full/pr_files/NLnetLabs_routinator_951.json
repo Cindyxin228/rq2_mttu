@@ -1,0 +1,1 @@
+["src/collector/rrdp/archive.rs", "src/collector/rrdp/base.rs", "src/collector/rrdp/update.rs", "src/utils/binio.rs"]

@@ -1,0 +1,1 @@
+["integration-tests/test-repo/config/recipe.yml", "template/src/lib.rs", "template/templates/Containerfile.j2", "template/templates/modules/modules.j2", "template/templates/stages.j2"]

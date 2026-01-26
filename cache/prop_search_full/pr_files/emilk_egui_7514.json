@@ -1,0 +1,1 @@
+["crates/egui/src/widgets/label.rs", "tests/egui_tests/tests/regression_tests.rs", "tests/egui_tests/tests/snapshots/hovering_should_preserve_text_format.png"]

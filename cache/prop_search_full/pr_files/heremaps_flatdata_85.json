@@ -1,0 +1,1 @@
+["generator/generators/RustGenerator.py", "generator/templates/rust/constant.jinja2", "tests/generators/test_rust_generator.py"]

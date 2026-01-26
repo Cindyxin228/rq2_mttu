@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc/Cargo.toml", "crates/swc/src/config/mod.rs", "crates/swc_cached/Cargo.toml", "crates/swc_cached/src/lib.rs", "crates/swc_cached/src/regex.rs", "crates/swc_ecma_loader/Cargo.toml", "crates/swc_ecma_loader/src/resolvers/tsc.rs", "crates/swc_ecma_minifier/Cargo.toml", "crates/swc_ecma_minifier/src/option/mod.rs", "crates/swc_stylis/tests/prefixer.rs"]

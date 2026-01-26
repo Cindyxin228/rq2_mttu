@@ -1,0 +1,1 @@
+["src/compile_fail/must_use.rs", "src/iter/flat_map.rs", "src/iter/flat_map_iter.rs", "src/iter/flatten.rs", "src/iter/flatten_iter.rs", "src/iter/mod.rs", "tests/clones.rs", "tests/debug.rs"]

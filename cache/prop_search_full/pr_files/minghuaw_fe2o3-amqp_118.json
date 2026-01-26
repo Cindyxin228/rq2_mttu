@@ -1,0 +1,1 @@
+["serde_amqp/Cargo.toml", "serde_amqp/tests/described_list.rs", "serde_amqp_derive/src/lib.rs", "serde_amqp_derive/src/util.rs"]

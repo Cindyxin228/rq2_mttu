@@ -1,0 +1,1 @@
+["lsp-async-stub/Cargo.toml", "lsp-async-stub/src/handler.rs", "lsp-async-stub/src/lib.rs", "lsp-async-stub/src/listen.rs", "lsp-async-stub/src/listen/stdio.rs", "lsp-async-stub/src/listen/tcp.rs", "taplo-lsp/Cargo.toml", "taplo-lsp/bin/lsp/stdio.rs", "taplo-lsp/bin/lsp/tcp.rs", "taplo-lsp/src/external/native/mod.rs", "taplo-lsp/src/external/wasm32/mod.rs"]

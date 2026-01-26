@@ -1,0 +1,1 @@
+["ecdsa/CHANGELOG.md", "ecdsa/Cargo.toml", "ecdsa/src/der.rs", "ecdsa/src/hazmat.rs", "ecdsa/src/lib.rs", "ecdsa/src/recovery.rs", "ecdsa/src/signing.rs", "ecdsa/src/verifying.rs"]

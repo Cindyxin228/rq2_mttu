@@ -1,0 +1,1 @@
+[".travis.yml", "CHANGELOG.md", "README.md", "integration_tests/Cargo.toml", "integration_tests/docker_test_run.py", "integration_tests/scripts/run_ceph_tests.sh", "integration_tests/scripts/run_minio_tests.sh", "integration_tests/tests/s3.rs", "rusoto/core/src/signature.rs"]

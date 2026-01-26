@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/base64.rs", "src/client/auth.rs", "src/client/auth/aws.rs", "src/client/auth/scram.rs", "src/lib.rs", "src/test/csfle.rs", "src/test/csfle/prose.rs"]

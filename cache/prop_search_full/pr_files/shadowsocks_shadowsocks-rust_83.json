@@ -1,0 +1,1 @@
+["debian/changelog", "debian/control", "debian/copyright", "debian/rules", "debian/shadowsocks-rust-local@.service", "debian/shadowsocks-rust-server@.service", "debian/shadowsocks-rust.service"]

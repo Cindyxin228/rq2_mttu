@@ -1,0 +1,1 @@
+["crates/dprint/src/arg_parser.rs", "crates/dprint/src/commands/formatting.rs", "crates/dprint/src/configuration/get_init_config_file_text.rs", "crates/dprint/src/configuration/resolve_config.rs", "crates/dprint/src/incremental/mod.rs", "website/cli.md", "website/config.md"]

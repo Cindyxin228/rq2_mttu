@@ -1,0 +1,1 @@
+["src/params.rs", "src/resources.rs", "src/resources/charge_ext.rs", "src/resources/customer_ext.rs", "src/resources/invoice_ext.rs", "src/resources/payment_intent_ext.rs", "src/resources/price_ext.rs", "src/resources/product_ext.rs", "src/resources/subscription_ext.rs"]

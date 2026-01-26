@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "README.tpl", "src/conn/mod.rs", "src/conn/pool/mod.rs", "src/conn/routines/helpers.rs", "src/error.rs", "src/lib.rs", "src/local_infile_handler/builtin.rs", "src/local_infile_handler/mod.rs", "src/opts.rs", "tests/exports.rs"]

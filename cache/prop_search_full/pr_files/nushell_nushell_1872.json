@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/src/commands/autoview.rs", "crates/nu-plugin/Cargo.toml", "crates/nu-plugin/src/test_helpers.rs", "crates/nu_plugin_str/Cargo.toml", "crates/nu_plugin_str/src/nu/mod.rs", "crates/nu_plugin_str/src/nu/tests.rs", "crates/nu_plugin_str/src/strutils.rs", "tests/plugins/core_str.rs"]

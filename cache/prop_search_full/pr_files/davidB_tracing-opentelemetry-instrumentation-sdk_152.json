@@ -1,0 +1,1 @@
+["fake-opentelemetry-collector/Cargo.toml", "fake-opentelemetry-collector/src/common.rs", "fake-opentelemetry-collector/src/lib.rs", "fake-opentelemetry-collector/src/logs.rs", "fake-opentelemetry-collector/src/snapshots/fake_opentelemetry_collector__tests__fake_logger_and_collector.snap", "fake-opentelemetry-collector/src/trace.rs"]

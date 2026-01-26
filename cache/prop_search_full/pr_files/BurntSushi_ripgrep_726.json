@@ -1,0 +1,1 @@
+["globset/README.md", "globset/src/glob.rs", "globset/src/lib.rs", "grep/src/nonl.rs", "grep/src/search.rs", "ignore/src/gitignore.rs", "ignore/src/overrides.rs", "ignore/src/types.rs", "ignore/src/walk.rs", "src/args.rs", "src/decoder.rs", "src/printer.rs", "src/search_stream.rs", "src/worker.rs", "termcolor/README.md", "termcolor/src/lib.rs"]

@@ -1,0 +1,1 @@
+["lib/Cargo.toml", "lib/src/container/encapsulate.rs", "lib/src/container/ocidir.rs", "lib/src/container/update_detachedmeta.rs", "lib/src/integrationtest.rs"]

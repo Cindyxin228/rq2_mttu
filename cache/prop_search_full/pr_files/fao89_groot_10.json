@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "docker-compose.yml", "src/db_utils/mod.rs", "src/models.rs", "src/sync/collections.rs", "src/sync/common.rs", "src/sync/roles.rs", "src/web/routes.rs"]

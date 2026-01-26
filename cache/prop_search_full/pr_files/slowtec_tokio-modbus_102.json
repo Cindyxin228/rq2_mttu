@@ -1,0 +1,1 @@
+[".github/workflows/pre-commit.yaml", ".github/workflows/security_audit.yaml", "Cargo.toml", "src/frame/mod.rs", "src/lib.rs", "src/server/rtu.rs", "src/service/rtu.rs", "src/slave.rs"]

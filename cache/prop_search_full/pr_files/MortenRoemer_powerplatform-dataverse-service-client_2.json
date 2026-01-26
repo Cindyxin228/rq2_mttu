@@ -1,0 +1,1 @@
+["Cargo.toml", "src/auth/mod.rs", "src/auth/no_auth.rs", "src/batch.rs", "src/client.rs", "src/entity.rs", "src/lib.rs", "src/query/mod.rs"]

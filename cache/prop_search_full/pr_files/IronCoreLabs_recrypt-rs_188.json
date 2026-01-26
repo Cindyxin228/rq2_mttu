@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "CHANGELOG.md", "Cargo.toml", "flake.lock", "rust-toolchain.toml", "src/api.rs", "src/api_480.rs", "src/internal/ed25519.rs", "src/lib.rs"]

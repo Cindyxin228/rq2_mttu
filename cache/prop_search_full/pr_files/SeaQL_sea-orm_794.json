@@ -1,0 +1,1 @@
+["sea-orm-macros/src/derives/mod.rs", "sea-orm-macros/src/derives/try_getable_from_json.rs", "sea-orm-macros/src/lib.rs", "src/entity/prelude.rs", "src/executor/query.rs", "src/lib.rs", "tests/common/features/json_struct.rs", "tests/common/features/mod.rs", "tests/common/features/schema.rs", "tests/json_struct_tests.rs"]

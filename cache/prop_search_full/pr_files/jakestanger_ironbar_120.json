@@ -1,0 +1,1 @@
+["docs/modules/Clipboard.md", "docs/modules/Launcher.md", "docs/modules/Music.md", "docs/modules/Workspaces.md", "src/modules/clipboard.rs", "src/modules/launcher/item.rs", "src/modules/launcher/mod.rs", "src/modules/music/config.rs", "src/modules/music/mod.rs", "src/modules/workspaces.rs"]

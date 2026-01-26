@@ -1,0 +1,1 @@
+["examples/simple_send.rs", "src/client.rs", "src/error.rs", "src/lib.rs", "src/message.rs", "src/services/autopush.rs", "src/services/firebase.rs", "src/services/mod.rs"]

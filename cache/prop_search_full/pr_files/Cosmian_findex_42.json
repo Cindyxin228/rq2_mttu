@@ -1,0 +1,1 @@
+["benches/benches.rs", "examples/search.rs", "examples/upsert.rs", "src/chain_table.rs", "src/compact.rs", "src/compact_live.rs", "src/entry_table.rs", "src/upsert.rs", "tests/test_in_memory.rs"]

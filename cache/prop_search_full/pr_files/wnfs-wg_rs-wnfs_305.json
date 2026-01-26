@@ -1,0 +1,1 @@
+["wnfs-wasm/src/fs/private/access_key.rs", "wnfs/Cargo.toml", "wnfs/src/error.rs", "wnfs/src/private/encrypted.rs", "wnfs/src/private/file.rs", "wnfs/src/private/forest/traits.rs", "wnfs/src/private/keys/aes.rs", "wnfs/src/private/keys/mod.rs", "wnfs/src/private/keys/privateref.rs", "wnfs/src/private/node/header.rs", "wnfs/src/private/node/keys.rs"]

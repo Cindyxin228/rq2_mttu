@@ -1,0 +1,1 @@
+["build.rs", "src/common.rs", "src/errors.rs", "src/header.rs", "src/json.rs", "src/read2.rs", "src/runtest.rs", "src/uidiff.rs", "src/util.rs", "tests/bless.rs", "tests/test_support/mod.rs"]

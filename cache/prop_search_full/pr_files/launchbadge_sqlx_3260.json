@@ -1,0 +1,1 @@
+["sqlx-sqlite/src/connection/establish.rs", "sqlx-sqlite/src/connection/mod.rs", "sqlx-sqlite/src/lib.rs", "tests/sqlite/sqlite.rs"]

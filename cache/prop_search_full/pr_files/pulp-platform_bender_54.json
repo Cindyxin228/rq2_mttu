@@ -1,0 +1,1 @@
+[".ci/if_deploy_build.sh", ".github/scripts/gen_dockerfile.sh", ".github/scripts/package.sh", ".github/workflows/ci.yml", ".github/workflows/release.yaml", ".travis.yml", "CHANGELOG.md", "README.md", "tests/run_all.sh"]

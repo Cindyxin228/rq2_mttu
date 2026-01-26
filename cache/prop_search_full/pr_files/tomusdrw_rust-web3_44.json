@@ -1,0 +1,1 @@
+["src/api/eth.rs", "src/api/personal.rs", "src/confirm.rs", "src/contract/mod.rs", "src/transports/batch.rs", "src/types/mod.rs", "src/types/transaction_request.rs"]

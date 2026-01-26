@@ -1,0 +1,1 @@
+[".github/workflows/ci.generate.ts", ".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "cli/tests/testdata/run/event_listener_error_immediate_exit.ts.out", "cli/tests/testdata/run/event_listener_error_immediate_exit_worker.ts.out", "core/runtime.rs", "serde_v8/error.rs", "serde_v8/magic/v8slice.rs", "serde_v8/tests/de.rs", "tools/wpt/expectation.json"]

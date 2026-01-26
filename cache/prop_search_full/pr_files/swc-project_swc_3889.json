@@ -1,0 +1,1 @@
+["crates/swc_ecma_lints/src/rules/no_alert.rs", "crates/swc_ecma_lints/src/rules/prefer_regex_literals.rs", "crates/swc_ecma_lints/src/rules/radix.rs"]

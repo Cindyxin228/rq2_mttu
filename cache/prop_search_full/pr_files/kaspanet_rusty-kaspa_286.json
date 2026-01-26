@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "consensus/core/src/network.rs", "kaspad/src/daemon.rs", "mining/errors/src/mempool.rs", "mining/src/manager.rs", "mining/src/mempool/config.rs", "mining/src/mempool/validate_and_insert_transaction.rs", "protocol/flows/src/v5/txrelay/flow.rs", "rpc/grpc/server/Cargo.toml", "rpc/grpc/server/src/connection.rs", "rpc/grpc/server/src/manager.rs"]

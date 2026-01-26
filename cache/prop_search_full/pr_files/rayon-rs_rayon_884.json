@@ -1,0 +1,1 @@
+["build.rs", "src/array.rs", "src/iter/mod.rs", "src/iter/step_by.rs", "src/iter/try_fold.rs", "src/iter/try_reduce.rs", "src/iter/try_reduce_with.rs"]

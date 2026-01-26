@@ -1,0 +1,1 @@
+["symbolic-cfi/src/lib.rs", "symbolic-common/src/cell.rs", "symbolic-common/src/path.rs", "symbolic-debuginfo/src/dwarf.rs", "symbolic-debuginfo/src/elf.rs", "symbolic-ppdb/src/format/streams.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/cat.rs", "examples/echo.rs", "examples/windows_subsystem.rs", "src/console.rs", "src/io.rs", "src/io/mod.rs", "src/io/reader.rs", "src/io/writer.rs", "src/lib.rs", "src/process.rs", "tests/io.rs", "tests/pipe.rs", "tests/proc_attibutes.rs", "tests/test_process.rs"]

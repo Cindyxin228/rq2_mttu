@@ -1,0 +1,1 @@
+["Cargo.toml", "core/src/either.rs", "misc/rw-stream-sink/src/lib.rs", "src/lib.rs", "transports/websocket/Cargo.toml", "transports/websocket/src/browser.rs", "transports/websocket/src/desktop.rs", "transports/websocket/src/error.rs", "transports/websocket/src/framed.rs", "transports/websocket/src/lib.rs", "transports/websocket/src/tls.rs"]

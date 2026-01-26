@@ -1,0 +1,1 @@
+["docs/.vitepress/cli_commands.ts", "docs/cli/index.md", "docs/direnv.md", "man/man1/mise.1", "mise.usage.kdl", "src/cli/direnv/activate.rs", "src/cli/direnv/mod.rs", "xtasks/fig/src/mise.ts"]

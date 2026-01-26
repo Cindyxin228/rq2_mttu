@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/hardware_subscription.rs", "src/hw/mod.rs", "src/network_subscription.rs", "src/piggui.rs", "src/piglet.rs", "src/toast_handler.rs", "src/views/hardware_view.rs"]

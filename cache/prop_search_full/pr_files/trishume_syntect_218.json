@@ -1,0 +1,1 @@
+["src/easy.rs", "src/highlighting/highlighter.rs", "src/highlighting/selector.rs", "src/highlighting/theme.rs", "src/highlighting/theme_set.rs", "src/parsing/parser.rs", "src/parsing/scope.rs", "src/parsing/syntax_definition.rs", "src/parsing/syntax_set.rs", "src/parsing/yaml_load.rs", "src/util.rs"]

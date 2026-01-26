@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "volo-thrift/Cargo.toml", "volo-thrift/src/transport/multiplex/thrift_transport.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/deploy.yml", ".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "GUI_DESIGN.md", "GUI_SCREENSHOT.md", "README.md", "assets/icon.png", "build_gui.sh", "deny.toml", "src/gui/app.rs", "src/gui/mod.rs", "src/gui/operations.rs", "src/gui/progress.rs", "src/gui/widgets.rs", "src/gui_main.rs", "src/main.rs", "tests/stream_header_checks.rs"]

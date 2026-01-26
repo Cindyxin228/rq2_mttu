@@ -1,0 +1,1 @@
+["ci/azure-build-and-test.yml", "ci/azure-ci-cd.yml", "ci/azure-cross-build.yml"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "cli/Cargo.toml", "pgstac/CHANGELOG.md", "server/CHANGELOG.md", "server/Cargo.toml", "server/README.md", "server/src/api.rs", "server/src/backend/memory.rs", "server/src/backend/mod.rs"]

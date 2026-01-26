@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "README.md", "examples/custom_notification.rs", "examples/stdio.rs", "examples/tcp.rs", "src/client.rs", "src/lib.rs"]

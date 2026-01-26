@@ -1,0 +1,1 @@
+["lib/Cargo.toml", "lib/src/cmdext.rs", "lib/src/container/ociwriter.rs", "lib/src/tar/write.rs"]

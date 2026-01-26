@@ -1,0 +1,1 @@
+[".github/workflows/bindings_python_ci.yml", ".gitignore", "Cargo.toml", "bindings/python/Cargo.toml", "bindings/python/README.md", "bindings/python/pyproject.toml", "bindings/python/python/pyiceberg_core/__init__.py", "bindings/python/src/lib.rs", "bindings/python/tests/test_basic.py"]

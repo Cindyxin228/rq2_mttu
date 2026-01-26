@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/large.rs", "benches/serialize.rs", "benches/stream.rs", "src/filters/byteorder.rs", "src/filters/xdr.rs", "src/idx/chunks_iter.rs", "src/idx/dataset.rs", "src/idx/mod.rs", "src/reader/cache.rs", "src/reader/chunk.rs", "src/reader/stream.rs"]

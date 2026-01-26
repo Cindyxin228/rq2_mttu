@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/measurements.yml", "crates/ink/codegen/src/generator/as_dependency/contract_ref.rs", "crates/ink/tests/ui/contract/fail/constructor-return-result-non-codec-error.stderr"]

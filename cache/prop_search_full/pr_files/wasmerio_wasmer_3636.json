@@ -1,0 +1,1 @@
+["lib/cli/src/commands.rs", "lib/cli/src/commands/create_exe.rs", "lib/cli/src/commands/create_obj.rs", "tests/integration/cli/tests/create_exe.rs"]

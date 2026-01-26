@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/nodes/models/portal.rs", "implementations/rust/ockam/ockam_api/src/nodes/service/portals.rs", "implementations/rust/ockam/ockam_command/src/tcp/inlet/create.rs", "implementations/rust/ockam/ockam_command/src/tcp/outlet/create.rs", "implementations/rust/ockam/ockam_command/tests/commands.bats"]

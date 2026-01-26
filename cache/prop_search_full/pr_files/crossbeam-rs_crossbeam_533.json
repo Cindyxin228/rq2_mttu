@@ -1,0 +1,1 @@
+["ci/check-features.sh", "crossbeam-channel/src/flavors/array.rs", "crossbeam-queue/src/array_queue.rs"]

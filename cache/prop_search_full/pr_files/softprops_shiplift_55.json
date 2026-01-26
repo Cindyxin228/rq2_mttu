@@ -1,0 +1,1 @@
+["examples/networkconnect.rs", "examples/networkcreate.rs", "examples/networkdelete.rs", "examples/networkdisconnect.rs", "examples/networkinspect.rs", "examples/networks.rs", "src/builder.rs", "src/lib.rs", "src/rep.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/build/mod.rs", "src/command/test.rs", "tests/all/build.rs", "tests/all/download.rs", "tests/all/lockfile.rs", "tests/all/log_level.rs", "tests/all/test.rs", "tests/all/utils/fixture.rs"]

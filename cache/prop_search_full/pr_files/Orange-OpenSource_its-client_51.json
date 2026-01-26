@@ -1,0 +1,1 @@
+["python/its-status/its-status.cfg", "python/its-status/its_status/collector.gnss.py", "python/its-status/its_status/collector.static.py", "python/its-status/its_status/collector.system.py", "python/its-status/its_status/collector.time_sources.py", "schema/status_schema_1-1-0.json"]

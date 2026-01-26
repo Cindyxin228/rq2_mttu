@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "src/codec.rs", "src/jsonrpc.rs", "src/transport.rs", "tower-lsp-macros/src/lib.rs"]

@@ -1,0 +1,1 @@
+["src/cli/collection.rs", "src/cli/dna.rs", "src/cli/entry_type.rs", "src/cli/web_app.rs", "src/cli/zome.rs", "src/scaffold/entry_type/fields.rs", "src/scaffold/entry_type/utils.rs", "src/scaffold/link_type.rs", "src/scaffold/zome.rs", "src/utils.rs"]

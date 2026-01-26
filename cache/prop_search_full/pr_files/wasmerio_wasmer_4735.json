@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/path_create_directory.rs", "tests/integration/cli/resources/python/temp-dir-in-child/child.py", "tests/integration/cli/resources/python/temp-dir-in-child/main.py", "tests/integration/cli/src/fixtures.rs", "tests/integration/cli/tests/run.rs"]

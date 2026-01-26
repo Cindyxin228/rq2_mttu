@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tests/helpers/mod.rs", "tests/protocol_errors.rs", "wayland-client/src/display.rs", "wayland-client/src/event_queue.rs", "wayland-client/src/lib.rs", "wayland-client/src/native_lib/display.rs", "wayland-client/src/rust_imp/connection.rs", "wayland-client/src/rust_imp/display.rs", "wayland-client/src/rust_imp/queues.rs"]

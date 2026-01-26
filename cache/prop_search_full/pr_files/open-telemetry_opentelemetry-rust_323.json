@@ -1,0 +1,1 @@
+["benches/trace.rs", "opentelemetry-jaeger/src/lib.rs", "opentelemetry-otlp/src/transform/common.rs", "src/api/core.rs", "src/api/labels/mod.rs", "src/api/trace/span.rs", "src/sdk/propagation/baggage.rs"]

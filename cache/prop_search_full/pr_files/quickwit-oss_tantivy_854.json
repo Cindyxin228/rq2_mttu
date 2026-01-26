@@ -1,0 +1,1 @@
+["src/core/segment_reader.rs", "src/fieldnorm/mod.rs", "src/fieldnorm/reader.rs", "src/fieldnorm/writer.rs", "src/indexer/merger.rs", "src/indexer/segment_serializer.rs", "src/indexer/segment_updater.rs", "src/indexer/segment_writer.rs", "src/schema/field_entry.rs", "src/schema/field_type.rs", "src/schema/text_options.rs"]

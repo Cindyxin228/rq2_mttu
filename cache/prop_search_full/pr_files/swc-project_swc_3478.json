@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc_common/src/errors/diagnostic_builder.rs", "crates/swc_plugin/Cargo.toml", "crates/swc_plugin/src/context.rs", "crates/swc_plugin/src/handler.rs", "crates/swc_plugin/src/lib.rs", "crates/swc_plugin_macro/src/lib.rs", "tests/rust-plugins/swc_internal_plugin/Cargo.lock", "tests/rust-plugins/swc_internal_plugin/src/lib.rs"]

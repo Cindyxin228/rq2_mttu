@@ -1,0 +1,1 @@
+["crates/nu-cmd-extra/tests/commands/bytes/ends_with.rs", "crates/nu-cmd-extra/tests/commands/bytes/mod.rs", "crates/nu-cmd-extra/tests/commands/bytes/starts_with.rs", "crates/nu-command/src/bytes/ends_with.rs", "crates/nu-command/src/bytes/starts_with.rs"]

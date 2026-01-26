@@ -1,0 +1,1 @@
+["arrow-array/src/array/byte_array.rs", "arrow-cast/src/cast.rs", "arrow/src/compute/kernels/concat_elements.rs", "arrow/src/compute/kernels/substring.rs"]

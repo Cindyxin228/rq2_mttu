@@ -1,0 +1,1 @@
+["src/geometry/dual_quaternion.rs", "src/geometry/isometry.rs", "src/geometry/orthographic.rs", "src/geometry/perspective.rs", "src/geometry/reflection.rs", "src/geometry/rotation.rs", "src/geometry/similarity.rs"]

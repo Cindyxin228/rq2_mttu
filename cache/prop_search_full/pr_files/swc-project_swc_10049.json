@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc_ecma_visit_std/Cargo.toml", "crates/swc_ecma_visit_std/src/generated.rs", "crates/swc_ecma_visit_std/src/lib.rs", "tools/generate-code/Cargo.toml", "tools/generate-code/src/generators/visitor.rs", "tools/generate-code/src/main.rs"]

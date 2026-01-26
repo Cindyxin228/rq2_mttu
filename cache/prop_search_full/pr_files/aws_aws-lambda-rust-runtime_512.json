@@ -1,0 +1,1 @@
+["examples/basic-error-handling/src/main.rs", "lambda-extension/Cargo.toml", "lambda-http/Cargo.toml", "lambda-http/src/ext.rs", "lambda-http/src/request.rs", "lambda-runtime-api-client/Cargo.toml", "lambda-runtime/Cargo.toml", "lambda-runtime/src/lib.rs", "lambda-runtime/src/requests.rs", "lambda-runtime/src/types.rs"]

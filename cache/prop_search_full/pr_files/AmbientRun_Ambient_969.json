@@ -1,0 +1,1 @@
+["campfire/src/web/build.rs", "crates/app/src/lib.rs", "crates/core/src/lib.rs", "crates/debugger/src/lib.rs", "crates/native_std/src/uncategorized/fps_counter.rs", "crates/sys/src/task.rs", "recipes.json", "web/Cargo.lock", "web/client/Cargo.toml", "web/client/src/app.rs", "web/client/src/lib.rs", "web/dioxus_example/src/main.rs", "web/www/src/main.ts", "web/www/src/style.css"]

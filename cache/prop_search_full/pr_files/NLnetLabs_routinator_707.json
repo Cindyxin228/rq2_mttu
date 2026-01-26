@@ -1,0 +1,1 @@
+["doc/manual/source/http-service.rst", "src/http/delta.rs", "src/http/errors.rs", "src/http/listener.rs", "src/http/log.rs", "src/http/metrics.rs", "src/http/mod.rs", "src/http/payload.rs", "src/http/response.rs", "src/http/status.rs", "src/http/ui.rs", "src/http/validity.rs", "src/output.rs"]

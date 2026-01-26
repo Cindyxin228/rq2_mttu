@@ -1,0 +1,1 @@
+["tests/bench.rs", "tests/build-lib.rs", "tests/build-script.rs", "tests/build.rs", "tests/cargotest/support/mod.rs", "tests/clean.rs", "tests/cross-compile.rs", "tests/doc.rs", "tests/git.rs", "tests/metadata.rs", "tests/package.rs", "tests/path.rs", "tests/profiles.rs", "tests/run.rs", "tests/rustc.rs", "tests/rustdoc.rs", "tests/test.rs"]

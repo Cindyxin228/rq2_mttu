@@ -1,0 +1,1 @@
+["README.md", "scripts/doc.sh", "scripts/test.sh", "utoipa-gen/Cargo.toml", "utoipa-gen/src/schema_type.rs", "utoipa-gen/tests/schema_derive_test.rs", "utoipa/Cargo.toml", "utoipa/src/lib.rs", "utoipa/src/openapi/schema.rs"]

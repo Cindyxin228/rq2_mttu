@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/src/lib.rs", "crates/matrix-sdk-crypto/src/olm/group_sessions/mod.rs", "crates/matrix-sdk-crypto/src/olm/group_sessions/outbound.rs"]

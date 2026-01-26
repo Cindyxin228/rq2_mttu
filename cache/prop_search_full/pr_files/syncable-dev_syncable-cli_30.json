@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "docs/cli-display-modes.md", "docs/command-overview.md", "src/analyzer/display.rs", "src/analyzer/docker_analyzer.rs", "src/analyzer/mod.rs", "src/cli.rs", "src/main.rs"]

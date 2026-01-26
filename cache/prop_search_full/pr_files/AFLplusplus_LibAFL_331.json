@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/Cargo.toml", "fuzzers/frida_libpng/harness.cc", "fuzzers/frida_libpng/src/fuzzer.rs", "libafl_frida/Cargo.toml", "libafl_frida/src/alloc.rs", "libafl_frida/src/asan_errors.rs", "libafl_frida/src/asan_rt.rs", "libafl_frida/src/helper.rs", "libafl_frida/src/lib.rs"]

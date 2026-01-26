@@ -1,0 +1,1 @@
+["relm4-examples/examples/actions.rs", "relm4-examples/examples/menu.rs", "relm4-examples/examples/relm4_actions.rs", "relm4-macros/src/item_impl.rs", "relm4-macros/src/lib.rs", "relm4-macros/src/macros.rs", "relm4-macros/src/menu/gen.rs", "relm4-macros/src/menu/mod.rs", "relm4-macros/src/menu/parse.rs", "src/actions/mod.rs", "src/actions/traits.rs", "src/lib.rs"]

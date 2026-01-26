@@ -1,0 +1,1 @@
+["apis.json", "etc/api/api-list.yaml", "etc/api/walletobjects/v1/walletobjects-api.json", "gen/walletobjects1/Cargo.toml", "gen/walletobjects1/LICENSE.md", "gen/walletobjects1/README.md", "gen/walletobjects1/src/api.rs", "gen/walletobjects1/src/client.rs", "gen/walletobjects1/src/lib.rs", "src/generator/templates/api/api.rs.mako", "src/generator/templates/api/lib/mbuild.mako"]

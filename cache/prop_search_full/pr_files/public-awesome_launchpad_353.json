@@ -1,0 +1,1 @@
+["Cargo.lock", "contracts/sg721-base/Cargo.toml", "contracts/vending-factory/Cargo.toml", "contracts/vending-minter/Cargo.toml", "contracts/whitelist/Cargo.toml", "packages/controllers/Cargo.toml", "packages/sg-multi-test/Cargo.toml", "packages/sg-std/Cargo.toml", "packages/sg1/Cargo.toml"]

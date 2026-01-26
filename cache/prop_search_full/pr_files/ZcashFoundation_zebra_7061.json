@@ -1,0 +1,1 @@
+["zebra-consensus/src/block/check.rs", "zebra-consensus/src/checkpoint.rs", "zebra-state/src/request.rs", "zebra-state/src/service.rs", "zebra-state/src/service/check.rs", "zebra-state/src/service/check/anchors.rs", "zebra-state/src/service/check/nullifier.rs", "zebra-state/src/service/check/utxo.rs", "zebra-state/src/service/queued_blocks.rs"]

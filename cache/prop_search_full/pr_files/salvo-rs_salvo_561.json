@@ -1,0 +1,1 @@
+["crates/oapi/src/rapidoc/mod.rs", "crates/oapi/src/redoc/mod.rs", "crates/oapi/src/scalar/mod.rs", "crates/oapi/src/swagger_ui/mod.rs", "examples/db-sea-orm/templates/layout.html.tera", "examples/proxy-react-app/react-app/public/index.html"]

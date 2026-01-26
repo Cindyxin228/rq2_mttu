@@ -1,0 +1,1 @@
+["cargo-shuttle/src/lib.rs", "deployer/src/deployment/queue.rs", "deployer/src/persistence/log.rs", "service/src/loader.rs"]

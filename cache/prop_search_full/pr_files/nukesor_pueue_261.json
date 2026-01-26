@@ -1,0 +1,1 @@
+["Cargo.lock", "client/main.rs", "daemon/lib.rs", "daemon/network/message_handler/parallel.rs", "daemon/state_helper.rs", "daemon/task_handler/messages/group.rs", "tests/fixtures/daemon.rs"]

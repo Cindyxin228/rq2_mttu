@@ -1,0 +1,1 @@
+["lib/wasix/src/net/socket.rs", "lib/wasix/src/syscalls/mod.rs", "lib/wasix/src/syscalls/wasix/sock_bind.rs", "lib/wasix/src/syscalls/wasix/sock_connect.rs", "lib/wasix/src/syscalls/wasix/sock_listen.rs"]

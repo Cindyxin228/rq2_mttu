@@ -1,0 +1,1 @@
+["examples/basic_smol.rs", "examples/global_spawner_ext.rs", "examples/interleaved_messages.rs", "examples/message_stealing.rs", "src/address.rs", "src/context.rs", "src/lib.rs", "src/manager.rs", "src/message_channel.rs", "src/spawn.rs", "tests/basic.rs"]

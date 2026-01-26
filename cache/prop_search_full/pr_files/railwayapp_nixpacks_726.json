@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/ruby-2/.ruby-version", "examples/ruby-2/Gemfile", "examples/ruby-2/Gemfile.lock", "examples/ruby-2/Procfile", "examples/ruby-2/app.rb", "src/nixpacks/nix/mod.rs", "src/providers/ruby.rs", "tests/snapshots/generate_plan_tests__ruby_2.snap"]

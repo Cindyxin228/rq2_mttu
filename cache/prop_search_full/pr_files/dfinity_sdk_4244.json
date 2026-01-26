@@ -1,0 +1,1 @@
+[".github/workflows/bitcoin-canister-update.yml", ".github/workflows/update-motoko.yml", ".github/workflows/update-replica-version.yml", "scripts/update-btc-canister.sh", "scripts/update-motoko.sh", "scripts/update-replica.sh"]

@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "Makefile", "auth/Cargo.toml", "auth/README", "auth/src/api/builder.rs", "auth/src/args.rs", "auth/src/lib.rs", "auth/src/secrets.rs", "auth/tests/api/helpers.rs", "common/src/resource.rs", "docker-compose.dev.yml", "docker-compose.yml"]

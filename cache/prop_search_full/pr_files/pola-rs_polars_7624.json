@@ -1,0 +1,1 @@
+["polars/polars-core/src/chunked_array/temporal/datetime.rs", "polars/polars-lazy/polars-plan/src/dsl/function_expr/datetime.rs", "polars/polars-time/src/truncate.rs"]

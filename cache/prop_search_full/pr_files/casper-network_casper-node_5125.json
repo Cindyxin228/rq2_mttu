@@ -1,0 +1,1 @@
+["node/src/components/transaction_acceptor/tests.rs", "node/src/reactor/main_reactor/tests/transactions.rs", "node/src/types/transaction/meta_transaction/meta_transaction_v1.rs", "types/src/chainspec/transaction_config.rs", "types/src/transaction/transaction_v1.rs"]

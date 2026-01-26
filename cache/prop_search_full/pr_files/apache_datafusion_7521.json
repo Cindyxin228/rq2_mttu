@@ -1,0 +1,1 @@
+["datafusion/common/src/file_options/csv_writer.rs", "datafusion/common/src/file_options/mod.rs", "datafusion/expr/src/expr_fn.rs", "datafusion/physical-expr/src/array_expressions.rs", "datafusion/sqllogictest/test_files/copy.slt", "docs/source/user-guide/expressions.md", "docs/source/user-guide/sql/scalar_functions.md"]

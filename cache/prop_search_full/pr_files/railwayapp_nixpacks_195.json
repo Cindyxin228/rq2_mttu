@@ -1,0 +1,1 @@
+["examples/node-no-lockfile-canvas/index.js", "examples/node-no-lockfile-canvas/package.json", "examples/node-no-lockfile/index.js", "src/nixpacks/images.rs", "src/providers/node.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

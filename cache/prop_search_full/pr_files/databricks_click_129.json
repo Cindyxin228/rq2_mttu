@@ -1,0 +1,1 @@
+["Cargo.toml", "src/cmd.rs", "src/command_processor.rs", "src/config/kube.rs", "src/config/kubefile.rs", "src/config/mod.rs", "src/connector.rs", "src/duct_mock.rs", "src/kube.rs", "src/main.rs"]

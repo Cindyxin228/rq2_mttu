@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "flake.lock", "flake.nix", "src/cli.rs", "src/config.rs", "src/logger.rs", "src/main.rs", "src/providers.rs"]

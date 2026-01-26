@@ -1,0 +1,1 @@
+["scylla-cql/src/types/serialize/row.rs", "scylla-cql/src/types/serialize/value.rs", "scylla/tests/integration/hygiene.rs"]

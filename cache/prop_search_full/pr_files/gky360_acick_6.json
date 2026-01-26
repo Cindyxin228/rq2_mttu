@@ -1,0 +1,1 @@
+[".github/workflows/jobs.yaml", ".gitignore", "Cargo.lock", "Cargo.toml", "acick.yaml", "resources/acick.yaml.txt", "src/abs_path.rs", "src/cmd/fetch.rs", "src/cmd/init.rs", "src/cmd/login.rs", "src/cmd/mod.rs", "src/cmd/show.rs", "src/cmd/submit.rs", "src/cmd/test.rs", "src/config/mod.rs", "src/config/template.rs", "src/lib.rs", "src/model.rs"]

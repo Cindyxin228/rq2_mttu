@@ -1,0 +1,1 @@
+["AUTHORS.md", "Cargo.toml", "RELEASES.md", "cli/package.json", "crates/neon-build/Cargo.toml", "crates/neon-macros/Cargo.toml", "crates/neon-runtime/Cargo.toml", "crates/neon-sys/Cargo.toml", "create-neon/data/versions.json", "create-neon/package.json", "package-lock.json"]

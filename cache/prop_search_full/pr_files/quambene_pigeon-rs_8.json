@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/arg.rs", "src/cmd/connect.rs", "src/cmd/init.rs", "src/cmd/query.rs", "src/cmd/read.rs", "src/cmd/send.rs", "src/cmd/send_bulk.rs", "src/cmd/simple_query.rs", "src/email_builder/message.rs", "src/email_builder/receiver.rs", "src/email_provider/aws.rs", "src/email_transmission/client.rs", "src/lib.rs", "src/main.rs"]

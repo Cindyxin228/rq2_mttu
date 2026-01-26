@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/hello-world-native/hello-indexer-native/src/main.rs", "examples/hello-world/hello-indexer/src/lib.rs", "packages/fuel-indexer-macros/Cargo.toml", "packages/fuel-indexer-macros/src/helpers.rs", "packages/fuel-indexer-macros/src/schema.rs", "packages/fuel-indexer-types/src/scalar.rs", "packages/fuel-indexer/src/database.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "CHANGELOG.md", "Cargo.toml", "e2e-tests/wasm/Cargo.toml", "e2e-tests/wasm/src/lib.rs", "e2e-tests/wasm/test.js", "src/alg.rs", "src/alg/eddsa_compact.rs", "src/alg/eddsa_dalek.rs", "src/alg/eddsa_sodium.rs", "src/alg/es256k.rs", "src/alg/k256.rs", "src/alg/rsa.rs", "src/jwk.rs", "src/lib.rs", "tests/algorithms.rs", "tests/jwk.rs"]

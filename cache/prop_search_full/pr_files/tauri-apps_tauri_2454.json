@@ -1,0 +1,1 @@
+[".changes/dialog-ask-message-parent.md", "core/tauri/Cargo.toml", "core/tauri/src/api/dialog.rs", "core/tauri/src/endpoints.rs", "core/tauri/src/endpoints/dialog.rs", "core/tauri/src/endpoints/notification.rs", "core/tauri/src/updater/mod.rs", "examples/api/src-tauri/src/main.rs"]

@@ -1,0 +1,1 @@
+["src/sync/atomic/bool.rs", "src/sync/atomic/int.rs", "src/sync/atomic/ptr.rs"]

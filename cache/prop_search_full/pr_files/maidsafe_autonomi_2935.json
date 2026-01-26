@@ -1,0 +1,1 @@
+["ant-cli/src/access/keys.rs", "ant-cli/src/access/user_data.rs", "ant-cli/src/commands/register.rs", "ant-cli/src/commands/vault.rs", "ant-cli/src/wallet/fs.rs", "autonomi/src/client/high_level/vault/user_data.rs"]

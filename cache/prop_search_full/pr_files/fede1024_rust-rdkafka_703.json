@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "changelog.md", "docker-compose.yaml", "rdkafka-sys/Cargo.toml", "rdkafka-sys/src/lib.rs", "src/config.rs", "src/groups.rs", "src/lib.rs", "src/mocking.rs", "src/util.rs", "test_suite.sh", "tests/test_admin.rs"]

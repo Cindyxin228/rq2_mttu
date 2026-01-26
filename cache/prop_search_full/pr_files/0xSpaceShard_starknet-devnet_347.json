@@ -1,0 +1,1 @@
+["docker/tag_images_and_create_joint_image_manifests.sh", "scripts/publish_cratesio_new_versions.sh"]

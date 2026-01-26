@@ -1,0 +1,1 @@
+["Cargo.lock", "coerce/Cargo.toml", "coerce/src/persistent/journal/proto/journal.rs", "coerce/src/remote/cluster/sharding/proto/sharding.rs", "coerce/src/remote/net/proto/network.rs", "coerce/tools/coerce-proto-build/Cargo.toml", "examples/coerce-sharded-chat-example/src/protocol/chat.rs"]

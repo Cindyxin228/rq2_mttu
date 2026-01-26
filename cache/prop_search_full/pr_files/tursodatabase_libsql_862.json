@@ -1,0 +1,1 @@
+["Cargo.lock", "libsql-server/Cargo.toml", "libsql-server/src/error.rs", "libsql-server/src/http/admin/mod.rs", "libsql-server/src/metrics.rs"]

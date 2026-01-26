@@ -1,0 +1,1 @@
+["aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/AwsEndpointDecorator.kt", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/SdkSettings.kt", "aws/sdk/aws-models/sdk-default-configuration.json", "aws/sdk/aws-models/sdk-endpoints.json", "aws/sdk/build.gradle.kts", "buildSrc/src/main/kotlin/aws/sdk/ServiceLoader.kt"]

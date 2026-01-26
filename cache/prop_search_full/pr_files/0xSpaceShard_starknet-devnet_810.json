@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/src/starknet/mod.rs", "crates/starknet-devnet-server/src/api/http/models.rs", "crates/starknet-devnet-server/src/api/json_rpc/mod.rs", "crates/starknet-devnet-server/src/api/json_rpc/write_endpoints.rs", "tests/integration/lib.rs", "tests/integration/test_accepting_blocks_on_l1.rs", "website/docs/blocks.md", "website/static/devnet_api.json"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cli.rs", "src/flock.rs", "src/format.rs", "src/main.rs", "src/storage.rs", "tests/snapshots/test_cli__long-help.snap", "tests/snapshots/test_cli__markdown-help.snap", "tests/snapshots/test_cli__short-help.snap", "tests/test-cli.rs", "tests/test-project/supply-chain/audits.toml"]

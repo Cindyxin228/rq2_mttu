@@ -1,0 +1,1 @@
+["Cargo.toml", "src/blob.rs", "src/config.rs", "src/lib.rs", "src/package.rs", "src/progress.rs", "src/target.rs", "tests/mod.rs", "tests/service-a/cfg.toml", "tests/service-b/cfg.toml", "tests/service-c/cfg.toml", "tests/service-d/cfg.toml", "tests/service-e/cfg.toml", "tests/service-e/pkg-1-file.txt", "tests/service-e/pkg-2-file.txt"]

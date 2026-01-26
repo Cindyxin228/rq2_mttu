@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CLAUDE.md", "README.md", "docs/instructions.md", "src/neovim/client.rs", "src/neovim/integration_tests.rs", "src/server/integration_tests.rs", "src/server/tools.rs", "src/test_utils.rs", "src/testdata/.root", "src/testdata/cfg_lsp.lua", "src/testdata/diagnostic_problems.lua", "src/testdata/main.go", "src/testdata/organize_imports.go"]

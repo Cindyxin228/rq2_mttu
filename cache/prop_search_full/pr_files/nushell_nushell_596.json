@@ -1,0 +1,1 @@
+["src/parser/parse/parser.rs", "src/parser/parse/pipeline.rs", "src/parser/parse/token_tree_builder.rs", "src/shell/helper.rs"]

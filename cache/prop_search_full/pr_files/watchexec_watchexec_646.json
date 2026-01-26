@@ -1,0 +1,1 @@
+["Cargo.lock", "completions/bash", "completions/powershell", "crates/bosion/src/lib.rs", "crates/cli/src/filterer/common.rs", "crates/filterer/tagged/src/filterer.rs", "crates/ignore-files/src/discover.rs", "crates/ignore-files/src/filter.rs", "crates/lib/src/action/worker.rs", "crates/lib/src/paths.rs", "doc/watchexec.1.md", "doc/watchexec.1.pdf"]

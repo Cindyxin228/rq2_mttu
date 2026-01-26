@@ -1,0 +1,1 @@
+["crates/hir/src/code_model.rs", "crates/hir_def/src/body.rs", "crates/hir_def/src/body/diagnostics.rs", "crates/hir_def/src/body/lower.rs", "crates/hir_def/src/body/tests.rs", "crates/hir_def/src/diagnostics.rs", "crates/hir_def/src/nameres/tests/diagnostics.rs", "crates/hir_def/src/test_db.rs", "docs/user/generated_diagnostic.adoc"]

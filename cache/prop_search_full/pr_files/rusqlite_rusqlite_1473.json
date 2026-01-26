@@ -1,0 +1,1 @@
+["libsqlite3-sys/build.rs", "src/row.rs", "src/types/mod.rs", "src/vtab/csvtab.rs", "src/vtab/mod.rs"]

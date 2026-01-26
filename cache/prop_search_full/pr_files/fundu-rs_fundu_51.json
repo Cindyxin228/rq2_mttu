@@ -1,0 +1,1 @@
+[".github/workflows/cicd.yml", "fundu-core/src/parse.rs", "fundu-gnu/benches/fundu_gnu_iai_parsing.rs", "fundu-systemd/benches/fundu_systemd_iai_parsing.rs", "fundu/benches/fundu_iai_custom.rs", "fundu/benches/fundu_iai_parsing.rs"]

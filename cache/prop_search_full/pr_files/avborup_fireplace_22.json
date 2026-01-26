@@ -1,0 +1,1 @@
+["Cargo.toml", "src/firestore/client/mod.rs", "src/firestore/query.rs", "src/firestore/reference.rs", "src/firestore/serde/deserialize.rs", "src/firestore/serde/serialize.rs"]

@@ -1,0 +1,1 @@
+["fe2o3-amqp/Cargo.toml", "fe2o3-amqp/Changelog.md", "fe2o3-amqp/src/connection/engine.rs", "fe2o3-amqp/src/connection/mod.rs", "fe2o3-amqp/src/link/mod.rs", "fe2o3-amqp/src/session/mod.rs", "fe2o3-amqp/src/transport/mod.rs"]

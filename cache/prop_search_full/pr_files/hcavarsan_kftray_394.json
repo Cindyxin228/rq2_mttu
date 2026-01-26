@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/kftray-commons/Cargo.toml", "crates/kftray-http-logs/Cargo.toml", "crates/kftray-portforward/Cargo.toml", "crates/kftray-tauri/Cargo.toml", "crates/kftui/Cargo.toml"]

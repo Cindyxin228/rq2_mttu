@@ -1,0 +1,1 @@
+["rust-code-analysis-cli/src/formats.rs", "src/tools.rs", "tree-sitter-ccomment/bindings/rust/build.rs", "tree-sitter-mozcpp/bindings/rust/build.rs", "tree-sitter-mozjs/bindings/rust/build.rs", "tree-sitter-preproc/bindings/rust/build.rs"]

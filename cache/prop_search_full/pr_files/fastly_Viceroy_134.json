@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "cli/tests/integration/common.rs", "cli/tests/integration/main.rs", "cli/tests/integration/memory.rs", "cli/tests/trap-test/src/main.rs", "test-fixtures/return_ok.wat"]

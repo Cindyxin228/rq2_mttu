@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "common/src/error.rs", "common/src/lib.rs", "service/Cargo.toml", "service/proto/eqservice.proto", "service/src/generated/eqs.rs", "service/src/main.rs"]

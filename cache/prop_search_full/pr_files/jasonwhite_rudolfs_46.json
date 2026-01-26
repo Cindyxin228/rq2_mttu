@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "docker-compose.minio.yml", "src/lfs.rs", "src/main.rs", "src/sha256.rs", "src/storage/cached.rs", "src/storage/faulty.rs", "src/storage/mod.rs", "src/storage/s3.rs"]

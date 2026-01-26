@@ -1,0 +1,1 @@
+["examples/mnist.rs", "examples/simple_graph.rs", "examples/squeeze.rs", "src/optimisation.rs", "src/utils.rs", "tests/conv.rs", "tests/cos.rs", "tests/matmul.rs", "tests/pretrained_models.rs"]

@@ -1,0 +1,1 @@
+["hydroflow/tests/snapshots/surface_fold__fold_static_join@graphvis_dot.snap", "hydroflow/tests/snapshots/surface_fold__fold_static_join@graphvis_mermaid.snap", "hydroflow/tests/surface_fold.rs", "hydroflow/tests/surface_state_scheduling.rs", "hydroflow_lang/src/graph/ops/fold.rs"]

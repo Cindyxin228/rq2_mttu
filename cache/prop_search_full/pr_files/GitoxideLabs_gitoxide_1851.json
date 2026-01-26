@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "gix-features/Cargo.toml", "gix-features/src/fs.rs", "gix-ref/tests/Cargo.toml", "gix-ref/tests/fixtures/generated-archives/make_repo_for_1850_repro.tar", "gix-ref/tests/fixtures/make_repo_for_1850_repro.sh", "gix-ref/tests/refs/file/store/iter.rs", "gix/Cargo.toml", "gix/tests/gix/repository/reference.rs", "justfile"]

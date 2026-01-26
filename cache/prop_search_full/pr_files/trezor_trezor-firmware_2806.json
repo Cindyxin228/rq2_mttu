@@ -1,0 +1,1 @@
+["core/.changelog.d/1922.changed", "core/src/apps/management/apply_settings.py", "core/src/apps/management/change_pin.py", "tests/click_tests/test_autolock.py", "tests/device_tests/test_sdcard.py", "tests/ui_tests/fixtures.json", "tests/ui_tests/reporting/download.py", "tests/ui_tests/reporting/master_diff.py"]

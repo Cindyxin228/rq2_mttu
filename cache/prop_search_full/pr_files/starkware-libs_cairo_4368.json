@@ -1,0 +1,1 @@
+["crates/cairo-lang-semantic/src/db.rs", "crates/cairo-lang-semantic/src/diagnostic.rs", "crates/cairo-lang-semantic/src/expr/test_data/generics", "crates/cairo-lang-semantic/src/items/imp.rs", "crates/cairo-lang-semantic/src/items/tests/module", "crates/cairo-lang-semantic/src/items/tests/trait"]

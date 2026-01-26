@@ -1,0 +1,1 @@
+["cassandra-protocol/src/frame.rs", "cassandra-protocol/src/frame/frame_response.rs", "cassandra-protocol/src/frame/frame_result.rs"]

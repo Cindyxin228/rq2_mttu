@@ -1,0 +1,1 @@
+["lib/src/memory/datastore.rs", "lib/src/rdb/datastore.rs", "lib/src/rdb/managers.rs", "lib/src/util.rs", "plugins/host/src/errors.rs", "proto/src/converters.rs"]

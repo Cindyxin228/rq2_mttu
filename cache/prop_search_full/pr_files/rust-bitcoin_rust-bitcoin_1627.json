@@ -1,0 +1,1 @@
+["bitcoin/fuzz/fuzz_targets/deserialize_transaction.rs", "bitcoin/src/blockdata/block.rs", "bitcoin/src/blockdata/fee_rate.rs", "bitcoin/src/blockdata/mod.rs", "bitcoin/src/blockdata/transaction.rs", "bitcoin/src/blockdata/weight.rs", "bitcoin/src/parse.rs"]

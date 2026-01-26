@@ -1,0 +1,1 @@
+["db-initscripts/init-testdb.sql", "examples/widen_type.md", "examples/widen_type.sql", "src/hints.rs", "src/lib.rs", "src/output/output_format.rs", "src/pg_types/relkinds.rs", "src/tracing.rs", "src/tracing/queries.rs", "src/tracing/tracer.rs"]

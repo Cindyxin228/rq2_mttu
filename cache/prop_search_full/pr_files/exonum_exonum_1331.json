@@ -1,0 +1,1 @@
+["components/derive/src/tx_set.rs", "exonum/src/blockchain/mod.rs", "exonum/src/messages/protocol.rs", "exonum/src/proto/schema/exonum/protocol.proto", "exonum/src/proto/schema/exonum/runtime.proto", "exonum/src/runtime/mod.rs", "exonum/src/runtime/rust/mod.rs", "exonum/src/runtime/rust/tests.rs"]

@@ -1,0 +1,1 @@
+["src/cache.rs", "src/lib.rs", "src/params.rs", "src/pragma.rs", "src/session.rs", "src/statement.rs", "src/trace.rs", "src/types/chrono.rs", "src/types/time.rs", "src/types/url.rs", "src/vtab/array.rs", "tests/vtab.rs"]

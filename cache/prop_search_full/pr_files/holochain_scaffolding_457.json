@@ -1,0 +1,1 @@
+["templates/ui-frameworks/vue/entry-type/ui/src/{{dna_role_name}}/{{coordinator_zome_manifest.name}}/{{pascal_case entry_type.name}}Detail.vue.hbs"]

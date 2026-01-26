@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "naga-cli/Cargo.toml", "naga/Cargo.toml", "naga/fuzz/Cargo.toml", "wgpu-core/Cargo.toml", "wgpu-hal/Cargo.toml", "wgpu-types/Cargo.toml"]

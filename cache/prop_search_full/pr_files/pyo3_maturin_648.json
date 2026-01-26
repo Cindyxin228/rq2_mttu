@@ -1,0 +1,1 @@
+["Changelog.md", "maturin/__init__.py", "src/build_context.rs", "src/build_options.rs", "src/develop.rs", "src/main.rs", "src/module_writer.rs", "tests/common/develop.rs", "tests/common/editable.rs", "tests/common/errors.rs", "tests/common/integration.rs", "tests/common/mod.rs", "tests/common/other.rs", "tests/run.rs"]

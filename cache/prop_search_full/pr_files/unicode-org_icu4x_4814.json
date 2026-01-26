@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ffi/dart/tools/datagen/Cargo.toml", "ffi/dart/tools/datagen/LICENSE", "ffi/dart/tools/datagen/README.md", "ffi/dart/tools/datagen/build.rs", "ffi/dart/tools/datagen/src/main.rs", "provider/datagen/Cargo.toml", "provider/datagen/src/bin/icu4x-datagen.rs", "tools/make/data.toml"]

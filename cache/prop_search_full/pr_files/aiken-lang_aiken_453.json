@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/aiken-lang/src/ast.rs", "crates/aiken-lang/src/tests/check.rs", "crates/aiken-lang/src/tipo/error.rs", "crates/aiken-lang/src/tipo/expr.rs", "crates/aiken-lang/src/tipo/pattern.rs", "examples/acceptance_tests/077/plutus.json", "examples/acceptance_tests/077/validators/spend2.ak", "examples/acceptance_tests/run"]

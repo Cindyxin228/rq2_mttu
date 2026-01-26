@@ -1,0 +1,1 @@
+["examples/transcode-audio.rs", "src/codec/codec.rs", "src/codec/context.rs", "src/codec/decoder/decoder.rs", "src/codec/encoder/encoder.rs", "src/codec/packet/packet.rs", "src/filter/context/sink.rs", "src/format/context/output.rs", "src/format/format/output.rs", "src/format/mod.rs"]

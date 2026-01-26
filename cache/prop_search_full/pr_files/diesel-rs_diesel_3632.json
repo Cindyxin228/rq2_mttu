@@ -1,0 +1,1 @@
+["diesel_cli/src/infer_schema_internals/sqlite.rs", "diesel_cli/tests/print_schema.rs", "diesel_cli/tests/print_schema/print_schema_django_bool/diesel.toml", "diesel_cli/tests/print_schema/print_schema_django_bool/sqlite/expected.snap", "diesel_cli/tests/print_schema/print_schema_django_bool/sqlite/schema.sql"]

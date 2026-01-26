@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/app_dirs/common.rs", "src/app_dirs/imp/mod.rs", "src/app_dirs/imp/platform/macos.rs", "src/app_dirs/imp/platform/unix.rs", "src/app_dirs/imp/platform/unknown.rs", "src/app_dirs/imp/platform/windows.rs", "src/app_dirs/mod.rs", "src/app_dirs/utils.rs", "src/app_info.rs", "src/cmd_test.rs", "src/main.rs", "src/package.rs", "src/project_dirs.rs"]

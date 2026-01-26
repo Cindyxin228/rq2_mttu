@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/cli/benches/benchmark.rs", "crates/cli/src/bytecode.rs", "crates/cli/src/wasm_generator/static.rs", "crates/cli/tests/dylib_test.rs", "crates/cli/tests/dynamic_linking_test.rs", "crates/cli/tests/runner/mod.rs", "supply-chain/audits.toml", "supply-chain/config.toml", "supply-chain/imports.lock"]

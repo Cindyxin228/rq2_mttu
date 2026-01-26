@@ -1,0 +1,1 @@
+[".github/workflows/fmt.yml", ".github/workflows/test.yml", "Cargo.lock", "api/users.toml", "docker-compose.yml", "e2e/tests/tower.rs", "examples/tower/hello-world/Cargo.toml", "examples/tower/hello-world/Shuttle.toml", "examples/tower/hello-world/src/lib.rs", "service/Cargo.toml", "service/src/error.rs", "service/src/lib.rs"]

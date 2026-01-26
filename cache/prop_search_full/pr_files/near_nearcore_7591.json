@@ -1,0 +1,1 @@
+["core/store/src/config.rs", "core/store/src/db/rocksdb.rs", "core/store/src/db/rocksdb/snapshot.rs", "core/store/src/opener.rs", "nearcore/benches/store.rs", "nearcore/src/lib.rs", "tools/state-viewer/src/cli.rs"]

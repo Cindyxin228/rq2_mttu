@@ -1,0 +1,1 @@
+[".github/workflows/audit.yml", ".github/workflows/clippy-ng.yml", ".github/workflows/clippy_check.yml", ".github/workflows/cross_compile.yml", ".github/workflows/grcov.yml", ".github/workflows/msrv.yml", ".github/workflows/nightly_lints.yml", ".github/workflows/quickstart.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "src/lib.rs", "src/main.rs", "tests/search.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/meta/date.rs", "src/meta/inode.rs", "src/meta/links.rs", "src/meta/locale.rs", "src/meta/mod.rs", "src/meta/name.rs", "src/meta/symlink.rs", "src/sort.rs", "tests/integration.rs"]

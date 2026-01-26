@@ -1,0 +1,1 @@
+["lib/cli/src/commands/run_unstable.rs", "lib/wasi/src/runners/wasi.rs", "lib/wasi/src/runners/wasi_common.rs", "lib/wasi/src/runners/wcgi/handler.rs", "lib/wasi/src/runners/wcgi/mod.rs", "lib/wasi/src/runners/wcgi/runner.rs"]

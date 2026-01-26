@@ -1,0 +1,1 @@
+["src/alignment/pairwise/mod.rs", "src/io/bed.rs", "src/io/gff.rs", "src/pattern_matching/bndm.rs", "src/pattern_matching/bom.rs", "src/pattern_matching/horspool.rs", "src/pattern_matching/pssm/dnamotif.rs", "src/pattern_matching/pssm/protmotif.rs", "src/pattern_matching/shift_and.rs", "src/utils/text.rs"]

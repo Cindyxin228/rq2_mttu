@@ -1,0 +1,1 @@
+["src/aggregation/agg_req_with_accessor.rs", "src/aggregation/bucket/range.rs", "src/aggregation/bucket/term_agg.rs", "src/aggregation/segment_agg_result.rs"]

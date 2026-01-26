@@ -1,0 +1,1 @@
+["crates/nu-cli/src/lib.rs", "crates/nu-cli/src/util.rs", "crates/nu-command/src/filesystem/watch.rs", "crates/nu-command/src/viewers/table.rs", "crates/nu-protocol/src/cli_error.rs", "crates/nu-protocol/src/lib.rs", "crates/nu-protocol/src/pipeline_data.rs"]

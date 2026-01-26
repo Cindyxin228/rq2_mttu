@@ -1,0 +1,1 @@
+[".github/workflows/ci_integration_tests_macos.yaml", ".github/workflows/ci_integration_tests_ubuntu.yaml", ".github/workflows/ci_integration_tests_windows.yaml", "deny.toml"]

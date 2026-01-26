@@ -1,0 +1,1 @@
+["Cargo.toml", "src/ctaphid.rs", "src/ctapihd_nitro.rs", "src/fidokey.rs", "src/fidokey_pi.rs", "src/hid/mod.rs", "src/hid_common.rs", "src/hid_linux.rs", "src/lib.rs"]

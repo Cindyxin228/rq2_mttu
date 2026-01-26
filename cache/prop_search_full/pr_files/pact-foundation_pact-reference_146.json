@@ -1,0 +1,1 @@
+["php/pact/http-consumer-1-http-provider.json", "php/pact/http-consumer-2-http-provider.json", "php/pact/message-consumer-2-message-provider.json", "php/src/provider.php"]

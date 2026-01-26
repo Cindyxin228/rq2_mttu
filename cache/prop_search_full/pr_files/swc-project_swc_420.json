@@ -1,0 +1,1 @@
+["ecmascript/codegen/src/lib.rs", "ecmascript/codegen/src/typescript.rs", "ecmascript/codegen/src/util.rs", "ecmascript/transforms/src/compat/es2015/arrow/tests.rs", "ecmascript/transforms/src/compat/es2015/destructuring/mod.rs", "ecmascript/transforms/src/compat/es2015/mod.rs", "ecmascript/transforms/src/simplify/expr/mod.rs", "ecmascript/transforms/src/util/mod.rs"]

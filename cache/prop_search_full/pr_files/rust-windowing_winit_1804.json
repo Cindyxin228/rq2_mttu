@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/fullscreen.rs", "examples/window_debug.rs", "src/platform_impl/android/mod.rs", "src/platform_impl/ios/window.rs", "src/platform_impl/linux/mod.rs", "src/platform_impl/macos/window.rs", "src/platform_impl/web/window.rs", "src/platform_impl/windows/window.rs", "src/platform_impl/windows/window_state.rs", "src/window.rs"]

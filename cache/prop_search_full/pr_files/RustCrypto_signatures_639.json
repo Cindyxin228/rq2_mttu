@@ -1,0 +1,1 @@
+[".github/workflows/security-audit.yml", "Cargo.lock", "ecdsa/src/hazmat.rs", "ecdsa/src/recovery.rs", "ecdsa/src/signing.rs", "rfc6979/Cargo.toml", "rfc6979/src/ct_cmp.rs", "rfc6979/src/lib.rs"]

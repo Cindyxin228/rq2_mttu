@@ -1,0 +1,1 @@
+["Dockerfile", "Jenkinsfile", "Makefile.toml", "crates/esthri-cli/Cargo.toml", "crates/esthri-cli/src/http_server.rs", "crates/esthri-cli/src/main.rs", "crates/esthri-internals/Cargo.toml", "crates/esthri-internals/src/lib.rs", "crates/esthri/Cargo.toml", "crates/esthri/src/ops/upload.rs"]

@@ -1,0 +1,1 @@
+[".gitignore", "README.md", "completions/just.bash", "completions/just.elvish", "completions/just.fish", "completions/just.powershell", "completions/just.zsh", "src/attribute.rs", "src/config.rs", "src/error.rs", "src/justfile.rs", "src/recipe.rs", "tests/confirm.rs", "tests/lib.rs"]

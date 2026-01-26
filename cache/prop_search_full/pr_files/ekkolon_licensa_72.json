@@ -1,0 +1,1 @@
+["src/ops/scan.rs", "src/ops/work_tree.rs", "src/ops/workspace.rs", "src/spdx.rs", "src/template/cache.rs", "src/template/header.rs", "src/utils/mod.rs", "src/workspace/ops.rs", "src/workspace/walker.rs"]

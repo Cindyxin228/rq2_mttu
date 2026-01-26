@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fedimint-cli/Cargo.toml", "fedimint-client-module/Cargo.toml", "fedimint-testing/Cargo.toml", "gateway/fedimint-gateway-common/Cargo.toml", "gateway/fedimint-gateway-server/Cargo.toml", "gateway/fedimint-lightning/Cargo.toml", "modules/fedimint-gw-client/Cargo.toml", "modules/fedimint-wallet-client/Cargo.toml"]

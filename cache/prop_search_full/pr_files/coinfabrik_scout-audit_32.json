@@ -1,0 +1,1 @@
+["apps/cargo-scout-audit/Cargo.toml", "apps/cargo-scout-audit/src/output/markdown/generator.rs", "apps/cargo-scout-audit/src/output/markdown/lib.rs", "apps/cargo-scout-audit/src/output/pdf/generator.rs", "apps/cargo-scout-audit/src/output/pdf/lib.rs", "apps/cargo-scout-audit/src/output/report.rs", "apps/cargo-scout-audit/src/startup.rs"]

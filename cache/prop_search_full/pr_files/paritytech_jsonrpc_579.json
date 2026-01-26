@@ -1,0 +1,1 @@
+["core-client/transports/Cargo.toml", "core-client/transports/src/lib.rs", "core-client/transports/src/transports/duplex.rs", "core-client/transports/src/transports/http.rs", "core-client/transports/src/transports/local.rs", "core-client/transports/src/transports/mod.rs", "core-client/transports/src/transports/ws.rs"]

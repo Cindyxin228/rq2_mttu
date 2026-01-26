@@ -1,0 +1,1 @@
+["zebra-consensus/src/checkpoint.rs", "zebra-network/src/address_book_updater.rs", "zebra-network/src/peer_set/limit.rs", "zebra-network/src/peer_set/set.rs", "zebra-state/src/service/non_finalized_state.rs", "zebrad/src/components/mempool.rs", "zebrad/src/components/sync/progress.rs", "zebrad/src/components/tracing/component.rs"]

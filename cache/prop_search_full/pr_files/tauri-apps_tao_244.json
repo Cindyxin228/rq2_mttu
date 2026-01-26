@@ -1,0 +1,1 @@
+[".changes/accelerator-strings.md", ".changes/parse-more-keycode-strings.md", ".changes/unhide-applications.md", "src/keyboard.rs", "src/platform/macos.rs", "src/platform_impl/linux/keyboard.rs", "src/platform_impl/linux/menu.rs", "src/platform_impl/macos/menu.rs", "src/platform_impl/windows/keyboard.rs", "src/platform_impl/windows/menu.rs"]

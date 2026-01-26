@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion/sql/Cargo.toml", "datafusion/sql/src/expr/value.rs", "datafusion/sqllogictest/test_files/options.slt"]

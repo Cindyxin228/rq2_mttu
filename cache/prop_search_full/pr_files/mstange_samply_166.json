@@ -1,0 +1,1 @@
+[".github/workflows/nix-packaging.yml", ".github/workflows/rust.yml", "samply-api/src/asm/mod.rs", "samply-symbols/src/breakpad/index.rs", "samply-symbols/src/shared.rs", "samply/src/linux_shared/convert_regs.rs", "samply/src/mac/proc_maps.rs", "samply/src/shared/unresolved_samples.rs"]

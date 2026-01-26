@@ -1,0 +1,1 @@
+["benchmarks/parsers/nats.rs", "rumqttc/examples/serde.rs", "rumqttc/src/mqttbytes/topic.rs", "rumqttc/src/v5/mqttbytes/mod.rs", "rumqttd/src/protocol/mod.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "applications/minotari_app_grpc/Cargo.toml", "applications/minotari_app_grpc/src/authentication/basic_auth.rs", "applications/minotari_app_grpc/src/authentication/server_interceptor.rs"]

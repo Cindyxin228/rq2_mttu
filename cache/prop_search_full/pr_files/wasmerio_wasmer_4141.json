@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/wasi-web/Cargo.lock", "lib/wasix/Cargo.toml", "lib/wasix/src/http/client.rs", "lib/wasix/src/http/mod.rs", "lib/wasix/src/http/web_http_client.rs", "lib/wasix/src/lib.rs", "lib/wasix/src/runtime/resolver/utils.rs", "lib/wasix/src/utils/mod.rs", "lib/wasix/src/utils/web.rs"]

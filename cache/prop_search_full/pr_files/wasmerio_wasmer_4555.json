@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/fd_advise.rs", "tests/wasi-fyi/fd_advise_validity.rs", "tests/wasi-fyi/test.sh"]

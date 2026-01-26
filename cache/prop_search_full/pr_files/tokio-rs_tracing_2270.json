@@ -1,0 +1,1 @@
+["tracing-attributes/Cargo.toml", "tracing-attributes/src/expand.rs", "tracing-attributes/tests/ui.rs", "tracing-attributes/tests/ui/async_instrument.rs", "tracing-attributes/tests/ui/async_instrument.stderr"]

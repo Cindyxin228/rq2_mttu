@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/README.md", "examples/event_watcher.rs", "examples/namespace_reflector.rs", "examples/node_watcher.rs", "examples/pod_watcher.rs", "kube-core/src/params.rs", "kube-runtime/src/controller/mod.rs", "kube-runtime/src/utils/mod.rs", "kube-runtime/src/utils/stream_subscribe.rs", "kube-runtime/src/watcher.rs"]

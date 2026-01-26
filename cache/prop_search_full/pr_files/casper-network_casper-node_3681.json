@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "utils/nctl/sh/scenarios/upgrade_after_emergency_upgrade_test.sh"]

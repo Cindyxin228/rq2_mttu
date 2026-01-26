@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/sccache-dist/cmdline/mod.rs", "src/bin/sccache-dist/cmdline/parse.rs", "src/bin/sccache-dist/main.rs", "src/cmdline.rs", "src/commands.rs", "src/compiler/c.rs", "src/lib.rs", "tests/test-crate/Cargo.lock"]

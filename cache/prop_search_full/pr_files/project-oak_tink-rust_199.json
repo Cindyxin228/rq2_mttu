@@ -1,0 +1,1 @@
+["core/src/keyset/handle.rs", "proto/proto/cached_dek_aead.proto", "proto/proto/cached_dek_envelope.proto", "proto/proto/experimental/pqcrypto/dilithium.proto", "tests/tests/core/keyset/handle_test.rs"]

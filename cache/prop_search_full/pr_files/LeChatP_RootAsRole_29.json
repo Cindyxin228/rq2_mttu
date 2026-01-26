@@ -1,0 +1,1 @@
+["resources/rootasrole.xml", "role-manager/Cargo.toml", "role-manager/src/cli.rs", "role-manager/src/config/load.rs", "role-manager/src/config/mod.rs", "role-manager/src/config/save.rs", "role-manager/src/config/structs.rs", "role-manager/src/main.rs", "role-manager/src/options.rs", "tests/resources/test_xml_manager_case1.xml"]

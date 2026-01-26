@@ -1,0 +1,1 @@
+["src/platform_impl/linux/event_loop.rs", "src/platform_impl/linux/window.rs", "src/platform_impl/macos/view.rs", "src/platform_impl/windows/minimal_ime.rs"]

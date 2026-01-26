@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/catalog/glue/Cargo.toml", "crates/catalog/hms/Cargo.toml", "crates/catalog/rest/Cargo.toml", "crates/iceberg/Cargo.toml", "crates/integrations/datafusion/Cargo.toml"]

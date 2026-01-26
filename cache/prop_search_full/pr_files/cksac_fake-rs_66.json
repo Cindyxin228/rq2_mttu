@@ -1,0 +1,1 @@
+["fake/Cargo.toml", "fake/examples/derive.rs", "fake/examples/fakers.rs", "fake/src/faker/mod.rs", "fake/src/impls/mod.rs", "fake/src/impls/uuid/mod.rs", "fake/src/lib.rs", "fake/tests/determinism.rs"]

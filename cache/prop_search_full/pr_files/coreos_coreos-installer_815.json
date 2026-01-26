@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "src/blockdev.rs", "src/io/hash.rs", "src/io/mod.rs", "src/live/embed.rs", "src/miniso.rs", "src/osmet/mod.rs", "src/osmet/unpacker.rs", "src/s390x/fba.rs"]

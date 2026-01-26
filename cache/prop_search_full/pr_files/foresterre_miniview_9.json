@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "README.md", "examples/exit_after_1_second.rs", "examples/update_dep_licenses.rs", "src/config.rs", "src/errors.rs", "src/io.rs", "src/lib.rs", "src/main.rs", "tests/as_library.rs", "tests/cli.rs", "tests/common/mod.rs"]

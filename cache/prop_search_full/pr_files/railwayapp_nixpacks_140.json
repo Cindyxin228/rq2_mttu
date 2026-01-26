@@ -1,0 +1,1 @@
+["src/nixpacks/environment.rs", "src/nixpacks/mod.rs", "src/nixpacks/phase.rs", "src/providers/rust.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

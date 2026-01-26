@@ -1,0 +1,1 @@
+["libafl_cc/build.rs", "libafl_cc/src/afl-coverage-pass.cc", "libafl_cc/src/clang.rs", "libafl_cc/src/cmplog-routines-pass.cc", "libafl_cc/src/coverage-accounting-pass.cc"]

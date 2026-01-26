@@ -1,0 +1,1 @@
+["src/bin/licensa.rs", "src/commands/apply.rs", "src/commands/verify.rs", "src/config.rs", "src/ops/scan.rs", "src/utils/testing.rs", "src/workspace/mod.rs", "src/workspace/walker/builder.rs", "src/workspace/walker/mod.rs", "src/workspace/walker/walk.rs"]

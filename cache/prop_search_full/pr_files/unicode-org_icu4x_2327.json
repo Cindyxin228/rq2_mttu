@@ -1,0 +1,1 @@
+["components/collator/Cargo.toml", "components/collator/fuzz/fuzz_targets/compare_utf16.rs", "components/collator/src/comparison.rs", "components/collator/src/options.rs", "components/collator/src/tests.rs", "provider/datagen/src/transform/icuexport/collator/test.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "bin/package", "justfile", "src/common.rs", "src/error.rs", "src/subcommand/torrent/stats.rs", "src/torrent_summary.rs"]

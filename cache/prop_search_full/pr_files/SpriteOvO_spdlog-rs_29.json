@@ -1,0 +1,1 @@
+["clippy.toml", "spdlog/src/error.rs", "spdlog/src/formatter/pattern_formatter/pattern/process_id.rs", "spdlog/src/formatter/pattern_formatter/pattern/thread_id.rs", "spdlog/src/record.rs", "spdlog/tests/pattern.rs"]

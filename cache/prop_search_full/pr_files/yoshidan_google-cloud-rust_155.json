@@ -1,0 +1,1 @@
+["foundation/longrunning/src/autogen/operations_client.rs", "spanner/src/admin/client.rs", "spanner/src/admin/database/database_admin_client.rs", "spanner/src/admin/database/mod.rs", "spanner/src/admin/instance/instance_admin_client.rs", "spanner/src/admin/instance/mod.rs", "spanner/src/apiv1/spanner_client.rs", "spanner/src/mutation.rs"]

@@ -1,0 +1,1 @@
+["language/move-prover/bytecode/src/access_path_trie.rs", "language/move-prover/bytecode/src/read_write_set_analysis.rs", "language/move-prover/bytecode/tests/read_write_set/copy_struct.exp", "language/move-prover/bytecode/tests/read_write_set/copy_struct.move", "language/move-prover/bytecode/tests/read_write_set/secondary_index.exp"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/config/kubeconfig.rs", "src/config/test-data/dummy-ca.crt", "src/config/test-data/kubeconfig-with-ca-file.yaml"]

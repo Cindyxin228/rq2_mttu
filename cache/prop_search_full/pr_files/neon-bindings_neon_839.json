@@ -1,0 +1,1 @@
+["src/context/mod.rs", "src/handle/mod.rs", "src/object/mod.rs", "src/types/boxed.rs", "src/types/function/mod.rs", "src/types/mod.rs", "test/dynamic/native/src/js/eventhandler.rs", "test/dynamic/native/src/js/functions.rs", "test/napi/src/js/functions.rs", "test/napi/src/lib.rs"]

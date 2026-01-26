@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitmodules", "Cargo.lock", "Cargo.toml", "README.md", "rdkafka-sys/CONTRIBUTING.md", "rdkafka-sys/Cargo.toml", "rdkafka-sys/README.md", "rdkafka-sys/build.rs", "rdkafka-sys/changelog.md", "rdkafka-sys/librdkafka", "rdkafka-sys/src/bindings.rs", "rdkafka-sys/src/lib.rs", "src/lib.rs"]

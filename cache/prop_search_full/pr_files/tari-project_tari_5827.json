@@ -1,0 +1,1 @@
+["base_layer/chat_ffi/chat.h", "base_layer/chat_ffi/src/message_metadata.rs", "base_layer/chat_ffi/src/types/byte_vector.rs", "base_layer/chat_ffi/src/types/chat_ffi_message.rs"]

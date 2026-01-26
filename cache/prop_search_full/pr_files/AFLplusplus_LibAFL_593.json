@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng/src/lib.rs", "libafl/src/schedulers/probabilistic_sampling.rs", "libafl/src/schedulers/testcase_score.rs", "libafl/src/schedulers/weighted.rs"]

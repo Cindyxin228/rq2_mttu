@@ -1,0 +1,1 @@
+["changelog/issue-5042.md", "changelog/issue-5043.md", "dev-docs/dev-config-example.yml", "generated/references.json", "infrastructure/k8s/templates/taskcluster-queue-secret.yaml", "infrastructure/k8s/values.schema.json", "services/queue/config.yml", "services/queue/src/bucket.js", "services/queue/src/main.js", "ui/docs/manual/deploying/queue-config.mdx"]

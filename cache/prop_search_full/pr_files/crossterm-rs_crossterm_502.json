@@ -1,0 +1,1 @@
+["src/event.rs", "src/event/ansi.rs", "src/event/sys/unix/parse.rs", "src/event/sys/windows/parse.rs", "src/event/sys/windows/poll.rs"]

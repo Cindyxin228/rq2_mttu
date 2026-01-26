@@ -1,0 +1,1 @@
+["kube/Cargo.toml", "kube/src/client/config_ext.rs", "kube/src/client/middleware/add_authorization.rs", "kube/src/client/middleware/mod.rs"]

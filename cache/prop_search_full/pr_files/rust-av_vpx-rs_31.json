@@ -1,0 +1,1 @@
+[".github/workflows/vpx.yml", "src/common.rs", "src/decoder.rs", "src/encoder.rs", "vpx-sys/Cargo.toml", "vpx-sys/build.rs", "vpx-sys/src/lib.rs"]

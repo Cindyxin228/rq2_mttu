@@ -1,0 +1,1 @@
+["fuel-block-producer/Cargo.toml", "fuel-block-producer/tests/integration.rs", "fuel-core/Cargo.toml", "fuel-core/src/service/modules.rs", "fuel-txpool/Cargo.toml", "fuel-txpool/src/service.rs", "fuel-txpool/src/txpool.rs"]

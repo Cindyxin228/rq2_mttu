@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "locales/en.ftl", "locales/en/main.ftl", "locales/zh-CN.ftl", "src/engine.rs", "src/entity/site.rs", "src/locales.rs", "src/main.rs", "templates/article.jinja", "templates/index.jinja"]

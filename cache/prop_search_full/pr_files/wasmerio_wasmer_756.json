@@ -1,0 +1,1 @@
+["lib/runtime-c-api/src/export.rs", "lib/runtime-c-api/tests/assets/exports.rs", "lib/runtime-c-api/tests/assets/exports.wasm", "lib/runtime-c-api/tests/test-exports.c", "lib/runtime-c-api/wasmer.h", "lib/runtime-c-api/wasmer.hh"]

@@ -1,0 +1,1 @@
+["schemars/Cargo.toml", "schemars/build.rs", "schemars/src/json_schema_impls/atomic.rs"]

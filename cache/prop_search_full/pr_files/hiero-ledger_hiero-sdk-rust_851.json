@@ -1,0 +1,1 @@
+["examples/token_airdrop.rs", "src/mirror_query/any.rs", "src/mirror_query/subscribe.rs", "src/pending_airdrop_id.rs", "src/pending_airdrop_record.rs", "src/token/token_airdrop_transaction.rs", "tests/e2e/token/cancel_airdrop.rs", "tests/e2e/token/claim_airdrop.rs", "tests/e2e/token/create.rs"]

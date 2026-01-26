@@ -1,0 +1,1 @@
+["crates/matrix-crypto-ffi/Cargo.toml", "crates/matrix-qrcode/Cargo.toml", "crates/matrix-sdk-crypto/Cargo.toml", "crates/matrix-sdk-crypto/src/olm/group_sessions/outbound.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/reference/core_lib/list.md", "docs/reference/core_lib/map.md", "docs/reference/core_lib/tuple.md", "koto/tests/import.koto", "koto/tests/list_ops.koto", "src/runtime/src/core/list.rs", "src/runtime/src/core/map.rs", "src/runtime/src/core/tuple.rs", "src/runtime/src/vm.rs"]

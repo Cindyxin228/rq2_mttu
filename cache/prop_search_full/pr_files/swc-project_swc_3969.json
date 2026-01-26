@@ -1,0 +1,1 @@
+["crates/swc/scripts/instrument.sh", "crates/swc_ecma_parser/scripts/instrument.sh", "crates/swc_ecma_parser/src/lexer/mod.rs", "crates/swc_ecma_parser/src/lexer/state.rs"]

@@ -1,0 +1,1 @@
+["bindings/java/pom.xml", "bindings/java/src/blocking_operator.rs", "bindings/java/src/error.rs", "bindings/java/src/metadata.rs", "bindings/java/src/operator.rs", "bindings/java/src/test/java/org/apache/opendal/RedisServiceTest.java"]

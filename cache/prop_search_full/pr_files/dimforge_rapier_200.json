@@ -1,0 +1,1 @@
+["src/data/coarena.rs", "src/dynamics/island_manager.rs", "src/dynamics/joint/joint_set.rs", "src/dynamics/rigid_body_components.rs", "src/dynamics/rigid_body_set.rs", "src/geometry/narrow_phase.rs", "src/pipeline/physics_pipeline.rs"]

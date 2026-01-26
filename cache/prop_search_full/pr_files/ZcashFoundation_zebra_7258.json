@@ -1,0 +1,1 @@
+["zebra-chain/src/transaction/serialize.rs", "zebra-rpc/src/methods/get_block_template_rpcs/types/get_block_template.rs", "zebra-state/src/service.rs", "zebrad/tests/common/get_block_template_rpcs/get_block_template.rs"]

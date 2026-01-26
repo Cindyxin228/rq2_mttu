@@ -1,0 +1,1 @@
+["default/src/lib.rs", "foundation/auth/README.md", "foundation/auth/src/project.rs", "foundation/auth/src/token_source/mod.rs", "foundation/auth/src/token_source/service_account_token_source.rs", "storage/src/client.rs", "storage/src/http/service_account_client.rs", "storage/src/http/storage_client.rs"]

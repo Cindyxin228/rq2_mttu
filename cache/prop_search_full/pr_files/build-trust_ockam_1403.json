@@ -1,0 +1,1 @@
+["tools/ockam-hub-cli/.gitignore", "tools/ockam-hub-cli/Cargo.lock", "tools/ockam-hub-cli/Cargo.toml", "tools/ockam-hub-cli/src/auth/github.rs", "tools/ockam-hub-cli/src/auth/mod.rs", "tools/ockam-hub-cli/src/main.rs"]

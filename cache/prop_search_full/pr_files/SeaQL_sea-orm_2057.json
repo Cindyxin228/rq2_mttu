@@ -1,0 +1,1 @@
+["sea-orm-macros/src/strum/helpers/mod.rs", "src/driver/mock.rs", "src/lib.rs", "src/query/combine.rs", "src/query/mod.rs", "src/query/select.rs", "tests/active_enum_tests.rs", "tests/common/features/json_vec.rs", "tests/common/setup/mod.rs", "tests/cursor_tests.rs", "tests/empty_insert_tests.rs", "tests/returning_tests.rs"]

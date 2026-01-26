@@ -1,0 +1,1 @@
+["Cargo.toml", "azure-pipelines.yml", "src/lib.rs", "src/params.rs", "src/tls.rs", "src/value/decode.rs", "src/value/encode.rs", "tests/async.rs", "tests/main.rs"]

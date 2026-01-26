@@ -1,0 +1,1 @@
+["kanidm_client/Cargo.toml", "kanidm_client/src/lib.rs", "kanidm_client/tests/proto_v1_test.rs", "kanidm_tools/Cargo.toml", "kanidm_tools/src/main.rs", "kanidm_tools/src/ssh_authorizedkeys.rs"]

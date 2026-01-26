@@ -1,0 +1,1 @@
+["fuzz/src/onion_message.rs", "lightning/src/offers/invoice.rs", "lightning/src/offers/invoice_request.rs", "lightning/src/onion_message/functional_tests.rs", "lightning/src/onion_message/messenger.rs", "lightning/src/onion_message/offers.rs", "lightning/src/onion_message/packet.rs", "lightning/src/util/ser_macros.rs"]

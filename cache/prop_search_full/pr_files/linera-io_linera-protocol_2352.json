@@ -1,0 +1,1 @@
+["examples/crowd-funding/tests/campaign_lifecycle.rs", "examples/fungible/src/lib.rs", "examples/fungible/tests/cross_chain.rs", "examples/matching-engine/tests/transaction.rs", "linera-chain/src/data_types.rs", "linera-sdk/src/test/block.rs", "linera-sdk/src/test/chain.rs", "linera-sdk/src/test/mod.rs", "linera-sdk/src/test/validator.rs"]

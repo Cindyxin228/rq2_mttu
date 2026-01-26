@@ -1,0 +1,1 @@
+["lambda-events/src/event/ecr_scan/mod.rs", "lambda-events/src/fixtures/example-ecr-image-scan-event-with-missing-severities.json"]

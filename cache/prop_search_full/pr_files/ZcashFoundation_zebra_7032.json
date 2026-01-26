@@ -1,0 +1,1 @@
+["zebra-chain/src/orchard/shielded_data.rs", "zebra-chain/src/transaction/serialize.rs", "zebra-consensus/src/block.rs", "zebra-network/src/protocol/external/codec.rs", "zebra-state/src/service.rs", "zebra-state/src/service/non_finalized_state.rs", "zebra-utils/Cargo.toml", "zebrad/Cargo.toml"]

@@ -1,0 +1,1 @@
+["bridges/testing/tests/0001-asset-transfer/run.sh", "bridges/testing/tests/0002-mandatory-headers-synced-while-idle/run.sh", "cumulus/polkadot-parachain/src/chain_spec/bridge_hubs.rs", "cumulus/polkadot-parachain/src/command.rs"]

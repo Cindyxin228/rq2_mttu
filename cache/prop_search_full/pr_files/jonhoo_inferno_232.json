@@ -1,0 +1,1 @@
+[".cirrus.yml", ".github/workflows/coverage.yml", ".github/workflows/features.yml", ".github/workflows/minimal.yml", ".github/workflows/msrv.yml", ".github/workflows/style.yml", ".github/workflows/test.yml", "Cargo.toml", "README.md", "azure-pipelines.yml"]

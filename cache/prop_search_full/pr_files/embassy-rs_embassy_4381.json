@@ -1,0 +1,1 @@
+["embassy-executor-macros/src/macros/task.rs", "embassy-executor/tests/ui.rs", "embassy-executor/tests/ui/return_impl_future_nonsend.rs", "embassy-executor/tests/ui/return_impl_future_nonsend.stderr", "embassy-executor/tests/ui/return_impl_send.stderr", "embassy-executor/tests/ui/spawn_nonsend.rs", "embassy-executor/tests/ui/spawn_nonsend.stderr"]

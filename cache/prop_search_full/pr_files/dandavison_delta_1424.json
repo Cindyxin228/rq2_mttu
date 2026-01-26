@@ -1,0 +1,1 @@
+["src/cli.rs", "src/config.rs", "src/handlers/grep.rs", "src/handlers/hunk.rs", "src/paint.rs", "src/subcommands/show_config.rs", "src/utils/mod.rs", "src/utils/tabs.rs"]

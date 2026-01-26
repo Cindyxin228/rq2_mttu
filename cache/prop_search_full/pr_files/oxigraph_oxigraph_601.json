@@ -1,0 +1,1 @@
+["fuzz/Cargo.toml", "fuzz/fuzz_targets/nquads.rs", "fuzz/fuzz_targets/sparql_query.rs", "fuzz/fuzz_targets/sparql_results_json.rs", "fuzz/fuzz_targets/sparql_results_tsv.rs", "fuzz/fuzz_targets/sparql_results_xml.rs", "fuzz/fuzz_targets/sparql_update.rs", "fuzz/fuzz_targets/trig.rs"]

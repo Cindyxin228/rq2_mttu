@@ -1,0 +1,1 @@
+["cargo-espflash/src/cargo_config.rs", "cargo-espflash/src/error.rs", "cargo-espflash/src/main.rs", "cargo-espflash/src/package_metadata.rs", "espflash/src/chip/esp32.rs", "espflash/src/chip/esp32c3.rs", "espflash/src/chip/esp32s2.rs", "espflash/src/chip/esp8266.rs", "espflash/src/chip/mod.rs", "espflash/src/connection.rs", "espflash/src/error.rs", "espflash/src/flasher.rs"]

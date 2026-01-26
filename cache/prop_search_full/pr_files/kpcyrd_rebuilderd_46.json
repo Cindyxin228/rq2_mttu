@@ -1,0 +1,1 @@
+["Cargo.lock", "common/Cargo.toml", "common/src/api.rs", "daemon/Cargo.toml", "daemon/src/auth.rs", "daemon/src/main.rs", "tests/Cargo.toml", "tests/src/main.rs", "tools/Cargo.toml", "tools/src/schedule/archlinux.rs", "tools/src/schedule/debian.rs", "worker/Cargo.toml", "worker/src/download.rs"]

@@ -1,0 +1,1 @@
+[".bazelrc", ".factory/automation.yml", "WORKSPACE", "dependencies/vaticle/repositories.bzl", "nodejs/BUILD", "nodejs/connection/TypeDBDriverImpl.ts", "nodejs/package.json", "nodejs/pnpm-lock.yaml", "workspace-status.sh"]

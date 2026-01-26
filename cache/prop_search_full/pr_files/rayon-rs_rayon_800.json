@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.toml", "RELEASES.md", "bors.toml", "ci/compat-Cargo.lock", "rayon-core/Cargo.toml", "rayon-core/src/join/test.rs", "rayon-core/src/sleep/counters.rs", "tests/octillion.rs"]

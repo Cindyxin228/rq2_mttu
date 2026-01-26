@@ -1,0 +1,1 @@
+["sdk/core/src/error/http_error.rs", "sdk/core/src/error/mod.rs", "sdk/core/src/http_client/reqwest.rs", "sdk/core/src/policies/retry_policies/retry_policy.rs", "sdk/core/src/policies/transport.rs"]

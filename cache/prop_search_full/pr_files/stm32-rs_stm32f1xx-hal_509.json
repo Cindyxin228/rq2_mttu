@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/serial_config.rs", "examples/spi-slave.rs", "src/can.rs", "src/gpio.rs", "src/i2c.rs", "src/i2c/blocking.rs", "src/serial.rs", "src/spi.rs"]

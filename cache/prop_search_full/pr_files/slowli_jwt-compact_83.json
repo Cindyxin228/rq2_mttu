@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "benches/encoding.rs", "e2e-tests/wasm/package-lock.json", "src/claims.rs", "src/error.rs", "src/jwk.rs", "src/lib.rs", "src/token.rs", "src/traits.rs", "tests/algorithms.rs", "tests/jwk.rs", "tests/rsa/mod.rs"]

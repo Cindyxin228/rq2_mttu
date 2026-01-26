@@ -1,0 +1,1 @@
+["crates/hc_sandbox/Cargo.toml", "crates/holochain/Cargo.toml", "crates/holochain_sqlite/Cargo.toml", "crates/holochain_state/Cargo.toml", "crates/holochain_types/Cargo.toml", "crates/release-automation/Cargo.lock", "crates/release-automation/Cargo.toml", "crates/test_utils/wasm/wasm_workspace/Cargo.lock"]

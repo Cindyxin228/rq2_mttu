@@ -1,0 +1,1 @@
+["csharp/examples/ProducerDelayMessageExample.cs", "csharp/examples/ProducerFifoMessageExample.cs", "csharp/examples/ProducerNormalMessageExample.cs", "csharp/examples/ProducerTransactionMessageExample.cs", "csharp/examples/QuickStart.cs", "csharp/examples/SimpleConsumerExample.cs", "csharp/rocketmq-client-csharp/rocketmq-client-csharp.csproj"]

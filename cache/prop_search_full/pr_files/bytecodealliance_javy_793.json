@@ -1,0 +1,1 @@
+[".github/workflows/build-assets.yml", ".github/workflows/ci.yml", "crates/cli/build.rs", "crates/cli/src/codegen/builder.rs", "crates/cli/src/codegen/dynamic.rs", "crates/cli/src/codegen/mod.rs", "crates/cli/src/main.rs", "crates/core/Cargo.toml", "crates/core/src/lib.rs", "crates/core/src/main.rs"]

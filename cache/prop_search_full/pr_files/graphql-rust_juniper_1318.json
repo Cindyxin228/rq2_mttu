@@ -1,0 +1,1 @@
+["juniper/CHANGELOG.md", "juniper/src/executor_tests/executor.rs", "juniper/src/lib.rs", "juniper/src/types/async_await.rs", "juniper/src/types/base.rs", "juniper/src/validation/test_harness.rs", "tests/integration/tests/issue_1287.rs"]

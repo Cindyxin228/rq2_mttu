@@ -1,0 +1,1 @@
+["coins/bitcoin/src/rpc.rs", "coins/bitcoin/src/wallet/send.rs", "coins/bitcoin/tests/wallet.rs", "processor/src/networks/bitcoin.rs", "tests/full-stack/src/tests/mint_and_burn.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/clippy.yml", ".github/workflows/release.yml", "release.toml", "scripts/release-gh.sh", "scripts/release-post.sh", "scripts/release-pre.sh"]

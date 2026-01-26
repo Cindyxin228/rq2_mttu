@@ -1,0 +1,1 @@
+["sdk/c/include/hedera.h", "sdk/rust/src/ffi/key/private/mod.rs", "sdk/rust/src/ffi/key/public/tests.rs", "sdk/rust/src/ffi/mnemonic.rs", "sdk/rust/src/ffi/mod.rs", "sdk/rust/src/key/private_key/mod.rs", "sdk/rust/src/mnemonic/mod.rs", "sdk/swift/Sources/Hedera/Mnemonic.swift", "sdk/swift/Sources/Hedera/PrivateKey.swift", "sdk/swift/Tests/HederaTests/MnemonicTests.swift"]

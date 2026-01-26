@@ -1,0 +1,1 @@
+["flake.lock", "src/command.rs", "src/server.rs"]

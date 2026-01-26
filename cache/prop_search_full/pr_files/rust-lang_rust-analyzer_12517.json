@@ -1,0 +1,1 @@
+["crates/hir-def/src/data.rs", "crates/hir-def/src/item_tree/lower.rs", "crates/hir-def/src/item_tree/tests.rs", "crates/ide-completion/src/completions/dot.rs", "crates/ide-completion/src/tests.rs", "crates/ide-completion/src/tests/special.rs"]

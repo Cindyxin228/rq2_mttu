@@ -1,0 +1,1 @@
+["webrender/res/composite.glsl", "webrender/src/composite.rs", "webrender/src/compositor/sw_compositor.rs", "webrender/src/gpu_types.rs", "webrender/src/renderer/init.rs", "webrender/src/renderer/mod.rs", "webrender/src/renderer/shade.rs", "webrender/src/util.rs"]

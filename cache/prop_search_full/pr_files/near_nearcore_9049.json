@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "chain/client/src/metrics.rs", "chain/client/src/sync/state.rs", "core/primitives/src/syncing.rs", "integration-tests/src/tests/nearcore/sync_state_nodes.rs", "nearcore/Cargo.toml", "nearcore/src/state_sync.rs", "tools/state-viewer/src/state_parts.rs"]

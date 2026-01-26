@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli/livetrace/Cargo.toml", "packages/rust/lambda-otel-lite/Cargo.toml", "packages/rust/otlp-stdout-span-exporter/CHANGELOG.md", "packages/rust/otlp-stdout-span-exporter/Cargo.toml", "packages/rust/otlp-stdout-span-exporter/PUBLISHING.md", "packages/rust/otlp-stdout-span-exporter/src/lib.rs"]

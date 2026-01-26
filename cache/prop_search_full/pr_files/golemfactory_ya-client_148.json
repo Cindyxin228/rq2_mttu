@@ -1,0 +1,1 @@
+["model/src/payment/debit_note_event.rs", "model/src/payment/invoice_event.rs", "model/src/payment/payment.rs", "specs/payment-api.yaml"]

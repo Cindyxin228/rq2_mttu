@@ -1,0 +1,1 @@
+["kanidm_book/src/accounts_and_groups.md", "kanidm_client/src/asynchronous.rs", "kanidm_client/src/lib.rs", "kanidm_client/tests/default_entries.rs", "kanidm_proto/src/v1.rs", "kanidm_tools/src/cli/account.rs", "kanidm_tools/src/opt/kanidm.rs", "kanidmd/score/src/https/mod.rs", "kanidmd/score/src/https/v1.rs", "kanidmd/src/lib/actors/v1_write.rs"]

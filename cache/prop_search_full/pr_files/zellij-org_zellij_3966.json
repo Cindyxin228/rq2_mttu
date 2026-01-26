@@ -1,0 +1,1 @@
+["zellij-server/src/panes/floating_panes/mod.rs", "zellij-server/src/plugins/zellij_exports.rs", "zellij-server/src/screen.rs", "zellij-server/src/tab/mod.rs", "zellij-tile/src/shim.rs", "zellij-utils/assets/prost/api.plugin_command.rs", "zellij-utils/src/data.rs", "zellij-utils/src/plugin_api/plugin_command.proto", "zellij-utils/src/plugin_api/plugin_command.rs"]

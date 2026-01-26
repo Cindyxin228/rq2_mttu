@@ -1,0 +1,1 @@
+["Makefile", "benches/serde.rs", "benches/serde_json.rs", "benches/single.rs", "examples/benchmark.rs", "src/de.rs", "src/schema.rs", "src/ser.rs", "src/types.rs", "src/util.rs", "tests/io.rs", "tests/schema.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/gamma.rs", "src/gaussian_quadrature.rs", "src/hermite/mod.rs", "src/jacobi/mod.rs", "src/laguerre/mod.rs", "src/legendre/mod.rs", "src/lib.rs", "src/midpoint/mod.rs", "src/simpson/mod.rs"]

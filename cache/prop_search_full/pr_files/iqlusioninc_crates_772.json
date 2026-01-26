@@ -1,0 +1,1 @@
+[".github/workflows/bip32.yml", "bip32/src/extended_key/private_key.rs", "bip32/src/extended_key/public_key.rs", "bip32/src/lib.rs", "bip32/src/private_key.rs", "bip32/src/public_key.rs", "bip32/tests/bip32_vectors.rs"]

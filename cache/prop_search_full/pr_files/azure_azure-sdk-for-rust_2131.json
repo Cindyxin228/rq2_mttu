@@ -1,0 +1,1 @@
+["eng/pipelines/templates/jobs/ci.yml", "eng/pipelines/templates/stages/archetype-sdk-client.yml", "sdk/core/ci.yml", "sdk/cosmos/ci.yml", "sdk/eventhubs/ci.yml", "sdk/identity/ci.yml", "sdk/keyvault/ci.yml", "sdk/storage/ci.yml", "sdk/template/tests.yml", "sdk/typespec/ci.yml"]

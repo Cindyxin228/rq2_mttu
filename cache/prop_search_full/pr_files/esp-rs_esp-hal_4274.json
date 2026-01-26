@@ -1,0 +1,1 @@
+["esp-bootloader-esp-idf/src/lib.rs", "esp-hal-procmacros/src/blocking.rs", "esp-hal-procmacros/src/rtos_main.rs"]

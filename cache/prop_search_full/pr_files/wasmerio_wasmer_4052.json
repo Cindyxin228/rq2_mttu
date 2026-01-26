@@ -1,0 +1,1 @@
+[".github/workflows/web.yaml", "Cargo.lock", "lib/wasi-web/src/glue.rs", "lib/wasix/src/runtime/resolver/resolve.rs", "tests/wasmer-web/Cargo.lock", "tests/wasmer-web/Cargo.toml", "tests/wasmer-web/src/lib.rs", "tests/wasmer-web/tests/wasi-web.rs"]

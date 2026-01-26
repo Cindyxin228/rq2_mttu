@@ -1,0 +1,1 @@
+["cli/lsp/documents.rs", "cli/module_loader.rs", "cli/npm/resolvers/common.rs", "cli/npm/resolvers/global.rs", "cli/npm/resolvers/local.rs", "cli/npm/resolvers/mod.rs", "cli/tsc/mod.rs", "ext/node/lib.rs", "ext/node/ops/require.rs", "ext/node/package_json.rs", "ext/node/resolution.rs", "runtime/build.rs", "runtime/permissions/mod.rs"]

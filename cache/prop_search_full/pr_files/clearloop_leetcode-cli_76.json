@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/lc.rs", "src/cache/mod.rs", "src/cache/models.rs", "src/cfg.rs", "src/cli.rs", "src/cmds/data.rs", "src/cmds/edit.rs", "src/cmds/exec.rs", "src/cmds/list.rs", "src/cmds/mod.rs", "src/cmds/pick.rs", "src/cmds/stat.rs", "src/cmds/test.rs", "src/flag.rs", "src/plugins/chrome.rs", "tests/de.rs"]

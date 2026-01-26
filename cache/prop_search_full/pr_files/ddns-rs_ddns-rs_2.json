@@ -1,0 +1,1 @@
+[".clippy.toml", ".editorconfig", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "rust-toolchain", "rustfmt.toml", "src/factory.rs", "src/interfaces/peer.rs", "src/interfaces/stock.rs", "src/main.rs", "src/notifiers/email.rs", "src/notifiers/webhook.rs", "src/providers/cloudflare.rs", "src/providers/fake.rs", "src/providers/godaddy.rs", "src/providers/mod.rs", "src/shutdown.rs"]

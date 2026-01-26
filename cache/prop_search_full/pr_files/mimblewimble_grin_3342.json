@@ -1,0 +1,1 @@
+["core/src/global.rs", "pool/src/types.rs", "pool/tests/block_building.rs", "pool/tests/block_max_weight.rs", "pool/tests/block_reconciliation.rs", "pool/tests/coinbase_maturity.rs", "pool/tests/common.rs", "pool/tests/nrd_kernels.rs", "pool/tests/nrd_kernels_disabled.rs", "pool/tests/nrd_kernels_enabled.rs", "pool/tests/transaction_pool.rs"]

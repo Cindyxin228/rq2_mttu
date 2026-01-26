@@ -1,0 +1,1 @@
+["crates/core/src/accessibility/accessibility_manager.rs", "crates/core/src/accessibility/accessibility_provider.rs", "crates/core/src/accessibility/accessibility_state.rs", "crates/core/src/accessibility/mod.rs", "crates/renderer/src/accessibility.rs", "crates/renderer/src/app.rs", "crates/testing/src/launch.rs", "crates/testing/src/test_handler.rs"]

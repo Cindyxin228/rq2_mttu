@@ -1,0 +1,1 @@
+["sea-orm-macros/src/derives/sql_type_match.rs", "sea-orm-macros/src/derives/value_type.rs", "tests/common/features/schema.rs", "tests/common/features/value_type.rs", "tests/common/setup/mod.rs", "tests/value_type_tests.rs"]

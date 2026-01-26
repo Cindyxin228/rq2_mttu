@@ -1,0 +1,1 @@
+["Cargo.toml", "notes/dev_notes.md", "src/gui/app_loop.rs", "src/infra/deploy.rs", "src/infra/mod.rs", "src/trust/seeds.rs", "src/util/cli/args.rs"]

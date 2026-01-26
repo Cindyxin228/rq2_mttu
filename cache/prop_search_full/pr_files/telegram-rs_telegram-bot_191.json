@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "lib/Cargo.toml", "lib/examples/features.rs", "lib/examples/live_location.rs", "lib/src/api.rs", "lib/src/connector/hyper.rs", "raw/Cargo.toml", "raw/src/types/text.rs", "rust-toolchain"]

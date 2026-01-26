@@ -1,0 +1,1 @@
+["crates/swc_css_parser/src/parser/base.rs", "crates/swc_css_parser/tests/recovery/at-rule/font-face/input.css", "crates/swc_css_parser/tests/recovery/at-rule/font-face/output.json", "crates/swc_css_parser/tests/recovery/at-rule/font-face/output.swc-stderr"]

@@ -1,0 +1,1 @@
+["deny.template.toml", "src/advisories/cfg.rs", "src/advisories/helpers.rs", "src/cargo-deny/check.rs", "src/cargo-deny/fetch.rs", "src/cargo-deny/fix.rs"]

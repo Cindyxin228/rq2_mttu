@@ -1,0 +1,1 @@
+["crates/bins/wick/src/commands/test.rs", "crates/wick/wick-component-codegen/src/generate/templates/op_outputs.rs", "crates/wick/wick-component/src/macros.rs", "crates/wick/wick-packet/src/packet.rs", "crates/wick/wick-test/src/test_suite.rs", "crates/wick/wick-test/tests/manifests/test.yaml", "tests/integration/src/test/wick_test.rs"]

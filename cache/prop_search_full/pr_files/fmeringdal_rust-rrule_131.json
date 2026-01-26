@@ -1,0 +1,1 @@
+["rrule-afl-fuzz/src/take_data.rs", "rrule/src/parser/content_line/date_content_line.rs", "rrule/src/parser/content_line/rule_content_line.rs", "rrule/src/parser/content_line/start_date_content_line.rs"]

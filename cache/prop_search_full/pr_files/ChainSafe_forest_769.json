@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/workflows/ci-rust.yml", "Cargo.lock", "README.md", "blockchain/beacon/Cargo.toml"]

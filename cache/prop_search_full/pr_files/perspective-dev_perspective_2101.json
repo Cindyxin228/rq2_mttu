@@ -1,0 +1,1 @@
+["packages/perspective-jupyterlab/package.json", "packages/perspective-jupyterlab/src/js/view.js", "packages/perspective-jupyterlab/src/js/widget.js", "packages/perspective-workspace/package.json", "packages/perspective-workspace/test/results/results.json", "python/perspective/perspective/widget/widget.py", "python/perspective/setup.py", "yarn.lock"]

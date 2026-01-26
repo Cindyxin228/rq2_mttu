@@ -1,0 +1,1 @@
+["CHANGELOG.md", "components/build/src/lib.rs", "components/crypto/build.rs", "components/merkledb/build.rs", "components/proto/build.rs", "examples/cryptocurrency-advanced/backend/build.rs", "examples/cryptocurrency/build.rs", "examples/timestamping/backend/build.rs", "exonum/build.rs", "services/time/build.rs"]

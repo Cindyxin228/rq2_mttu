@@ -1,0 +1,1 @@
+[".github/workflows/push-tester.yml", "app/tools/build.sh", "exomind.fd", "protos/protobuf/exocore/core/config.proto", "protos/protobuf/exocore/store/entity.proto", "protos/protobuf/exocore/store/mutation.proto", "protos/protobuf/exocore/store/options.proto", "protos/protobuf/exomind/base.proto"]

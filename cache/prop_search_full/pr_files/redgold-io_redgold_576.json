@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "data/src/transaction_store.rs", "data/src/utxo_store.rs", "schema/src/lib.rs", "src/core/resolver.rs", "src/node.rs", "src/resources/migrations/0/remove_tx_hashes.json", "src/sanity/historical_parity.rs", "src/sanity/mod.rs"]

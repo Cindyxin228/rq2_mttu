@@ -1,0 +1,1 @@
+["examples/simple.rs", "src/pair/alignment.rs", "src/pair/alignment_matrix/in_memory.rs", "src/pair/alignment_matrix/memory_mapped.rs", "src/pair/alignment_set.rs", "src/pair/needleman_wunsch.rs", "src/pair/run.rs", "src/pair/runs.rs", "src/pair/smith_waterman.rs", "src/pair/step.rs", "src/pair/steps.rs"]

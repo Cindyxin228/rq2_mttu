@@ -1,0 +1,1 @@
+["Cargo.lock", "Makefile", "evento/src/event_store.rs", "example/Cargo.toml", "migrations/20221022132446_init.down.sql", "migrations/20221022132446_init.up.sql", "sqlx-data.json"]

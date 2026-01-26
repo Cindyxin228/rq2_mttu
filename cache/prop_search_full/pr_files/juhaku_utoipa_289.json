@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "README.md", "scripts/test.sh", "utoipa-gen/src/component/schema.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/openapi.rs", "utoipa-gen/src/path.rs", "utoipa-gen/tests/schema_derive_test.rs", "utoipa/Cargo.toml", "utoipa/src/lib.rs", "utoipa/src/openapi/schema.rs"]

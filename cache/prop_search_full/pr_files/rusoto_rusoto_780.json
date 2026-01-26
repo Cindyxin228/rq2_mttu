@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "rusoto/credential/Cargo.toml", "rusoto/credential/src/claims.rs", "rusoto/credential/src/container.rs", "rusoto/credential/src/environment.rs", "rusoto/credential/src/instance_metadata.rs", "rusoto/credential/src/lib.rs", "rusoto/credential/src/profile.rs", "rusoto/credential/src/static_provider.rs"]

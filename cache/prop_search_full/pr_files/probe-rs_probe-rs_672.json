@@ -1,0 +1,1 @@
+["CHANGELOG.md", "cli/src/main.rs", "probe-rs/src/config/target.rs", "probe-rs/src/flashing/erase.rs", "probe-rs/src/flashing/flasher.rs", "probe-rs/src/flashing/loader.rs", "probe-rs/src/flashing/mod.rs"]

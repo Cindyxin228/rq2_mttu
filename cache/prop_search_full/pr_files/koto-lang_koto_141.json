@@ -1,0 +1,1 @@
+["CHANGELOG.md", "koto/tests/error_handling.koto", "koto/tests/functions.koto", "src/bytecode/src/compiler.rs", "src/lexer/src/lexer.rs", "src/parser/src/node.rs", "src/parser/src/parser.rs", "src/parser/tests/parser_tests.rs", "src/runtime/tests/vm_tests.rs"]

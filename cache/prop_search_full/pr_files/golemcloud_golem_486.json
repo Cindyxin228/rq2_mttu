@@ -1,0 +1,1 @@
+["golem-worker-service-base/src/http/http_request.rs", "golem-worker-service-base/src/worker_binding/worker_binding_resolver.rs", "golem-worker-service-base/src/worker_bridge_execution/mod.rs", "golem-worker-service/src/worker_bridge_request_executor.rs"]

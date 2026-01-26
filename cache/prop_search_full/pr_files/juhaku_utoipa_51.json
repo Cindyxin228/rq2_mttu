@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/path_derive_actix.rs", "tests/path_parameter_derive_actix.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/ext.rs", "utoipa-gen/src/ext/actix.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/path/parameter.rs", "utoipa-swagger-ui/Cargo.toml", "utoipa-swagger-ui/src/lib.rs"]

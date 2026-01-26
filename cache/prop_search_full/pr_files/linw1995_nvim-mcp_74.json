@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CLAUDE.md", "README.md", "docs/instructions.md", "src/server/hybrid_router.rs", "src/server/integration_tests.rs", "src/server/lua/cursor_position.lua", "src/server/lua_tools.rs", "src/server/tools.rs"]

@@ -1,0 +1,1 @@
+["kube/Cargo.toml", "kube/src/api/subresource.rs", "kube/src/client/mod.rs", "kube/src/service/auth/mod.rs"]

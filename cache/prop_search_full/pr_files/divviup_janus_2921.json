@@ -1,0 +1,1 @@
+["Cargo.toml", "aggregator/Cargo.toml", "aggregator_api/Cargo.toml", "aggregator_core/Cargo.toml", "client/Cargo.toml", "collector/Cargo.toml", "core/Cargo.toml", "integration_tests/Cargo.toml", "interop_binaries/Cargo.toml", "messages/Cargo.toml", "tools/Cargo.toml", "xtask/Cargo.toml"]

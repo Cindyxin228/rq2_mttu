@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "src/compression.rs", "src/read.rs", "src/write.rs", "tests/end_to_end.rs", "tests/extract_symlink.rs", "tests/repro_old423.rs", "tests/root_dir.rs", "tests/zip_crypto.rs"]

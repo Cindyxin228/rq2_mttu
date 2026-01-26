@@ -1,0 +1,1 @@
+[".github/workflows/build-and-test.yml", ".github/workflows/rpm-release.yml", ".gitignore", "packaging/linux/redhat/rpmbuild/SPECS/scaphandre.spec", "src/exporters/qemu.rs"]

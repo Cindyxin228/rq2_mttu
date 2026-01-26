@@ -1,0 +1,1 @@
+["ffi/cbindgen.toml", "ffi/examples/read-table/read_table.c", "ffi/examples/read-table/schema.h", "ffi/src/lib.rs", "ffi/src/scan.rs", "kernel/src/schema.rs"]

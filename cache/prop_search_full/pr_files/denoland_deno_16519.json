@@ -1,0 +1,1 @@
+["cli/node/analyze.rs", "cli/tests/testdata/npm/registry/@denotest/cjs-local-global-decls/1.0.0/index.js", "cli/tests/testdata/npm/registry/@denotest/cjs-local-global-decls/1.0.0/other.js", "ext/node/01_node.js", "ext/node/02_require.js"]

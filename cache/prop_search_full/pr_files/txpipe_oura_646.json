@@ -1,0 +1,1 @@
+["Cargo.toml", "book/src/sinks/aws_s3.md", "examples/aws_s3/daemon.toml", "src/sinks/_pending/aws_s3/mod.rs", "src/sinks/_pending/aws_s3/run.rs", "src/sinks/_pending/aws_s3/setup.rs", "src/sinks/aws_s3.rs", "src/sinks/mod.rs"]

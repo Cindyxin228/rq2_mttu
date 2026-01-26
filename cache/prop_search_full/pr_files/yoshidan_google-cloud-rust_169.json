@@ -1,0 +1,1 @@
+["bigquery/Cargo.toml", "default/Cargo.toml", "foundation/auth/Cargo.toml", "foundation/gax/Cargo.toml", "foundation/longrunning/Cargo.toml", "googleapis/Cargo.toml", "pubsub/Cargo.toml", "spanner/Cargo.toml"]

@@ -1,0 +1,1 @@
+["integration_tests/Cargo.toml", "integration_tests/tests/snowball.rs", "rusoto/Cargo.toml", "rusoto/services/snowball/Cargo.toml", "rusoto/services/snowball/README.md", "rusoto/services/snowball/src/custom/mod.rs", "rusoto/services/snowball/src/generated.rs", "rusoto/services/snowball/src/lib.rs", "service_crategen/services.json"]

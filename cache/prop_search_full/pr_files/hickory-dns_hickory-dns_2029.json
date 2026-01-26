@@ -1,0 +1,1 @@
+["crates/recursor/src/recursor.rs", "crates/resolver/src/async_resolver.rs", "crates/resolver/src/config.rs", "crates/resolver/src/name_server/name_server_pool.rs", "crates/server/src/store/forwarder/authority.rs", "tests/integration-tests/tests/name_server_pool_tests.rs"]

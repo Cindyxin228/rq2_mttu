@@ -1,0 +1,1 @@
+["ballista/rust/core/src/serde/physical_plan/from_proto.rs", "datafusion/src/execution/context.rs", "datafusion/src/optimizer/simplify_expressions.rs", "datafusion/src/physical_optimizer/pruning.rs", "datafusion/src/physical_plan/functions.rs", "datafusion/src/physical_plan/planner.rs"]

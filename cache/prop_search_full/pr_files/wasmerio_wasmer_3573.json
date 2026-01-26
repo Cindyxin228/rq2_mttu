@@ -1,0 +1,1 @@
+["lib/api/src/sys/instance.rs", "lib/api/src/sys/module.rs", "lib/c-api/src/wasm_c_api/instance.rs", "lib/compiler/src/engine/artifact.rs", "lib/types/src/compilation/target.rs", "tests/compilers/traps.rs"]

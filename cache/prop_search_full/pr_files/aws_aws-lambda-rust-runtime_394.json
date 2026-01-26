@@ -1,0 +1,1 @@
+["lambda-extension/examples/basic.rs", "lambda-extension/examples/custom_events.rs", "lambda-extension/examples/custom_trait_implementation.rs", "lambda-extension/src/lib.rs", "lambda-integration-tests/src/bin/extension-fn.rs", "lambda-integration-tests/src/bin/extension-trait.rs"]

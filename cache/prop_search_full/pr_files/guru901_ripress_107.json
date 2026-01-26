@@ -1,0 +1,1 @@
+["src/middlewares/cors.rs", "src/middlewares/file_upload.rs", "src/middlewares/logger.rs", "src/middlewares/mod.rs", "src/middlewares/rate_limiter.rs", "src/tests/middleware_test.rs"]

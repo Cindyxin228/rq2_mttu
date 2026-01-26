@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/scouter_events/src/consumer/kafka/consumer.rs", "crates/scouter_events/src/producer/kafka/types.rs", "py-scouter/pyproject.toml", "py-scouter/uv.lock", "release-plz.toml"]

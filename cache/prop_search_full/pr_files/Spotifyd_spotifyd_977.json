@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/alsa_mixer.rs", "src/config.rs", "src/dbus_mpris.rs", "src/main.rs", "src/main_loop.rs", "src/process.rs", "src/setup.rs", "src/utils.rs"]

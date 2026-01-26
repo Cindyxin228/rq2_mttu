@@ -1,0 +1,1 @@
+["src/config.rs", "src/configs/almel.yaml", "src/configs/directory.rs", "src/configs/duration.rs", "src/configs/git_repo.rs", "src/configs/git_user.rs", "src/configs/mod.rs", "src/configs/os.rs", "src/configs/shell.rs", "src/configs/status.rs", "src/configs/time.rs", "src/configs/user.rs", "src/context.rs", "src/main.rs", "src/prompt.rs", "src/segments/git_repo.rs"]

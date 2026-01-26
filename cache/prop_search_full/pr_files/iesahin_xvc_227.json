@@ -1,0 +1,1 @@
+["book/src/how-to/git-branches.md", "book/src/ref/xvc-pipeline-export.md", "book/src/ref/xvc-pipeline-import.md", "book/src/ref/xvc-pipeline-step-dependency-regex-items.md", "book/src/ref/xvc-storage-new-gcs.md", "book/src/ref/xvc-storage-new-s3.md", "file/src/common/compare.rs", "workflow_tests/tests/test_pipeline_run.rs"]

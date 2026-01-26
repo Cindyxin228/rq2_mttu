@@ -1,0 +1,1 @@
+["crates/apub/assets/lotide/activities/follow.json", "crates/apub/src/protocol/activities/following/accept.rs", "crates/apub/src/protocol/activities/following/follow.rs", "crates/apub/src/protocol/activities/following/undo_follow.rs", "crates/apub/src/protocol/activities/mod.rs"]

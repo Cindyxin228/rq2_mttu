@@ -1,0 +1,1 @@
+["examples/http-client/Cargo.toml", "examples/http-server/Cargo.toml", "phper-doc/Cargo.toml", "phper-macros/Cargo.toml", "phper-sys/Cargo.toml", "phper-test/Cargo.toml", "phper/Cargo.toml", "tests/integration/Cargo.toml"]

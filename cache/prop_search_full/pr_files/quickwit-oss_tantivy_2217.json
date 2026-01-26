@@ -1,0 +1,1 @@
+["src/core/json_utils.rs", "src/core/searcher.rs", "src/fastfield/writer.rs", "src/schema/document/de.rs", "src/schema/document/existing_type_impls.rs", "src/schema/document/mod.rs", "src/schema/document/owned_value.rs", "src/schema/document/se.rs", "src/schema/document/value.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/collector/mod.rs", "src/collector/multi_collector.rs", "src/lib.rs", "src/query/boolean_query/boolean_weight.rs", "src/query/boolean_query/mod.rs", "src/query/intersection.rs", "src/query/query.rs", "src/query/scorer.rs"]

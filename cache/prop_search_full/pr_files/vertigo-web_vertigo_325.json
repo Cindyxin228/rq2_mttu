@@ -1,0 +1,1 @@
+[".github/workflows/pipeline.yaml", ".gitignore", "crates/vertigo/src/driver_module/wasm_run.js", "crates/vertigo/src/driver_module/wasm_run.js.map", "package-lock.json", "package.json", "tests/check_js_is_fresh.sh"]

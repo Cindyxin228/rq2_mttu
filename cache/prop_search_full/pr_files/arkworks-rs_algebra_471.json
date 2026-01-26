@@ -1,0 +1,1 @@
+["ec/src/lib.rs", "ec/src/models/bls12/g1.rs", "ec/src/models/short_weierstrass/affine.rs", "ec/src/models/twisted_edwards/affine.rs", "ec/src/models/twisted_edwards/group.rs"]

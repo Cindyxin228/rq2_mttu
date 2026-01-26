@@ -1,0 +1,1 @@
+["benches/main.rs", "fuzz/fuzz_targets/compare_to_serde.rs", "src/jiter.rs", "src/value.rs", "tests/main.rs", "tests/python.rs"]

@@ -1,0 +1,1 @@
+["cranelift/codegen/meta/src/isa/x86.rs", "cranelift/codegen/src/isa/x64/inst.isle", "cranelift/codegen/src/isa/x64/lower.isle", "cranelift/codegen/src/isa/x64/lower/isle.rs", "cranelift/filetests/filetests/isa/x64/extractlane-avx.clif", "cranelift/filetests/filetests/runtests/simd-fma.clif", "cranelift/filetests/filetests/wasm/x64-relaxed-simd-deterministic.wat"]

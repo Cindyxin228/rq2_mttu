@@ -1,0 +1,1 @@
+["src/bootstrap/connect.rs", "src/bootstrap/mod.rs", "src/bootstrap/ws.rs", "src/gateway_uri.rs", "src/lib.rs", "src/main.rs", "tests/integration.rs"]

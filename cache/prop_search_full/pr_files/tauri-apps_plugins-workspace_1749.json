@@ -1,0 +1,1 @@
+[".changes/barcode-dependencies.md", "plugins/barcode-scanner/android/build.gradle.kts", "plugins/barcode-scanner/android/src/main/AndroidManifest.xml", "plugins/barcode-scanner/android/src/main/java/BarcodeScannerPlugin.kt", "plugins/nfc/android/src/main/AndroidManifest.xml"]

@@ -1,0 +1,1 @@
+["deployment/charts/templates/fuel-core-deploy.yaml", "deployment/charts/values.yaml", "deployment/scripts/.env"]

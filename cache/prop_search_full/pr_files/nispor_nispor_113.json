@@ -1,0 +1,1 @@
+["Cargo.toml", "DEVEL.md", "Makefile", "README.md", "src/lib/ip.rs", "src/varlink/Cargo.toml", "src/varlink/info.nispor.varlink", "src/varlink/info_nispor.rs", "src/varlink/npd.rs", "src/varlink/systemd/nispor.service", "src/varlink/systemd/nispor.socket"]

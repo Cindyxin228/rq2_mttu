@@ -1,0 +1,1 @@
+["bin/check-artifact.sh", "glean-core/ios/sdk_generator.sh", "publish.gradle", "taskcluster/scripts/rustup-setup.sh"]

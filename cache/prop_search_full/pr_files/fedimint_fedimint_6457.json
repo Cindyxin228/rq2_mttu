@@ -1,0 +1,1 @@
+["fedimint-bitcoind/src/bitcoincore.rs", "fedimint-bitcoind/src/esplora.rs", "fedimint-bitcoind/src/lib.rs", "fedimint-server/src/config/api.rs", "fedimint-testing/src/btc/mock.rs"]

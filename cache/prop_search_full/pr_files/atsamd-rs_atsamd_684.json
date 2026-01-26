@@ -1,0 +1,1 @@
+["crates.json", "hal/CHANGELOG.md", "hal/Cargo.toml", "hal/src/dmac/mod.rs", "hal/src/gpio/dynpin.rs", "hal/src/sercom/i2c/flags.rs", "hal/src/sercom/spi.rs", "hal/src/sercom/uart/flags.rs", "hal/src/thumbv7em/dsu.rs", "hal/src/thumbv7em/nvm.rs", "hal/src/thumbv7em/qspi.rs"]

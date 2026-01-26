@@ -1,0 +1,1 @@
+[".github/workflows/workspace.yml", ".typos.toml", "curve25519-dalek/build.rs", "curve25519-dalek/src/traits.rs", "ed25519-dalek/src/signature.rs", "ed25519-dalek/tests/pkcs8.rs"]

@@ -1,0 +1,1 @@
+[".buildconfig.yml", ".dictionary", "CHANGELOG.md", "Cargo.lock", "DEPENDENCIES.md", "glean-core/Cargo.toml", "glean-core/android/dependency-licenses.xml", "glean-core/csharp/Glean/Glean.csproj", "glean-core/ffi/Cargo.toml", "glean-core/python/setup.py", "glean-core/rlb/Cargo.toml", "gradle-plugin/src/main/groovy/mozilla/telemetry/glean-gradle-plugin/GleanGradlePlugin.groovy"]

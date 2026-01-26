@@ -1,0 +1,1 @@
+[".github/workflows/publish-casper-client-rpm.yml", "ci/publish_to_s3_repo.sh", "ci/rpmmacros"]

@@ -1,0 +1,1 @@
+["datafusion/functions/src/datetime/current_date.rs", "datafusion/functions/src/datetime/current_time.rs", "datafusion/functions/src/datetime/date_bin.rs", "datafusion/functions/src/datetime/date_part.rs", "datafusion/functions/src/datetime/date_trunc.rs", "datafusion/functions/src/datetime/from_unixtime.rs", "docs/source/user-guide/sql/scalar_functions.md"]

@@ -1,0 +1,1 @@
+["examples/callback.rs", "examples/make_prerecorded_request_builder.rs", "examples/prerecorded_from_file/main.rs", "examples/prerecorded_from_url.rs", "src/transcription/prerecorded.rs", "src/transcription/prerecorded/audio_source.rs", "src/transcription/prerecorded/options.rs"]

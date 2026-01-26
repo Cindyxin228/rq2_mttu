@@ -1,0 +1,1 @@
+["Cargo.toml", "src/datatypes/field.rs", "src/datatypes/mod.rs", "src/io/json/read/deserialize.rs", "tests/it/arrow.rs", "tests/it/temporal_conversions.rs", "tests/it/test_util.rs"]

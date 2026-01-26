@@ -1,0 +1,1 @@
+["src/app_config.rs", "src/args.rs", "src/git/mod.rs", "src/git/utils.rs", "src/lib.rs", "src/user_parsed_input.rs", "tests/integration/git.rs", "tests/integration/helpers/project_builder.rs", "tests/integration/library.rs"]

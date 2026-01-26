@@ -1,0 +1,1 @@
+["payjoin-cli/src/app/config.rs", "payjoin-cli/src/app/v1.rs", "payjoin-cli/src/app/v2.rs", "payjoin-cli/src/main.rs", "payjoin/src/receive/error.rs", "payjoin/src/receive/optional_parameters.rs", "payjoin/src/receive/v1/mod.rs", "payjoin/src/receive/v2/mod.rs", "payjoin/src/send/v2/mod.rs", "payjoin/tests/integration.rs"]

@@ -1,0 +1,1 @@
+["scylla/src/history.rs", "scylla/src/transport/downgrading_consistency_retry_policy.rs", "scylla/src/transport/iterator.rs", "scylla/src/transport/retry_policy.rs", "scylla/src/transport/session.rs"]

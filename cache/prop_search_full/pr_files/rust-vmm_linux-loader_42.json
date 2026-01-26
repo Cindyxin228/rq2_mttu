@@ -1,0 +1,1 @@
+["coverage_config_x86_64.json", "src/cmdline/mod.rs", "src/configurator/aarch64/fdt.rs", "src/configurator/mod.rs", "src/configurator/x86_64/linux.rs", "src/configurator/x86_64/pvh.rs", "src/loader/aarch64/pe/mod.rs", "src/loader/mod.rs", "src/loader/x86_64/bzimage/mod.rs", "src/loader/x86_64/elf/mod.rs"]

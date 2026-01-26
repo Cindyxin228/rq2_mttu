@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/release-drafter.yml", ".github/workflows/release-drafter.yml", "CHANGELOG.md", "CHANGES.md", "Cargo.toml", "cliff.toml", "release.toml", "renovate.json", "src/misc.rs"]

@@ -1,0 +1,1 @@
+["kube-derive/src/lib.rs", "kube-runtime/src/utils.rs", "kube-runtime/src/watcher.rs", "kube/src/config/file_config.rs", "kube/src/config/mod.rs", "kube/src/runtime/reflector.rs", "tests/dapp.rs"]

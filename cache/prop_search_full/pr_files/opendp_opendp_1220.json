@@ -1,0 +1,1 @@
+[".flake8", "tools/assert_version.py", "tools/channel_tool.py", "tools/publish_tool.py"]

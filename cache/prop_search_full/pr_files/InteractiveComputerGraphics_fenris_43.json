@@ -1,0 +1,1 @@
+["examples/poisson2d.rs", "src/assembly/local/quadrature_table.rs", "src/element/tetrahedron.rs", "src/quadrature/canonical.rs", "tests/unit_tests/quadrature/canonical.rs"]

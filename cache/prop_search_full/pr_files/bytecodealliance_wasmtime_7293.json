@@ -1,0 +1,1 @@
+["crates/test-programs/src/bin/api_proxy.rs", "crates/wasi-http/src/proxy.rs", "crates/wasi-preview1-component-adapter/src/lib.rs", "crates/wasi/src/preview2/command.rs", "crates/wasi/src/preview2/mod.rs"]

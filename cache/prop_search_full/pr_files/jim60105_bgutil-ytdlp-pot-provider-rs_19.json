@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/testing-guidelines.md", "scripts/quality_check.sh", "tests/api_compatibility_tests.rs", "tests/common/mod.rs", "tests/contract/api_compatibility.rs", "tests/contract/mod.rs"]

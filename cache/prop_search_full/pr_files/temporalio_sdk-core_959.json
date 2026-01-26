@@ -1,0 +1,1 @@
+[".cargo/config.toml", "client/src/lib.rs", "sdk-core-protos/src/lib.rs", "tests/cloud_tests.rs", "tests/integ_tests/worker_versioning_tests.rs"]

@@ -1,0 +1,1 @@
+["src/compute/flavors.rs", "src/compute/servers.rs", "src/image/images.rs", "src/network/networks.rs", "src/network/ports.rs", "src/network/subnets.rs"]

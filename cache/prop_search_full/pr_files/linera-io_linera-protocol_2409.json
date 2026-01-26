@@ -1,0 +1,1 @@
+["linera-base/src/crypto.rs", "linera-base/src/identifiers.rs", "linera-client/src/client_options.rs", "linera-client/src/storage.rs", "linera-sdk/src/service/test_runtime.rs", "linera-service/src/project.rs", "linera-views/src/set_view.rs"]

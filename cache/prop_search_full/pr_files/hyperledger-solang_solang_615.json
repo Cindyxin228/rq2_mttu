@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "solang-parser/Cargo.toml", "solang-parser/build.rs", "solang-parser/src/diagnostics.rs", "solang-parser/src/doc.rs", "solang-parser/src/lexer.rs", "solang-parser/src/lib.rs", "solang-parser/src/pt.rs", "solang-parser/src/solidity.lalrpop", "src/lib.rs", "src/sema/ast.rs", "src/sema/diagnostics.rs"]

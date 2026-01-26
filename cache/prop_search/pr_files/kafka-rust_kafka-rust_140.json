@@ -1,0 +1,1 @@
+["examples/console-consumer.rs", "examples/console-producer.rs", "src/client/mod.rs", "src/consumer/builder.rs", "src/producer.rs"]

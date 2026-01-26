@@ -1,0 +1,1 @@
+["docker/dev/docker-compose.yml", "docker/federation/docker-compose.yml", "docker/prod/docker-compose.yml", "scripts/postgres_12_to_15_upgrade.sh"]

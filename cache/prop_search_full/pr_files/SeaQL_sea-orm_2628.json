@@ -1,0 +1,1 @@
+["src/entity/base_entity.rs", "src/executor/insert.rs", "src/query/insert.rs", "tests/returning_tests.rs", "tests/upsert_tests.rs"]

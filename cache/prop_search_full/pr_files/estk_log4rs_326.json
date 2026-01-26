@@ -1,0 +1,1 @@
+[".editorconfig", ".github/workflows/audit.yml", ".github/workflows/coverage.yml", ".github/workflows/editor-check.yml", ".github/workflows/lint.yml", ".github/workflows/main.yml", "README.md", "docs/Configuration.md", "examples/sample_config.yml", "src/append/rolling_file/mod.rs", "src/config/raw.rs", "src/encode/json.rs", "src/encode/pattern/mod.rs", "test/log.yml"]

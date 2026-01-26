@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "rsql_core/src/configuration.rs", "rsql_core/src/drivers/driver.rs", "rsql_core/src/drivers/postgresql.rs", "rsql_core/src/drivers/sqlite.rs", "rsql_core/src/shell/repl.rs"]

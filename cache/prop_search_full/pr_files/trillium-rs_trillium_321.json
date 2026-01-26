@@ -1,0 +1,1 @@
+["codecov.yml", "server-common/Cargo.toml", "server-common/src/clone_counter.rs", "server-common/src/config.rs", "server-common/src/config_ext.rs", "server-common/src/lib.rs", "server-common/src/server.rs", "server-common/src/server_handle.rs"]

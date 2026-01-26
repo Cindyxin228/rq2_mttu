@@ -1,0 +1,1 @@
+["fe2o3-amqp-types/src/messaging/message.rs", "fe2o3-amqp/src/connection/builder.rs", "fe2o3-amqp/src/lib.rs", "fe2o3-amqp/src/listener/connection.rs", "fe2o3-amqp/src/listener/link.rs", "fe2o3-amqp/src/listener/mod.rs", "fe2o3-amqp/src/listener/session.rs", "serde_amqp/Cargo.toml", "serde_amqp/src/de.rs", "serde_amqp/src/value/de.rs", "serde_amqp/src/value/mod.rs"]

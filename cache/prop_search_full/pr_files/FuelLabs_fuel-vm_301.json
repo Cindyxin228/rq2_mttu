@@ -1,0 +1,1 @@
+["fuel-storage/src/impls.rs", "fuel-storage/src/lib.rs", "fuel-vm/Cargo.toml", "fuel-vm/src/interpreter/diff/storage.rs", "fuel-vm/src/storage.rs", "fuel-vm/src/storage/interpreter.rs", "fuel-vm/src/storage/memory.rs", "fuel-vm/src/storage/predicate.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "Cargo.lock", "crates/ink/tests/ui/contract/fail/message-returns-non-codec.stderr", "crates/ink/tests/ui/trait_def/fail/message_output_non_codec.stderr"]

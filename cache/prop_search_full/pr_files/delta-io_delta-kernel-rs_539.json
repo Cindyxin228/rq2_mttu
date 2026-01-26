@@ -1,0 +1,1 @@
+["ffi/README.md", "ffi/examples/read-table/CMakeLists.txt", "ffi/examples/read-table/README.md", "ffi/examples/read-table/arrow.c", "ffi/examples/read-table/kernel_utils.c", "ffi/examples/read-table/kernel_utils.h", "ffi/examples/read-table/read_table.c", "ffi/examples/read-table/read_table.h", "ffi/examples/read-table/schema.h"]

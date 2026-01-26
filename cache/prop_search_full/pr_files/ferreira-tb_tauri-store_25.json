@@ -1,0 +1,1 @@
+[".gitattributes", "crates/tauri-plugin-pinia/src/lib.rs", "crates/tauri-store-macros/Cargo.toml", "crates/tauri-store/Cargo.toml", "crates/tauri-store/src/collection.rs", "crates/tauri-store/src/store.rs", "examples/pinia/package.json", "examples/pinia/src-tauri/Cargo.toml", "examples/pinia/src-tauri/tauri.conf.json", "package.json"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/error.rs", "src/feed.rs", "src/item.rs", "src/main.rs", "src/sink/discord.rs", "src/sink/mod.rs", "src/watcher.rs"]

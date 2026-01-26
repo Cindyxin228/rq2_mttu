@@ -1,0 +1,1 @@
+["Cargo.lock", "rzup/Cargo.toml", "rzup/src/build.rs", "rzup/src/components.rs", "rzup/src/distribution/github.rs", "rzup/src/distribution/http.rs", "rzup/src/distribution/mod.rs", "rzup/src/distribution/s3.rs", "rzup/src/error.rs", "rzup/src/lib.rs", "rzup/src/paths.rs"]

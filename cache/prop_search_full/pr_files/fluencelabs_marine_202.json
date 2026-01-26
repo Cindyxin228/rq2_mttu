@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/fluence-app-service/Cargo.toml", "examples/greeting/artifacts/greeting.wasm", "marine/Cargo.toml", "marine/src/config/marine_config.rs", "marine/src/config/mod.rs", "marine/src/config/path_utils.rs", "marine/src/config/raw_marine_config.rs", "marine/src/module_loading/mod.rs", "tools/repl/Cargo.toml"]

@@ -1,0 +1,1 @@
+["ci/build-wasi-preview1-component-adapter.sh", "crates/test-programs/artifacts/build.rs", "crates/wasi-http/src/proxy.rs", "crates/wasi-http/tests/all/async_.rs", "crates/wasi-preview1-component-adapter/Cargo.toml", "crates/wasi-preview1-component-adapter/src/descriptors.rs", "crates/wasi-preview1-component-adapter/src/lib.rs", "src/commands/serve.rs"]

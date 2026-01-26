@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "Cargo.toml", "src/train_model.rs", "src/vec_simd.rs", "src/vocab/simple.rs", "src/vocab/subword.rs"]

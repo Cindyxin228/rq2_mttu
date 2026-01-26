@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/todo-warp/src/main.rs", "src/lib.rs", "tests/path_derive.rs", "tests/path_parameter_derive_test.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/path/parameter.rs", "utoipa-gen/src/schema.rs", "utoipa-gen/src/schema/into_params.rs"]

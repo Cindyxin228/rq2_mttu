@@ -1,0 +1,1 @@
+[".gitignore", "libsql-ffi/build.rs", "libsql-server/src/replication/replicator_client.rs", "libsql-server/src/rpc/mod.rs", "libsql-server/src/rpc/replica_proxy.rs", "libsql/tests/integration_tests.rs"]

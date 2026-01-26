@@ -1,0 +1,1 @@
+[".github/workflows/test.yaml", "Cargo.toml", "README.md", "build-probe-mpi/src/os/unix.rs", "ci/install-mpi-windows.sh", "examples/contiguous.rs", "examples/immediate_multiple_barrier.rs", "examples/immediate_multiple_test.rs", "examples/readme.rs", "examples/send_receive.rs", "examples/vector.rs", "mpi-sys/Cargo.toml"]

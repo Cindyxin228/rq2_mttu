@@ -1,0 +1,1 @@
+["bindings/node/package-lock.json", "bindings/python/py_src/tokenizers/trainers/__init__.pyi", "bindings/python/src/trainers.rs", "bindings/python/tests/bindings/test_trainers.py", "tokenizers/src/models/bpe/trainer.rs", "tokenizers/src/models/bpe/word.rs"]

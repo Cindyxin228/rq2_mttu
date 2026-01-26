@@ -1,0 +1,1 @@
+["protocols/gossipsub/CHANGELOG.md", "protocols/gossipsub/Cargo.toml", "protocols/gossipsub/src/behaviour.rs", "protocols/gossipsub/src/metrics.rs", "protocols/gossipsub/src/peer_score.rs", "protocols/gossipsub/src/types.rs", "protocols/gossipsub/tests/smoke.rs"]

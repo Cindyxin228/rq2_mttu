@@ -1,0 +1,1 @@
+["gix-object/src/tag/decode.rs", "gix-object/src/tag/write.rs", "gix-object/tests/fixtures/tag/empty_missing_nl.txt", "gix-object/tests/object/encode/mod.rs", "gix-object/tests/object/tag/mod.rs"]

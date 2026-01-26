@@ -1,0 +1,1 @@
+["Cargo.toml", "example-projects/rdkafka-example/Cargo.toml", "src/binding/rdkafka/kafka_consumer_record.rs", "src/binding/rdkafka/kafka_producer_record.rs", "src/binding/rdkafka/mod.rs"]

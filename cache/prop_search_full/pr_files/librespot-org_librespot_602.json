@@ -1,0 +1,1 @@
+["Cargo.lock", "audio/Cargo.toml", "audio/src/decrypt.rs", "connect/Cargo.toml", "connect/src/discovery.rs", "core/Cargo.toml", "core/src/authentication.rs", "core/src/connection/handshake.rs"]

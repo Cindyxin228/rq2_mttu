@@ -1,0 +1,1 @@
+["devimint/src/gatewayd.rs", "gateway/cli/src/config_commands.rs", "gateway/integration_tests/src/main.rs", "gateway/ln-gateway/src/federation_manager.rs", "gateway/ln-gateway/src/lib.rs", "gateway/ln-gateway/src/rpc/mod.rs"]

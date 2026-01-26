@@ -1,0 +1,1 @@
+["jsonschema/Cargo.toml", "jsonschema/src/error.rs", "jsonschema/src/keywords/additional_properties.rs", "jsonschema/src/keywords/format.rs", "jsonschema/src/keywords/pattern.rs", "jsonschema/src/keywords/pattern_properties.rs"]

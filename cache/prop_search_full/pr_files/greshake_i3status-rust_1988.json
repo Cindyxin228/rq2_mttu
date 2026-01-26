@@ -1,0 +1,1 @@
+["src/blocks.rs", "src/blocks/apt.rs", "src/blocks/dnf.rs", "src/blocks/packages.rs", "src/blocks/packages/apt.rs", "src/blocks/packages/dnf.rs", "src/blocks/packages/pacman.rs", "src/blocks/pacman.rs"]

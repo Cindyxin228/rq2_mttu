@@ -1,0 +1,1 @@
+["examples/decode.rs", "examples/encode.rs", "fuzz/fuzz_targets/decode.rs", "src/decoder/mod.rs", "src/document.rs", "src/encoder/mod.rs", "src/lib.rs", "tests/modules/encoder_decoder.rs", "tests/serde.rs", "tests/spec/corpus.rs"]

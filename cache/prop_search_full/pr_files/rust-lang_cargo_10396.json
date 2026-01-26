@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/cargo/cli.rs", "src/bin/cargo/commands/bench.rs", "src/bin/cargo/commands/config.rs", "src/bin/cargo/commands/git_checkout.rs", "src/bin/cargo/commands/report.rs", "src/bin/cargo/commands/run.rs", "src/bin/cargo/commands/rustc.rs", "src/bin/cargo/commands/rustdoc.rs", "src/bin/cargo/commands/test.rs", "src/cargo/util/command_prelude.rs"]

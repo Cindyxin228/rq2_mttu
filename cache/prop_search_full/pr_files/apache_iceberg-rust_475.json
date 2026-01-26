@@ -1,0 +1,1 @@
+["crates/catalog/inmemory/Cargo.toml", "crates/catalog/inmemory/README.md", "crates/catalog/inmemory/src/catalog.rs", "crates/catalog/inmemory/src/lib.rs", "crates/catalog/inmemory/src/namespace_state.rs", "crates/iceberg/src/catalog/mod.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.next.toml", "aws/rust-runtime/aws-sig-auth/src/signer.rs", "aws/rust-runtime/aws-sigv4/src/http_request/canonical_request.rs", "aws/rust-runtime/aws-sigv4/src/http_request/mod.rs", "aws/rust-runtime/aws-sigv4/src/http_request/settings.rs", "aws/rust-runtime/aws-sigv4/src/http_request/sign.rs"]

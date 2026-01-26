@@ -1,0 +1,1 @@
+["README.md", "e2e-tests/no-std/src/main.rs", "src/alg/eddsa_compact.rs", "src/alg/eddsa_dalek.rs", "src/error.rs", "src/jwk.rs", "src/lib.rs", "src/token.rs", "tests/algorithms.rs", "tests/jwk.rs"]

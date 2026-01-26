@@ -1,0 +1,1 @@
+["http-server/Cargo.toml", "http-server/src/lib.rs", "nats/Cargo.toml", "nats/src/generated/core.rs", "nats/src/lib.rs", "redis/Cargo.toml", "redis/src/lib.rs"]

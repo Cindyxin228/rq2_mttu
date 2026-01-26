@@ -1,0 +1,1 @@
+["socketio_middleware/Cargo.toml", "socketio_middleware/examples/chat.rs", "socketio_middleware/src/socketio.rs", "socketio_middleware/src/socketio_upgrade.rs"]

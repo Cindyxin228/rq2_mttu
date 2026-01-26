@@ -1,0 +1,1 @@
+["src/data.rs", "src/handler.rs", "src/info.rs", "src/lib.rs", "src/middleware/compress.rs", "src/middleware/defaultheaders.rs", "src/middleware/logger.rs", "src/resource.rs", "src/rmap.rs", "src/scope.rs", "src/types/form.rs", "src/types/json.rs", "src/types/payload.rs"]

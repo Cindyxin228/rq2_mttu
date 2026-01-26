@@ -1,0 +1,1 @@
+[".github/workflows/build-test-contracts-common.yaml", "rust-src/concordium_base/src/hashes.rs", "smart-contracts/contracts-common/concordium-contracts-common/CHANGELOG.md", "smart-contracts/contracts-common/concordium-contracts-common/src/hashes.rs", "smart-contracts/wasm-chain-integration/CHANGELOG.md", "smart-contracts/wasm-chain-integration/src/utils.rs"]

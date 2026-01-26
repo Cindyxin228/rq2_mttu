@@ -1,0 +1,1 @@
+["sea-orm-migration/src/connection.rs", "src/database/connection.rs", "src/database/db_connection.rs", "src/database/transaction.rs", "src/driver/sqlx_mysql.rs", "src/driver/sqlx_postgres.rs", "src/driver/sqlx_sqlite.rs"]

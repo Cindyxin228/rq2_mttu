@@ -1,0 +1,1 @@
+["sdk-core-protos/protos/local/temporal/sdk/core/workflow_activation/workflow_activation.proto", "sdk-core-protos/src/lib.rs", "sdk/src/lib.rs", "sdk/src/workflow_context.rs", "sdk/src/workflow_future.rs", "tests/integ_tests/workflow_tests/child_workflows.rs"]

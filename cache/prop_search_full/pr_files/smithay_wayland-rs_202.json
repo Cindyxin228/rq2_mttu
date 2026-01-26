@@ -1,0 +1,1 @@
+[".travis.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "tests/globals.rs", "tests/helpers/mod.rs", "tests/server_global_filter.rs", "wayland-server/src/display.rs", "wayland-server/src/native_lib/display.rs", "wayland-server/src/native_lib/globals.rs", "wayland-server/src/rust_imp/display.rs", "wayland-server/src/rust_imp/globals.rs", "wayland-sys/src/server.rs"]

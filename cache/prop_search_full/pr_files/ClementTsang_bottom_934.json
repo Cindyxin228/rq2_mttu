@@ -1,0 +1,1 @@
+["src/app/data_harvester/temperature/linux.rs", "src/app/process_killer.rs", "src/canvas.rs", "src/canvas/widgets/battery_display.rs", "src/canvas/widgets/cpu_basic.rs", "src/canvas/widgets/process_table.rs", "src/components/data_table/draw.rs", "src/components/time_graph.rs", "src/components/tui_widget/time_chart.rs", "src/options.rs"]

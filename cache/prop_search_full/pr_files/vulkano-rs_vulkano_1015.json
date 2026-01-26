@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/src/bin/msaa-renderpass.rs", "vulkano/src/device/extensions.rs", "vulkano/src/device/mod.rs", "vulkano/src/extensions.rs", "vulkano/src/features.rs", "vulkano/src/instance/extensions.rs", "vulkano/src/instance/instance.rs", "vulkano/src/instance/mod.rs", "vulkano/src/lib.rs", "vulkano/src/swapchain/mod.rs"]

@@ -1,0 +1,1 @@
+["justfile", "src/rpm_info.rs", "src/third_party_licenses.rs", "src/vcpkg_spdx.rs"]

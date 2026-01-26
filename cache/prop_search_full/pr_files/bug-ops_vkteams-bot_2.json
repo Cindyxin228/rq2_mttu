@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/prometheus_webhook.rs", "examples/templates/alert.tmpl", "examples/templates/full.html", "src/api/default.rs", "src/api/messages/send_text.rs", "src/api/types.rs", "src/api/utils/keyboard.rs", "src/api/utils/mod.rs", "src/api/utils/parser.rs", "src/api/utils/templates.rs", "src/bot/mod.rs", "src/bot/net.rs", "src/prelude.rs"]

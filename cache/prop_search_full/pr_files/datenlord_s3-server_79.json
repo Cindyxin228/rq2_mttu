@@ -1,0 +1,1 @@
+["src/dto.rs", "src/ops/list_buckets.rs", "src/storages/fs.rs", "tests/basic.rs"]

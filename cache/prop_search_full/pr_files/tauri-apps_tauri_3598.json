@@ -1,0 +1,1 @@
+[".changes/window-builder.md", "core/tauri-runtime/Cargo.toml", "core/tauri-runtime/src/lib.rs", "core/tauri-runtime/src/webview.rs", "core/tauri/Cargo.toml", "core/tauri/src/app.rs", "core/tauri/src/endpoints/window.rs", "core/tauri/src/window.rs", "core/tauri/tests/restart/Cargo.lock", "examples/api/src-tauri/Cargo.lock", "examples/api/src-tauri/src/main.rs"]

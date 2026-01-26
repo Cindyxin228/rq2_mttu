@@ -1,0 +1,1 @@
+["aws/sdk/integration-tests/s3/tests/presigning.rs", "tools/ci-cdk/canary-lambda/src/s3_canary.rs", "tools/ci-cdk/canary-runner/src/build_bundle.rs"]

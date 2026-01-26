@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/bench_distilroberta.rs", "benches/bench_sbert.rs", "src/layers/dense.rs", "src/layers/pooling.rs", "src/models/distilroberta.rs", "src/models/sbert.rs", "src/tokenizers/hf_tokenizers.rs", "src/tokenizers/rust_tokenizers.rs", "src/tokenizers/rust_tokenizers_sentencepiece.rs", "tests/test_sbert.rs", "utils/prepare_models.py"]

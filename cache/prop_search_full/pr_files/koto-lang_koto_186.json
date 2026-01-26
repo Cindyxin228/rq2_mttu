@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/bytecode/src/chunk.rs", "src/bytecode/src/compiler.rs", "src/cli/src/main.rs", "src/koto/tests/docs_examples.rs", "src/lexer/src/lexer.rs", "src/parser/src/parser.rs", "src/runtime/src/core/io.rs", "src/runtime/src/core/string/format.rs", "src/runtime/src/value_iterator.rs", "src/runtime/src/vm.rs"]

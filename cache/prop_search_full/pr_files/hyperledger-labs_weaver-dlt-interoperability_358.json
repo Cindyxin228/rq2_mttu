@@ -1,0 +1,1 @@
+[".github/workflows/test_asset-transfer.yml", ".github/workflows/test_data-sharing.yml", ".github/workflows/test_docker-build.yml", "core/network/fabric-interop-cc/contracts/interop/go.sum", "samples/fabric/simpleassettransfer/go.mod", "samples/fabric/simpleassettransfer/go.sum", "samples/fabric/simplestatewithacl/go.sum"]

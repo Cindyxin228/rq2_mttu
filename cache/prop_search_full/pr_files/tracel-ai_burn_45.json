@@ -1,0 +1,1 @@
+["burn-tensor/examples/autodiff_simple.rs", "burn-tensor/src/tensor/activation/base.rs", "burn-tensor/tests/tensor/activation/gelu.rs", "burn-tensor/tests/tensor/activation/mod.rs", "burn/src/nn/gelu.rs", "burn/src/nn/mod.rs"]

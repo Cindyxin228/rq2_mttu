@@ -1,0 +1,1 @@
+["integration_tests/Cargo.toml", "integration_tests/tests/opsworkscm.rs", "rusoto/Cargo.toml", "rusoto/services/opsworkscm/Cargo.toml", "rusoto/services/opsworkscm/README.md", "rusoto/services/opsworkscm/src/custom/mod.rs", "rusoto/services/opsworkscm/src/generated.rs", "rusoto/services/opsworkscm/src/lib.rs", "service_crategen/services.json"]

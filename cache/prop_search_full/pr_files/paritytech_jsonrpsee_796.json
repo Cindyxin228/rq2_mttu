@@ -1,0 +1,1 @@
+["CHANGELOG.md", "benches/Cargo.toml", "client/http-client/Cargo.toml", "client/transport/Cargo.toml", "client/wasm-client/Cargo.toml", "client/ws-client/Cargo.toml", "core/Cargo.toml", "examples/Cargo.toml", "http-server/Cargo.toml", "jsonrpsee/Cargo.toml", "proc-macros/Cargo.toml", "test-utils/Cargo.toml", "tests/Cargo.toml", "types/Cargo.toml", "ws-server/Cargo.toml"]

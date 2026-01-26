@@ -1,0 +1,1 @@
+["fxprof-processed-profile/src/marker_table.rs", "fxprof-processed-profile/src/markers.rs", "fxprof-processed-profile/src/profile.rs", "fxprof-processed-profile/src/thread.rs", "samply/src/shared/marker_file.rs", "samply/src/shared/process_sample_data.rs", "samply/src/shared/recording_props.rs", "samply/src/shared/unresolved_samples.rs", "samply/src/windows/etw_gecko.rs"]

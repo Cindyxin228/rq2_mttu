@@ -1,0 +1,1 @@
+["src/librustc_errors/emitter.rs", "src/librustc_interface/interface.rs", "src/librustdoc/html/highlight.rs", "src/libsyntax/sess.rs", "src/test/rustdoc-ui/invalid-syntax.stderr"]

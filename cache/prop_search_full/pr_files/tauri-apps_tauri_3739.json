@@ -1,0 +1,1 @@
+[".changes/custom-updater-target.md", ".changes/refactor-updater-target.md", "core/tauri-utils/src/config.rs", "core/tauri/src/app.rs", "core/tauri/src/updater/core.rs", "core/tauri/src/updater/mod.rs", "core/tauri/tests/restart/Cargo.lock", "tooling/cli/schema.json"]

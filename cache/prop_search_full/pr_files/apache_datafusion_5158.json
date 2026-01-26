@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/pg_compat/pg_compat_type_coercion.slt", "datafusion/expr/src/type_coercion/binary.rs"]

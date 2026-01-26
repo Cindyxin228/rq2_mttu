@@ -1,0 +1,1 @@
+["core/store/src/flat/inlining_migration.rs", "core/store/src/flat/manager.rs", "core/store/src/flat/mod.rs", "core/store/src/flat/storage.rs", "core/store/src/flat/store_helper.rs", "core/store/src/metrics.rs", "tools/flat-storage/src/commands.rs"]

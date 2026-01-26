@@ -1,0 +1,1 @@
+["Cargo.toml", "src/platform_impl/windows/clipboard.rs", "src/platform_impl/windows/drop_handler.rs", "src/platform_impl/windows/event_loop.rs", "src/platform_impl/windows/util.rs", "src/platform_impl/windows/window.rs", "src/platform_impl/windows/window_state.rs"]

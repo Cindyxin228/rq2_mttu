@@ -1,0 +1,1 @@
+["kube-client/src/client/auth/mod.rs", "kube-client/src/config/file_config.rs", "kube-client/src/error.rs", "kube-core/src/response.rs", "kube-runtime/src/wait.rs"]

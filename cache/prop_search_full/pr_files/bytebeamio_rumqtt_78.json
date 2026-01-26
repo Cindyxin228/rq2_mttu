@@ -1,0 +1,1 @@
+["rumq-client/examples/gcloud.rs", "rumq-client/examples/pubsub.rs", "rumq-client/examples/reconnection.rs", "rumq-client/examples/smoke.rs", "rumq-client/examples/tls.rs", "rumq-client/src/eventloop.rs"]

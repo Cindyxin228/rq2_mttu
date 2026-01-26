@@ -1,0 +1,1 @@
+[".github/workflows/windows_stable.yml", "src/pty/base.rs", "src/pty/conpty/pty_impl.rs", "tests/conpty.rs", "tests/winpty.rs"]

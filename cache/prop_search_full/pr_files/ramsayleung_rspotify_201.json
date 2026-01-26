@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/pagination_async.rs", "examples/pagination_manual.rs", "examples/pagination_sync.rs", "src/client.rs", "src/pagination/iter.rs", "src/pagination/stream.rs", "tests/test_with_credential.rs", "tests/test_with_oauth.rs"]

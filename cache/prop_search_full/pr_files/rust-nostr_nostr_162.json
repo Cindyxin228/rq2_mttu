@@ -1,0 +1,1 @@
+[".githooks/pre-push", ".github/workflows/ci.yml", "crates/nostr/Cargo.toml", "crates/nostr/README.md", "crates/nostr/examples/embedded/Cargo.toml", "crates/nostr/src/lib.rs"]

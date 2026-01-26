@@ -1,0 +1,1 @@
+["Cargo.toml", "bindings/ergo-lib-c-core/Cargo.toml", "bindings/ergo-lib-wasm/Cargo.toml", "bindings/ergo-lib-wasm/src/contract.rs", "bindings/ergo-lib-wasm/tests/test_contract.js", "ergo-lib/Cargo.toml", "ergotree-ir/src/chain/ergo_box/register.rs"]

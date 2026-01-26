@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "README.md", "src/cli.rs", "src/generate.rs", "src/languages/c.rs", "src/languages/cpp.rs", "src/languages/go.rs", "src/languages/node.rs", "src/languages/python.rs", "src/languages/rust.rs", "src/licenses.rs", "src/main.rs", "src/reporter.rs", "src/table.rs", "src/utils.rs"]

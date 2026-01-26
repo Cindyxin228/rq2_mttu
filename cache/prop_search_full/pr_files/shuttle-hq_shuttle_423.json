@@ -1,0 +1,1 @@
+["cargo-shuttle/src/client.rs", "deployer/src/deployment/deploy_layer.rs", "deployer/src/deployment/queue.rs", "deployer/src/error.rs", "deployer/src/handlers/error.rs", "deployer/src/handlers/mod.rs", "gateway/src/project.rs"]

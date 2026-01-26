@@ -1,0 +1,1 @@
+["cli/tests/integration/worker_tests.rs", "cli/tests/testdata/workers/terminate_tla_crash.js", "cli/tests/testdata/workers/terminate_tla_crash.js.out", "runtime/web_worker.rs"]

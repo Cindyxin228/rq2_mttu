@@ -1,0 +1,1 @@
+[".github/workflows/audit.yml", ".github/workflows/clippy.yml", ".github/workflows/release-cli.yml", ".github/workflows/release-tag.yml", ".github/workflows/tests.yml", "crates/cli/src/args.rs", "crates/cli/src/filterer/common.rs", "crates/filterer/globset/src/lib.rs", "crates/ignore-files/src/discover.rs"]

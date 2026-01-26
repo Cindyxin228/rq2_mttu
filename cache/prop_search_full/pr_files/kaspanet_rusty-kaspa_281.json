@@ -1,0 +1,1 @@
+["consensus/wasm/src/keypair.rs", "wallet/core/src/message.rs", "wallet/core/src/wasm/message.rs", "wallet/core/src/wasm/mod.rs", "wasm/nodejs/message_signing.js"]

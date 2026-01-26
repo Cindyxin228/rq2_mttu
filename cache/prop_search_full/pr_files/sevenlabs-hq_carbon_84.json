@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "decoders/system-program-decoder/Cargo.toml", "decoders/system-program-decoder/src/instructions/allocate.rs", "decoders/system-program-decoder/src/instructions/allocate_with_seed.rs", "decoders/system-program-decoder/src/instructions/assign_with_seed.rs", "decoders/system-program-decoder/src/instructions/transfer_with_seed.rs"]

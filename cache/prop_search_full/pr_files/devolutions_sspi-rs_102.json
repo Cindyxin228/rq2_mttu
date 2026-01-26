@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/fuzz_ts_request.rs", "src/ber/mod.rs"]

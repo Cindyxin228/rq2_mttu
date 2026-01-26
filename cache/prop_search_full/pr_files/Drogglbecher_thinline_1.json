@@ -1,0 +1,1 @@
+["Cargo.toml", "src/analysis.rs", "src/config_parser.rs", "src/error.rs", "src/language_type.rs", "src/lib.rs", "src/main.rs", "tests/error.rs"]

@@ -1,0 +1,1 @@
+["cli/tests/integration/npm_tests.rs", "cli/tests/testdata/npm/cjs_yargs/main.js", "cli/tests/testdata/npm/cjs_yargs/main.out", "ext/node/02_require.js"]

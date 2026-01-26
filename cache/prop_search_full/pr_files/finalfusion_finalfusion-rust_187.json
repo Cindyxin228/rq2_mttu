@@ -1,0 +1,1 @@
+["src/chunks/vocab/mod.rs", "src/chunks/vocab/subword.rs", "src/compat/fasttext/indexer.rs", "src/compat/fasttext/io.rs", "src/compat/floret/indexer.rs", "src/compat/floret/io.rs", "src/subword.rs"]

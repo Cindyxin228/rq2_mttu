@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/bin/src/logging.rs", "crates/binstalk-downloader/src/remote.rs", "crates/binstalk-downloader/src/remote/delay_request.rs", "crates/binstalk/src/fetchers/gh_crate_meta.rs", "crates/binstalk/src/fetchers/quickinstall.rs"]

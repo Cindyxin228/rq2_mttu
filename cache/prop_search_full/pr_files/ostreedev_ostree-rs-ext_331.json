@@ -1,0 +1,1 @@
+["ci/priv-integration.sh", "lib/src/container/encapsulate.rs", "lib/src/container/mod.rs", "lib/src/container/store.rs", "lib/src/container/update_detachedmeta.rs", "lib/src/fixture.rs", "lib/src/integrationtest.rs", "lib/src/tar/export.rs", "lib/tests/it/main.rs"]

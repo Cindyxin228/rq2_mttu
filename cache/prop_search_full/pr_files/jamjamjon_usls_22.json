@@ -1,0 +1,1 @@
+["examples/yolov8/main.rs", "rust-toolchain.toml", "src/core/annotator.rs", "src/core/logits_sampler.rs", "src/core/preprocess.cu", "src/models/depth_anything.rs"]

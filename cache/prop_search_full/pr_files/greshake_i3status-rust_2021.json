@@ -1,0 +1,1 @@
+["src/blocks/bluetooth.rs", "src/blocks/custom.rs", "src/blocks/custom_dbus.rs", "src/blocks/focused_window.rs", "src/blocks/kdeconnect.rs", "src/blocks/music.rs", "src/blocks/pomodoro.rs", "src/blocks/privacy.rs", "src/blocks/sound.rs", "src/blocks/tea_timer.rs", "src/formatting.rs"]

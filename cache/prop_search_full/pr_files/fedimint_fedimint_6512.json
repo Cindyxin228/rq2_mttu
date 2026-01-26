@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fedimint-core/src/envs.rs", "fedimint-core/src/util/mod.rs", "modules/fedimint-wallet-common/src/lib.rs", "modules/fedimint-wallet-server/Cargo.toml", "modules/fedimint-wallet-server/src/feerate_source.rs", "modules/fedimint-wallet-server/src/lib.rs"]

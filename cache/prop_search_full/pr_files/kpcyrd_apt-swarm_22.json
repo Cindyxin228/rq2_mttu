@@ -1,0 +1,1 @@
+[".github/workflows/docker-image.yml", ".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "Dockerfile", "src/args.rs", "src/p2p/irc.rs", "src/p2p/peering.rs", "src/plumbing/mod.rs"]

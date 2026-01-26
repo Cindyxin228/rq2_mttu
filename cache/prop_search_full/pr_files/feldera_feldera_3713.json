@@ -1,0 +1,1 @@
+[".github/workflows/publish-python.yml", "CONTRIBUTING.md", "Cargo.lock", "README.md", "crates/dbsp/Cargo.toml", "crates/storage/Cargo.toml", "deploy/docker-compose-extra.yml", "deploy/docker-compose.yml", "docs/docker.md", "scripts/bump-versions.sh"]

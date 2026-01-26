@@ -1,0 +1,1 @@
+[".github/workflows/build-workflow.yaml", ".gitignore", "Cargo.toml", "astarte-device-sdk-derive/Cargo.toml", "astarte-device-sdk-derive/src/lib.rs", "examples/object.rs", "src/e2etest/e2etest.rs", "src/interfaces.rs", "src/lib.rs", "src/types.rs"]

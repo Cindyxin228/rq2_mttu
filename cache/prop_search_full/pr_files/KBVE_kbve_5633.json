@@ -1,0 +1,1 @@
+["apps/kube/kilobase/manifests/postgres-cluster.yaml", "apps/kube/kilobase/manifests/sealed-aws-s3-bucket.yaml", "apps/kube/kilobase/manifests/sealed-postgres-db-login.yaml"]

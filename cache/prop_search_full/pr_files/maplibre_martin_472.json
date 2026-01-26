@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/ci.yml", ".github/workflows/docker.yml", ".github/workflows/grcov.yml", "Dockerfile", "justfile", "tests/test.sh"]

@@ -1,0 +1,1 @@
+["lib/runtime-c-api/src/import/mod.rs", "lib/runtime-core/src/import.rs", "lib/runtime-core/src/instance.rs", "lib/wasi/src/syscalls/mod.rs", "src/commands/cache.rs", "tests/test-generator/src/lib.rs", "tests/wast/src/wast.rs"]

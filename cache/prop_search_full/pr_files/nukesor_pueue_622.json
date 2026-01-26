@@ -1,0 +1,1 @@
+["pueue/src/client/commands/edit.rs", "pueue/src/client/commands/restart.rs", "pueue/src/daemon/network/message_handler/edit.rs", "pueue/tests/daemon/integration/edit.rs", "pueue_lib/src/network/message/mod.rs"]

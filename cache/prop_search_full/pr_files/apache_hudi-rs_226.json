@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "demo/.env", "demo/app/.gitignore", "demo/app/python/src/__init__.py", "demo/app/python/src/main.py", "demo/app/rust/Cargo.toml", "demo/app/rust/src/main.rs", "demo/compose.yaml", "demo/infra/mc/Dockerfile", "demo/infra/mc/prepare_data.sh", "demo/infra/runner/Dockerfile", "demo/run_app.sh"]

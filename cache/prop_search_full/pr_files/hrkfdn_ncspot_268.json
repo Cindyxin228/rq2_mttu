@@ -1,0 +1,1 @@
+["src/album.rs", "src/artist.rs", "src/commands.rs", "src/episode.rs", "src/playable.rs", "src/playlist.rs", "src/show.rs", "src/track.rs", "src/traits.rs", "src/ui/listview.rs"]

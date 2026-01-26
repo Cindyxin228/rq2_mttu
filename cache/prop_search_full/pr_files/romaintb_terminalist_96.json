@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "src/constants.rs", "src/logger.rs", "src/main.rs", "src/sync.rs", "src/ui/app_component.rs", "src/ui/components/dialog_component.rs", "src/ui/components/dialogs/system_dialogs.rs", "src/ui/core/context.rs", "src/ui/mod.rs", "tests/logger.rs", "tests/sync.rs", "tests/ui_renderer_test.rs"]

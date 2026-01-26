@@ -1,0 +1,1 @@
+["deny.toml", "sdk/Cargo.toml", "sdk/src/assertions/box_hash.rs", "sdk/src/asset_handlers/jpeg_io.rs"]

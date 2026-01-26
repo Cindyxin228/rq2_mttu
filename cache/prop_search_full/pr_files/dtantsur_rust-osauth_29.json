@@ -1,0 +1,1 @@
+["examples/list-baremetal.rs", "examples/list-servers-paginated.rs", "examples/list-servers.rs", "src/adapter.rs", "src/lib.rs", "src/loading/config.rs", "src/loading/env.rs", "src/loading/mod.rs", "src/request.rs", "src/session.rs", "src/sync.rs"]

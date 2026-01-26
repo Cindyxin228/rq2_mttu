@@ -1,0 +1,1 @@
+["examples/put_page_blob00.rs", "src/azure/storage/blob/requests/clear_page_builder.json", "src/azure/storage/blob/requests/clear_page_builder.rs", "src/azure/storage/blob/requests/mod.rs", "src/azure/storage/blob/requests/update_page_builder.rs", "src/azure/storage/blob/responses/clear_page_response.rs", "src/azure/storage/blob/responses/mod.rs", "src/azure/storage/client.rs"]

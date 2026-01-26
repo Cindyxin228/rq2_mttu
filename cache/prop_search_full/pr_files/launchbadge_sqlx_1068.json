@@ -1,0 +1,1 @@
+["sqlx-core/src/sqlite/options/auto_vacuum.rs", "sqlx-core/src/sqlite/options/connect.rs", "sqlx-core/src/sqlite/options/locking_mode.rs", "sqlx-core/src/sqlite/options/mod.rs"]

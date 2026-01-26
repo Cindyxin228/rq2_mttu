@@ -1,0 +1,1 @@
+["sqlx-core/src/error.rs", "sqlx-core/src/executor.rs", "sqlx-core/src/query.rs", "sqlx-core/src/query_as.rs", "sqlx-core/src/query_scalar.rs", "sqlx-core/src/row.rs", "sqlx-core/src/value.rs", "src/macros.rs"]

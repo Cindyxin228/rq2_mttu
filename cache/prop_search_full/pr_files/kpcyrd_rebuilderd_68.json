@@ -1,0 +1,1 @@
+[".github/workflows/binaries.yml", ".github/workflows/rust.yml", "Cargo.lock", "Dockerfile", "README.md", "tools/Cargo.toml", "worker/rebuilder-debian.sh"]

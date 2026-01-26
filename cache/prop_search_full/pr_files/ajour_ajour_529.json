@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "crates/core/src/addon.rs", "crates/core/src/cache.rs", "crates/core/src/catalog.rs", "crates/core/src/config/wow.rs", "crates/core/src/error.rs", "crates/core/src/parse.rs", "crates/core/src/repository/backend/mod.rs", "crates/core/src/repository/backend/townlongyak.rs", "crates/core/src/repository/mod.rs", "src/gui/mod.rs", "src/gui/update.rs"]

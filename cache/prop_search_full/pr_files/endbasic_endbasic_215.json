@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/lang/bitwise.bas", "cli/tests/lang/bitwise.out", "cli/tests/repl/help.out", "core/src/ast.rs", "core/src/eval.rs", "core/src/lexer.rs", "core/src/parser.rs", "core/src/value.rs", "std/src/lang.md"]

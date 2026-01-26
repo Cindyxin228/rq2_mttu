@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/trig.rs", "lib/oxrdf/src/dataset.rs"]

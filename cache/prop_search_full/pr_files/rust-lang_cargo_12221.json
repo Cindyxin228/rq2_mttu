@@ -1,0 +1,1 @@
+["src/cargo/core/features.rs", "src/cargo/ops/cargo_test.rs", "src/doc/man/cargo-test.md", "src/doc/man/generated_txt/cargo-test.txt", "src/doc/src/commands/cargo-test.md", "src/doc/src/reference/unstable.md", "src/etc/man/cargo-test.1", "tests/testsuite/build_script.rs", "tests/testsuite/doc.rs"]

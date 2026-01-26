@@ -1,0 +1,1 @@
+["Cargo.toml", "src/version.rs", "src/version/lexer.rs", "src/version/parser.rs", "src/version/requirement.rs", "src/version/tests.rs", "versions"]

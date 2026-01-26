@@ -1,0 +1,1 @@
+["scylla/tests/integration/execution_profiles.rs", "scylla/tests/integration/hygiene.rs", "scylla/tests/integration/lwt_optimisation.rs", "scylla/tests/integration/main.rs", "scylla/tests/integration/retries.rs", "scylla/tests/integration/utils.rs"]

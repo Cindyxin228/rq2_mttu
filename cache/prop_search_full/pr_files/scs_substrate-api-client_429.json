@@ -1,0 +1,1 @@
+["src/api/rpc_api/author.rs", "src/api/rpc_api/events.rs", "src/api/rpc_api/mod.rs", "src/api/rpc_api/subscribe_events.rs", "testing/examples/events_tests.rs"]

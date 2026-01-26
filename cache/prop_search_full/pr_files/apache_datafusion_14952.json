@@ -1,0 +1,1 @@
+[".github/workflows/docs.yaml", ".github/workflows/docs_pr.yaml", "datafusion/common/src/config.rs", "datafusion/sqllogictest/test_files/information_schema.slt", "docs/build.sh", "docs/source/contributor-guide/howtos.md", "docs/source/library-user-guide/query-optimizer.md", "docs/source/user-guide/configs.md"]

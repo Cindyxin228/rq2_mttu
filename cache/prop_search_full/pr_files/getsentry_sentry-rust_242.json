@@ -1,0 +1,1 @@
+["sentry-actix/src/lib.rs", "sentry-anyhow/src/lib.rs", "sentry-backtrace/src/lib.rs", "sentry-contexts/src/lib.rs", "sentry-core/src/lib.rs", "sentry-debug-images/src/lib.rs", "sentry-error-chain/src/lib.rs", "sentry-failure/src/lib.rs", "sentry-log/src/lib.rs", "sentry-panic/src/lib.rs", "sentry-slog/src/lib.rs", "sentry-types/src/lib.rs", "sentry/src/lib.rs"]

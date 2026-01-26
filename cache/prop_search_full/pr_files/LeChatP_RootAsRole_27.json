@@ -1,0 +1,1 @@
+["src/params.c", "src/params.h", "src/sr.c", "src/xml_manager.c", "src/xml_manager.h", "tests/resources/test_xml_manager_case1.xml", "tests/unit/test_xml_manager.c"]

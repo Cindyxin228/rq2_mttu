@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/starknet-devnet-core/Cargo.toml", "crates/starknet-devnet-core/src/starknet/defaulter.rs", "crates/starknet-devnet/src/main.rs", "tests/integration/test_fork.rs"]

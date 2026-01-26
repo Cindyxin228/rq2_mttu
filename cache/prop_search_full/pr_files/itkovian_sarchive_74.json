@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.toml", "src/archive/elastic.rs", "src/archive/file.rs", "src/archive/kafka.rs", "src/archive/mod.rs", "src/main.rs", "src/scheduler/slurm.rs", "src/utils.rs"]

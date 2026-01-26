@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/api/Cargo.toml", "lib/compiler/Cargo.toml", "lib/compiler/src/engine/unwind/windows_x64.rs", "lib/vm/Cargo.toml", "lib/vm/src/mmap.rs", "lib/vm/src/trap/traphandlers.rs", "lib/wasix/Cargo.toml", "lib/wasix/src/syscalls/windows.rs"]

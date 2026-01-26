@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/kanidmd-docker_image.yml", ".github/workflows/radius-docker_image.yml", "Cargo.lock", "Makefile", "kanidmd/Cargo.toml", "kanidmd/Dockerfile"]

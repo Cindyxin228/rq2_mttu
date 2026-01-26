@@ -1,0 +1,1 @@
+[".github/workflows/check.yml", "Dockerfile", "book/src/cli/flags-subcommands.md", "ci-tests/tests/__main__.py", "ci-tests/tests/testers/cleanup.py", "ci-tests/tests/testers/hoard_tester.py", "src/checkers/history/operation.rs", "src/command/mod.rs", "src/config/mod.rs"]

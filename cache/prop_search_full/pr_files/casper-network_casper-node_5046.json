@@ -1,0 +1,1 @@
+["Cargo.lock", "binary_port/Cargo.toml", "binary_port/src/minimal_block_info.rs", "binary_port/src/speculative_execution_result.rs", "execution_engine/CHANGELOG.md", "smart_contracts/sdk/Cargo.toml", "types/src/stored_value.rs", "utils/validation/src/generators.rs", "utils/validation/tests/fixtures/ABI/stored_value.json"]

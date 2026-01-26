@@ -1,0 +1,1 @@
+["examples/custom_handler/Cargo.toml", "examples/custom_handler/src/main.rs", "examples/custom_response/Cargo.toml", "examples/custom_response/src/main.rs", "silent/src/handler/handler_trait.rs", "silent/src/handler/handler_wrapper.rs", "silent/src/handler/handler_wrapper_response.rs", "silent/src/handler/mod.rs", "silent/src/lib.rs", "silent/src/route/handler_append.rs"]

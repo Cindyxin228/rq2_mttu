@@ -1,0 +1,1 @@
+["src/cli.rs", "src/commands.rs", "src/commands/pivot.rs", "src/commands/vtable.rs", "src/format.rs", "src/format/vtable.rs"]

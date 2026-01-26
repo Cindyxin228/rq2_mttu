@@ -1,0 +1,1 @@
+["docs/tasks/task-configuration.md", "e2e/tasks/test_task_redactions", "src/cli/run.rs", "src/cmd.rs", "src/config/config_file/mise_toml.rs", "src/config/config_file/mod.rs", "src/config/mod.rs", "src/main.rs", "src/redactions.rs", "src/wildcard.rs"]

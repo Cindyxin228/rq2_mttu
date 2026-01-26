@@ -1,0 +1,1 @@
+["src/cmd.rs", "src/command_processor.rs", "src/completer.rs", "src/env.rs", "src/kobj.rs", "src/kube.rs", "src/output.rs"]

@@ -1,0 +1,1 @@
+["datafusion/expr/src/logical_plan/builder.rs", "datafusion/expr/src/utils.rs", "datafusion/optimizer/src/eliminate_cross_join.rs", "datafusion/optimizer/src/extract_equijoin_predicate.rs"]

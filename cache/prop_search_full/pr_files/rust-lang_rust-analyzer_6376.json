@@ -1,0 +1,1 @@
+["crates/hir/src/code_model.rs", "crates/hir_ty/src/method_resolution.rs", "crates/ide/src/syntax_highlighting/test_data/highlighting.html", "crates/ide/src/syntax_highlighting/tests.rs"]

@@ -1,0 +1,1 @@
+["build.rs", "src/asm/x86/mod.rs", "src/asm/x86/sad_plane.rs", "src/lib.rs", "src/sad_plane.rs", "src/scenechange/fast.rs", "src/x86/sad_plane.asm"]

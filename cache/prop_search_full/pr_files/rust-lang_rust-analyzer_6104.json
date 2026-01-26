@@ -1,0 +1,1 @@
+["crates/assists/src/handlers/add_missing_impl_members.rs", "crates/assists/src/handlers/extract_struct_from_enum_variant.rs", "crates/hir/src/code_model.rs", "crates/ide/src/link_rewrite.rs", "crates/ssr/src/resolving.rs", "crates/syntax/src/ast/edit.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/src/http/example-http-client.rs", "volo-http/Cargo.toml", "volo-http/src/client/mod.rs", "volo-http/src/client/request_builder.rs", "volo-http/src/client/utils.rs", "volo-http/src/error/client.rs"]

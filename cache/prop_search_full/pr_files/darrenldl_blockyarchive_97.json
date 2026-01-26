@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/cli_decode.rs", "src/cli_encode.rs", "src/cli_repair.rs", "src/cli_rescue.rs", "src/cli_sort.rs", "src/decode_core.rs", "src/encode_core.rs", "src/misc_macros.rs", "src/sbx_block/mod.rs", "tests/compare_decode_file_and_stdout_corrupted_container.sh", "tests/compare_decode_file_and_stdout_nometa.sh", "tests/dev_tests.sh"]

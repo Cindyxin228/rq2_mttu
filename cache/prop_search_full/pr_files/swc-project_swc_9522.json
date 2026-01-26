@@ -1,0 +1,1 @@
+[".changeset/six-hounds-hammer.md", "crates/swc_ecma_minifier/src/compress/optimize/inline.rs", "crates/swc_ecma_minifier/src/compress/optimize/ops.rs", "crates/swc_ecma_minifier/tests/fixture/issues/9453/input.js", "crates/swc_ecma_minifier/tests/fixture/issues/9453/output.js"]

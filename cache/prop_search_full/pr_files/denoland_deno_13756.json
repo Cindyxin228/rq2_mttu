@@ -1,0 +1,1 @@
+["cli/main.rs", "cli/standalone.rs", "cli/tests/integration/compile_tests.rs", "cli/tests/testdata/standalone_import_map.json", "cli/tests/testdata/standalone_import_map.ts", "cli/tools/standalone.rs"]

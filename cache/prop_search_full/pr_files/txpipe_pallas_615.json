@@ -1,0 +1,1 @@
+["examples/block-decode/Cargo.toml", "examples/block-download/Cargo.toml", "examples/n2c-miniprotocols/Cargo.toml", "examples/n2n-miniprotocols/Cargo.toml", "pallas-configs/Cargo.toml", "pallas-crypto/Cargo.toml", "pallas-math/Cargo.toml", "pallas-primitives/Cargo.toml", "pallas-validate/Cargo.toml"]

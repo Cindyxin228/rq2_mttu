@@ -1,0 +1,1 @@
+["rdkafka-sys/src/types.rs", "src/admin.rs", "src/util.rs", "tests/test_admin.rs"]

@@ -1,0 +1,1 @@
+["opendal_test/src/services/azblob.rs", "opendal_test/src/services/mod.rs", "src/services/azblob/backend.rs", "src/services/azblob/mod.rs", "src/services/azblob/object_stream.rs", "tests/behavior/azblob.rs", "tests/behavior/main.rs"]

@@ -1,0 +1,1 @@
+["rusoto/core/Cargo.toml", "rusoto/core/src/lib.rs", "rusoto/services/dynamodb/examples/list_tables.rs", "rusoto/services/dynamodb/src/lib.rs", "service_crategen/src/commands/generate/mod.rs"]

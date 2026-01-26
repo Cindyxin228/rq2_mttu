@@ -1,0 +1,1 @@
+[".travis.yml", "clap_derive/tests/flatten.rs", "src/build/app/mod.rs", "src/build/app/settings.rs", "src/build/arg/mod.rs", "src/parse/parser.rs", "tests/arg_conflicts.rs", "tests/conflicts.rs", "tests/fixtures/app.yml", "tests/groups.rs", "tests/help.rs", "tests/macros.rs", "tests/multiple_values.rs", "tests/positionals.rs", "tests/require.rs", "tests/unique_args.rs"]

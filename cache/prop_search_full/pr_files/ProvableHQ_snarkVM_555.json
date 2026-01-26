@@ -1,0 +1,1 @@
+["dpc/src/block/header.rs", "dpc/src/errors/posw.rs", "dpc/src/network/testnet1.rs", "dpc/src/network/testnet2.rs", "dpc/src/posw/posw.rs", "dpc/src/posw/proof.rs", "dpc/src/traits/network.rs", "dpc/src/traits/posw.rs", "dpc/tests/mod.rs"]

@@ -1,0 +1,1 @@
+["scylla-cql/src/deserialize/row.rs", "scylla/src/client/pager.rs", "scylla/tests/integration/session/pager.rs"]

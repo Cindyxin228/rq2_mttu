@@ -1,0 +1,1 @@
+[".github/workflows/release.yaml", "Cargo.lock", "cli/Cargo.toml", "cli/src/cli/commands.rs", "cli/src/cli/completion.rs", "cli/src/cli/mod.rs", "cli/src/main.rs", "cli/src/record/config.rs", "lib/Cargo.toml"]

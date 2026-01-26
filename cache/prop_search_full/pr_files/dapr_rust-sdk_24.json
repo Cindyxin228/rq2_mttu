@@ -1,0 +1,1 @@
+["dapr/proto/common/v1/common.proto", "dapr/proto/runtime/v1/appcallback.proto", "dapr/proto/runtime/v1/dapr.proto", "examples/pubsub/publisher.rs", "examples/pubsub/subscriber.rs", "src/appcallback.rs", "src/client.rs"]

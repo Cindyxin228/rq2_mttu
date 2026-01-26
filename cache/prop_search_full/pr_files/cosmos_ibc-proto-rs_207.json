@@ -1,0 +1,1 @@
+[".changelog/v0.43.0/breaking-changes/200-tendermint-rs-0.35.md", ".changelog/v0.43.0/breaking-changes/207-update-tonic.md", ".changelog/v0.43.0/summary.md", ".github/workflows/rust.yml", "CHANGELOG.md", "Cargo.toml", "src/prost/google.protobuf.rs", "src/prost/google.protobuf.serde.rs", "src/prost/proto_descriptor.bin"]

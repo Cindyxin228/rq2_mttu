@@ -1,0 +1,1 @@
+["diesel/src/pg/query_builder/distinct_on.rs", "diesel_compile_tests/Cargo.lock", "diesel_compile_tests/tests/fail/distinct_on_requires_matching_order_clause.stderr", "diesel_tests/tests/distinct.rs"]

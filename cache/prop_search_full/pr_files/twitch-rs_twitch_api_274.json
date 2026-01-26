@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/helix/client/client_ext.rs", "src/helix/endpoints/channels/mod.rs", "src/helix/endpoints/chat/mod.rs", "src/helix/endpoints/chat/send_chat_announcement.rs", "src/helix/endpoints/moderation/remove_channel_moderator.rs", "src/helix/endpoints/whispers/mod.rs", "src/helix/endpoints/whispers/send_whisper.rs", "src/helix/request/errors.rs"]

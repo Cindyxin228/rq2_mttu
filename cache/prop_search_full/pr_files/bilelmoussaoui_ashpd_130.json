@@ -1,0 +1,1 @@
+["src/window_identifier/gtk3.rs", "src/window_identifier/gtk4.rs", "src/window_identifier/wayland.rs"]

@@ -1,0 +1,1 @@
+["lightning-block-sync/src/init.rs", "lightning-block-sync/src/test_utils.rs", "lightning/src/chain/chainmonitor.rs", "lightning/src/chain/channelmonitor.rs", "lightning/src/chain/mod.rs", "lightning/src/ln/channelmanager.rs"]

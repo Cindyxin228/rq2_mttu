@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/src/fuzzer.rs", "libafl/src/bolts/cli.rs", "libafl_frida/src/asan/asan_rt.rs"]

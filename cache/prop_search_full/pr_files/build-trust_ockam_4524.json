@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/nodes/authority_node/authority.rs", "implementations/rust/ockam/ockam_api/src/nodes/authority_node/configuration.rs", "implementations/rust/ockam/ockam_command/src/authority/create.rs", "implementations/rust/ockam/ockam_command/src/node/create.rs", "implementations/rust/ockam/ockam_command/tests/bats/authority.bats"]

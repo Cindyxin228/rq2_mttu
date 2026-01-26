@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "examples/poi-crosschecker/src/attestations.rs", "examples/poi-crosschecker/src/graphql/mod.rs", "examples/poi-crosschecker/src/main.rs", "src/lib.rs", "src/slack_bot.rs"]

@@ -1,0 +1,1 @@
+["diesel_compile_tests/tests/fail/broken_queryable_by_name.rs", "diesel_compile_tests/tests/fail/broken_queryable_by_name.stderr", "diesel_derives/src/lib.rs", "diesel_derives/src/queryable_by_name.rs"]

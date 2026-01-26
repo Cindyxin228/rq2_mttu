@@ -1,0 +1,1 @@
+["ci/test.yml", "core/.coveragerc", "core/Makefile", "core/prof/prof.py", "core/tools/coverage-report", "docs/ci/jobs.md", "docs/tests/ui-tests.md", "tests/conftest.py", "tests/emulators.py"]

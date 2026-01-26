@@ -1,0 +1,1 @@
+["CHANGELOG.md", "integration_tests/tests/s3.rs", "rusoto/core/src/client.rs", "rusoto/credential/Cargo.toml", "rusoto/credential/src/lib.rs", "rusoto/credential/src/static_provider.rs"]

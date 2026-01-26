@@ -1,0 +1,1 @@
+["src/api/rest/google/cloud/speechtotext.rs", "src/api/rest/google/cloud/speechtotext/v1.rs", "src/api/rest/google/cloud/speechtotext/v1p1beta1.rs", "src/speechtotext.rs", "src/speechtotext/recognizer.rs", "src/speechtotext/recognizer_beta.rs"]

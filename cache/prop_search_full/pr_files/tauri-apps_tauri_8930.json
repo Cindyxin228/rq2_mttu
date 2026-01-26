@@ -1,0 +1,1 @@
+[".changes/fix-clear-residual-listeners.md", "core/tauri/src/event/listener.rs", "core/tauri/src/webview/mod.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "coverage_config_aarch64.json", "docs/TESTING.md", "src/cmdline/mod.rs", "src/configurator/aarch64/fdt.rs", "src/configurator/mod.rs", "src/configurator/x86_64/linux.rs", "src/configurator/x86_64/pvh.rs", "src/lib.rs", "src/loader/mod.rs"]

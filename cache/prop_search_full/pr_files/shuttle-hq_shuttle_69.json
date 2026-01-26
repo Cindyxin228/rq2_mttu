@@ -1,0 +1,1 @@
+["Dockerfile", "Dockerfile.dev", "docker/supervisord.conf", "docker/wait-for-pg-then"]

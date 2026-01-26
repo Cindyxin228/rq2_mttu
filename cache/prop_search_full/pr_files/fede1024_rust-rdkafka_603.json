@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rdkafka-sys/Cargo.toml", "rdkafka-sys/build.rs", "rdkafka-sys/changelog.md", "rdkafka-sys/librdkafka", "rdkafka-sys/src/bindings.rs", "rdkafka-sys/src/helpers.rs", "rdkafka-sys/src/lib.rs", "rdkafka-sys/src/types.rs", "rdkafka-sys/update-bindings.sh"]

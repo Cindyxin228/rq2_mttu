@@ -1,0 +1,1 @@
+["sqlx-cli/src/lib.rs", "sqlx-cli/src/migrate.rs", "sqlx-cli/src/opt.rs", "sqlx-macros/src/lib.rs", "sqlx-macros/src/migrate.rs", "sqlx-macros/src/query/data.rs", "sqlx-macros/src/query/input.rs", "sqlx-macros/src/query/mod.rs", "sqlx-macros/src/query/output.rs", "src/macros.rs", "tests/migrate/macro.rs", "tests/postgres/macros.rs"]

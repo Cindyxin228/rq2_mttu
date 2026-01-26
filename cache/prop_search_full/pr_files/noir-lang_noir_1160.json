@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/regression/Nargo.toml", "crates/nargo_cli/tests/test_data/regression/Prover.toml", "crates/nargo_cli/tests/test_data/regression/src/main.nr", "crates/noirc_evaluator/src/ssa/acir_gen/internal_var_cache.rs", "crates/noirc_evaluator/src/ssa/block.rs", "crates/noirc_evaluator/src/ssa/context.rs", "crates/noirc_evaluator/src/ssa/optimizations.rs"]

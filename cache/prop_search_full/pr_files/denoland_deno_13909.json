@@ -1,0 +1,1 @@
+["Cargo.lock", "core/Cargo.toml", "core/bindings.rs", "core/icudtl.dat", "core/runtime.rs", "core/serialize_deserialize_test.js", "serde_v8/Cargo.toml", "serde_v8/examples/basic.rs", "serde_v8/src/utils.rs"]

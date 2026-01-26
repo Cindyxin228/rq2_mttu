@@ -1,0 +1,1 @@
+["foundations-macros/src/span_fn.rs", "foundations/src/telemetry/log/internal.rs", "foundations/src/telemetry/mod.rs", "foundations/src/telemetry/telemetry_context.rs", "foundations/src/telemetry/tracing/mod.rs", "foundations/src/telemetry/tracing/output_jaeger_thrift_udp.rs", "foundations/src/telemetry/tracing/testing.rs"]

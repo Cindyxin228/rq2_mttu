@@ -1,0 +1,1 @@
+["deny.toml", "examples/Cargo.toml", "integration/Cargo.toml", "kube-client/Cargo.toml", "kube-runtime/Cargo.toml", "kube/Cargo.toml"]

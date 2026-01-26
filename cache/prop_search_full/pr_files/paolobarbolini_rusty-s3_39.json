@@ -1,0 +1,1 @@
+[".github/workflows/continuos-integration.yml", "Cargo.toml", "src/actions/mod.rs", "src/actions/multipart_upload/mod.rs", "src/bucket.rs", "src/credentials/mod.rs", "src/time_.rs"]

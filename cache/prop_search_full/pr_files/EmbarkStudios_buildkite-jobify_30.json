@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "deny.toml", "src/jobifier.rs", "src/k8s/config/mod.rs", "src/lib.rs", "src/main.rs", "src/monitor.rs"]

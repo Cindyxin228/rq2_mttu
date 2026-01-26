@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/draw.rs", "src/theme.rs", "src/widget/add_stock.rs", "src/widget/block.rs", "src/widget/chart/prices_candlestick.rs", "src/widget/chart/prices_line.rs", "src/widget/chart/volume_bar.rs", "src/widget/help.rs", "src/widget/options.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

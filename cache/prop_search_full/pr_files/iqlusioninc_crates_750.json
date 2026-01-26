@@ -1,0 +1,1 @@
+["bip32/src/extended_key.rs", "bip32/src/extended_key/private_key.rs", "bip32/src/extended_key/public_key.rs", "bip32/src/lib.rs", "hkd32/src/mnemonic/phrase.rs"]

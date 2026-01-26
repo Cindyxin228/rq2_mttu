@@ -1,0 +1,1 @@
+["fluent-bundle/benches/resolver.rs", "fluent-bundle/benches/resolver_iai.rs", "fluent-bundle/examples/functions.rs", "fluent-bundle/tests/resolver_fixtures.rs", "fluent-fallback/src/pin_cell/pin_mut.rs", "fluent-fallback/src/pin_cell/pin_ref.rs"]

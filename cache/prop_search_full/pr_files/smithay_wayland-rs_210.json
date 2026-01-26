@@ -1,0 +1,1 @@
+["tests/scanner_assets/c_interfaces.rs", "tests/scanner_assets/client_c_code.rs", "tests/scanner_assets/protocol.xml", "tests/scanner_assets/server_c_code.rs", "wayland-scanner/src/common_gen.rs"]

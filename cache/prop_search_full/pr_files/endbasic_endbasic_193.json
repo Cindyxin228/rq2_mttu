@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/lang/lexer-error.bas", "cli/tests/lang/lexer-error.err", "cli/tests/repl/help.out", "core/src/ast.rs", "core/src/eval.rs", "core/src/lexer.rs", "core/src/parser.rs", "core/src/value.rs", "std/src/help.rs"]

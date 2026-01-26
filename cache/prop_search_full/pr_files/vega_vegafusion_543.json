@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "vegafusion-common/Cargo.toml", "vegafusion-common/src/data/table.rs", "vegafusion-core/Cargo.toml", "vegafusion-core/src/data/dataset.rs", "vegafusion-core/src/task_graph/graph.rs", "vegafusion-python/Cargo.toml", "vegafusion-runtime/Cargo.toml"]

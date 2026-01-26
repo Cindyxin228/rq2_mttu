@@ -1,0 +1,1 @@
+["examples/multi_section_model.conf", "examples/multi_section_policy.csv", "src/cached_enforcer.rs", "src/config.rs", "src/core_api.rs", "src/enforcer.rs", "src/lib.rs", "src/macros.rs", "src/rbac/default_role_manager.rs"]

@@ -1,0 +1,1 @@
+["polkadot/node/network/availability-distribution/tests/availability-distribution-regression-bench.rs", "polkadot/node/network/availability-recovery/tests/availability-recovery-regression-bench.rs", "polkadot/node/subsystem-bench/src/lib/configuration.rs"]

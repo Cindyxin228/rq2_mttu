@@ -1,0 +1,1 @@
+["piet-cairo/src/lib.rs", "piet-coregraphics/src/lib.rs", "piet-direct2d/src/d2d.rs", "piet-svg/src/lib.rs", "piet-web/src/lib.rs", "piet/src/image.rs", "piet/src/null_renderer.rs"]

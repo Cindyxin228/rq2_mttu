@@ -1,0 +1,1 @@
+["tentacle/src/builder.rs", "tentacle/src/context.rs", "tentacle/src/service.rs", "tentacle/src/service/config.rs", "tentacle/src/service/event.rs", "tentacle/src/session.rs", "tentacle/src/substream.rs", "tentacle/tests/test_protocol_open_close_on_spawn.rs"]

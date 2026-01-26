@@ -1,0 +1,1 @@
+["sway-lib-core/src/codec.sw", "test/src/e2e_vm_tests/test_programs/should_pass/language/configurable_consts/json_abi_oracle_new_encoding.json", "test/src/e2e_vm_tests/test_programs/should_pass/require_contract_deployment/storage_access_caller/src/main.sw"]

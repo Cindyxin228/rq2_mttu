@@ -1,0 +1,1 @@
+["crates/rune/src/compiling/compile_error.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/query/mod.rs", "crates/rune/src/query/query_error.rs", "crates/rune/tests/test_all/compiler_use.rs", "crates/rune/tests/test_all/compiler_visibility.rs", "crates/runestick/src/compile_meta.rs"]

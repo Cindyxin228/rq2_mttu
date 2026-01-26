@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/regression/src/main.nr", "crates/noirc_evaluator/src/ssa/ssa_gen.rs"]

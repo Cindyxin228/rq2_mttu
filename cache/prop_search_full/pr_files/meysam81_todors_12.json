@@ -1,0 +1,1 @@
+[".github/workflows/build-binary.yml", ".github/workflows/rust-doc.yml", "proto/healthcheck.proto", "src/grpc.rs"]

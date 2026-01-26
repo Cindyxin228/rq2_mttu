@@ -1,0 +1,1 @@
+["src/base/iana/mod.rs", "src/base/iana/svcb.rs", "src/base/opt/mod.rs", "src/base/wire.rs", "src/rdata/rfc1035.rs", "src/rdata/svcb.rs", "src/rdata/svcb/mod.rs", "src/rdata/svcb/params.rs", "src/rdata/svcb/rdata.rs", "src/rdata/svcb/value.rs"]

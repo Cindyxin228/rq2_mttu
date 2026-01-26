@@ -1,0 +1,1 @@
+["src/blake2b/blake2b_simd.rs", "src/blake2b/blake2b_soft.rs", "src/classic/crypto_generichash.rs", "src/classic/crypto_pwhash.rs", "src/classic/crypto_sign_ed25519.rs", "src/error.rs", "src/poly1305/poly1305_soft.rs", "src/protected.rs", "src/sign.rs", "src/types.rs", "tests/integration_tests.rs"]

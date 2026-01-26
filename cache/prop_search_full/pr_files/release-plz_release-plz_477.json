@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/release_plz/Cargo.toml", "crates/release_plz/src/args/mod.rs", "crates/release_plz/src/main.rs", "crates/release_plz/src/update_checker.rs", "crates/release_plz_core/src/lib.rs", "crates/release_plz_core/src/update_checker.rs"]

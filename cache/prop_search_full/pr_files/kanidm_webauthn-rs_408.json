@@ -1,0 +1,1 @@
+["fido-key-manager/src/main.rs", "webauthn-authenticator-rs/examples/authenticate.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs-core/src/crypto.rs", "webauthn-rs-core/src/interface.rs", "webauthn-rs-proto/src/attest.rs", "webauthn-rs-proto/src/cose.rs"]

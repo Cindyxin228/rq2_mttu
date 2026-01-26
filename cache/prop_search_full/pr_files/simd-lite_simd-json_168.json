@@ -1,0 +1,1 @@
+[".drone.yml", "Cargo.toml", "src/avx2/utf8check.rs", "src/lib.rs", "src/numberparse.rs", "src/sse42/utf8check.rs", "src/stringparse.rs", "src/utf8check.rs", "src/value/borrowed.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "src/core/mod.rs", "src/generic/builders/generic_builder.rs", "src/generic/parsers/generic_parser.rs", "src/lib.rs", "src/prelude/paseto_builder.rs", "src/prelude/paseto_parser.rs"]

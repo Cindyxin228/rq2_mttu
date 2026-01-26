@@ -1,0 +1,1 @@
+["crates/parser/src/grammar/items.rs", "crates/parser/test_data/parser/inline/ok/0012_type_item_where_clause.rast", "crates/parser/test_data/parser/inline/ok/0012_type_item_where_clause.rs", "crates/parser/test_data/parser/inline/ok/0199_type_item_where_clause_deprecated.rast", "crates/parser/test_data/parser/inline/ok/0199_type_item_where_clause_deprecated.rs"]

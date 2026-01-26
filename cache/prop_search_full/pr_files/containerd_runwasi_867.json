@@ -1,0 +1,1 @@
+["crates/stress-test/src/containerd/client.rs", "crates/stress-test/src/main.rs", "crates/stress-test/src/mocks/shim.rs"]

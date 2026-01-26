@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".travis.yml", "CONTRIBUTING.md", "Cargo.toml", "README.md", "mozsvc-common/CHANGELOG.md", "mozsvc-common/Cargo.toml", "mozsvc-common/README.md", "mozsvc-common/src/aws.rs", "mozsvc-common/src/lib.rs"]

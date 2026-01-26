@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/simple.rs", "examples/transform.rs", "examples/transform_versioned.rs", "src/error/mod.rs", "src/lib.rs", "src/publisher/mod.rs", "src/subscriber/mod.rs", "tests/test.rs"]

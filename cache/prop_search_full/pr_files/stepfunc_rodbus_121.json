@@ -1,0 +1,1 @@
+["Cargo.lock", "ffi/bindings/dotnet/examples/client/client.csproj", "ffi/bindings/dotnet/examples/server/server.csproj", "ffi/bindings/dotnet/rodbus-tests/rodbus-tests.csproj", "rodbus/src/channel.rs", "rodbus/src/client/channel.rs", "rodbus/src/client/task.rs", "rodbus/src/lib.rs", "rodbus/src/serial/client.rs", "rodbus/src/tcp/client.rs", "rodbus/src/tcp/tls/client.rs"]

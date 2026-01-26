@@ -1,0 +1,1 @@
+["src/cmdline.rs", "src/commands.rs", "src/compiler/c.rs", "src/compiler/clang.rs", "src/compiler/compiler.rs", "src/compiler/gcc.rs", "src/compiler/msvc.rs", "src/compiler/rust.rs", "src/mock_command.rs", "src/protocol.rs", "src/server.rs", "src/test/tests.rs", "src/util.rs"]

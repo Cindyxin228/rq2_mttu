@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/src/bin/gl-interop.rs", "vulkano/src/image/attachment.rs", "vulkano/src/image/storage.rs", "vulkano/src/image/sys.rs", "vulkano/src/memory/device_memory.rs"]

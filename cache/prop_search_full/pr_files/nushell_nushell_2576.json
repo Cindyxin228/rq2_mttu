@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/str_/trim/mod.rs", "crates/nu-cli/src/commands/str_/trim/trim_both_ends.rs", "crates/nu-cli/src/commands/str_/trim/trim_left.rs", "crates/nu-cli/src/commands/str_/trim/trim_right.rs", "crates/nu-plugin/src/test_helpers.rs"]

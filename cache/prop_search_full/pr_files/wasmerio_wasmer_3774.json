@@ -1,0 +1,1 @@
+["lib/wasi/src/lib.rs", "lib/wasi/src/syscalls/wasi/mod.rs", "lib/wasi/src/syscalls/wasi/thread_spawn.rs", "lib/wasi/src/syscalls/wasix/thread_spawn.rs", "tests/integration/cli/tests/snapshot.rs", "tests/integration/cli/tests/snapshots/snapshot__snapshot_wasi_threads.snap", "tests/integration/cli/tests/wasm/wasi-threads.wasm"]

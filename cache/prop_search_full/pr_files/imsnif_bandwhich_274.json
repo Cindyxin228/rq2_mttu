@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/display/components/header_details.rs", "src/display/components/help_text.rs", "src/display/components/layout.rs", "src/display/components/table.rs", "src/display/raw_terminal_backend.rs", "src/display/ui.rs", "src/main.rs", "src/tests/fakes/fake_output.rs"]

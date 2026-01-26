@@ -1,0 +1,1 @@
+["compio-fs/Cargo.toml", "compio-fs/src/lib.rs", "compio-fs/src/pipe.rs", "compio-runtime/Cargo.toml", "compio-runtime/src/event/eventfd.rs", "compio-runtime/src/event/pipe.rs", "compio/Cargo.toml", "compio/examples/named_pipe.rs"]

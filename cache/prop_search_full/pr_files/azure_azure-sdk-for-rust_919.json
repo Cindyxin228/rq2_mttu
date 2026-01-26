@@ -1,0 +1,1 @@
+["sdk/data_tables/src/operations/delete_entity.rs", "sdk/data_tables/src/operations/insert_entity.rs", "sdk/storage_blobs/src/blob/operations/copy_blob.rs", "sdk/storage_blobs/src/blob/operations/put_block_blob.rs", "sdk/storage_blobs/src/blob/operations/put_block_list.rs", "sdk/storage_blobs/src/blob/operations/put_page.rs"]

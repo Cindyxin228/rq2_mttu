@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "Cargo.toml", "src/advisories/diags.rs", "src/cargo-deny/common.rs", "src/cargo-deny/list.rs", "src/diag/obj_grapher.rs", "src/lib.rs", "src/licenses/gather.rs", "src/licenses/mod.rs", "tests/license_gather.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "src/chunks/vocab/mod.rs", "src/chunks/vocab/subword.rs", "src/compat/fasttext/indexer.rs", "src/compat/fasttext/io.rs", "src/compat/floret/indexer.rs", "src/compat/floret/io.rs", "src/compat/floret/mod.rs", "src/compat/mod.rs", "src/embeddings.rs", "src/error.rs", "src/subword.rs"]

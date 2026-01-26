@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "src/main.rs", "tests/cmd/bare-h.stdout", "tests/cmd/bare-help.stdout", "tests/cmd/h.stdout", "tests/cmd/help.stdout"]

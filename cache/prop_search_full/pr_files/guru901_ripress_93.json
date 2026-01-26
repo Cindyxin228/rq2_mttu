@@ -1,0 +1,1 @@
+["docs/api-reference/request.md", "docs/example/request.md", "docs/guides/request/overview.md", "scripts/test.sh", "src/req/body/mod.rs", "src/req/mod.rs", "src/res/mod.rs", "src/tests/response_test.rs", "src/types.rs", "tests/src/request.spec.ts", "tests/src/response.spec.ts"]

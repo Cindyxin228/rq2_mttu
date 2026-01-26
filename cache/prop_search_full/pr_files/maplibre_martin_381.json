@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "docker-compose.yml", "src/bin/main.rs", "src/config.rs", "src/dev.rs", "src/server.rs", "tests/config.yaml", "tests/server_test.rs"]

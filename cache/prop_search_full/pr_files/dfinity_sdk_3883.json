@@ -1,0 +1,1 @@
+["e2e/tests-dfx/bitcoin.bash", "e2e/tests-dfx/canister_http.bash", "e2e/tests-dfx/start.bash"]

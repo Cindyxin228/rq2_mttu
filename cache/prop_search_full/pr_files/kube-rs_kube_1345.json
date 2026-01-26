@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/dynamic_jsonpath.rs", "kube-client/Cargo.toml", "kube-client/src/client/auth/mod.rs"]

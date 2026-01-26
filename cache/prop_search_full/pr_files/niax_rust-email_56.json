@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "build.rs", "examples/parse_email.rs", "examples/printing.rs", "src/address.rs", "src/header.rs", "src/lib.rs", "src/message.rs", "src/mimeheaders.rs", "src/results.rs", "src/rfc2045.rs", "src/rfc2047.rs", "src/rfc5322.rs", "src/rfc822.rs"]

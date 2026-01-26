@@ -1,0 +1,1 @@
+["tests-build/tests/fail/macros_invalid_input.rs", "tests-build/tests/fail/macros_invalid_input.stderr", "tokio-macros/src/entry.rs", "tokio-macros/src/lib.rs", "tokio/tests/macros_rename_test.rs"]

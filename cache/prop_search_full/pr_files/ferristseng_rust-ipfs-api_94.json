@@ -1,0 +1,1 @@
+["ipfs-api-examples/examples/pubsub.rs", "ipfs-api-prelude/Cargo.toml", "ipfs-api-prelude/src/api.rs", "ipfs-api-prelude/src/request/pubsub.rs", "ipfs-api-prelude/src/response/pubsub.rs", "ipfs-api-prelude/src/response/serde.rs", "ipfs-api-prelude/src/response/tests/v0_pubsub_sub_0.json", "ipfs-api-prelude/src/response/tests/v0_pubsub_sub_1.json"]

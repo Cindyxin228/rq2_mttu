@@ -1,0 +1,1 @@
+["crates/nu-command/tests/commands/match_.rs", "crates/nu-command/tests/commands/mod.rs", "crates/nu-parser/src/flatten.rs", "crates/nu-parser/src/parse_patterns.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/ast/match_pattern.rs", "crates/nu-protocol/src/engine/engine_state.rs", "crates/nu-protocol/src/engine/pattern_match.rs"]

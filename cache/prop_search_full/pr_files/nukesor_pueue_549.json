@@ -1,0 +1,1 @@
+["CHANGELOG.md", "pueue/src/client/cli.rs", "pueue/src/client/client.rs", "pueue/src/client/display/log/mod.rs", "pueue/src/daemon/network/message_handler/log.rs", "pueue/tests/daemon/integration/log.rs", "pueue/tests/helper/asserts.rs", "pueue/tests/helper/log.rs", "pueue_lib/src/network/message.rs"]

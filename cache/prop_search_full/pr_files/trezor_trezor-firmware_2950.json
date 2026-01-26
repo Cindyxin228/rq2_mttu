@@ -1,0 +1,1 @@
+["core/embed/rust/src/ui/model_tt/layout.rs", "core/src/apps/bitcoin/sign_tx/layout.py", "core/src/apps/cardano/layout.py", "core/src/apps/management/recovery_device/layout.py", "core/src/apps/management/reset_device/layout.py", "core/src/trezor/ui/layouts/tt_v2/__init__.py", "core/src/trezor/ui/layouts/tt_v2/recovery.py", "tests/ui_tests/fixtures.json"]

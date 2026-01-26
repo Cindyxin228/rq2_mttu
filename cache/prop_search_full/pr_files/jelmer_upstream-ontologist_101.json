@@ -1,0 +1,1 @@
+["pyproject.toml", "src/debian.rs", "src/lib.rs", "src/providers/mod.rs", "src/vcs.rs", "tests/__init__.py", "tests/test_debian.py", "upstream-ontologist-py/src/lib.rs", "upstream_ontologist/_upstream_ontologist.pyi", "upstream_ontologist/debian.py", "upstream_ontologist/debian/__init__.py", "upstream_ontologist/guess.py", "upstream_ontologist/vcs.py"]

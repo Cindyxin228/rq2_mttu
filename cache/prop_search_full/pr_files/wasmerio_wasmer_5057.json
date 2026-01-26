@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/wasix/src/runners/wasi.rs", "tests/integration/cli/tests/packages/list-cwd/main.c", "tests/integration/cli/tests/packages/list-cwd/main.wasm", "tests/integration/cli/tests/packages/list-cwd/wasmer.toml", "tests/integration/cli/tests/run.rs"]

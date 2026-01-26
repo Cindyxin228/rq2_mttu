@@ -1,0 +1,1 @@
+[".cargo/config", ".github/workflows/ci.yaml", "Cargo.toml", "src/api.rs", "src/api_480.rs", "src/internal/ed25519.rs", "src/internal/fp.rs", "src/internal/homogeneouspoint.rs", "src/internal/mod.rs", "src/internal/pairing.rs", "src/nonemptyvec.rs"]

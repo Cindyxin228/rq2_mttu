@@ -1,0 +1,1 @@
+[".github/workflows/linter.yml", "README.md", "core/src/v2/resolver.rs", "core/src/v3/response.rs", "plugins/actix-web/src/lib.rs", "src/v2/codegen/emitter.rs", "src/v2/codegen/impls.rs", "src/v2/codegen/mod.rs", "src/v2/codegen/object.rs", "src/v2/codegen/state.rs"]

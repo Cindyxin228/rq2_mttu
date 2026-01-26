@@ -1,0 +1,1 @@
+["auth/src/api/builder.rs", "auth/src/api/handlers.rs", "auth/src/error.rs", "auth/tests/api/auth.rs", "auth/tests/api/main.rs", "auth/tests/api/users.rs"]

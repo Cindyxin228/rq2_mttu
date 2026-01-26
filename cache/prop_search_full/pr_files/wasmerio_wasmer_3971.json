@@ -1,0 +1,1 @@
+["lib/wasix/src/lib.rs", "lib/wasix/src/syscalls/wasix/sock_accept.rs", "tests/integration/cli/tests/snapshot.rs", "tests/integration/cli/tests/snapshots/snapshot__snapshot_python_3_11_3.snap", "tests/integration/cli/tests/wasm/python-3.11.3.wasm"]

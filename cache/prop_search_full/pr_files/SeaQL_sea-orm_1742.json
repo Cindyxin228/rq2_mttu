@@ -1,0 +1,1 @@
+["Cargo.toml", "sea-orm-cli/Cargo.toml", "sea-orm-cli/src/commands/generate.rs", "sea-orm-codegen/Cargo.toml", "sea-orm-migration/Cargo.toml", "src/database/transaction.rs", "src/driver/sqlx_mysql.rs", "src/driver/sqlx_postgres.rs", "src/driver/sqlx_sqlite.rs"]

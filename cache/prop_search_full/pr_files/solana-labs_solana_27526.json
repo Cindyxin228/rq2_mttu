@@ -1,0 +1,1 @@
+["web3.js/src/message/legacy.ts", "web3.js/src/message/v0.ts", "web3.js/src/transaction/index.ts", "web3.js/src/transaction/message.ts", "web3.js/test/message-tests/legacy.test.ts", "web3.js/test/message-tests/v0.test.ts", "web3.js/test/transaction-tests/message.test.ts"]

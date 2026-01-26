@@ -1,0 +1,1 @@
+["opentelemetry-jaeger/README.md", "opentelemetry-jaeger/src/exporter/agent.rs", "opentelemetry-jaeger/src/exporter/mod.rs", "opentelemetry-jaeger/src/lib.rs", "opentelemetry/src/sdk/trace/provider.rs", "opentelemetry/src/sdk/trace/span_processor.rs"]

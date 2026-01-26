@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/publish.yml", "crates/config/Cargo.toml", "crates/framework-protoc-codegen/Cargo.toml", "crates/framework/Cargo.toml", "crates/protocol/Cargo.toml", "crates/protocol/README.md", "crates/runtime-mailbox/Cargo.toml", "crates/runtime/Cargo.toml"]

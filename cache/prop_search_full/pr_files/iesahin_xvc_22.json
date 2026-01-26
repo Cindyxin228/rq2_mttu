@@ -1,0 +1,1 @@
+["config/Cargo.toml", "core/Cargo.toml", "core/src/root/mod.rs", "ecs/Cargo.toml", "file/Cargo.toml", "lib/Cargo.toml", "logging/Cargo.toml", "pipeline/Cargo.toml", "storage/Cargo.toml", "test_helper/Cargo.toml", "walker/Cargo.toml", "workflow_tests/Cargo.toml", "workflow_tests/tests/test_remote_new_minio.rs"]

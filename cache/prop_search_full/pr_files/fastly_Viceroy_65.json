@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/compute-at-edge-abi", "lib/src/session.rs", "lib/src/wiggle_abi/body_impl.rs", "lib/src/wiggle_abi/req_impl.rs", "lib/src/wiggle_abi/resp_impl.rs", "test-fixtures/Cargo.lock"]

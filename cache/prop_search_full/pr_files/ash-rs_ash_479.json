@@ -1,0 +1,1 @@
+["ash/src/device.rs", "ash/src/entry.rs", "ash/src/extensions/experimental/amd.rs", "ash/src/extensions/mod.rs", "ash/src/instance.rs", "ash/src/lib.rs", "ash/src/prelude.rs", "ash/src/util.rs", "ash/src/vk/definitions.rs", "ash/src/vk/enums.rs", "ash/src/vk/extensions.rs", "ash/src/vk/features.rs", "ash/src/vk/macros.rs", "generator/src/lib.rs"]

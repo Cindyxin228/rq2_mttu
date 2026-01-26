@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/cmd/exec.rs", "src/cmd/update.rs", "src/kubectl.rs", "src/main.rs", "src/settings.rs", "src/shell.rs", "src/shell/bash.rs", "src/shell/detect.rs", "src/shell/mod.rs", "src/shell/prompt.rs", "src/shell/zsh.rs", "src/tempfile.rs", "src/vars.rs"]

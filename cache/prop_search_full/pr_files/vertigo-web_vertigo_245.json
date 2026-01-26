@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/vertigo-cli/Cargo.toml", "crates/vertigo-cli/src/build/cargo_build.rs", "crates/vertigo-cli/src/build/cargo_workspace.rs", "crates/vertigo-cli/src/build/mod.rs", "crates/vertigo-cli/src/serve/serve_command.rs", "crates/vertigo-cli/src/watch/mod.rs"]

@@ -1,0 +1,1 @@
+["browser/src/plugin.ts", "browser/tsconfig.json", "dotnet/nuget/Extism.runtime.win.csproj", "elixir/mix.exs", "elixir/native/extism_nif/Cargo.toml", "haskell/extism.cabal", "java/pom.xml", "libextism/Cargo.toml", "manifest/Cargo.toml", "node/package.json", "ocaml/Makefile", "python/pyproject.toml", "ruby/lib/extism/version.rb", "runtime/Cargo.toml", "rust/Cargo.toml"]

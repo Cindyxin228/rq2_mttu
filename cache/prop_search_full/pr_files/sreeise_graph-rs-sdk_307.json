@@ -1,0 +1,1 @@
+["graph-codegen/src/builder/spec.rs", "graph-codegen/src/parser/filter.rs", "graph-codegen/src/parser/spec.rs", "tests/app_catalogs_url.rs", "tests/applications_url.rs", "tests/audit_logs_url.rs", "tests/graph_error.rs"]

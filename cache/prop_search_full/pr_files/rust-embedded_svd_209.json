@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/clippy.yml", ".github/workflows/rustfmt.yml", "svd-encoder/CHANGELOG.md", "svd-encoder/Cargo.toml", "svd-parser/CHANGELOG.md", "svd-parser/Cargo.toml", "svd-parser/src/expand.rs", "svd-rs/CHANGELOG.md", "svd-rs/Cargo.toml"]

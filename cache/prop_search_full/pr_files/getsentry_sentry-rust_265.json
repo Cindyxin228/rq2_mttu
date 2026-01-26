@@ -1,0 +1,1 @@
+["sentry-anyhow/src/lib.rs", "sentry-backtrace/src/integration.rs", "sentry-contexts/src/integration.rs", "sentry-debug-images/src/integration.rs", "sentry-error-chain/src/lib.rs", "sentry-failure/src/lib.rs", "sentry-log/src/integration.rs", "sentry-panic/src/lib.rs", "sentry-slog/src/integration.rs"]

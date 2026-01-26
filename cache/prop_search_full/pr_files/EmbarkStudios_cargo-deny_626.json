@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/licenses.rs", "src/licenses/gather.rs", "tests/licenses.rs", "tests/snapshots/licenses__forces_apache_over_pixar.snap", "tests/test_data/so-annoying/Cargo.lock", "tests/test_data/so-annoying/Cargo.toml", "tests/test_data/so-annoying/LICENSE-APACHE", "tests/test_data/so-annoying/LICENSE-PIXAR", "tests/test_data/so-annoying/src/lib.rs"]

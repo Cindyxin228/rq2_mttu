@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/pull-request-bot.yml", ".github/workflows/server-benchmark.yml", "rust-runtime/aws-smithy-http-server/examples/pokemon_service/tests/helpers.rs", "tools/Dockerfile", "tools/ci-build/scripts/check-server-e2e-test"]

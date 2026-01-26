@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/echo.rs", "crates/nu-data/src/base.rs", "tests/shell/pipeline/commands/internal.rs"]

@@ -1,0 +1,1 @@
+["examples/create-delete-port.rs", "examples/get-network.rs", "examples/list-floating-ips.rs", "examples/list-networks.rs", "examples/list-ports.rs", "examples/list-subnets.rs", "src/network/networks.rs", "src/network/protocol.rs", "tests/integration-network-crud.rs"]

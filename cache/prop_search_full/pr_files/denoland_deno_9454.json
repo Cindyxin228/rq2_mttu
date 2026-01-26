@@ -1,0 +1,1 @@
+["cli/lsp/documents.rs", "cli/lsp/language_server.rs", "cli/lsp/utils.rs", "cli/tests/lsp/code_lens_request_asset.json", "cli/tests/lsp/code_lens_resolve_request_asset.json", "cli/tests/lsp/did_open_notification_asset.json"]

@@ -1,0 +1,1 @@
+["deployment/charts/Chart.yaml", "deployment/charts/templates/fuel-core-deploy.yaml", "deployment/charts/values.yaml", "deployment/ingress/eks/fuel-core-ingress.yaml", "deployment/scripts/.env", "deployment/scripts/fuel-core-delete.sh", "deployment/scripts/fuel-core-deploy.sh"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/src/main.rs", "cli/src/opts.rs", "cli/tests/wasm/invalid.wat", "cli/tests/wasm/minimal.wasm", "cli/tests/wasm/minimal.wat", "lib/src/error.rs"]

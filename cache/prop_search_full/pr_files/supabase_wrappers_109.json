@@ -1,0 +1,1 @@
+["docs/index.md", "docs/logflare.md", "mkdocs.yaml", "wrappers/Cargo.toml", "wrappers/src/fdw/logflare_fdw/README.md", "wrappers/src/fdw/logflare_fdw/logflare_fdw.rs", "wrappers/src/fdw/logflare_fdw/mod.rs", "wrappers/src/fdw/mod.rs"]

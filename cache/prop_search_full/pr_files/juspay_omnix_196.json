@@ -1,0 +1,1 @@
+[".envrc", "flake.nix", "nix/modules/cache-pins.nix", "nix/modules/closure-size.nix", "nix/modules/devshell.nix", "nix/modules/formating.nix", "nix/modules/nixpkgs.nix", "nix/modules/om.nix", "nix/modules/rust.nix"]

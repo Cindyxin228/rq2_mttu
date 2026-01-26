@@ -1,0 +1,1 @@
+["applications/tari_base_node/src/builder.rs", "applications/tari_base_node/src/main.rs", "applications/tari_base_node/src/miner.rs", "base_layer/core/src/base_node/comms_interface/inbound_handlers.rs", "base_layer/core/src/mining/miner.rs", "common/src/configuration.rs"]

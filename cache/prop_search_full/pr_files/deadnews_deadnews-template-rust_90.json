@@ -1,0 +1,1 @@
+[".github/workflows/docker.yml", ".github/workflows/main.yml", ".pre-commit-config.yaml", ".taplo.toml", ".vscode/extensions.json", ".vscode/settings.json", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "Dockerfile.static", "Makefile", "docker-compose.yml", "src/main.rs", "src/test.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "ethers-core/src/types/mod.rs", "ethers-core/src/types/txpool.rs", "ethers-core/src/utils/ganache.rs", "ethers-core/src/utils/geth.rs", "ethers-core/src/utils/mod.rs", "ethers-providers/src/lib.rs", "ethers-providers/src/provider.rs", "ethers-providers/tests/provider.rs", "ethers-providers/tests/txpool.rs"]

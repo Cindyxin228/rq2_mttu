@@ -1,0 +1,1 @@
+["aws-build-lib/src/container/Dockerfile", "aws-build-lib/src/lib.rs", "aws-build-lib/tests/integration.rs", "aws-build/src/main.rs"]

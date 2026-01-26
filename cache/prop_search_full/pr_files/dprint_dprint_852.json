@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/core/src/configuration.rs", "crates/dprint/Cargo.toml", "crates/dprint/src/configuration/get_global_config.rs", "crates/dprint/src/configuration/get_plugin_config_map.rs", "crates/dprint/src/configuration/resolve_config.rs", "crates/dprint/src/test_helpers.rs", "crates/test-process-plugin/src/main.rs"]

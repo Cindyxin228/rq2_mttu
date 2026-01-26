@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "integration_tests/Cargo.toml", "integration_tests/tests/greengrass.rs", "rusoto/services/greengrass/Cargo.toml", "rusoto/services/greengrass/README.md", "rusoto/services/greengrass/src/custom/mod.rs", "rusoto/services/greengrass/src/generated.rs", "rusoto/services/greengrass/src/lib.rs", "service_crategen/services.json"]

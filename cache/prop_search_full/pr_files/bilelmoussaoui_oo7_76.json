@@ -1,0 +1,1 @@
+["Cargo.toml", "client/Cargo.toml", "client/fixtures/default.keyring", "client/fixtures/legacy.keyring", "client/src/crypto/mod.rs", "client/src/crypto/native.rs", "client/src/crypto/openssl.rs", "client/src/portal/api/attribute_value.rs", "client/src/portal/api/legacy_keyring.rs", "client/src/portal/api/mod.rs", "client/src/portal/error.rs", "client/src/portal/mod.rs"]

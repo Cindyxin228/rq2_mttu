@@ -1,0 +1,1 @@
+["datafusion-examples/examples/rewrite_expr.rs", "datafusion/core/tests/user_defined_plan.rs", "datafusion/optimizer/src/common_subexpr_eliminate.rs", "datafusion/optimizer/src/eliminate_cross_join.rs", "datafusion/optimizer/src/push_down_filter.rs", "datafusion/optimizer/src/utils.rs"]

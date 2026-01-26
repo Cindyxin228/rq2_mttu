@@ -1,0 +1,1 @@
+["crates/fuel-core/src/schema/coin.rs", "crates/fuel-core/src/schema/contract.rs", "crates/fuel-core/src/schema/message.rs", "crates/fuel-core/src/schema/tx.rs", "crates/fuel-core/src/service.rs", "crates/fuel-core/src/service/config.rs", "crates/fuel-core/src/state/rocks_db.rs", "tests/tests/contract.rs", "tests/tests/messages.rs"]

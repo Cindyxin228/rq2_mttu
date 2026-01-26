@@ -1,0 +1,1 @@
+["tss-esapi-sys/Cargo.toml", "tss-esapi-sys/build.rs", "tss-esapi/Cargo.toml", "tss-esapi/build.rs", "tss-esapi/src/tcti_ldr.rs"]

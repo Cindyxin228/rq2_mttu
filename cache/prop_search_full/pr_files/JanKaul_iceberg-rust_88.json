@@ -1,0 +1,1 @@
+["iceberg-file-catalog/src/lib.rs", "iceberg-glue-catalog/src/lib.rs", "iceberg-rust/src/object_store/store.rs", "iceberg-s3tables-catalog/src/lib.rs", "iceberg-sql-catalog/src/lib.rs"]

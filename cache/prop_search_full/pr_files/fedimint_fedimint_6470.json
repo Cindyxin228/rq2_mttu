@@ -1,0 +1,1 @@
+[".github/workflows/ci-nix.yml", "nix/flakebox.nix", "scripts/_common.sh", "scripts/release/sign.sh"]

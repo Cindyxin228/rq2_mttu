@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "iroh-dns-server/src/metrics.rs", "iroh-relay/src/server/metrics.rs", "iroh/Cargo.toml", "iroh/bench/src/bin/bulk.rs", "iroh/src/endpoint.rs", "iroh/src/magicsock/metrics.rs", "iroh/src/metrics.rs", "iroh/src/net_report/metrics.rs"]

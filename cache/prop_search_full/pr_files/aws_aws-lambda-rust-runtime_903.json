@@ -1,0 +1,1 @@
+["examples/opentelemetry-tracing/src/main.rs", "lambda-runtime/src/layers/mod.rs", "lambda-runtime/src/layers/otel.rs"]

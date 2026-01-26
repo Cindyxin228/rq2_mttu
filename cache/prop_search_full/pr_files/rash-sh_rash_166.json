@@ -1,0 +1,1 @@
+[".ci/terminalize_examples.sh", ".github/workflows/autotag.yml", ".github/workflows/rust.yml", "examples/php-fpm/entrypoint.rh", "examples/recursivity.rh", "examples/register.rh", "examples/task.rh"]

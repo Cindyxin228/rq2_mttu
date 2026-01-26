@@ -1,0 +1,1 @@
+["examples/aws-xray/src/client.rs", "examples/aws-xray/src/server.rs", "examples/http/Cargo.toml", "examples/http/src/client.rs", "examples/http/src/server.rs", "examples/stdout.rs", "opentelemetry-semantic-conventions/src/resource.rs", "src/exporter/trace/stdout.rs"]

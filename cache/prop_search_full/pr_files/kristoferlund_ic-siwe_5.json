@@ -1,0 +1,1 @@
+["packages/ic_siwe/src/delegation.rs", "packages/ic_siwe/src/settings.rs", "packages/ic_siwe_provider/README.md", "packages/ic_siwe_provider/ic_siwe_provider.did", "packages/ic_siwe_provider/ic_siwe_provider.wasm.gz", "packages/ic_siwe_provider/src/service/init_upgrade.rs", "packages/ic_siwe_provider/tests/common.rs", "packages/ic_siwe_provider/tests/integration_tests.rs"]

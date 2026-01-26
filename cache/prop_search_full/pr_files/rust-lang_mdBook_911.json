@@ -1,0 +1,1 @@
+["src/book/book.rs", "src/book/mod.rs", "src/book/summary.rs", "src/lib.rs", "src/preprocess/links.rs", "src/renderer/html_handlebars/hbs_renderer.rs", "src/renderer/html_handlebars/helpers/navigation.rs", "src/renderer/html_handlebars/helpers/theme.rs", "src/utils/mod.rs"]

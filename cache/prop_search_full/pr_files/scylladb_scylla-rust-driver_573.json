@@ -1,0 +1,1 @@
+["scylla-cql/src/errors.rs", "scylla-cql/src/frame/request/batch.rs", "scylla-cql/src/frame/value.rs", "scylla-cql/src/frame/value_tests.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/downgrading_consistency_retry_policy.rs", "scylla/src/transport/retry_policy.rs", "scylla/src/transport/session.rs"]

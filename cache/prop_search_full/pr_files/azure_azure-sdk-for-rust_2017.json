@@ -1,0 +1,1 @@
+["eng/common/pipelines/templates/jobs/archetype-spec-gen-sdk.yml", "eng/common/scripts/Invoke-GitHubAPI.ps1", "eng/common/scripts/Remove-IssueLabel.ps1"]

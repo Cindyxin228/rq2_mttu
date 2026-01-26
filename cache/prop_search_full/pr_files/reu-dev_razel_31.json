@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "include/deno/razel.ts", "include/python/razel.py", "src/cache/cache.rs", "src/cache/local_cache.rs", "src/main.rs", "src/metadata/tags.rs", "src/razel.rs", "src/sandbox.rs", "test/deno.ts", "test/python.py", "test/razel.jsonl"]

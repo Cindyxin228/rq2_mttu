@@ -1,0 +1,1 @@
+[".github/workflows/deploy.yml", "ci/install-rust.sh", "ci/make-release.sh"]

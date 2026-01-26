@@ -1,0 +1,1 @@
+["CHANGELOG", "core/src/perspectives/PerspectiveClient.ts", "core/src/perspectives/PerspectiveProxy.ts", "core/src/perspectives/PerspectiveResolver.ts", "core/src/subject/SDNADecorators.ts", "core/src/subject/SubjectEntity.ts", "executor/src/core/Perspective.ts", "executor/src/core/graphQL-interface/GraphQL.ts", "tests/js/integration.test.ts"]

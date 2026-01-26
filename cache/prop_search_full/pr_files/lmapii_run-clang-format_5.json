@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "changelog.md", "readme.md", "screenshots/demo.gif", "src/cli/mod.rs", "src/lib/globs.rs", "src/lib/mod.rs", "test-files/format.json"]

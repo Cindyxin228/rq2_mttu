@@ -1,0 +1,1 @@
+["Cargo.toml", "tracing-core/Cargo.toml", "tracing-core/src/dispatch.rs", "tracing-core/src/event.rs", "tracing-core/src/field.rs", "tracing-core/src/lib.rs", "tracing-core/src/span.rs", "tracing-core/tests/macros.rs"]

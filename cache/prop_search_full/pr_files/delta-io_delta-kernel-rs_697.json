@@ -1,0 +1,1 @@
+["ffi/examples/read-table/read_table.c", "ffi/src/lib.rs", "ffi/src/scan.rs", "test-utils/src/lib.rs"]

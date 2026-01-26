@@ -1,0 +1,1 @@
+["crates/matrix-sdk-appservice/tests/tests.rs", "crates/matrix-sdk-test-macros/src/lib.rs", "crates/matrix-sdk/src/client/builder.rs", "crates/matrix-sdk/src/client/mod.rs", "crates/matrix-sdk/src/http_client.rs"]

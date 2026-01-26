@@ -1,0 +1,1 @@
+["crates/binstalk-downloader/src/download.rs", "crates/binstalk-downloader/src/remote.rs", "crates/binstalk-manifests/src/binstall_crates_v1.rs", "crates/binstalk-manifests/src/cargo_crates_v1.rs", "crates/binstalk-manifests/src/cargo_crates_v1/crate_version_source.rs", "crates/binstalk/src/errors.rs"]

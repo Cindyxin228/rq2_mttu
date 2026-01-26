@@ -1,0 +1,1 @@
+[".changeset/tall-cooks-speak.md", "crates/swc_ecma_codegen/src/lib.rs", "crates/swc_ecma_codegen/tests/fixture/typescript/class_method/input.js", "crates/swc_ecma_codegen/tests/fixture/typescript/class_method/output.js", "crates/swc_ecma_codegen/tests/fixture/typescript/class_method/output.min.js", "crates/swc_ecma_transforms_typescript/src/strip_type.rs"]

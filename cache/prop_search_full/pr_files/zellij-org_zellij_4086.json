@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "xtask/Cargo.toml", "zellij-client/Cargo.toml", "zellij-server/Cargo.toml", "zellij-server/src/logging_pipe.rs", "zellij-utils/Cargo.toml", "zellij-utils/src/consts.rs"]

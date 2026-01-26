@@ -1,0 +1,1 @@
+["src/logical/backend.rs", "src/logical/request.rs", "src/modules/credential/userpass/path_users.rs", "src/modules/pki/path_fetch.rs", "src/modules/pki/path_issue.rs", "src/modules/pki/path_keys.rs", "src/modules/pki/path_roles.rs", "src/modules/pki/path_root.rs", "src/modules/pki/util.rs", "src/modules/system/mod.rs", "src/utils/key.rs"]

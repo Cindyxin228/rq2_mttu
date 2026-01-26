@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "src/filters/byteorder.rs", "src/filters/shuffle.rs", "src/filters/xdr.rs", "src/idx/dataset.rs", "src/idx/index.rs", "src/reader/cache.rs", "src/reader/chunk.rs"]

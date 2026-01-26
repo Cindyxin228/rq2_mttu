@@ -1,0 +1,1 @@
+[".cirrus.yml", ".github/workflows/ci.yml", "Cargo.toml", "README.md", "examples/simple_window.rs", "src/registry.rs", "src/seat/mod.rs", "src/shell/xdg/inner.rs", "src/shell/xdg/mod.rs", "src/shell/xdg/window/inner.rs", "src/shell/xdg/window/mod.rs", "src/shm/mod.rs"]

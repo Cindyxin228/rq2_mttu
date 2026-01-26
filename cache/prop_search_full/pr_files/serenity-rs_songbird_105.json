@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "Makefile.toml", "README.md", "src/error.rs", "src/input/adapters/cached/compressed.rs", "src/input/adapters/cached/error.rs", "src/input/codecs/dca/mod.rs", "src/input/metadata/mod.rs", "src/input/sources/file.rs", "src/input/sources/ytdl.rs", "src/lib.rs", "src/ws.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "src/chompfile.rs", "src/engines/cmd.rs", "src/engines/mod.rs", "src/engines/node.rs", "src/js.rs", "src/main.rs", "src/task.rs", "src/templates.toml", "templates/babel.toml", "templates/cargo.toml", "templates/jspm.toml", "templates/npm.toml", "templates/prettier.toml", "templates/svelte.toml", "templates/swc.toml"]

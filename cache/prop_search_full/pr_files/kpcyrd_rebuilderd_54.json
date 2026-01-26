@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "common/src/lib.rs", "daemon/Cargo.toml", "daemon/migrations/2021-07-22-093726_has_diffoscope/down.sql", "daemon/migrations/2021-07-22-093726_has_diffoscope/up.sql", "daemon/src/api.rs", "daemon/src/models/package.rs", "daemon/src/schema.rs", "tests/Cargo.toml", "tools/Cargo.toml", "worker/Cargo.toml", "worker/rebuilder-archlinux.sh"]

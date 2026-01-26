@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "data/Cargo.toml", "executor/Cargo.toml", "keys/Cargo.toml", "schema/Cargo.toml", "sdk-client/Cargo.toml", "sdk/Cargo.toml", "src/gui/image_capture.rs", "src/qr_window.rs", "src/test/external_amm_integration.rs", "src/util/cli/arg_parse_config.rs"]

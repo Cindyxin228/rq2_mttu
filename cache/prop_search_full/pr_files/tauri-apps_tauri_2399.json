@@ -1,0 +1,1 @@
+[".changes/async-runtime-handle-api.md", ".changes/async-runtime-spawn-returns-join-handle.md", "core/tauri/Cargo.toml", "core/tauri/src/async_runtime.rs", "core/tauri/src/error.rs", "core/tauri/src/updater/mod.rs"]

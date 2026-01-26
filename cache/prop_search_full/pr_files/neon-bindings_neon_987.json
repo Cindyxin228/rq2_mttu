@@ -1,0 +1,1 @@
+["crates/neon/src/context/mod.rs", "crates/neon/src/thread/mod.rs", "crates/neon/src/types_impl/boxed.rs", "crates/neon/src/types_impl/function/mod.rs", "crates/neon/src/types_impl/mod.rs", "test/napi/src/js/functions.rs", "test/napi/src/js/objects.rs", "test/napi/src/js/workers.rs"]

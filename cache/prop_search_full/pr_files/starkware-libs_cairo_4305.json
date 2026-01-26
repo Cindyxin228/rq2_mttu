@@ -1,0 +1,1 @@
+["corelib/src/prelude.cairo", "corelib/src/prelude/v2023_10.cairo", "crates/cairo-lang-filesystem/src/db.rs", "crates/cairo-lang-project/src/test.rs"]

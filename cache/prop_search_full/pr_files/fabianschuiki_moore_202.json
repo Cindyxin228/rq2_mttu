@@ -1,0 +1,1 @@
+["src/svlog/hir/lowering.rs", "src/svlog/resolver.rs", "src/svlog/syntax/ast.rs", "src/svlog/syntax/parser.rs", "src/svlog/typeck.rs"]

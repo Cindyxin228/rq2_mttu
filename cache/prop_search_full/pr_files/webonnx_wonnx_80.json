@@ -1,0 +1,1 @@
+["wonnx/examples/simple_graph.rs", "wonnx/src/utils.rs", "wonnx/tests/arithmetic.rs", "wonnx/tests/batchnormalization.rs", "wonnx/tests/conv.rs", "wonnx/tests/matrix.rs"]

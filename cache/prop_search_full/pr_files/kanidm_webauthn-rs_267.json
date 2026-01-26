@@ -1,0 +1,1 @@
+["webauthn-authenticator-rs/examples/authenticate/main.rs", "webauthn-authenticator-rs/src/ctap2/commands/get_info.rs", "webauthn-authenticator-rs/src/ctap2/ctap20.rs", "webauthn-authenticator-rs/src/ctap2/ctap21.rs", "webauthn-authenticator-rs/src/ctap2/pin_uv.rs", "webauthn-authenticator-rs/src/error.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs-proto/src/options.rs"]

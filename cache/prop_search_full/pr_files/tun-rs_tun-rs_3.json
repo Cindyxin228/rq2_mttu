@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/read.rs", "src/address.rs", "src/configuration.rs", "src/getifaddrs/mod.rs", "src/lib.rs", "src/platform/freebsd/device.rs", "src/platform/freebsd/sys.rs", "src/platform/linux/device.rs", "src/platform/linux/sys.rs", "src/platform/macos/device.rs", "src/platform/macos/sys.rs", "src/platform/posix/device.rs"]

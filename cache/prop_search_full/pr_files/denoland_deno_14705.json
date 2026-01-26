@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/tests/integration/task_tests.rs", "cli/tests/testdata/task/deno.json", "cli/tests/testdata/task/task_deno_exe_no_env.out", "cli/tests/testdata/task/task_no_args.out", "cli/tests/testdata/task/task_non_existent.out", "test_util/src/lib.rs"]

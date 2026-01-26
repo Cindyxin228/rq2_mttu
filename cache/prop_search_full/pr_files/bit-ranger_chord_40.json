@@ -1,0 +1,1 @@
+[".github/workflows/dev.yml", ".github/workflows/master.yml", "Dockerfile", "README.md", "cmd/Cargo.toml", "cmd/src/job.rs", "cmd/src/main.rs", "zero/devops/chord/conf/chord-web-worker.sh"]

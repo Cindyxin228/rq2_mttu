@@ -1,0 +1,1 @@
+["python/.changelog.d/2801.fixed", "python/.changelog.d/2832.fixed", "python/src/trezorlib/cli/firmware.py", "python/src/trezorlib/client.py", "python/src/trezorlib/models.py", "python/src/trezorlib/transport/bridge.py", "python/src/trezorlib/transport/udp.py", "python/tools/pybridge.py"]

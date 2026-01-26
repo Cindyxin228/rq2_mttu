@@ -1,0 +1,1 @@
+["crates/nu-command/src/env/env_command.rs", "crates/nu-command/src/system/exec.rs", "crates/nu-command/src/system/run_external.rs", "crates/nu-command/src/viewers/griddle.rs", "crates/nu-command/src/viewers/table.rs", "crates/nu-engine/src/env.rs", "crates/nu-protocol/src/shell_error.rs", "docs/sample_config/default_config.nu", "src/tests/test_env.rs"]

@@ -1,0 +1,1 @@
+["crates/bevy_state/macros/src/states.rs", "crates/bevy_state/src/lib.rs", "crates/bevy_state/src/state/freely_mutable_state.rs", "crates/bevy_state/src/state/resources.rs", "crates/bevy_state/src/state/state_set.rs", "crates/bevy_state/src/state/sub_states.rs", "crates/bevy_state/src/state/transitions.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/udp_to_kafka/src/main.rs", "examples/udp_to_kafka/utilities/src/env_var/mod.rs", "examples/udp_to_kafka/utilities/src/logger/mod.rs", "src/forwarder/mod.rs", "src/receiver/mod.rs", "src/statistics/mod.rs", "src/strategies/mod.rs"]

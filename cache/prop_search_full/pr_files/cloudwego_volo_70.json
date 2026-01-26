@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "examples/src/hello/grpc_server.rs", "volo-cli/src/init.rs", "volo-grpc/src/metadata/map.rs", "volo-thrift/src/codec/tt_header.rs"]

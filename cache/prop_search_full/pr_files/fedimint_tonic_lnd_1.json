@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "examples/getinfo.rs", "examples/getversion.rs", "examples/subscribe_invoices.rs", "src/error.rs", "src/lib.rs"]

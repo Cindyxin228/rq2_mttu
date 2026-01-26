@@ -1,0 +1,1 @@
+["src/formatters/assignment.rs", "src/formatters/block.rs", "src/formatters/expression.rs", "src/formatters/functions.rs", "src/formatters/general.rs", "src/formatters/luau.rs", "src/formatters/stmt.rs", "src/formatters/table.rs", "src/formatters/trivia.rs", "src/formatters/trivia_util.rs"]

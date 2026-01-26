@@ -1,0 +1,1 @@
+["integration-tests/test-repo/recipes/common.yml", "justfile", "process/drivers/buildah_driver.rs", "process/drivers/docker_driver.rs", "process/drivers/podman_driver.rs", "utils/src/secret.rs"]

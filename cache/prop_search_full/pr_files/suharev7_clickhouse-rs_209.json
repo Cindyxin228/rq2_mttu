@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.toml", "examples/simple.rs", "extras/ci/generate_certs.sh", "extras/ci/overrides.xml", "src/connecting_stream.rs", "src/errors/mod.rs", "src/io/stream.rs", "src/lib.rs", "src/pool/mod.rs", "src/types/options.rs", "tests/clickhouse.rs"]

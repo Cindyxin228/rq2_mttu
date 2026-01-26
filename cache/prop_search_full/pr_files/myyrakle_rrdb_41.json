@@ -1,0 +1,1 @@
+["src/lib/ast/other/mod.rs", "src/lib/ast/other/show_tables.rs", "src/lib/ast/types/statement.rs", "src/lib/executor/executor.rs", "src/lib/executor/implements/other/mod.rs", "src/lib/executor/implements/other/show_tables.rs", "src/lib/lexer/tokenizer.rs", "src/lib/lexer/tokens.rs", "src/lib/parser/implements/other/show.rs", "src/lib/parser/test/other.rs"]

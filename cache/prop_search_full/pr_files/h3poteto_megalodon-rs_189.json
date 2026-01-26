@@ -1,0 +1,1 @@
+["examples/firefish_notifications.rs", "src/detector.rs", "src/entities/notification.rs", "src/entities/reaction.rs", "src/firefish/entities/notification.rs", "src/firefish/entities/reaction.rs", "src/friendica/entities/notification.rs", "src/mastodon/entities/notification.rs", "src/pleroma/entities/notification.rs", "src/pleroma/entities/reaction.rs"]

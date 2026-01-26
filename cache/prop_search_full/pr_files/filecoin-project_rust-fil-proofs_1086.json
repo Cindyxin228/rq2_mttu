@@ -1,0 +1,1 @@
+[".circleci/config.yml", "storage-proofs/core/src/hasher/poseidon.rs", "storage-proofs/core/src/hasher/sha256.rs", "storage-proofs/core/src/merkle/tree.rs", "storage-proofs/core/src/parameter_cache.rs"]

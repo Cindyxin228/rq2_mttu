@@ -1,0 +1,1 @@
+["docs/src/getting-started/installation.md", "src/main.rs", "src/registry/artifactory.rs", "tests/cmd/login/mod.rs", "tests/cmd/login/out/$HOME/.buffrs/credentials.toml", "tests/cmd/logout/in/$HOME/.buffrs/credentials.toml"]

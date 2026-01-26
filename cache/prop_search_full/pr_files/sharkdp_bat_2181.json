@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "assets/acknowledgements.bin", "assets/syntaxes.bin", "assets/themes.bin", "src/assets.rs", "src/error.rs", "src/printer.rs", "tests/syntax-tests/highlighted/Svelte/App.svelte", "tests/syntax-tests/highlighted/Vue/example.vue", "tests/syntax-tests/source/Svelte/App.svelte", "tests/syntax-tests/source/Vue/example.vue"]

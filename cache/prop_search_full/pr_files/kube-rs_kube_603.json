@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "kube-core/Cargo.toml", "kube-core/README.md", "kube-core/src/dynamic.rs", "kube-core/src/params.rs", "kube-core/src/watch.rs", "kube-derive/Cargo.toml", "kube-derive/README.md", "kube-derive/src/lib.rs", "kube-runtime/Cargo.toml", "kube/Cargo.toml", "kube/src/config/mod.rs", "kube/src/discovery/mod.rs", "prerelease.sh", "tests/README.md"]

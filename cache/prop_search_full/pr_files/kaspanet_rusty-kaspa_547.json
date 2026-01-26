@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rpc/grpc/client/Cargo.toml", "rpc/grpc/server/Cargo.toml", "rpc/wrpc/client/Cargo.toml", "rpc/wrpc/server/Cargo.toml", "rpc/wrpc/wasm/Cargo.toml", "simpa/Cargo.toml", "wallet/wasm/Cargo.toml"]

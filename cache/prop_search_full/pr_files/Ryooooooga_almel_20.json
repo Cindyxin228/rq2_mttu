@@ -1,0 +1,1 @@
+[".github/workflows/rust.yaml", "src/prompt.rs", "src/segments/directory.rs", "src/segments/git_repo.rs", "src/segments/time.rs", "src/segments/user.rs", "src/shell.rs"]

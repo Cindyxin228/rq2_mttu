@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/app.rs", "src/command.rs", "src/leptos_extra/signal.rs", "src/nix/config.rs", "src/nix/flake/mod.rs", "src/nix/flake/outputs.rs", "src/nix/flake/schema.rs", "src/nix/flake/show.rs", "src/nix/flake/system.rs", "src/nix/flake/url.rs", "src/widget.rs"]

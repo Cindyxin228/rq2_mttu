@@ -1,0 +1,1 @@
+["packages/yew/src/dom_bundle/bnode.rs", "packages/yew/src/dom_bundle/braw.rs", "packages/yew/src/virtual_dom/mod.rs", "packages/yew/src/virtual_dom/vraw.rs", "packages/yew/tests/hydration.rs"]

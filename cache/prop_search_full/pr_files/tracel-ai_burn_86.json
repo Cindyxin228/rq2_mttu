@@ -1,0 +1,1 @@
+["burn/Cargo.toml", "burn/src/train/checkpoint/file.rs", "burn/src/train/learner/builder.rs", "burn/src/train/learner/log.rs", "burn/src/train/learner/mod.rs", "burn/src/train/learner/train_val.rs"]

@@ -1,0 +1,1 @@
+["crates/rattler/src/install/apple_codesign.rs", "crates/rattler/src/install/link.rs", "crates/rattler/src/install/mod.rs", "crates/rattler/src/lib.rs", "crates/rattler/src/package_cache.rs", "crates/rattler/src/validation.rs", "crates/rattler_macros/src/lib.rs"]

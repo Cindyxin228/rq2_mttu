@@ -1,0 +1,1 @@
+["sqlx-core/src/migrate/error.rs", "sqlx-mysql/src/migrate.rs", "sqlx-postgres/src/migrate.rs", "sqlx-sqlite/src/migrate.rs"]

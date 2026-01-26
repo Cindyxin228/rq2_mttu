@@ -1,0 +1,1 @@
+["scylla-proxy/Cargo.toml", "scylla-proxy/src/actions.rs", "scylla-proxy/src/proxy.rs", "scylla/tests/integration/consistency.rs", "scylla/tests/integration/shards.rs"]

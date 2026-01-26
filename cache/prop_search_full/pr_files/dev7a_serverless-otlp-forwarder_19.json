@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "packages/rust/lambda-otel-utils/Cargo.toml", "packages/rust/lambda-otel-utils/src/lib.rs", "packages/rust/otlp-sigv4-client/Cargo.toml", "packages/rust/otlp-sigv4-client/src/lib.rs", "packages/rust/otlp-stdout-client/Cargo.toml", "packages/rust/otlp-stdout-client/src/lib.rs"]

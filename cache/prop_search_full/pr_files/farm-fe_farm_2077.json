@@ -1,0 +1,1 @@
+["packages/core/src/config/index.ts", "packages/core/src/index.ts", "packages/core/src/plugin/index.ts", "packages/core/src/plugin/type.ts", "packages/core/src/server/hmr-engine.ts", "packages/core/src/server/middlewares/lazyCompilation.ts", "packages/core/src/utils/logger.ts", "packages/core/src/utils/share.ts", "packages/core/src/watcher/index.ts"]

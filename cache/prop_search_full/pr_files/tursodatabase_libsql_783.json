@@ -1,0 +1,1 @@
+["Cargo.lock", "bottomless/src/replicator.rs", "libsql-sqlite3/test/rust_suite/src/alter_column.rs", "libsql-sqlite3/test/rust_suite/src/virtual_wal.rs", "libsql/Cargo.toml", "libsql/assets/test/snapshot.snap", "libsql/src/replication/local_client.rs"]

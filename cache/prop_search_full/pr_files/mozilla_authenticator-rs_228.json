@@ -1,0 +1,1 @@
+["src/consts.rs", "src/statemachine.rs", "src/transport/device_selector.rs", "src/transport/hid.rs", "src/transport/mod.rs"]

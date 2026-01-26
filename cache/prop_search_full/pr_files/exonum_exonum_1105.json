@@ -1,0 +1,1 @@
+["components/build/Cargo.toml", "components/crypto/Cargo.toml", "components/derive/Cargo.toml", "examples/cryptocurrency-advanced/backend/Cargo.toml", "examples/cryptocurrency/Cargo.toml", "examples/timestamping/backend/Cargo.toml", "exonum/Cargo.toml", "services/configuration/Cargo.toml", "services/time/Cargo.toml", "testkit/Cargo.toml", "testkit/server/Cargo.toml"]

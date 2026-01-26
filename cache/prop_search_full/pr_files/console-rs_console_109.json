@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "benches/ansi_parser.rs", "src/ansi.rs", "tests/data/sample_zellij_session.log"]

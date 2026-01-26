@@ -1,0 +1,1 @@
+["rustfmt.toml", "src/client.rs", "src/crypto.rs", "src/format_hex.rs", "src/interchange/cjson/mod.rs", "src/interchange/cjson/shims.rs", "src/metadata.rs", "src/repository.rs", "src/tuf.rs", "tests/integration.rs", "tests/simple_example.rs"]

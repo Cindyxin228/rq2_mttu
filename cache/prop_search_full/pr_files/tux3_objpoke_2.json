@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "objpoke-cli/Cargo.toml", "objpoke-cli/src/main.rs", "objpoke/Cargo.toml", "objpoke/src/elf.rs", "objpoke/src/elf/reloc.rs", "objpoke/src/elf/symtab.rs", "objpoke/src/lib.rs"]

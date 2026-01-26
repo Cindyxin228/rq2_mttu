@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "Makefile.toml", "golem-client/Cargo.toml", "golem-client/src/lib.rs", "golem-test-framework/src/components/worker_service/forwarding.rs", "golem-worker-executor-base/src/services/worker_event.rs", "golem-worker-executor-base/tests/api.rs", "golem-worker-executor-base/tests/wasi.rs", "integration-tests/tests/worker.rs"]

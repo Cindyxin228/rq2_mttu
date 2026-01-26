@@ -1,0 +1,1 @@
+["datafusion/optimizer/src/lib.rs", "datafusion/optimizer/src/optimizer.rs", "datafusion/optimizer/src/simplify_expressions/simplify_exprs.rs", "datafusion/optimizer/src/utils.rs"]

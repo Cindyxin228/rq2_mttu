@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/extension-manifest-schema.json", "e2e/tests-dfx/extension.bash", "src/dfx-core/src/error/extension.rs", "src/dfx-core/src/extension/manager/install.rs", "src/dfx-core/src/extension/manifest/extension.rs", "src/dfx-core/src/extension/url.rs", "src/dfx/src/commands/extension/install.rs"]

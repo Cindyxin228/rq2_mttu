@@ -1,0 +1,1 @@
+["lib/backend-api/schema.graphql", "lib/backend-api/src/types.rs", "lib/cli/src/commands/run/mod.rs", "lib/cli/src/commands/run/wasi.rs", "lib/wasix/src/http/web_http_client.rs", "lib/wasix/src/runtime/mod.rs", "lib/wasix/src/runtime/resolver/backend_source.rs", "lib/wasix/src/runtime/resolver/mod.rs"]

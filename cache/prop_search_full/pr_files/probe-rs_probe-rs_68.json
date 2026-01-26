@@ -1,0 +1,1 @@
+["cargo-flash/src/main.rs", "cli/src/common.rs", "probe-rs-targets/src/lib.rs", "probe-rs/src/probe/flash/download.rs", "probe-rs/src/target/info.rs", "probe-rs/src/target/mod.rs"]

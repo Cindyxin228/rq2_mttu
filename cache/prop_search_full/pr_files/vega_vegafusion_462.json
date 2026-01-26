@@ -1,0 +1,1 @@
+["vegafusion-core/src/spec/transform/aggregate.rs", "vegafusion-core/src/spec/transform/fold.rs", "vegafusion-core/src/spec/transform/pivot.rs", "vegafusion-runtime/tests/specs/custom/facet_dots_sort_datum.comm_plan.json", "vegafusion-runtime/tests/specs/custom/facet_dots_sort_datum.vg.json", "vegafusion-runtime/tests/test_image_comparison.rs"]

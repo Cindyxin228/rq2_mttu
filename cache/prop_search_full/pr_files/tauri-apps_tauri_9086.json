@@ -1,0 +1,1 @@
+[".changes/strict-csp-isolation-frame.md", "core/tauri-codegen/src/context.rs", "core/tauri-utils/src/html.rs", "core/tauri/scripts/isolation.js", "core/tauri/src/manager/mod.rs", "core/tauri/src/manager/webview.rs", "core/tauri/src/protocol/isolation.rs", "tooling/cli/src/migrate/config.rs"]

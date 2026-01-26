@@ -1,0 +1,1 @@
+["src/base/charstr.rs", "src/base/header.rs", "src/base/iana/macros.rs", "src/base/name/builder.rs", "src/base/name/chain.rs", "src/base/name/dname.rs", "src/base/name/label.rs", "src/base/name/parsed.rs", "src/base/name/relative.rs", "src/base/name/uncertain.rs", "src/base/rdata.rs", "src/base/scan.rs", "src/base/serial.rs", "src/rdata/dnssec.rs", "src/rdata/nsec3.rs"]

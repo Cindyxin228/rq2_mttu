@@ -1,0 +1,1 @@
+["crates/next_version/src/lib.rs", "crates/next_version/src/next_version.rs", "crates/next_version/src/version_increment.rs", "crates/next_version/tests/all/main.rs", "crates/next_version/tests/all/normal.rs", "crates/next_version/tests/all/pre_release.rs"]

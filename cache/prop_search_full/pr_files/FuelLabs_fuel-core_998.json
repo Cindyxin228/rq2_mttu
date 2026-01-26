@@ -1,0 +1,1 @@
+["bin/fuel-core/src/cli/run/p2p.rs", "crates/services/p2p/src/config.rs", "crates/services/p2p/src/heartbeat/handler.rs", "crates/services/p2p/src/lib.rs", "crates/services/p2p/src/peer_manager.rs"]

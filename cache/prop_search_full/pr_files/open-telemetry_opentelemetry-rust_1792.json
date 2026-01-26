@@ -1,0 +1,1 @@
+["Cargo.toml", "opentelemetry-sdk/src/metrics/data/mod.rs", "opentelemetry-sdk/src/metrics/internal/aggregate.rs", "opentelemetry-sdk/src/metrics/internal/histogram.rs", "opentelemetry-sdk/src/metrics/internal/last_value.rs", "opentelemetry-sdk/src/metrics/internal/sum.rs", "opentelemetry-sdk/src/metrics/mod.rs", "opentelemetry-stdout/src/metrics/transform.rs", "scripts/lint.sh"]

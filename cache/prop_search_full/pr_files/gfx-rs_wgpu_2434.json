@@ -1,0 +1,1 @@
+["wgpu-core/src/instance.rs", "wgpu-hal/Cargo.toml", "wgpu-hal/src/dx12/adapter.rs", "wgpu-hal/src/dx12/instance.rs", "wgpu-hal/src/dx12/mod.rs", "wgpu/src/backend/direct.rs", "wgpu/src/lib.rs"]

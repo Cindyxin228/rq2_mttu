@@ -1,0 +1,1 @@
+["tests/by-util/test_expr.rs", "tests/by-util/test_hashsum.rs", "tests/by-util/test_ls.rs", "tests/by-util/test_shuf.rs", "tests/by-util/test_tail.rs", "tests/by-util/test_unexpand.rs", "tests/by-util/test_wc.rs", "tests/common/util.rs", "tests/test_util_name.rs"]

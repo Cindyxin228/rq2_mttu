@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/napi/js_native_api.rs", "core/Cargo.toml", "core/ops_builtin_v8.rs", "core/runtime.rs", "ext/web/lib.rs", "serde_v8/Cargo.toml", "serde_v8/magic/detached_buffer.rs"]

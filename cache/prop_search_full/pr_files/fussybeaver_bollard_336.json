@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "codegen/proto/Cargo.toml", "codegen/swagger/Cargo.toml", "codegen/swagger/README.md", "codegen/swagger/pom.xml", "codegen/swagger/src/main/resources/bollard/Cargo.mustache", "src/docker.rs", "src/lib.rs"]

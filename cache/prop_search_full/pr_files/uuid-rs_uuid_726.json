@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "examples/Cargo.toml", "examples/src/random_uuid.rs", "examples/src/sortable_uuid.rs", "examples/src/uuid_macro.rs", "examples/src/windows_guid.rs"]

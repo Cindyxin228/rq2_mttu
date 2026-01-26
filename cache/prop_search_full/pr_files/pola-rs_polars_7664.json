@@ -1,0 +1,1 @@
+["polars/polars-time/src/groupby/dynamic.rs", "polars/polars-time/src/windows/groupby.rs", "polars/polars-time/src/windows/test.rs", "py-polars/tests/unit/operations/test_groupby.py"]

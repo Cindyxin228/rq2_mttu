@@ -1,0 +1,1 @@
+["Cargo.lock", "blockchain/chain/Cargo.toml", "blockchain/chain/src/store/base_fee.rs", "node/rpc/src/gas_api.rs", "types/src/lib.rs", "vm/message/Cargo.toml", "vm/message/src/chain_message.rs", "vm/message/src/lib.rs", "vm/message/src/signed_message.rs", "vm/message/src/unsigned_message.rs"]

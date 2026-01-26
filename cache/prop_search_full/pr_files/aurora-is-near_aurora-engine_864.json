@@ -1,0 +1,1 @@
+["engine-precompiles/src/xcc.rs", "engine-standalone-storage/src/sync/mod.rs", "engine-standalone-storage/src/sync/types.rs", "engine-types/src/parameters/xcc.rs", "engine/src/contract_methods/evm_transactions.rs", "engine/src/contract_methods/xcc.rs", "engine/src/lib.rs", "engine/src/xcc.rs"]

@@ -1,0 +1,1 @@
+["aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/IntegrationTestDependencies.kt", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/SdkSettings.kt", "aws/sdk/build.gradle.kts", "codegen/src/main/kotlin/software/amazon/smithy/rust/codegen/smithy/RustSettings.kt"]

@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/pod_portforward.rs", "examples/pod_portforward_bind.rs", "examples/pod_portforward_hyper_http.rs", "kube-client/src/api/mod.rs", "kube-client/src/api/portforward.rs", "kube-client/src/api/subresource.rs", "kube-core/src/subresource.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/fuzzer_binaries.yml", "chain/jsonrpc/fuzz/Cargo.toml", "chain/jsonrpc/fuzz/fuzz_targets_disabled/fuzz_target_1.rs", "nightly/fuzz.toml", "runtime/near-test-contracts/src/lib.rs", "scripts/build_fuzzers.py", "test-utils/runtime-tester/fuzz/Cargo.toml", "test-utils/runtime-tester/fuzz/fuzz_targets_disabled/runtime_fuzzer.rs"]

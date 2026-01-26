@@ -1,0 +1,1 @@
+["examples/weather.rs", "tests/tests/integration_tests.rs", "types/src/client.rs", "types/src/traits.rs", "ws-client/src/client.rs", "ws-client/src/tests.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "examples/get_streams_and_chatters.rs", "src/eventsub/mod.rs", "src/helix/client_ext.rs", "src/helix/eventsub/create_eventsub_subscription.rs", "src/pubsub/hypetrain.rs", "src/tmi/mod.rs"]

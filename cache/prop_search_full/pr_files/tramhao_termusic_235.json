@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/src/track.rs", "playback/src/gstreamer_backend.rs", "playback/src/lib.rs", "playback/src/mpv_backend/mod.rs", "playback/src/rusty_backend/mod.rs", "stream/Cargo.toml", "stream/src/lib.rs"]

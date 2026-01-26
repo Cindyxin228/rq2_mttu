@@ -1,0 +1,1 @@
+["wgpu-core/src/command/compute.rs", "wgpu-core/src/command/draw.rs", "wgpu-core/src/device/mod.rs"]

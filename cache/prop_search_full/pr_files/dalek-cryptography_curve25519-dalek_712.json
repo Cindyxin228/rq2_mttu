@@ -1,0 +1,1 @@
+["ed25519-dalek/src/signing.rs", "ed25519-dalek/src/verifying.rs", "ed25519-dalek/tests/pkcs8.rs"]

@@ -1,0 +1,1 @@
+["e2e/test_poetry", "schema/settings.json", "src/cli/settings/ls.rs", "src/cli/settings/set.rs", "src/cli/settings/unset.rs", "src/config/settings.rs", "src/http.rs", "src/plugins/core/mod.rs", "src/plugins/core/python.rs", "src/plugins/external_plugin.rs"]

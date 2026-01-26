@@ -1,0 +1,1 @@
+["src/main.rs", "src/steps/generic.rs", "src/steps/git.rs", "src/steps/go.rs", "src/steps/os/dragonfly.rs", "src/steps/os/freebsd.rs", "src/steps/os/linux.rs", "src/steps/os/macos.rs", "src/steps/os/openbsd.rs", "src/steps/os/unix.rs", "src/steps/os/windows.rs", "src/steps/tmux.rs", "src/steps/vim.rs", "src/steps/zsh.rs"]

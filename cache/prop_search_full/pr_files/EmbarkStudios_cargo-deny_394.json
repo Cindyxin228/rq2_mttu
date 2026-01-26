@@ -1,0 +1,1 @@
+["examples/01_allow_license/Cargo.lock", "examples/01_allow_license/Cargo.toml", "examples/01_allow_license/deny.toml", "examples/shared/Cargo.lock", "examples/shared/Cargo.toml", "examples/shared/README.md", "examples/shared/deny.toml", "examples/shared/lib.rs", "src/licenses.rs"]

@@ -1,0 +1,1 @@
+["bindings/c/cbindgen.toml", "bindings/c/examples/windows/hello_world.c", "bindings/c/src/common.rs", "bindings/c/src/macos.rs", "bindings/c/src/unix.rs", "bindings/c/src/windows.rs"]

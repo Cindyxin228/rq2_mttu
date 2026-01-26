@@ -1,0 +1,1 @@
+["Cargo.lock", "substrate/client/cli/Cargo.toml", "substrate/client/telemetry/Cargo.toml", "substrate/client/tracing/Cargo.toml", "substrate/utils/frame/generate-bags/Cargo.toml"]

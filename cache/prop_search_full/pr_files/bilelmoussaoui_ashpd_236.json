@@ -1,0 +1,1 @@
+[".github/workflows/demo-ci.yml", "src/backend/file_chooser.rs", "src/desktop/clipboard.rs", "src/desktop/device.rs", "src/desktop/request.rs", "src/lib.rs", "src/proxy.rs", "src/window_identifier/mod.rs"]

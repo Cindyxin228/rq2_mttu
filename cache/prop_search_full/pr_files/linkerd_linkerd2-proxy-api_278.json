@@ -1,0 +1,1 @@
+["go.mod", "go.sum", "go/destination/destination.pb.go", "go/grpc_route/grpc_route.pb.go", "go/http_route/http_route.pb.go", "go/http_types/http_types.pb.go", "go/identity/identity.pb.go", "go/inbound/inbound.pb.go", "go/meta/meta.pb.go", "go/net/net.pb.go", "go/outbound/outbound.pb.go", "go/tap/tap.pb.go"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "rustfmt.toml", "sentry-slog/Cargo.toml", "sentry-slog/src/converters.rs", "sentry-slog/src/drain.rs", "sentry-slog/src/integration.rs", "sentry-slog/src/lib.rs"]

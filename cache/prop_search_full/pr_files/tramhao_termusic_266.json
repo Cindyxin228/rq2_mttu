@@ -1,0 +1,1 @@
+["playback/Cargo.toml", "playback/src/gstreamer_backend.rs", "playback/src/lib.rs", "playback/src/mpv_backend.rs", "playback/src/rusty_backend/mod.rs", "server/src/server.rs", "tui/src/ui/components/lyric.rs", "tui/src/ui/mod.rs"]

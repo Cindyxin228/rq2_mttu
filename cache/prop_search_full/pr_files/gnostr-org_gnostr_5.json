@@ -1,0 +1,1 @@
+[".github/workflows/ghcr.io.yml", ".github/workflows/matrix.yml", ".justfile", "Cargo.lock", "Cargo.toml", "Makefile", "make_just.sh", "src/bin/fetch_by_id.rs", "src/bin/gnostr-fetch-by-id-with-login.rs", "src/bin/gnostr-fetch-by-id.rs", "src/lib/internal.rs", "src/lib/mod.rs", "src/lib/sub_commands/note.rs", "types/Cargo.toml"]

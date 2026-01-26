@@ -1,0 +1,1 @@
+["src/client/bridge/gateway/shard_messenger.rs", "src/gateway/shard.rs", "src/http/client.rs", "src/model/guild/guild_id.rs", "src/model/guild/member.rs", "src/model/guild/mod.rs", "src/model/guild/partial_guild.rs", "src/model/interactions/application_command.rs", "src/model/interactions/modal.rs", "src/model/user.rs", "src/utils/colour.rs", "src/utils/message_builder.rs"]

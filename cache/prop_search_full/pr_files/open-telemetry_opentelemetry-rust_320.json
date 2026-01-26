@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/api/labels/encoder.rs", "src/api/metrics/noop.rs", "src/api/metrics/sdk_api.rs", "src/exporter/metrics/stdout.rs", "src/sdk/metrics/mod.rs"]

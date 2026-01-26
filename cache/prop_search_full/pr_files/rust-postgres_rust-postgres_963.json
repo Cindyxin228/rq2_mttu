@@ -1,0 +1,1 @@
+["codegen/src/errcodes.txt", "codegen/src/pg_range.dat", "codegen/src/pg_type.dat", "codegen/src/type_gen.rs", "postgres-types/src/lib.rs", "postgres-types/src/type_gen.rs", "tokio-postgres/src/error/sqlstate.rs"]

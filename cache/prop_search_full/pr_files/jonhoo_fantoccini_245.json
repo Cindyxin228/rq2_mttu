@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "ci/windows-latest-chrome.ps1", "ci/windows-latest-firefox.ps1", "src/client.rs", "src/error.rs", "src/lib.rs", "src/session.rs", "src/wait.rs", "tests/actions.rs", "tests/alert.rs", "tests/common.rs", "tests/elements.rs", "tests/local.rs", "tests/remote.rs"]

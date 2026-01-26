@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lib.rs", "src/publishers/googlepubsub.rs", "src/publishers/mock.rs", "src/sink.rs"]

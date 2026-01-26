@@ -1,0 +1,1 @@
+["crates/polars-core/src/config.rs", "crates/polars-io/src/parquet/async_impl.rs", "crates/polars-lazy/src/physical_plan/executors/scan/parquet.rs"]

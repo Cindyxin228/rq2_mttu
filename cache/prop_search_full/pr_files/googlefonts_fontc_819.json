@@ -1,0 +1,1 @@
+["Cargo.toml", "glyphs-reader/Cargo.toml", "glyphs-reader/README.md", "glyphs-reader/ascii_plist_derive/Cargo.toml", "glyphs-reader/ascii_plist_derive/README.md", "glyphs-reader/ascii_plist_derive/src/attrs.rs", "glyphs-reader/ascii_plist_derive/src/lib.rs", "glyphs-reader/src/font.rs", "glyphs-reader/src/plist.rs", "layout-normalizer/Cargo.toml"]

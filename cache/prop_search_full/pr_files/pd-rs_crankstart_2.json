@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "crankstart-sys/src/bindings_macos_aarch64.rs", "crankstart-sys/src/bindings_macos_x86.rs", "crankstart-sys/src/bindings_playdate.rs", "crankstart-sys/src/lib.rs", "examples/hello_world.rs", "examples/sprite_game.rs", "scripts/generate_bindings.sh", "src/display.rs", "src/file.rs", "src/graphics.rs", "src/lib.rs", "src/sprite.rs", "src/system.rs"]

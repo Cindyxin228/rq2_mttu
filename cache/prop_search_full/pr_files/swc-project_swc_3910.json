@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/fastmem/Cargo.toml", "crates/fastmem/src/fast_drop.rs", "crates/fastmem/src/lib.rs", "crates/swc_ecma_parser/scripts/instrument.sh", "crates/swc_node_base/Cargo.toml"]

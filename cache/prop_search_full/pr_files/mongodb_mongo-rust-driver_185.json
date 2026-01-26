@@ -1,0 +1,1 @@
+["src/client/auth/scram.rs", "src/client/auth/test.rs", "src/options.rs", "src/test/client.rs", "src/test/spec/auth.rs", "src/test/util/matchable.rs", "src/test/util/mod.rs"]

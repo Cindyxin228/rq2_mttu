@@ -1,0 +1,1 @@
+["crates/mockcore/src/server.rs", "src/subcommand/wallet.rs", "src/subcommand/wallet/addresses.rs", "tests/wallet.rs", "tests/wallet/addresses.rs", "tests/wallet/outputs.rs"]

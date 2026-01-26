@@ -1,0 +1,1 @@
+["crates/db_views/src/comment_report_view.rs", "crates/db_views/src/post_report_view.rs", "migrations/2021-11-23-031528_add_report_published_index/down.sql", "migrations/2021-11-23-031528_add_report_published_index/up.sql"]

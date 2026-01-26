@@ -1,0 +1,1 @@
+["crates/matrix-sdk-appservice/src/lib.rs", "crates/matrix-sdk-base/src/client.rs", "crates/matrix-sdk-base/src/rooms/mod.rs", "crates/matrix-sdk-base/src/rooms/normal.rs", "crates/matrix-sdk-base/src/store/memory_store.rs"]

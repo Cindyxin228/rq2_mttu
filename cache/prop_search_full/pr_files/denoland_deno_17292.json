@@ -1,0 +1,1 @@
+["cli/args/config_file.rs", "cli/args/flags.rs", "cli/args/mod.rs", "cli/schemas/config-file.v1.json", "cli/tests/testdata/fmt/with_config/deno.jsonc", "cli/tests/testdata/fmt/with_config/subdir/a.ts", "cli/tests/testdata/run/with_config/auto_discovery_log.out", "cli/tools/fmt.rs"]

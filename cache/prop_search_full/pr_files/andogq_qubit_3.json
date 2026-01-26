@@ -1,0 +1,1 @@
+["crates/qubit-macros/src/lib.rs", "examples/counter/bindings.ts", "examples/counter/src/main.rs", "packages/client/package.json", "packages/client/src/client.ts", "packages/client/src/stream.ts", "src/builder/ty/dependencies.rs", "src/server/router.rs"]

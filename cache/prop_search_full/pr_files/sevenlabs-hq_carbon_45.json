@@ -1,0 +1,1 @@
+["crates/core/src/account.rs", "crates/core/src/account_deletion.rs", "crates/core/src/deserialize.rs", "crates/core/src/instruction.rs", "crates/core/src/pipeline.rs", "crates/core/src/schema.rs", "crates/core/src/transaction.rs", "crates/core/src/transformers.rs", "crates/macros/src/collection.rs", "crates/macros/src/lib.rs"]

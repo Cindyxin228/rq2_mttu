@@ -1,0 +1,1 @@
+["consensus/core/src/config/params.rs", "consensus/src/model/stores/relations.rs", "consensus/src/pipeline/pruning_processor/processor.rs", "consensus/src/processes/relations.rs", "mining/src/block_template/selector.rs", "mining/src/mempool/model/pool.rs", "mining/src/model/topological_index.rs"]

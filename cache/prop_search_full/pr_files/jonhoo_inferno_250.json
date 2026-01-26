@@ -1,0 +1,1 @@
+["src/bin/collapse-dtrace.rs", "src/collapse/common.rs", "src/collapse/mod.rs", "src/differential/mod.rs", "src/flamegraph/color/mod.rs", "src/flamegraph/merge.rs", "src/flamegraph/svg.rs"]

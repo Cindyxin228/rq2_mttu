@@ -1,0 +1,1 @@
+["esp-bootloader-esp-idf/src/fmt.rs", "esp-hal/src/fmt.rs", "esp-phy/src/fmt.rs", "esp-radio/src/fmt.rs", "esp-rtos/src/fmt.rs", "esp-rtos/src/scheduler.rs", "esp-rtos/src/task/mod.rs", "esp-sync/src/fmt.rs", "esp-sync/src/lib.rs"]

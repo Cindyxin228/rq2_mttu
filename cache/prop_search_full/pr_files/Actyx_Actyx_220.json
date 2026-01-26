@@ -1,0 +1,1 @@
+["protocols/json-schema/node-settings.schema.json", "rust/actyx/node/src/components/store.rs", "rust/actyx/node/src/formats/node_settings.rs", "rust/actyx/node/src/node.rs", "rust/actyx/node/tests/node-schema.rs", "rust/actyx/swarm/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/compression.rs", "src/config.rs", "src/crypt/ciphers.rs", "src/crypt/mod.rs", "src/db.rs", "src/hmac_block_stream.rs", "src/lib.rs", "src/parse/kdb.rs", "src/parse/kdbx3.rs", "src/parse/kdbx4.rs", "src/variant_dictionary.rs", "src/xml_parse.rs"]

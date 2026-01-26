@@ -1,0 +1,1 @@
+["Cargo.lock", "aead/Cargo.toml", "core/Cargo.toml", "deny.toml", "hybrid/Cargo.toml", "proto/src/codegen/google.crypto.tink.rs", "proto/src/codegen/serde/google.crypto.tink.rs", "scripts/check-format.sh", "signature/Cargo.toml", "signature/src/subtle/ed25519_verifier.rs", "streaming/Cargo.toml", "testing/src/codegen/tink_testing_api.rs", "tests/Cargo.toml"]

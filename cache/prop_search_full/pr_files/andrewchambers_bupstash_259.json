@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli-tests/cli-tests.bats", "doc/man/bupstash-put.1.md", "doc/upcoming_changelog.md", "src/compression.rs", "src/main.rs", "support/bench.sh", "support/shell.nix"]

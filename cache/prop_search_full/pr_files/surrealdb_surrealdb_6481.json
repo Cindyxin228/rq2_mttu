@@ -1,0 +1,1 @@
+["crates/core/src/dbs/iterator.rs", "crates/core/src/dbs/processor.rs", "crates/language-tests/tests/language/statements/select/with_subquery.surql", "crates/language-tests/tests/reproductions/6479_computed_field_with_destructuring.surql"]

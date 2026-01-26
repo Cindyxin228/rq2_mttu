@@ -1,0 +1,1 @@
+["examples/basic_async_std.rs", "examples/basic_smol.rs", "examples/basic_tokio.rs", "examples/basic_wasm_bindgen/src/lib.rs", "examples/crude_bench.rs", "examples/global_spawner_ext.rs", "examples/interleaved_messages.rs", "examples/message_stealing.rs", "src/address.rs", "src/lib.rs", "src/message_channel.rs", "tests/basic.rs"]

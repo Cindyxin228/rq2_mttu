@@ -1,0 +1,1 @@
+[".vscode/settings.json", "NEWS.md", "cli/tests/examples/tour.out", "cli/tests/repl/dir.out", "cli/tests/repl/help.out", "core/README.md", "core/src/ast.rs", "core/src/bytecode.rs", "core/src/compiler.rs", "core/src/exec.rs", "core/src/lexer.rs", "core/src/lib.rs", "core/src/parser.rs", "core/src/syms.rs", "repl/examples/tour.bas", "std/src/help.rs", "terminal/src/lib.rs"]

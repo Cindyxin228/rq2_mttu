@@ -1,0 +1,1 @@
+["packages/rspack/src/builtin-loader/swc/collectTypeScriptInfo.ts", "packages/rspack/src/builtin-loader/swc/pluginImport.ts", "packages/rspack/src/builtin-loader/swc/types.ts", "packages/rspack/src/builtin-plugin/html-plugin/options.ts", "packages/rspack/src/config/zod.ts", "packages/rspack/src/lib/DllReferencePlugin.ts"]

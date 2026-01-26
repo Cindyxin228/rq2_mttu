@@ -1,0 +1,1 @@
+["crates/test-programs/tests/wasm_tests/runtime/cap_std_sync.rs", "crates/wasi-common/src/ctx.rs"]

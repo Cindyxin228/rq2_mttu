@@ -1,0 +1,1 @@
+["Cargo.toml", "sshkey-attest/Cargo.toml", "sshkey-attest/src/lib.rs", "sshkey-attest/src/proto.rs", "webauthn-rs-core/Cargo.toml", "webauthn-rs-core/src/attestation.rs", "webauthn-rs-core/src/crypto.rs", "webauthn-rs-core/src/error.rs", "webauthn-rs-core/src/interface.rs", "webauthn-rs-core/src/internals.rs", "webauthn-rs-core/src/lib.rs", "webauthn-rs-proto/src/extensions.rs"]

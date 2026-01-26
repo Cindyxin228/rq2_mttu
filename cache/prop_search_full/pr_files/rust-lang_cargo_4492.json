@@ -1,0 +1,1 @@
+["src/bin/bench.rs", "src/bin/build.rs", "src/bin/check.rs", "src/bin/doc.rs", "src/bin/test.rs", "src/cargo/core/workspace.rs", "src/cargo/ops/cargo_compile.rs", "src/cargo/ops/cargo_doc.rs", "src/doc/manifest.md", "tests/workspaces.rs"]

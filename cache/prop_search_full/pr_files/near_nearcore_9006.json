@@ -1,0 +1,1 @@
+["core/store/src/test_utils.rs", "core/store/src/trie/mod.rs", "core/store/src/trie/split_state.rs", "core/store/src/trie/state_parts.rs", "core/store/src/trie/trie_storage.rs", "core/store/src/trie/trie_tests.rs"]

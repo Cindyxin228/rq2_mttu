@@ -1,0 +1,1 @@
+["man/zoxide-add.1", "man/zoxide-import.1", "man/zoxide-init.1", "man/zoxide-query.1", "man/zoxide-remove.1", "man/zoxide.1", "src/cmd/import.rs", "src/cmd/query.rs", "src/cmd/remove.rs"]

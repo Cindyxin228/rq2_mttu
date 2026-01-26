@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/dependabot.yml", ".github/workflows/ci.yml", "Cargo.toml", "README.md", "appveyor.yml", "ci/run.sh", "tests/message_test.rs"]

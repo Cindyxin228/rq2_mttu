@@ -1,0 +1,1 @@
+["cli/tests/integration/run_tests.rs", "cli/tests/testdata/classic_workers_event_loop.js", "cli/tests/testdata/classic_workers_event_loop.js.out", "runtime/ops/web_worker/sync_fetch.rs", "runtime/web_worker.rs", "tools/wpt/expectation.json"]

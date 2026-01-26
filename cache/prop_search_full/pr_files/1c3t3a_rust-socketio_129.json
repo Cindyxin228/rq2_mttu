@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CONTRIBUTING.md", "engineio/README.md", "engineio/src/lib.rs", "engineio/src/transports/websocket.rs", "engineio/src/transports/websocket_secure.rs", "socketio/src/client/builder.rs", "socketio/src/client/client.rs", "socketio/src/packet.rs"]

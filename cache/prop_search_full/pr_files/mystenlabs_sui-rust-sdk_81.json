@@ -1,0 +1,1 @@
+["crates/sui-crypto/Cargo.toml", "crates/sui-crypto/src/lib.rs", "crates/sui-crypto/src/multisig.rs", "crates/sui-crypto/src/passkey.rs", "crates/sui-sdk-types/src/types/crypto/passkey.rs"]

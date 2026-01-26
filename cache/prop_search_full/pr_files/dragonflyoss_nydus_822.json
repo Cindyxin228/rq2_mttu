@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/nydus-image/main.rs", "src/bin/nydusctl/main.rs", "src/bin/nydusd/main.rs", "src/bin/nydusd/service_controller.rs", "src/bin/nydusd/upgrade.rs"]

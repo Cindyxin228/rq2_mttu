@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "assets/manual/bat.1.in", "doc/README-ja.md", "doc/README-ko.md", "src/assets.rs", "src/bin/bat/app.rs", "src/bin/bat/clap_app.rs", "src/config.rs", "src/errors.rs", "src/syntax_mapping.rs"]

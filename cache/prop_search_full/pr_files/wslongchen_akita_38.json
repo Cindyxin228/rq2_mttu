@@ -1,0 +1,1 @@
+["Cargo.toml", "src/akita.rs", "src/database.rs", "src/fuse.rs", "src/manager.rs", "src/platform/sqlite.rs", "src/pool.rs", "src/wrapper.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "capi/bind_gen/src/typescript.ts", "capi/src/title_component_state.rs", "crates/livesplit-title-abbreviations/src/lib.rs", "src/component/title/mod.rs", "src/rendering/component/title.rs"]

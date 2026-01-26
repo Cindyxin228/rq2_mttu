@@ -1,0 +1,1 @@
+["Cargo.toml", "DragonflyBSD.toml", "FreeBSD.toml", "Fuchsia.toml", "Haiku.toml", "Linux.toml", "MacOS.toml", "NetBSD.toml", "OpenBSD.toml", "README.md", "Solaris.toml", "Unix.toml", "coreutils_core/src/os/tty.rs", "ls/Cargo.toml", "ls/build.rs", "ls/src/cli.rs", "ls/src/file.rs", "ls/src/flags.rs", "ls/src/main.rs", "ls/src/output.rs", "ls/src/table.rs"]

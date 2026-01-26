@@ -1,0 +1,1 @@
+["integration_tests/Cargo.toml", "integration_tests/tests/elastictranscoder.rs", "rusoto/core/Cargo.toml", "rusoto/signature/Cargo.toml"]

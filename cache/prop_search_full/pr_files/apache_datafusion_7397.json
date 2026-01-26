@@ -1,0 +1,1 @@
+["datafusion/expr/src/aggregate_function.rs", "datafusion/expr/src/type_coercion/aggregates.rs", "datafusion/physical-expr/src/aggregate/min_max.rs", "datafusion/sqllogictest/test_files/aggregate.slt"]

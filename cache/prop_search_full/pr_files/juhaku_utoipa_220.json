@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "src/openapi/content.rs", "src/openapi/encoding.rs", "src/openapi/request_body.rs", "src/openapi/response.rs", "src/openapi/schema.rs", "src/openapi/security.rs", "src/openapi/server.rs", "tests/utoipa_gen_test.rs"]

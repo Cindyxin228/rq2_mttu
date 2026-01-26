@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crypto_kx/Cargo.toml", "crypto_secretbox/Cargo.toml", "crypto_secretbox/tests/lib.rs", "crypto_secretbox/tests/xsalsa20poly1305.rs", "crypto_secretstream/Cargo.toml", "test-vector-gen/Cargo.toml", "test-vector-gen/src/crypto_kx.rs", "test-vector-gen/src/crypto_secretbox.rs", "test-vector-gen/src/crypto_secretstream.rs", "test-vector-gen/src/main.rs"]

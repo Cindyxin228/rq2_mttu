@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".gitignore", "platforms/Cargo.lock", "platforms/Cargo.toml", "platforms/arch/install.sh", "platforms/fedora/install.sh", "platforms/src/main.rs", "scripts/install.sh"]

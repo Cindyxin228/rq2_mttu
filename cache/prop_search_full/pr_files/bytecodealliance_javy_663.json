@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cli/Cargo.toml", "crates/cli/src/commands.rs", "crates/cli/src/main.rs", "supply-chain/audits.toml", "supply-chain/config.toml", "supply-chain/imports.lock"]

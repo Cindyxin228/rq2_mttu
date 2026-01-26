@@ -1,0 +1,1 @@
+["examples/parallel-prepared.rs", "scylla/src/statement/mod.rs", "scylla/src/statement/prepared_statement.rs", "scylla/src/transport/retry_policy.rs", "scylla/src/transport/speculative_execution.rs"]

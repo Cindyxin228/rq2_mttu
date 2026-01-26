@@ -1,0 +1,1 @@
+["crates/iceberg/src/arrow/reader.rs", "crates/iceberg/src/scan.rs", "crates/iceberg/src/spec/schema.rs", "crates/iceberg/src/table.rs"]

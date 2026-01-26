@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/error.rs", "src/scaffold/app.rs", "src/scaffold/app/manifests.rs", "src/scaffold/app/utils.rs", "src/scaffold/dna.rs", "src/scaffold/dna/coordinator.rs", "src/scaffold/dna/integrity.rs", "src/scaffold/dna/manifest.rs"]

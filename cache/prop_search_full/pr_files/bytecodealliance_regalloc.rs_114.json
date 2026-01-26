@@ -1,0 +1,1 @@
+["bin/minira.rs", "fuzz/fuzz_targets/lsra.rs", "lib/src/analysis_main.rs", "lib/src/linear_scan/analysis.rs", "lib/src/linear_scan/assign_registers.rs", "lib/src/linear_scan/mod.rs", "lib/src/linear_scan/resolve_moves.rs", "tests/lsra_fuzz_block_start_end.rat", "tests/lsra_invariant_incorrect.rat"]

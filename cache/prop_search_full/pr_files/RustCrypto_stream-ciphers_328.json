@@ -1,0 +1,1 @@
+["Cargo.lock", "salsa20/Cargo.toml", "salsa20/src/backends.rs", "salsa20/src/backends/soft.rs", "salsa20/src/backends/sse2.rs", "salsa20/src/lib.rs", "salsa20/src/xsalsa.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/platform_impl/macos/app_state.rs", "src/platform_impl/macos/event_loop.rs", "src/platform_impl/macos/menu.rs", "src/platform_impl/macos/mod.rs", "src/platform_impl/macos/util/mod.rs", "src/platform_impl/macos/view.rs", "src/platform_impl/macos/window.rs", "src/platform_impl/macos/window_delegate.rs"]

@@ -1,0 +1,1 @@
+["crates/lang/macro/tests/ui/fail/M-04-message-returns-non-codec.stderr", "crates/lang/macro/tests/ui/fail/S-04-non-storage-ink-impls.stderr"]

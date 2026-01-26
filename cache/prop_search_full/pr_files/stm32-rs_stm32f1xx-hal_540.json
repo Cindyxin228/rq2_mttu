@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/can-echo.rs", "examples/serial-dma-circ.rs", "examples/serial-dma-peek.rs", "examples/serial-fmt.rs", "examples/serial_9bits.rs", "examples/serial_config.rs", "examples/serial_reconfigure.rs", "examples/spi.rs", "src/afio.rs", "src/lib.rs", "src/serial.rs"]

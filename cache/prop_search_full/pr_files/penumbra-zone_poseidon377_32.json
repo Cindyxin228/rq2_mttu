@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "poseidon-consistency/Cargo.toml", "poseidon-consistency/benches/permutation.rs", "poseidon-consistency/src/lib.rs", "poseidon-paramgen/Cargo.toml", "poseidon-paramgen/src/lib.rs", "poseidon-permutation/Cargo.toml", "poseidon-permutation/src/permutation.rs", "poseidon377/Cargo.toml", "poseidon377/src/r1cs.rs"]

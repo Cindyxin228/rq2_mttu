@@ -1,0 +1,1 @@
+["src/server/commands/rmd.rs", "src/server/commands/rnto.rs", "src/storage/cloud_storage/mod.rs", "src/storage/filesystem.rs", "src/storage/mod.rs"]

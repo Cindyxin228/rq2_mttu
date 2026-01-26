@@ -1,0 +1,1 @@
+["R/opendp/R/accuracy.R", "R/opendp/R/combinators.R", "R/opendp/R/core.R", "R/opendp/R/data.R", "R/opendp/R/domains.R", "R/opendp/R/measurements.R", "R/opendp/R/measures.R", "R/opendp/R/metrics.R", "R/opendp/R/transformations.R", "R/opendp/_pkgdown.yml", "rust/opendp_tooling/src/codegen/r/r.rs"]

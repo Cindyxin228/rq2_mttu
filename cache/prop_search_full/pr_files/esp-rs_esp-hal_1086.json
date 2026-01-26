@@ -1,0 +1,1 @@
+["CHANGELOG.md", "esp-hal-common/src/dma/gdma.rs", "esp-hal-common/src/dma/mod.rs", "esp-hal-common/src/lcd_cam/cam.rs", "esp-hal-common/src/lcd_cam/lcd/i8080.rs", "esp-hal-common/src/lcd_cam/lcd/mod.rs", "esp-hal-common/src/lcd_cam/mod.rs", "esp-hal-common/src/lib.rs", "esp-hal-common/src/soc/esp32s3/gpio.rs", "esp-hal-common/src/system.rs", "esp32s3-hal/examples/lcd_i8080.rs"]

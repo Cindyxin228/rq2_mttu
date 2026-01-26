@@ -1,0 +1,1 @@
+["dev.bash", "mcfly.bash", "src/command_input.rs", "src/history/db_extensions.rs", "src/history/history.rs", "src/history/schema.rs", "src/history_cleaner.rs", "src/main.rs", "src/path_update_helpers.rs", "src/settings.rs", "src/shell_history.rs", "src/training_cache.rs"]

@@ -1,0 +1,1 @@
+["wgpu-core/src/device/global.rs", "wgpu-core/src/device/resource.rs", "wgpu-hal/src/dx12/device.rs", "wgpu-hal/src/dx12/mod.rs", "wgpu-hal/src/gles/device.rs", "wgpu-hal/src/lib.rs", "wgpu-hal/src/metal/device.rs", "wgpu-hal/src/vulkan/device.rs", "wgpu-types/src/features.rs", "wgpu-types/src/lib.rs", "wgpu/src/api/shader_module.rs"]

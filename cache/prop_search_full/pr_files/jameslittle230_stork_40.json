@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "scripts/generate_stats.py", "src/index_versions/v3/reader.rs", "src/index_versions/v3/search/mod.rs", "src/index_versions/v3/structs.rs", "src/index_versions/v3/writer.rs", "src/searcher/mod.rs", "test-assets/federalist-min-1.0.0.st"]

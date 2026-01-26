@@ -1,0 +1,1 @@
+["clients/cli/src/main.rs", "clients/cli/src/quarantine.rs", "program/src/error.rs", "program/src/instruction.rs", "program/src/processor.rs", "program/tests/accounts.rs", "program/tests/deposit.rs", "program/tests/helpers/mod.rs", "program/tests/helpers/stake.rs", "program/tests/initialize.rs", "program/tests/withdraw.rs"]

@@ -1,0 +1,1 @@
+["bindings/nostr-sdk-ffi/src/database.rs", "crates/nostr-database/src/index.rs", "crates/nostr-database/src/lib.rs", "crates/nostr-database/src/memory.rs", "crates/nostr-indexeddb/src/lib.rs", "crates/nostr-rocksdb/src/lib.rs", "crates/nostr-sqlite/src/lib.rs"]

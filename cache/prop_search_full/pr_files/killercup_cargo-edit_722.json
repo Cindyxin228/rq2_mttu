@@ -1,0 +1,1 @@
+["src/bin/upgrade/upgrade.rs", "src/crate_spec.rs", "src/dependency.rs", "src/errors.rs", "src/fetch.rs", "src/lib.rs", "src/manifest.rs", "tests/cmd/upgrade/alt_registry.out/Cargo.toml"]

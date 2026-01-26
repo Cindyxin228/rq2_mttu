@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/README.md", "examples/db_remember.rs", "examples/redis_remember.rs", "src/dispatching/dialogue/storage/mod.rs", "src/dispatching2/dialogue/mod.rs", "src/dispatching2/handler_ext.rs"]

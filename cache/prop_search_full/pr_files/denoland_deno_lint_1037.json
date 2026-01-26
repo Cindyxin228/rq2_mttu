@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/dlint/color.rs", "src/rules/no_deprecated_deno_api.rs", "src/rules/no_dupe_class_members.rs", "src/rules/no_window_prefix.rs", "src/swc_util.rs"]

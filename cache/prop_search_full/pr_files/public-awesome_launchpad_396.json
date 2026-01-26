@@ -1,0 +1,1 @@
+["contracts/vending-minter/schema/execute_msg.json", "contracts/vending-minter/src/contract.rs", "contracts/vending-minter/src/error.rs", "contracts/vending-minter/src/integration_tests.rs", "contracts/vending-minter/src/msg.rs"]

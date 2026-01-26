@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/mac/mach.rs", "src/mac/minidump_writer.rs", "src/mac/streams.rs", "src/mac/streams/thread_list.rs", "src/mac/streams/thread_names.rs", "src/mac/task_dumper.rs", "tests/mac_minidump_writer.rs"]

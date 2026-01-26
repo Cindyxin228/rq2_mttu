@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/clippy.yml", "CHANGELOG.md", "Cargo.toml", "examples/blinky-timer-irq.rs", "src/adc.rs", "src/crc32.rs", "src/dma/traits.rs", "src/dwt.rs", "src/qei.rs", "src/rcc/mod.rs", "src/rcc/pll.rs", "src/sdio.rs", "src/serial.rs", "src/timer.rs", "src/timer/pwm_input.rs"]

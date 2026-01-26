@@ -1,0 +1,1 @@
+["Cargo.toml", "Dockerfile", "Makefile", "README.md", "mdbook_rash/src/lib.rs", "rash_core/src/docopt/mod.rs", "rash_core/src/docopt/options.rs", "rash_core/src/modules/copy.rs", "rash_core/src/modules/file.rs", "rash_core/src/modules/find.rs", "rash_core/src/vars/env.rs"]

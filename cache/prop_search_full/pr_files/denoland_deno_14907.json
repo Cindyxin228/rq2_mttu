@@ -1,0 +1,1 @@
+["cli/tests/integration/fmt_tests.rs", "cli/tests/testdata/fmt/fmt_check_parse_error.out", "cli/tests/testdata/fmt/parse_error/parse_error.ts", "cli/tools/fmt.rs", "tools/lint.js"]

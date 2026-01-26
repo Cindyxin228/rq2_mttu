@@ -1,0 +1,1 @@
+["py-polars/polars/__init__.py", "py-polars/tests/io/test_excel.py", "py-polars/tests/unit/test_df.py", "py-polars/tests/unit/test_explode.py", "py-polars/tests/unit/test_groupby.py", "py-polars/tests/unit/test_rolling.py", "py-polars/tests/unit/test_serde.py", "py-polars/tests/unit/test_series.py"]

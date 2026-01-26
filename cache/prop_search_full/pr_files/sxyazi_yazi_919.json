@@ -1,0 +1,1 @@
+["Cargo.lock", "scripts/build.sh", "yazi-adaptor/Cargo.toml", "yazi-cli/Cargo.toml", "yazi-cli/build.rs", "yazi-config/Cargo.toml", "yazi-core/Cargo.toml", "yazi-core/src/manager/commands/rename.rs", "yazi-fm/Cargo.toml", "yazi-plugin/Cargo.toml", "yazi-shared/Cargo.toml"]

@@ -1,0 +1,1 @@
+["sdk/c/include/hedera.h", "sdk/rust/src/ffi/nft_id.rs", "sdk/rust/src/token/nft_id.rs", "sdk/swift/Sources/Hedera/NftId.swift", "sdk/swift/Tests/HederaTests/NftIdTests.swift"]

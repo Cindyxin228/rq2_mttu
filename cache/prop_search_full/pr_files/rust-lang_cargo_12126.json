@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "ci/validate-version-bump.sh", "crates/xtask-unpublished/src/xtask.rs"]

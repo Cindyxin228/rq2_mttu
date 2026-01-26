@@ -1,0 +1,1 @@
+[".github/workflows/hedwig.yml", "Cargo.toml", "examples/publish.rs", "src/google_publisher.rs", "src/lib.rs", "src/mock_publisher.rs", "src/null_publisher.rs", "src/publishers.rs", "src/publishers/googlepubsub.rs", "src/publishers/mock.rs", "src/publishers/null.rs", "src/tests.rs", "src/validators.rs", "src/validators/json_schema.rs", "src/validators/prost.rs"]

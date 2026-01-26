@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion-cli/Cargo.toml", "datafusion-cli/src/catalog.rs", "datafusion-cli/src/lib.rs", "datafusion-cli/src/main.rs", "datafusion/core/src/execution/context.rs"]

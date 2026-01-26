@@ -1,0 +1,1 @@
+["rust/client/src/app.rs", "rust/client/src/command.rs", "rust/shared/src/lib.rs", "rust/ws-server/src/main.rs", "rust/ws-server/src/redis/mod.rs", "rust/ws-server/src/wsserver.rs"]

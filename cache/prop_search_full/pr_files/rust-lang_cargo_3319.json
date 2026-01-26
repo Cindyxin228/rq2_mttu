@@ -1,0 +1,1 @@
+["src/cargo/core/manifest.rs", "src/cargo/ops/cargo_compile.rs", "src/cargo/ops/cargo_rustc/custom_build.rs", "src/cargo/ops/cargo_rustc/mod.rs", "src/cargo/util/machine_message.rs", "tests/build.rs"]

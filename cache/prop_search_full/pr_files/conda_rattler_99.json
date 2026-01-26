@@ -1,0 +1,1 @@
+["crates/rattler_solve/Cargo.toml", "crates/rattler_solve/src/lib.rs", "crates/rattler_solve/src/libsolv/input.rs", "crates/rattler_solve/src/libsolv/mod.rs", "crates/rattler_solve/src/libsolv/wrapper/mod.rs", "crates/rattler_solve/src/libsolv/wrapper/pool.rs", "crates/rattler_solve/src/libsolv/wrapper/repo.rs", "test-data/channels/dummy/linux-64/repodata.json"]

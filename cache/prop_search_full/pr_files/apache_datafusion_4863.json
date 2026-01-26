@@ -1,0 +1,1 @@
+["datafusion/sql/src/relation/join.rs", "datafusion/sql/tests/integration_test.rs"]

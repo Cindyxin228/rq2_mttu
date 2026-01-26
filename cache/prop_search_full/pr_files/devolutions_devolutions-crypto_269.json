@@ -1,0 +1,1 @@
+["devolutions-crypto/build.rs", "devolutions-crypto/src/ciphertext/mod.rs", "devolutions-crypto/src/utils.rs", "devolutions-crypto/tests/conformity.rs", "wrappers/csharp/nuget/dotnet-core/Devolutions.Crypto.Core.nuspec", "wrappers/csharp/version-managed.txt"]

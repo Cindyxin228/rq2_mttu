@@ -1,0 +1,1 @@
+["api/src/handlers/chain_api.rs", "api/src/types.rs", "api/src/web.rs", "core/src/libtx/proof.rs", "keychain/src/extkey_bip32.rs", "pool/src/pool.rs", "src/bin/tui/mining.rs", "store/src/leaf_set.rs", "store/src/types.rs", "util/src/file.rs"]

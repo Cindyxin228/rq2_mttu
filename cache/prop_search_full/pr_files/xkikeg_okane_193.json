@@ -1,0 +1,1 @@
+["cli/tests/test_cli_import.rs", "cli/tests/test_import_csv.rs", "cli/tests/test_import_iso_camt.rs", "cli/tests/test_import_viseca.rs", "cli/tests/testdata/csv_multi_currency.ledger", "cli/tests/testdata/csv_template.csv", "cli/tests/testdata/csv_template.ledger", "cli/tests/testdata/test_config.yml", "cli/tests/testing/mod.rs"]

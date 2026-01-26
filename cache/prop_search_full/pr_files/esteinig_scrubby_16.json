@@ -1,0 +1,1 @@
+[".github/workflows/rust-ci.yaml", ".pre-commit-config.yaml", "Cargo.toml", "README.md", "covdecov.yaml", "src/align.rs", "src/cli.rs", "src/kraken.rs", "src/main.rs", "src/scrub.rs", "src/utils.rs"]

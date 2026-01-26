@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cargo-pgrx/Cargo.toml", "pgrx-macros/Cargo.toml", "pgrx-pg-config/Cargo.toml", "pgrx-pg-sys/Cargo.toml", "pgrx-sql-entity-graph/Cargo.toml", "pgrx-tests/Cargo.toml", "pgrx-version-updater/Cargo.toml", "pgrx/Cargo.toml"]

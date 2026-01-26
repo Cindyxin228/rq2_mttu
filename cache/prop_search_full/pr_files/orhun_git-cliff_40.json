@@ -1,0 +1,1 @@
+[".github/fixtures/answer.md", ".github/fixtures/cliff.toml", ".github/workflows/test-fixtures.yml", "README.md", "config/cliff.toml", "examples/detailed.toml", "examples/keepachangelog.toml", "examples/scoped.toml", "examples/scopesorted.toml", "git-cliff-core/src/config.rs", "git-cliff-core/tests/integration_test.rs", "git-cliff/src/changelog.rs", "git-cliff/src/lib.rs"]

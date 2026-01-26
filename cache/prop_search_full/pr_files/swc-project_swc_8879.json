@@ -1,0 +1,1 @@
+["crates/swc/src/lib.rs", "crates/swc/tests/fixture/issues-8xxx/8869/input/.swcrc", "crates/swc/tests/fixture/issues-8xxx/8869/input/1.js", "crates/swc/tests/fixture/issues-8xxx/8869/output/1.js"]

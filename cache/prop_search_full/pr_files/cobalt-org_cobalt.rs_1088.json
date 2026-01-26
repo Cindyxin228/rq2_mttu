@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", ".github/workflows/rust-next.yml", "Cargo.lock", "Cargo.toml", "README.md", "crates/config/Cargo.toml", "crates/core/Cargo.toml", "crates/engarde/Cargo.toml", "crates/file-serve/Cargo.toml", "tests/cmd/errors.md"]

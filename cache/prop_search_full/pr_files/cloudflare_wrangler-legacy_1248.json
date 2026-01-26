@@ -1,0 +1,1 @@
+["src/commands/config/mod.rs", "src/commands/dev/mod.rs", "src/commands/preview/upload.rs", "src/commands/publish/mod.rs", "src/commands/whoami/mod.rs", "src/main.rs", "src/settings/global_user.rs", "src/settings/toml/manifest.rs", "src/terminal/mod.rs", "src/terminal/styles.rs"]

@@ -1,0 +1,1 @@
+["protobuf-codegen-identical-test/tests/diff.rs", "protobuf-codegen-pure/src/convert.rs", "protobuf-codegen-pure/src/parser.rs", "protobuf/src/text_format/lexer/float.rs", "protobuf/src/text_format/mod.rs", "protobuf/src/text_format/print.rs"]

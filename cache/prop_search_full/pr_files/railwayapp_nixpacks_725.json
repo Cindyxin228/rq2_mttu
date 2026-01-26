@@ -1,0 +1,1 @@
+["docs/pages/docs/providers/java.md", "src/providers/java.rs", "tests/snapshots/generate_plan_tests__java_gradle_hello_world.snap", "tests/snapshots/generate_plan_tests__java_maven.snap", "tests/snapshots/generate_plan_tests__java_maven_wrapper.snap", "tests/snapshots/generate_plan_tests__java_spring_boot.snap"]

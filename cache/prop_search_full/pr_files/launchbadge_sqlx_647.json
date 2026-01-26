@@ -1,0 +1,1 @@
+["sqlx-core/src/postgres/connection/establish.rs", "sqlx-core/src/postgres/options/mod.rs", "sqlx-core/src/postgres/options/parse.rs", "tests/postgres/postgres.rs"]

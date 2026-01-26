@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.rst", "config.toml.dist", "src/config.rs", "src/handlers/mod.rs", "src/handlers/oidc.rs", "src/main.rs", "src/middleware/headers.rs", "src/middleware/mod.rs", "src/serde_types.in.rs"]

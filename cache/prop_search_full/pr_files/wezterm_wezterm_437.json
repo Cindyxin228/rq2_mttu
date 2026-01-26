@@ -1,0 +1,1 @@
+["pty/src/lib.rs", "pty/src/serial.rs", "pty/src/ssh.rs", "pty/src/unix.rs", "pty/src/win/conpty.rs", "pty/src/win/mod.rs", "pty/src/win/psuedocon.rs"]

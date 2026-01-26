@@ -1,0 +1,1 @@
+["src/cloud.rs", "src/lib.rs", "src/network/base.rs", "src/network/mod.rs", "src/network/protocol.rs", "src/network/subnets.rs", "tests/integration-network-crud.rs"]

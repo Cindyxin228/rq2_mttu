@@ -1,0 +1,1 @@
+[".changes/fs-absolute-paths.md", ".changes/fs-scope-runtime.md", "core/tauri/src/endpoints/dialog.rs", "core/tauri/src/endpoints/file_system.rs", "core/tauri/src/manager.rs", "core/tauri/src/scope/fs.rs", "core/tauri/src/scope/mod.rs", "tooling/api/src/dialog.ts", "tooling/api/src/window.ts"]

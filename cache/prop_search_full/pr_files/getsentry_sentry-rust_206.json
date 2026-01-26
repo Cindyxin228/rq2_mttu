@@ -1,0 +1,1 @@
+["Cargo.toml", "Makefile", "sentry-core/Cargo.toml", "sentry-core/src/backtrace_support.rs", "sentry-core/src/constants.rs", "sentry-core/src/integrations/mod.rs", "sentry-core/src/lib.rs", "sentry-error-chain/Cargo.toml", "sentry-error-chain/src/lib.rs", "sentry/Cargo.toml", "sentry/examples/error-chain-demo.rs", "sentry/src/lib.rs"]

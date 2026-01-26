@@ -1,0 +1,1 @@
+["src/IBC_GO_COMMIT", "src/prost/ibc.applications.fee.v1.rs", "src/prost/ibc.applications.interchain_accounts.controller.v1.rs", "src/prost/ibc.applications.transfer.v1.rs", "src/prost/ibc.core.channel.v1.rs", "src/prost/ibc.core.client.v1.rs", "src/prost/ibc.core.connection.v1.rs", "src/prost/ibc.lightclients.tendermint.v1.rs", "src/prost/proto_descriptor.bin"]

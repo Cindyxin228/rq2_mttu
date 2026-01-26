@@ -1,0 +1,1 @@
+[".changes/ayatana-feature-refactor.md", ".changes/expose-global-shortcut.md", ".github/workflows/lint-fmt-core.yml", ".github/workflows/test-core.yml", ".github/workflows/udeps.yml", "core/tauri/Cargo.toml", "core/tauri/src/lib.rs", "examples/api/src-tauri/Cargo.lock", "examples/api/src-tauri/Cargo.toml"]

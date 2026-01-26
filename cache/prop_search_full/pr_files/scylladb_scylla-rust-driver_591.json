@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/response/error.rs", "scylla-cql/src/frame/value.rs", "scylla-cql/src/frame/value_tests.rs", "scylla-proxy/src/frame.rs", "scylla/src/history.rs", "scylla/src/transport/session_test.rs"]

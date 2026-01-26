@@ -1,0 +1,1 @@
+[".github/FUNDING.yml", "README.md", "common/src/lib.rs", "contrib/confs/rebuilderd-sync.conf", "daemon/src/main.rs", "daemon/src/sync.rs", "daemon/src/versions.rs", "tests/src/main.rs", "tools/src/args.rs", "tools/src/main.rs", "tools/src/schedule/archlinux.rs", "tools/src/schedule/debian.rs", "tools/src/schedule/tails.rs", "worker/src/args.rs", "worker/src/main.rs"]

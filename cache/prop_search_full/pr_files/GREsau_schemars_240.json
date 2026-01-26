@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "README.md", "docs/4-features.md", "schemars/Cargo.toml", "schemars/src/json_schema_impls/indexmap2.rs", "schemars/src/json_schema_impls/mod.rs", "schemars/tests/indexmap2.rs", "schemars_derive/Cargo.toml"]

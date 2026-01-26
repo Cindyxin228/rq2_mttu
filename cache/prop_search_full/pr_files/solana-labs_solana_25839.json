@@ -1,0 +1,1 @@
+["web3.js/src/connection.ts", "web3.js/src/nonce-account.ts", "web3.js/src/transaction/expiry-custom-errors.ts", "web3.js/src/transaction/legacy.ts", "web3.js/src/utils/send-and-confirm-raw-transaction.ts", "web3.js/src/utils/send-and-confirm-transaction.ts", "web3.js/test/connection.test.ts", "web3.js/test/mocks/rpc-http.ts", "web3.js/test/transaction.test.ts"]

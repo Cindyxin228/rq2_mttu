@@ -1,0 +1,1 @@
+[".github/build-setup.yml", ".github/workflows/release.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "dist-workspace.toml", "rust-toolchain.toml", "src/commands/upload.rs", "src/lib.rs", "src/main.rs", "src/self_update.rs"]

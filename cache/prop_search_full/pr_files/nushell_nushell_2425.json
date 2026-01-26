@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands/autoview/command.rs", "crates/nu-cli/src/commands/autoview/mod.rs", "crates/nu-cli/src/commands/autoview/options.rs", "crates/nu-cli/src/commands/table/command.rs", "crates/nu-cli/src/commands/table/mod.rs", "crates/nu-cli/src/commands/table/options.rs", "crates/nu-data/src/config.rs"]

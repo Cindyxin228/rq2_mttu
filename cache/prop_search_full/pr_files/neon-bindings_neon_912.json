@@ -1,0 +1,1 @@
+["crates/neon/Cargo.toml", "crates/neon/src/meta.rs", "package-lock.json", "package.json", "pkgs/cargo-cp-artifact/package.json", "pkgs/create-neon/.mocharc.json", "pkgs/create-neon/package.json", "pkgs/create-neon/test/create-neon.ts", "test/electron/package.json", "test/napi/package.json"]

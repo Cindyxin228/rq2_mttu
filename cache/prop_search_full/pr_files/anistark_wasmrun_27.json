@@ -1,0 +1,1 @@
+["src/cli.rs", "src/commands/run.rs", "src/config/server.rs", "src/main.rs", "src/server/runner.rs", "src/server/wasm.rs"]

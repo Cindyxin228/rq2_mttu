@@ -1,0 +1,1 @@
+["kernel/src/config/config_by_k8s.rs", "kernel/src/functions/http_route.rs", "kernel/src/functions/server.rs", "kernel/src/plugins/filters.rs"]

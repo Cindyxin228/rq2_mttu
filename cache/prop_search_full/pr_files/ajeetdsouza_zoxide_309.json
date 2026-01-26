@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "shell.nix", "src/app/query.rs", "src/app/remove.rs", "src/config.rs", "templates/bash.txt", "templates/posix.txt", "templates/zsh.txt", "xtask/Cargo.toml", "xtask/src/main.rs"]

@@ -1,0 +1,1 @@
+[".env.example", ".github/workflows/service_test_memory.yml", "benches/ops/utils.rs", "opendal_test/src/services/memory.rs", "opendal_test/src/services/mod.rs", "src/services/memory/backend.rs", "src/tests/io.rs", "tests/behavior/fs.rs", "tests/behavior/main.rs", "tests/behavior/memory.rs", "tests/behavior/s3.rs"]

@@ -1,0 +1,1 @@
+["crates/bevy_gizmos/src/primitives/dim2.rs", "crates/bevy_math/src/bounding/bounded2d/primitive_impls.rs", "crates/bevy_math/src/primitives/dim2.rs", "crates/bevy_reflect/src/impls/math/primitives2d.rs", "crates/bevy_render/src/mesh/primitives/dim2.rs", "examples/2d/2d_shapes.rs"]

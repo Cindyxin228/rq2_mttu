@@ -1,0 +1,1 @@
+["crates/typst-library/src/introspection/location.rs", "crates/typst-realize/src/lib.rs", "crates/typst-utils/src/lib.rs", "crates/typst-utils/src/listset.rs", "tests/ref/html/link-html-id-attach.html", "tests/ref/tags-textual.png", "tests/suite/introspection/tags.typ"]

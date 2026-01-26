@@ -1,0 +1,1 @@
+["py-polars/src/expr/binary.rs", "py-polars/src/expr/datetime.rs", "py-polars/src/expr/general.rs", "py-polars/src/expr/rolling.rs", "py-polars/src/expr/string.rs"]

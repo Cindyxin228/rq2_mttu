@@ -1,0 +1,1 @@
+["contracts/base-minter/src/contract.rs", "contracts/vending-minter/src/contract.rs", "contracts/vending-minter/src/integration_tests.rs"]

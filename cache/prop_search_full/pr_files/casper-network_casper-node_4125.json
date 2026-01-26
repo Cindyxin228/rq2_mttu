@@ -1,0 +1,1 @@
+["Cargo.lock", "json_rpc/CHANGELOG.md", "json_rpc/Cargo.toml", "json_rpc/src/lib.rs", "node/CHANGELOG.md", "node/Cargo.toml", "node/src/components/rpc_server/rpcs/docs.rs", "node/src/lib.rs", "resources/production/chainspec.toml", "resources/test/rpc_schema_hashing.json", "smart_contracts/contract_as/package-lock.json", "smart_contracts/contract_as/package.json"]

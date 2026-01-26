@@ -1,0 +1,1 @@
+["README.md", "src/plantuml_renderer.rs", "src/plantumlconfig.rs", "tests/e2e_test/e2e_tester.py", "tests/e2e_test/plantuml_shell_clickable.toml", "tests/run_regression_tests.bat"]

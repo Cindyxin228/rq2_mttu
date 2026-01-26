@@ -1,0 +1,1 @@
+["crates/nu-cmd-lang/src/core_commands/for_.rs", "crates/nu-cmd-lang/src/core_commands/loop_.rs", "crates/nu-cmd-lang/src/core_commands/while_.rs", "crates/nu-command/tests/commands/for_.rs", "crates/nu-command/tests/commands/loop_.rs", "crates/nu-command/tests/commands/while_.rs", "crates/nu-protocol/src/pipeline_data.rs"]

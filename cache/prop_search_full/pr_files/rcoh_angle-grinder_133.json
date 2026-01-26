@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".travis.yml", "ci/before_deploy.sh", "ci/build.bash", "ci/common.bash", "ci/install.sh", "ci/script.sh", "ci/set_rust_version.bash", "ci/test.bash", "package-lock.json"]

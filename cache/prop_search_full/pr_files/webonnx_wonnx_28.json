@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/simple_graph.rs", "examples/squeeze.rs", "src/compiler.rs", "src/lib.rs", "src/optimisation.rs", "src/sequencer.rs", "src/utils.rs", "templates/endomorphism/softmax.wgsl", "tests/matrix.rs", "tests/pretrained_models.rs"]

@@ -1,0 +1,1 @@
+["bench-templates/Cargo.toml", "ec/Cargo.toml", "ec/src/scalar_mul/mod.rs", "ff-asm/Cargo.toml", "ff-macros/Cargo.toml", "ff/Cargo.toml", "poly/Cargo.toml", "serialize-derive/Cargo.toml", "serialize/Cargo.toml", "test-curves/Cargo.toml", "test-templates/Cargo.toml"]

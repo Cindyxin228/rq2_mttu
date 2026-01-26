@@ -1,0 +1,1 @@
+["fuzz/src/process_network_graph.rs", "lightning-background-processor/Cargo.toml", "lightning-background-processor/src/lib.rs", "lightning-rapid-gossip-sync/src/lib.rs", "lightning-rapid-gossip-sync/src/processing.rs", "lightning/src/routing/network_graph.rs"]

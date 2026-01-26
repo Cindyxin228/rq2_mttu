@@ -1,0 +1,1 @@
+["lib/wasix/src/lib.rs", "lib/wasix/src/runtime/package_loader/builtin_loader.rs", "lib/wasix/src/runtime/resolver/filesystem_source.rs", "lib/wasix/src/runtime/resolver/web_source.rs", "lib/wasix/src/state/builder.rs"]

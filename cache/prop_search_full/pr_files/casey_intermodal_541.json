@@ -1,0 +1,1 @@
+[".ignore", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "bin/gen/templates/README.md", "bin/update-contributors/Cargo.toml", "bin/update-contributors/src/main.rs", "justfile", "www/install.sh"]

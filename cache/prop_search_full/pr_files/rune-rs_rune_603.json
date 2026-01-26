@@ -1,0 +1,1 @@
+["crates/rune/src/compile/prelude.rs", "crates/rune/src/module.rs", "crates/rune/src/module/module.rs", "crates/rune/src/modules/bytes.rs", "crates/rune/src/modules/future.rs", "crates/rune/src/modules/string.rs", "crates/rune/src/modules/test.rs", "crates/rune/src/runtime/bytes.rs"]

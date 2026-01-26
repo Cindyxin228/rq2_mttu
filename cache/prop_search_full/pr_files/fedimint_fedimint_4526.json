@@ -1,0 +1,1 @@
+["nix/flakebox.nix", "scripts/dev/run-test/fm-run-test", "scripts/tests/test-ci-all.sh"]

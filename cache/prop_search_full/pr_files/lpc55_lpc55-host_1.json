@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/docs.yml", "example-cfgs/customer-settings.yaml", "example-cfgs/example-combined-settings.toml", "src/bin/lpc55/cli.rs", "src/bin/lpc55/main.rs", "src/protected_flash.rs"]

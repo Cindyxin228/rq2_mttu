@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/lib.rs", "src/macros.rs", "test_snapshots/custom_fields.json", "test_snapshots/info_svc.json", "test_snapshots/no_scv_no_loc.json", "test_snapshots/svc_and_loc.json"]

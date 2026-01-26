@@ -1,0 +1,1 @@
+["src/files.rs", "tests/fixtures/ignore_files/.cobalt.yml", "tests/fixtures/ignore_files/.htaccess", "tests/fixtures/ignore_files/.well-known/file", "tests/target/ignore_files/.htaccess", "tests/target/ignore_files/.well-known/file"]

@@ -1,0 +1,1 @@
+["src/ffi/array.rs", "src/io/ipc/mod.rs", "src/io/ipc/read/file.rs", "src/io/ipc/read/file_async.rs", "src/io/ipc/write/file_async.rs", "src/io/ipc/write/writer.rs"]

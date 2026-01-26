@@ -1,0 +1,1 @@
+["rustecal-core/Cargo.toml", "rustecal-pubsub/Cargo.toml", "rustecal-pubsub/README.md", "rustecal-service/Cargo.toml", "rustecal-service/README.md", "rustecal-sys/Cargo.toml", "rustecal-types-bytes/Cargo.toml", "rustecal-types-protobuf/Cargo.toml", "rustecal-types-serde/Cargo.toml", "rustecal-types-string/Cargo.toml"]

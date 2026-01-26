@@ -1,0 +1,1 @@
+[".changes/ndk.md", "Cargo.toml", "src/lib.rs", "src/platform/android.rs", "src/platform_impl/android/mod.rs", "src/platform_impl/android/ndk_glue.rs"]

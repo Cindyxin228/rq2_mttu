@@ -1,0 +1,1 @@
+["Cargo.lock", "build.rs", "src/convert/proto/seed.rs", "src/lib.rs", "src/migration/source/common.rs", "src/sign/bitcoin.rs", "src/sign/ethereum.rs", "src/sign/key_source.rs", "src/storage/vault_bitcoin.rs", "src/storage/vault_ethereum.rs", "src/structs/seed.rs", "src/structs/wallet.rs"]

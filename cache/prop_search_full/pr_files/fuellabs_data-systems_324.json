@@ -1,0 +1,1 @@
+["benches/nats-publisher/src/main.rs", "crates/fuel-streams-core/src/blocks/mod.rs", "crates/fuel-streams-core/src/blocks/types.rs", "crates/fuel-streams-publisher/src/publisher/mod.rs", "crates/fuel-streams-publisher/src/publisher/payloads/blocks.rs"]

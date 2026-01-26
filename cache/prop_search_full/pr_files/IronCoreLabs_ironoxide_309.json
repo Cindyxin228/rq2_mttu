@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "CHANGELOG.md", "Cargo.toml", "flake.lock", "flake.nix", "src/internal/document_api.rs", "src/internal/document_api/requests.rs"]

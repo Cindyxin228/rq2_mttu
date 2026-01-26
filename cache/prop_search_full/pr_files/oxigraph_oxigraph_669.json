@@ -1,0 +1,1 @@
+["python/docs/io.rst", "python/docs/model.rst", "python/docs/sparql.rst", "python/docs/store.rst", "python/generate_stubs.py", "python/src/io.rs", "python/src/lib.rs", "python/src/model.rs", "python/src/sparql.rs", "python/src/store.rs", "python/tests/test_io.py", "python/tests/test_store.py"]

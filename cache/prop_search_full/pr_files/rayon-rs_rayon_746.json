@@ -1,0 +1,1 @@
+["ci/compat-Cargo.lock", "rayon-core/Cargo.toml", "rayon-core/src/join/mod.rs", "rayon-core/src/latch.rs", "rayon-core/src/log.rs", "rayon-core/src/registry.rs", "rayon-core/src/scope/mod.rs", "rayon-core/src/sleep/README.md", "rayon-core/src/sleep/counters.rs", "rayon-core/src/sleep/mod.rs", "rayon-demo/src/life/mod.rs"]

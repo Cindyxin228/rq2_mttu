@@ -1,0 +1,1 @@
+["lib/oxrdf/src/interning.rs", "lib/spargebra/src/query.rs", "lib/src/io/read.rs", "lib/src/sparql/plan.rs", "lib/src/sparql/plan_builder.rs", "lib/src/storage/numeric_encoder.rs", "lib/src/storage/small_string.rs"]

@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.ns.d.ts", "cli/tests/041_dyn_import_eval.out", "cli/tests/042_dyn_import_evalcontext.ts.out", "cli/tests/070_location.ts.out", "cli/tests/071_location_unset.ts.out", "cli/tests/fix_js_imports.ts.out", "cli/tests/top_level_await_loop.out", "cli/tests/unit/console_test.ts", "runtime/js/02_console.js"]

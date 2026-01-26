@@ -1,0 +1,1 @@
+["deploy/.prettierrc.json", "deploy/README.md", "deploy/bin/htsget-lambda.ts", "deploy/config/config_dev_umccr.toml", "deploy/lib/htsget-lambda-stack.ts", "deploy/package-lock.json", "deploy/package.json"]

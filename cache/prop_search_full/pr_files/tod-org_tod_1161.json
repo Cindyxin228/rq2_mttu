@@ -1,0 +1,1 @@
+["scripts/create_pr.sh", "scripts/lint_string.sh", "scripts/manual_test.sh", "scripts/push_aur.sh", "scripts/release.sh", "src/users.rs"]

@@ -1,0 +1,1 @@
+["polars/polars-core/src/series/unstable.rs", "polars/polars-lazy/src/physical_plan/expressions/window.rs", "py-polars/tests/unit/test_errors.py"]

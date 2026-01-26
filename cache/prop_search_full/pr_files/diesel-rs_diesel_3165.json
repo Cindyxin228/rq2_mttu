@@ -1,0 +1,1 @@
+["CHANGELOG.md", "diesel/Cargo.toml", "diesel/src/lib.rs", "diesel/src/pg/types/ipnet_address.rs", "diesel/src/pg/types/mod.rs", "diesel_tests/Cargo.toml", "diesel_tests/tests/types.rs", "diesel_tests/tests/types_roundtrip.rs"]

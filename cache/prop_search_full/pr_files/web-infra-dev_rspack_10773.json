@@ -1,0 +1,1 @@
+["crates/node_binding/binding.d.ts", "crates/rspack_binding_api/src/raw_options/raw_builtins/css_chunking.rs", "crates/rspack_plugin_css_chunking/src/lib.rs", "packages/rspack/etc/core.api.md", "packages/rspack/src/builtin-plugin/CssChunkingPlugin.ts", "website/docs/en/plugins/rspack/css-chunking-plugin.mdx", "website/docs/zh/plugins/rspack/css-chunking-plugin.mdx"]

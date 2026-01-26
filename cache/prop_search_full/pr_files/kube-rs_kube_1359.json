@@ -1,0 +1,1 @@
+["examples/crd_derive.rs", "kube-derive/src/custom_resource.rs", "kube-derive/src/lib.rs", "kube-derive/tests/crd_schema_test.rs"]

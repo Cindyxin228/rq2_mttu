@@ -1,0 +1,1 @@
+["src/crud.rs", "src/crud/create.rs", "src/crud/delete.rs", "src/crud/error.rs", "src/crud/get.rs", "src/crud/list.rs"]

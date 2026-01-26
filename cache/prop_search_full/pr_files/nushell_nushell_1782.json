@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/Cargo.toml", "crates/nu-cli/src/data/config.rs", "crates/nu-test-support/Cargo.toml", "docs/commands/to-toml.md", "tests/fixtures/formats/cargo_sample.toml"]

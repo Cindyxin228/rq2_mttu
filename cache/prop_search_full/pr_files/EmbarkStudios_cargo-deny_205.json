@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/advisories/mod.rs", "src/bans/mod.rs", "src/cargo-deny/check.rs", "src/cargo-deny/common.rs", "src/cargo-deny/main.rs", "src/diag.rs", "src/licenses/mod.rs", "src/sources/mod.rs", "tests/advisories.rs"]

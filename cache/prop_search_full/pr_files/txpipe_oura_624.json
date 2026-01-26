@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "examples/gcp_pubsub/daemon.toml", "src/sinks/_pending/gcp_pubsub/mod.rs", "src/sinks/_pending/gcp_pubsub/run.rs", "src/sinks/_pending/gcp_pubsub/setup.rs", "src/sinks/gcp_pubsub.rs", "src/sinks/mod.rs"]

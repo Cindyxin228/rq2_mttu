@@ -1,0 +1,1 @@
+["Cargo.toml", "src/cookie/cookie_container.rs", "src/lib.rs", "src/middleware/auto_retry_middleware.rs", "src/wrappers/client_wrapper.rs", "src/wrappers/request_builder_wrapper.rs"]

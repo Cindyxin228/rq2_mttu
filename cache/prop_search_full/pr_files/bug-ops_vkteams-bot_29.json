@@ -1,0 +1,1 @@
+[".gitignore", "README.md", "crates/vkteams-bot-cli/tests/completion_tests.rs", "crates/vkteams-bot-mcp/Cargo.toml", "crates/vkteams-bot/Cargo.toml", "crates/vkteams-bot/benches/performance.rs", "crates/vkteams-bot/src/api/events/get.rs", "crates/vkteams-bot/src/api/types.rs", "crates/vkteams-bot/src/bot/net.rs", "crates/vkteams-bot/tests/chats_events_get.json"]

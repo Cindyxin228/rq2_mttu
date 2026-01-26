@@ -1,0 +1,1 @@
+["crates/db_schema/src/aggregates/person_aggregates.rs", "migrations/2023-06-19-120700_no_double_deletion/down.sql", "migrations/2023-06-19-120700_no_double_deletion/up.sql"]

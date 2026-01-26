@@ -1,0 +1,1 @@
+[".github/workflows/api-baseline-check.yml", ".github/workflows/api-baseline-generation.yml", ".github/workflows/ci.yml", "xtask/src/commands/release/semver_check.rs"]

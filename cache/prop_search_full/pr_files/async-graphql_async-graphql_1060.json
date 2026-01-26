@@ -1,0 +1,1 @@
+["docs/en/src/apollo_federation.md", "src/registry/export_sdl.rs", "src/registry/mod.rs", "src/schema.rs", "src/types/connection/mod.rs", "tests/federation.rs", "tests/schemas/test_fed2_link.schema.graphqls"]

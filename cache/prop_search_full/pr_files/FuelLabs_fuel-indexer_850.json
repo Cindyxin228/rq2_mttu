@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "deployment/Dockerfile", "packages/fuel-indexer-tests/components/indices/simple-wasm/simple_wasm.wasm", "packages/fuel-indexer-tests/tests/integration/web_api_postgres.rs"]

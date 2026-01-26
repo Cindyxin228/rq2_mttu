@@ -1,0 +1,1 @@
+["crates/shadowsocks-service/src/config.rs", "crates/shadowsocks-service/src/local/dns/client_cache.rs", "crates/shadowsocks-service/src/local/dns/server.rs", "crates/shadowsocks-service/src/local/mod.rs"]

@@ -1,0 +1,1 @@
+["cspell.json", "rustfmt.toml", "src/event/kubernetes.rs", "src/event/kubernetes/api_resources.rs", "src/event/kubernetes/client.rs", "src/event/kubernetes/color.rs", "src/event/kubernetes/log.rs", "src/event/kubernetes/log/log_collector.rs", "src/event/kubernetes/log/log_stream.rs", "src/event/kubernetes/log/watch.rs", "src/ui/widget.rs", "test/manifests/restart.yaml"]

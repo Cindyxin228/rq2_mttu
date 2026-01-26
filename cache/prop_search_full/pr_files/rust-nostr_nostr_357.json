@@ -1,0 +1,1 @@
+["bindings/nostr-ffi/src/error.rs", "bindings/nostr-ffi/src/key/mod.rs", "bindings/nostr-js/examples/keys.js", "bindings/nostr-js/src/key/mod.rs", "crates/nostr/examples/embedded/src/main.rs", "crates/nostr/src/nips/nip06.rs"]

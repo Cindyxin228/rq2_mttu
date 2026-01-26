@@ -1,0 +1,1 @@
+["webrender/res/brush.glsl", "webrender/res/brush_blend.glsl", "webrender/res/brush_multi.glsl", "webrender/res/brush_opacity.glsl", "webrender/src/batch.rs", "webrender/src/gpu_types.rs", "webrender/src/internal_types.rs", "webrender/src/renderer.rs", "webrender/src/shade.rs", "webrender/tests/angle_shader_validation.rs"]

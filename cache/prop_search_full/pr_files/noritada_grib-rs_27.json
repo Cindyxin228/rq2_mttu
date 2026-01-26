@@ -1,0 +1,1 @@
+["cli/src/commands/decode.rs", "examples/decode_surface.rs", "src/context.rs", "src/decoders/common.rs", "src/decoders/complex.rs", "src/decoders/jpeg2000/mod.rs", "src/decoders/run_length.rs", "src/decoders/simple.rs", "src/utils.rs"]

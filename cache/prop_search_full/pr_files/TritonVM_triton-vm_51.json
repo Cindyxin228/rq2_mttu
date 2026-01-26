@@ -1,0 +1,1 @@
+["triton-vm/src/arguments.rs", "triton-vm/src/arguments/evaluation_argument.rs", "triton-vm/src/arguments/permutation_argument.rs", "triton-vm/src/cross_table_arguments.rs", "triton-vm/src/lib.rs", "triton-vm/src/stark.rs"]

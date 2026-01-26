@@ -1,0 +1,1 @@
+["src/instruction_builder/commit_state.rs", "src/processor/commit_state.rs", "src/processor/whitelist_validator_for_program.rs", "src/state/mod.rs", "src/state/program_config.rs", "src/state/utils/account.rs", "tests/test_commit_state_with_program_config.rs", "tests/test_whitelist_validator_for_program.rs"]

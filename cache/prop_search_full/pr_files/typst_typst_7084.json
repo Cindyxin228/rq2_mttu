@@ -1,0 +1,1 @@
+["crates/typst-eval/src/math.rs", "crates/typst-syntax/src/parser.rs", "tests/ref/math-attach-followed-by-func-call-complex.png", "tests/ref/math-attach-followed-by-func-call-warning.png", "tests/ref/math-attach-followed-by-func-call.png", "tests/ref/raw-highlight-typm.png", "tests/suite/math/accent.typ", "tests/suite/math/attach.typ", "tests/suite/text/raw.typ"]

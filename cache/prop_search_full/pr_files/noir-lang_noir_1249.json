@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nargo_cli/Cargo.toml", "crates/nargo_cli/tests/test_data/keccak256/Nargo.toml", "crates/nargo_cli/tests/test_data/keccak256/Prover.toml", "crates/nargo_cli/tests/test_data/keccak256/src/main.nr", "crates/noirc_evaluator/src/ssa/builtin.rs", "flake.lock", "noir_stdlib/src/hash.nr"]

@@ -1,0 +1,1 @@
+["fastcrypto/src/ed25519.rs", "fastcrypto/src/secp256k1/mod.rs", "fastcrypto/src/secp256r1/mod.rs"]

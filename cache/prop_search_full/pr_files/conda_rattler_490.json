@@ -1,0 +1,1 @@
+["crates/async_http_range_reader/src/async_http_range_reader.rs", "crates/async_http_range_reader/src/sparse_range.rs", "crates/rattler_shell/Cargo.toml", "crates/rattler_shell/src/shell/mod.rs", "py-rattler/Cargo.lock"]

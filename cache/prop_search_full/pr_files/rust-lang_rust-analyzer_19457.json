@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "crates/proc-macro-srv-cli/Cargo.toml", "crates/span/Cargo.toml", "crates/span/src/hygiene.rs", "crates/span/src/lib.rs"]

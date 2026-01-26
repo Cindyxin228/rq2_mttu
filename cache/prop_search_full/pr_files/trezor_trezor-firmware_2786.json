@@ -1,0 +1,1 @@
+["core/src/apps/bitcoin/keychain.py", "core/src/apps/misc/cosi_commit.py", "python/.changelog.d/2786.fixed", "python/src/trezorlib/firmware/core.py", "python/src/trezorlib/firmware/models.py", "python/src/trezorlib/transport/udp.py", "tests/device_tests/bitcoin/test_signmessage.py", "tests/device_tests/misc/test_cosi.py", "tests/ui_tests/fixtures.json"]

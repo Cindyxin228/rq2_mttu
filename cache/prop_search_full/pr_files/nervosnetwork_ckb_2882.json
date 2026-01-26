@@ -1,0 +1,1 @@
+["script/src/types.rs", "script/src/verify/tests/ckb_latest/features_since_v2021.rs", "script/testdata/cpop_lock", "script/testdata/cpop_lock.c", "test/src/main.rs", "test/src/specs/hardfork/v2021/mod.rs", "test/src/specs/hardfork/v2021/vm_b_extension.rs"]

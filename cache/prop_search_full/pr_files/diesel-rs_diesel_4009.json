@@ -1,0 +1,1 @@
+["diesel/src/row.rs", "diesel/src/sqlite/connection/owned_row.rs", "diesel/src/sqlite/connection/row.rs", "diesel_bench/benches/diesel_async_benches.rs", "diesel_bench/benches/lib.rs"]

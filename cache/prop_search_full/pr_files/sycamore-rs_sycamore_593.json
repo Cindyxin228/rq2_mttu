@@ -1,0 +1,1 @@
+["packages/sycamore-macro/Cargo.toml", "packages/sycamore-macro/src/component/mod.rs", "packages/sycamore-macro/src/props.rs", "packages/sycamore-macro/src/view/parse.rs", "packages/sycamore-macro/tests/component/component-fail.stderr", "packages/sycamore-router-macro/Cargo.toml", "packages/sycamore-router-macro/src/route.rs"]

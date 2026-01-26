@@ -1,0 +1,1 @@
+[".github/workflows/publish-android.yml", ".github/workflows/publish-jvm.yml", "Package.swift", "bindings/kotlin/ldk-node-android/build.gradle.kts", "bindings/kotlin/ldk-node-jvm/build.gradle.kts", "scripts/generate_checksum_files.sh"]

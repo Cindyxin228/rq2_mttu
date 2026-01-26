@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".travis.yml", "Cargo.lock", "README.md", "src/gamma.rs", "src/hermite/mod.rs", "src/jacobi/mod.rs", "src/laguerre/mod.rs", "src/lib.rs", "src/midpoint/mod.rs", "src/simpson/mod.rs"]

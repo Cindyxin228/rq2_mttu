@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "serde_v8/src/de.rs", "serde_v8/src/magic/buffer.rs", "serde_v8/src/magic/bytestring.rs", "serde_v8/src/magic/field.rs", "serde_v8/src/magic/mod.rs", "serde_v8/src/magic/transl8.rs", "serde_v8/src/magic/u16string.rs", "serde_v8/src/magic/value.rs", "serde_v8/src/magic/zero_copy_buf.rs", "serde_v8/src/ser.rs", "serde_v8/tests/de.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/pipeline.yaml", "CHANGES.md", "crates/vertigo-cli/src/serve/html/element.rs", "crates/vertigo-cli/src/serve/html/element_children.rs", "crates/vertigo-cli/src/serve/html/html_element.rs", "crates/vertigo-cli/src/serve/html/html_node_convert_to_string.rs", "crates/vertigo-cli/src/serve/html/html_response.rs", "crates/vertigo-macro/src/include_static.rs"]

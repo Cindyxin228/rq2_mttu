@@ -1,0 +1,1 @@
+[".cirrus.yml", "CHANGELOG.md", "Cargo.toml", "examples/kbd_input.rs", "examples/selection.rs", "src/data_device/mod.rs", "src/data_device/offer.rs", "src/event_loop.rs", "src/output.rs", "src/seat/keyboard/mod.rs", "src/seat/keyboard/state.rs", "src/seat/mod.rs", "src/shell/xdg.rs", "src/shell/zxdg.rs", "src/shm/mempool.rs", "src/surface.rs", "src/window/fallback_frame.rs"]

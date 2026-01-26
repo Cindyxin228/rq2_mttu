@@ -1,0 +1,1 @@
+[".github/workflows/cargo-lock.yml", "cargo-lock/Cargo.toml", "cargo-lock/README.md", "cargo-lock/src/lib.rs", "cargo-lock/src/lockfile/encoding.rs", "cargo-lock/src/lockfile/version.rs", "cargo-lock/src/metadata.rs"]

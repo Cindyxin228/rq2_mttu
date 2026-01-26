@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/geometry/mod.rs", "src/primitives/arc/styled.rs", "src/primitives/common/line_join.rs", "src/primitives/common/linear_equation.rs", "src/primitives/common/plane_sector.rs", "src/primitives/line/intersection_params.rs", "src/primitives/line/mod.rs", "src/primitives/sector/styled.rs"]

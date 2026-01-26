@@ -1,0 +1,1 @@
+["etw-reader/src/schema.rs", "samply/src/shared/timestamp_converter.rs", "samply/src/windows/etw_gecko.rs", "samply/src/windows/import.rs", "samply/src/windows/profile_context.rs", "samply/src/windows/profiler.rs"]

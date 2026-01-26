@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "contracts/minter/Cargo.toml", "contracts/minter/src/contract.rs", "contracts/minter/src/contract_tests.rs", "contracts/whitelist/Cargo.toml", "contracts/whitelist/examples/schema.rs", "e2e/full_test.go"]

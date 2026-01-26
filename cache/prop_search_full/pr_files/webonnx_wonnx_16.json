@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "examples/mnist.rs", "examples/simple_graph.rs", "examples/squeeze.rs", "src/lib.rs", "src/optimisation.rs", "src/utils.rs", "templates/base.wgsl", "templates/containers/squeezenet_conv_group.wgsl", "tests/conv.rs", "tests/cos.rs", "tests/matmul.rs", "tests/pretrained_models.rs"]

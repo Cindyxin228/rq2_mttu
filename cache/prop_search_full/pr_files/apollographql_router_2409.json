@@ -1,0 +1,1 @@
+[".circleci/config.yml", "RELEASE_CHECKLIST.md", "deny.toml", "xtask/Cargo.lock", "xtask/Cargo.toml", "xtask/src/commands/release.rs"]

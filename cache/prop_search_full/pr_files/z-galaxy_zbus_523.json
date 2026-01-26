@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "zbus_macros/src/iface.rs", "zvariant/src/serialized/data.rs", "zvariant/src/serialized/size.rs", "zvariant/src/serialized/written.rs"]

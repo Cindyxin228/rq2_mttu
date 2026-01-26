@@ -1,0 +1,1 @@
+["ci/shell.nix", "ci/test-hw.yml", "ci/test.yml", "docs/ci/jobs.md", "tools/version.sh", "vendor/micropython"]

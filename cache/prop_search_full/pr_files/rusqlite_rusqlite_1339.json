@@ -1,0 +1,1 @@
+["libsqlite3-sys/build.rs", "src/cache.rs", "src/config.rs", "src/inner_connection.rs", "src/lib.rs"]

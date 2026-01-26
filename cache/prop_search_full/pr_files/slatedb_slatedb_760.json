@@ -1,0 +1,1 @@
+["slatedb/examples/azure_blob_storage.rs", "slatedb/examples/create_checkpoint.rs", "slatedb/examples/delete_checkpoint.rs", "slatedb/examples/full_example.rs", "slatedb/examples/refresh_checkpoint.rs", "slatedb/examples/s3_compatible.rs", "slatedb/examples/simple_example.rs", "slatedb/examples/tracing_subscriber.rs"]

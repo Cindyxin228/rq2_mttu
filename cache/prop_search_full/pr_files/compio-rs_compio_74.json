@@ -1,0 +1,1 @@
+["Cargo.toml", "azure-pipelines.yml", "compio-buf/src/io_buf.rs", "compio-buf/src/slice.rs", "compio/Cargo.toml", "compio/examples/driver.rs", "compio/src/driver/mod.rs", "compio/src/named_pipe.rs", "compio/tests/driver.rs"]

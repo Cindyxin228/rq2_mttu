@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/formatters/assignment.rs", "src/formatters/block.rs", "src/formatters/general.rs", "src/formatters/trivia_util.rs", "tests/inputs/assignment-comments-3.lua", "tests/inputs/return-comments-2.lua", "tests/snapshots/tests__standard@assignment-comments-3.lua.snap", "tests/snapshots/tests__standard@return-comments-2.lua.snap"]

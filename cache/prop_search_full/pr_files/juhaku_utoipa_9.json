@@ -1,0 +1,1 @@
+["src/openapi/request_body.rs", "tests/request_body_derive_test.rs", "tests/utoipa_gen_test.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/request_body.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/reference/core_lib/iterator.md", "docs/reference/core_lib/list.md", "koto/tests/iterators.koto", "koto/tests/list_ops.koto", "src/bytecode/src/compiler.rs", "src/parser/src/parser.rs", "src/runtime/src/core/iterator.rs", "src/runtime/src/core/list.rs", "src/runtime/src/vm.rs", "src/runtime/tests/runtime_failures.rs", "src/runtime/tests/vm_tests.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/can.rs", "src/crc32.rs", "src/dac.rs", "src/dma/mod.rs", "src/fsmc_lcd/mod.rs", "src/gpio.rs", "src/i2c.rs", "src/i2s.rs", "src/otg_fs.rs", "src/otg_hs.rs", "src/qei.rs", "src/rcc/mod.rs", "src/rng.rs", "src/sdio.rs", "src/serial.rs", "src/spi.rs", "src/syscfg.rs", "src/timer.rs", "src/timer/pwm_input.rs", "src/uart.rs"]

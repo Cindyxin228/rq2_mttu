@@ -1,0 +1,1 @@
+[".bazelversion", "WORKSPACE", "dependencies/vaticle/repositories.bzl", "java/test/behaviour/typeql/language/insert/BUILD", "rust/BUILD", "rust/swig/typedb_client_python.swg", "rust/typedb_client.i"]

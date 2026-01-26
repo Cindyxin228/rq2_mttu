@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/build_config.rs", "src/cargo/core/registry.rs", "src/cargo/core/resolver/resolve.rs", "src/cargo/ops/cargo_run.rs", "src/cargo/sources/registry/mod.rs", "src/cargo/sources/registry/remote.rs", "src/cargo/util/config.rs"]

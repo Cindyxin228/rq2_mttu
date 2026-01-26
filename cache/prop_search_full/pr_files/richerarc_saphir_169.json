@@ -1,0 +1,1 @@
+["saphir/src/body.rs", "saphir/src/controller.rs", "saphir/src/multipart/parser.rs", "saphir_cli/Cargo.toml", "saphir_cli/src/openapi/generate/crate_syn_browser/file.rs", "saphir_cli/src/openapi/generate/crate_syn_browser/mod.rs", "saphir_cli/src/openapi/generate/mod.rs", "saphir_cli/src/openapi/schema.rs", "saphir_macro/src/openapi/mod.rs"]

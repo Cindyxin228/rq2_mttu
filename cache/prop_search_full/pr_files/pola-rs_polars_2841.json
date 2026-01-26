@@ -1,0 +1,1 @@
+["polars/polars-core/src/chunked_array/drop.rs", "polars/polars-core/src/chunked_array/ops/bit_repr.rs", "polars/polars-core/src/frame/mod.rs", "polars/polars-core/src/lib.rs", "polars/polars-core/src/testing.rs"]

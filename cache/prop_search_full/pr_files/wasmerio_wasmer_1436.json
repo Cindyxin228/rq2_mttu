@@ -1,0 +1,1 @@
+["build.rs", "lib/singlepass-backend/src/codegen_x64.rs", "tests/custom/int-extend-garbage.wast", "tests/custom/nan-canonicalization.wast", "tests/custom/stack-overflow.wast", "tests/ignores.txt"]

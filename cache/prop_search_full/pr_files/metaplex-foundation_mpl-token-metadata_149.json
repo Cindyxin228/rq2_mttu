@@ -1,0 +1,1 @@
+["clients/js/test/close/fungible.test.ts", "clients/js/test/close/nonFungible.test.ts", "programs/token-metadata/program/src/processor/close/mod.rs", "programs/token-metadata/program/src/processor/fee/mod.rs", "programs/token-metadata/program/src/state/fee.rs", "programs/token-metadata/program/tests/fees.rs"]

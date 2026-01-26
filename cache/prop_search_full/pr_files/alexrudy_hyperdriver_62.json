@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "justfile", "src/client/builder.rs", "src/client/conn/mod.rs", "src/client/conn/tcp.rs", "src/client/mod.rs", "src/client/pool/checkout.rs", "src/discovery/mod.rs", "src/happy_eyeballs.rs", "src/lib.rs", "src/stream/client.rs", "src/stream/mod.rs", "tests/client.rs"]

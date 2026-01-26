@@ -1,0 +1,1 @@
+["actix-web-codegen/src/lib.rs", "actix-web-codegen/src/route.rs", "actix-web-codegen/tests/trybuild/route-duplicate-method-fail.stderr", "actix-web-codegen/tests/trybuild/route-unexpected-method-fail.stderr", "actix-web-codegen/tests/trybuild/simple-fail.rs", "actix-web-codegen/tests/trybuild/simple-fail.stderr"]

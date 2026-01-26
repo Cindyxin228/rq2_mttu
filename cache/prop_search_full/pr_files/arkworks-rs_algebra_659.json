@@ -1,0 +1,1 @@
+["CHANGELOG.md", "ec/src/hashing/curve_maps/elligator2.rs", "ec/src/hashing/curve_maps/mod.rs", "ec/src/hashing/curve_maps/swu.rs", "ec/src/hashing/curve_maps/wb.rs", "ec/src/hashing/tests.rs", "ec/src/scalar_mul/glv.rs", "ec/src/scalar_mul/mod.rs", "test-curves/src/lib.rs"]

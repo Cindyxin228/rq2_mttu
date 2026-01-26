@@ -1,0 +1,1 @@
+["crates/swc/tests/fixture/issue-1682/case1/output/index.ts", "crates/swc/tests/fixture/issue-1682/case2/output/index.ts", "crates/swc_ecma_transforms_module/src/util.rs", "crates/swc_ecma_transforms_module/tests/common_js.rs"]

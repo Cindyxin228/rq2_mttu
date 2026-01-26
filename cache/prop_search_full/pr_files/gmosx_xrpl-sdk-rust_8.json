@@ -1,0 +1,1 @@
+["xrpl_api/src/api/book_offers.rs", "xrpl_binary_codec/Cargo.toml", "xrpl_sdk_jsonrpc/src/client_tests.rs", "xrpl_sdk_ws/src/client_tests.rs", "xrpl_types/Cargo.toml", "xrpl_types/src/amount.rs", "xrpl_types/src/book.rs", "xrpl_types/src/currency.rs"]

@@ -1,0 +1,1 @@
+["core/tauri/src/manager.rs", "examples/api/src-tauri/Cargo.lock", "examples/api/vite.config.js", "tooling/cli/src/mobile/android.rs", "tooling/cli/src/mobile/android/build.rs", "tooling/cli/src/mobile/android/dev.rs", "tooling/cli/templates/mobile/android/app/build.gradle.kts", "tooling/cli/templates/mobile/android/app/src/main/AndroidManifest.xml"]

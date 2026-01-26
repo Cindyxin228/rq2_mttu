@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/haystack/encoding/json/decode.rs", "src/haystack/encoding/zinc/decode/complex/grid.rs", "src/haystack/encoding/zinc/encode.rs", "src/haystack/val/grid.rs", "tests/json/test_grid.rs", "tests/zinc/test_grid.rs"]

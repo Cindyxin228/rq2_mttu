@@ -1,0 +1,1 @@
+["core/src/core/committed.rs", "core/src/core/transaction.rs", "core/src/libtx/error.rs", "core/src/ser.rs", "keychain/src/extkey_bip32.rs", "keychain/src/mnemonic.rs", "keychain/src/types.rs"]

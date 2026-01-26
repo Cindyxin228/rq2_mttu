@@ -1,0 +1,1 @@
+["src/common.rs", "src/linux/elf.rs", "src/windows/symbol.rs", "test_data/windows/oleaut32.sym"]

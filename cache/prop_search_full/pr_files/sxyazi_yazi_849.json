@@ -1,0 +1,1 @@
+["yazi-adaptor/src/emulator.rs", "yazi-adaptor/src/iterm2.rs", "yazi-adaptor/src/kitty.rs", "yazi-adaptor/src/kitty_old.rs", "yazi-adaptor/src/sixel.rs", "yazi-core/src/clipboard.rs", "yazi-core/src/tab/selected.rs", "yazi-core/src/tasks/commands/inspect.rs", "yazi-fm/src/app/commands/render.rs", "yazi-shared/src/term/cursor.rs", "yazi-shared/src/term/term.rs"]

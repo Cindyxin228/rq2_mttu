@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/nodes/authority_node/authority.rs", "implementations/rust/ockam/ockam_api/src/nodes/authority_node/node.rs", "implementations/rust/ockam/ockam_command/tests/bats/trust_context.bats"]

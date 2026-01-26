@@ -1,0 +1,1 @@
+["api/openapi/nydus-api-v1.yaml", "api/src/http.rs", "api/src/http_endpoint_v1.rs", "api/src/lib.rs", "src/bin/nydusd/api_server_glue.rs", "src/bin/nydusd/main.rs"]

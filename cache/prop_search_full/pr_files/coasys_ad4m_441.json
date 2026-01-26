@@ -1,0 +1,1 @@
+[".circleci/Dockerfile", ".circleci/config.yml", ".github/workflows/integration_cli.yml.disabled", ".github/workflows/integration_js.yml.disabled", "tests/js/package.json", "tests/js/tests/integration.test.ts", "tests/js/tests/neighbourhood.ts"]

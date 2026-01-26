@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/path_create_directory.rs", "lib/wasix/src/syscalls/wasi/path_remove_directory.rs", "tests/integration/cli/resources/php/db/.ht.sqlite", "tests/integration/cli/resources/php/test.php", "tests/integration/cli/src/fixtures.rs", "tests/integration/cli/tests/run.rs", "tests/integration/cli/tests/wasm/php.wasm", "tests/wasi-fyi/test.sh"]

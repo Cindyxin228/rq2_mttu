@@ -1,0 +1,1 @@
+["codecov.yml", "src/chain.rs", "src/dbc/spk.rs", "src/lib.rs", "src/seals/lnpbp4.rs", "src/seals/txout_seal.rs", "src/tagged_hash.rs", "src/tweak.rs", "strict_encoding/Cargo.toml", "strict_encoding/src/miniscript.rs", "strict_encoding/src/strategies.rs", "strict_encoding/src/test_helpers.rs"]

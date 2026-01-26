@@ -1,0 +1,1 @@
+["py-polars/polars/dataframe/frame.py", "py-polars/polars/io/excel/_write_utils.py", "py-polars/polars/type_aliases.py", "py-polars/tests/unit/io/test_excel.py"]

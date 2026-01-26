@@ -1,0 +1,1 @@
+["bin/node/runtime/src/lib.rs", "frame/contracts/src/exec.rs", "frame/contracts/src/lib.rs", "frame/contracts/src/tests.rs", "frame/contracts/src/wasm/mod.rs", "frame/contracts/src/wasm/runtime.rs"]

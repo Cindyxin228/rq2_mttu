@@ -1,0 +1,1 @@
+["cli/cdp.rs", "cli/main.rs", "cli/tests/integration/repl_tests.rs", "cli/tools/coverage/mod.rs", "cli/tools/repl/channel.rs", "cli/tools/repl/editor.rs", "cli/tools/repl/mod.rs", "cli/tools/repl/session.rs", "core/inspector.rs", "test_util/src/pty.rs"]

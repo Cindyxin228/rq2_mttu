@@ -1,0 +1,1 @@
+["sea-orm-macros/src/derives/active_enum.rs", "tests/active_enum_tests.rs", "tests/common/features/active_enum_vec.rs", "tests/common/features/categories.rs", "tests/common/features/json_vec_derive.rs", "tests/common/features/mod.rs", "tests/common/features/schema.rs", "tests/json_vec_tests.rs"]

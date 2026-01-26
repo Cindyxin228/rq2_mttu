@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "opentelemetry-jaeger/src/exporter/mod.rs", "opentelemetry-jaeger/src/exporter/thrift/mod.rs", "opentelemetry-zipkin/src/exporter/model/annotation.rs", "opentelemetry-zipkin/src/exporter/model/mod.rs", "opentelemetry/src/trace/span_context.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands.rs", "crates/nu-cli/src/commands/classified/internal.rs", "crates/nu-cli/src/commands/nu/mod.rs", "crates/nu-cli/src/commands/nu/plugin.rs", "crates/nu-cli/src/lib.rs", "crates/nu-cli/src/plugin.rs", "crates/nu-protocol/src/return_value.rs", "crates/nu-test-support/src/macros.rs", "src/main.rs", "tests/plugins/core_inc.rs"]

@@ -1,0 +1,1 @@
+["src/commands/setup.rs", "src/error/mod.rs", "src/firewall/firewalld.rs", "src/firewall/mod.rs", "src/network/bridge.rs", "src/network/core_utils.rs", "src/network/macvlan.rs", "src/network/netlink.rs"]

@@ -1,0 +1,1 @@
+["examples/url-shortener/Cargo.lock", "examples/url-shortener/Cargo.toml", "examples/url-shortener/README.md", "examples/url-shortener/Shuttle.toml", "examples/url-shortener/migrations/20220324143837_urls.sql", "examples/url-shortener/src/lib.rs"]

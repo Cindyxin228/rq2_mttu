@@ -1,0 +1,1 @@
+["designs/access_profiles_and_security.rst", "designs/default_idm_layout.rst", "kanidm_book/src/accounts_and_groups.md", "kanidm_client/tests/common.rs", "kanidm_client/tests/default_entries.rs", "kanidm_client/tests/proto_v1_test.rs", "kanidmd/src/lib/constants/acp.rs"]

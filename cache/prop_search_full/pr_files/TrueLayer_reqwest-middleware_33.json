@@ -1,0 +1,1 @@
+["reqwest-retry/CHANGELOG.md", "reqwest-retry/src/lib.rs", "reqwest-retry/src/middleware.rs", "reqwest-retry/src/retryable.rs", "reqwest-retry/src/retryable_strategy.rs"]

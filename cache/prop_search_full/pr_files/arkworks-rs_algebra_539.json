@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "ec/src/models/short_weierstrass/group.rs", "ec/src/models/twisted_edwards/group.rs", "ec/src/pairing.rs", "ec/src/scalar_mul/mod.rs", "ec/src/scalar_mul/variable_base/mod.rs"]

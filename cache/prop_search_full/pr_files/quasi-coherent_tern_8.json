@@ -1,0 +1,1 @@
+["derrick-core/src/migrations/migrate.rs", "derrick-derive/src/runtime.rs", "derrick-migrate-cli/src/lib.rs", "derrick-migrate-cli/src/opt.rs", "derrick-migrate/src/runner.rs", "examples/README.md", "examples/pg-envvar-query/src/main.rs"]

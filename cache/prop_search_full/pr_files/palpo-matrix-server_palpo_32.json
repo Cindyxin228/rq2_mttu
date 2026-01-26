@@ -1,0 +1,1 @@
+["crates/core/src/appservice/third_party.rs", "crates/core/src/client/account/data.rs", "crates/core/src/client/backup.rs", "crates/core/src/client/push/push_rule.rs", "crates/core/src/federation/knock.rs", "crates/core/src/federation/query.rs", "tests/results/test_all.result.jsonl"]

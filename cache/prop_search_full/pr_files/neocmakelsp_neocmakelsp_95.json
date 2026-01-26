@@ -1,0 +1,1 @@
+["src/complete.rs", "src/complete/findpackage.rs", "src/hover.rs", "src/jump.rs", "src/jump/findpackage.rs", "src/languageserver.rs", "src/main.rs", "src/search.rs", "src/utils.rs", "src/utils/findpackage.rs", "src/utils/findpackage/packagemac.rs", "src/utils/findpackage/packageunix.rs", "src/utils/findpackage/packagewin.rs", "src/utils/findpackage/vcpkg.rs"]

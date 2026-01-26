@@ -1,0 +1,1 @@
+["examples/node-custom-version/package.json", "src/nixpacks/mod.rs", "src/providers/node.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

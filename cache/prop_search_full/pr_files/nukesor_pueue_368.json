@@ -1,0 +1,1 @@
+["daemon/task_handler/mod.rs", "tests/daemon/worker_environment_variables.rs", "tests/helper/env.rs"]

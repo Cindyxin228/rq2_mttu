@@ -1,0 +1,1 @@
+["Cargo.toml", "libsqlite3-sys/build.rs", "libsqlite3-sys/src/error.rs", "src/auto_extension.rs", "src/blob/mod.rs", "src/blob/pos_io.rs", "src/error.rs", "src/functions.rs", "src/inner_connection.rs", "src/lib.rs", "src/params.rs", "src/row.rs", "src/statement.rs", "src/transaction.rs", "src/types/value_ref.rs", "src/util/sqlite_string.rs", "src/vtab/mod.rs"]

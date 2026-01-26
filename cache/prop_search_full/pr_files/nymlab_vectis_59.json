@@ -1,0 +1,1 @@
+["Cargo.lock", "contracts/factory/Cargo.toml", "contracts/factory/src/helpers.rs", "contracts/govec/Cargo.toml", "contracts/proxy/Cargo.toml", "contracts/proxy/src/contract.rs", "contracts/proxy/src/tests.rs", "packages/vectis/Cargo.toml", "packages/vectis/src/factory.rs", "packages/vectis/src/pubkey.rs"]

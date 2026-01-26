@@ -1,0 +1,1 @@
+[".changelog/unreleased/features/143-localhost-v1.md", "definitions/ibc/lightclients/localhost/v1/localhost.proto", "src/lib.rs", "src/prost/ibc.lightclients.localhost.v1.rs", "src/prost/proto_descriptor.bin", "tools/proto-compiler/src/cmd/compile.rs"]

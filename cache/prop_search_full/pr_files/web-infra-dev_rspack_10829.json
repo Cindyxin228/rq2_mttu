@@ -1,0 +1,1 @@
+["crates/rspack_plugin_sri/src/html.rs", "packages/rspack-test-tools/tests/configCases/sri/link-tags/index.js", "packages/rspack-test-tools/tests/configCases/sri/link-tags/rspack.config.js", "packages/rspack/src/builtin-plugin/SubresourceIntegrityPlugin.ts"]

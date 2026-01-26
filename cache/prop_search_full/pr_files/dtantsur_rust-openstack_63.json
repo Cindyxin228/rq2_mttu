@@ -1,0 +1,1 @@
+["src/network/floatingips.rs", "src/network/subnets.rs", "tests/integration-network-crud.rs"]

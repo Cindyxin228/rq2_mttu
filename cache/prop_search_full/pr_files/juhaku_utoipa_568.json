@@ -1,0 +1,1 @@
+["examples/raw-json-actix/Cargo.toml", "examples/raw-json-actix/README.md", "examples/raw-json-actix/src/main.rs", "utoipa-gen/src/component.rs", "utoipa-gen/src/ext/actix.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/schema_type.rs", "utoipa-gen/tests/request_body_derive_test.rs", "utoipa-gen/tests/schema_derive_test.rs", "utoipa/src/lib.rs", "utoipa/src/openapi/schema.rs"]

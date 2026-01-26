@@ -1,0 +1,1 @@
+["Cargo.toml", "did-key/Cargo.toml", "did-web/Cargo.toml", "did-web/src/lib.rs", "ssi-dids/src/did.rs", "ssi-dids/src/document/representation.rs", "ssi-dids/src/resolution.rs", "ssi-jwk/Cargo.toml"]

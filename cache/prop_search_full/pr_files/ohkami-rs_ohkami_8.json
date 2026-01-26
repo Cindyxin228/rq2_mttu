@@ -1,0 +1,1 @@
+["examples/db/Dockerfile", "examples/db/rust/Cargo.toml", "examples/db/rust/src/main.rs", "examples/simple/Cargo.lock", "examples/simple/Cargo.toml", "examples/simple/src/bin/cors.rs", "examples/simple/src/bin/hello.rs", "examples/simple/src/bin/query_param.rs", "src/lib.rs", "src/server.rs"]

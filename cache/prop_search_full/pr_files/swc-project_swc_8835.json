@@ -1,0 +1,1 @@
+["crates/swc/tests/fixture/issues-8xxx/8830/input/.swcrc", "crates/swc/tests/fixture/issues-8xxx/8830/input/index.js", "crates/swc/tests/fixture/issues-8xxx/8830/output/index.js", "crates/swc_ecma_transforms_compat/src/class_fields_use_set.rs"]

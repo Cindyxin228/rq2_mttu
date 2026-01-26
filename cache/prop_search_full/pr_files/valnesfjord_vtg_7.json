@@ -1,0 +1,1 @@
+["examples/bot.rs", "examples/commands.rs", "src/client.rs", "src/client/api_requests.rs", "src/lib.rs", "src/structs/context.rs", "src/structs/tg.rs", "src/structs/tg_api.rs", "src/structs/vk.rs", "src/structs/vk_api.rs", "src/structs/vk_attachments.rs", "src/upload.rs"]

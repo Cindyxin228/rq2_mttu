@@ -1,0 +1,1 @@
+[".github/workflows/wasm.yml", "crates/matrix-sdk-indexeddb/src/cryptostore.rs", "crates/matrix-sdk-indexeddb/src/state_store.rs", "crates/matrix-sdk/src/client.rs", "crates/matrix-sdk/src/config/client.rs", "xtask/src/ci.rs"]

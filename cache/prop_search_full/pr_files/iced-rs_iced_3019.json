@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/wgpu.rs", "examples/custom_shader/src/scene/pipeline.rs", "examples/integration/src/main.rs", "examples/integration/src/scene.rs", "wgpu/src/color.rs", "wgpu/src/lib.rs", "wgpu/src/triangle.rs", "wgpu/src/triangle/msaa.rs", "wgpu/src/window/compositor.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/email/email_provider.rs", "src/email/mod.rs", "src/email/sendgrid.rs", "src/lib.rs", "src/xml/atom.rs", "src/xml/mod.rs", "src/xml/rss.rs"]

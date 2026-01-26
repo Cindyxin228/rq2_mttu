@@ -1,0 +1,1 @@
+[".github/workflows/check.yml", ".github/workflows/release.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "deny.toml", "src/guess.rs", "src/install.rs", "src/main.rs", "src/sha.rs", "tests/test_install.rs"]

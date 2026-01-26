@@ -1,0 +1,1 @@
+["crates/neon/src/object/mod.rs", "crates/neon/src/sys/no_panic.rs", "test/napi/lib/workers.js", "test/napi/src/js/workers.rs", "test/napi/src/lib.rs"]

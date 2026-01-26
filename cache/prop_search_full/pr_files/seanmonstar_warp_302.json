@@ -1,0 +1,1 @@
+["examples/websockets.rs", "examples/websockets_chat.rs", "src/filters/ws.rs", "src/lib.rs", "src/reject.rs", "src/test.rs", "tests/ws.rs"]

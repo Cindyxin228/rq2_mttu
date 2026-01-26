@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "metadata/Cargo.toml", "subxt/Cargo.toml", "subxt/src/error.rs", "testing/integration-tests/Cargo.toml", "testing/integration-tests/src/client/mod.rs", "testing/test-runtime/Cargo.toml"]

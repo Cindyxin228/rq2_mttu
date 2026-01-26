@@ -1,0 +1,1 @@
+["CONTRIBUTORS.md", "Cargo.lock", "RELEASE_NOTES.md", "kanidm_book/src/intro.md", "kanidm_client/Cargo.toml", "kanidm_proto/Cargo.toml", "kanidm_tools/Cargo.toml", "kanidm_unix_int/Cargo.toml", "kanidm_unix_int/nss_kanidm/Cargo.toml", "kanidm_unix_int/pam_kanidm/Cargo.toml", "kanidmd/Cargo.toml", "project_docs/RELEASE_AND_SUPPORT.md", "project_docs/RELEASE_CHECKLIST.md"]

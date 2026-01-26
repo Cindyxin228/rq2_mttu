@@ -1,0 +1,1 @@
+[".appveyor.yml", ".github/workflows/tests.yml", "README.md", "docs/colored-diff.png", "src/diff.rs", "src/legacy.rs", "src/lib.rs", "src/mock.rs", "src/server.rs", "tests/legacy.rs", "tests/lib.rs"]

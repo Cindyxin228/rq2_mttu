@@ -1,0 +1,1 @@
+["esp-hal/CHANGELOG.md", "esp-hal/esp_config.yml", "esp-rtos/build.rs", "esp-rtos/src/lib.rs", "esp-rtos/src/scheduler.rs", "esp-rtos/src/task/mod.rs"]

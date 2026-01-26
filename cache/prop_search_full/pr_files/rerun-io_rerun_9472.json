@@ -1,0 +1,1 @@
+["crates/store/re_datafusion/examples/catalog.rs", "crates/store/re_datafusion/src/datafusion_connector.rs", "crates/store/re_datafusion/src/lib.rs", "crates/store/re_datafusion/src/partition_table.rs", "rerun_py/src/catalog/dataset.rs"]

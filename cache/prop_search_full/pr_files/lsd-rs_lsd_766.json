@@ -1,0 +1,1 @@
+[".github/workflows/CICD.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "build.rs", "src/app.rs", "src/flags/display.rs", "src/main.rs", "src/meta/mod.rs", "src/meta/windows_utils.rs"]

@@ -1,0 +1,1 @@
+["wayland-client/src/lib.rs", "wayland-scanner/src/client_gen.rs", "wayland-scanner/src/server_gen.rs", "wayland-scanner/tests/scanner_assets/test-client-code.rs", "wayland-scanner/tests/scanner_assets/test-server-code.rs"]

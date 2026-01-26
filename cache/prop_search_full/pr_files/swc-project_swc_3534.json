@@ -1,0 +1,1 @@
+["crates/swc_css_parser/src/parser/base.rs", "crates/swc_css_parser/tests/recovery/hacks/input.css", "crates/swc_css_parser/tests/recovery/hacks/output.json", "crates/swc_css_parser/tests/recovery/hacks/output.swc-stderr"]

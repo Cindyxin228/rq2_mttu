@@ -1,0 +1,1 @@
+["crates/rune-modules/src/core.rs", "crates/runestick/src/modules/ops.rs", "crates/runestick/src/modules/string.rs", "crates/runestick/src/value.rs", "crates/runestick/src/vm_error.rs"]

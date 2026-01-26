@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/Cargo.toml", "crates/nu-cli/src/completions/completer.rs", "crates/nu-cli/src/completions/completion_options.rs", "crates/nu-cli/src/completions/custom_completions.rs", "crates/nu-protocol/src/config.rs", "docs/sample_config/default_config.nu"]

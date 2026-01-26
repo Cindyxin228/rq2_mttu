@@ -1,0 +1,1 @@
+["haskell-src/Concordium/GRPC2.hs", "haskell-src/Concordium/ID/AnonymityRevoker.hs", "haskell-src/Concordium/ID/IdentityProvider.hs", "haskell-src/Concordium/ID/Parameters.hs", "haskell-src/Concordium/ID/Types.hs", "haskell-src/Concordium/Types/ProtocolVersion.hs", "haskell-src/Concordium/Types/Queries.hs", "rust-src/id/src/ffi.rs"]

@@ -1,0 +1,1 @@
+["src/document.rs", "tests/fixtures/empty_frontmatter/_layouts/default.liquid", "tests/fixtures/empty_frontmatter/_layouts/posts.liquid", "tests/fixtures/empty_frontmatter/index.liquid", "tests/fixtures/empty_frontmatter/posts/my-first-blogpost.md", "tests/mod.rs", "tests/target/empty_frontmatter/index.html", "tests/target/empty_frontmatter/posts/my-first-blogpost.html"]

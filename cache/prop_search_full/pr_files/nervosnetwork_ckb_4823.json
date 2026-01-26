@@ -1,0 +1,1 @@
+["devtools/ci/ci_main.sh", "network/src/network.rs", "script/src/lib.rs", "script/src/scheduler.rs", "script/src/types.rs", "shared/src/shared_builder.rs"]

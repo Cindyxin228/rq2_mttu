@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/wasix/src/runtime/mod.rs", "lib/wasix/src/runtime/module_cache/thread_local.rs", "lib/wasix/src/runtime/package_loader/mod.rs", "lib/wasix/src/runtime/package_loader/unsupported.rs"]

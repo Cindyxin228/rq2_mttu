@@ -1,0 +1,1 @@
+["poseidon-permutation/benches/permutation.rs", "poseidon-permutation/src/permutation.rs", "poseidon377/Cargo.toml", "poseidon377/benches/oldhash.rs", "poseidon377/src/hash.rs", "poseidon377/src/lib.rs"]

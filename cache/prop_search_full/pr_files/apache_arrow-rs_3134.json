@@ -1,0 +1,1 @@
+["arrow-array/src/array/primitive_array.rs", "arrow-array/src/builder/boolean_buffer_builder.rs", "arrow-array/src/builder/null_buffer_builder.rs", "arrow-array/src/builder/primitive_builder.rs", "arrow/src/compute/kernels/arithmetic.rs", "arrow/src/compute/kernels/arity.rs"]

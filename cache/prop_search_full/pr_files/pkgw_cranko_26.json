@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "book/src/SUMMARY.md", "book/src/concepts/versions.md", "book/src/integrations/csproj.md", "ci/azure-ci-cd.yml", "ci/azure-deployment.yml", "src/app.rs", "src/cargo.rs", "src/csproj.rs", "src/graph.rs", "src/main.rs", "src/pypa.rs", "src/repository.rs", "src/version.rs"]

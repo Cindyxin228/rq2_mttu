@@ -1,0 +1,1 @@
+["axum-extra/CHANGELOG.md", "axum-extra/Cargo.toml", "axum-extra/src/lib.rs", "axum-extra/src/routing/mod.rs", "axum-extra/src/routing/spa.rs", "axum-extra/test_files/index.html", "axum-extra/test_files/index_2.html", "axum-extra/test_files/script.js", "axum/src/test_helpers/mod.rs", "axum/src/test_helpers/test_client.rs"]

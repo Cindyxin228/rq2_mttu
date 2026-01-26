@@ -1,0 +1,1 @@
+["src/config.rs", "src/relay/udprelay/redir_local.rs", "src/relay/udprelay/server.rs", "src/relay/udprelay/socks5_local.rs", "src/relay/udprelay/tunnel_local.rs"]

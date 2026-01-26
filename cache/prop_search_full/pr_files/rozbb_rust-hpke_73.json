@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/benches.rs", "examples/agility.rs", "examples/client_server.rs", "src/dhkex/ecdh_nistp.rs", "src/dhkex/x25519.rs", "src/kem.rs", "src/lib.rs", "src/op_mode.rs", "src/setup.rs", "src/single_shot.rs", "src/test_util.rs"]

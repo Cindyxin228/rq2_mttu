@@ -1,0 +1,1 @@
+["examples/bench.rs", "examples/nats.rs", "proto/evt_log.nats.proto", "proto/snapshot_store.nats copy.proto", "proto/snapshot_store.nats.proto", "src/evt_log/mod.rs", "src/evt_log/nats.rs", "src/lib.rs", "src/snapshot_store/mod.rs", "src/snapshot_store/nats.rs"]

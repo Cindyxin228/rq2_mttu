@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "ffi/rodbus-bindings/Cargo.toml", "ffi/rodbus-bindings/src/main.rs", "ffi/rodbus-ffi-java/Cargo.toml", "ffi/rodbus-ffi-java/build.rs", "ffi/rodbus-ffi-java/src/lib.rs", "ffi/rodbus-ffi/Cargo.toml", "ffi/rodbus-schema/Cargo.toml"]

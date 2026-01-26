@@ -1,0 +1,1 @@
+["sway-core/src/ir_generation/compile.rs", "sway-core/src/ir_generation/function.rs", "sway-ir/src/block.rs", "sway-ir/src/value.rs", "test/src/ir_generation/tests/redundant_return.sw"]

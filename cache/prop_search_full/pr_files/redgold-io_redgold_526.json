@@ -1,0 +1,1 @@
+["Cargo.toml", "src/gui/tabs/server_tab.rs", "src/infra/deploy.rs", "src/infra/mod.rs", "src/multiparty/initiate_mp.rs", "src/util/cli/arg_parse_config.rs", "src/util/cli/commands.rs", "src/util/cmd.rs"]

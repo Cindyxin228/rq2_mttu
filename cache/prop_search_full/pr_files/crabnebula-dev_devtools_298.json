@@ -1,0 +1,1 @@
+[".github/workflows/release-plz.yml", "crates/devtools-core/src/server.rs", "crates/devtools-v1/.gitignore", "crates/devtools-v1/Cargo.lock", "examples/tauri-v1/Cargo.lock"]

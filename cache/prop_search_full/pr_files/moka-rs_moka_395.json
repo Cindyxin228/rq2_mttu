@@ -1,0 +1,1 @@
+[".ci_extras/pin-crate-vers-msrv.sh", ".ci_extras/pin-crate-vers-nightly.sh", ".github/workflows/Audit.yml", ".github/workflows/CI.yml", ".github/workflows/CIQuantaDisabled.yml", ".github/workflows/Lints.yml", ".github/workflows/LinuxCrossCompileTest.yml", ".github/workflows/Miri.yml", ".github/workflows/Skeptic.yml"]

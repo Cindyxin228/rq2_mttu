@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/user/metrics/uuid.md", "glean-core/ffi/glean.h", "glean-core/ffi/src/uuid.rs", "glean-core/ios/Glean/GleanFfi.h", "glean-core/python/tests/metrics/test_uuid.py", "glean-core/rlb/src/private/uuid.rs", "glean-core/src/metrics/uuid.rs"]

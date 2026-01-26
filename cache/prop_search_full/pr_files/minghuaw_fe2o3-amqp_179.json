@@ -1,0 +1,1 @@
+["examples/service_bus/src/bin/queue_receiver.rs", "fe2o3-amqp/Changelog.md", "fe2o3-amqp/src/endpoint/link.rs", "fe2o3-amqp/src/link/delivery.rs", "fe2o3-amqp/src/link/mod.rs", "fe2o3-amqp/src/link/resumption.rs", "fe2o3-amqp/src/link/sender.rs", "fe2o3-amqp/src/link/sender_link.rs", "fe2o3-amqp/src/session/mod.rs", "fe2o3-amqp/src/transaction/mod.rs"]

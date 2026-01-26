@@ -1,0 +1,1 @@
+["packages/core/src/runtime.rs", "packages/core/src/suspense/component.rs", "packages/core/src/suspense/mod.rs", "packages/core/tests/suspense.rs", "packages/web/src/lib.rs"]

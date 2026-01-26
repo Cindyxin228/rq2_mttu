@@ -1,0 +1,1 @@
+["build.rs", "cranelift/filetests/filetests/runtests/fmax-pseudo.clif", "cranelift/filetests/filetests/runtests/fmin-pseudo.clif", "cranelift/filetests/filetests/runtests/simd-fmin-max-pseudo.clif"]

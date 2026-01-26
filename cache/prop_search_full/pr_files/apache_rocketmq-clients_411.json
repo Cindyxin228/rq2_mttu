@@ -1,0 +1,1 @@
+[".github/workflows/golang_build.yml", ".gitignore", "golang/client.go", "golang/client_manager_test.go", "golang/client_test.go", "golang/rpc_client.go", "golang/simple_consumer.go"]

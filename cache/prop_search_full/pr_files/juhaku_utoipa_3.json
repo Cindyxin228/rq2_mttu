@@ -1,0 +1,1 @@
+["src/lib.rs", "src/openapi/mod.rs", "src/openapi/schema.rs", "tests/common.rs", "tests/component_derive_test.rs", "tests/utoipa_gen_test.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/attribute.rs", "utoipa-gen/src/component.rs", "utoipa-gen/src/component_type.rs", "utoipa-gen/src/info.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/paths.rs"]

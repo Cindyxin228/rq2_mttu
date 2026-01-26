@@ -1,0 +1,1 @@
+["chain/src/block/cache.rs", "client/src/client.rs", "common/src/block/tree.rs", "p2p/src/protocol.rs", "p2p/src/protocol/channel.rs", "p2p/src/protocol/syncmgr.rs", "test/src/block/cache/model.rs"]

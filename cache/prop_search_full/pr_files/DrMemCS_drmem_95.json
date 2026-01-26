@@ -1,0 +1,1 @@
+["backends/drmem-db-redis/src/lib.rs", "backends/drmem-db-simple/src/lib.rs", "drmem-api/src/client.rs", "drmem-api/src/driver.rs", "drmemd/src/driver/mod.rs", "drmemd/src/graphql/mod.rs", "drmemd/src/main.rs"]

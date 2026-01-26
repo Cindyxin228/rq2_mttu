@@ -1,0 +1,1 @@
+["piet-cairo/Cargo.toml", "piet-cairo/benches/make_image.rs", "piet-cairo/examples/test-picture.rs", "piet-cairo/src/lib.rs", "piet-cairo/src/text.rs", "piet-common/Cargo.toml", "piet-common/src/cairo_back.rs"]

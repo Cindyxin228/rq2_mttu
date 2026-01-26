@@ -1,0 +1,1 @@
+["core/codegen/tests/ui-fail-stable/from_form_type_errors.stderr", "core/codegen/tests/ui-fail-stable/route-type-errors.stderr", "core/codegen/tests/ui-fail-stable/typed-uri-bad-type.stderr", "core/http/Cargo.toml"]

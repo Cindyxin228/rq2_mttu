@@ -1,0 +1,1 @@
+["contracts-ws/contracts/counter/examples/deploy.rs", "docs/src/contracts/entry-points.md", "docs/src/contracts/integration-tests.md", "docs/src/contracts/interfaces.md", "docs/src/contracts/scripting.md", "docs/src/contracts/wasm-compilation.md", "docs/src/integrations/daemon.md", "docs/src/setup/single-contract.md", "packages/interchain/starship/src/client/faucet.rs"]

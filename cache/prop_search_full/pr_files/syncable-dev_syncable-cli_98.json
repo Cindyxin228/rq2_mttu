@@ -1,0 +1,1 @@
+[".cursor/rules/project-rules.mdc", ".cursor/rules/rust-rules.mdc", "Cargo.lock", "src/handlers.rs", "src/handlers/analyze.rs", "src/handlers/dependencies.rs", "src/handlers/generate.rs", "src/handlers/mod.rs", "src/handlers/security.rs", "src/handlers/tools.rs", "src/handlers/utils.rs", "src/handlers/vulnerabilities.rs", "src/lib.rs", "src/main.rs"]

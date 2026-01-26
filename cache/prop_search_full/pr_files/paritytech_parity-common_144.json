@@ -1,0 +1,1 @@
+["parity-crypto/Cargo.toml", "parity-crypto/src/aes_gcm.rs", "parity-crypto/src/error.rs", "parity-crypto/src/hmac/mod.rs", "parity-crypto/src/lib.rs"]

@@ -1,0 +1,1 @@
+["lib/api/src/lib.rs", "lib/cli/src/net/tun.rs", "lib/compiler-cranelift/src/translator/func_state.rs", "lib/virtual-fs/src/overlay_fs.rs", "lib/vm/src/trap/traphandlers.rs", "lib/wasix/src/runners/dcgi/runner.rs", "lib/wasix/src/runtime/task_manager/mod.rs"]

@@ -1,0 +1,1 @@
+["src/libsyntax_expand/expand.rs", "src/test/ui/proc-macro/attributes-on-modules-fail.rs", "src/test/ui/proc-macro/attributes-on-modules-fail.stderr", "src/test/ui/proc-macro/attributes-on-modules.rs", "src/test/ui/proc-macro/attributes-on-modules.stderr", "src/test/ui/proc-macro/module.rs", "src/test/ui/proc-macro/outer/inner.rs"]

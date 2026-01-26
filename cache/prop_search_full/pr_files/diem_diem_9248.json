@@ -1,0 +1,1 @@
+["Cargo.lock", "language/tools/move-cli/src/package/cli.rs", "shuffle/cli/Cargo.toml", "shuffle/cli/src/new.rs", "shuffle/genesis/src/lib.rs", "shuffle/genesis/src/main.rs", "shuffle/genesis/tests/e2e.rs", "shuffle/move/src/modules/SampleModule.move"]

@@ -1,0 +1,1 @@
+["base_layer/core/src/consensus/consensus_constants.rs", "base_layer/core/src/mining/blake_miner.rs", "base_layer/core/src/proof_of_work/diff_adj_manager/diff_adj_storage.rs", "base_layer/core/src/proof_of_work/lwma_diff.rs", "base_layer/core/tests/diff_adj_manager.rs"]

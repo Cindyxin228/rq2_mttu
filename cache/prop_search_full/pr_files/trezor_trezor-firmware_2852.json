@@ -1,0 +1,1 @@
+["common/defs/coins_details.json", "common/defs/ethereum/chains", "common/defs/ethereum/tokens", "common/defs/support.json", "common/tools/cointool.py", "core/src/apps/ethereum/networks.py", "core/src/apps/ethereum/tokens.py", "tests/ui_tests/fixtures.json", "tools/check-bitcoin-only"]

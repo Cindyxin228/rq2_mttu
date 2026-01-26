@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "packages/fuels-core/src/offsets.rs", "packages/fuels-programs/src/call_utils.rs", "packages/fuels-signers/src/wallet.rs", "packages/fuels-test-helpers/src/lib.rs", "packages/fuels-types/src/message.rs"]

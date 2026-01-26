@@ -1,0 +1,1 @@
+["probe-rs/build.rs", "probe-rs/src/config/chip.rs", "probe-rs/src/config/chip_family.rs", "probe-rs/src/config/registry.rs", "probe-rs/src/config/target.rs", "probe-rs/src/target/info.rs", "probe-rs/targets/nRF51 Series.yaml", "probe-rs/targets/nRF52 Series.yaml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "default.nix", "src/attach/child.rs", "src/attach/mod.rs", "src/bin/main.rs", "src/cmd.rs", "src/files.rs", "src/lib.rs", "src/sys_ext/internal/mod.rs", "src/sys_ext/internal/pwnam.rs", "src/sys_ext/mod.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "deps-config.json", "ffi/rodbus-ffi/Cargo.toml", "ffi/rodbus-ffi/src/lib.rs", "ffi/rodbus-schema/src/lib.rs", "ffi/rodbus-schema/src/server.rs", "guide/docs/api/server/database.mdx", "guide/package.json", "rodbus/src/common/frame.rs", "sfio_logo.png"]

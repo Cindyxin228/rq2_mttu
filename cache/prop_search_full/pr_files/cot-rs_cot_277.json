@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "compose.yml", "cot-cli/src/project_template/src/main.rs", "cot/Cargo.toml", "cot/src/config.rs", "cot/src/middleware.rs", "cot/src/session.rs", "cot/src/session/store.rs", "cot/src/session/store/file.rs", "cot/src/session/store/memory.rs", "cot/src/session/store/redis.rs", "examples/sessions/src/main.rs"]

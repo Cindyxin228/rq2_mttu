@@ -1,0 +1,1 @@
+["lambda-events/src/event/cloudwatch_events/cloudtrail.rs", "lambda-events/src/fixtures/example-cloudwatch-cloudtrail-assumed-role.json", "lambda-events/src/fixtures/example-cloudwatch-cloudtrail-unknown-federate.json", "lambda-events/src/fixtures/example-cloudwatch-cloudtrail-unknown-user-auth.json"]

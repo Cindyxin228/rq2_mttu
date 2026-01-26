@@ -1,0 +1,1 @@
+["bin/nanocl/src/commands/cargo.rs", "bin/nanocl/src/commands/version.rs", "bin/nanocld/src/boot/init.rs", "bin/nanocld/src/boot/store.rs", "bin/nanocld/src/boot/system.rs", "bin/nanocld/src/utils/namespace.rs", "bin/nanocld/src/utils/store.rs"]

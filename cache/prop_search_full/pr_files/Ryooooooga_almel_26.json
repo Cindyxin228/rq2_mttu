@@ -1,0 +1,1 @@
+["src/segments/directory.rs", "src/segments/duration.rs", "src/segments/git_repo.rs", "src/segments/git_user.rs", "src/segments/mod.rs", "src/segments/os.rs", "src/segments/shell.rs", "src/segments/status.rs", "src/segments/time.rs", "src/segments/user.rs", "src/segments/venv.rs"]

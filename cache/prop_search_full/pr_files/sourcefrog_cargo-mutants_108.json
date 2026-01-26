@@ -1,0 +1,1 @@
+[".github/workflows/mutate-self.yaml", "Cargo.toml", "NEWS.md", "book/src/controlling.md", "src/config.rs", "src/lab.rs", "src/main.rs", "src/options.rs", "tests/cli/config.rs", "tests/cli/jobs.rs", "tests/cli/main.rs", "tests/cli/trace.rs", "tests/cli/windows.rs"]

@@ -1,0 +1,1 @@
+["sqlx-mysql/src/protocol/statement/row.rs", "sqlx-mysql/src/types/chrono.rs", "sqlx-mysql/src/types/float.rs", "sqlx-mysql/src/types/int.rs", "sqlx-mysql/src/types/mod.rs", "sqlx-mysql/src/types/mysql_time.rs", "sqlx-mysql/src/types/time.rs", "sqlx-mysql/src/types/uint.rs", "tests/mysql/types.rs"]

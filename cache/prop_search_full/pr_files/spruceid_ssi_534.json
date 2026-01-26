@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "examples/issue-revocation-list.rs", "examples/issue-status-list.rs", "examples/issue.rs", "ssi-ldp/Cargo.toml", "ssi-ldp/src/lib.rs", "ssi-ldp/src/proof.rs", "ssi-vc/src/lib.rs"]

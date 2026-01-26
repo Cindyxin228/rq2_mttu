@@ -1,0 +1,1 @@
+["src/type_tracer/analyzer.rs", "src/type_tracer/cross_module.rs", "src/type_tracer/mod.rs", "tests/specs/type_tracing/Namespaces02.txt"]

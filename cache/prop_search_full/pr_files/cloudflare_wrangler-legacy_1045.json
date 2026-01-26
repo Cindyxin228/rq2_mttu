@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/commands/kv/bulk/delete.rs", "src/commands/kv/key/delete.rs", "src/commands/kv/mod.rs", "src/commands/kv/namespace/delete.rs", "src/commands/mod.rs", "src/commands/secret/mod.rs", "src/main.rs", "src/terminal/emoji.rs", "src/terminal/interactive.rs", "src/terminal/mod.rs"]

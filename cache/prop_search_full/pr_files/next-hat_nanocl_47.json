@@ -1,0 +1,1 @@
+["scripts/prepare_ci.sh", "scripts/release_nanocl.sh", "src/cli/cargo.rs", "src/cli/cluster.rs", "src/cli/exec.rs", "src/client/container.rs", "src/models/cargo.rs", "src/models/cargo_instance.rs", "src/models/utils.rs"]

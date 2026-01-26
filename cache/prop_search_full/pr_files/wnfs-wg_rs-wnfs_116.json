@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".release-please-manifest.json", "release-please-config.json", "scripts/rs-wnfs.sh", "wnfs-bench/Cargo.toml", "wnfs-wasm/Cargo.toml", "wnfs/Cargo.toml"]

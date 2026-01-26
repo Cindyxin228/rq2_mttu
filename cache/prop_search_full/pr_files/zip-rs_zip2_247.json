@@ -1,0 +1,1 @@
+["src/read.rs", "src/read/config.rs", "src/read/magic_finder.rs", "src/spec.rs", "src/write.rs", "tests/prepended_garbage.rs"]

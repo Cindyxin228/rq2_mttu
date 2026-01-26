@@ -1,0 +1,1 @@
+["payjoin-cli/tests/e2e.rs", "payjoin-directory/src/lib.rs", "payjoin-test-utils/src/lib.rs", "payjoin/src/io.rs", "payjoin/src/ohttp.rs", "payjoin/tests/integration.rs"]

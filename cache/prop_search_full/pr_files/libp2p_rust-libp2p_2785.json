@@ -1,0 +1,1 @@
+["core/src/upgrade.rs", "core/src/upgrade/pending.rs", "swarm/src/connection/handler_wrapper.rs", "swarm/src/handler.rs", "swarm/src/handler/pending.rs"]

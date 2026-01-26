@@ -1,0 +1,1 @@
+[".github/workflows/check.yml", "Makefile.toml", "book/src/SUMMARY.md", "book/src/config/hoards-piles.md", "book/src/permissions.md", "src/checkers/history/operation/v2.rs", "src/command/backup_restore.rs", "src/config/builder/hoard.rs", "src/filters/ignore.rs", "src/filters/mod.rs", "src/hoard/mod.rs", "src/hoard/pile_config.rs", "src/paths.rs", "tests/restore_permissions.rs"]

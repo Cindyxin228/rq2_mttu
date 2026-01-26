@@ -1,0 +1,1 @@
+["Dockerfile", "designs/auth.rst", "rsidmd/src/lib/async_log.rs", "rsidmd/src/lib/be/mod.rs", "rsidmd/src/lib/core.rs", "rsidmd/src/lib/entry.rs", "rsidmd/src/lib/filter.rs", "rsidmd/src/lib/modify.rs", "rsidmd/src/server/main.rs"]

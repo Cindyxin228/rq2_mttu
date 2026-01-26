@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/src/main.rs", "core/examples/config.rs", "core/examples/dsl.rs", "std/Cargo.toml", "std/examples/script-runner.rs", "std/src/lib.rs", "std/src/store.rs", "std/src/terminal.rs", "web/Cargo.toml"]

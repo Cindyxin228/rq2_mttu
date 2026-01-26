@@ -1,0 +1,1 @@
+["poseidon-paramgen/Cargo.toml", "poseidon-paramgen/src/addition_chains.rs", "poseidon-paramgen/src/alpha.rs", "poseidon-paramgen/src/lib.rs", "poseidon-paramgen/src/mds.rs", "poseidon-paramgen/src/rounds.rs", "poseidon-paramgen/src/transcript.rs", "poseidon-paramgen/tests/appendix_g.rs"]

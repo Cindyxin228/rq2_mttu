@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/config.rs", "src/controller.rs", "src/docs/goose-book/src/SUMMARY.md", "src/docs/goose-book/src/config/defaults.md", "src/docs/goose-book/src/getting-started/runtime-options.md", "src/docs/goose-book/src/getting-started/test-plan.md", "src/goose.rs", "src/lib.rs", "src/manager.rs", "src/metrics.rs", "src/test_plan.rs", "src/worker.rs"]

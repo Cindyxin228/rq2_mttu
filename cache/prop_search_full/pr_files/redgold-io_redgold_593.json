@@ -1,0 +1,1 @@
+["data/src/data_store.rs", "data/src/transaction_store.rs", "data/src/utxo_store.rs", "schema/src/errors.rs", "src/core/recent_download.rs", "src/data/download.rs", "src/sanity/migrations.rs"]

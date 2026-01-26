@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "s3/src/blocking.rs", "s3/src/bucket.rs", "s3/src/bucket_ops.rs", "s3/src/command.rs", "s3/src/request.rs", "s3/src/request_trait.rs", "s3/src/signing.rs", "s3/src/surf_request.rs", "s3/src/utils.rs"]

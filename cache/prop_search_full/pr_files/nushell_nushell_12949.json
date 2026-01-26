@@ -1,0 +1,1 @@
+["crates/nu-command/src/formats/from/json.rs", "crates/nu-command/tests/format_conversions/json.rs", "crates/nu-protocol/src/pipeline/pipeline_data.rs"]

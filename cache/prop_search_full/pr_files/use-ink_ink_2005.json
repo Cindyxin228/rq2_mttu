@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "crates/e2e/src/backend.rs", "crates/e2e/src/drink_client.rs", "crates/e2e/src/subxt_client.rs", "integration-tests/call-runtime/lib.rs", "integration-tests/contract-transfer/lib.rs"]

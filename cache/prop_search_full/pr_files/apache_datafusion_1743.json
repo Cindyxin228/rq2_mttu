@@ -1,0 +1,1 @@
+["datafusion/src/execution/context.rs", "datafusion/tests/sql/mod.rs", "datafusion/tests/sql/partitioned_csv.rs", "datafusion/tests/sql/projection.rs", "datafusion/tests/sql/select.rs"]

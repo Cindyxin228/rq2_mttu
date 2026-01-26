@@ -1,0 +1,1 @@
+["examples/get_account_balance.rs", "src/client/network/mod.rs", "tests/e2e/account/allowance_approve.rs", "tests/e2e/account/allowance_delete.rs", "tests/e2e/account/mod.rs", "tests/e2e/token/mod.rs"]

@@ -1,0 +1,1 @@
+[".cargo/config.toml", "crates/neon/Cargo.toml", "crates/neon/src/event/channel.rs", "crates/neon/src/event/mod.rs", "crates/neon/src/result/mod.rs", "crates/neon/src/types/mod.rs", "crates/neon/src/types/promise.rs", "test/napi/Cargo.toml", "test/napi/lib/futures.js", "test/napi/src/js/futures.rs", "test/napi/src/js/objects.rs", "test/napi/src/lib.rs"]

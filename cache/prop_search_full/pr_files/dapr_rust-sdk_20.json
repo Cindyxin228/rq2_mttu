@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build.rs", "dapr/proto/runtime/v1/appcallback.proto", "examples/README.md", "examples/client/README.md", "examples/client/client.rs", "examples/pubsub/README.md", "examples/pubsub/publisher.rs", "examples/pubsub/subscriber.rs", "rustfmt.toml", "src/appcallback.rs", "src/client.rs", "src/dapr.rs", "src/lib.rs"]

@@ -1,0 +1,1 @@
+["examples/postgres/src/main.rs", "examples/rusqlite/src/main.rs", "examples/sqlx_any/src/main.rs", "examples/sqlx_mysql/src/main.rs", "examples/sqlx_postgres/src/main.rs", "examples/sqlx_sqlite/src/main.rs", "src/value.rs"]

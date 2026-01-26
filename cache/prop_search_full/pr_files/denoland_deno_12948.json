@@ -1,0 +1,1 @@
+["cli/tests/testdata/test/unresolved_promise.out", "cli/tests/testdata/top_level_await_circular.out", "cli/tests/testdata/top_level_await_unresolved.out", "core/runtime.rs"]

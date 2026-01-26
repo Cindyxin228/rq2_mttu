@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "src/gossip_agent/mod.rs", "src/gossip_agent/waku_handling.rs", "src/lib.rs", "src/records_to_tree.rs"]

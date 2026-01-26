@@ -1,0 +1,1 @@
+["cli/main.rs", "cli/standalone/binary.rs", "cli/standalone/mod.rs", "cli/tests/integration/compile_tests.rs", "cli/tools/standalone.rs"]

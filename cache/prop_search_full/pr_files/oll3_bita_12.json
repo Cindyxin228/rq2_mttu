@@ -1,0 +1,1 @@
+["Cargo.toml", "bitar/Cargo.toml", "bitar/build.rs", "bitar/src/compression.rs", "bitar/src/http_range_request.rs", "src/main.rs"]

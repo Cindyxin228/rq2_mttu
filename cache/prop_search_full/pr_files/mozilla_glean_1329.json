@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "docs/user/metrics/uuid.md", "glean-core/ffi/src/uuid.rs", "glean-core/rlb/Cargo.toml", "glean-core/rlb/src/private/mod.rs", "glean-core/rlb/src/private/uuid.rs", "glean-core/src/metrics/uuid.rs", "glean-core/src/traits/uuid.rs"]

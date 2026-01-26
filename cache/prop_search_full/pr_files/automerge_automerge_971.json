@@ -1,0 +1,1 @@
+["rust/automerge-c/Cargo.toml", "rust/automerge-wasm/Cargo.toml", "rust/automerge/Cargo.toml", "rust/automerge/src/automerge.rs", "rust/automerge/src/automerge/current_state.rs", "rust/automerge/src/automerge/diff.rs", "rust/deny.toml", "rust/edit-trace/Cargo.toml", "rust/edit-trace/benches/main.rs", "rust/edit-trace/src/main.rs"]

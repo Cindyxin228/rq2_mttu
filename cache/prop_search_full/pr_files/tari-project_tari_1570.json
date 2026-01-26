@@ -1,0 +1,1 @@
+["applications/tari_base_node/src/parser.rs", "comms/src/connection_manager/error.rs", "comms/src/connection_manager/manager.rs", "comms/src/connection_manager/requester.rs", "comms/src/peer_manager/manager.rs", "comms/src/peer_manager/peer.rs", "comms/src/peer_manager/peer_storage.rs", "comms/src/test_utils/connection_manager_mock.rs"]

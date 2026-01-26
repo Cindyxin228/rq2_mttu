@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "examples/Cargo.toml", "examples/crd_api.rs", "kube-core/Cargo.toml", "kube-core/src/crd.rs", "kube-core/src/request.rs", "kube-derive/Cargo.toml", "kube-runtime/Cargo.toml", "kube/Cargo.toml", "kube/src/api/core_methods.rs", "tests/Cargo.toml"]

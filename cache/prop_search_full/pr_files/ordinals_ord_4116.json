@@ -1,0 +1,1 @@
+["crates/mockcore/src/lib.rs", "src/index/updater.rs", "src/index/updater/inscription_updater.rs", "src/index/updater/rune_updater.rs", "src/index/utxo_entry.rs", "src/templates/metadata.rs", "tests/server.rs"]

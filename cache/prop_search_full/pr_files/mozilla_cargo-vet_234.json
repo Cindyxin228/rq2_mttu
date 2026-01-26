@@ -1,0 +1,1 @@
+["src/main.rs", "src/out.rs", "src/resolver.rs", "src/tests/certify.rs", "src/tests/snapshots/cargo_vet__tests__certify__mock-simple-suggested-criteria.snap", "tests/diff-cache.toml", "tests/snapshots/test_cli__test-project-suggest-json.snap", "tests/snapshots/test_cli__test-project-suggest.snap", "tests/test-project/supply-chain/audits.toml"]

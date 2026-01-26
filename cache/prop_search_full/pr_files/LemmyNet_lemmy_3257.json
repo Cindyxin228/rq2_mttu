@@ -1,0 +1,1 @@
+["migrations/2023-06-22-051755_fix_local_communities_marked_non_local/down.sql", "migrations/2023-06-22-051755_fix_local_communities_marked_non_local/up.sql"]

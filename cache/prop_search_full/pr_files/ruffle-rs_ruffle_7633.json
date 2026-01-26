@@ -1,0 +1,1 @@
+["core/src/avm2/activation.rs", "core/src/avm2/globals/Error.as", "core/src/avm2/globals/flash/errors/IllegalOperationError.as", "core/src/avm2/globals/globals.as", "tests/tests/regression_tests.rs", "tests/tests/swfs/avm2/throw/Test.as", "tests/tests/swfs/avm2/throw/output.txt", "tests/tests/swfs/avm2/throw/test.fla", "tests/tests/swfs/avm2/throw/test.swf"]

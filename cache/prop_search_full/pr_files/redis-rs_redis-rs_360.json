@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "README.md", "examples/streams.rs", "src/aio.rs", "src/aio/async_std.rs", "src/aio/tokio.rs", "src/aio_async_std.rs", "src/client.rs", "src/lib.rs"]

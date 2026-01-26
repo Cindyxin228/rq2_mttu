@@ -1,0 +1,1 @@
+["src/uu/csplit/src/csplit.rs", "src/uu/fmt/src/parasplit.rs", "src/uu/stdbuf/build.rs", "src/uucore/src/lib/features/fsext.rs", "src/uucore/src/lib/features/tokenize/num_format/formatters/floatf.rs", "src/uucore/src/lib/features/tokenize/num_format/formatters/scif.rs", "tests/by-util/test_cp.rs", "tests/by-util/test_stat.rs", "tests/by-util/test_tail.rs"]

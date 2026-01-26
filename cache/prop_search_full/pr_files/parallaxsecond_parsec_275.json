@@ -1,0 +1,1 @@
+["ci.sh", "e2e_tests/tests/all_providers/config/mod.rs", "e2e_tests/tests/all_providers/config/tomls/list_providers_1.toml", "e2e_tests/tests/all_providers/config/tomls/list_providers_2.toml", "e2e_tests/tests/all_providers/config/tomls/pkcs11_software.toml", "e2e_tests/tests/all_providers/mod.rs", "e2e_tests/tests/all_providers/normal.rs", "e2e_tests/tests/mod.rs"]

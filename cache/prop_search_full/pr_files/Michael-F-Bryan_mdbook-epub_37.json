@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/mdbook-epub.rs", "src/config.rs", "src/generator.rs", "src/lib.rs", "src/resources.rs", "src/utils.rs", "tests/dummy/listings/ch02-guessing-game-tutorial/no-listing-04-looping/src/main.rs", "tests/dummy/src/chapter_1.md", "tests/integration_tests.rs"]

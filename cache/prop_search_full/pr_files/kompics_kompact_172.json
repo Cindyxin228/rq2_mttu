@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/codecov.yml", "core/src/component/future_task.rs", "core/src/dispatch/mod.rs", "core/src/lib.rs", "core/src/net/buffers/decode_buffer.rs", "core/src/net/network_thread.rs", "core/src/runtime/scheduler.rs", "core/tests/compile-fail/component_derive_tests.stderr", "core/tests/dispatch_integration_tests.rs"]

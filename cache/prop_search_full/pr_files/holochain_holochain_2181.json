@@ -1,0 +1,1 @@
+["crates/holochain_sqlite/src/sql.rs", "crates/holochain_sqlite/src/sql/conductor/select_valid_cap_grant_for_cap_secret.sql", "crates/holochain_sqlite/src/sql/conductor/select_valid_unrestricted_cap_grant.sql", "crates/holochain_state/src/source_chain.rs"]

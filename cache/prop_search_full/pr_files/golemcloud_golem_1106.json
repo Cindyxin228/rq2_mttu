@@ -1,0 +1,1 @@
+["golem-common/src/model/plugin.rs", "golem-component-service-base/src/service/component.rs", "golem-component-service-base/src/service/plugin.rs", "golem-component-service/src/api/component.rs", "golem-component-service/src/api/mod.rs", "golem-component-service/src/grpcapi/component.rs", "golem-component-service/src/grpcapi/mod.rs"]

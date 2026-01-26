@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "src/acs.rs", "src/acscli.rs", "src/cli.rs", "src/db.rs", "src/main.rs", "src/mng.rs", "src/session.rs", "src/soap.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["tuf/src/metadata.rs", "tuf/src/repository.rs", "tuf/src/repository/ephemeral.rs", "tuf/src/repository/file_system.rs", "tuf/tests/integration.rs", "tuf/tests/simple_example.rs"]

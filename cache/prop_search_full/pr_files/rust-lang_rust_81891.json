@@ -1,0 +1,1 @@
+["src/etc/check_missing_items.py", "src/librustdoc/json/conversions.rs", "src/librustdoc/json/mod.rs", "src/rustdoc-json-types/lib.rs", "src/test/rustdoc-json/fn_pointer/header.rs", "src/test/rustdoc-json/fns/header.rs", "src/test/rustdoc-json/methods/header.rs"]

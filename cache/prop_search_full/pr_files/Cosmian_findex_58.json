@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".gitignore", "CHANGELOG.md", "Cargo.toml", "src/core/compact.rs", "src/core/search.rs", "src/interfaces/ffi/api.rs", "src/interfaces/ffi/core/mod.rs", "src/interfaces/ffi/core/traits.rs", "src/interfaces/ffi/core/utils.rs", "src/interfaces/wasm_bindgen/api.rs"]

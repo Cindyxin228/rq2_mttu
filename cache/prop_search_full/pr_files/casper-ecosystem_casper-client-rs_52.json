@@ -1,0 +1,1 @@
+[".github/workflows/ci-casper-client-rs.yml", "CHANGELOG.md", "Cargo.toml", "build.rs", "lib/deploy.rs", "lib/keygen.rs", "lib/lib.rs", "src/deploy/creation_common.rs", "src/generate_completion.rs", "tests/integration_test.rs"]

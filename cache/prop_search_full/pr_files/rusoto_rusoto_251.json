@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build.rs", "codegen/src/generator/ec2.rs", "codegen/src/generator/json.rs", "codegen/src/generator/mod.rs", "codegen/src/generator/query.rs", "codegen/src/generator/rest_json.rs", "src/ec2.rs", "src/lib.rs", "src/xmlutil.rs", "tests/ec2.rs", "tests/sample-data/skip_tree.xml"]

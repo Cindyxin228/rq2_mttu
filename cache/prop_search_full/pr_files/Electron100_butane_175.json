@@ -1,0 +1,1 @@
+["butane_core/src/db/mod.rs", "butane_core/src/migrations/fsmigrations.rs", "butane_core/tests/many.rs", "examples/getting_started/.butane/migrations/current/Blog.table", "examples/getting_started/.butane/migrations/current/Post.table", "examples/getting_started/.butane/migrations/current/Post_tags_Many.table", "examples/getting_started/.butane/migrations/current/Tag.table"]

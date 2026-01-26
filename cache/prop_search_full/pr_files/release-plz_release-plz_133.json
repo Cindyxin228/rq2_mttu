@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/git_cmd/Cargo.toml", "crates/next_version/Cargo.toml", "crates/release_plz/Cargo.toml", "crates/release_plz_core/Cargo.toml", "crates/test_logs/Cargo.toml"]

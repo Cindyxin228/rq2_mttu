@@ -1,0 +1,1 @@
+["datafusion/core/src/execution/context.rs", "datafusion/core/src/physical_optimizer/coalesce_batches.rs", "datafusion/core/src/physical_optimizer/repartition.rs"]

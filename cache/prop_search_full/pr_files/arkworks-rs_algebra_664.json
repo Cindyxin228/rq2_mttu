@@ -1,0 +1,1 @@
+["Cargo.toml", "ff/src/fields/mod.rs", "poly/benches/dense_uv_polynomial.rs", "poly/src/domain/mod.rs", "poly/src/domain/radix2/mod.rs", "test-curves/src/bls12_381/mod.rs"]

@@ -1,0 +1,1 @@
+["crates/typst-pdf/src/tags/context/table.rs", "crates/typst-pdf/src/tags/resolve.rs", "tests/ref/pdftags/table-tags-missing-cells.yml", "tests/ref/pdftags/table-tags-show-rule.yml", "tests/suite/pdftags/table.typ"]

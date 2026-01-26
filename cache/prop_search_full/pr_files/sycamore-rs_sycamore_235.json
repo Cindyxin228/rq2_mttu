@@ -1,0 +1,1 @@
+[".github/workflows/build_website.yml", ".github/workflows/build_website_prod.yml", "examples/context/index.html", "netlify.toml", "packages/sycamore/src/context.rs", "packages/sycamore/src/motion.rs", "website/src/versions.rs"]

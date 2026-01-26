@@ -1,0 +1,1 @@
+["crates/bevy_gizmos/src/gizmos.rs", "crates/bevy_math/src/bounding/bounded2d/mod.rs", "crates/bevy_math/src/bounding/bounded2d/primitive_impls.rs", "crates/bevy_math/src/direction.rs", "crates/bevy_math/src/lib.rs", "crates/bevy_math/src/rotation2d.rs", "crates/bevy_math/src/sampling/standard.rs"]

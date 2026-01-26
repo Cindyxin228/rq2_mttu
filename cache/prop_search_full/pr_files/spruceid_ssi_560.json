@@ -1,0 +1,1 @@
+["crates/claims/crates/data-integrity/core/src/suite/configuration.rs", "crates/claims/crates/data-integrity/suites/src/suites/w3c/ed25519_signature_2020.rs", "examples/issue.rs", "tests/send.rs", "tests/vcdm_v1_sign.rs"]

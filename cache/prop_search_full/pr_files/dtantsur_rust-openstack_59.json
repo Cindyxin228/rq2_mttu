@@ -1,0 +1,1 @@
+["examples/list-servers.rs", "src/common/mod.rs", "src/common/resourceiterator.rs", "src/common/types.rs", "src/common/waiter.rs", "src/compute/flavors.rs", "src/compute/keypairs.rs", "src/compute/mod.rs", "src/compute/servers.rs", "src/image/images.rs", "src/network/floatingips.rs", "src/network/networks.rs", "src/network/ports.rs", "src/network/subnets.rs", "src/utils.rs"]

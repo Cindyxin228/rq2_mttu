@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "console-subscriber/Cargo.toml", "console-subscriber/src/builder.rs", "console-subscriber/src/lib.rs", "console-subscriber/tests/support/subscriber.rs", "tokio-console/src/conn.rs"]

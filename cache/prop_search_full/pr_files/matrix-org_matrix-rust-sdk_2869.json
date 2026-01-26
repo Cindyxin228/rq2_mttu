@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/src/olm/session.rs", "crates/matrix-sdk-crypto/src/types/events/room/encrypted.rs", "crates/matrix-sdk-crypto/src/types/events/room_key_withheld.rs"]

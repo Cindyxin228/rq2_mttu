@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/provider-sdk/src/provider_main.rs", "crates/providers/Cargo.lock", "flake.lock", "flake.nix", "tests/actors/rust/Cargo.lock", "tests/actors/rust/tcp-component-command/Cargo.lock"]

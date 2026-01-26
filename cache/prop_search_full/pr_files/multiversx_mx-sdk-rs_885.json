@@ -1,0 +1,1 @@
+["contracts/feature-tests/use-module/tests/use_module_test.rs", "elrond-wasm-debug/src/world_mock/contract_container.rs", "elrond-wasm-debug/tests/sample_adder.rs", "elrond-wasm-derive/src/contract_impl.rs", "elrond-wasm-derive/src/generate/function_selector.rs", "elrond-wasm-derive/src/generate/snippets.rs", "elrond-wasm/src/contract_base/callable_contract.rs"]

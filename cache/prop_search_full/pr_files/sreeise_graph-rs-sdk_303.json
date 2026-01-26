@@ -1,0 +1,1 @@
+["graph-codegen/src/generator/gen.rs", "graph-codegen/src/parser/mod.rs", "graph-codegen/src/parser/parser_settings.rs", "graph-codegen/src/parser/settings/path_filters.rs", "graph-codegen/src/traits/mod.rs", "graph-codegen/src/traits/parse.rs", "graph-codegen/src/traits/request.rs", "tests/codegen_regex.rs"]

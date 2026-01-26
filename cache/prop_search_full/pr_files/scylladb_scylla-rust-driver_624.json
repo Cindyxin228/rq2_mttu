@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/response/result.rs", "scylla-cql/src/frame/types.rs", "scylla/src/history.rs", "scylla/src/transport/load_balancing/latency_aware.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "doc/.gitignore", "doc/book.toml", "doc/default.nix", "doc/src/README.md", "doc/src/SUMMARY.md", "justfile", "nix/modules/devshell.nix", "nix/modules/doc.nix"]

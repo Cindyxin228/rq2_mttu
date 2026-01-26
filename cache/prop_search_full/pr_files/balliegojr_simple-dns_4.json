@@ -1,0 +1,1 @@
+["simple-dns/CHANGELOG.md", "simple-dns/src/dns/name.rs", "simple-dns/src/dns/packet_header.rs", "simple-dns/src/dns/question.rs", "simple-dns/src/dns/rdata/mod.rs", "simple-dns/src/dns/resource_record.rs", "simple-dns/src/lib.rs"]

@@ -1,0 +1,1 @@
+["lib/rust/Cargo.toml", "package.json", "tools/rust/cargo-tauri-bundle/src/bundle/deb_bundle.rs", "tools/rust/cargo-tauri-bundle/src/bundle/ios_bundle.rs", "tools/rust/cargo-tauri-bundle/src/bundle/osx_bundle.rs", "tools/rust/cargo-tauri-bundle/src/main.rs"]

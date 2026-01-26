@@ -1,0 +1,1 @@
+["cli/tests/node_compat/test/parallel/test-crypto-prime.js", "ext/node/lib.rs", "ext/node/ops/crypto/mod.rs", "ext/node/ops/crypto/primes.rs", "ext/node/polyfills/internal/crypto/random.ts"]

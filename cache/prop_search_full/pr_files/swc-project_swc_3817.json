@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/tests/TODO.txt", "crates/swc_ecma_minifier/tests/golden.txt", "crates/swc_ecma_transforms_optimization/src/simplify/branch/mod.rs", "crates/swc_ecma_transforms_optimization/src/simplify/branch/tests.rs", "crates/swc_node_bundler/tests/pass/resolve-name-fix/output/entry.js"]

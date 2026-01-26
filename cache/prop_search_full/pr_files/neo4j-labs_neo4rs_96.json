@@ -1,0 +1,1 @@
+["ci/Cargo.lock.min", "ci/Cargo.lock.msrv", "lib/Cargo.toml", "lib/src/lib.rs", "lib/src/messages/discard.rs", "lib/src/messages/pull.rs", "lib/src/row.rs", "lib/src/types.rs", "lib/src/types/null.rs", "lib/src/types/serde.rs", "lib/src/types/string.rs"]

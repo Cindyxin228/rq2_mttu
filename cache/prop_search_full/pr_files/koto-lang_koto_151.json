@@ -1,0 +1,1 @@
+["src/bytecode/src/compiler.rs", "src/bytecode/src/instruction_reader.rs", "src/bytecode/src/op.rs", "src/runtime/src/vm.rs", "src/runtime/tests/vm_tests.rs"]

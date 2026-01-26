@@ -1,0 +1,1 @@
+["crates/core/src/extract/metadata.rs", "crates/core/src/extract/mod.rs", "crates/core/src/serde/request.rs", "crates/macros/src/extract.rs", "crates/macros/src/lib.rs", "crates/oapi-macros/src/parameter/derive.rs", "crates/oapi-macros/src/schema/flattened_map_schema.rs", "crates/serve-static/src/dir.rs", "examples/extract-nested/src/main.rs"]

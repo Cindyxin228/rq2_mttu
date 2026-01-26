@@ -1,0 +1,1 @@
+[".github/workflows/docs.yml", "bindings/nodejs/.gitignore", "bindings/nodejs/Cargo.toml", "bindings/nodejs/package.json", "bindings/nodejs/src/lib.rs", "bindings/nodejs/typedoc.json", "bindings/nodejs/yarn.lock", "website/docusaurus.config.js", "website/src/pages/index.js"]

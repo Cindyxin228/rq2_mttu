@@ -1,0 +1,1 @@
+["src/emit/solana.rs", "stdlib/bpf/solana.bc", "stdlib/solana.c", "tests/solana_tests/mappings.rs"]

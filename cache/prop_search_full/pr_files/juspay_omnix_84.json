@@ -1,0 +1,1 @@
+["assets/tailwind.css", "justfile", "src/app/flake.rs", "src/app/mod.rs", "src/app/widget.rs"]

@@ -1,0 +1,1 @@
+["pixi.lock", "pixi.toml", "vegafusion-core/src/planning/projection_pushdown.rs", "vegafusion-core/src/spec/data.rs", "vegafusion-python/src/lib.rs", "vegafusion-python/tests/test_get_column_usage.py", "vegafusion-python/vegafusion/__init__.py", "vegafusion-python/vegafusion/utils.py", "vegafusion-runtime/tests/test_projection_pushdown.rs"]

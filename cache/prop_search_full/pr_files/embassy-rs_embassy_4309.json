@@ -1,0 +1,1 @@
+["embassy-sync/Cargo.toml", "embassy-sync/src/channel.rs", "embassy-sync/src/pubsub/subscriber.rs", "embassy-time/Cargo.toml", "embassy-time/src/timer.rs"]

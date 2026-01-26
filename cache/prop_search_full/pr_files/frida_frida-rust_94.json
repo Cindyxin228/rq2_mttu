@@ -1,0 +1,1 @@
+[".cargo/config.toml", "frida-gum-sys/build.rs", "frida-gum/src/instruction_writer/x86_64/branch.rs", "frida-gum/src/instruction_writer/x86_64/register.rs", "frida-gum/src/instruction_writer/x86_64/writer.rs", "frida-sys/build.rs"]

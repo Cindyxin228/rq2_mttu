@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Justfile", "crates/wick/wick-rpc/Cargo.toml", "crates/wick/wick-rpc/Justfile", "crates/wick/wick-rpc/README.md", "crates/wick/wick-rpc/codegen/Cargo.toml", "crates/wick/wick-rpc/codegen/src/main.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "src/bin/solang.rs", "src/codegen/mod.rs", "src/codegen/unused_variable.rs", "src/emit/mod.rs", "src/lib.rs", "src/sema/contracts.rs", "tests/undefined_variable_detection.rs"]

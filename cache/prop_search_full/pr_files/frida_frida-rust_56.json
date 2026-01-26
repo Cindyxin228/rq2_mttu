@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/gum/hook_instruction/Cargo.toml", "examples/gum/hook_instruction/src/lib.rs", "frida-gum-sys/build.rs", "frida-gum-sys/probe_listener.c", "frida-gum-sys/probe_listener.h", "frida-gum/src/interceptor.rs", "frida-gum/src/interceptor/invocation_listener.rs"]

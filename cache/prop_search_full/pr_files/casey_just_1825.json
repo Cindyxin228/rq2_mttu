@@ -1,0 +1,1 @@
+["src/analyzer.rs", "src/assignment_resolver.rs", "src/compiler.rs", "src/error.rs", "src/evaluator.rs", "src/justfile.rs", "src/lib.rs", "src/name.rs", "src/namepath.rs", "src/parser.rs", "src/ran.rs", "src/recipe.rs", "src/source.rs", "src/testing.rs", "src/token.rs", "src/unresolved_recipe.rs", "src/variables.rs", "tests/json.rs", "tests/modules.rs"]

@@ -1,0 +1,1 @@
+["compiler/rustc_macros/src/query.rs", "compiler/rustc_middle/src/query/mod.rs", "compiler/rustc_middle/src/ty/query/mod.rs", "compiler/rustc_middle/src/ty/query/plumbing.rs", "compiler/rustc_query_system/src/query/config.rs"]

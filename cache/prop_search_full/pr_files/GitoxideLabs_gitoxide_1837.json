@@ -1,0 +1,1 @@
+["gix-index/src/access/mod.rs", "gix-index/src/entry/mod.rs", "gix-index/tests/index/access.rs", "gix-object/src/blob.rs", "gix-object/src/commit/mod.rs", "gix-object/src/lib.rs", "gix-object/src/tag/mod.rs", "gix-object/tests/object/commit/from_bytes.rs", "gix-object/tests/object/tag/mod.rs", "gix/src/repository/object.rs"]

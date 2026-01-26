@@ -1,0 +1,1 @@
+["src/framework/mod.rs", "src/framework/standard/args.rs", "src/framework/standard/command.rs", "src/framework/standard/create_command.rs", "src/framework/standard/create_group.rs", "src/framework/standard/mod.rs", "src/lib.rs", "src/model/channel/message.rs", "src/model/gateway.rs", "src/model/misc.rs"]

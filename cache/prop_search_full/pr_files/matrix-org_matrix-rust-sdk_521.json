@@ -1,0 +1,1 @@
+[".github/workflows/appservice.yml", "crates/matrix-sdk-appservice/Cargo.toml", "crates/matrix-sdk-appservice/src/error.rs", "crates/matrix-sdk-appservice/src/lib.rs", "crates/matrix-sdk-appservice/src/webserver.rs", "crates/matrix-sdk-appservice/src/webserver/mod.rs", "crates/matrix-sdk-appservice/tests/tests.rs", "xtask/src/ci.rs"]

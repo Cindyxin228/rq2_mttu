@@ -1,0 +1,1 @@
+["clippy.toml", "src/format/mod.rs", "src/format/parse.rs", "src/format/parsed.rs", "src/format/scan.rs", "src/offset/local/unix.rs", "src/offset/utc.rs"]

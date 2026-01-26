@@ -1,0 +1,1 @@
+["src/presenters/modes/normal.rs", "src/view/buffer/renderer.rs", "src/view/presenter.rs", "src/view/terminal/mod.rs", "src/view/terminal/termion_terminal.rs", "src/view/terminal/test_terminal.rs"]

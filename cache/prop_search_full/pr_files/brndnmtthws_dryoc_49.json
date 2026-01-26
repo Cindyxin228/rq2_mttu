@@ -1,0 +1,1 @@
+["src/auth.rs", "src/blake2b/blake2b_simd.rs", "src/bytes_serde.rs", "src/dryocbox.rs", "src/dryocsecretbox.rs", "src/dryocstream.rs", "src/generichash.rs", "src/kdf.rs", "src/kx.rs", "src/onetimeauth.rs", "src/pwhash.rs", "src/types.rs"]

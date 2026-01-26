@@ -1,0 +1,1 @@
+["Cargo.toml", "attestation-ca/Cargo.toml", "attestation-ca/src/lib.rs", "fido-mds/Cargo.toml", "fido-mds/src/mds.rs", "webauthn-rs-core/Cargo.toml", "webauthn-rs-core/src/attestation.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs-core/src/crypto.rs", "webauthn-rs-core/src/error.rs", "webauthn-rs-core/src/interface.rs"]

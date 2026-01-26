@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/cli/Cargo.toml", "lib/cli/src/commands/login.rs", "lib/registry/graphql/mutations/new_nonce.graphql", "lib/registry/graphql/schema.graphql", "lib/registry/src/api.rs", "lib/registry/src/graphql/mutations.rs", "lib/registry/src/types.rs", "tests/integration/cli/tests/login.rs", "tests/wasmer-web/tests/wasi-web.rs"]

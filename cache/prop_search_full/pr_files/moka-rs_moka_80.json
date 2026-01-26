@@ -1,0 +1,1 @@
+[".vscode/settings.json", "Cargo.toml", "src/future/value_initializer.rs", "src/sync.rs", "src/sync/base_cache.rs", "src/sync/deques.rs", "src/sync/invalidator.rs", "src/sync/value_initializer.rs"]

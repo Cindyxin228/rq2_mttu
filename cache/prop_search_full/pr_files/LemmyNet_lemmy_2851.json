@@ -1,0 +1,1 @@
+["crates/db_schema/src/impls/actor_language.rs", "crates/db_views/src/comment_view.rs", "crates/db_views/src/post_view.rs", "migrations/2023-05-10-095739_force_enable_undetermined_language/down.sql", "migrations/2023-05-10-095739_force_enable_undetermined_language/up.sql"]

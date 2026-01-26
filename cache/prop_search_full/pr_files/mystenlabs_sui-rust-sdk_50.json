@@ -1,0 +1,1 @@
+["crates/sui-graphql-client/src/lib.rs", "crates/sui-graphql-client/src/query_types/active_validators.rs", "crates/sui-graphql-client/src/query_types/coin.rs", "crates/sui-graphql-client/src/query_types/epoch.rs", "crates/sui-graphql-client/src/query_types/protocol_config.rs"]

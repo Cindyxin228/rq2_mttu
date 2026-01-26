@@ -1,0 +1,1 @@
+["Cargo.toml", "rspotify-http/src/common.rs", "rspotify-http/src/reqwest.rs", "rspotify-http/src/ureq.rs", "rspotify-model/Cargo.toml", "rspotify-model/src/custom_serde.rs"]

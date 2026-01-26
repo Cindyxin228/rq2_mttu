@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "platforms/windows/Cargo.toml", "platforms/windows/src/node.rs", "platforms/windows/src/tests/mod.rs", "platforms/windows/src/text.rs", "platforms/windows/src/util.rs"]

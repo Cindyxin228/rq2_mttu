@@ -1,0 +1,1 @@
+["default-plugins/compact-bar/src/main.rs", "default-plugins/status-bar/src/main.rs", "default-plugins/status-bar/src/one_line_ui.rs", "default-plugins/status-bar/src/second_line.rs", "zellij-server/src/route.rs", "zellij-server/src/screen.rs", "zellij-server/src/tab/mod.rs", "zellij-utils/src/input/actions.rs"]

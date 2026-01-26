@@ -1,0 +1,1 @@
+[".gitignore", "admin/src/args.rs", "admin/src/client.rs", "common/src/models/admin.rs", "common/src/models/error.rs", "common/src/models/mod.rs", "common/src/models/project.rs", "gateway/src/api/latest.rs", "gateway/src/lib.rs"]

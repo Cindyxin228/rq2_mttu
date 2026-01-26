@@ -1,0 +1,1 @@
+["changelog/issue-5518.md", "services/github/src/api.js", "services/github/src/constants.js", "services/github/src/handlers/job.js", "services/github/src/tc-yaml.js", "services/github/test/intree_test.js", "services/github/test/tc-yaml_test.js", "ui/docs/reference/integrations/github/taskcluster-yml-v0.mdx", "ui/docs/reference/integrations/github/taskcluster-yml-v1.mdx"]

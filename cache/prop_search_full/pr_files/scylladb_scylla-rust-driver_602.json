@@ -1,0 +1,1 @@
+[".github/workflows/cassandra.yml", "scylla-proxy/src/actions.rs", "scylla-proxy/src/frame.rs", "scylla-proxy/src/proxy.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/cql_types_test.rs", "scylla/src/transport/session_test.rs", "scylla/tests/retries.rs", "test/cluster/cassandra/docker-compose.yml"]

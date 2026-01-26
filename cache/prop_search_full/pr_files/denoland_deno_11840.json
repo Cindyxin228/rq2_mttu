@@ -1,0 +1,1 @@
+["core/bindings.rs", "ext/console/02_console.js", "ext/web/13_message_port.js", "ext/web/internal.d.ts", "ext/web/message_port.rs", "runtime/js/11_workers.js", "runtime/js/99_main.js", "tools/wpt/expectation.json"]

@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/compare_to_serde.rs", "tests/main.rs"]

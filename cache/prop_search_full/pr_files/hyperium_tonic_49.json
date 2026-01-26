@@ -1,0 +1,1 @@
+["tonic-build/src/client.rs", "tonic-build/src/lib.rs", "tonic-build/src/server.rs", "tonic-build/tests/protos/empty.proto", "tonic-build/tests/protos/wellknown.proto", "tonic-build/tests/wellknown.rs"]

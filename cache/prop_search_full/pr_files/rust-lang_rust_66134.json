@@ -1,0 +1,1 @@
+["src/libfmt_macros/lib.rs", "src/libfmt_macros/tests.rs", "src/libsyntax_ext/format.rs", "src/test/ui/if/ifmt-bad-arg.stderr", "src/test/ui/if/ifmt-unknown-trait.stderr"]

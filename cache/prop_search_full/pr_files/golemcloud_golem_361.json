@@ -1,0 +1,1 @@
+["golem-worker-executor-base/tests/api.rs", "golem-worker-executor-base/tests/common/mod.rs", "test-templates/runtime-service.wasm", "test-templates/runtime-service/src/lib.rs", "test-templates/runtime-service/wit/deps/golem/golem-host.wit", "test-templates/runtime-service/wit/runtime.wit"]

@@ -1,0 +1,1 @@
+["node/src/components/block_accumulator.rs", "node/src/components/block_accumulator/block_acceptor.rs", "node/src/components/block_accumulator/config.rs", "node/src/components/block_accumulator/tests.rs", "resources/local/config.toml"]

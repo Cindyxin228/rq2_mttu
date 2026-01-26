@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "deny.toml", "foundations/Cargo.toml", "foundations/build.rs", "foundations/src/telemetry/otlp_conversion/common.rs", "foundations/src/telemetry/tracing/internal.rs", "foundations/tests/settings.rs"]

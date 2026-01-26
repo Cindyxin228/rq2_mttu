@@ -1,0 +1,1 @@
+["src/colors.rs", "src/error.rs", "src/filters.rs", "src/headers.rs", "src/lib.rs", "src/png/mod.rs", "src/png/scan_lines.rs", "src/rayon.rs", "src/reduction/bit_depth.rs", "src/reduction/color.rs", "src/reduction/mod.rs"]

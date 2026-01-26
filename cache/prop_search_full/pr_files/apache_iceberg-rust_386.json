@@ -1,0 +1,1 @@
+["crates/iceberg/src/expr/visitors/inclusive_metrics_evaluator.rs", "crates/iceberg/src/spec/datatypes.rs", "crates/iceberg/src/spec/manifest.rs", "crates/iceberg/src/spec/manifest_list.rs", "crates/iceberg/src/spec/schema.rs", "crates/iceberg/src/spec/values.rs", "crates/iceberg/src/transform/temporal.rs"]

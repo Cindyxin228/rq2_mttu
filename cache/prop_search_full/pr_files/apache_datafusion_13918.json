@@ -1,0 +1,1 @@
+["datafusion/functions/src/crypto/digest.rs", "datafusion/functions/src/crypto/md5.rs", "datafusion/functions/src/crypto/sha224.rs", "datafusion/functions/src/crypto/sha256.rs", "datafusion/functions/src/crypto/sha384.rs", "datafusion/functions/src/crypto/sha512.rs", "docs/source/user-guide/sql/scalar_functions.md"]

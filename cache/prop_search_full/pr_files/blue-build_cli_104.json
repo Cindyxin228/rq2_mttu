@@ -1,0 +1,1 @@
+["integration-tests/Earthfile", "integration-tests/test-scripts/secureblue/100-test-chmod.sh", "integration-tests/test-scripts/test-file.sh", "src/commands/build.rs"]

@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "node/src/components/deploy_acceptor.rs", "utils/nctl/sh/scenarios/chainspecs/network_soundness.chainspec.toml.override", "utils/nctl/sh/scenarios/network_soundness.py"]

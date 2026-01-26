@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "derive/Cargo.toml", "derive/README.md", "derive/src/lib.rs", "examples/list-servers-paginated.rs", "src/client.rs", "src/lib.rs", "src/session.rs", "src/stream.rs"]

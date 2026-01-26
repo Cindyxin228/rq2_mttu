@@ -1,0 +1,1 @@
+["ocipkg-cli/Cargo.toml", "ocipkg-cli/src/bin/ocipkg.rs", "ocipkg/src/digest.rs", "ocipkg/src/distribution/auth.rs", "ocipkg/src/distribution/client.rs", "ocipkg/src/distribution/mod.rs"]

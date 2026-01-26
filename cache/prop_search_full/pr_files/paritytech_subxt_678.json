@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/src/commands/codegen.rs", "cli/src/commands/compatibility.rs", "cli/src/commands/metadata.rs"]

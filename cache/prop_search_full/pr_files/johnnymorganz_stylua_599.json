@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/formatters/assignment.rs", "src/formatters/expression.rs", "tests/inputs-luau/if-expression-6.lua", "tests/inputs/hang-parens-assign-no-indent.lua", "tests/snapshots/tests__luau@if-expression-6.lua.snap", "tests/snapshots/tests__standard@hang-parens-assign-no-indent.lua.snap"]

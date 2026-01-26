@@ -1,0 +1,1 @@
+["crates/napi/Cargo.toml", "crates/napi/src/bindgen_runtime/callback_info.rs", "crates/napi/src/bindgen_runtime/js_values/value_ref.rs", "crates/napi/src/bindgen_runtime/module_register.rs", "crates/napi/src/tokio_runtime.rs"]

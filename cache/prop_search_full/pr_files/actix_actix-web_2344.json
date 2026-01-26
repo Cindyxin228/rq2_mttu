@@ -1,0 +1,1 @@
+["CHANGES.md", "actix-http/CHANGES.md", "actix-http/src/encoding/decoder.rs", "actix-http/src/header/shared/content_encoding.rs", "actix-http/src/header/shared/quality_item.rs", "src/middleware/compress.rs", "tests/test_server.rs"]

@@ -1,0 +1,1 @@
+["cargo-audit/src/error.rs", "cargo-lock/src/error.rs", "cargo-lock/src/lib.rs", "cargo-lock/src/lockfile.rs", "cargo-lock/src/lockfile/encoding.rs", "cargo-lock/src/lockfile/version.rs", "cargo-lock/src/metadata.rs", "cargo-lock/src/package/checksum.rs", "cargo-lock/src/package/source.rs"]

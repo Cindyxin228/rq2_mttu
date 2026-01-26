@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "docker-compose.yml", "tests/fixtures/initdb-dc.sh", "tests/fixtures/initdb.sh", "tests/initdb-martin.sh", "tests/test-auto-sources.sh", "tests/test-configured-sources.sh"]

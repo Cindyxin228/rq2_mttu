@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/npm/cache.rs", "cli/npm/mod.rs", "cli/npm/registry.rs", "cli/npm/resolution.rs", "cli/npm/semver/errors.rs", "cli/npm/semver/mod.rs", "cli/npm/semver/range.rs", "cli/npm/semver/specifier.rs", "cli/npm/tarball.rs", "cli/npm/version_req.rs", "cli/tests/testdata/npm/deno_run_non_existent.out"]

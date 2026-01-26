@@ -1,0 +1,1 @@
+["build/instructions_template.rs", "build/static_string_indexing.rs", "src/ffi.rs", "src/lib/ffi.pl", "src/machine/dispatch.rs", "src/machine/machine_errors.rs", "src/machine/machine_state.rs", "src/machine/system_calls.rs", "tests-pl/ffi_heap.pl", "tests-pl/ffi_locals.pl", "tests/scryer/cli/src_tests/ffi_locals.md", "tests/scryer/ffi.rs"]

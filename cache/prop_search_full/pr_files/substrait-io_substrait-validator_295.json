@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "c/Cargo.toml", "ci/version", "ci/version-diff-template", "derive/Cargo.toml", "py/Cargo.toml", "py/pyproject.toml", "rs/Cargo.toml", "rs/README.md", "tests/Cargo.toml"]

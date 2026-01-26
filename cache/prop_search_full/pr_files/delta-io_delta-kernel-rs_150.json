@@ -1,0 +1,1 @@
+["kernel/examples/dump-table/Cargo.toml", "kernel/examples/dump-table/src/main.rs", "kernel/src/client/arrow_data.rs", "kernel/src/client/arrow_utils.rs", "kernel/src/client/default/parquet.rs", "kernel/src/client/mod.rs", "kernel/src/client/sync/parquet.rs", "kernel/src/lib.rs", "kernel/src/scan/mod.rs", "kernel/tests/read.rs"]

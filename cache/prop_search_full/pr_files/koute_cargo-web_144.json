@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "integration-tests/Cargo.toml", "integration-tests/src/tests.rs", "src/app_dirs/imp/platform/windows.rs", "src/build.rs", "src/cargo_shim/mod.rs", "src/cmd_start.rs", "src/http_utils.rs", "src/main.rs", "src/package.rs", "src/test_chromium.rs", "src/wasm_context.rs", "src/wasm_gc.rs", "src/wasm_hook_grow.rs", "src/wasm_inline_js.rs"]

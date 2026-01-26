@@ -1,0 +1,1 @@
+["Cargo.toml", "ipc/Cargo.toml", "ipc/examples/ipc.rs", "ipc/src/lib.rs", "ipc/src/logger.rs", "ipc/src/meta.rs", "ipc/src/nix.rs", "ipc/src/stream_codec.rs", "ipc/src/tests.rs", "ipc/src/uds.rs", "ipc/src/win.rs"]

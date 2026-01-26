@@ -1,0 +1,1 @@
+["src/client/ws/json.rs", "src/core/body/incoming.rs", "src/core/client/connect/http.rs", "src/core/client/connect/proxy/socks.rs", "src/core/client/connect/proxy/tunnel.rs", "src/core/client/mod.rs", "src/core/client/pool.rs", "src/core/common/lazy.rs", "src/core/proto/h1/conn.rs"]

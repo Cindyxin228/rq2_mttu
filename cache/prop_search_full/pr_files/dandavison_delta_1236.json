@@ -1,0 +1,1 @@
+["src/features/line_numbers.rs", "src/handlers/blame.rs", "src/handlers/diff_header.rs", "src/handlers/grep.rs", "src/subcommands/diff.rs", "src/subcommands/list_syntax_themes.rs", "src/utils/path.rs"]

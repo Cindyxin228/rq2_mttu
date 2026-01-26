@@ -1,0 +1,1 @@
+["kube-derive/src/custom_resource.rs", "kube-derive/tests/crd_enum_test.rs", "kube-derive/tests/ui/enum_fails.stderr", "kube-derive/tests/ui/union_fails.rs", "kube-derive/tests/ui/union_fails.stderr"]

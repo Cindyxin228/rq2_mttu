@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/matrix-sdk-base/Cargo.toml", "crates/matrix-sdk-base/src/client.rs", "crates/matrix-sdk-base/src/rooms/normal.rs", "crates/matrix-sdk-base/src/sliding_sync.rs", "crates/matrix-sdk/src/room/mod.rs", "testing/matrix-sdk-integration-testing/src/tests/sliding_sync/room.rs"]

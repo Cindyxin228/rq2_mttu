@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc/Cargo.toml", "crates/swc/src/lib.rs", "crates/swc_bundler/Cargo.toml", "crates/swc_ecma_loader/Cargo.toml", "crates/swc_ecma_loader/src/resolvers/lru.rs", "crates/swc_ecma_minifier/Cargo.toml", "crates/swc_ecma_minifier/src/eval.rs"]

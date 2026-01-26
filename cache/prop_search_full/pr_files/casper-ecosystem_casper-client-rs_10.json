@@ -1,0 +1,1 @@
+[".github/workflows/ci-casper-client-rs.yml", "Cargo.toml", "lib/deploy.rs", "lib/lib.rs", "lib/types.rs", "lib/types/block.rs", "lib/types/block/v1.rs", "lib/types/block/v2.rs", "lib/types/era_end.rs", "lib/types/proof.rs", "lib/types/timestamp.rs", "lib/validation.rs"]

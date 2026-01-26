@@ -1,0 +1,1 @@
+["aws-creds/Cargo.toml", "s3/Cargo.toml", "s3/src/request_trait.rs", "s3/src/signing.rs"]

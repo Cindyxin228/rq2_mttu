@@ -1,0 +1,1 @@
+["scripts/test.sh", "utoipa-gen/tests/path_derive.rs", "utoipa-gen/tests/path_parameter_derive_actix.rs"]

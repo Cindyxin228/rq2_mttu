@@ -1,0 +1,1 @@
+["README.md", "src/future/cache.rs", "src/sync/base_cache.rs", "src/unsync/cache.rs", "tests/ui/future/get_with_non_static_future.stderr", "tests/ui/future/try_get_with_non_static_future.stderr"]

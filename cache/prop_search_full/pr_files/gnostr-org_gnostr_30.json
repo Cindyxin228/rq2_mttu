@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/nostr-sqlite.rs", "src/bin/git_remote_nostr/push.rs", "src/lib/client.rs", "src/lib/components/chat_details/mod.rs", "src/lib/git/mod.rs", "src/lib/git/nostr_url.rs", "src/lib/git_events.rs", "src/lib/login/key_encryption.rs", "src/lib/login/mod.rs", "src/lib/repo_ref.rs", "src/lib/sub_commands/send.rs"]

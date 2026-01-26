@@ -1,0 +1,1 @@
+["README.md", "src/firestore_serde/mod.rs", "src/firestore_serde/null_serializers.rs", "src/firestore_serde/serializer.rs", "src/firestore_serde/timestamp_serializers.rs", "tests/complex-structure-serialize.rs"]

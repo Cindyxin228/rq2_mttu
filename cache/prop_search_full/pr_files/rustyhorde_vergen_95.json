@@ -1,0 +1,1 @@
+["src/config.rs", "src/feature/build.rs", "src/feature/cargo.rs", "src/feature/git.rs", "src/feature/rustc.rs", "src/feature/si.rs", "src/gen.rs", "src/lib.rs"]

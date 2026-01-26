@@ -1,0 +1,1 @@
+["src/sys/console.rs", "src/sys/keyboard.rs", "src/usr/editor.rs", "src/usr/shell.rs"]

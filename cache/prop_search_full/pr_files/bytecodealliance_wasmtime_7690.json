@@ -1,0 +1,1 @@
+["crates/test-programs/src/bin/preview2_tcp_bind.rs", "crates/test-programs/src/bin/preview2_udp_bind.rs", "crates/test-programs/src/sockets.rs", "crates/wasi-http/wit/deps/sockets/tcp.wit", "crates/wasi/src/preview2/host/network.rs", "crates/wasi/src/preview2/host/tcp.rs", "crates/wasi/wit/deps/sockets/tcp.wit"]

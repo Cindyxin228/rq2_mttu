@@ -1,0 +1,1 @@
+["crates/shadowsocks-service/src/local/redir/sys/unix/bsd_pf.rs", "crates/shadowsocks-service/src/local/redir/sys/unix/pfvar_bindgen_freebsd.rs", "crates/shadowsocks-service/src/local/redir/udprelay/sys/unix/bsd.rs"]

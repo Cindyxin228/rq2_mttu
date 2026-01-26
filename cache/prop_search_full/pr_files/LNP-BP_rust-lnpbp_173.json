@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bp/bip32.rs", "src/bp/chain.rs", "src/bp/dbc/error.rs", "src/bp/dbc/keyset.rs", "src/bp/dbc/lockscript.rs", "src/bp/descriptor.rs", "src/bp/psbt.rs", "src/bp/scripts/pubkey_parser.rs", "src/bp/scripts/tweak.rs", "src/bp/slip32.rs", "src/bp/strict_encoding.rs", "src/rgb/stash/anchor.rs"]

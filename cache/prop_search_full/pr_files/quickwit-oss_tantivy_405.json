@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "appveyor.yml", "ci/script.sh", "run-tests.sh", "src/common/bitset.rs", "src/core/segment_reader.rs", "src/directory/ram_directory.rs", "src/fastfield/mod.rs", "src/indexer/index_writer.rs", "src/lib.rs"]

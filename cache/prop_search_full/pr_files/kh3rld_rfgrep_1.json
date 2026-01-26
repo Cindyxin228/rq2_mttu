@@ -1,0 +1,1 @@
+[".github/workflows/bench.yml", ".gitignore", "CHANGELOG.md", "README.md", "benches/run.sh", "scripts/run_benchmarks.rs", "src/cli.rs", "src/list.rs", "src/main.rs", "src/processor.rs", "tests/run_tests.sh"]

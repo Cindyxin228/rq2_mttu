@@ -1,0 +1,1 @@
+["opentelemetry-datadog/src/exporter/mod.rs", "opentelemetry-jaeger/src/exporter/mod.rs", "opentelemetry-otlp/src/transform/metrics.rs", "opentelemetry-zipkin/src/exporter/model/span.rs"]

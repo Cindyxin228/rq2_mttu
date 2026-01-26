@@ -1,0 +1,1 @@
+["crates/wasi-common/src/snapshots/preview_1/error.rs", "crates/wasi/src/preview2/preview1/mod.rs", "tests/all/cli_tests.rs", "tests/all/cli_tests/wasi_misaligned_pointer.wat"]

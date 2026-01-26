@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "README.adoc", "dropshot/Cargo.toml", "dropshot/examples/schema-with-example.rs", "dropshot/src/api_description.rs", "dropshot/src/lib.rs", "dropshot/tests/test_pagination.rs", "dropshot_endpoint/Cargo.toml", "dropshot_endpoint/src/lib.rs"]

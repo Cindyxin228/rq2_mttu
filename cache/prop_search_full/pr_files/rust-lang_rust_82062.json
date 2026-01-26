@@ -1,0 +1,1 @@
+["compiler/rustc_parse/src/parser/item.rs", "src/bootstrap/install.rs", "src/librustdoc/clean/mod.rs", "src/librustdoc/clean/utils.rs", "src/stage0.txt", "src/test/rustdoc/mut-params.rs", "src/test/rustdoc/range-arg-pattern.rs", "src/test/ui/parser/issue-81806.rs", "src/test/ui/parser/issue-81806.stderr"]

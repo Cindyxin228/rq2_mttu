@@ -1,0 +1,1 @@
+[".dockerignore", "Cargo.toml", "docker/Dockerfile.iroh-gateway", "docker/Dockerfile.iroh-one", "docker/Dockerfile.iroh-p2p", "docker/Dockerfile.iroh-store", "docker/install_protoc.sh", "xtask/src/main.rs"]

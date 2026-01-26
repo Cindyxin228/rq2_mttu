@@ -1,0 +1,1 @@
+["crates/nu-command/src/default_context.rs", "crates/nu-command/src/deprecated/deprecated_commands.rs", "crates/nu-command/src/network/http/get.rs", "crates/nu-command/src/network/http/http_.rs", "crates/nu-command/src/network/http/mod.rs", "crates/nu-command/src/network/http/post.rs", "crates/nu-command/src/network/mod.rs", "crates/nu-command/src/strings/split/words.rs"]

@@ -1,0 +1,1 @@
+["java/core/lance-jni/src/blocking_dataset.rs", "java/core/lance-jni/src/ffi.rs", "java/core/src/main/java/com/lancedb/lance/Dataset.java", "java/core/src/main/java/com/lancedb/lance/test/JniTestHelper.java", "java/core/src/test/java/com/lancedb/lance/DatasetTest.java", "java/core/src/test/java/com/lancedb/lance/JNITest.java"]

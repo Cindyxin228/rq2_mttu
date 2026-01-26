@@ -1,0 +1,1 @@
+["crates/services/p2p/src/behavior.rs", "crates/services/p2p/src/gossipsub/config.rs", "crates/services/p2p/src/lib.rs", "crates/services/p2p/src/p2p_service.rs", "crates/services/p2p/src/peer_manager.rs", "crates/services/p2p/src/peer_report.rs", "crates/services/p2p/src/service.rs", "crates/types/src/services/p2p/peer_reputation.rs"]

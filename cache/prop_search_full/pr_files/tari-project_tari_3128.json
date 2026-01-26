@@ -1,0 +1,1 @@
+["applications/tari_console_wallet/src/recovery.rs", "base_layer/wallet/src/utxo_scanner_service/handle.rs", "base_layer/wallet/src/utxo_scanner_service/utxo_scanning.rs", "base_layer/wallet_ffi/src/lib.rs", "base_layer/wallet_ffi/src/tasks.rs", "base_layer/wallet_ffi/wallet.h"]

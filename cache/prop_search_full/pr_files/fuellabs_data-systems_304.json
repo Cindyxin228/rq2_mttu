@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/prepare_release.yaml", "CONTRIBUTING.md", "Makefile", "package.json", "pnpm-lock.yaml", "scripts/set_envs.sh", "scripts/setup.sh"]

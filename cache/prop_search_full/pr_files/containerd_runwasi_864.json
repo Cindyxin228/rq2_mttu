@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/containerd-shim-wasm/Cargo.toml", "crates/containerd-shim-wasm/src/sandbox/instance.rs", "crates/containerd-shim-wasm/src/sandbox/shim/local.rs", "crates/containerd-shim-wasm/src/sys/unix/container/instance.rs", "crates/stress-test/src/main.rs", "crates/stress-test/src/mocks/shim.rs"]

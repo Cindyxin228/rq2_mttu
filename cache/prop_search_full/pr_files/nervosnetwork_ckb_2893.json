@@ -1,0 +1,1 @@
+["ckb-bin/src/subcommand/migrate.rs", "db-migration/src/lib.rs", "sync/src/synchronizer/mod.rs", "util/launcher/src/migrate.rs", "util/launcher/src/shared_builder.rs"]

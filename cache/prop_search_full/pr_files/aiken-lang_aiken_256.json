@@ -1,0 +1,1 @@
+["crates/aiken-project/src/deps/downloader.rs", "crates/aiken-project/src/deps/manifest.rs", "crates/aiken-project/src/error.rs", "crates/aiken-project/src/paths.rs", "crates/aiken/src/cmd/deps/clear_cache.rs", "crates/aiken/src/cmd/deps/mod.rs", "crates/aiken/src/cmd/mod.rs", "crates/aiken/src/main.rs"]

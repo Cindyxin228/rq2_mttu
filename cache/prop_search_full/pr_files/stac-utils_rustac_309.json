@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "python/.gitignore", "python/CHANGELOG.md", "python/README.md", "python/docs/api.md", "python/mkdocs.yml", "python/pyproject.toml", "python/requirements-dev.in", "python/requirements-dev.txt", "python/src/lib.rs", "python/stacrs.pyi", "python/tests/test_migrate.py", "stac/CHANGELOG.md", "stac/src/lib.rs", "stac/src/version.rs"]

@@ -1,0 +1,1 @@
+["src/lib.rs", "src/native/etw_types.rs", "src/native/evntrace.rs", "src/provider.rs", "src/provider/event_filter.rs", "src/trace.rs"]

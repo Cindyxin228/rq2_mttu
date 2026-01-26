@@ -1,0 +1,1 @@
+["idl/dlp.json", "src/processor/delegate.rs", "src/processor/undelegate.rs", "src/state/delegation.rs", "tests/integration/idls/delegation.json"]

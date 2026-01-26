@@ -1,0 +1,1 @@
+["crates/ruma-common/src/events/_custom.rs", "crates/ruma-common/src/events/content.rs", "crates/ruma-common/src/events/room/aliases.rs", "crates/ruma-common/src/events/room/member.rs", "crates/ruma-common/tests/events/redacted.rs", "crates/ruma-macros/src/events/event.rs", "crates/ruma-macros/src/events/event_content.rs"]

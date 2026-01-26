@@ -1,0 +1,1 @@
+["sway-lsp/src/capabilities/inlay_hints.rs", "sway-lsp/src/handlers/request.rs", "sway-lsp/tests/fixtures/inlay_hints/.gitignore", "sway-lsp/tests/fixtures/inlay_hints/Forc.toml", "sway-lsp/tests/fixtures/inlay_hints/src/main.sw", "sway-lsp/tests/integration/lsp.rs", "sway-lsp/tests/lib.rs"]

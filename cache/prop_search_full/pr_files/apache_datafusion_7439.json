@@ -1,0 +1,1 @@
+["datafusion/core/tests/fuzz_cases/mod.rs", "datafusion/core/tests/fuzz_cases/sort_fuzz.rs"]

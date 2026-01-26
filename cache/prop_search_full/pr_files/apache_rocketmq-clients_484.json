@@ -1,0 +1,1 @@
+["rust/README.md", "rust/src/client.rs", "rust/src/conf.rs", "rust/src/error.rs", "rust/src/lib.rs", "rust/src/model/common.rs", "rust/src/model/message.rs", "rust/src/producer.rs", "rust/src/session.rs", "rust/src/simple_consumer.rs", "rust/src/util.rs"]

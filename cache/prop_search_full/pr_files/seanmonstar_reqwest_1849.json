@@ -1,0 +1,1 @@
+["examples/simple.rs", "src/async_impl/request.rs", "src/proxy.rs", "tests/blocking.rs", "tests/brotli.rs", "tests/client.rs", "tests/cookie.rs", "tests/deflate.rs", "tests/gzip.rs", "tests/multipart.rs", "tests/proxy.rs", "tests/redirect.rs", "tests/timeouts.rs", "tests/upgrade.rs"]

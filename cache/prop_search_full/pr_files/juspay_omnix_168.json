@@ -1,0 +1,1 @@
+["crates/flakreate/registry/README.md", "crates/flakreate/registry/flake.lock", "crates/flakreate/registry/flake.nix", "crates/flakreate/src/main.rs", "crates/nix_rs/CHANGELOG.md", "crates/nix_rs/src/flake/url.rs", "crates/omnix-gui/src/app/flake.rs", "flake.nix", "justfile", "nix/rust.nix"]

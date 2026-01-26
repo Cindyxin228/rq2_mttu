@@ -1,0 +1,1 @@
+["sqlx-core/src/connection.rs", "sqlx-core/src/mysql/options/mod.rs", "sqlx-core/src/postgres/options/mod.rs", "sqlx-core/src/sqlite/options/mod.rs"]

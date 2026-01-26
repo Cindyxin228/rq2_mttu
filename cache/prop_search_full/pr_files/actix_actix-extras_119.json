@@ -1,0 +1,1 @@
+["actix-cors/CHANGES.md", "actix-cors/Cargo.toml", "actix-cors/examples/cors.rs", "actix-cors/src/all_or_some.rs", "actix-cors/src/builder.rs", "actix-cors/src/error.rs", "actix-cors/src/inner.rs", "actix-cors/src/lib.rs", "actix-cors/src/middleware.rs", "actix-cors/tests/tests.rs"]

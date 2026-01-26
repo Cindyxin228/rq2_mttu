@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nix_health/src/check/mod.rs", "crates/nix_health/src/check/rosetta.rs", "crates/nix_health/src/lib.rs", "crates/nix_rs/Cargo.toml", "crates/nix_rs/src/env.rs", "flake.nix"]

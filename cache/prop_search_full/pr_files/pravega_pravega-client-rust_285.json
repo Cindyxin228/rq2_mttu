@@ -1,0 +1,1 @@
+["controller-client/src/cli.rs", "controller-client/src/lib.rs", "controller-client/src/mock_controller.rs", "controller-client/src/paginator.rs", "integration_test/src/controller_tests.rs"]

@@ -1,0 +1,1 @@
+["examples/flamegraph.rs", "examples/multithread.rs", "examples/multithread_flamegraph.rs", "examples/post_processor.rs", "examples/prime_number.rs", "examples/profile_proto.rs", "src/lib.rs", "src/profiler.rs", "src/report.rs"]

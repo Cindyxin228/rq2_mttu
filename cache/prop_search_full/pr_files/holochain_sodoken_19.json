@@ -1,0 +1,1 @@
+["crates/sodoken/Cargo.toml", "crates/sodoken/src/crypto_box.rs", "crates/sodoken/src/crypto_box/curve25519xchacha20poly1305.rs", "crates/sodoken/src/crypto_box/curve25519xsalsa20poly1305.rs", "crates/sodoken/src/secretbox.rs", "crates/sodoken/src/secretbox/xchacha20poly1305.rs", "crates/sodoken/src/secretbox/xsalsa20poly1305.rs"]

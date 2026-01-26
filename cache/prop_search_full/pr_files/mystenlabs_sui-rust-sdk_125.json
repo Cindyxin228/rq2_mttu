@@ -1,0 +1,1 @@
+["crates/sui-rpc/src/proto/generated/sui.rpc.v2beta2.fds.bin", "crates/sui-rpc/src/proto/generated/sui.rpc.v2beta2.rs", "crates/sui-rpc/src/proto/generated/sui.rpc.v2beta2.serde.rs", "crates/sui-rpc/src/proto/sui/rpc/v2beta2/effects.rs", "crates/sui-rpc/vendored/proto/sui/rpc/v2beta2/effects.proto"]

@@ -1,0 +1,1 @@
+[".github/workflows/benchmarks.yml", ".github/workflows/benchmarks_gitlab.yml", ".github/workflows/gitspiegel-trigger.yml", ".gitlab-ci.yml", "scripts/ci/push_bench_results.sh"]

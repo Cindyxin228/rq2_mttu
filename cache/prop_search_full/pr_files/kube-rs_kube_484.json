@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/admission_controller.rs", "examples/admission_controller.yaml", "kube/Cargo.toml", "kube/src/api/admission.rs", "kube/src/api/dynamic.rs", "kube/src/api/mod.rs"]

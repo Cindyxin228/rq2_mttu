@@ -1,0 +1,1 @@
+["crates/rattler_conda_types/src/repo_data/mod.rs", "crates/rattler_conda_types/src/repo_data/snapshots/rattler_conda_types__repo_data__test__deserialize_no_packages_conda.snap", "crates/rattler_repodata_gateway/src/sparse/mod.rs", "test-data/channels/dummy-no-conda-packages/linux-64/repodata.json"]

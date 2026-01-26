@@ -1,0 +1,1 @@
+["scylla-proxy/examples/cmdline.rs", "scylla-proxy/examples/identity_proxy.rs", "scylla-proxy/examples/identity_shard_aware_proxy.rs"]

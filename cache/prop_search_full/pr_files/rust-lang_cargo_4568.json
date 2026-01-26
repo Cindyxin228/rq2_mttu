@@ -1,0 +1,1 @@
+["src/bin/package.rs", "src/cargo/core/manifest.rs", "src/cargo/core/package.rs", "src/cargo/core/source/source_id.rs", "src/cargo/ops/cargo_package.rs", "src/cargo/ops/registry.rs", "src/cargo/util/toml/mod.rs", "src/crates-io/lib.rs", "tests/alt-registry.rs", "tests/cargotest/support/publish.rs", "tests/publish.rs"]

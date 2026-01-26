@@ -1,0 +1,1 @@
+["sqlx-postgres/src/type_checking.rs", "sqlx-postgres/src/types/cube.rs", "sqlx-postgres/src/types/mod.rs", "tests/postgres/setup.sql", "tests/postgres/types.rs"]

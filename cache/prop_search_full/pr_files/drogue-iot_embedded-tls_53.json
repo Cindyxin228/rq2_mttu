@@ -1,0 +1,1 @@
+["examples/embassy/src/main.rs", "examples/tokio/src/main.rs", "rust-toolchain.toml", "src/lib.rs", "tests/client_test.rs"]

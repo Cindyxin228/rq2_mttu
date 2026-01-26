@@ -1,0 +1,1 @@
+["kernel/examples/read-table-changes/Cargo.toml", "kernel/examples/read-table-changes/src/main.rs", "kernel/src/lib.rs", "kernel/src/table_changes/mod.rs", "kernel/src/table_changes/scan.rs", "kernel/tests/cdf.rs", "kernel/tests/data/cdf-table-with-cdc-and-dvs.tar.zst"]

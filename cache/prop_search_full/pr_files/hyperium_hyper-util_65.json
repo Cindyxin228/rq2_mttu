@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", "src/client/legacy/client.rs", "src/client/legacy/connect/http.rs", "src/client/legacy/pool.rs", "src/rt/tokio.rs", "src/server/conn/auto.rs"]

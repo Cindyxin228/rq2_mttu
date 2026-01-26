@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "deny.toml", "src/advisories/helpers/db.rs", "src/advisories/helpers/index.rs", "src/lib.rs", "tests/advisories.rs"]

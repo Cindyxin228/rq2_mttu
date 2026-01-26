@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "README.md", "src/azure/blobstore.rs", "src/bin/sccache-dist/main.rs", "src/cache/redis.rs", "src/commands.rs", "src/compiler/compiler.rs", "src/dist/client_auth.rs", "src/jobserver.rs", "src/mock_command.rs", "src/server.rs", "src/test/utils.rs"]

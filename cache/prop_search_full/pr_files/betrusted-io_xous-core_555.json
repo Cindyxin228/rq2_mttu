@@ -1,0 +1,1 @@
+["apps/vault/tools/vaultbackup-rs/Cargo.toml", "kernel/Cargo.toml", "loader/Cargo.toml", "services/aes/Cargo.toml", "services/content-plugin-api/Cargo.toml", "services/gam/Cargo.toml", "services/xous-swapper/Cargo.toml"]

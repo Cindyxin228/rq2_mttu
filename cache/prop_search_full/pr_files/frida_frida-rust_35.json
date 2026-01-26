@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/core/console_log/Cargo.toml", "examples/core/console_log/src/main.rs", "frida/Cargo.toml", "frida/src/device.rs", "frida/src/device_manager.rs", "frida/src/error.rs", "frida/src/lib.rs", "frida/src/process.rs", "frida/src/script.rs", "frida/src/session.rs"]

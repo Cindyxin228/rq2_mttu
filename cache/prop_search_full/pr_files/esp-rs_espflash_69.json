@@ -1,0 +1,1 @@
+["espflash/src/chip/esp32/esp32.rs", "espflash/src/chip/esp32/esp32c3.rs", "espflash/src/chip/esp32/esp32s2.rs", "espflash/src/chip/esp8266.rs", "espflash/src/chip/mod.rs", "espflash/src/flasher.rs"]

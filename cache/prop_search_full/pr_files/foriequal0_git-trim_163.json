@@ -1,0 +1,1 @@
+["README.md", "docs/git-trim.1", "docs/git-trim.man", "src/args.rs", "src/config.rs", "src/lib.rs", "src/main.rs", "tests/filter_accidential_track.rs", "tests/fixture/mod.rs", "tests/non_trackings_non_upstreams.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/package-binary.yml", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "daemon/platform/apple/mod.rs", "daemon/platform/apple/process_helper.rs", "daemon/platform/mod.rs"]

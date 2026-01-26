@@ -1,0 +1,1 @@
+["src/rust/Cargo.toml", "src/rust/fuzz/fuzz_targets/feature.rs", "src/rust/src/feature_generated.rs", "src/rust/src/file_reader.rs", "src/rust/src/geometry_reader.rs", "src/rust/src/header_generated.rs", "src/rust/src/http_reader.rs", "src/rust/src/lib.rs", "src/rust/src/properties_reader.rs", "src/rust/tests/http_read.rs", "src/rust/tests/read.rs", "src/rust/tests/write.rs"]

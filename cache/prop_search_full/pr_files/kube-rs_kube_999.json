@@ -1,0 +1,1 @@
+["kube-client/src/lib.rs", "kube-core/src/admission.rs", "kube-core/src/conversion/mod.rs", "kube-core/src/conversion/test_data/simple.json", "kube-core/src/conversion/types.rs", "kube-core/src/lib.rs", "kube-core/src/response.rs"]

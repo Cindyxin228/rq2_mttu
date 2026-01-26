@@ -1,0 +1,1 @@
+["fuzz/src/router.rs", "lightning/src/chain/chainmonitor.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/routing/router.rs", "pending_changelog/remove_balance_msat.txt"]

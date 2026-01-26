@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/core/src/addon.rs", "crates/core/src/config/addons.rs", "crates/core/src/network.rs", "crates/core/src/repository/mod.rs", "src/command/install.rs", "src/command/update.rs", "src/gui/element/my_addons.rs", "src/gui/element/settings.rs", "src/gui/mod.rs", "src/gui/update.rs"]

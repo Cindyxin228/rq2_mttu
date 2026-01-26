@@ -1,0 +1,1 @@
+["embassy-mspm0/Cargo.toml", "embassy-mspm0/src/uart/buffered.rs", "embassy-mspm0/src/uart/mod.rs", "examples/mspm0g3507/Cargo.toml", "tests/mspm0/Cargo.toml", "tests/mspm0/src/bin/uart_buffered.rs"]

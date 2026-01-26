@@ -1,0 +1,1 @@
+["docs/hooks.md", "schema/mise.json", "src/cli/hook_env.rs", "src/config/config_file/mise_toml.rs", "src/hooks.rs", "src/shell/bash.rs", "src/shell/elvish.rs", "src/shell/fish.rs", "src/shell/mod.rs", "src/shell/nushell.rs", "src/shell/xonsh.rs", "src/shell/zsh.rs"]

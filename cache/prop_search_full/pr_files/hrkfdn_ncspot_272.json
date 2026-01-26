@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "src/command.rs", "src/commands.rs", "src/library.rs", "src/main.rs", "src/mpris.rs", "src/playlist.rs", "src/ui/contextmenu.rs", "src/ui/playlist.rs"]

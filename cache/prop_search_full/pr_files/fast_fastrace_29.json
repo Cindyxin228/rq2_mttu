@@ -1,0 +1,1 @@
+["CHANGELOG.md", "fastrace/src/collector/mod.rs", "fastrace/src/lib.rs", "fastrace/src/local/local_collector.rs", "fastrace/src/local/local_span.rs", "fastrace/src/local/local_span_line.rs", "fastrace/src/local/local_span_stack.rs", "fastrace/src/span.rs", "fastrace/tests/lib.rs"]

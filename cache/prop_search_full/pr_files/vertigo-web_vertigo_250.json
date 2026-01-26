@@ -1,0 +1,1 @@
+["crates/vertigo/src/dom/dom_element.rs", "crates/vertigo/src/driver_module/src_js/api_browser/dom/dom.ts", "crates/vertigo/src/driver_module/src_js/api_browser/hashrouter.ts", "crates/vertigo/src/driver_module/wasm_run.js", "demo/app/src/app/sudoku/component/render_cell_possible.rs"]

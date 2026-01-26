@@ -1,0 +1,1 @@
+["esp-hal-common/src/analog/dac.rs", "esp-hal-common/src/dma/gdma.rs", "esp-hal-common/src/dma/mod.rs", "esp-hal-common/src/dma/pdma.rs", "esp-hal-common/src/i2s.rs", "esp-hal-common/src/spi.rs"]

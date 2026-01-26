@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/flat_storage_creator.rs", "core/store/src/flat/delta.rs", "core/store/src/flat/storage.rs", "core/store/src/flat/store_helper.rs", "integration-tests/src/tests/client/flat_storage.rs", "tools/flat-storage/src/commands.rs"]

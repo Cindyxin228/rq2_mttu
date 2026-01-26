@@ -1,0 +1,1 @@
+["src/event.rs", "src/platform_impl/linux/x11/event_processor.rs", "src/platform_impl/linux/x11/ime/context.rs", "src/platform_impl/linux/x11/ime/mod.rs", "src/platform_impl/windows/window.rs"]

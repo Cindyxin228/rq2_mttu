@@ -1,0 +1,1 @@
+["README.md", "metrics-benchmark/Cargo.toml", "metrics-exporter-prometheus/Cargo.toml", "metrics-exporter-tcp/Cargo.toml", "metrics-macros/Cargo.toml", "metrics-observer/Cargo.toml", "metrics-tracing-context/Cargo.toml", "metrics-util/Cargo.toml", "metrics/Cargo.toml", "tooling/metrics-histogram-fidelity/Cargo.toml"]

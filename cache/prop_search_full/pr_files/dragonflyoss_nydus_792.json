@@ -1,0 +1,1 @@
+["rafs/src/metadata/inode.rs", "rafs/src/metadata/layout/v5.rs", "src/bin/nydus-image/builder/stargz.rs", "src/bin/nydus-image/core/node.rs", "src/bin/nydus-image/main.rs", "src/bin/nydus-image/unpack/pax/test.rs", "storage/src/lib.rs", "storage/src/meta/mod.rs", "tests/builder.rs"]

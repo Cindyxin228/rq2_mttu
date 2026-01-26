@@ -1,0 +1,1 @@
+["Cargo.lock", "io/zenoh-link/Cargo.toml", "io/zenoh-link/src/lib.rs", "io/zenoh-links/zenoh-link-serial/Cargo.toml", "io/zenoh-links/zenoh-link-serial/src/lib.rs", "io/zenoh-links/zenoh-link-serial/src/unicast.rs", "io/zenoh-transport/Cargo.toml", "zenoh/Cargo.toml"]

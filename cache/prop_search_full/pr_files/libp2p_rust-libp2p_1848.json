@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/src/connection.rs", "core/src/connection/pool.rs", "core/src/network.rs", "core/src/network/peer.rs", "core/tests/connection_limits.rs", "core/tests/network_dial_error.rs", "core/tests/util.rs", "swarm/CHANGELOG.md", "swarm/src/lib.rs"]

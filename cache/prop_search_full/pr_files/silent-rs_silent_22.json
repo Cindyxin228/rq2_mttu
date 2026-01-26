@@ -1,0 +1,1 @@
+["silent/Cargo.toml", "silent/src/lib.rs", "silent/src/security/aes.rs", "silent/src/security/argon2.rs", "silent/src/security/mod.rs", "silent/src/security/pbkdf2.rs", "silent/src/security/readme.md", "silent/src/security/rsa.rs"]

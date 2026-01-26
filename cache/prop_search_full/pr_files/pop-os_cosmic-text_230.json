@@ -1,0 +1,1 @@
+["Cargo.toml", "ci.sh", "src/font/fallback/mod.rs", "src/glyph_cache.rs", "src/layout.rs", "src/lib.rs", "src/math.rs", "src/shape.rs"]

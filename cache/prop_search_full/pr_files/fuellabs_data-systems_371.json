@@ -1,0 +1,1 @@
+["cluster/charts/fuel-streams/Chart.yaml", "cluster/charts/fuel-streams/templates/consumer/deployment.yaml", "cluster/charts/fuel-streams/templates/webserver/certificate.yaml", "cluster/charts/fuel-streams/templates/webserver/deployment.yaml", "cluster/charts/fuel-streams/templates/webserver/service.yaml", "cluster/charts/fuel-streams/values.yaml", "examples/Cargo.toml"]

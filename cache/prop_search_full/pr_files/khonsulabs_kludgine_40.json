@@ -1,0 +1,1 @@
+["examples/text.rs", "src/style/colors.rs", "src/text/mod.rs", "src/text/rich.rs", "src/text/wrap.rs", "src/text/wrap/measured.rs", "src/text/wrap/tokenizer.rs", "src/ui/legion.rs", "src/ui/text_field.rs"]

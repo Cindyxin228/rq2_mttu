@@ -1,0 +1,1 @@
+["demo/zine.toml", "locales/en.ftl", "locales/zh.ftl", "src/build.rs", "src/engine.rs", "src/entity/article.rs", "src/entity/author.rs", "src/entity/mod.rs", "src/entity/season.rs", "src/entity/zine.rs", "static/zine.css", "templates/article.jinja", "templates/author.jinja", "templates/season.jinja"]

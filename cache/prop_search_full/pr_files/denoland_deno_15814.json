@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/file_fetcher.rs", "cli/lsp/registries.rs", "cli/main.rs", "cli/npm/cache.rs", "cli/npm/mod.rs", "cli/npm/registry.rs", "cli/proc_state.rs", "cli/progress_bar.rs"]

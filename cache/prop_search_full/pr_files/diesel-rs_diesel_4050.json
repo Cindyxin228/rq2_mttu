@@ -1,0 +1,1 @@
+["diesel/src/insertable.rs", "diesel/src/query_builder/insert_statement/insert_with_default_for_sqlite.rs", "diesel/src/query_builder/insert_statement/mod.rs", "diesel/src/type_impls/tuples.rs", "diesel_compile_tests/tests/fail/columns_cannot_be_rhs_of_insert.stderr", "diesel_derives/src/multiconnection.rs"]

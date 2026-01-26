@@ -1,0 +1,1 @@
+["jsonschema/src/compilation/context.rs", "jsonschema/src/compilation/mod.rs", "jsonschema/src/error.rs", "jsonschema/src/keywords/additional_properties.rs", "jsonschema/src/keywords/if_.rs", "jsonschema/src/output.rs", "jsonschema/src/paths.rs", "jsonschema/src/schema_node.rs"]

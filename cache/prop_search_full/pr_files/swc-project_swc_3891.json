@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/.gitignore", "crates/swc_ecma_minifier/examples/minifier.rs", "crates/swc_ecma_minifier/src/pass/merge_exports.rs"]

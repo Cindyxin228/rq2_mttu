@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/block-explorer/explorer-indexer/Cargo.toml", "examples/hello-world-native/hello-indexer-native/Cargo.toml", "examples/hello-world/hello-indexer/Cargo.toml", "packages/fuel-indexer-plugin/Cargo.toml", "packages/fuel-indexer-plugin/src/native.rs", "packages/fuel-indexer-plugin/src/wasm.rs"]

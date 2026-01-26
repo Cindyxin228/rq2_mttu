@@ -1,0 +1,1 @@
+["sway-ir/src/optimize.rs", "sway-ir/src/optimize/conditional_constprop.rs", "sway-ir/src/pass_manager.rs", "sway-ir/tests/ccp/ccp1.ir", "sway-ir/tests/tests.rs"]

@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_optimization/src/simplify/inlining/mod.rs", "crates/swc_ecma_transforms_optimization/tests/expr-simplifier/issue-3816/input.js", "crates/swc_ecma_transforms_optimization/tests/expr-simplifier/issue-3816/output.js"]

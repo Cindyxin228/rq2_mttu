@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/asset_cache/src/lib.rs", "crates/ecs/Cargo.toml", "crates/ecs/src/attributes.rs", "crates/ecs/src/component.rs", "crates/ecs/src/component_traits.rs", "crates/network/Cargo.toml", "crates/network/src/client.rs", "crates/renderer/Cargo.toml", "crates/renderer/src/lib.rs", "shared_crates/element/src/hooks.rs", "shared_crates/element/src/lib.rs"]

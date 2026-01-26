@@ -1,0 +1,1 @@
+["clients/js/package.json", "clients/js/pnpm-lock.yaml", "clients/js/src/generated/accounts/editionMarkerV2.ts", "clients/js/src/generated/instructions/printV1.ts", "clients/js/src/hooked/editionMarker.ts", "clients/js/src/hooked/resolvers.ts", "clients/js/test/printV1.test.ts", "configs/kinobi.cjs", "programs/token-metadata/program/src/processor/metadata/print.rs"]

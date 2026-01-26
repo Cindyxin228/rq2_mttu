@@ -1,0 +1,1 @@
+[".github/workflows/covector-version-or-publish.yml", "Cargo.toml", "core/tauri-build/src/lib.rs", "core/tests/app-updater/Cargo.toml", "core/tests/app-updater/build.rs", "core/tests/app-updater/src/main.rs", "core/tests/app-updater/tauri.conf.json", "core/tests/app-updater/tests/update.rs"]

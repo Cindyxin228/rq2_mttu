@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "examples/with_auto_reauth.rs", "rspotify-macros/src/lib.rs", "rspotify-model/src/device.rs", "rspotify-model/src/lib.rs", "rspotify-model/src/track.rs", "tests/test_models.rs", "tests/test_oauth2.rs", "tests/test_with_oauth.rs"]

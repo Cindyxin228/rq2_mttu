@@ -1,0 +1,1 @@
+[".gitattributes", ".vscode/extensions.json", "core/src/eval.rs", "core/src/exec.rs", "std/src/service/cloud.rs", "std/src/service/cmds.rs", "std/src/storage/fs.rs", "std/src/storage/mod.rs"]

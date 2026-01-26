@@ -1,0 +1,1 @@
+["impls/src/adapters/file.rs", "impls/src/adapters/http.rs", "libwallet/src/api_impl/foreign.rs", "libwallet/src/api_impl/owner.rs", "libwallet/src/internal/selection.rs", "libwallet/src/internal/tx.rs", "libwallet/src/slate.rs", "libwallet/src/slate_versions/v4.rs"]

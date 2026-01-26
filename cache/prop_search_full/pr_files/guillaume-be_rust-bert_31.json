@@ -1,0 +1,1 @@
+["examples/sequence_classification.rs", "src/pipelines/common.rs", "src/pipelines/mod.rs", "src/pipelines/sentiment.rs", "src/pipelines/sequence_classification.rs", "src/pipelines/token_classification.rs"]

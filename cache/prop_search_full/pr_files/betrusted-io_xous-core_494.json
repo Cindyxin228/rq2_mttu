@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "apps/hidv2/Cargo.toml", "apps/hidv2/locales/i18n.json", "apps/hidv2/src/main.rs", "apps/manifest.json", "services/usb-device-xous/Cargo.toml", "services/usb-device-xous/src/api.rs", "services/usb-device-xous/src/hid.rs", "services/usb-device-xous/src/lib.rs", "services/usb-device-xous/src/main.rs", "services/usb-device-xous/src/main_hw.rs"]

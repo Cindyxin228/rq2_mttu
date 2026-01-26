@@ -1,0 +1,1 @@
+["crates/adapters/src/format/avro/deserializer.rs", "crates/adapters/src/static_compile/deinput.rs", "crates/adapters/src/static_compile/seroutput.rs", "crates/feldera-types/src/serde_with_context/serialize.rs"]

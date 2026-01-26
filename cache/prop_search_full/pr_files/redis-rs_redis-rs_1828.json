@@ -1,0 +1,1 @@
+["Cargo.lock", "redis/Cargo.toml", "redis/tests/support/mock_cluster.rs", "redis/tests/test_cluster_async.rs"]

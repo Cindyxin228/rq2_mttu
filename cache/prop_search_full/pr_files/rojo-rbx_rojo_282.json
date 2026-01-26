@@ -1,0 +1,1 @@
+["Cargo.toml", "plugin/src/ApiContext.lua", "plugin/src/DevSettings.lua", "plugin/src/InstanceMap.lua", "plugin/src/ServeSession.lua", "src/change_processor.rs", "src/serve_session.rs", "src/web/api.rs", "src/web/interface.rs"]

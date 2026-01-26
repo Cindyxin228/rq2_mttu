@@ -1,0 +1,1 @@
+["src/backend/mod.rs", "src/build_time.rs", "src/cli/outdated.rs", "src/cli/upgrade.rs", "src/plugins/core/rust.rs", "src/toolset/mod.rs", "src/toolset/outdated_info.rs"]

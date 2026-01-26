@@ -1,0 +1,1 @@
+["libafl_targets/src/libfuzzer.c", "scripts/fmt_all.sh", "utils/libafl_fmt/src/main.rs"]

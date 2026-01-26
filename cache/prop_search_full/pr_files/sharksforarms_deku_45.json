@@ -1,0 +1,1 @@
+["benches/deku.rs", "deku-derive/src/lib.rs", "deku-derive/src/macros/deku_read.rs", "deku-derive/src/macros/deku_write.rs", "ensure_no_std/src/bin/main.rs", "examples/enums.rs", "examples/example.rs", "src/attributes.rs", "src/lib.rs", "src/slice_impls.rs", "tests/test_macro.rs"]

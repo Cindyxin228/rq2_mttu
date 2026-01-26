@@ -1,0 +1,1 @@
+["crates/macro/src/html_tree/html_tag/mod.rs", "tests/macro/html-tag-fail.rs", "tests/macro/html-tag-fail.stderr"]

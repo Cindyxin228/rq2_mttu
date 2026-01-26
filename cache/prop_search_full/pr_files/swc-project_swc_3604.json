@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc_bundler/Cargo.toml", "crates/swc_common/Cargo.toml", "crates/swc_ecma_lints/Cargo.toml", "crates/swc_plugin_runner/Cargo.toml"]

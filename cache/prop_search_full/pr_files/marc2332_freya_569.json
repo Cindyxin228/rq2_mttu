@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/common/src/paragraphs.rs", "crates/components/src/switch.rs", "crates/core/src/dom/mutations_writer.rs", "crates/core/src/events/events_measurer.rs", "crates/core/src/plugins.rs", "crates/freya/src/plugins/performance_overlay.rs", "crates/native-core/src/real_dom.rs", "crates/renderer/src/app.rs", "crates/state/src/layout.rs"]

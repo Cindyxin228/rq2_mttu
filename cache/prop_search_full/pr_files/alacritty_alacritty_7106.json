@@ -1,0 +1,1 @@
+["Cargo.lock", "alacritty/Cargo.toml", "alacritty/src/display/hint.rs", "alacritty/src/event.rs", "alacritty/src/input.rs", "alacritty/src/renderer/mod.rs", "alacritty/src/renderer/rects.rs", "alacritty/src/renderer/text/glyph_cache.rs"]

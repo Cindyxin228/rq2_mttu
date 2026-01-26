@@ -1,0 +1,1 @@
+[".github/pull_request_template.md", "Cargo.lock", "Cargo.toml", "README.md", "crates/server/Cargo.toml", "crates/starknet-server/Cargo.toml", "crates/types/Cargo.toml", "scripts/check_unused_deps.sh"]

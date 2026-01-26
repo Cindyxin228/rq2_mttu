@@ -1,0 +1,1 @@
+["serde_amqp/src/constants.rs", "serde_amqp/src/de.rs", "serde_amqp/src/primitives/symbol.rs", "serde_amqp/src/ser.rs", "serde_amqp/src/util.rs", "serde_amqp/src/value/mod.rs", "serde_amqp/src/value/ser.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/clippy.yml", ".github/workflows/linux.yml", ".github/workflows/windows-mingw.yml", ".travis.yml", "README.md", "actix-server/tests/test_server.rs", "actix-service/Cargo.toml", "router/CHANGES.md"]

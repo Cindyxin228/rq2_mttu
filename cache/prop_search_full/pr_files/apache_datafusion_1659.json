@@ -1,0 +1,1 @@
+["ballista/rust/core/proto/ballista.proto", "ballista/rust/core/src/serde/logical_plan/from_proto.rs", "ballista/rust/core/src/serde/logical_plan/to_proto.rs", "ballista/rust/core/src/serde/mod.rs"]

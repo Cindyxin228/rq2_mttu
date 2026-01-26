@@ -1,0 +1,1 @@
+["src/rdata/aaaa.rs", "src/rdata/cds.rs", "src/rdata/dname.rs", "src/rdata/dnssec.rs", "src/rdata/mod.rs", "src/rdata/nsec3.rs", "src/rdata/srv.rs", "src/rdata/tsig.rs", "src/sign/records.rs", "src/tsig/interop.rs", "src/tsig/mod.rs"]

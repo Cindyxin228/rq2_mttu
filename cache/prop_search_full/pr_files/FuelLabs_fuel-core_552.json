@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "ci/Dockerfile.x86_64-unknown-linux-gnu-clang", "ci/centos-entrypoint"]

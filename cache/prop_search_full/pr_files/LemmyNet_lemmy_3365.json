@@ -1,0 +1,1 @@
+[".woodpecker.yml", "crates/api_common/src/build_response.rs", "crates/api_crud/src/comment/create.rs", "crates/apub/src/activities/community/mod.rs", "crates/apub/src/mentions.rs", "crates/db_schema/src/impls/comment.rs", "scripts/fix-clippy.sh"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/aiken-lang/src/uplc.rs", "crates/aiken-project/src/blueprint/validator.rs", "crates/uplc/Cargo.toml", "crates/uplc/src/ast.rs", "crates/uplc/src/lib.rs", "crates/uplc/src/optimize.rs", "crates/uplc/src/optimize/shrinker.rs"]

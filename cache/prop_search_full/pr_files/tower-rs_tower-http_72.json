@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/README.md", "examples/tonic-key-value-store/Cargo.toml", "examples/tonic-key-value-store/README.md", "examples/tonic-key-value-store/build.rs", "examples/tonic-key-value-store/proto/key_value_store.proto", "examples/tonic-key-value-store/src/main.rs"]

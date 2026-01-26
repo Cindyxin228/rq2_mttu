@@ -1,0 +1,1 @@
+["Cargo.lock", "azalea-auth/Cargo.toml", "azalea-auth/src/auth.rs", "azalea-auth/src/game_profile.rs", "azalea-auth/src/sessionserver.rs", "azalea-client/src/account.rs", "azalea-client/src/chat.rs", "azalea-client/src/client.rs", "azalea-protocol/Cargo.toml", "azalea-protocol/examples/handshake_proxy.rs", "azalea-protocol/src/connect.rs", "azalea/Cargo.toml"]

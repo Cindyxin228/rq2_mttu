@@ -1,0 +1,1 @@
+["book/src/SUMMARY.md", "book/src/sinks/README.md", "book/src/sinks/aws_sqs.md", "book/src/sinks/elastic.md", "book/src/sinks/gcp_cloudfunction.md", "book/src/sinks/gcp_pubsub.md", "book/src/sinks/rabbitmq.md", "book/src/sinks/webhook.md", "src/sinks/webhook.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "bitar/Cargo.toml", "bitar/src/api/compress.rs", "bitar/src/api/mod.rs", "bitar/src/chunker/config.rs", "bitar/src/lib.rs", "bitar/tests/common.rs", "bitar/tests/compress_archives_default.rs", "bitar/tests/compress_archives_lzma.rs", "bitar/tests/compress_archives_zstd.rs"]

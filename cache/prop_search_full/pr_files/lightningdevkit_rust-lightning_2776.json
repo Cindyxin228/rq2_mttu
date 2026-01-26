@@ -1,0 +1,1 @@
+["fuzz/src/onion_message.rs", "lightning/src/onion_message/functional_tests.rs", "lightning/src/onion_message/messenger.rs"]

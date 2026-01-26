@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "bin/gen/src/common.rs", "bin/gen/src/error.rs", "src/common.rs", "src/error.rs", "src/peer/client.rs", "src/platform.rs", "src/platform_interface.rs", "src/reckoner.rs", "src/subcommand/torrent/verify.rs", "src/torrent_summary.rs"]

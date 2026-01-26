@@ -1,0 +1,1 @@
+["examples/firestore-client/Cargo.toml", "examples/gcs-rest-client/Cargo.toml", "examples/secrets-manager-client/Cargo.toml", "examples/simple-api-client/Cargo.toml", "gcloud-sdk/Cargo.toml"]

@@ -1,0 +1,1 @@
+["scripts/generate_contract_param_methods.py", "sdk/rust/src/contract/contract_function_parameters.rs", "sdk/rust/src/contract/contract_function_selector.rs", "sdk/rust/src/contract/mod.rs", "sdk/rust/src/lib.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "scripts/migrations/pre-0.5.0/migrate_poof_data.sh", "src/commands/info.rs", "src/constants.rs", "src/files/datadirs.rs"]

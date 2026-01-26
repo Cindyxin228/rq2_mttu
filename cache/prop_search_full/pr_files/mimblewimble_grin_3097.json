@@ -1,0 +1,1 @@
+["core/src/macros.rs", "core/tests/vec_backend.rs", "keychain/src/extkey_bip32.rs", "keychain/src/mnemonic.rs", "keychain/src/types.rs"]

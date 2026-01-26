@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "crypto/constant_time_test.c", "crypto/curve25519/curve25519.c", "crypto/curve25519/curve25519_64_adx.c", "crypto/curve25519/curve25519_tables.h", "crypto/curve25519/internal.h", "crypto/internal.h", "src/constant_time.rs", "src/cpu/intel.rs", "src/ec/curve25519/ed25519/signing.rs", "src/ec/curve25519/ops.rs", "src/ec/curve25519/x25519.rs"]

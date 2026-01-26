@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/dbsp/Cargo.toml", "crates/fda/Cargo.toml", "crates/feldera-types/Cargo.toml", "crates/pipeline-manager/Cargo.toml", "crates/sqllib/Cargo.toml", "crates/storage/Cargo.toml", "openapi.json", "python/pyproject.toml", "scripts/bump-versions.sh"]

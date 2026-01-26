@@ -1,0 +1,1 @@
+["src/blob/mod.rs", "src/cache.rs", "src/lib.rs", "src/params.rs", "src/pragma.rs", "src/session.rs", "src/statement.rs", "src/trace.rs", "src/transaction.rs", "src/types/chrono.rs", "src/types/from_sql.rs", "src/types/mod.rs", "src/types/serde_json.rs", "src/types/time.rs", "src/types/to_sql.rs", "src/types/url.rs", "src/vtab/array.rs", "src/vtab/vtablog.rs"]

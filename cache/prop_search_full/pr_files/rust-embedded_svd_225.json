@@ -1,0 +1,1 @@
+[".github/bors.toml", ".github/workflows/ci.yml", ".github/workflows/clippy.yml", ".github/workflows/rustfmt.yml", "README.md", "cmsis-svd", "svd-encoder/Cargo.toml", "svd-encoder/README.md", "svd-parser/CHANGELOG.md", "svd-parser/Cargo.toml", "svd-parser/README.md", "svd-parser/src/lib.rs", "svd-rs/CHANGELOG.md", "svd-rs/Cargo.toml", "svd-rs/README.md"]

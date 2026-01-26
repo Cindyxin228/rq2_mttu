@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/project/Cargo.lock", "examples/project/Cargo.toml", "examples/project/src/app.rs", "examples/project/src/lib.rs", "examples/project/src/server.rs", "src/command/build.rs", "src/compile/hash.rs", "src/compile/mod.rs", "src/compile/tests.rs", "src/config/hash_file.rs", "src/config/mod.rs", "src/config/project.rs"]

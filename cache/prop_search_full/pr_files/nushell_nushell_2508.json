@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands.rs", "crates/nu-cli/src/commands/each/command.rs", "crates/nu-cli/src/commands/each/group.rs", "crates/nu-cli/src/commands/each/mod.rs", "crates/nu-cli/src/commands/each/window.rs", "crates/nu-cli/tests/commands/each.rs"]

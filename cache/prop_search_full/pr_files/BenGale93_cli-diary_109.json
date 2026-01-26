@@ -1,0 +1,1 @@
+["src/bin/diary/cli.rs", "src/bin/diary/commands/commit.rs", "src/bin/diary/main.rs", "src/diary/config.rs", "src/diary/errors.rs", "src/diary/lib.rs", "src/diary/utils/date.rs"]

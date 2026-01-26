@@ -1,0 +1,1 @@
+["web-wallet/CHANGELOG.md", "web-wallet/src/lib/errors/index.js", "web-wallet/src/lib/errors/invalid-mnemonic-error.js", "web-wallet/src/lib/errors/invalid-password-error.js", "web-wallet/src/lib/errors/mismatched-wallet-error.js", "web-wallet/src/routes/(welcome)/login/+page.svelte", "web-wallet/src/routes/(welcome)/login/__tests__/__snapshots__/page.spec.js.snap"]

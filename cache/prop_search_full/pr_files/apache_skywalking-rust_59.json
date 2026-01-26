@@ -1,0 +1,1 @@
+["src/lib.rs", "src/logging/record.rs", "src/management/instance.rs", "src/management/manager.rs", "src/metrics/meter.rs", "src/proto/mod.rs", "src/proto/v3/mod.rs", "src/reporter/grpc.rs", "src/reporter/mod.rs", "src/trace/span.rs", "src/trace/trace_context.rs", "tests/logging.rs", "tests/management.rs", "tests/metrics.rs", "tests/trace_context.rs"]

@@ -1,0 +1,1 @@
+[".config/nextest.toml", ".taplo.toml", ".typos.toml", "bindings/c/src/lib.rs", "bindings/object_store/rustfmt.toml", "bindings/python/src/asyncio.rs", "core/src/services/azblob/backend.rs", "core/src/services/azblob/batch.rs", "core/src/services/azdfs/backend.rs", "licenserc.toml", "rust-toolchain.toml", "rustfmt.toml", "vercel.json"]

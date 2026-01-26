@@ -1,0 +1,1 @@
+["taskcluster/scripts/cross-compile-setup.sh", "taskcluster/scripts/rustup-setup.sh"]

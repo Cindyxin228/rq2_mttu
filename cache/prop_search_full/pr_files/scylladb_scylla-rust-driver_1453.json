@@ -1,0 +1,1 @@
+["scylla-cql/src/deserialize/value.rs", "scylla/tests/integration/types/cql_collections.rs", "scylla/tests/integration/utils.rs"]

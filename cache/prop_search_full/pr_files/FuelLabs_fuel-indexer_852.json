@@ -1,0 +1,1 @@
+["ci/Dockerfile.fuel-node", "examples/hello-world-native/README.md", "examples/hello-world-native/hello-indexer-native/Cargo.toml", "examples/hello-world/README.md", "packages/fuel-indexer-lib/src/manifest.rs", "packages/fuel-indexer-macros/src/indexer.rs", "plugins/forc-index/src/ops/forc_index_deploy.rs", "plugins/forc-index/src/utils/defaults.rs"]

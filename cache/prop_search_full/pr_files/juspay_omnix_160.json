@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "crates/nix_rs/CHANGELOG.md", "crates/nix_rs/src/env.rs", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/tests/cli.rs", "flake.nix", "justfile", "nix/rust.nix"]

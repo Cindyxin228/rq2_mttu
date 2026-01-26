@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/client.rs", "src/configuration.rs", "src/error.rs", "src/interfaces.rs", "src/interfaces/http.rs", "src/interfaces/http/http_client.rs", "src/interfaces/pipe.rs", "src/lib.rs", "src/notifications.rs", "src/server.rs", "src/shutdown.rs"]

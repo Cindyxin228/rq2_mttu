@@ -1,0 +1,1 @@
+["protocol/src/commands/query_offset.rs", "protocol/src/protocol.rs", "protocol/src/response/mod.rs", "protocol/src/response/shims.rs", "src/client/mod.rs", "tests/integration/client_test.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "client/commands/local_follow.rs", "client/display/follow.rs", "daemon/main.rs", "daemon/network/follow_log.rs", "daemon/platform/linux/process_helper.rs"]

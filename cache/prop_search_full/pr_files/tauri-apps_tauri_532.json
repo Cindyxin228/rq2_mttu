@@ -1,0 +1,1 @@
+["cli/tauri-bundler/Cargo.toml", "cli/tauri.js/package.json", "tauri-api/Cargo.toml", "tauri-updater/Cargo.toml", "tauri-utils/Cargo.toml", "tauri/Cargo.toml"]

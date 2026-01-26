@@ -1,0 +1,1 @@
+["CHANGELOG.md", "client/cli.rs", "client/client.rs", "client/commands/restart.rs", "client/output.rs", "client/output_helper.rs", "daemon/network/message_handler.rs", "shared/network/message.rs", "shared/task.rs"]

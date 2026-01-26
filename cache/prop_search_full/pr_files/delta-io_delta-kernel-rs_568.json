@@ -1,0 +1,1 @@
+["kernel/src/actions/deletion_vector.rs", "kernel/src/scan/mod.rs", "kernel/src/scan/state.rs", "kernel/src/table_changes/mod.rs", "kernel/src/table_changes/resolve_dvs.rs"]

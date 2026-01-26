@@ -1,0 +1,1 @@
+["crates/polars-core/Cargo.toml", "crates/polars-core/src/series/ops/mod.rs", "crates/polars-ops/Cargo.toml", "crates/polars-ops/src/series/ops/mod.rs", "crates/polars-ops/src/series/ops/moment.rs", "crates/polars-ops/src/series/ops/rolling.rs", "crates/polars-plan/Cargo.toml", "crates/polars/Cargo.toml"]

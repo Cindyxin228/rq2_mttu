@@ -1,0 +1,1 @@
+["client/src/crypto/mod.rs", "client/src/crypto/native.rs", "client/src/crypto/openssl.rs", "client/src/key.rs", "client/src/lib.rs", "client/src/portal/mod.rs"]

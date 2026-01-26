@@ -1,0 +1,1 @@
+["frame/contracts/proc-macro/src/lib.rs", "frame/contracts/src/benchmarking/mod.rs", "frame/contracts/src/exec.rs", "frame/contracts/src/schedule.rs", "frame/contracts/src/wasm/mod.rs", "frame/contracts/src/wasm/runtime.rs", "frame/contracts/src/weights.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "Trunk.toml", "src/build.rs", "src/cmd/build.rs", "src/cmd/clean.rs", "src/cmd/serve.rs", "src/cmd/watch.rs", "src/config.rs", "src/main.rs", "src/watch.rs"]

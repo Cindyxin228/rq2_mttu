@@ -1,0 +1,1 @@
+["espflash/src/chip/esp32.rs", "espflash/src/chip/esp32c3.rs", "espflash/src/chip/esp32s2.rs", "espflash/tests/data/esp32.bin"]

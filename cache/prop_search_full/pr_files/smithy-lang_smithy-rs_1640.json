@@ -1,0 +1,1 @@
+["tools/cargo-check-external-types/Cargo.lock", "tools/smithy-rs-tool-common/Cargo.toml", "tools/smithy-rs-tool-common/src/git.rs"]

@@ -1,0 +1,1 @@
+["CHANGES.md", "src/dataset.rs", "src/lib.rs", "src/raster/mdarray.rs", "src/raster/rasterband.rs", "src/vector/geometry.rs", "src/vector/mod.rs", "src/vector/ops/mod.rs", "src/vector/ops/predicates.rs", "src/version.rs"]

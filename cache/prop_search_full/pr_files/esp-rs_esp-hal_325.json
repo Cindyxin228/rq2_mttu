@@ -1,0 +1,1 @@
+["esp-hal-common/src/gpio/esp32s3.rs", "esp-hal-common/src/lib.rs", "esp-hal-common/src/peripherals/esp32s3.rs", "esp-hal-common/src/system.rs", "esp-hal-common/src/twai/mod.rs", "esp32s3-hal/Cargo.toml", "esp32s3-hal/examples/twai.rs", "esp32s3-hal/src/lib.rs"]

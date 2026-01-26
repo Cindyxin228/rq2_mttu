@@ -1,0 +1,1 @@
+["s3/src/bucket.rs", "s3/src/request.rs", "s3/src/request_trait.rs", "s3/src/surf_request.rs", "s3/src/utils.rs"]

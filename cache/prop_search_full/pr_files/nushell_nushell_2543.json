@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/str_/contains.rs", "crates/nu-cli/src/commands/str_/ends_with.rs", "crates/nu-cli/src/commands/str_/starts_with.rs", "crates/nu-cli/src/commands/which_.rs", "crates/nu-protocol/src/value.rs"]

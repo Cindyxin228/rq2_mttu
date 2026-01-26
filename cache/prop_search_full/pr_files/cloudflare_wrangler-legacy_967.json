@@ -1,0 +1,1 @@
+["src/settings/toml/environment.rs", "src/settings/toml/manifest.rs", "src/settings/toml/site.rs", "src/settings/toml/tests/deploy_config.rs", "src/settings/toml/tests/mod.rs", "tests/fixture/wrangler_toml.rs"]

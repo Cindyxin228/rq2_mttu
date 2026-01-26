@@ -1,0 +1,1 @@
+["platforms/Cargo.toml", "platforms/README.md", "platforms/markdown-table-gen/src/main.rs", "platforms/src/platform.rs", "platforms/src/platform/tier1.rs", "platforms/src/platform/tier2.rs", "platforms/src/platform/tier3.rs", "platforms/src/target/arch.rs", "platforms/src/target/os.rs"]

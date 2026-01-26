@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/jsonfile_auth.rs", "examples/rest.rs", "src/auth/jsonfile_auth.rs", "src/auth/mod.rs", "src/auth/pam.rs", "src/auth/rest.rs", "src/server/commands/pass.rs"]

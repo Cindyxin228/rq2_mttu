@@ -1,0 +1,1 @@
+[".gitignore", "doc/rustdocfx/README.md", "doc/rustdocfx/generate.go", "doc/rustdocfx/main.go", "doc/rustdocfx/render_index.go", "doc/rustdocfx/render_reference_test.go", "doc/rustdocfx/workspace.go", "go.work", "tools/golints/all_test.go", "tools/golints/go.mod"]

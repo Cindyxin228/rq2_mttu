@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/hickory_dns.rs", "examples/http1_case_sensitive_headers.rs", "examples/http1_recv_case_sensitive_headers.rs", "examples/http1_send_case_sensitive_headers.rs", "src/client/client/macros.rs", "src/client/client/mod.rs", "src/core/client/config/http1.rs", "src/core/header/map.rs", "tests/client.rs"]

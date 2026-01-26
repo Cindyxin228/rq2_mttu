@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/aio.rs", "src/aio/gateway.rs", "src/aio/search.rs", "src/aio/soap.rs", "src/common/messages.rs", "src/common/parsing.rs", "src/errors.rs", "src/gateway.rs", "src/lib.rs", "src/search.rs"]

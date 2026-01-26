@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/workflows/release.yml", "crates/hdi/tests/integration.rs", "crates/hdi/tests/op/mod.rs", "crates/hdk_derive/src/entry_defs_name_registration.rs", "nix/pkgs/core.nix"]

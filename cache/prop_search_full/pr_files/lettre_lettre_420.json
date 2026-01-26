@@ -1,0 +1,1 @@
+["src/lib.rs", "src/transport/file/error.rs", "src/transport/file/mod.rs", "src/transport/sendmail/error.rs", "src/transport/sendmail/mod.rs", "src/transport/smtp/client/mod.rs", "src/transport/smtp/error.rs", "src/transport/smtp/mod.rs", "src/transport/stub/mod.rs", "tests/transport_stub.rs"]

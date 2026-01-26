@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "Makefile.toml", "README.md", "examples/s3.rs", "rust-toolchain.toml", "src/http/mod.rs", "src/lib.rs", "src/open_dal.rs", "src/source.rs", "src/storage/adaptive.rs", "tests/integration_test.rs"]

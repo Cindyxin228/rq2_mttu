@@ -1,0 +1,1 @@
+["sqlx-cli/src/prepare.rs", "sqlx-core/src/common/statement_cache.rs", "sqlx-macros/src/query/mod.rs"]

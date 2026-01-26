@@ -1,0 +1,1 @@
+["wgpu-core/src/command/bundle.rs", "wgpu-core/src/command/compute.rs", "wgpu-core/src/command/mod.rs", "wgpu-core/src/command/render.rs"]

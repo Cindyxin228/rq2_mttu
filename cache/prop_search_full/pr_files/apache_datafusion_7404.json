@@ -1,0 +1,1 @@
+["datafusion/sqllogictest/src/engines/conversion.rs", "datafusion/sqllogictest/src/engines/datafusion_engine/normalize.rs", "datafusion/sqllogictest/test_files/arrow_typeof.slt"]

@@ -1,0 +1,1 @@
+["crates/apub/assets/lemmy/collections/group_outbox.json", "crates/apub/src/activities/community/announce.rs", "crates/apub/src/collections/community_outbox.rs", "crates/apub/src/protocol/collections/group_outbox.rs", "crates/apub/src/protocol/objects/page.rs"]

@@ -1,0 +1,1 @@
+["eventsourced-postgres/src/create_evt_log.sql", "eventsourced/src/lib.rs", "examples/counter/src/counter.rs", "examples/counter/src/lib.rs"]

@@ -1,0 +1,1 @@
+["README.rst", "doc/conf.py", "doc/getting-started/generating-transactions.md", "example/package-lock.json", "example/package.json", "package-lock.json", "package.json", "rust/Cargo.lock", "rust/Cargo.toml", "rust/pkg/cardano_multiplatform_lib.js.flow", "scripts/publish-helper.js", "scripts/wasm-to-asm.js"]

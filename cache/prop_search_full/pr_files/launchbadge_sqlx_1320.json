@@ -1,0 +1,1 @@
+["Cargo.lock", "sqlx-core/Cargo.toml", "sqlx-core/src/pool/connection.rs", "sqlx-core/src/pool/inner.rs", "sqlx-core/src/pool/mod.rs", "sqlx-core/src/pool/options.rs", "tests/postgres/postgres.rs"]

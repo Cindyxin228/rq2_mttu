@@ -1,0 +1,1 @@
+[".github/workflows/rpm-release-prometheuspush.yml", "packaging/linux/redhat/rpmbuild/SPECS/scaphandre-prometheuspush-only.spec", "packaging/linux/redhat/scaphandre-prometheuspush.service", "src/exporters/prometheuspush.rs"]

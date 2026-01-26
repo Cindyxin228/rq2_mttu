@@ -1,0 +1,1 @@
+["Cargo.toml", "guest-js/bindings.ts", "guest-js/index.ts", "src/lib.rs", "src/polyfill.js", "tsconfig.json"]

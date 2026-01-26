@@ -1,0 +1,1 @@
+["aya/src/programs/kprobe.rs", "aya/src/programs/probe.rs", "aya/src/programs/uprobe.rs", "aya/src/sys/perf_event.rs", "xtask/public-api/aya.txt"]

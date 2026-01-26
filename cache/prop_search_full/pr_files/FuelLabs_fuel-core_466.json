@@ -1,0 +1,1 @@
+["fuel-core/src/cli/run.rs", "fuel-core/src/cli/run/relayer.rs", "fuel-core/src/service/modules.rs", "fuel-relayer/src/config.rs", "fuel-relayer/src/finalization_queue.rs", "fuel-relayer/src/lib.rs", "fuel-relayer/src/pending_blocks.rs", "fuel-relayer/src/relayer.rs", "fuel-relayer/src/service.rs"]

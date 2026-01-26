@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "contrib/apt-swarm.conf", "src/config.rs", "src/fetch.rs", "src/keyring.rs", "src/signed.rs"]

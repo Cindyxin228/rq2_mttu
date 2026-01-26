@@ -1,0 +1,1 @@
+["src/parse/kdbx3.rs", "tests/file_read_tests.rs", "tests/resources/test_db_kdb3_with_file_larger_1mb.kdbx"]

@@ -1,0 +1,1 @@
+[".travis.yml", "core/Cargo.toml", "core/src/lib.rs", "core/src/thread_parker/redox.rs"]

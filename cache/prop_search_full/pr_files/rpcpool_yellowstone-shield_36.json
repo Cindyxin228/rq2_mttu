@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "config.example.toml", "config.toml", "package.json", "parser/Cargo.toml", "parser/src/accounts.rs", "parser/src/instructions.rs", "pnpm-lock.yaml", "scripts/generate-clients.mjs", "store/Cargo.toml", "store/examples/complete.rs", "store/src/lib.rs"]

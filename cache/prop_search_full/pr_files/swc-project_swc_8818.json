@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_proposal/src/decorator_2022_03.rs", "crates/swc_ecma_transforms_proposal/tests/decorators/issue-7358/2/input.js", "crates/swc_ecma_transforms_proposal/tests/decorators/issue-7358/2/options.json", "crates/swc_ecma_transforms_proposal/tests/decorators/issue-7358/2/output.js"]

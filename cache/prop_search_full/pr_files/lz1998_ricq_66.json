@@ -1,0 +1,1 @@
+["ricq-core/src/error.rs", "ricq-core/src/protocol/transport.rs", "ricq-guild/src/client/mod.rs", "ricq/src/client/api/friend.rs", "ricq/src/client/api/group.rs", "ricq/src/client/api/mod.rs", "ricq/src/client/processor/c2c/new_member.rs", "ricq/src/client/processor/c2c/temp_session.rs", "ricq/src/ext/image.rs", "ricq/src/ext/login.rs", "ricq/src/ext/reconnect.rs"]

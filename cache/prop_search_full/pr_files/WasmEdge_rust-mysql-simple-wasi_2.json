@@ -1,0 +1,1 @@
+["Cargo.toml", "src/conn/mod.rs", "src/conn/pool.rs", "src/conn/stmt.rs", "src/conn/stmt_cache.rs", "src/error/mod.rs", "src/lib.rs", "tests/ca.crt", "tests/client.crt", "tests/server.crt"]

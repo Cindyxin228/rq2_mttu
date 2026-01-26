@@ -1,0 +1,1 @@
+["cli/tauri.js/api/fs.js", "cli/tauri.js/templates/tauri.js", "tauri-api/src/dir.rs", "tauri/Cargo.toml", "tauri/examples/communication/dist/index.tauri.html", "tauri/src/endpoints.rs", "tauri/src/endpoints/cmd.rs", "tauri/src/endpoints/file_system.rs", "tauri/src/lib.rs"]

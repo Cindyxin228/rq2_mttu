@@ -1,0 +1,1 @@
+["src/commands/logs.rs", "src/commands/up.rs", "src/controllers/deployment.rs", "src/controllers/mod.rs", "src/gql/queries/mod.rs", "src/gql/queries/strings/Deployment.graphql", "src/gql/queries/strings/Deployments.graphql", "src/gql/schema.graphql"]

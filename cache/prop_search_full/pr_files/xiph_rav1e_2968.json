@@ -1,0 +1,1 @@
+["src/api/context.rs", "src/api/internal.rs", "src/api/lookahead.rs", "src/api/test.rs", "src/api/util.rs", "src/capi.rs", "src/encoder.rs", "src/frame/mod.rs", "src/header.rs", "tests/doctests.rs"]

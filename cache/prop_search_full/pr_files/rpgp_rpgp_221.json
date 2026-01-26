@@ -1,0 +1,1 @@
+["Cargo.toml", "src/composed/message/types.rs", "src/packet/literal_data.rs", "src/packet/signature/de.rs", "src/packet/signature/ser.rs", "src/packet/signature/types.rs", "src/packet/user_id.rs", "src/util.rs", "tests/openpgp/samplemsgs/unicode.sig"]

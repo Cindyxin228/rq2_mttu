@@ -1,0 +1,1 @@
+["examples/dynamic_api.rs", "kube/src/api/dynamic.rs", "kube/src/client/discovery.rs", "kube/src/client/mod.rs"]

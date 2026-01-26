@@ -1,0 +1,1 @@
+["src/commons/crypto/signing/dispatch/krillsigner.rs", "src/commons/crypto/signing/signers/pkcs11/signer.rs", "src/daemon/config.rs", "src/pubd/manager.rs", "tests/common/mod.rs"]

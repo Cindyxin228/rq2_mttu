@@ -1,0 +1,1 @@
+["proto/proto/experimental/pqcrypto/cecpq2_aead_hkdf.proto", "proto/proto/jwt_ecdsa.proto", "proto/proto/jwt_hmac.proto", "proto/proto/jwt_rsa_ssa_pkcs1.proto", "proto/proto/jwt_rsa_ssa_pss.proto", "testing/proto/testing_api.proto", "tests/testdata/templates/jwt/JWT_HS384", "tests/testdata/templates/jwt/JWT_HS512"]

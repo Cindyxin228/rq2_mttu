@@ -1,0 +1,1 @@
+["ci.sh", "embassy-stm32/Cargo.toml", "embassy-stm32/src/rcc/mco.rs", "embassy-stm32/src/usb/otg.rs"]

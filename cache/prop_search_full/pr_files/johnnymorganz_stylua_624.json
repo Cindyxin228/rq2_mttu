@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/formatters/expression.rs", "tests/inputs/excess-parentheses-dont-remove.lua", "tests/snapshots/tests__standard@excess-parentheses-dont-remove.lua.snap"]

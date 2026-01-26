@@ -1,0 +1,1 @@
+["cli/src/generate/prepare_grammar/extract_tokens.rs", "cli/src/generate/prepare_grammar/flatten_grammar.rs", "cli/src/generate/prepare_grammar/mod.rs", "cli/src/generate/prepare_grammar/process_inlines.rs", "cli/src/generate/rules.rs", "cli/src/tests/parser_test.rs", "lib/binding_web/test/parser-test.js"]

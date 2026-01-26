@@ -1,0 +1,1 @@
+[".github/actions/vercel/action.yml", ".github/actions/vercel/commands/deploy-preview.mjs", ".github/actions/vercel/commands/deploy-production.mjs", ".github/actions/vercel/index.mjs", ".github/actions/vercel/types.d.ts", ".github/actions/vercel/vercel.mjs", ".github/workflows/on_pull_request.yml", ".github/workflows/reusable_deploy_landing_preview.yml"]

@@ -1,0 +1,1 @@
+["crates/holochain/src/conductor/chc/chc_local.rs", "crates/holochain/src/conductor/conductor.rs", "crates/holochain/src/local_network_tests.rs", "crates/holochain/src/test_utils/inline_zomes.rs", "crates/holochain/tests/inline_zome_spec/mod.rs", "crates/holochain/tests/sharded_gossip/mod.rs", "crates/holochain_p2p/src/spawn/actor.rs"]

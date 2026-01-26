@@ -1,0 +1,1 @@
+["src/block/base.rs", "src/block/binary.rs", "src/block/multicolor.rs", "src/solver/backtracking.rs", "src/solver/line.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["examples/test_exclude_list.rs", "src/authenticatorservice.rs", "src/ctap2/commands/get_assertion.rs", "src/ctap2/commands/make_credentials.rs", "src/manager.rs", "src/transport/mod.rs"]

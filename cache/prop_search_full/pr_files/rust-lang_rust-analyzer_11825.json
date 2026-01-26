@@ -1,0 +1,1 @@
+["crates/hir_def/src/item_tree.rs", "crates/hir_def/src/nameres/collector.rs", "crates/ide/src/runnables.rs", "crates/ide_completion/src/completions/qualified_path.rs", "crates/ide_completion/src/tests/expression.rs"]

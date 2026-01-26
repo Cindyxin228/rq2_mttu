@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/src/dehydrated_devices.rs", "crates/matrix-sdk-crypto/src/error.rs", "crates/matrix-sdk-crypto/src/machine.rs", "crates/matrix-sdk-crypto/src/olm/account.rs", "crates/matrix-sdk-crypto/src/session_manager/sessions.rs", "crates/matrix-sdk-crypto/src/types/one_time_keys.rs"]

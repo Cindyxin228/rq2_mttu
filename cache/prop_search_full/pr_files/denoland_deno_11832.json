@@ -1,0 +1,1 @@
+["tools/cut_a_release.md", "tools/release/01_bump_dependency_crate_versions.ts", "tools/release/02_publish_depenency_crates.ts", "tools/release/03_bump_cli_version.ts", "tools/release/helpers/cargo.ts", "tools/release/helpers/crates_io.ts", "tools/release/helpers/deno_workspace.ts", "tools/release/helpers/helpers.ts", "tools/release/helpers/mod.ts"]

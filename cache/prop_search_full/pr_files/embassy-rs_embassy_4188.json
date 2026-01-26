@@ -1,0 +1,1 @@
+["embassy-usb-dfu/src/application.rs", "embassy-usb-dfu/src/dfu.rs", "examples/boot/application/stm32wb-dfu/src/main.rs", "examples/boot/bootloader/stm32wb-dfu/src/main.rs"]

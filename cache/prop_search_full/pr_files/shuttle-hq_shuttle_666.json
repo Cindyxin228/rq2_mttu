@@ -1,0 +1,1 @@
+[".circleci/config.yml", "CONTRIBUTING.md", "Cargo.toml", "README.md", "admin/README.md", "cargo-shuttle/README.md", "e2e/README.md", "gateway/README.md", "resources/README.md", "resources/aws-rds/README.md", "resources/persist/README.md", "resources/secrets/README.md", "resources/shared-db/README.md", "resources/static-folder/README.md", "service/Cargo.toml"]

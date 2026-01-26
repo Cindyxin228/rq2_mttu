@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/appservice.yml", ".github/workflows/ci.yml", ".github/workflows/coverage.yml", ".github/workflows/docs.yml", ".github/workflows/wasm.yml", "Cargo.toml", "xtask/Cargo.toml", "xtask/src/ci.rs", "xtask/src/main.rs"]

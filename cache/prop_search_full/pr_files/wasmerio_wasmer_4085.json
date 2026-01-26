@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "lib/cli/Cargo.toml", "lib/cli/src/commands/run.rs", "lib/wasi-web/Cargo.lock", "lib/wasix/Cargo.toml", "lib/wasix/src/bin_factory/binary_package.rs"]

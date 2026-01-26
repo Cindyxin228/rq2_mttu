@@ -1,0 +1,1 @@
+[".github/dependabot.yml", "install.sh", "scripts/install-vuln-tools.sh", "src/analyzer/dependency_parser.rs", "src/analyzer/security_analyzer.rs", "src/analyzer/tool_installer.rs", "src/cli.rs", "src/main.rs"]

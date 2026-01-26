@@ -1,0 +1,1 @@
+["examples/go-custom-version/go.mod", "examples/go-custom-version/main.go", "examples/go-mod/go.mod", "src/providers/go.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

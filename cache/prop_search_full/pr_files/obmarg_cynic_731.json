@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "cynic-introspection/Cargo.toml", "cynic-introspection/src/detection.rs", "cynic-introspection/src/lib.rs", "cynic-introspection/src/query2018.rs", "cynic-introspection/tests/detection-responses/2018.json", "cynic-introspection/tests/detection-responses/2021.json", "cynic-introspection/tests/detection-tests.rs"]

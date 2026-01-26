@@ -1,0 +1,1 @@
+["examples/warmer.rs", "src/aggregation/bucket/term_agg.rs", "src/collector/filter_collector_wrapper.rs", "src/collector/tests.rs", "src/collector/top_score_collector.rs", "src/core/index.rs", "src/core/tests.rs", "src/query/range_query/range_query.rs", "src/snippet/mod.rs", "stacker/src/arena_hashmap.rs"]

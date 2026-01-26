@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/src/unknown/thrift_server.rs", "examples/volo-gen/build.rs", "examples/volo-gen/src/lib.rs", "examples/volo-gen/volo.yml", "volo-build/src/config_builder.rs", "volo-build/src/lib.rs", "volo-build/src/model.rs", "volo-build/src/util.rs", "volo-cli/src/idl/add.rs"]

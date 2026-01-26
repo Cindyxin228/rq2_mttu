@@ -1,0 +1,1 @@
+["src/bangumi/client.rs", "src/bangumi/types.rs", "src/dantalian/config.rs", "src/dantalian/data.rs", "src/dantalian/job.rs", "src/dantalian/mod.rs", "src/dantalian/output.rs", "src/dantalian/utils.rs", "src/lib.rs", "src/logger.rs", "src/main.rs"]

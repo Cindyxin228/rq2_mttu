@@ -1,0 +1,1 @@
+["cli/src/commands/vrf/create/index.ts", "cli/src/commands/vrf/verify.ts", "cli/src/commands/watch/aggregator.ts", "cli/src/commands/watch/vrf.ts", "libraries/ts/src/sbv2.ts", "package.json"]

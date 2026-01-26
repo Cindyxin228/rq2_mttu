@@ -1,0 +1,1 @@
+["Cargo.lock", "src/uu/cksum/src/cksum.rs", "src/uu/hashsum/src/hashsum.rs", "src/uucore/Cargo.toml", "src/uucore/src/lib/features/checksum.rs", "src/uucore/src/lib/macros.rs", "tests/by-util/test_cksum.rs", "tests/by-util/test_hashsum.rs"]

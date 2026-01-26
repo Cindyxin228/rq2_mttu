@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/simple_window.rs", "src/shell/layer/dispatch.rs", "src/shell/layer/mod.rs", "src/shell/mod.rs", "src/shell/xdg/inner.rs", "src/shell/xdg/mod.rs", "src/shell/xdg/window/inner.rs", "src/shell/xdg/window/mod.rs"]

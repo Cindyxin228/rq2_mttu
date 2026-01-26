@@ -1,0 +1,1 @@
+["Cargo.toml", "build-probe-mpi/Cargo.toml", "build-probe-mpi/src/lib.rs", "build-probe-mpi/src/os/unix.rs", "build-probe-mpi/src/os/windows.rs", "mpi-sys/Cargo.toml", "mpi-sys/build.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/advisories/helpers/db.rs", "tests/advisory-db/github.com-a946fc29ac602819", "tests/bans_build.rs", "tests/snapshots/bans_build__allows_by_glob.snap"]

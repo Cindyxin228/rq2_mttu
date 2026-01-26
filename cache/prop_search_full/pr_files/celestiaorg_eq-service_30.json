@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "README.md", "common/proto/eqservice.proto", "common/src/error.rs", "common/src/generated/eqs.rs", "justfile", "service/Cargo.toml", "service/src/main.rs"]

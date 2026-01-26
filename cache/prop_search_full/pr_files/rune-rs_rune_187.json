@@ -1,0 +1,1 @@
+["crates/rune-cli/src/main.rs", "crates/runestick/src/context.rs", "crates/runestick/src/iterator.rs", "crates/runestick/src/modules/char.rs", "crates/runestick/src/modules/iter.rs", "crates/runestick/src/modules/mod.rs", "crates/runestick/src/modules/string.rs", "crates/runestick/src/vm.rs"]

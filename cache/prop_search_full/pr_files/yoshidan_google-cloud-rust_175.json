@@ -1,0 +1,1 @@
+["bigquery/Cargo.toml", "bigquery/src/client.rs", "bigquery/src/http/bigquery_job_client.rs", "bigquery/src/http/error.rs", "bigquery/src/http/job/get_query_results.rs", "bigquery/src/http/job/query.rs", "bigquery/src/query.rs", "deny.toml"]

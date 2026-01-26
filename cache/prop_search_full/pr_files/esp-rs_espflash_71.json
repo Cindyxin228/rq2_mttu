@@ -1,0 +1,1 @@
+["espflash/src/command.rs", "espflash/src/connection.rs", "espflash/src/encoder.rs", "espflash/src/error.rs", "espflash/src/flash_target/esp32.rs", "espflash/src/flash_target/esp8266.rs", "espflash/src/flash_target/mod.rs", "espflash/src/flash_target/ram.rs", "espflash/src/flasher.rs", "espflash/src/lib.rs"]

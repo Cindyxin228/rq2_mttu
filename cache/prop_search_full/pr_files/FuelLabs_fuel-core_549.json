@@ -1,0 +1,1 @@
+["Cargo.lock", "fuel-core/Cargo.toml", "fuel-core/src/database.rs", "fuel-core/src/state.rs", "fuel-core/src/state/in_memory/memory_store.rs", "fuel-core/src/state/in_memory/transaction.rs", "fuel-core/src/state/rocks_db.rs"]

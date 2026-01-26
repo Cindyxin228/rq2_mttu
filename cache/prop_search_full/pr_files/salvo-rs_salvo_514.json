@@ -1,0 +1,1 @@
+["crates/compression/src/lib.rs", "crates/oapi/src/openapi/info.rs", "crates/oapi/src/openapi/operation.rs", "crates/oapi/src/openapi/parameter.rs", "crates/oapi/src/openapi/response.rs", "crates/oapi/src/openapi/security.rs", "crates/oapi/src/openapi/tag.rs", "crates/serve-static/src/dir.rs"]

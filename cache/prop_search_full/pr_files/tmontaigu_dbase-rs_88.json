@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "src/encoding/encoding_rs.rs", "src/encoding/mod.rs", "src/encoding/yore.rs", "src/header.rs", "src/lib.rs", "tests/data/cp936.dbf", "tests/tests.rs"]

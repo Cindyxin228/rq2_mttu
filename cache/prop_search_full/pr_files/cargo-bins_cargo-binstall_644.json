@@ -1,0 +1,1 @@
+["crates/binstalk-downloader/src/download.rs", "crates/binstalk-downloader/src/download/async_tar_visitor.rs", "crates/binstalk/src/drivers/crates_io.rs", "crates/binstalk/src/drivers/crates_io/visitor.rs"]

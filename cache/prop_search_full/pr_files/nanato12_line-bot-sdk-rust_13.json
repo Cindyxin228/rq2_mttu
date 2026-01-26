@@ -1,0 +1,1 @@
+["src/bot.rs", "src/client.rs", "src/events/mod.rs", "src/lib.rs", "src/messages/mod.rs", "src/objects/action.rs", "src/objects/mod.rs", "src/objects/narrowcast/filter.rs", "src/objects/narrowcast/recipient.rs", "src/support/mod.rs", "src/support/rocket_support.rs", "src/webhook.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/errors.rs", "src/rpm/builder.rs", "src/rpm/compressor.rs", "src/rpm/headers/header.rs", "src/rpm/headers/lead.rs", "src/rpm/package.rs", "src/rpm/signature/pgp.rs", "src/tests.rs"]

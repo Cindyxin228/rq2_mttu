@@ -1,0 +1,1 @@
+["tss-esapi-sys/Cargo.toml", "tss-esapi-sys/build.rs", "tss-esapi-sys/regenerate-bindings.sh", "tss-esapi-sys/src/bindings/aarch64-unknown-linux-gnu.rs", "tss-esapi-sys/src/bindings/arm-unknown-linux-gnueabi.rs", "tss-esapi-sys/src/bindings/x86_64-unknown-linux-gnu.rs", "tss-esapi/tests/Dockerfile-ubuntu", "tss-esapi/tests/all-ubuntu.sh", "tss-esapi/tests/cross-compile.sh"]

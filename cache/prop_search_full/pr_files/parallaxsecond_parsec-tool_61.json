@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "README.md", "src/error.rs", "src/subcommands/export_public_key.rs", "tests/ci.sh", "tests/expected_output/list-authenticators", "tests/expected_output/list-providers", "tests/expected_output/ping", "tests/parsec-cli-tests.sh"]

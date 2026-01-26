@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/root-crate-path/Cargo.toml", "tests/root-crate-path/build.rs", "tests/root-crate-path/foo.proto", "tests/root-crate-path/src/main.rs", "tonic-build/src/prost.rs"]

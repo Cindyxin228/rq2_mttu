@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "rspotify-model/src/enums/types.rs", "rspotify-model/src/idtypes.rs", "rspotify-model/src/playlist.rs", "src/clients/base.rs", "src/clients/oauth.rs", "tests/test_models.rs", "tests/test_with_oauth.rs"]

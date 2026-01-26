@@ -1,0 +1,1 @@
+["cli/src/cmd.rs", "core/benches/eval_bench.rs", "core/src/eval.rs", "core/src/load.rs", "core/src/parse.rs", "core/src/parse/directive.rs", "core/src/parse/expr.rs", "core/src/parse/metadata.rs", "core/src/parse/posting.rs", "core/src/parse/transaction.rs", "core/src/repl.rs", "core/src/repl/display.rs", "core/src/repl/expr.rs"]

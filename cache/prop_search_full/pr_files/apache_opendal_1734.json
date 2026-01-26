@@ -1,0 +1,1 @@
+["Cargo.lock", "bindings/ruby/Cargo.toml", "bindings/ruby/Gemfile", "bindings/ruby/README.md", "bindings/ruby/lib/opendal.rb", "bindings/ruby/src/lib.rs", "bindings/ruby/tests/opendal_test.rb", "bindings/ruby/tests/steps/binding.rb", "bindings/ruby/tests/test_helper.rb"]

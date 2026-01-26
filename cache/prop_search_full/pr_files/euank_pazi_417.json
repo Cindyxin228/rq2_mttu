@@ -1,0 +1,1 @@
+["tests/flake.nix", "tests/src/bench.rs", "tests/src/benches.csv", "tests/src/harness/autojumpers/mod.rs", "tests/src/harness/autojumpers/zoxide.rs", "tests/src/harness/mod.rs"]

@@ -1,0 +1,1 @@
+["arrow-array/Cargo.toml", "arrow-array/src/array/primitive_array.rs", "arrow-array/src/lib.rs", "arrow-array/src/temporal_conversions.rs", "arrow-array/src/timezone.rs", "arrow/Cargo.toml", "arrow/src/compute/kernels/cast.rs", "arrow/src/compute/kernels/temporal.rs", "arrow/src/csv/writer.rs"]

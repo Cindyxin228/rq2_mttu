@@ -1,0 +1,1 @@
+["examples/client_json.rs", "examples/echo.rs", "examples/params.rs", "examples/web_api.rs", "src/body/aggregate.rs", "src/body/mod.rs", "src/body/to_bytes.rs", "tests/client.rs", "tests/support/mod.rs"]

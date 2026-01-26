@@ -1,0 +1,1 @@
+["lambda-events/src/event/alb/mod.rs", "lambda-events/src/event/apigw/mod.rs", "lambda-events/src/event/cloudformation/mod.rs", "lambda-http/src/deserializer.rs"]

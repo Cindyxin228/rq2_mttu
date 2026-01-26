@@ -1,0 +1,1 @@
+["CHANGELOG.md", "naga/src/back/glsl/mod.rs", "naga/src/back/msl/writer.rs", "naga/src/back/spv/mod.rs", "naga/src/back/spv/writer.rs", "naga/src/front/glsl/functions.rs", "naga/src/proc/mod.rs", "naga/src/proc/typifier.rs", "naga/src/valid/function.rs"]

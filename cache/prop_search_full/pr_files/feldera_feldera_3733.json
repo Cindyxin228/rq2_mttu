@@ -1,0 +1,1 @@
+["crates/dbsp/src/operator/dynamic/trace.rs", "crates/dbsp/src/trace/mod.rs", "crates/dbsp/src/trace/spine_async/mod.rs", "crates/dbsp/src/trace/test/test_batch.rs"]

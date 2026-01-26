@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "kube-core/src/params.rs", "kube-runtime/src/controller/mod.rs", "kube-runtime/src/watcher.rs"]

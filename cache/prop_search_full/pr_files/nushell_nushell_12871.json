@@ -1,0 +1,1 @@
+["crates/nu-command/src/env/with_env.rs", "crates/nu-command/src/filesystem/touch.rs", "crates/nu-command/src/platform/ansi/ansi_.rs", "crates/nu-protocol/src/ast/call.rs"]

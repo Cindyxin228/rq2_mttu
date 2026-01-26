@@ -1,0 +1,1 @@
+[".github/workflows/e2e.yml", "e2e/tests-dfx/dfx_install.bash", "e2e/tests-dfx/playground.bash", "e2e/tests-dfx/serial_misc.bash", "scripts/workflows/e2e-matrix.py", "scripts/workflows/provision-darwin.sh", "scripts/workflows/provision-linux.sh"]

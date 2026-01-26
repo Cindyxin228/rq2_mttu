@@ -1,0 +1,1 @@
+["src/cargo/core/package_id_spec.rs", "src/cargo/ops/cargo_new.rs", "src/cargo/ops/registry.rs", "src/cargo/util/command_prelude.rs", "src/cargo/util/config.rs", "src/cargo/util/mod.rs", "src/cargo/util/toml/mod.rs", "tests/testsuite/alt_registry.rs"]

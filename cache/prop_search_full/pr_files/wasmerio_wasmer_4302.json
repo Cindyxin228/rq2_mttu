@@ -1,0 +1,1 @@
+["lib/virtual-fs/src/lib.rs", "lib/virtual-fs/src/scoped_directory_fs.rs", "lib/wasix/src/runners/mod.rs", "lib/wasix/src/runners/wasi.rs", "lib/wasix/src/runners/wasi_common.rs", "lib/wasix/src/runners/wcgi/runner.rs"]

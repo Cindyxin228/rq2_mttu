@@ -1,0 +1,1 @@
+["chain/src/chain.rs", "chain/src/error.rs", "config/src/config.rs", "core/src/core/transaction.rs", "servers/src/common/types.rs", "servers/src/grin/server.rs"]

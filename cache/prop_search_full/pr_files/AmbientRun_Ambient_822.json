@@ -1,0 +1,1 @@
+["crates/ecs/src/generated.rs", "crates/wasm/src/server/mod.rs", "crates/wasm/src/shared/message.rs", "crates/wasm/src/shared/mod.rs", "shared_crates/package/src/message.rs", "shared_crates/package_macro_common/src/messages.rs", "shared_crates/package_rt/src/message_serde.rs", "shared_crates/package_semantic/src/message.rs"]

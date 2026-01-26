@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "deny.toml", "examples/gsutil/main.rs", "examples/gsutil/util.rs", "src/response.rs", "src/v1/objects/delete.rs", "src/v1/objects/download.rs", "src/v1/objects/get.rs", "src/v1/objects/insert.rs", "src/v1/objects/list.rs", "tests/signed_url.rs"]

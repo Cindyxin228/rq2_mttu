@@ -1,0 +1,1 @@
+["bindings/c/include/molecule_reader.h", "bindings/rust/Cargo.toml", "examples/ci-tests/Cargo.toml", "examples/tests-loader/Cargo.toml", "examples/tests-utils-c/Cargo.toml", "examples/tests-utils-rust/Cargo.toml", "tools/codegen/Cargo.toml", "tools/codegen/src/lib.rs", "tools/compiler/Cargo.lock", "tools/compiler/Cargo.toml"]

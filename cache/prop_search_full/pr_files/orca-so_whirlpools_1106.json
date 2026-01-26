@@ -1,0 +1,1 @@
+["rust-sdk/client/Cargo.lock", "rust-sdk/core/Cargo.lock", "rust-sdk/tx-sender/Cargo.lock", "rust-sdk/whirlpool/Cargo.lock", "ts-sdk/core/Cargo.lock"]

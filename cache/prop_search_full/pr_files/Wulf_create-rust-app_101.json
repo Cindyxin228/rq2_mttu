@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "create-rust-app/Cargo.toml", "create-rust-app/src/auth/controller.rs", "create-rust-app/src/auth/endpoints/mod.rs", "create-rust-app/src/auth/endpoints/service_actixweb.rs", "create-rust-app/src/auth/mod.rs", "create-rust-app_cli/src/main.rs", "create-rust-app_cli/src/plugins/mod.rs", "create-rust-app_cli/src/plugins/utoipa.rs"]

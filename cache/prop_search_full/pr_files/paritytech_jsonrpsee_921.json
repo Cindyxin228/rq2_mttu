@@ -1,0 +1,1 @@
+["proc-macros/Cargo.toml", "proc-macros/src/render_server.rs", "proc-macros/tests/ui/incorrect/rpc/rpc_empty_bounds.stderr", "tests/tests/proc_macros.rs"]

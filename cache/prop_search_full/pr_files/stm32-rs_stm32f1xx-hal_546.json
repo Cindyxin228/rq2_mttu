@@ -1,0 +1,1 @@
+[".github/workflows/changelog.yml", ".github/workflows/ci.yml", ".github/workflows/clippy.yml", ".github/workflows/rustfmt.yml", "src/i2c/blocking.rs"]

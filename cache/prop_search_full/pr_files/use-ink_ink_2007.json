@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/e2e/Cargo.toml", "crates/engine/Cargo.toml", "crates/env/Cargo.toml", "crates/ink/Cargo.toml", "crates/ink/codegen/Cargo.toml", "crates/ink/macro/Cargo.toml", "crates/primitives/Cargo.toml", "crates/storage/Cargo.toml", "crates/storage/traits/Cargo.toml"]

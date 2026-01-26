@@ -1,0 +1,1 @@
+["crates/cli-core/src/checksums.rs", "crates/dprint/src/commands/formatting.rs", "crates/dprint/src/environment/test_environment_builder.rs", "crates/dprint/src/plugins/cache.rs", "crates/dprint/src/plugins/implementations/process/setup_process_plugin.rs", "crates/dprint/src/plugins/types.rs"]

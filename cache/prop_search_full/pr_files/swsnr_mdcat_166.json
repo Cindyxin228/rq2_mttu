@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/bin/mdcat/main.rs", "src/render/mod.rs", "src/render/write.rs", "src/terminal/kitty.rs", "src/terminal/mod.rs", "src/terminal/size.rs", "src/terminal/terminology.rs"]

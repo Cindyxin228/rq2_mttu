@@ -1,0 +1,1 @@
+["Cargo.toml", "Dockerfile", "crates/vertigo-cli/src/build/wasm_opt.rs", "crates/vertigo-cli/src/new/template/Cargo.toml_", "crates/vertigo/Cargo.toml", "tests/check_vertigo_new.sh"]

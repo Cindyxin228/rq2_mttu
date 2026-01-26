@@ -1,0 +1,1 @@
+["src/backup.rs", "src/functions.rs", "src/lib.rs", "src/pragma.rs", "src/statement.rs", "src/transaction.rs", "src/types/chrono.rs", "src/types/mod.rs", "src/types/serde_json.rs", "src/types/time.rs", "src/unlock_notify.rs"]

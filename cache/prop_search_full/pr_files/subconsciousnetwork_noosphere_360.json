@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rust/noosphere-api/src/data.rs", "rust/noosphere-core/src/authority/author.rs", "rust/noosphere-core/src/authority/verification.rs", "rust/noosphere-core/src/view/sphere.rs", "rust/noosphere-gateway/src/authority.rs", "rust/noosphere-ns/src/records.rs", "rust/noosphere-ns/tests/ns_test.rs"]

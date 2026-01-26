@@ -1,0 +1,1 @@
+["src/entities/mod.rs", "src/entities/status_source.rs", "src/firefish/entities/note.rs", "src/firefish/firefish.rs", "src/friendica/friendica.rs", "src/mastodon/entities/mod.rs", "src/mastodon/entities/status_source.rs", "src/mastodon/mastodon.rs", "src/megalodon.rs", "src/pleroma/entities/mod.rs", "src/pleroma/entities/status_source.rs", "src/pleroma/pleroma.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/benches.yml", ".github/workflows/ci.yml", ".pre-commit-config.yaml", "CHANGELOG.md", "Cargo.toml", "README.md", "rust-toolchain", "src/callbacks.rs", "src/compact.rs", "src/error.rs", "src/in_memory_example.rs", "src/lib.rs", "src/search.rs", "src/structs.rs", "src/upsert.rs"]

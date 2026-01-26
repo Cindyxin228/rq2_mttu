@@ -1,0 +1,1 @@
+["codegen/src/type_gen.rs", "postgres-protocol/Cargo.toml", "postgres-protocol/src/authentication/sasl.rs", "postgres-types/src/lib.rs", "postgres/src/copy_out_reader.rs", "tokio-postgres/src/error/mod.rs", "tokio-postgres/src/generic_client.rs"]

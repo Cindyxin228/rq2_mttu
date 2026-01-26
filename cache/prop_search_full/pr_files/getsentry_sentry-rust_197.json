@@ -1,0 +1,1 @@
+["sentry-core/src/api.rs", "sentry-core/src/backtrace_support.rs", "sentry-core/src/breadcrumbs.rs", "sentry-core/src/client.rs", "sentry-core/src/clientoptions.rs", "sentry-core/src/hub.rs", "sentry-core/src/lib.rs"]

@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "src/auth.rs", "src/core/basic_client.rs", "src/core/operation_client.rs", "src/core/testing/core_tests.rs", "src/error.rs", "tests/ci.sh"]

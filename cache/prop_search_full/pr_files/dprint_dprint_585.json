@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/core/Cargo.toml", "crates/development/Cargo.toml", "crates/dprint/Cargo.toml", "crates/dprint/src/configuration/deserialize_config.rs", "crates/dprint/src/configuration/manipulation.rs", "crates/dprint/src/plugins/repo/read_info_file.rs", "crates/dprint/src/plugins/repo/read_update_url.rs", "crates/dprint/src/utils/terminal.rs", "rust-toolchain.toml"]

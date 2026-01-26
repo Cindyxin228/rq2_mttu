@@ -1,0 +1,1 @@
+["src/bin/local.rs", "src/relay/dnsrelay/mod.rs", "src/relay/local.rs", "src/relay/udprelay/association.rs", "src/relay/udprelay/redir_local.rs", "src/relay/udprelay/socks5_local.rs", "src/relay/udprelay/tunnel_local.rs"]

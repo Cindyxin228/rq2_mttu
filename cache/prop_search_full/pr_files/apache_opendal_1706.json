@@ -1,0 +1,1 @@
+["Cargo.lock", "binaries/oli/Cargo.toml", "binaries/oli/src/bin/oli.rs", "binaries/oli/src/commands/cli.rs", "binaries/oli/src/commands/cp.rs", "binaries/oli/src/commands/mod.rs", "binaries/oli/src/config/mod.rs", "binaries/oli/src/lib.rs", "binaries/oli/src/utils/location.rs", "binaries/oli/src/utils/mod.rs"]

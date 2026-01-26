@@ -1,0 +1,1 @@
+[".config/spellcheck.toml", ".config/trauma.dic", ".github/ISSUE_TEMPLATE/bug_report.md", ".github/ISSUE_TEMPLATE/feature_request.md", ".github/ISSUE_TEMPLATE/help_request.md", ".github/PULL_REQUEST_TEMPLATE.md", ".github/dependabot.yml", ".github/workflows/ci-rust.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "justfile", "src/download.rs"]

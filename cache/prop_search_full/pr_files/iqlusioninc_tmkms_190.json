@@ -1,0 +1,1 @@
+["src/config/validator.rs", "src/connection/secret_connection.rs", "src/connection/secret_connection/protocol.rs", "src/connection/tcp.rs", "src/session.rs", "tests/integration.rs", "tests/support/gen-validator-integration-cfg.sh", "tests/support/kms_yubihsm_mock.toml", "tmkms.toml.example"]

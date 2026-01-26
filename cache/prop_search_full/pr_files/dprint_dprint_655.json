@@ -1,0 +1,1 @@
+[".github/workflows/ci.generate.ts", ".github/workflows/ci.yml", "crates/dprint/src/plugins/implementations/process/plugin.rs", "crates/dprint/src/test_helpers.rs", "rust-toolchain.toml"]

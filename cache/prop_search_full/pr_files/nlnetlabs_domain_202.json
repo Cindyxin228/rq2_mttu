@@ -1,0 +1,1 @@
+["src/base/message_builder.rs", "src/base/mod.rs", "src/base/opt/mod.rs", "src/base/record.rs", "src/base/scan.rs", "src/base/wire.rs", "src/rdata/dnssec.rs", "src/rdata/rfc1035.rs", "src/sign/records.rs", "src/validate.rs", "src/zonefile/inplace.rs"]

@@ -1,0 +1,1 @@
+["web3.js/src/connection.ts", "web3.js/test/bpf-loader.test.ts", "web3.js/test/connection.test.ts", "web3.js/test/fixtures/noop-program/solana_bpf_rust_noop.so", "web3.js/test/fixtures/noop-program/src/lib.rs"]

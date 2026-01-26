@@ -1,0 +1,1 @@
+["examples/basic_search.rs", "examples/fuzzy_search.rs", "examples/phrase_prefix_search.rs", "examples/pre_tokenized_text.rs", "src/core/tests.rs", "src/directory/directory.rs", "src/reader/mod.rs"]

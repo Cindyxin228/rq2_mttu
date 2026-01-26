@@ -1,0 +1,1 @@
+["cargo-crev/CHANGELOG.md", "cargo-crev/src/main.rs", "cargo-crev/src/opts.rs", "cargo-crev/src/review.rs", "crev-data/src/proof/content.rs", "crev-data/src/proof/mod.rs", "crev-data/src/proof/review/code.rs", "crev-data/src/proof/review/package.rs", "crev-data/src/proof/trust.rs", "crev-wot/src/lib.rs"]

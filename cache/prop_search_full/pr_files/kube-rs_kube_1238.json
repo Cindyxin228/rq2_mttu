@@ -1,0 +1,1 @@
+["kube-client/src/api/portforward.rs", "kube-client/src/client/auth/oidc.rs", "kube-runtime/src/utils/mod.rs", "kube-runtime/src/utils/stream_subscribe.rs", "kube-runtime/src/wait.rs"]

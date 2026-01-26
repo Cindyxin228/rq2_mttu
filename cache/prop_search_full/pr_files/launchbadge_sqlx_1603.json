@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "sqlx-cli/Cargo.toml", "sqlx-cli/src/bin/cargo-sqlx.rs", "sqlx-cli/src/bin/sqlx.rs", "sqlx-cli/src/opt.rs", "sqlx-core/Cargo.toml", "sqlx-macros/Cargo.toml", "sqlx-rt/Cargo.toml", "tests/sqlite/sqlite.rs"]

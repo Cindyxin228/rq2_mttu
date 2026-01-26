@@ -1,0 +1,1 @@
+["src/crypto.rs", "src/lib.rs", "src/streaming.rs", "src/types.rs", "tests/adaptive_chunking.rs", "tests/file_io.rs", "tests/performance_baseline.rs", "tests/security_validation.rs"]

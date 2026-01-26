@@ -1,0 +1,1 @@
+["components/list/README.md", "components/list/examples/and_list.rs", "components/list/src/lib.rs", "components/list/src/list_formatter.rs", "ffi/ecma402/Cargo.lock", "ffi/ecma402/src/lib.rs", "ffi/ecma402/src/list.rs", "ffi/ecma402/src/pluralrules.rs", "provider/datagen/src/transform/cldr/list/mod.rs"]

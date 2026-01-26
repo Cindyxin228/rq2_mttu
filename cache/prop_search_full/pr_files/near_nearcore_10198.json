@@ -1,0 +1,1 @@
+["core/store/src/db/colddb.rs", "core/store/src/db/rocksdb.rs", "core/store/src/db/rocksdb/instance_tracker.rs", "core/store/src/db/rocksdb/snapshot.rs", "core/store/src/flat/store_helper.rs", "core/store/src/metadata.rs", "core/store/src/opener.rs", "runtime/near-test-contracts/build.rs"]

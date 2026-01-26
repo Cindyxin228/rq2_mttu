@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "src/cmd/add.rs", "src/cmd/import.rs", "src/cmd/init.rs", "src/cmd/query.rs", "src/cmd/remove.rs", "src/config.rs", "src/db/dir.rs", "src/db/mod.rs", "src/db/query.rs", "src/error.rs", "src/import/autojump.rs", "src/import/mod.rs", "src/import/z.rs", "src/main.rs", "src/util.rs"]

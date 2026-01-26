@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/cli/Cargo.toml", "lib/registry/Cargo.toml", "lib/wai-bindgen-wasmer/Cargo.toml", "lib/wasi-types/Cargo.toml", "lib/wasi/Cargo.toml", "scripts/make-release.py", "scripts/publish.py"]

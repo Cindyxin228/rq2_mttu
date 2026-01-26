@@ -1,0 +1,1 @@
+["crates/wiggle/generate/src/types/flags.rs", "crates/wiggle/generate/src/types/handle.rs", "crates/wiggle/generate/src/types/record.rs", "crates/wiggle/generate/src/wasmtime.rs", "crates/wiggle/src/guest_type.rs", "crates/wiggle/src/lib.rs", "crates/wiggle/src/wasmtime.rs", "crates/wiggle/test-helpers/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "process/drivers/opts/rechunk.rs", "process/drivers/traits.rs", "recipe/src/recipe.rs", "src/commands/build.rs", "src/commands/generate.rs", "template/Cargo.toml", "template/src/lib.rs", "template/templates/Containerfile.j2", "utils/src/lib.rs"]

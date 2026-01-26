@@ -1,0 +1,1 @@
+[".cargo/config.toml", "README.md", "macros/src/command/slash.rs", "macros/src/slash_choice_parameter.rs", "src/builtins/mod.rs", "src/event.rs", "src/lib.rs", "src/prefix/track_edits.rs", "src/slash/argument/autocomplete/autocompletable.rs", "src/slash/argument/slash.rs"]

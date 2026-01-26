@@ -1,0 +1,1 @@
+["Cargo.toml", "ec/Cargo.toml", "ec/src/hashing/curve_maps/elligator2.rs", "ec/src/hashing/curve_maps/swu.rs", "ec/src/scalar_mul/variable_base/mod.rs", "ec/src/scalar_mul/variable_base/stream_pippenger.rs", "poly/Cargo.toml", "poly/src/evaluations/multivariate/multilinear/mod.rs", "poly/src/evaluations/multivariate/multilinear/sparse.rs"]

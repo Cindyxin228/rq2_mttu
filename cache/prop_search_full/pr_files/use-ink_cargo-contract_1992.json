@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/build/src/lib.rs", "crates/build/src/workspace/profile.rs", "crates/cargo-contract/tests/decode.rs", "crates/cargo-contract/tests/encode.rs", "crates/cargo-contract/tests/verify.rs", "crates/extrinsics/src/env_check.rs", "crates/extrinsics/src/integration_tests.rs", "crates/transcode/src/env_types.rs", "crates/transcode/src/transcoder.rs"]

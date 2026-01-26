@@ -1,0 +1,1 @@
+["docs/source/queries/values.md", "examples/Cargo.toml", "examples/value_list.rs", "scylla-macros/Cargo.toml", "scylla-macros/src/lib.rs", "scylla-macros/src/value_list.rs", "scylla/Cargo.toml", "scylla/src/macros.rs", "scylla/src/transport/session_test.rs"]

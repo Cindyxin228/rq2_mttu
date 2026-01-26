@@ -1,0 +1,1 @@
+["crates/macro/src/html_tree/html_component.rs", "tests/macro/html-component-fail.rs", "tests/macro/html-component-fail.stderr", "tests/macro/html-component-pass.rs"]

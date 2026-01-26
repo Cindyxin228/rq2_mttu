@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/Cargo.toml", "primitives/Cargo.toml", "primitives/src/pallet_traits/pallet_contracts_config.rs", "primitives/src/pallet_traits/pallet_staking_config.rs", "src/extrinsic/mod.rs", "testing/Cargo.toml"]

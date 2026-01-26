@@ -1,0 +1,1 @@
+["src/models/events.rs", "src/models/events/payload.rs", "src/models/events/payload/issue_comment.rs", "tests/resources/issue_comment_event.json"]

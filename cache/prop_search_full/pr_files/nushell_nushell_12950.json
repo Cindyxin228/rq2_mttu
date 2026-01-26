@@ -1,0 +1,1 @@
+["crates/nu-command/src/system/run_external.rs", "tests/shell/pipeline/commands/external.rs"]

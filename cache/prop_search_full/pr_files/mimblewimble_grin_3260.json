@@ -1,0 +1,1 @@
+["api/src/types.rs", "chain/src/txhashset/txhashset.rs", "chain/src/txhashset/utxo_view.rs", "chain/tests/mine_simple_chain.rs", "core/src/core/transaction.rs"]

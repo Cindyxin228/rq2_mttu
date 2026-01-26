@@ -1,0 +1,1 @@
+["examples/malloc_hook.rs", "src/backtrace/frame_pointer.rs", "src/backtrace/mod.rs", "src/collector.rs", "src/profiler.rs"]

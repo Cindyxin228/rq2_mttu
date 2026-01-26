@@ -1,0 +1,1 @@
+[".changes/feat-multiple-sql-backends.md", ".github/workflows/lint-rust.yml", ".github/workflows/test-rust.yml", "plugins/localhost/src/lib.rs", "plugins/sql/Cargo.toml", "plugins/sql/src/commands.rs", "plugins/sql/src/decode/mod.rs", "plugins/sql/src/error.rs", "plugins/sql/src/lib.rs", "plugins/sql/src/plugin.rs", "plugins/sql/src/wrapper.rs"]

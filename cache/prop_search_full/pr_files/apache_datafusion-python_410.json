@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "datafusion/tests/test_dataframe.py", "datafusion/tests/test_substrait.py", "dev/release/generate-changelog.py", "src/common/df_field.rs", "src/expr.rs", "src/expr/scalar_function.rs", "src/substrait.rs"]

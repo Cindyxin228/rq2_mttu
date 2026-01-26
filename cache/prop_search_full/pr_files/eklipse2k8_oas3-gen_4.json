@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "rustfmt.toml", "src/generator/code_generator.rs", "src/generator/operation_converter.rs", "src/generator/schema_converter.rs", "src/generator/schema_graph.rs", "src/main.rs", "src/reserved.rs", "tests/serde_round_trip.rs"]

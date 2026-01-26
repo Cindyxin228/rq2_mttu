@@ -1,0 +1,1 @@
+["acceptance/src/data.rs", "ffi/src/scan.rs", "kernel/examples/inspect-table/src/main.rs", "kernel/examples/read-table-multi-threaded/src/main.rs", "kernel/examples/read-table-single-threaded/src/main.rs", "kernel/src/scan/mod.rs", "kernel/src/snapshot.rs", "kernel/tests/dv.rs", "kernel/tests/read.rs"]

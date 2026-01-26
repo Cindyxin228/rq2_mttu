@@ -1,0 +1,1 @@
+[".github/workflows/build-test-sources.yaml", "concordium-base.cabal", "haskell-bins/generate-update-keys/Main.hs", "haskell-src/Concordium/Types/Execution.hs", "haskell-src/Concordium/Utils/Encryption.hs", "haskell-src/Concordium/Utils/Serialization/Put.hs", "haskell-tests/ConcordiumTests/Crypto/FFIVerify.hs", "package.yaml", "stack.yaml"]

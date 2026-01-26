@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/wasmcloud-host/Cargo.toml", "crates/wasmcloud-host/codegen.yaml", "crates/wasmcloud-host/src/capability/extras.rs", "crates/wasmcloud-host/src/capability/native_host.rs", "crates/wasmcloud-host/src/generated/extras.rs", "crates/wasmcloud-host/src/generated/mod.rs"]

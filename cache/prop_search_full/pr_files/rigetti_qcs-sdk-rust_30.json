@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "deny.toml", "qcs-api/Cargo.toml", "qcs/Cargo.toml", "qcs/src/executable.rs", "qcs/src/execution_result.rs", "qcs/src/lib.rs"]

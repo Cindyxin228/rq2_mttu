@@ -1,0 +1,1 @@
+["arrow/src/array/array_binary.rs", "arrow/src/csv/reader.rs", "arrow/src/ipc/writer.rs", "arrow/src/json/reader.rs", "arrow/src/json/writer.rs", "arrow/src/record_batch.rs"]

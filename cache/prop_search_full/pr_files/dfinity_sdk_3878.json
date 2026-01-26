@@ -1,0 +1,1 @@
+["docs/dfx-json-schema.json", "docs/networks-json-schema.json", "e2e/tests-dfx/frontend.bash", "src/dfx-core/src/config/model/dfinity.rs", "src/dfx-core/src/config/model/local_server_descriptor.rs", "src/dfx/src/actors/pocketic_proxy.rs", "src/dfx/src/commands/start.rs"]

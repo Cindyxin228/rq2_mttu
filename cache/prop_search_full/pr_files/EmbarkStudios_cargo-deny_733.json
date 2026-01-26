@@ -1,0 +1,1 @@
+["Cargo.lock", "clippy.toml", "deny.toml", "src/advisories/diags.rs", "src/bans/diags.rs", "src/bans/graph.rs", "src/cargo-deny/common.rs", "src/cargo-deny/list.rs", "src/cfg.rs", "src/diag.rs", "src/diag/krate_spans.rs", "src/licenses/gather.rs", "tests/licenses.rs"]

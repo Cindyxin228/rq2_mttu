@@ -1,0 +1,1 @@
+["examples/nats-box/main.rs", "src/asynk.rs", "src/client.rs", "src/connector.rs", "src/lib.rs", "src/options.rs", "tests/drop.rs"]

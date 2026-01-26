@@ -1,0 +1,1 @@
+["src/pipeline/narrow_phase/contact_generator/ball_convex_polyhedron_manifold_generator.rs", "src/query/point_internal/point_ball.rs", "src/query/point_internal/point_plane.rs", "src/shape/convex.rs", "src/shape/convex_polygon.rs", "src/shape/convex_polyhedron.rs", "src/shape/cuboid.rs", "src/shape/segment.rs", "src/shape/triangle.rs"]

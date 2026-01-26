@@ -1,0 +1,1 @@
+["chain/src/chain.rs", "chain/src/txhashset/txhashset.rs", "chain/src/types.rs", "p2p/src/protocol.rs", "servers/src/common/adapters.rs"]

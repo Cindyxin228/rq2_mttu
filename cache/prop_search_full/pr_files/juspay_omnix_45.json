@@ -1,0 +1,1 @@
+["src/nix/health/check/caches.rs", "src/nix/health/check/flake_enabled.rs", "src/nix/health/check/max_jobs.rs", "src/nix/health/check/min_nix_version.rs", "src/nix/health/check/mod.rs", "src/nix/health/mod.rs", "src/nix/health/report.rs", "src/nix/version.rs"]

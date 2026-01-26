@@ -1,0 +1,1 @@
+["src/accessor/mod.rs", "src/accessor/sparse.rs", "src/animation/mod.rs", "src/buffer.rs", "src/camera.rs", "src/image.rs", "src/khr_lights_punctual.rs", "src/material.rs", "src/mesh/iter.rs", "src/mesh/mod.rs", "src/scene/mod.rs", "src/skin/mod.rs"]

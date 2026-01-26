@@ -1,0 +1,1 @@
+["src/bat/output.rs", "src/cli.rs", "src/config.rs", "src/delta.rs", "src/paint.rs", "tests/test_color_only_output_matches_git_on_full_repo_history"]

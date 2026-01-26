@@ -1,0 +1,1 @@
+["protoc/Cargo.toml", "protoc/bin/protoc-linux-aarch_64", "protoc/bin/protoc-linux-ppcle_64", "protoc/bin/protoc-linux-x86_32", "protoc/bin/protoc-linux-x86_64", "protoc/bin/protoc-osx-x86_64", "protoc/bin/protoc-win32.exe", "protoc/src/lib.rs"]

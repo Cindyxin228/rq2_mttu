@@ -1,0 +1,1 @@
+["s3/bin/simple_crud.rs", "s3/src/bucket.rs", "s3/src/command.rs", "s3/src/request_trait.rs", "s3/src/signing.rs"]

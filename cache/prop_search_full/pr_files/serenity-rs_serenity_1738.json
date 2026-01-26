@@ -1,0 +1,1 @@
+["src/builder/edit_message.rs", "src/constants.rs", "src/http/client.rs", "src/http/routing.rs", "src/internal/macros.rs", "src/internal/prelude.rs", "src/model/channel/message.rs", "src/model/gateway.rs", "src/model/guild/guild_id.rs", "src/model/guild/integration.rs"]

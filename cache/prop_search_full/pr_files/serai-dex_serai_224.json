@@ -1,0 +1,1 @@
+[".github/actions/monero-wallet-rpc/action.yml", ".github/actions/monero/action.yml", ".github/actions/test-dependencies/action.yml", ".github/workflows/monero-tests.yaml", "coins/monero/Cargo.toml", "coins/monero/src/wallet/mod.rs", "coins/monero/tests/wallet-rpc-compatibility.rs"]

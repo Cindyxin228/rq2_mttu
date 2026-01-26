@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "extendr-api/Cargo.toml", "extendr-api/src/optional/ndarray.rs", "extendr-api/src/robj/try_from_robj.rs", "extendr-ffi/Cargo.toml", "tests/extendrtests/src/rust/Cargo.toml", "tests/extendrtests/tests/testthat/_snaps/macro-snapshot.md", "xtask/src/commands/generate_docs.rs", "xtask/src/commands/rextendr_document.rs"]

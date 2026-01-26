@@ -1,0 +1,1 @@
+["core/src/identity/ed25519.rs", "core/src/identity/secp256k1.rs"]

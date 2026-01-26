@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", ".travis.yml", "ci/before-deploy.bash"]

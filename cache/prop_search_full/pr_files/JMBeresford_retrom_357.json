@@ -1,0 +1,1 @@
+["docker/service.Dockerfile", "packages/client-web/vite.config.ts", "packages/service/src/rest/mod.rs"]

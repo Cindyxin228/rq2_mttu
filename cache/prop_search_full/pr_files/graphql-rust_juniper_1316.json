@@ -1,0 +1,1 @@
+["juniper/CHANGELOG.md", "juniper/Makefile", "juniper/package.json", "juniper/src/http/graphiql.html", "juniper/src/http/graphiql.rs", "juniper_actix/src/lib.rs", "juniper_warp/src/lib.rs"]

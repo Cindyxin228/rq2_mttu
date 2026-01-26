@@ -1,0 +1,1 @@
+["commons/zenoh-protocol-core/src/lib.rs", "examples/examples/z_pub_thr.rs", "examples/examples/z_sub_thr.rs", "zenoh/src/prelude.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-command/src/commands.rs", "crates/nu-command/src/examples.rs", "crates/nu-command/src/examples/double_echo.rs", "crates/nu-command/src/examples/double_ls.rs", "crates/nu-command/src/examples/sample.rs", "crates/nu-command/src/examples/stub_generate.rs"]

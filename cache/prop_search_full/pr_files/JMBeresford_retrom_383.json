@@ -1,0 +1,1 @@
+["packages/client-web/src/components/menubar/jobs-indicator/index.tsx", "packages/codegen/protos/retrom/services/metadata-service.proto", "packages/service/src/grpc/jobs/job_manager.rs", "packages/service/src/grpc/library/metadata_handlers.rs", "packages/service/src/grpc/metadata/mod.rs", "packages/service/src/grpc/mod.rs", "packages/service/src/media_cache/mod.rs"]

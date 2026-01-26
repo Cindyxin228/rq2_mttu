@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/app.rs", "src/bin/ff-train-deps.rs", "src/bin/ff-train-skipgram.rs", "src/io.rs", "src/train_model.rs"]

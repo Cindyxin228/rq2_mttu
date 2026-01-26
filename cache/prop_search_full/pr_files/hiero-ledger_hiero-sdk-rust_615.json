@@ -1,0 +1,1 @@
+["protobufs/build.rs", "protobufs/protobufs", "src/contract/contract_function_result.rs", "src/contract/contract_nonce_info.rs", "src/contract/mod.rs", "src/lib.rs", "tests/e2e/contract/mod.rs", "tests/e2e/contract/nonce_info.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "model/src/payment.rs", "model/src/payment/debit_note_event.rs", "model/src/payment/invoice_event.rs", "model/src/payment/params.rs", "model/src/payment/payment.rs", "specs/payment-api.yaml", "src/payment/api.rs"]

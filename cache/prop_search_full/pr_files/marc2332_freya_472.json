@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "crates/hooks/src/editor_history.rs", "crates/hooks/src/lib.rs", "crates/hooks/src/rope_editor.rs", "crates/hooks/src/text_editor.rs", "crates/hooks/src/use_editable.rs", "crates/hooks/tests/use_animation.rs"]

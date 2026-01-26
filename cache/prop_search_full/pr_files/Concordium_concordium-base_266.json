@@ -1,0 +1,1 @@
+[".github/workflows/build-test-sources.yaml", ".github/workflows/fourmolu.yaml", ".github/workflows/rustfmt.yaml", "README.md", "haskell-src/Concordium/Utils/Serialization/Put.hs", "haskell-src/Data/FixedByteString.hs"]

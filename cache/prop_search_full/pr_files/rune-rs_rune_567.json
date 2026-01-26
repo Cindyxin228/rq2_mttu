@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/rune/src/compile/v1/assemble.rs", "crates/rune/src/compile/v1/loops.rs", "crates/rune/src/hir/hir.rs", "crates/rune/src/hir/lowering.rs"]

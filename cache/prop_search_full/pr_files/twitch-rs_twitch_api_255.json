@@ -1,0 +1,1 @@
+[".gitmodules", ".vscode/settings.json", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/helix/client.rs", "src/helix/endpoints/chat/get_emote_sets.rs", "src/helix/endpoints/chat/mod.rs", "src/lib.rs", "src/types.rs", "twitch_oauth2", "twitch_types"]

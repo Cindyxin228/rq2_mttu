@@ -1,0 +1,1 @@
+[".githooks/commit-msg", ".github/workflows/ci.yml", "Cargo.toml", "examples/stream_progress.rs", "rust-toolchain.toml", "src/http/mod.rs", "src/lib.rs", "src/source.rs", "src/storage/bounded.rs", "src/storage/temp.rs", "tests/integration_test.rs"]

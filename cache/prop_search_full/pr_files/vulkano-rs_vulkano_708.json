@@ -1,0 +1,1 @@
+["examples/src/bin/runtime-shader.rs", "vulkano-shaders/src/entry_point.rs", "vulkano/src/pipeline/compute_pipeline.rs", "vulkano/src/pipeline/graphics_pipeline/builder.rs", "vulkano/src/pipeline/graphics_pipeline/mod.rs", "vulkano/src/pipeline/shader.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "packages/vm/src/cache.rs", "packages/vm/src/errors/communication_error.rs", "packages/vm/src/instance.rs", "packages/vm/src/memory.rs", "packages/vm/src/modules/cached_module.rs", "packages/vm/src/modules/in_memory_cache.rs", "packages/vm/src/modules/mod.rs", "packages/vm/src/modules/pinned_memory_cache.rs", "packages/vm/src/wasm_backend/store.rs"]

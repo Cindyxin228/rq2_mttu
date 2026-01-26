@@ -1,0 +1,1 @@
+["cli/tests/00-base.result", "cli/tests/00-base.sql", "driver/Cargo.toml", "driver/src/lib.rs", "driver/src/schema.rs", "driver/src/value.rs", "driver/tests/driver/select_simple.rs"]

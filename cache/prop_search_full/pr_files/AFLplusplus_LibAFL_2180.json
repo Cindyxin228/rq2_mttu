@@ -1,0 +1,1 @@
+["libafl_frida/src/alloc.rs", "libafl_frida/src/asan/asan_rt.rs", "libafl_frida/src/asan/hook_funcs.rs", "libafl_frida/src/cmplog_rt.rs", "libafl_frida/src/coverage_rt.rs", "libafl_frida/src/drcov_rt.rs", "libafl_frida/src/helper.rs", "libafl_frida/src/lib.rs", "libafl_frida/src/utils.rs"]

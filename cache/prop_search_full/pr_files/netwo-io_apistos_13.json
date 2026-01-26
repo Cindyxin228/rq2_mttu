@@ -1,0 +1,1 @@
+["Cargo.toml", "netwopenapi-gen-test/src/tests/api_operation.rs", "netwopenapi-gen/src/internal/mod.rs", "netwopenapi-gen/src/internal/operation.rs", "netwopenapi-gen/src/operation_attr.rs", "netwopenapi/Cargo.toml", "netwopenapi/src/app.rs", "netwopenapi/tests/operation_id.rs", "netwopenapi/tests/path_parameters.rs", "netwopenapi/tests/query_parameters.rs"]

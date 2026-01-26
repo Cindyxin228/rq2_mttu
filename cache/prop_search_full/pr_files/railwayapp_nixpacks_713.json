@@ -1,0 +1,1 @@
+["src/providers/node/mod.rs", "tests/snapshots/generate_plan_tests__node_prisma_postgres.snap", "tests/snapshots/generate_plan_tests__node_turborepo.snap", "tests/snapshots/generate_plan_tests__node_yarn_prisma.snap"]

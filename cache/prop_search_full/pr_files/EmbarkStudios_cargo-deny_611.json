@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/advisories/cfg.rs", "src/advisories/diags.rs", "src/advisories/snapshots/cargo_deny__advisories__cfg__test__deserializes_advisories_cfg-2.snap", "src/licenses.rs", "src/licenses/cfg.rs", "src/licenses/snapshots/cargo_deny__licenses__cfg__test__deserializes_licenses_cfg-2.snap"]

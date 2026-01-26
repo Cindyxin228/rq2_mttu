@@ -1,0 +1,1 @@
+["opentelemetry-otlp/Cargo.toml", "opentelemetry-otlp/src/exporter/mod.rs", "opentelemetry-otlp/src/exporter/tonic/mod.rs", "opentelemetry-otlp/src/lib.rs"]

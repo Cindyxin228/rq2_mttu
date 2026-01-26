@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "sqlx-cli/Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-core/src/any/migrate.rs", "sqlx-core/src/postgres/copy.rs", "sqlx-core/src/postgres/types/decimal.rs", "sqlx-macros/Cargo.toml", "sqlx-rt/Cargo.toml", "tests/postgres/postgres.rs", "tests/sqlite/derives.rs"]

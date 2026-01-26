@@ -1,0 +1,1 @@
+["locustdb-serialization/schemas/wal_segment.capnp", "locustdb-serialization/src/event_buffer.rs", "locustdb-serialization/src/wal_segment_capnp.rs", "src/disk_store/wal_segment.rs", "src/mem_store/table.rs", "src/scheduler/inner_locustdb.rs", "tests/ingestion_test.rs"]

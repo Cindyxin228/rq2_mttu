@@ -1,0 +1,1 @@
+["src/cloud.rs", "src/common/protocol.rs", "src/compute/servers.rs", "src/image/images.rs", "src/lib.rs", "src/network/floatingips.rs", "src/network/networks.rs", "src/network/ports.rs", "src/network/subnets.rs", "src/object_storage/api.rs", "src/object_storage/protocol.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/src/main.rs", "probe-rs/graph.png", "probe-rs/src/debug/mod.rs", "probe-rs/src/probe/stlink/mod.rs", "probe-rs/tests/gpio_hal_blinky", "probe-rs/tests/source_location.rs"]

@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/CODEOWNERS", ".github/workflows/rust.yml", "Cargo.toml", "README.md", "crates/vise-exporter/Cargo.toml", "crates/vise-exporter/README.md", "crates/vise-macros/Cargo.toml", "crates/vise-macros/README.md", "crates/vise/Cargo.toml", "crates/vise/README.md"]

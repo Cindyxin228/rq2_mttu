@@ -1,0 +1,1 @@
+["crates/dids/core/src/method_resolver.rs", "crates/dids/methods/jwk/src/lib.rs", "crates/dids/methods/jwk/src/vm.rs", "crates/verification-methods/src/methods.rs", "crates/verification-methods/src/methods/w3c/multikey.rs"]

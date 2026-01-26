@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-command/Cargo.toml", "crates/nu-command/proptest-regressions/format_conversions/nuon.txt", "crates/nu-command/tests/format_conversions/nuon.rs"]

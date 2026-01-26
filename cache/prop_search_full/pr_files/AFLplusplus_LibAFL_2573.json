@@ -1,0 +1,1 @@
+["fuzzers/binary_only/qemu_coverage/src/fuzzer.rs", "libafl_qemu/src/modules/drcov.rs", "libafl_qemu/src/modules/mod.rs", "libafl_qemu/src/modules/usermode/mod.rs"]

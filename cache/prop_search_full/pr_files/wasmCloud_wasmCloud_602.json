@@ -1,0 +1,1 @@
+["crates/compat/src/http.rs", "crates/runtime/tests/runtime.rs", "tests/actors/rust/builtins-compat-reactor/src/lib.rs", "tests/actors/rust/builtins-component-reactor/src/lib.rs", "tests/actors/rust/builtins-module-reactor/src/lib.rs", "tests/wasmbus.rs"]

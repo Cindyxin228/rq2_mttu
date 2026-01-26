@@ -1,0 +1,1 @@
+[".github/bors.toml", ".github/workflows/changelog.yml", ".github/workflows/ci.yml", ".github/workflows/clippy.yml", ".github/workflows/rustfmt.yml", "CHANGELOG.md", "Cargo.toml", "examples/serial-interrupt-idle.rs", "src/flash.rs", "src/gpio.rs", "src/timer.rs", "tools/check.py"]

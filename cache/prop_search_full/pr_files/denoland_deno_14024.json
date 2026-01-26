@@ -1,0 +1,1 @@
+["cli/tests/testdata/bench/allow_all.ts", "cli/tests/testdata/test/allow_all.ts", "cli/tests/testdata/workers/permission_echo.js", "cli/tests/testdata/workers/test.ts", "cli/tests/unit/http_test.ts", "cli/tests/unit/net_test.ts", "cli/tests/unit/timers_test.ts", "cli/tests/unit/tty_color_test.ts", "runtime/permissions.rs"]

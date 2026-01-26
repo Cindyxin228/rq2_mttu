@@ -1,0 +1,1 @@
+["node/src/cli.rs", "node/src/components/consensus/era_supervisor/era.rs", "node/src/components/network.rs", "node/src/components/network/config.rs", "node/src/components/network/insights.rs", "node/src/components/network/outgoing.rs", "node/src/utils.rs", "node/src/utils/config_specification.rs", "resources/production/config-example.toml"]

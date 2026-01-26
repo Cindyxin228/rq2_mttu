@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "scripts/selftest.sh", "volo-http/Cargo.toml", "volo-http/src/client/mod.rs", "volo-http/src/client/request_builder.rs", "volo-http/src/client/transport.rs", "volo-http/src/client/utils.rs", "volo-http/src/error/client.rs"]

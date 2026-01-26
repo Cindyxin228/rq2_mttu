@@ -1,0 +1,1 @@
+["Cargo.toml", "components/zcash_note_encryption/src/lib.rs", "zcash_client_backend/Cargo.toml", "zcash_client_backend/src/welding_rig.rs", "zcash_client_sqlite/Cargo.toml", "zcash_client_sqlite/src/lib.rs", "zcash_primitives/Cargo.toml", "zcash_primitives/src/sapling/note_encryption.rs", "zcash_primitives/src/transaction/components/sapling/builder.rs"]

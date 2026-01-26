@@ -1,0 +1,1 @@
+[".taskcluster.yml", "taskcluster/ci/android-build/kind.yml", "taskcluster/ci/docker-image/kind.yml", "taskcluster/ci/module-build/kind.yml", "taskcluster/ci/rust/kind.yml", "taskcluster/requirements.txt"]

@@ -1,0 +1,1 @@
+["payjoin-ffi/src/receive/mod.rs", "payjoin-ffi/src/receive/uni.rs", "payjoin/Cargo.toml", "payjoin/src/core/version.rs", "payjoin/src/output_substitution.rs", "payjoin/src/receive/optional_parameters.rs", "payjoin/src/receive/v1/mod.rs", "payjoin/src/receive/v2/mod.rs", "payjoin/src/receive/v2/persist.rs"]

@@ -1,0 +1,1 @@
+["consensus/core/src/config/params.rs", "consensus/core/src/networktype.rs", "crypto/txscript/src/lib.rs", "kaspad/src/main.rs", "mining/src/manager_tests.rs", "mining/src/mempool/check_transaction_standard.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/ctap1.rs", "examples/ctap2.rs", "examples/ctap2_discoverable_creds.rs", "examples/main.rs", "src/ctap2/client_data.rs", "src/ctap2/commands/client_pin.rs", "src/ctap2/server.rs"]

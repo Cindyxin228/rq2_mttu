@@ -1,0 +1,1 @@
+["Cargo.toml", "libsql-sqlite3/Makefile.in", "libsql-sqlite3/ext/libsql-wasi-demo/.gitignore", "libsql-sqlite3/ext/libsql-wasi-demo/Cargo.toml", "libsql-sqlite3/ext/libsql-wasi-demo/src/main.rs", "libsql-sqlite3/ext/libsql-wasi-demo/src/memory.rs", "libsql-sqlite3/ext/libsql-wasi-demo/src/vfs.rs", "libsql-sqlite3/ext/wasi/vfs.c"]

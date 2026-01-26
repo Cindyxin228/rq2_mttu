@@ -1,0 +1,1 @@
+["applications/tari_base_node/src/builder.rs", "applications/tari_base_node/src/main.rs", "base_layer/wallet_ffi/src/lib.rs", "common/Cargo.toml", "common/src/configuration.rs", "common/src/lib.rs", "comms/src/socks/client.rs", "comms/src/tor/client/types.rs", "config/tari_config_sample.toml"]

@@ -1,0 +1,1 @@
+["contracts/splits/.editorconfig", "contracts/splits/.gitignore", "contracts/splits/Cargo.toml", "contracts/splits/src/contract.rs", "contracts/splits/src/error.rs", "contracts/splits/src/integration_tests.rs", "contracts/splits/src/msg.rs", "contracts/splits/src/state.rs", "contracts/vending-minter/src/integration_tests.rs"]

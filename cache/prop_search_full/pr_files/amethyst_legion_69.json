@@ -1,0 +1,1 @@
+["legion_core/src/entity.rs", "legion_core/src/event.rs", "legion_core/src/filter.rs", "legion_core/src/index.rs", "legion_core/src/lib.rs", "legion_core/src/query.rs", "legion_core/src/serialize/de.rs", "legion_core/src/storage.rs", "legion_core/src/world.rs", "legion_systems/src/system.rs"]

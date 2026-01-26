@@ -1,0 +1,1 @@
+[".github/workflows/aws.yml", ".github/workflows/ci.yml", ".github/workflows/mysql.yml", ".github/workflows/publish.yml", "akd_local_auditor/src/common_test.rs", "akd_local_auditor/src/console_log.rs", "akd_local_auditor/src/main.rs", "akd_local_auditor/src/storage/mod.rs"]

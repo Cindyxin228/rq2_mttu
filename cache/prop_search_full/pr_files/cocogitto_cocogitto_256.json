@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/conventional/commit.rs", "src/git/revspec.rs", "src/git/tag.rs", "tests/cog_tests/changelog.rs"]

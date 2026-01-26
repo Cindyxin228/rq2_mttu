@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "identity/CHANGELOG.md", "misc/allow-block-list/CHANGELOG.md", "muxers/yamux/CHANGELOG.md", "protocols/gossipsub/CHANGELOG.md", "protocols/identify/CHANGELOG.md", "protocols/kad/CHANGELOG.md", "protocols/request-response/CHANGELOG.md", "swarm/CHANGELOG.md", "transports/noise/CHANGELOG.md"]

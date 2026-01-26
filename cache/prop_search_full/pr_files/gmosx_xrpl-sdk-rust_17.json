@@ -1,0 +1,1 @@
+["xrpl_address_codec/Cargo.toml", "xrpl_api/Cargo.toml", "xrpl_binary_codec/Cargo.toml", "xrpl_cli/Cargo.toml", "xrpl_cli/src/main.rs", "xrpl_sdk_jsonrpc/Cargo.toml", "xrpl_sdk_ws/Cargo.toml", "xrpl_types/Cargo.toml"]

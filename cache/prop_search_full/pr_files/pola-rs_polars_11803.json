@@ -1,0 +1,1 @@
+["crates/polars-arrow/src/io/parquet/read/deserialize/nested_utils.rs", "crates/polars-io/src/parquet/read_impl.rs", "py-polars/tests/unit/io/test_hive.py"]

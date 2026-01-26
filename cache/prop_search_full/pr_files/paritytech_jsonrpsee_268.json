@@ -1,0 +1,1 @@
+["http-client/src/transport.rs", "http-server/src/access_control/cors.rs", "http-server/src/access_control/hosts.rs", "types/src/jsonrpc/response.rs", "types/src/jsonrpc/wrapped/batch.rs", "types/src/jsonrpc/wrapped/params.rs", "ws-server/src/server.rs"]

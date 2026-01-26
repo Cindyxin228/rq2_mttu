@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "pueue/Cargo.toml", "pueue/src/client/commands/edit.rs", "pueue/src/client/commands/restart.rs", "pueue/tests/client/integration/edit.rs", "pueue/tests/helper/fixtures.rs", "pueue_lib/src/settings.rs"]

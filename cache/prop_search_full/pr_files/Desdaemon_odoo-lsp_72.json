@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.lock", "src/analyze.rs", "src/backend.rs", "src/cli.rs", "src/cli/tsconfig.rs", "src/index.rs", "src/index/js.rs", "src/index/record.rs", "src/index/symbol.rs", "src/python.rs", "src/python/completions.rs", "src/python/diagnostics.rs", "src/server.rs", "src/utils.rs", "src/xml.rs", "testing/Cargo.toml", "testing/benches/standard.rs"]

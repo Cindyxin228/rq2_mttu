@@ -1,0 +1,1 @@
+["packages/sycamore-core/src/component.rs", "packages/sycamore-core/src/render.rs", "packages/sycamore-macro/src/props.rs", "packages/sycamore-macro/src/view/codegen.rs", "packages/sycamore/src/utils.rs", "packages/sycamore/src/web/html.rs", "packages/tools/bench-diff/src/main.rs"]

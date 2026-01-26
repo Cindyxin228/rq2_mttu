@@ -1,0 +1,1 @@
+["lib/wasi/src/syscalls/wasix/futex_wake.rs", "lib/wasi/src/syscalls/wasix/futex_wake_all.rs"]

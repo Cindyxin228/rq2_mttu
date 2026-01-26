@@ -1,0 +1,1 @@
+[".drone.yml", ".github/workflows/casper-node.yml", ".github/workflows/lints.yml", "Cargo.lock", "Makefile", "utils/global-state-update-gen/src/generic/state_tracker.rs"]

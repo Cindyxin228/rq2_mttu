@@ -1,0 +1,1 @@
+["examples/block-explorer/explorer-indexer/explorer_indexer.manifest.yaml", "packages/fuel-indexer-tests/components/indices/simple-wasm/simple_wasm.wasm", "plugins/forc-index/src/ops/forc_index_deploy.rs"]

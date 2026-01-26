@@ -1,0 +1,1 @@
+["integration_tests/log4rs/cucumber.yml", "integration_tests/src/merge_mining_proxy.rs", "integration_tests/tests/features/MergeMining.feature"]

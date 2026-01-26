@@ -1,0 +1,1 @@
+["crates/dprint/src/commands/formatting.rs", "crates/dprint/src/environment/real_environment.rs", "crates/dprint/src/plugins/cache.rs", "crates/dprint/src/plugins/implementations/process/setup_process_plugin.rs"]

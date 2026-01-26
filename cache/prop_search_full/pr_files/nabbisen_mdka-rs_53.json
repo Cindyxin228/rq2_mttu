@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/rust.yml", ".github/workflows/scripts/install-rust.sh", ".github/workflows/scripts/make-release-asset.sh", ".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "src/main.rs"]

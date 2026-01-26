@@ -1,0 +1,1 @@
+["c2rust-ast-builder/src/builder.rs", "c2rust-refactor/src/transform/statics.rs", "c2rust-transpile/src/c_ast/mod.rs", "c2rust-transpile/src/convert_type.rs", "c2rust-transpile/src/translator/literals.rs", "c2rust-transpile/src/translator/mod.rs", "c2rust-transpile/src/translator/structs.rs", "tests/structs/src/structs.c", "tests/structs/src/test_structs.rs"]

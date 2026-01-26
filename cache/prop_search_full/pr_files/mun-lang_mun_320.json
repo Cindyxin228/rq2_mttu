@@ -1,0 +1,1 @@
+["crates/mun/Cargo.toml", "crates/mun_codegen/Cargo.toml", "crates/mun_hir/Cargo.toml", "crates/mun_language_server/Cargo.toml", "crates/mun_memory/Cargo.toml", "crates/mun_runtime/Cargo.toml", "crates/mun_runtime_capi/Cargo.toml"]

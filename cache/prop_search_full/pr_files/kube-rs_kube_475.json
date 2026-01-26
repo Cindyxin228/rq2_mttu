@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/secret_syncer.rs", "examples/secret_syncer_configmap.yaml", "kube-runtime/Cargo.toml", "kube-runtime/src/finalizer.rs", "kube-runtime/src/lib.rs"]

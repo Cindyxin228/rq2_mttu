@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Changelog.md", "src/cross_compile.rs", "test-crates/pyo3-abi3-without-version/Cargo.lock", "test-crates/pyo3-feature/Cargo.lock", "test-crates/pyo3-mixed-py-subdir/Cargo.lock", "test-crates/pyo3-mixed-submodule/Cargo.lock", "test-crates/pyo3-mixed/Cargo.lock", "test-crates/pyo3-no-extension-module/Cargo.lock", "test-crates/pyo3-pure/Cargo.lock"]

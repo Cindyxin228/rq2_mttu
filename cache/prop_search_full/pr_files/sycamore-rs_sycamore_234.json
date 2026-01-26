@@ -1,0 +1,1 @@
+["packages/sycamore-reactive/src/effect.rs", "packages/sycamore-router-macro/Cargo.toml", "packages/sycamore-router-macro/src/parser.rs", "packages/sycamore-router-macro/src/route.rs", "packages/sycamore-router-macro/tests/router/router-fail.stderr", "packages/sycamore-router/src/lib.rs", "website/src/index.rs"]

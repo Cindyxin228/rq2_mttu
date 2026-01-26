@@ -1,0 +1,1 @@
+["cli/src/cmd.rs", "cli/src/import/config.rs", "core/benches/report_bench.rs", "core/src/report.rs", "core/src/report/book_keeping.rs", "core/src/report/query.rs", "core/src/report/transaction.rs"]

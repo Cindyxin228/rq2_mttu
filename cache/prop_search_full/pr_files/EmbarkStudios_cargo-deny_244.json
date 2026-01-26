@@ -1,0 +1,1 @@
+["src/advisories/cfg.rs", "src/advisories/mod.rs", "src/cargo-deny/check.rs", "src/cargo-deny/fetch.rs", "tests/advisories.rs"]

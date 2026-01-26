@@ -1,0 +1,1 @@
+["fuzzers/binary_only/frida_executable_libpng/Cargo.toml", "fuzzers/binary_only/frida_gdiplus/Cargo.toml", "fuzzers/binary_only/frida_libpng/Cargo.toml", "libafl_frida/Cargo.toml", "libafl_frida/src/executor.rs", "libafl_frida/src/lib.rs"]

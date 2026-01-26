@@ -1,0 +1,1 @@
+["benches/json.rs", "src/error.rs", "src/parser/byte.rs", "src/parser/combinator.rs", "src/parser/error.rs", "src/parser/function.rs", "src/parser/item.rs", "src/parser/mod.rs", "src/parser/range.rs", "src/parser/regex.rs", "src/parser/repeat.rs", "src/stream/easy.rs", "travis.sh"]

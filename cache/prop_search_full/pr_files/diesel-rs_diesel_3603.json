@@ -1,0 +1,1 @@
+["diesel/src/mysql/types/primitives.rs", "diesel/src/pg/types/primitives.rs", "diesel/src/sqlite/types/mod.rs", "diesel_tests/tests/deserialization.rs"]

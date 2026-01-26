@@ -1,0 +1,1 @@
+["src/consts.rs", "src/ctap2/commands/get_assertion.rs", "src/ctap2/commands/get_version.rs", "src/ctap2/commands/make_credentials.rs", "src/ctap2/commands/mod.rs", "src/transport/mod.rs", "src/u2fprotocol.rs", "src/u2ftypes.rs"]

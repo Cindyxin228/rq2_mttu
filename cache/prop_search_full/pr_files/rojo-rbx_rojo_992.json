@@ -1,0 +1,1 @@
+[".dir-locals.el", ".github/workflows/release.yml", ".gitignore", ".vscode/extensions.json", ".vscode/settings.json", "CONTRIBUTING.md", "build.rs", "plugin.project.json", "plugin/run-tests.server.lua", "plugin/test", "plugin/test-place.project.json", "plugin/watch-build.sh", "scripts/unit-test-plugin.sh", "scripts/watch-build-plugin.sh"]

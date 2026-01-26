@@ -1,0 +1,1 @@
+["node/tests/data/dtls-cert.pem", "node/tests/data/dtls-key.pem", "rust/tests/integration/data/dtls-cert.pem", "rust/tests/integration/data/dtls-key.pem"]

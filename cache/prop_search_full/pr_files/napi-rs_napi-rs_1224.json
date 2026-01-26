@@ -1,0 +1,1 @@
+["crates/backend/src/codegen/struct.rs", "crates/napi/src/bindgen_runtime/js_values/arraybuffer.rs", "crates/napi/src/bindgen_runtime/js_values/buffer.rs", "examples/napi/__test__/typegen.spec.ts.md", "examples/napi/__test__/typegen.spec.ts.snap", "examples/napi/__test__/values.spec.ts", "examples/napi/index.d.ts", "examples/napi/src/class.rs", "examples/napi/src/typed_array.rs"]

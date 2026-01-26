@@ -1,0 +1,1 @@
+["maud/tests/basic_syntax.rs", "maud/tests/warnings/non-string-literal.stderr", "maud_macros/src/parse.rs"]

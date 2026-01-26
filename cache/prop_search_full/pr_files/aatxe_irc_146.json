@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client/conn.rs", "src/client/mod.rs", "src/client/transport.rs", "src/lib.rs", "src/proto/colors.rs", "src/proto/command.rs", "src/proto/irc.rs"]

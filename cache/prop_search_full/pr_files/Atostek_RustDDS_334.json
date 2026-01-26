@@ -1,0 +1,1 @@
+["src/dds/adapters.rs", "src/dds/no_key/datareader.rs", "src/dds/no_key/simpledatareader.rs", "src/dds/no_key/wrappers.rs", "src/dds/with_key/datareader.rs", "src/dds/with_key/simpledatareader.rs", "src/serialization.rs", "src/serialization/cdr_deserializer.rs", "src/serialization/cdr_serializer.rs", "src/serialization/pl_cdr_adapters.rs"]

@@ -1,0 +1,1 @@
+["embassy-stm32/build.rs", "embassy-stm32/src/rcc/h.rs", "examples/stm32h7rs/src/bin/blinky.rs", "examples/stm32h7rs/src/bin/eth.rs", "examples/stm32h7rs/src/bin/usb_serial.rs", "examples/stm32h7rs/src/bin/xspi_memory_mapped.rs", "tests/stm32/src/common.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/tests.yml", "role-manager/src/cli.rs", "role-manager/src/config/structs.rs", "role-manager/src/main.rs", "role-manager/src/options.rs", "role-manager/src/rolemanager.rs", "role-manager/src/state.rs", "role-manager/src/state/task.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "wgpu-core/Cargo.toml", "wgpu-hal/Cargo.toml", "wgpu-hal/src/dx12/device.rs", "wgpu-hal/src/gles/device.rs", "wgpu-hal/src/metal/device.rs", "wgpu-hal/src/vulkan/adapter.rs", "wgpu-hal/src/vulkan/mod.rs", "wgpu/tests/shader/mod.rs", "wgpu/tests/shader/zero_init_workgroup_mem.rs", "wgpu/tests/shader/zero_init_workgroup_mem.wgsl"]

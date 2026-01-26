@@ -1,0 +1,1 @@
+["lib/wasix/src/journal/effector/memory_and_snapshot.rs", "lib/wasix/src/journal/effector/save_event.rs", "lib/wasix/src/state/env.rs", "lib/wasix/src/state/func_env.rs", "lib/wasix/src/syscalls/journal/restore_snapshot.rs"]

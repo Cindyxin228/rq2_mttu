@@ -1,0 +1,1 @@
+["core/primitives/src/state.rs", "core/store/src/trie/insert_delete.rs", "core/store/src/trie/iterator.rs", "core/store/src/trie/mod.rs", "core/store/src/trie/state_parts.rs", "integration-tests/src/tests/runtime/state_viewer.rs"]

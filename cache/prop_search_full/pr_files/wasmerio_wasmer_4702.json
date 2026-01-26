@@ -1,0 +1,1 @@
+["lib/virtual-fs/src/mem_fs/filesystem.rs", "tests/wasi-fyi/fs_rename-file.rs", "tests/wasi-fyi/test.sh"]

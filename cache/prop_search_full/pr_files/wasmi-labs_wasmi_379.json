@@ -1,0 +1,1 @@
+["benches/benches.rs", "benches/wat/count_until.wat", "benches/wat/factorial.wat", "benches/wat/fibonacci.wat", "benches/wat/host_calls.wat", "benches/wat/optimized_factorial.wat", "benches/wat/recursive_factorial.wat", "benches/wat/recursive_ok.wat", "benches/wat/recursive_scan.wat", "benches/wat/recursive_trap.wat"]

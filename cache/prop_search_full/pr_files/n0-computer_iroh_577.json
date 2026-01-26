@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "iroh-bitswap/src/peer_task_queue.rs", "iroh-gateway/src/config.rs", "iroh-p2p/src/behaviour/event.rs", "iroh-p2p/src/config.rs", "iroh-resolver/src/balanced_tree.rs", "iroh-resolver/src/codecs.rs", "iroh-resolver/src/indexer.rs"]

@@ -1,0 +1,1 @@
+[".travis.yml", "src/distributions/bernoulli.rs", "src/distributions/binomial.rs", "src/distributions/cauchy.rs", "src/distributions/gamma.rs", "src/distributions/poisson.rs", "src/distributions/uniform.rs", "src/distributions/weighted/alias_method.rs", "src/distributions/weighted/mod.rs", "src/lib.rs", "src/seq/index.rs", "src/seq/mod.rs", "utils/ci/miri.sh"]

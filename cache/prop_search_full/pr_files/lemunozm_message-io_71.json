@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "benches/performance.rs", "src/adapters.rs", "src/adapters/framed_tcp.rs", "src/adapters/tcp.rs", "src/adapters/template.rs", "src/adapters/udp.rs", "src/adapters/ws.rs", "src/lib.rs", "src/network/transport.rs", "tests/integration.rs"]

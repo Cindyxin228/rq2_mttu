@@ -1,0 +1,1 @@
+[".github/workflows/release-prepare.yml", ".github/workflows/release.yml", "crates/release-automation/src/lib/crate_selection/mod.rs", "default.nix", "nix/pkgs/core.nix"]

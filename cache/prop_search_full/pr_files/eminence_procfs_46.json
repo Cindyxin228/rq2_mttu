@@ -1,0 +1,1 @@
+["examples/netstat.rs", "examples/ps.rs", "src/cpuinfo.rs", "src/lib.rs", "src/meminfo.rs", "src/net.rs", "src/process.rs", "src/sys/kernel.rs"]

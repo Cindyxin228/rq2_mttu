@@ -1,0 +1,1 @@
+["eng/common/pipelines/templates/jobs/prepare-pipelines.yml", "eng/common/pipelines/templates/steps/sparse-checkout.yml", "eng/common/pipelines/templates/steps/validate-all-packages.yml"]

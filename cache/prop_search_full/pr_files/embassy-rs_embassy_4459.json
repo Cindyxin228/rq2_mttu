@@ -1,0 +1,1 @@
+["embassy-nxp/Cargo.toml", "embassy-nxp/src/lib.rs", "embassy-nxp/src/time_driver/rtc.rs", "examples/lpc55s69/Cargo.toml", "examples/lpc55s69/README.md", "examples/lpc55s69/src/bin/blinky_embassy_time.rs"]

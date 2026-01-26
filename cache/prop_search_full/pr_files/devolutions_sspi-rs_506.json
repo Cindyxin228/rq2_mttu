@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/winscard/src/macros.rs", "ffi/Cargo.toml", "ffi/src/sspi/mod.rs", "ffi/src/sspi/scard_cert.rs", "ffi/src/sspi/sec_winnt_auth_identity.rs", "ffi/src/sspi/win_scard_cert.rs", "ffi/src/winscard/mod.rs", "ffi/src/winscard/piv.rs", "ffi/src/winscard/system_scard/context.rs", "src/cert_utils.rs", "src/lib.rs", "src/smartcard.rs"]

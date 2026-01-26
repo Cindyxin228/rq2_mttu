@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "bindings/c/.gitignore", "bindings/c/Cargo.toml", "bindings/c/cbindgen.toml", "bindings/c/include/opendal.h", "bindings/c/src/lib.rs", "bindings/c/tests/Makefile", "bindings/c/tests/hello.c"]

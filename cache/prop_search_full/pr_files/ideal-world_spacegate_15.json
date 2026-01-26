@@ -1,0 +1,1 @@
+["kernel/tests/test_config_by_redis.rs", "kernel/tests/test_custom_plugin.rs"]

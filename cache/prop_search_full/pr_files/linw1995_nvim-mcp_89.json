@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/instructions.md", "docs/tools.md", "src/neovim/client.rs", "src/neovim/lua/lsp_type_hierarchy_prepare.lua", "src/neovim/lua/lsp_type_hierarchy_subtypes.lua", "src/neovim/lua/lsp_type_hierarchy_supertypes.lua", "src/server/integration_tests.rs", "src/server/tools.rs", "src/testdata/type_hierarchy.go"]

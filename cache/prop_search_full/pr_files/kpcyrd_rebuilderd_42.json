@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "common/src/api.rs", "daemon/src/api.rs", "daemon/src/dashboard.rs", "tests/src/main.rs", "tools/src/schedule/archlinux.rs", "worker/src/download.rs", "worker/src/main.rs", "worker/src/proc.rs", "worker/src/rebuild.rs"]

@@ -1,0 +1,1 @@
+["crates/napi/src/bindgen_runtime/js_values/arraybuffer.rs", "examples/napi-compat-mode/__test__/arraybuffer.spec.ts", "examples/napi-compat-mode/src/arraybuffer.rs"]

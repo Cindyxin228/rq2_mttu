@@ -1,0 +1,1 @@
+["crates/aranya-capi-codegen-test/src/generated.rs", "crates/aranya-capi-codegen/src/gen.rs", "crates/aranya-policy-ifgen-build/src/imp.rs", "crates/aranya-policy-ifgen/tests/data/tictactoe.rs", "crates/aranya-policy-ifgen/tests/data/ttc.rs", "rustfmt.toml"]

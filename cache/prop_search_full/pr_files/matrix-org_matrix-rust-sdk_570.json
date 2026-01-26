@@ -1,0 +1,1 @@
+[".github/workflows/wasm.yml", "crates/matrix-sdk/Cargo.toml", "crates/matrix-sdk/examples/wasm_command_bot/Cargo.toml", "crates/matrix-sdk/examples/wasm_command_bot/package.json", "crates/matrix-sdk/examples/wasm_command_bot/src/lib.rs", "crates/matrix-sdk/examples/wasm_command_bot/webpack.config.js", "crates/matrix-sdk/src/sync.rs", "xtask/src/ci.rs"]

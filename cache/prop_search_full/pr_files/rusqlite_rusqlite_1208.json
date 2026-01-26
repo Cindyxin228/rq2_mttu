@@ -1,0 +1,1 @@
+["src/blob/mod.rs", "src/blob/pos_io.rs", "src/functions.rs", "src/lib.rs", "src/row.rs", "src/statement.rs", "src/types/chrono.rs", "src/types/time.rs", "src/types/to_sql.rs", "src/util/small_cstr.rs", "tests/deny_single_threaded_sqlite_config.rs"]

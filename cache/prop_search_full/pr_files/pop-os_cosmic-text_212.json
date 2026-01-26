@@ -1,0 +1,1 @@
+["Cargo.toml", "src/attrs.rs", "src/buffer.rs", "src/buffer_line.rs", "src/font/fallback/mod.rs", "src/font/mod.rs", "src/font/system.rs", "src/shape.rs"]

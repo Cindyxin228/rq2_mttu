@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/flamegraph/color/mod.rs", "src/flamegraph/mod.rs", "src/flamegraph/svg.rs", "tests/data/flamegraph/colors/deterministic.svg"]

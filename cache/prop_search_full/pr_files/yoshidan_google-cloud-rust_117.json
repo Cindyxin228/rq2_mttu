@@ -1,0 +1,1 @@
+["pubsub/src/apiv1/publisher_client.rs", "pubsub/src/apiv1/subscriber_client.rs", "spanner/src/admin/database/database_admin_client.rs", "spanner/src/admin/instance/instance_admin_client.rs", "spanner/src/apiv1/spanner_client.rs", "storage/src/client.rs", "storage/src/http/service_account_client.rs", "storage/src/http/storage_client.rs"]

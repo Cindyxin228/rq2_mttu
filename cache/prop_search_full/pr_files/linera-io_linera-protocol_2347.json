@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/Cargo.lock", "linera-service/Cargo.toml", "linera-version/Cargo.toml", "linera-version/api-hashes.json", "linera-version/build.rs", "linera-version/src/main.rs", "linera-version/src/version_info/mod.rs", "linera-version/src/version_info/type.rs", "linera-version/tests/up_to_date.rs", "scripts/test_publish.sh"]

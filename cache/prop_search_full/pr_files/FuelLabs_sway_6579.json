@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "forc-plugins/forc-client/src/util/pkg.rs", "forc-plugins/forc-client/tests/deploy.rs", "forc/src/ops/forc_template.rs", "sway-ir/sway-ir-macros/src/lib.rs", "sway-lsp/Cargo.toml", "sway-lsp/src/core/sync.rs", "sway-lsp/src/utils/keyword_docs.rs", "test/src/e2e_vm_tests/harness.rs", "test/src/e2e_vm_tests/mod.rs"]

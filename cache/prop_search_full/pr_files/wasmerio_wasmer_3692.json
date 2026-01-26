@@ -1,0 +1,1 @@
+["lib/cli/src/commands/run/wasi.rs", "lib/wasi/src/bin_factory/module_cache.rs", "lib/wasi/src/lib.rs", "lib/wasi/src/runners/wasi.rs", "lib/wasi/src/runners/wcgi/handler.rs", "lib/wasi/src/runtime/mod.rs", "lib/wasi/src/state/builder.rs", "lib/wasi/tests/stdio.rs", "tests/lib/wast/src/wasi_wast.rs"]

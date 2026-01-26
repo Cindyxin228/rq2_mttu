@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "wonnx-py/Cargo.toml", "wonnx-py/src/lib.rs", "wonnx-py/tests/test_onnx_backend.py", "wonnx/src/compiler.rs", "wonnx/src/utils.rs", "wonnx/templates/endomorphism/softmax.wgsl", "wonnx/tests/softmax.rs"]

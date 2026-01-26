@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/cli/src/commands/run_unstable.rs", "lib/wasi/Cargo.toml", "lib/wasi/src/runners/mod.rs", "lib/wasi/src/runners/runner.rs", "lib/wasi/src/runners/wasi.rs", "lib/wasi/src/runners/wcgi/runner.rs"]

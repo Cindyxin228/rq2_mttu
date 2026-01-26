@@ -1,0 +1,1 @@
+["config/rollup.config.js", "config/tsconfig.cjs.json", "examples/leaflet/filtered.html", "examples/leaflet/index.html", "examples/leaflet/large.html", "package.json", "src/ts/Config.ts", "src/ts/HttpReader.ts", "src/ts/generic/featurecollection.ts", "src/ts/packedrtree.ts", "yarn.lock"]

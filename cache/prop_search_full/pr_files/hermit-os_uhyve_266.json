@@ -1,0 +1,1 @@
+["src/arch/x86_64/mod.rs", "src/arch/x86_64/paging.rs", "src/linux/uhyve.rs", "src/linux/vcpu.rs", "src/macos/x86_64/uhyve.rs", "src/macos/x86_64/vcpu.rs"]

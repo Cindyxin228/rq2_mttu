@@ -1,0 +1,1 @@
+["sea-orm-codegen/src/entity/relation.rs", "sea-orm-codegen/src/entity/writer.rs", "sea-orm-codegen/tests/compact/cake_filling_price.rs", "sea-orm-codegen/tests/compact_with_schema_name/cake_filling_price.rs", "sea-orm-codegen/tests/expanded/cake_filling_price.rs", "sea-orm-codegen/tests/expanded_with_schema_name/cake_filling_price.rs"]

@@ -1,0 +1,1 @@
+["components/salsa-macro-rules/src/lib.rs", "components/salsa-macro-rules/src/setup_tracked_assoc_fn_body.rs", "components/salsa-macro-rules/src/setup_tracked_method_body.rs", "components/salsa-macros/src/tracked_impl.rs", "src/lib.rs", "tests/tracked_assoc_fn.rs"]

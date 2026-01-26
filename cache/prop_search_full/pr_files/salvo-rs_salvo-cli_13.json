@@ -1,0 +1,1 @@
+["src/template/config/config.hbs", "src/template/src/config_template.hbs", "src/template/src/middleware/cors.rs", "src/template/src/middleware/jwt.rs", "src/template/src/middleware/mod.rs", "src/template/src/routers/mod.hbs", "src/template/src/routers/static_routers.hbs", "src/template/templates/404.hbs", "src/utils/create_project.rs"]

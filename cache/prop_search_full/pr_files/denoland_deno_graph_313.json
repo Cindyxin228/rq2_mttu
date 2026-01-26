@@ -1,0 +1,1 @@
+["src/type_tracer/analyzer.rs", "tests/specs/type_tracing/ImportEquals02.txt", "tests/specs/type_tracing/Namespaces01.txt"]

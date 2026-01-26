@@ -1,0 +1,1 @@
+["chain/src/chain.rs", "ckb-bin/src/lib.rs", "ckb-bin/src/subcommand/run.rs", "miner/src/client.rs", "network/src/network.rs", "notify/src/lib.rs", "shared/src/shared.rs", "sync/src/tests/synchronizer/functions.rs", "sync/src/types/mod.rs", "sync/src/utils.rs", "tx-pool/src/service.rs", "util/app-config/src/lib.rs", "util/runtime/src/lib.rs", "util/stop-handler/src/lib.rs"]

@@ -1,0 +1,1 @@
+["bip32/src/xkeys.rs", "bitcoins/src/types/script.rs", "ledger-btc/src/app.rs", "ledger/src/transports/hid.rs", "ledger/src/transports/wasm.rs", "provider/src/esplora/types.rs"]

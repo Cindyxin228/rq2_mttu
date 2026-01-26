@@ -1,0 +1,1 @@
+["make_test_images/src/make_test_images.rs", "sdk/examples/client/client.rs", "sdk/src/create_signer.rs", "sdk/src/lib.rs", "sdk/src/manifest.rs", "sdk/src/openssl/mod.rs", "sdk/src/openssl/signer.rs", "sdk/src/utils/test.rs", "sdk/tests/integration.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc/src/config/mod.rs", "crates/swc/src/plugin.rs", "crates/swc_cli/src/commands/plugin.rs", "crates/swc_plugin_runner/Cargo.toml", "crates/swc_plugin_runner/src/resolve.rs"]

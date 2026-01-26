@@ -1,0 +1,1 @@
+["azure_sdk_storage_blob/examples/shared_access_signature.rs", "azure_sdk_storage_blob/src/blob/mod.rs", "azure_sdk_storage_blob/src/blob/shared_access.rs", "azure_sdk_storage_blob/src/lib.rs", "azure_sdk_storage_core/Cargo.toml", "azure_sdk_storage_core/src/lib.rs", "azure_sdk_storage_core/src/prelude.rs", "azure_sdk_storage_core/src/shared_access_signature.rs"]

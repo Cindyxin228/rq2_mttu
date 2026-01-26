@@ -1,0 +1,1 @@
+["src/cmd/add.rs", "src/cmd/import.rs", "src/cmd/query.rs", "src/cmd/remove.rs", "src/config.rs", "src/import/autojump.rs", "src/import/z.rs", "src/store/dir.rs", "src/store/mod.rs"]

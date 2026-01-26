@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/iceberg/Cargo.toml", "crates/iceberg/src/spec/encrypted_key.rs", "crates/iceberg/src/spec/mod.rs", "crates/iceberg/src/spec/table_metadata.rs", "crates/iceberg/src/spec/table_metadata_builder.rs", "crates/iceberg/src/writer/file_writer/location_generator.rs"]

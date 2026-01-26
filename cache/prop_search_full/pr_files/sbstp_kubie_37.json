@@ -1,0 +1,1 @@
+["src/cmd/context.rs", "src/cmd/delete.rs", "src/cmd/edit.rs", "src/cmd/meta.rs", "src/cmd/mod.rs", "src/kubeconfig.rs", "src/main.rs"]

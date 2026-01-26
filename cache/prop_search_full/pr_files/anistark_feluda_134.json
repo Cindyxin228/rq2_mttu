@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "src/main.rs", "src/sbom/cyclonedx.rs", "src/sbom/mod.rs", "src/sbom/spdx.rs", "src/utils.rs"]

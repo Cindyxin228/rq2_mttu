@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/explain_analyze.rs", "datafusion/core/tests/sqllogictests/README.md", "datafusion/core/tests/sqllogictests/src/engines/conversion.rs", "datafusion/core/tests/sqllogictests/src/engines/datafusion/normalize.rs", "datafusion/core/tests/sqllogictests/test_files/explain.slt"]

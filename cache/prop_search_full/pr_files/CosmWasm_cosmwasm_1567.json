@@ -1,0 +1,1 @@
+[".circleci/config.yml", "README.md", "contracts/README.md", "contracts/burner/Cargo.toml", "contracts/burner/LICENSE", "contracts/burner/NOTICE", "contracts/burner/schema/burner.json", "contracts/burner/schema/raw/migrate.json", "contracts/burner/src/contract.rs", "contracts/burner/src/msg.rs", "contracts/burner/tests/integration.rs", "packages/vm/README.md"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "RELEASE_CHECKLIST.md", "kanidm_proto/src/v1.rs", "kanidm_unix_int/src/db.rs", "kanidmd/Cargo.toml", "kanidmd/server.toml", "kanidmd/src/lib/audit.rs", "kanidmd/src/lib/be/idl_arc_sqlite.rs", "kanidmd/src/lib/be/idl_sqlite.rs", "kanidmd/src/lib/be/mod.rs", "kanidmd/src/lib/idm/authsession.rs", "kanidmd/src/lib/plugins/base.rs"]

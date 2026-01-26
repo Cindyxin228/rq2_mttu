@@ -1,0 +1,1 @@
+["core/lib.deno_core.d.ts", "ext/fetch/26_fetch.js", "ext/http/01_http.js", "ext/websocket/01_websocket.js", "ext/websocket/02_websocketstream.js"]

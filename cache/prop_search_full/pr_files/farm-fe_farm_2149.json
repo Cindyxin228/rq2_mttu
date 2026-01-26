@@ -1,0 +1,1 @@
+[".changeset/loud-hairs-bow.md", "crates/compiler/tests/fixtures/script/cjs_export/config.json", "crates/compiler/tests/fixtures/script/cjs_export/index.ts", "crates/compiler/tests/fixtures/script/cjs_export/output.js", "crates/compiler/tests/fixtures/tree_shake/empty_specifier_export_all/output.js", "crates/plugin_runtime/src/handle_entry_resources.rs"]

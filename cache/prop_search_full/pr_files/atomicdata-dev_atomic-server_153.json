@@ -1,0 +1,1 @@
+["cli/src/main.rs", "lib/defaults/default_store.json", "lib/src/commit.rs", "lib/src/db.rs", "lib/src/plugins/versioning.rs", "lib/src/populate.rs", "lib/src/resources.rs", "lib/src/serialize.rs", "lib/src/storelike.rs", "lib/src/urls.rs", "server/README.md", "server/src/appstate.rs", "server/src/config.rs", "server/src/handlers/commit.rs", "server/src/main.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/auth_code.rs", "examples/auth_code_pkce.rs", "examples/client_creds.rs", "rspotify-model/src/auth.rs", "src/auth_code.rs", "src/auth_code_pkce.rs", "src/client_creds.rs", "src/clients/base.rs", "src/clients/mod.rs", "src/clients/oauth.rs", "src/lib.rs"]

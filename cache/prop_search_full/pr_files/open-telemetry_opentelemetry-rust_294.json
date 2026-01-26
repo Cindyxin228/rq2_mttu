@@ -1,0 +1,1 @@
+["src/lib.rs", "src/sdk/propagation/aws.rs", "src/sdk/propagation/b3.rs", "src/sdk/propagation/composite.rs", "src/sdk/propagation/jaeger.rs", "src/sdk/propagation/trace_context.rs", "src/testing/mod.rs", "src/testing/trace.rs"]

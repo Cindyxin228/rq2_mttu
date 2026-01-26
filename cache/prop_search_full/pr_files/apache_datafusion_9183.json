@@ -1,0 +1,1 @@
+["datafusion-examples/README.md", "datafusion-examples/examples/pruning.rs", "datafusion/core/src/physical_optimizer/pruning.rs"]

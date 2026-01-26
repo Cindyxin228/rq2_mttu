@@ -1,0 +1,1 @@
+["codegen/src/generator/ec2.rs", "codegen/src/generator/json.rs", "codegen/src/generator/mod.rs", "codegen/src/generator/query.rs", "codegen/src/generator/rest_json.rs", "src/request.rs", "src/s3.rs", "src/signature.rs", "src/xmlutil.rs"]

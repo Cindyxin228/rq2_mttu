@@ -1,0 +1,1 @@
+["crates/sui-rpc/src/client/v2/coin_selection.rs", "crates/sui-rpc/src/client/v2/mod.rs", "crates/sui-rpc/src/client/v2/transaction_execution.rs", "crates/sui-rpc/src/proto/sui/rpc/v2/object.rs"]

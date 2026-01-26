@@ -1,0 +1,1 @@
+["datafusion/src/scalar.rs", "datafusion/src/sql/planner.rs", "datafusion/tests/sql/expr.rs"]

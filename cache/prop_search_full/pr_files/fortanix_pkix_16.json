@@ -1,0 +1,1 @@
+["examples/fakecert.rs", "src/x509.rs", "tests/data/v1_cert.der", "tests/data/v3_cert.der", "tests/fakes.rs"]

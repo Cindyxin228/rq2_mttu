@@ -1,0 +1,1 @@
+["chain/client/src/sync/external.rs", "nearcore/src/state_sync.rs", "nightly/pytest-sanity.txt", "pytest/lib/cluster.py", "pytest/tests/sanity/state_parts_dump_check.py", "tools/state-parts-dump-check/src/cli.rs", "tools/state-parts-dump-check/src/metrics.rs"]

@@ -1,0 +1,1 @@
+["crates/assists/src/handlers/fix_visibility.rs", "crates/hir_def/src/adt.rs", "crates/ide/src/references.rs"]

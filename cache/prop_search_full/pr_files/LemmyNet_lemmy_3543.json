@@ -1,0 +1,1 @@
+["crates/db_schema/src/aggregates/community_aggregates.rs", "crates/db_schema/src/aggregates/post_aggregates.rs", "crates/db_schema/src/aggregates/site_aggregates.rs", "migrations/2023-07-08-101154_fix_soft_delete_aggregates/down.sql", "migrations/2023-07-08-101154_fix_soft_delete_aggregates/up.sql"]

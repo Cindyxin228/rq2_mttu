@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/rust.yml", "README.md", "fake/Cargo.toml", "fake/README.md", "fake/README.md", "fake/src/bin/cli/fake_gen.rs", "fake/src/bin/cli/main.rs", "fake/src/faker/mod.rs", "fake/src/impls/std/container.rs"]

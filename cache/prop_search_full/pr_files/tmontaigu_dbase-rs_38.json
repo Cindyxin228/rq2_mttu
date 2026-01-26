@@ -1,0 +1,1 @@
+["src/encoding.rs", "src/error.rs", "src/lib.rs", "src/reading.rs", "src/record/field.rs", "src/ser.rs", "src/writing.rs", "tests/test_serde.rs", "tests/tests.rs"]

@@ -1,0 +1,1 @@
+["lib/backend-api/src/types.rs", "lib/cli/src/commands/package/common/wait.rs", "lib/cli/src/commands/package/publish.rs", "lib/cli/src/commands/package/push.rs", "lib/cli/src/commands/package/tag.rs"]

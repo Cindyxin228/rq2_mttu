@@ -1,0 +1,1 @@
+["src/bin/kp-dump-xml.rs", "src/bin/kp-rewrite.rs", "src/config.rs", "src/db/mod.rs", "src/format/kdb.rs", "src/format/kdbx3.rs", "src/format/kdbx4/dump.rs", "src/format/kdbx4/mod.rs", "src/format/kdbx4/parse.rs", "src/format/mod.rs", "src/xml_db/mod.rs"]

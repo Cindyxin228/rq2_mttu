@@ -1,0 +1,1 @@
+["packages/core/Cargo.toml", "packages/core/src/arena.rs", "packages/core/src/diff.rs", "packages/core/tests/attr_cleanup.rs", "packages/core/tests/diff_unkeyed_list.rs"]

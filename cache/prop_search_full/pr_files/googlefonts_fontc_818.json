@@ -1,0 +1,1 @@
+["fontbe/Cargo.toml", "fontbe/src/lib.rs", "fontdrasil/Cargo.toml", "fontir/Cargo.toml", "fontir/src/lib.rs", "glyphs-reader/Cargo.toml", "glyphs-reader/plist_derive/Cargo.toml", "glyphs-reader/plist_derive/src/lib.rs", "glyphs2fontir/src/lib.rs", "layout-normalizer/src/lib.rs", "ufo2fontir/src/lib.rs"]

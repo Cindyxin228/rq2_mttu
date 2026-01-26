@@ -1,0 +1,1 @@
+["src/client/client/future.rs", "src/client/client/mod.rs", "src/client/client/service.rs", "src/client/middleware/redirect/policy.rs", "src/client/middleware/retry/mod.rs", "src/client/middleware/timeout/future.rs", "src/client/request.rs", "src/error.rs", "src/into_url.rs", "src/proxy.rs", "src/redirect.rs"]

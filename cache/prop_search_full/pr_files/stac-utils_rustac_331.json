@@ -1,0 +1,1 @@
+["cli/CHANGELOG.md", "cli/Cargo.toml", "cli/src/args.rs", "cli/src/error.rs", "cli/src/subcommand/search.rs", "core/src/geoparquet.rs", "core/src/io/mod.rs", "core/src/lib.rs"]

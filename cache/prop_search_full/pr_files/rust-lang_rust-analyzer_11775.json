@@ -1,0 +1,1 @@
+["crates/hir/src/source_analyzer.rs", "crates/ide/src/syntax_highlighting/test_data/highlight_keywords.html", "crates/ide/src/syntax_highlighting/test_data/highlight_strings.html", "crates/ide/src/syntax_highlighting/tests.rs"]

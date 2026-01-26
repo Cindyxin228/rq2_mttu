@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "proptest-regressions/replacer/tests.txt", "proptest-regressions/replacer/validate.txt", "src/error.rs", "src/main.rs", "src/replacer/mod.rs", "src/replacer/tests.rs", "src/replacer/validate.rs", "tests/cli.rs"]

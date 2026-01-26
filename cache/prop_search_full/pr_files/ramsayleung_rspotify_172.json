@@ -1,0 +1,1 @@
+["examples/webapp/Cargo.toml", "examples/webapp/src/main.rs", "src/client.rs", "src/model/enums/country.rs", "src/model/enums/misc.rs", "src/model/enums/types.rs", "src/model/mod.rs", "src/model/playlist.rs", "src/model/show.rs", "src/model/track.rs"]

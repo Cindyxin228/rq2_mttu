@@ -1,0 +1,1 @@
+["pdf/fuzz/.gitignore", "pdf/fuzz/Cargo.toml", "pdf/fuzz/fuzz_targets/parse.rs"]

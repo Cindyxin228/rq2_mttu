@@ -1,0 +1,1 @@
+["tools/cargo-check-external-types/src/visitor.rs", "tools/cargo-check-external-types/test-workspace/test-crate/src/lib.rs", "tools/cargo-check-external-types/tests/allow-some-types-expected-output.txt", "tools/cargo-check-external-types/tests/default-config-expected-output.txt", "tools/cargo-check-external-types/tests/output-format-markdown-table-expected-output.md"]

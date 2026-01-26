@@ -1,0 +1,1 @@
+["Makefile.toml", "golem-component-service-base/src/service/component.rs", "golem-service-base/src/storage/blob/mod.rs", "golem-service-base/src/storage/blob/s3.rs", "golem-service-base/tests/blob_storage.rs"]

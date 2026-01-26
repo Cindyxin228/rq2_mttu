@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/core/src/communication/message.rs", "crates/core/src/communication/reader_writer.rs", "crates/core/src/plugins/process/communicator.rs", "crates/core/src/plugins/process/context.rs", "crates/core/src/plugins/process/message_processor.rs", "crates/core/src/plugins/process/messages.rs", "crates/dprint/src/commands/editor/messages.rs"]

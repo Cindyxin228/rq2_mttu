@@ -1,0 +1,1 @@
+["examples/info.rs", "src/data.rs", "src/platform/common.rs", "src/platform/freebsd.rs", "src/platform/linux.rs", "src/platform/macos.rs", "src/platform/mod.rs", "src/platform/openbsd.rs", "src/platform/windows/mod.rs"]

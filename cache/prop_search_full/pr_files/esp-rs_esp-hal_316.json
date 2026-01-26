@@ -1,0 +1,1 @@
+["esp-hal-common/src/clock.rs", "esp-hal-common/src/ledc/mod.rs", "esp-hal-common/src/ledc/timer.rs", "esp-hal-common/src/mcpwm/mod.rs", "esp-hal-common/src/mcpwm/timer.rs", "esp-hal-common/src/system.rs"]

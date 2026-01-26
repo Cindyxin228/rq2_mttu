@@ -1,0 +1,1 @@
+["src/librustdoc/passes/collect_intra_doc_links.rs", "src/test/rustdoc-ui/intra-doc/private.private.stderr", "src/test/rustdoc-ui/intra-doc/private.public.stderr", "src/test/rustdoc-ui/intra-doc/private.rs"]

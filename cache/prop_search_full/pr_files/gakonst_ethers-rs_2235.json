@@ -1,0 +1,1 @@
+["Cargo.toml", "ethers-contract/Cargo.toml", "ethers-contract/ethers-contract-abigen/Cargo.toml", "ethers-contract/ethers-contract-derive/Cargo.toml", "ethers-contract/src/lib.rs", "ethers-core/Cargo.toml", "ethers-etherscan/Cargo.toml", "ethers-middleware/Cargo.toml", "ethers-middleware/src/lib.rs", "ethers-providers/Cargo.toml", "ethers-signers/Cargo.toml", "src/lib.rs"]

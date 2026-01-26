@@ -1,0 +1,1 @@
+["src/client/auth/sasl.rs", "src/client/auth/scram.rs", "src/client/auth/test.rs"]

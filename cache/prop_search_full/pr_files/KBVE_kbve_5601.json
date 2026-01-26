@@ -1,0 +1,1 @@
+["apps/kube/cert-manager/manifests/cluster-issuer.yaml", "apps/kube/ingress/manifests/values.yaml"]

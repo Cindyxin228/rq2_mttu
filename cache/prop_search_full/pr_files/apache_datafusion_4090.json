@@ -1,0 +1,1 @@
+["benchmarks/expected-plans/q12.txt", "benchmarks/expected-plans/q19.txt", "datafusion/core/src/physical_plan/planner.rs", "datafusion/optimizer/src/simplify_expressions/expr_simplifier.rs", "datafusion/optimizer/src/simplify_expressions/simplify_exprs.rs"]

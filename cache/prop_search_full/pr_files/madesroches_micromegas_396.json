@@ -1,0 +1,1 @@
+["rust/Cargo.lock", "rust/Cargo.toml", "rust/pg-gateway-srv/Cargo.toml", "rust/pg-gateway-srv/src/extended.rs", "rust/pg-gateway-srv/src/factory.rs", "rust/pg-gateway-srv/src/pg_gateway_srv.rs", "rust/pg-gateway-srv/src/simple.rs", "rust/pg-gateway-srv/src/state.rs", "rust/public/src/client/flightsql_client.rs", "rust/public/src/client/flightsql_client_factory.rs"]

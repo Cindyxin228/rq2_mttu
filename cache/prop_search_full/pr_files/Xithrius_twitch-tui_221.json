@@ -1,0 +1,1 @@
+["src/handlers/app.rs", "src/handlers/config.rs", "src/ui/components/chunks/chatting.rs", "src/ui/components/chunks/help.rs", "src/ui/components/chunks/mod.rs", "src/ui/components/chunks/states.rs", "src/ui/components/mod.rs", "src/ui/components/popups/channels.rs", "src/ui/components/popups/mod.rs", "src/ui/mod.rs"]

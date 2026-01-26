@@ -1,0 +1,1 @@
+["hal/src/peripherals/clock/d11.rs", "hal/src/peripherals/clock/d5x/v1.rs", "hal/src/peripherals/timer/d11.rs", "hal/src/peripherals/timer/d5x.rs", "hal/src/rtc.rs", "hal/src/sercom/dma.rs"]

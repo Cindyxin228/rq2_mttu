@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "book/src/sinks/aws_sqs.md", "examples/aws_sqs/daemon.toml", "src/sinks/_pending/aws_sqs/mod.rs", "src/sinks/_pending/aws_sqs/run.rs", "src/sinks/_pending/aws_sqs/setup.rs", "src/sinks/aws_sqs.rs", "src/sinks/mod.rs"]

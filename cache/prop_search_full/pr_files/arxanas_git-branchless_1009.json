@@ -1,0 +1,1 @@
+["Cargo.lock", "git-branchless-opts/Cargo.toml", "git-branchless-opts/src/lib.rs", "git-branchless/Cargo.toml", "git-branchless/src/commands/mod.rs", "git-branchless/tests/test_init.rs", "scm-record/src/bin/scm-diff-editor.rs", "scm-record/src/lib.rs", "scm-record/src/scm_diff_editor.rs", "scm-record/src/ui.rs", "scm-record/tests/test_scm_record.rs"]

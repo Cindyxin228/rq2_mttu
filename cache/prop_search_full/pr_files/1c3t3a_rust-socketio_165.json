@@ -1,0 +1,1 @@
+[".devcontainer/docker-compose.yaml", ".github/workflows/coverage.yml", ".github/workflows/test.yml", "ci/socket-io-auth.js", "ci/start_test_server.sh", "socketio/src/client/builder.rs", "socketio/src/client/client.rs", "socketio/src/lib.rs"]

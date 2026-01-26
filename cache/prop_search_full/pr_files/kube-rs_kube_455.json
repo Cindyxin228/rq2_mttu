@@ -1,0 +1,1 @@
+["kube-runtime/src/controller/mod.rs", "kube-runtime/src/watcher.rs", "kube/Cargo.toml", "kube/src/api/params.rs", "kube/src/api/subresource.rs", "kube/src/api/typed.rs", "kube/src/client/mod.rs", "kube/src/service/log.rs"]

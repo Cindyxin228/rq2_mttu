@@ -1,0 +1,1 @@
+["lib/wasi/src/syscalls/legacy/snapshot0.rs", "lib/wasi/src/syscalls/wasi/fd_filestat_get.rs", "lib/wasi/src/syscalls/wasi/path_filestat_get.rs"]

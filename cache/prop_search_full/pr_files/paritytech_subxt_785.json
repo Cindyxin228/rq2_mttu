@@ -1,0 +1,1 @@
+["testing/ui-tests/Cargo.toml", "testing/ui-tests/src/correct/rust-items-preserved.rs", "testing/ui-tests/src/incorrect/substitute_path_not_absolute.rs", "testing/ui-tests/src/incorrect/url_and_path_provided.rs", "testing/ui-tests/src/incorrect/url_and_path_provided.stderr"]

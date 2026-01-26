@@ -1,0 +1,1 @@
+["lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/features.rs", "lightning/src/ln/priv_short_conf_tests.rs", "lightning/src/util/events.rs"]

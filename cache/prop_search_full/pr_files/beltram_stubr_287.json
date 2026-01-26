@@ -1,0 +1,1 @@
+["actix-producer/stubs/create.json", "lib/src/model/response/body.rs", "lib/src/model/response/template/data.rs", "lib/src/model/response/template/req_ext.rs", "lib/src/verify/actix/mod.rs", "lib/src/verify/actix/req.rs", "lib/src/verify/mapping/resp/body.rs", "lib/src/verify/mapping/resp/header.rs", "lib/src/verify/mapping/resp/mod.rs", "lib/src/verify/mapping/resp/status.rs"]

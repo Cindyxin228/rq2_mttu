@@ -1,0 +1,1 @@
+[".changelog/default-port-signing-fix.md", "aws/rust-runtime/Cargo.lock", "aws/rust-runtime/aws-sigv4/Cargo.toml", "aws/rust-runtime/aws-sigv4/src/http_request/canonical_request.rs"]

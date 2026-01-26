@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "crates/bonsaidb-client/src/client.rs", "crates/bonsaidb-client/src/client/wasm_websocket_worker.rs", "crates/bonsaidb-client/src/lib.rs"]

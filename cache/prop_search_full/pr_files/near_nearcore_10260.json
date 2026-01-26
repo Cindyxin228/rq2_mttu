@@ -1,0 +1,1 @@
+["core/chain-configs/src/lib.rs", "core/primitives/src/chains.rs", "genesis-tools/genesis-csv-to-json/src/csv_to_json_configs.rs", "integration-tests/src/tests/client/sync_state_nodes.rs", "nearcore/src/config.rs", "neard/src/cli.rs", "tools/chainsync-loadtest/src/main.rs"]

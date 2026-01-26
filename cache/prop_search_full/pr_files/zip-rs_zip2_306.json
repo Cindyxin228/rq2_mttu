@@ -1,0 +1,1 @@
+["Cargo.toml", "src/compression.rs", "src/read.rs", "src/read/xz.rs", "src/write.rs"]

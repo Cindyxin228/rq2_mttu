@@ -1,0 +1,1 @@
+[".github/workflows/ci-on-push.yml", "Cargo.lock", "changelog.md", "package.json", "stork-cli/Cargo.toml", "stork-lib/Cargo.toml", "stork-wasm/Cargo.toml", "yarn.lock"]

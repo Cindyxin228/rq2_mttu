@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "cmake/modules/FindInstallDependency.cmake", "cpp/perspective/CMakeLists.txt", "python/perspective/bench/runtime/bench.py", "python/perspective/bench/runtime/perspective_benchmark.py", "python/perspective/perspective/client/websocket.py", "python/perspective/perspective/manager/manager_internal.py", "python/perspective/perspective/table/table.py"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/tests/trap-test/Cargo.lock", "cli/tests/upstream.rs", "lib/Cargo.toml", "lib/src/body.rs", "lib/src/session.rs", "lib/src/upstream.rs", "lib/src/wiggle_abi/req_impl.rs", "test-fixtures/data/hello_world.gz", "test-fixtures/src/bin/gzipped-response.rs"]

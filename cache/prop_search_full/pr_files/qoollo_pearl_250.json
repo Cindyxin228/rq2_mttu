@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/blob/core.rs", "src/io/mod.rs", "src/io/unix/iouring.rs", "src/io/unix/sync.rs", "src/lib.rs", "src/record/partially_serialized.rs"]

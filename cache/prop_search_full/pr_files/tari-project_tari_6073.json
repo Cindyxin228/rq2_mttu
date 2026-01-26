@@ -1,0 +1,1 @@
+["applications/minotari_node/Cargo.toml", "applications/minotari_node/src/commands/command/get_network_stats.rs", "applications/minotari_node/src/lib.rs", "integration_tests/Cargo.toml"]

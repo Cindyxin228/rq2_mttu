@@ -1,0 +1,1 @@
+["cabi/Cargo.lock", "debuginfo/Cargo.toml", "debuginfo/src/base.rs", "debuginfo/src/breakpad.rs", "debuginfo/src/dwarf.rs", "debuginfo/src/pdb.rs", "debuginfo/src/private.rs", "debuginfo/tests/snapshots/test_objects__pdb_functions.snap"]

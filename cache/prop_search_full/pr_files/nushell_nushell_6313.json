@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/hide.rs", "crates/nu-command/src/core_commands/hide_env.rs", "crates/nu-command/src/core_commands/mod.rs", "crates/nu-command/src/default_context.rs", "crates/nu-protocol/src/shell_error.rs", "src/tests/test_engine.rs", "src/tests/test_hiding.rs", "tests/shell/pipeline/commands/internal.rs"]

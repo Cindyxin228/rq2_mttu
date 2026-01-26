@@ -1,0 +1,1 @@
+["justfile", "rsocket-test/tests/test_composite_metadata.rs", "rsocket/src/extension/composite.rs", "rsocket/src/extension/routing.rs", "rsocket/src/frame/error.rs", "rsocket/src/frame/setup.rs", "rsocket/src/payload/misc.rs", "rsocket/src/payload/mod.rs", "rsocket/src/payload/normal.rs", "rsocket/src/payload/setup.rs"]

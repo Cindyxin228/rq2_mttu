@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/cube.rs", "examples/multi_windows.rs", "src/resource/material_manager.rs", "src/resource/mesh_manager.rs", "src/resource/texture_manager.rs", "src/window/canvas.rs", "src/window/mod.rs", "src/window/window.rs", "src/window/window_cache.rs"]

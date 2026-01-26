@@ -1,0 +1,1 @@
+["core/src/core/transaction.rs", "core/src/libtx/aggsig.rs", "core/src/libtx/build.rs", "core/src/libtx/proof.rs", "core/src/libtx/reward.rs", "core/tests/transaction.rs", "core/tests/verifier_cache.rs", "keychain/src/keychain.rs", "keychain/src/types.rs", "keychain/src/view_key.rs"]

@@ -1,0 +1,1 @@
+[".github/FUNDING.yml", ".github/workflows/rust.yml", ".travis.yml", "Cargo.toml", "ci/build.sh", "ci/dummy/README.md", "ci/dummy/dsymutil", "ci/install.sh", "ci/test.sh", "src/ffi/mod.rs", "src/ffi/notlinux.rs"]

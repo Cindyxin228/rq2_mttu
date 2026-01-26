@@ -1,0 +1,1 @@
+[".github/Dockerfile", ".github/workflows/build-llvm.yml", ".github/workflows/release.yml", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.toml", "RELEASE_CHECKLIST.md", "build.rs", "docs/installing.rst", "solang-parser/Cargo.toml", "src/linker/linker.cpp"]

@@ -1,0 +1,1 @@
+["rocketmq-common/src/common/message/message_ext_broker_inner.rs", "rocketmq-store/src/log_file/commit_log.rs", "rocketmq-store/src/message_encoder/message_ext_encoder.rs"]

@@ -1,0 +1,1 @@
+["src/subcommands/create_ecc_key.rs", "src/subcommands/create_rsa_key.rs", "tests/parsec-cli-tests.sh"]

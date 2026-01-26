@@ -1,0 +1,1 @@
+["columnar/src/block_accessor.rs", "columnar/src/column/mod.rs", "columnar/src/column_index/mod.rs", "src/aggregation/agg_req.rs", "src/aggregation/agg_req_with_accessor.rs", "src/aggregation/bucket/term_agg.rs"]

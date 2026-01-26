@@ -1,0 +1,1 @@
+[".github/workflows/publish-node.yml", ".github/workflows/publish-wasm.yml", "Cargo.toml", "crates/swc_bundler/tests/deno-exec/.deno-8545/entry.ts"]

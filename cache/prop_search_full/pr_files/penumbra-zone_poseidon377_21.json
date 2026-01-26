@@ -1,0 +1,1 @@
+["Cargo.toml", "poseidon-paramgen/src/lib.rs", "poseidon-paramgen/src/matrix.rs", "poseidon-paramgen/src/matrix/mult.rs", "poseidon-paramgen/src/matrix/traits.rs", "poseidon-permutation/Cargo.toml", "poseidon-permutation/benches/permutation.rs", "poseidon-permutation/src/permutation.rs"]

@@ -1,0 +1,1 @@
+["atuin-client/migrations/20220505083406_create-events.sql", "atuin-client/src/database.rs", "atuin-client/src/event.rs", "atuin-client/src/lib.rs", "atuin-client/src/sync.rs", "atuin-common/src/api.rs", "atuin-server/migrations/20220505082442_create-events.sql", "src/command/client/history.rs", "src/command/client/search/history_list.rs"]

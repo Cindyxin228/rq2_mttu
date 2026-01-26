@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rustfmt.toml", "src/config.rs", "src/executor.rs", "src/main.rs", "src/new.rs", "src/telemetry.rs", "src/test.rs", "src/test/definition.rs", "src/test/file.rs", "src/test/http.rs", "src/test/template.rs", "src/test/validation.rs", "src/updater.rs"]

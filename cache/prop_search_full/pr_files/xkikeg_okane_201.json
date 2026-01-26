@@ -1,0 +1,1 @@
+["cli/src/cmd.rs", "core/src/parse.rs", "core/src/parse/price.rs", "core/src/report.rs", "core/src/report/book_keeping.rs", "core/src/report/context.rs", "core/src/report/price_db.rs", "core/src/syntax.rs"]

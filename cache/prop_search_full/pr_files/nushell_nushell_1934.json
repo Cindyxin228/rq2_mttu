@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/mkdir.rs", "crates/nu-cli/src/commands/rm.rs", "crates/nu-cli/src/commands/sort_by.rs", "crates/nu-cli/src/commands/split_by.rs", "crates/nu-cli/src/commands/uniq.rs"]

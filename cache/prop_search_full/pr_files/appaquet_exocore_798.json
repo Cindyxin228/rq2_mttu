@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "store/src/local/entity_index/aggregator.rs", "store/src/local/entity_index/gc.rs", "store/src/local/entity_index/mod.rs", "store/src/local/entity_index/tests.rs"]

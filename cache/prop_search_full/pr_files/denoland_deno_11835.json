@@ -1,0 +1,1 @@
+["ext/webgpu/01_webgpu.js", "ext/webgpu/02_idl_types.js", "ext/webgpu/binding.rs", "ext/webgpu/buffer.rs", "ext/webgpu/bundle.rs", "ext/webgpu/command_encoder.rs", "ext/webgpu/compute_pass.rs", "ext/webgpu/lib.rs", "ext/webgpu/pipeline.rs", "ext/webgpu/queue.rs", "ext/webgpu/render_pass.rs", "ext/webgpu/sampler.rs", "ext/webgpu/texture.rs", "ext/webidl/00_webidl.js"]

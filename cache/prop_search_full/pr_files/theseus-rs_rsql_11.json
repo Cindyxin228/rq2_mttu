@@ -1,0 +1,1 @@
+["rsql_core/resources/rsql.toml", "rsql_core/src/configuration.rs", "rsql_core/src/shell/bail.rs", "rsql_core/src/shell/command.rs", "rsql_core/src/shell/mod.rs", "rsql_core/src/shell/repl/impl.rs"]

@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/README.md", "examples/configmap_reflector.rs", "examples/crd_reflector.rs", "examples/node_reflector.rs", "examples/pod_reflector.rs", "examples/secret_reflector.rs", "kube-runtime/src/reflector/mod.rs", "kube-runtime/src/reflector/store.rs", "kube-runtime/src/watcher.rs"]

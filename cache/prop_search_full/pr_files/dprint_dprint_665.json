@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/ci.generate.ts", ".github/workflows/ci.yml", "crates/dprint/Cargo.toml", "crates/dprint/src/plugins/implementations/process/setup_process_plugin.rs", "deployment/npm/build.ts", "dprint.json", "website/src/assets/install.sh"]

@@ -1,0 +1,1 @@
+["crates/polars-ops/src/series/ops/rank.rs", "crates/polars-plan/src/dsl/function_expr/dispatch.rs", "crates/polars-plan/src/dsl/function_expr/mod.rs", "crates/polars-plan/src/dsl/function_expr/schema.rs", "crates/polars-plan/src/dsl/mod.rs"]

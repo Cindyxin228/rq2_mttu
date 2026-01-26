@@ -1,0 +1,1 @@
+["libsplinter/Cargo.toml", "libsplinter/src/oauth/builder/github.rs", "libsplinter/src/oauth/builder/mod.rs", "libsplinter/src/oauth/builder/openid.rs", "libsplinter/src/oauth/mod.rs", "libsplinter/src/oauth/rest_api/actix/callback.rs", "libsplinter/src/oauth/rest_api/actix/login.rs", "libsplinter/src/rest_api/auth/identity/oauth.rs", "splinterd/Cargo.toml"]

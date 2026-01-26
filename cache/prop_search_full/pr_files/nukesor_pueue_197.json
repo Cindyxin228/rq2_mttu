@@ -1,0 +1,1 @@
+["client/client.rs", "client/display/log.rs", "daemon/main.rs", "daemon/network/message_handler/clean.rs", "daemon/network/message_handler/log.rs", "daemon/network/message_handler/remove.rs", "daemon/network/socket.rs", "daemon/task_handler.rs"]

@@ -1,0 +1,1 @@
+["opentelemetry-sdk/src/logs/log_emitter.rs", "opentelemetry-sdk/src/trace/provider.rs", "opentelemetry-sdk/src/trace/span.rs", "opentelemetry-sdk/src/trace/span_processor.rs", "opentelemetry-sdk/src/trace/tracer.rs"]

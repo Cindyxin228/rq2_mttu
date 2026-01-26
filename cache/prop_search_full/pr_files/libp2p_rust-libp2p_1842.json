@@ -1,0 +1,1 @@
+["misc/core-derive/src/lib.rs", "protocols/gossipsub/src/behaviour.rs", "protocols/identify/src/identify.rs", "protocols/kad/src/behaviour.rs", "protocols/request-response/src/throttled.rs", "swarm/CHANGELOG.md", "swarm/src/behaviour.rs", "swarm/src/lib.rs", "swarm/src/registry.rs"]

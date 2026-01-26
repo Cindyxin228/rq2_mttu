@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "src/app.rs", "src/app/layout_manager.rs", "src/app/process_killer.rs", "src/app/query.rs", "src/canvas.rs", "src/clap.rs", "src/constants.rs", "tests/arg_tests.rs", "tests/invalid_config_tests.rs"]

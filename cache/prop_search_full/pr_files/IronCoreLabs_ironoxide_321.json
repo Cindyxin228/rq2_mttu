@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/release.yaml", "CHANGELOG.md", "Cargo.toml", "benches/ironoxide_bench.rs", "flake.lock", "rust-toolchain.toml", "src/document.rs", "src/document/advanced.rs", "src/group.rs", "src/internal/user_api.rs", "src/internal/user_api/requests.rs", "src/lib.rs", "src/policy.rs", "src/prelude.rs", "src/search.rs", "src/user.rs"]

@@ -1,0 +1,1 @@
+["flake.nix", "src/scaffold/app/nix.rs", "templates/custom-template/custom-template/flake.nix"]

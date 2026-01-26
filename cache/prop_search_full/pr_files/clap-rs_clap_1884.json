@@ -1,0 +1,1 @@
+["benches/05_ripgrep.rs", "clap_derive/src/derives/into_app.rs", "examples/15_custom_validator.rs", "examples/18_builder_macro.rs", "src/build/app/mod.rs", "src/build/arg/mod.rs", "src/parse/errors.rs", "src/parse/validator.rs", "tests/validators.rs"]

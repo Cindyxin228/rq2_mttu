@@ -1,0 +1,1 @@
+["src/cargo/core/features.rs", "src/cargo/sources/git/mod.rs", "src/cargo/sources/git/oxide.rs", "src/cargo/sources/git/source.rs", "src/cargo/sources/git/utils.rs", "src/cargo/sources/registry/mod.rs", "src/doc/src/reference/unstable.md", "tests/testsuite/cargo/z_help/stdout.log", "tests/testsuite/git_shallow.rs", "tests/testsuite/offline.rs", "tests/testsuite/patch.rs"]

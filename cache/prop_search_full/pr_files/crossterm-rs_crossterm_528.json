@@ -1,0 +1,1 @@
+["src/terminal.rs", "src/terminal/ansi.rs", "src/terminal/sys/windows.rs"]

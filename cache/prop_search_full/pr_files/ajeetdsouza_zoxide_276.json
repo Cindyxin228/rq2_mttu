@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "shell.nix", "src/shell.rs", "templates/fish.txt", "tests/completions.rs", "tests/man.rs", "xtask/Cargo.lock", "xtask/Cargo.toml", "xtask/src/main.rs"]

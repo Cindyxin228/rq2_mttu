@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/example-02-ruby-sample/src/main.rs", "libcnb-data/src/bom.rs", "libcnb-data/src/buildpack/mod.rs", "libcnb-data/src/buildpack/stack.rs", "libcnb-data/src/buildpack_plan.rs", "libcnb-data/src/launch.rs", "libcnb-data/src/layer_content_metadata.rs", "libcnb-data/src/store.rs"]

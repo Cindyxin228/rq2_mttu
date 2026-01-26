@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "juniper/CHANGELOG.md", "juniper/Cargo.toml", "juniper/src/integrations/anyhow.rs", "juniper/src/integrations/mod.rs", "tests/integration/tests/codegen_object_attr.rs"]

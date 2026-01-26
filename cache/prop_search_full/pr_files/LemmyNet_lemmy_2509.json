@@ -1,0 +1,1 @@
+["docker/dev/docker-compose.yml", "docker/dev/docker_update.sh", "docker/dev/docker_update_volume_mount.sh", "docker/dev/lemmy.hjson", "docker/dev/volume_mount.dockerfile"]

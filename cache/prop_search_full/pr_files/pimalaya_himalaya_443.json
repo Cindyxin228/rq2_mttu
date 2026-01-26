@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CONTRIBUTING.md", "Cargo.lock", "Cargo.toml", "README.md", "src/config/config.rs", "src/config/prelude.rs", "src/config/wizard/maildir.rs", "src/config/wizard/mod.rs", "src/domain/account/accounts.rs", "src/domain/account/config.rs", "src/domain/account/handlers.rs", "src/domain/folder/args.rs", "src/domain/folder/handlers.rs", "src/main.rs"]

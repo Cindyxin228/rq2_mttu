@@ -1,0 +1,1 @@
+["services/shuttle-actix-web/src/lib.rs", "services/shuttle-axum/src/lib.rs", "services/shuttle-poem/src/lib.rs", "services/shuttle-rocket/src/lib.rs", "services/shuttle-salvo/src/lib.rs", "services/shuttle-serenity/src/lib.rs", "services/shuttle-thruster/src/lib.rs", "services/shuttle-tide/src/lib.rs", "services/shuttle-tower/src/lib.rs", "services/shuttle-warp/src/lib.rs"]

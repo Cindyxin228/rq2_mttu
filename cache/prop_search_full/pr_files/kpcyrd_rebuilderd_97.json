@@ -1,0 +1,1 @@
+["daemon/migrations/2021-11-25-002754_pkgs-table-uniq/down.sql", "daemon/migrations/2021-11-25-002754_pkgs-table-uniq/up.sql", "daemon/src/db.rs", "daemon/src/models/pkgbase.rs", "daemon/src/sync.rs"]

@@ -1,0 +1,1 @@
+["connection_pool/src/connection_pool.rs", "src/byte/reader.rs", "src/segment/raw_client.rs", "wire_protocol/src/client_connection.rs", "wire_protocol/src/connection.rs", "wire_protocol/src/connection_factory.rs", "wire_protocol/src/mock_connection.rs"]

@@ -1,0 +1,1 @@
+["axum-macros/tests/debug_handler/fail/argument_not_extractor.stderr", "axum-macros/tests/from_request/fail/generic_without_via.stderr", "axum-macros/tests/from_request/fail/generic_without_via_rejection.stderr", "axum-macros/tests/from_request/fail/override_rejection_on_enum_without_via.stderr", "axum-macros/tests/typed_path/fail/not_deserialize.stderr"]

@@ -1,0 +1,1 @@
+["core/src/io.rs", "core/src/types/request.rs", "macros/src/auto_args.rs", "macros/src/lib.rs", "macros/src/pubsub.rs", "pubsub/src/subscription.rs"]

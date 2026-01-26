@@ -1,0 +1,1 @@
+["tests/circuitbreaker_combinations.rs", "tests/circuitbreaker_edge_cases.rs", "tests/circuitbreaker_half_open.rs", "tests/circuitbreaker_reset.rs"]

@@ -1,0 +1,1 @@
+["CHANGES.md", "crates/vertigo-macro/src/html_parser.rs", "crates/vertigo/src/dom/dom_element.rs", "crates/vertigo/src/driver_module/src_js/api_browser/dom/dom.ts", "crates/vertigo/src/driver_module/wasm_run.js", "crates/vertigo/src/driver_module/wasm_run.js.map", "crates/vertigo/src/tests/dom/html_attrs.rs", "crates/vertigo/src/tests/dom/mod.rs"]

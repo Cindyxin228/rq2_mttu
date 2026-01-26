@@ -1,0 +1,1 @@
+[".github/workflows/release-prepare.yml", "crates/release-automation/Cargo.lock", "crates/release-automation/src/lib/common.rs", "crates/release-automation/src/lib/crate_selection/mod.rs", "crates/release-automation/src/lib/mod.rs", "crates/release-automation/src/lib/tests/cli.rs", "crates/release-automation/src/lib/tests/workspace_mocker.rs"]

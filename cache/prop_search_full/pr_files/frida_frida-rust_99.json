@@ -1,0 +1,1 @@
+["frida-gum-sys/src/lib.rs", "frida-gum/Cargo.toml", "frida-gum/src/instruction_writer.rs", "frida-gum/src/instruction_writer/aarch64/relocator.rs", "frida-gum/src/instruction_writer/x86_64/relocator.rs", "frida-gum/src/stalker/transformer.rs"]

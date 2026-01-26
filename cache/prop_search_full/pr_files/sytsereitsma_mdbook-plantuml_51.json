@@ -1,0 +1,1 @@
+["README.md", "src/lib.rs", "src/plantuml_renderer.rs", "src/plantumlconfig.rs", "tests/e2e_test/.gitignore", "tests/e2e_test/plantuml_server_datauri.toml", "tests/e2e_test/plantuml_shell_datauri.toml", "tests/e2e_test/test_e2e.py"]

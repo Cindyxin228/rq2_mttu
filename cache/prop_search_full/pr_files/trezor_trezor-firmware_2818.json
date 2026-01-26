@@ -1,0 +1,1 @@
+["core/.changelog.d/2818.added", "core/src/apps/ethereum/layout.py", "core/src/apps/ethereum/sign_typed_data.py", "tests/device_tests/ethereum/test_sign_typed_data.py", "tests/ui_tests/fixtures.json"]

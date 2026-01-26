@@ -1,0 +1,1 @@
+["src/backend/serial/scalar_mul/mod.rs", "src/backend/serial/scalar_mul/pippenger.rs", "src/backend/vector/scalar_mul/mod.rs", "src/backend/vector/scalar_mul/pippenger.rs", "src/edwards.rs", "src/scalar.rs"]

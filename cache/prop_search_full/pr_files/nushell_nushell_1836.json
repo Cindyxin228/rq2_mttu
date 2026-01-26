@@ -1,0 +1,1 @@
+["crates/nu-cli/src/data/base.rs", "crates/nu-cli/src/data/types.rs", "crates/nu-cli/tests/commands/cal.rs", "crates/nu-cli/tests/commands/where_.rs", "crates/nu-protocol/src/value/primitive.rs", "crates/nu-test-support/src/macros.rs", "crates/nu_plugin_average/src/average.rs", "tests/shell/pipeline/commands/internal.rs"]

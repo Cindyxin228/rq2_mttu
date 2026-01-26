@@ -1,0 +1,1 @@
+["crates/test-programs/tests/wasi-http-components-sync.rs", "crates/test-programs/tests/wasi-http-components.rs", "crates/test-programs/wasi-http-tests/src/bin/outbound_request_response_build.rs", "crates/wasi-http/src/proxy.rs", "src/commands/run.rs", "tests/all/cli_tests.rs", "tests/all/cli_tests/wasi-http.wat"]

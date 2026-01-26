@@ -1,0 +1,1 @@
+["pallas-primitives/src/conway/defs.cddl", "pallas-primitives/src/conway/model.rs", "pallas-primitives/src/conway/script_data.rs", "pallas-txbuilder/src/conway.rs", "pallas-validate/src/phase1/conway.rs", "test_data/datum-only.tx"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/README.md", "src/error.rs", "src/lib.rs", "src/openapi/mod.rs", "src/openapi/schema.rs", "src/swagger_ui.rs", "src/types.rs", "utoipa-gen/src/component.rs", "utoipa-gen/src/lib.rs"]

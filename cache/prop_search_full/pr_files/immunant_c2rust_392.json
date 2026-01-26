@@ -1,0 +1,1 @@
+["c2rust-transpile/src/translator/assembly.rs", "tests/asm.aarch64/Cargo.toml", "tests/asm.aarch64/src/asm.c", "tests/asm.aarch64/src/test_asm.rs", "tests/asm.x86_64/src/asm.c", "tests/asm.x86_64/src/test_asm.rs"]

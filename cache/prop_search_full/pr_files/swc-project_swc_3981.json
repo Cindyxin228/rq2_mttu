@@ -1,0 +1,1 @@
+["crates/swc/tests/errors/lints/duplicate-bindings/catch-clause/1/input.js", "crates/swc/tests/errors/lints/duplicate-bindings/catch-clause/1/output.swc-stderr", "crates/swc_ecma_lints/src/rules/duplicate_bindings.rs", "crates/swc_ecma_lints/tests/fixture.rs"]

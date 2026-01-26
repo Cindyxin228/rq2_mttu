@@ -1,0 +1,1 @@
+["src/cli/examples/vlan0_up.yml", "src/lib/Cargo.toml", "src/lib/ifaces/iface.rs", "src/lib/ifaces/mod.rs", "src/lib/ifaces/vlan.rs", "src/lib/net_conf.rs", "src/lib/tests/vlan.rs"]

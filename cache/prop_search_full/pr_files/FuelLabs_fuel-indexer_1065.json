@@ -1,0 +1,1 @@
+[".cargo/config", ".github/workflows/ci.yml", "deployment/Dockerfile", "examples/fuel-explorer/README.md", "examples/fuel-explorer/docker-compose.yaml", "examples/hello-world/README.md", "examples/hello-world/docker-compose.yaml", "examples/hello-world/hello-world-node/src/main.rs"]

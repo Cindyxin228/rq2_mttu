@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng_centralized/src/lib.rs", "libafl/src/events/centralized.rs", "libafl/src/events/launcher.rs"]

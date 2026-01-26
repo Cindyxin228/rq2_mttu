@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "armv7a-vex-v5.json", "derivation.nix", "flake.lock", "shell.nix", "src/bin/cargo-pros.rs", "src/commands/build.rs", "src/commands/mod.rs", "src/commands/simulator.rs", "src/commands/upload.rs", "src/config.rs", "src/errors.rs", "src/lib.rs", "src/main.rs", "src/metadata.rs", "src/targets/armv7a-vex-v5.json"]

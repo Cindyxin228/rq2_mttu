@@ -1,0 +1,1 @@
+["Cargo.toml", "derive/src/args.rs", "derive/src/complex_object.rs", "derive/src/input_object.rs", "derive/src/interface.rs", "derive/src/object.rs", "derive/src/oneof_object.rs", "derive/src/simple_object.rs", "derive/src/union.rs", "src/lib.rs", "tests/lifetime.rs", "tests/union.rs"]

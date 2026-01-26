@@ -1,0 +1,1 @@
+["bindings/ergo-lib-c-core/Cargo.toml", "bindings/ergo-lib-c-core/src/wallet.rs", "bindings/ergo-lib-c/Cargo.toml", "bindings/ergo-lib-c/cbindgen.toml", "bindings/ergo-lib-c/src/lib.rs", "bindings/ergo-lib-c/src/wallet.rs", "bindings/ergo-lib-ios/README.md", "bindings/ergo-lib-ios/Sources/ErgoLib/Wallet.swift", "bindings/ergo-lib-ios/Tests/ErgoLibTests/WalletTests.swift"]

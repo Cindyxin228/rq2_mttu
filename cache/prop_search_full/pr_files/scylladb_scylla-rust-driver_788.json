@@ -1,0 +1,1 @@
+["scylla-proxy/src/actions.rs", "scylla-proxy/src/lib.rs", "scylla-proxy/src/proxy.rs", "scylla/src/transport/connection.rs", "scylla/tests/integration/consistency.rs", "scylla/tests/integration/lwt_optimisation.rs", "scylla/tests/integration/main.rs", "scylla/tests/integration/shards.rs"]

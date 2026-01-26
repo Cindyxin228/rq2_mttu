@@ -1,0 +1,1 @@
+["sync/src/relayer/mod.rs", "sync/src/synchronizer/block_fetcher.rs", "sync/src/tests/inflight_blocks.rs", "sync/src/types/mod.rs", "util/types/src/block_number_and_hash.rs", "util/types/src/lib.rs"]

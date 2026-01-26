@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/objdump.rs", "src/busybox/disk/ls.rs", "src/busybox/disk/mkdir.rs", "src/busybox/disk/mount.rs", "src/busybox/disk/rm.rs", "src/busybox/disk/tar.rs", "src/busybox/network/curl.rs", "src/busybox/network/ipcshell.rs", "src/busybox/network/revshell.rs", "src/busybox/privs/caps.rs", "src/busybox/procs/jit.rs", "src/ctrl.rs"]

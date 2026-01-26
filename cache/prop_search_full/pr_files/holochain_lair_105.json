@@ -1,0 +1,1 @@
+["crates/lair_keystore_api/src/in_proc_keystore.rs", "crates/lair_keystore_api/src/lair_api/sign_by_pub_key.rs", "crates/lair_keystore_api/src/lair_server/priv_api.rs", "crates/lair_keystore_api/src/lair_server/priv_srv.rs", "crates/lair_keystore_api/src/lair_store.rs"]

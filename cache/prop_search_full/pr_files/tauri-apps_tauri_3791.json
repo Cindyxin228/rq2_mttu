@@ -1,0 +1,1 @@
+[".changes/devtools-apis.md", ".changes/devtools-hotkey.md", ".changes/window-devtools-apis.md", "core/tauri-runtime-wry/src/lib.rs", "core/tauri-runtime/src/lib.rs", "core/tauri/scripts/hotkey.js", "core/tauri/scripts/init.js", "core/tauri/src/endpoints/window.rs", "core/tauri/src/manager.rs", "core/tauri/src/test/mock_runtime.rs", "core/tauri/src/window.rs"]

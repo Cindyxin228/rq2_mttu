@@ -1,0 +1,1 @@
+["diesel/src/pg/connection/mod.rs", "diesel/src/pg/connection/raw.rs", "diesel/src/pg/connection/result.rs", "diesel/src/pg/connection/stmt/mod.rs", "diesel/src/r2d2.rs"]

@@ -1,0 +1,1 @@
+["diesel_compile_tests/tests/fail/derive/bad_column_name.rs", "diesel_compile_tests/tests/fail/derive/bad_column_name.stderr", "diesel_derives/src/as_changeset.rs", "diesel_derives/src/attrs.rs", "diesel_derives/src/insertable.rs"]

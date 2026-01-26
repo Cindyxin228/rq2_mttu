@@ -1,0 +1,1 @@
+[".github/scripts/contract_sizes_submit.sh", ".github/workflows/ci.yml", ".github/workflows/examples.yml", ".github/workflows/measurements.yml", ".github/workflows/publish-docs.yml", ".github/workflows/submit-contract-sizes.yml", "CODEOWNERS", "README.md", "scripts/ci/trigger_pipeline.sh"]

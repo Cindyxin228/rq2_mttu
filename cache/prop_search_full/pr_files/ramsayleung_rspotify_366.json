@@ -1,0 +1,1 @@
+["CHANGELOG.md", "rspotify-model/src/audio.rs", "rspotify-model/src/context.rs", "rspotify-model/src/custom_serde.rs", "rspotify-model/src/show.rs", "rspotify-model/src/track.rs", "tests/test_models.rs", "tests/test_with_oauth.rs"]

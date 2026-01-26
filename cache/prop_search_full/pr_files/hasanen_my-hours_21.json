@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/dates.rs", "src/hours.rs", "src/hours/store.rs", "src/hours/table.rs", "src/hours/types.rs", "src/integrations/mod.rs", "src/integrations/toggl/api.rs", "src/integrations/toggl/api/types.rs", "src/integrations/toggl/mod.rs", "src/main.rs", "src/settings.rs", "src/strict_string.rs"]

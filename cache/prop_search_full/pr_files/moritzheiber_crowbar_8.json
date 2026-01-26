@@ -1,0 +1,1 @@
+["src/cli.rs", "src/config.rs", "src/config/app.rs", "src/credentials.rs", "src/credentials/aws.rs", "src/credentials/config.rs", "src/providers/adfs.rs", "src/providers/jumpcloud.rs", "src/providers/okta.rs", "src/providers/okta/auth.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["lib/backend-api/schema.graphql", "lib/backend-api/src/query.rs", "lib/backend-api/src/types.rs", "lib/cli/src/commands/app/deploy.rs", "lib/cli/src/commands/app/volumes/credentials/mod.rs", "lib/cli/src/commands/app/volumes/credentials/rotate_secrets.rs", "lib/cli/src/commands/app/volumes/mod.rs", "lib/cli/src/commands/app/volumes/s3_credentials.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "elfo-dumper/Cargo.toml", "elfo-logger/Cargo.toml", "elfo-logger/src/actor.rs", "elfo-logger/src/config.rs", "elfo-logger/src/formatters.rs", "elfo-logger/src/lib.rs", "elfo-logger/src/line_buffer.rs", "elfo-logger/src/line_transaction.rs", "elfo-logger/src/theme.rs", "examples/examples/usage/config.toml"]

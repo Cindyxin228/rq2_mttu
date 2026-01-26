@@ -1,0 +1,1 @@
+["sway-core/src/semantic_analysis/ast_node/expression/typed_expression.rs", "test/src/e2e_vm_tests/test_programs/should_fail/language/references/references_to_mutable_values/src/main.sw", "test/src/e2e_vm_tests/test_programs/should_fail/language/references/references_to_mutable_values/test.toml"]

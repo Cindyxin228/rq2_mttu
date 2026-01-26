@@ -1,0 +1,1 @@
+["examples/ls-tree.rs", "gitoxide-core/src/repository/diff.rs", "gix-index/src/entry/mode.rs", "gix-merge/tests/merge/tree/baseline.rs", "gix-object/src/tree/mod.rs", "gix-object/src/tree/ref_iter.rs", "gix-object/tests/object/tree/entry_mode.rs", "gix-object/tests/object/tree/from_bytes.rs", "gix/src/object/tree/iter.rs"]

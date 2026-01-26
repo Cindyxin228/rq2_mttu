@@ -1,0 +1,1 @@
+[".mise.toml", "justfile", "src/cli/settings/ls.rs", "src/cli/settings/set.rs", "src/cli/settings/unset.rs", "src/config/settings.rs", "src/plugins/core/python.rs"]

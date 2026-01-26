@@ -1,0 +1,1 @@
+["src/dfx-core/src/identity/mod.rs", "src/dfx-core/src/identity/wallet.rs", "src/dfx/src/commands/canister/delete.rs", "src/dfx/src/commands/quickstart.rs", "src/dfx/src/commands/wallet/upgrade.rs", "src/dfx/src/lib/identity/wallet.rs", "src/dfx/src/lib/migrate.rs"]

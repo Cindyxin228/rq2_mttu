@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/polars-arrow/Cargo.toml", "crates/polars-error/Cargo.toml", "crates/polars-io/Cargo.toml", "crates/polars-lazy/Cargo.toml", "crates/polars-ops/Cargo.toml", "crates/polars-plan/Cargo.toml", "crates/polars-time/Cargo.toml", "crates/polars/Cargo.toml"]

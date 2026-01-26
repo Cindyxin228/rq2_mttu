@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fedimint-cli/Cargo.toml", "fedimint-cli/src/main.rs", "fedimint-rocksdb/Cargo.toml", "fedimintd/Cargo.toml", "fedimintd/src/bin/main.rs", "gateway/ln-gateway/Cargo.toml", "gateway/ln-gateway/src/bin/gatewayd.rs"]

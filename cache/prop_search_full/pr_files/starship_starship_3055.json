@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/config/README.md", "docs/presets/README.md", "src/configs/mod.rs", "src/configs/pulumi.rs", "src/configs/starship_root.rs", "src/module.rs", "src/modules/mod.rs", "src/modules/pulumi.rs", "src/utils.rs"]

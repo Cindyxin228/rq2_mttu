@@ -1,0 +1,1 @@
+["examples/emulation_firefox.rs", "examples/emulation_twitter.rs", "examples/keylog.rs", "examples/request_with_emulation.rs", "src/core/client/conn/http1.rs", "src/core/client/conn/http2.rs", "src/core/client/mod.rs", "src/core/client/options/http1.rs", "src/core/client/options/http2.rs", "src/core/proto/h2/client.rs", "src/core/proto/h2/ping.rs"]

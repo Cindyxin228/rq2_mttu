@@ -1,0 +1,1 @@
+["bindings/nodejs/Cargo.toml", "bindings/nodejs/generated.js", "bindings/nodejs/index.d.ts", "bindings/nodejs/src/lib.rs", "bindings/nodejs/tests/binding.js", "bindings/tests/features/binding.feature", "driver/src/value.rs"]

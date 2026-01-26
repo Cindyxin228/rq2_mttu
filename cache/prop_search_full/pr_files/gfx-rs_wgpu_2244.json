@@ -1,0 +1,1 @@
+["wgpu-core/src/device/queue.rs", "wgpu-hal/src/lib.rs", "wgpu-hal/src/vulkan/instance.rs"]

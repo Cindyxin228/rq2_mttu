@@ -1,0 +1,1 @@
+["docker/dev/docker-compose.yml", "docker/dev/lemmy.hjson", "docker/dev/nginx.conf", "docker/dev/otel.yml"]

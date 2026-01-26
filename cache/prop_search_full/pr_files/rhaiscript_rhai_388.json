@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/ast.rs", "src/bin/rhai-repl.rs", "src/engine.rs", "src/engine_api.rs", "src/optimize.rs", "src/packages/string_more.rs", "src/parser.rs", "src/token.rs", "tests/functions.rs", "tests/string.rs"]

@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".github/workflows/ci.yml", ".github/workflows/security-audit.yml", ".github/workflows/wints.yml", "Cargo.lock", "Cargo.toml", "Makefile", "src/wints/core/module.rs", "src/wints/core/storage.rs", "src/wints/ops/wints_search.rs", "src/wints/util/url_scanner.rs", "tests/commands/url_ignore.rs"]

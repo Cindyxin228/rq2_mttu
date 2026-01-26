@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", "server/data/meson.build", "server/data/oo7-daemon.service.in", "server/data/org.freedesktop.secrets.service.in", "server/meson.build", "server/meson_options.txt", "server/src/meson.build"]

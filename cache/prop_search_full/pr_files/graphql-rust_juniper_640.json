@@ -1,0 +1,1 @@
+["juniper/Cargo.toml", "juniper/src/http/mod.rs", "juniper/src/integrations/serde.rs", "juniper/src/types/scalars.rs", "juniper_actix/Cargo.toml", "juniper_actix/src/lib.rs", "juniper_hyper/Cargo.toml", "juniper_iron/Cargo.toml", "juniper_iron/examples/iron_server.rs", "juniper_rocket/Cargo.toml", "juniper_rocket_async/Cargo.toml", "juniper_warp/Cargo.toml"]

@@ -1,0 +1,1 @@
+["arrow-schema/Cargo.toml", "arrow-schema/src/datatype.rs", "arrow-schema/src/field.rs", "arrow-schema/src/schema.rs"]

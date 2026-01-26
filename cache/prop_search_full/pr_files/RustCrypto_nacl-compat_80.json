@@ -1,0 +1,1 @@
+[".github/workflows/crypto_secretbox.yml", "Cargo.lock", "Cargo.toml", "crypto_secretbox/CHANGELOG.md", "crypto_secretbox/Cargo.toml", "crypto_secretbox/LICENSE-APACHE", "crypto_secretbox/LICENSE-MIT", "crypto_secretbox/README.md", "crypto_secretbox/src/lib.rs", "crypto_secretbox/tests/xsalsa20poly1305.rs"]

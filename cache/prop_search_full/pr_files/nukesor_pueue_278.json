@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "client/client.rs", "client/display/log/local.rs", "client/display/log/mod.rs", "lib/Cargo.toml", "lib/src/log.rs", "tests/fixtures/daemon.rs", "tests/unix/log.rs", "tests/unix/mod.rs"]

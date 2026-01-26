@@ -1,0 +1,1 @@
+["bin/cargo-bolero/src/libfuzzer.rs", "lib/bolero-generator/src/driver/bytes.rs"]

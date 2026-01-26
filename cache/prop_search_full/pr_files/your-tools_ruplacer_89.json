@@ -1,0 +1,1 @@
+["src/app.rs", "src/console.rs", "src/directory_patcher.rs", "src/file_patcher.rs", "src/lib.rs", "src/replacer.rs", "src/settings.rs", "tests/integration_tests.rs"]

@@ -1,0 +1,1 @@
+["bindings/nodejs/Cargo.toml", "bindings/nodejs/src/lib.rs", "cli/Cargo.toml", "cli/src/display.rs", "cli/src/session.rs", "core/Cargo.toml", "core/build.rs", "core/src/client.rs"]

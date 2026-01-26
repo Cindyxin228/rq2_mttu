@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "src/bin/test.rs", "src/windows.rs", "src/windows/ffi.rs", "src/windows/minidump_writer.rs", "tests/windows_minidump_writer.rs"]

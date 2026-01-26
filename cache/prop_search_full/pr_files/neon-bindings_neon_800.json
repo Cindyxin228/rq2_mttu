@@ -1,0 +1,1 @@
+["cli/package-lock.json", "src/types/mod.rs", "test/cli/package-lock.json", "test/dynamic/package-lock.json", "test/electron/package-lock.json", "test/napi/package-lock.json"]

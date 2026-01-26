@@ -1,0 +1,1 @@
+["crates/matrix-sdk-indexeddb/src/crypto_store/indexeddb_serializer.rs", "crates/matrix-sdk-indexeddb/src/crypto_store/migrations.rs", "crates/matrix-sdk-indexeddb/src/crypto_store/mod.rs", "crates/matrix-sdk-indexeddb/src/lib.rs", "crates/matrix-sdk-indexeddb/src/serialize_bool_for_indexeddb.rs"]

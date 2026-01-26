@@ -1,0 +1,1 @@
+["examples/examples/get_storage.rs", "examples/examples/staking_batch_payout.rs", "node-api/src/metadata.rs", "src/api/rpc_api/events.rs", "src/api/rpc_api/frame_system.rs", "src/api/rpc_api/state.rs", "testing/examples/state_tests.rs"]

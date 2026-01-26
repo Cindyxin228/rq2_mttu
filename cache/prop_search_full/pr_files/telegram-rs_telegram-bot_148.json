@@ -1,0 +1,1 @@
+["lib/Cargo.toml", "lib/src/api.rs", "lib/src/connector.rs", "lib/src/connector/hyper.rs", "lib/src/connector/mod.rs", "lib/src/errors.rs", "lib/src/prelude.rs", "lib/src/stream.rs", "lib/src/util/messages.rs"]

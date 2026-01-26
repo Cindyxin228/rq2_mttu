@@ -1,0 +1,1 @@
+["crates/cargo-test-support/src/compare.rs", "src/cargo/ops/cargo_generate_lockfile.rs", "tests/testsuite/git.rs", "tests/testsuite/local_registry.rs", "tests/testsuite/patch.rs", "tests/testsuite/registry.rs", "tests/testsuite/replace.rs", "tests/testsuite/update.rs"]

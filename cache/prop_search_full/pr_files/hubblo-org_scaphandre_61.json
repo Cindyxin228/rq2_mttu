@@ -1,0 +1,1 @@
+["sample-stack/docker-compose.yaml", "sample-stack/grafana/Dockerfile", "sample-stack/grafana/dashboards.yml", "sample-stack/grafana/datasource.yml", "sample-stack/grafana/sample-dashboard.json", "sample-stack/prom/Dockerfile", "sample-stack/prom/prometheus.yml"]

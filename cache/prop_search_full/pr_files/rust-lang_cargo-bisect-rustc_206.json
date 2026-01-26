@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/main.rs", "tests/cmd/bare-h.stderr", "tests/cmd/bare-h.stdout", "tests/cmd/bare-h.toml", "tests/cmd/bare-help.stderr", "tests/cmd/bare-help.stdout", "tests/cmd/bare-help.toml", "tests/cmd/h.toml", "tests/cmd/help.toml", "tests/cmd/start-in-future.stderr", "tests/cmd/start-in-future.stdout", "tests/cmd/start-in-future.toml"]

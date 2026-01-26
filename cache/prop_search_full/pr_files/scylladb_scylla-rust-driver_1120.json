@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/mod.rs", "scylla-cql/src/frame/types.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/locator/tablets.rs"]

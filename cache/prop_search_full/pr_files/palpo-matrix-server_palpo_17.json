@@ -1,0 +1,1 @@
+["crates/core/src/client/membership.rs", "crates/core/src/events/room/power_levels.rs", "crates/core/src/state/power_levels.rs", "tests/complement.sh", "tests/results/__test_all.result.jsonl"]

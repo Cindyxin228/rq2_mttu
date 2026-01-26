@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/dates.slt", "datafusion/core/tests/sqllogictests/test_files/interval.slt", "datafusion/core/tests/sqllogictests/test_files/timestamps.slt", "datafusion/expr/src/type_coercion/binary.rs"]

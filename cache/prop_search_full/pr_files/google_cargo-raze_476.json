@@ -1,0 +1,1 @@
+[".bazelversion", ".vscode/tasks.json", "BUILD.bazel", "WORKSPACE.bazel", "impl/src/planning/crate_catalog.rs", "impl/src/planning/subplanners.rs", "impl/src/rendering/bazel.rs", "impl/src/util.rs", "third_party/cargo/BUILD.bazel", "third_party/cargo/remote/BUILD.bazel", "transitive_deps.bzl"]

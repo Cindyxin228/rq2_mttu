@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "src/lib.rs", "tests/path_derive_actix.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/component.rs", "utoipa-gen/src/ext/actix.rs", "utoipa-gen/src/into_params.rs", "utoipa-gen/src/lib.rs"]

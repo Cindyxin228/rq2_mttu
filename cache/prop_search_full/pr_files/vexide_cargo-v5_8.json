@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/commands/cat.rs", "src/commands/devices.rs", "src/commands/dir.rs", "src/commands/field_control/mod.rs", "src/commands/log.rs", "src/commands/mod.rs", "src/commands/rm.rs", "src/commands/screenshot.rs", "src/commands/simulator.rs", "src/commands/upload.rs", "src/commands/vexide-template.tar.gz", "src/errors.rs", "src/main.rs"]

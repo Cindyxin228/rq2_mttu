@@ -1,0 +1,1 @@
+["gdal-sys/build.rs", "src/programs/raster/mdimtranslate.rs", "src/raster/mdarray.rs", "src/raster/tests.rs", "src/vector/vector_tests/mod.rs"]

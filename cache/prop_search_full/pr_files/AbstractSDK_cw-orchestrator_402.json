@@ -1,0 +1,1 @@
+["CHANGELOG.md", "contracts/mock_contract/Cargo.toml", "contracts/mock_contract/src/lib.rs", "packages/cw-orch-core/Cargo.toml", "packages/cw-orch-core/src/contract/interface_traits.rs", "packages/cw-orch-core/src/environment/queriers/wasm.rs"]

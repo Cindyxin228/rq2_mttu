@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/dialect_translation/mod.rs", "src/dialect_translation/mssql.rs", "src/dialect_translation/postgresql.rs", "tests/integration.rs"]

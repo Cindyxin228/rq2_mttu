@@ -1,0 +1,1 @@
+["Cargo.toml", "src/kat_tests.rs", "src/kdf.rs", "src/kem.rs", "src/kem/dhkem.rs", "src/op_mode.rs", "src/serde_impls.rs", "src/setup.rs", "src/single_shot.rs"]

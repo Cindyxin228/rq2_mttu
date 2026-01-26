@@ -1,0 +1,1 @@
+["integration_test/src/wirecommand_tests.rs", "src/cli.rs", "wire_protocol/Cargo.toml", "wire_protocol/src/commands.rs", "wire_protocol/src/tests.rs"]

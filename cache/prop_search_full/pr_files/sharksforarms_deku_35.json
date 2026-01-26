@@ -1,0 +1,1 @@
+["README.md", "benches/deku.rs", "deku-derive/src/macros/deku_write.rs", "examples/custom_reader_and_writer.rs", "examples/enums.rs", "examples/example.rs", "examples/ipv4.rs", "src/attributes.rs", "src/error.rs", "src/lib.rs", "tests/test_macro.rs"]

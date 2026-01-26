@@ -1,0 +1,1 @@
+["soroban-env-common/Cargo.toml", "soroban-env-common/tests/no_std/Cargo.toml", "soroban-env-guest/Cargo.toml", "soroban-env-host/Cargo.toml", "soroban-env-macros/Cargo.toml", "soroban-native-sdk-macros/Cargo.toml", "soroban-synth-wasm/Cargo.toml", "soroban-test-wasms/Cargo.toml"]

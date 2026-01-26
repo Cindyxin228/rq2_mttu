@@ -1,0 +1,1 @@
+["examples/bench.rs", "examples/duckdb.rs", "examples/gluesql.rs", "examples/scram.rs", "examples/secure_server.rs", "examples/server.rs", "examples/sqlite.rs", "src/api/auth/md5pass.rs", "src/api/auth/scram.rs", "src/api/mod.rs", "src/tokio.rs", "tests-integration/test-server/src/main.rs"]

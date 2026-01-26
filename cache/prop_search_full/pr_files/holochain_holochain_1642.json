@@ -1,0 +1,1 @@
+[".github/workflows/release-prepare.yml", "crates/holochain_types/CHANGELOG.md", "crates/holochain_types/src/app/app_bundle/tests.rs", "crates/holochain_types/src/app/app_manifest/app_manifest_v1.rs", "crates/holochain_zome_types/src/dna_def.rs"]

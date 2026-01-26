@@ -1,0 +1,1 @@
+["crates/cargo-test-support/src/compare.rs", "src/cargo/ops/cargo_test.rs", "tests/testsuite/bench.rs", "tests/testsuite/features2.rs", "tests/testsuite/freshness.rs", "tests/testsuite/lto.rs", "tests/testsuite/messages.rs", "tests/testsuite/profile_config.rs", "tests/testsuite/profiles.rs", "tests/testsuite/rustflags.rs", "tests/testsuite/test.rs"]

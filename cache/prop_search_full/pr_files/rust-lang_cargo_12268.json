@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/bin/cargo/commands/run.rs", "src/cargo/core/manifest.rs", "src/cargo/core/workspace.rs", "src/cargo/ops/cargo_package.rs", "src/cargo/util/toml/embedded.rs", "src/cargo/util/toml/mod.rs", "tests/testsuite/script.rs"]

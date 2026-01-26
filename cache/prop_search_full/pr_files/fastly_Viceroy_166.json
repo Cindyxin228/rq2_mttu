@@ -1,0 +1,1 @@
+["cli/src/opts.rs", "lib/compute-at-edge-abi/typenames.witx", "lib/src/config/unit_tests.rs", "lib/src/error.rs", "lib/src/session.rs", "lib/src/upstream.rs", "lib/src/wiggle_abi.rs", "test-fixtures/src/bin/upstream-async.rs"]

@@ -1,0 +1,1 @@
+["sdk/Cargo.toml", "sdk/src/asset_handlers/jpeg_io.rs", "sdk/src/asset_handlers/mod.rs", "sdk/src/asset_handlers/tiff_io.rs", "sdk/src/cose_validator.rs", "sdk/src/jumbf_io.rs", "sdk/src/store.rs", "sdk/tests/fixtures/TUSCANY.TIF"]

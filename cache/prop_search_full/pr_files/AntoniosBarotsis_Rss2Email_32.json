@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/ci.yml", ".github/workflows/msrv.yml", ".github/workflows/publish.yml", ".vscode/settings.json", "Cargo.lock", "Cargo.toml", "Dockerfile.arm", "Dockerfile.scratch", "Dockerfile.x86", "README.md", "src/email/sendgrid.rs", "src/lib.rs", "src/logger/mod.rs", "src/main.rs", "test-docker/build.sh"]

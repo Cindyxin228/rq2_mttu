@@ -1,0 +1,1 @@
+[".travis.yml", "exonum/src/blockchain/config.rs", "exonum/src/events/mod.rs", "exonum/src/events/network.rs", "exonum/src/helpers/mod.rs", "exonum/src/node/mod.rs", "exonum/src/node/state.rs", "exonum/src/storage/proof_list_index/key.rs", "sandbox/src/sandbox.rs"]

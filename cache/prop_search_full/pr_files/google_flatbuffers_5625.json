@@ -1,0 +1,1 @@
+["BUILD", "CMakeLists.txt", "android/jni/Android.mk", "include/flatbuffers/idl.h", "src/code_generators.cpp", "src/flatc.cpp", "src/flatc_main.cpp", "src/idl_gen_general.cpp", "src/idl_gen_java.cpp"]

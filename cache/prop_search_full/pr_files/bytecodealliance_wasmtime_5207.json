@@ -1,0 +1,1 @@
+["crates/fuzzing/src/generators/pooling_config.rs", "crates/runtime/src/cow.rs", "crates/runtime/src/cow_disabled.rs", "crates/runtime/src/instance/allocator/pooling.rs", "crates/wasmtime/src/config.rs"]

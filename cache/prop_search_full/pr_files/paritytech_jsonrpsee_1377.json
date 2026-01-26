@@ -1,0 +1,1 @@
+["client/http-client/src/client.rs", "core/src/client/async_client/mod.rs", "core/src/client/error.rs", "core/src/client/mod.rs", "tests/tests/integration_tests.rs"]

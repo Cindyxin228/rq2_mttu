@@ -1,0 +1,1 @@
+["ADVANCED_CAPABILITIES.md", "examples/advanced_capabilities_comprehensive.rs", "src/kernel/distributed_tracing.rs", "src/kernel/introspection.rs", "src/kernel/mod.rs", "src/kernel/schema_registry.rs", "src/kernel/session_streaming.rs"]

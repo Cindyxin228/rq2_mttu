@@ -1,0 +1,1 @@
+[".github/workflows/vorpal.yaml", "Cargo.lock", "crates/agent/src/lib.rs", "crates/cli/Cargo.toml", "crates/cli/src/main.rs", "crates/config/src/main.rs", "crates/sdk/Cargo.toml", "crates/sdk/src/artifact/language/rust.rs", "crates/sdk/src/context.rs", "makefile", "sdk/go/internal/artifact/language/rust.go", "sdk/go/main.go"]

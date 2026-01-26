@@ -1,0 +1,1 @@
+[".cirrus.yml", ".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "upload-binary.sh", "wix/main.wxs"]

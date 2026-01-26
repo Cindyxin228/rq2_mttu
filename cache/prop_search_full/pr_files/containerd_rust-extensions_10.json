@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/shim-client/Cargo.toml", "crates/shim-client/examples/ttrpc-server.rs", "deny.toml"]

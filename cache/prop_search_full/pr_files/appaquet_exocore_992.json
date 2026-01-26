@@ -1,0 +1,1 @@
+["protos/protobuf/exocore/test/test.proto", "protos/src/generated/exocore.test.rs", "protos/src/generated/exocore_test.fd", "protos/src/reflect.rs", "protos/src/registry.rs", "store/src/local/mutation_index/config.rs", "store/src/local/mutation_index/mod.rs", "store/src/local/mutation_index/schema.rs", "store/src/local/mutation_index/tests.rs"]

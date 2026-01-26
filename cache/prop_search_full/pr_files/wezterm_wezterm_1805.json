@@ -1,0 +1,1 @@
+["term/src/input.rs", "term/src/terminalstate/mouse.rs", "wezterm-gui/src/overlay/copy.rs", "wezterm-gui/src/overlay/quickselect.rs", "wezterm-gui/src/overlay/search.rs", "wezterm-gui/src/selection.rs", "wezterm-gui/src/termwindow/box_model.rs", "wezterm-gui/src/termwindow/mod.rs", "wezterm-gui/src/termwindow/mouseevent.rs", "wezterm-gui/src/termwindow/selection.rs"]

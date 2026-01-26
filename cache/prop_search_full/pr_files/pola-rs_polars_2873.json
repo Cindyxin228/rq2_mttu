@@ -1,0 +1,1 @@
+["polars/polars-io/src/csv_core/buffer.rs", "polars/polars-io/src/csv_core/parser.rs", "py-polars/tests/io/test_csv.py"]

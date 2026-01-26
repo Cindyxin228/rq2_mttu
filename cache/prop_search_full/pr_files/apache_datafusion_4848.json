@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/window.rs", "datafusion/physical-expr/src/aggregate/stddev.rs", "datafusion/physical-expr/src/aggregate/variance.rs"]

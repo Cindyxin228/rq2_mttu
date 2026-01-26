@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/ci.yml", ".github/workflows/release.yml", ".github/workflows/weekly.yml", "symbolic-ppdb/src/format/metadata.rs", "symbolic-ppdb/src/format/streams.rs", "symbolic-symcache/src/writer.rs"]

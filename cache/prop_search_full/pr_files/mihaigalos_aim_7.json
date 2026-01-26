@@ -1,0 +1,1 @@
+[".gitattributes", "README.md", "src/driver.rs", "src/ftp.rs", "src/https.rs", "src/io.rs", "src/lib.rs", "src/output.rs", "test/ftp/Justfile", "test/ftp/binary_file.tar.gz", "test/ftp/binary_file.tar.gz.part1", "test/ftp/binary_file.tar.gz.part2", "test/ftp/vsftpd.sh", "test/https/Justfile", "test/https/binary_file.tar.gz.part1", "test/https/binary_file.tar.gz.part2"]

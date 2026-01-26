@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/ast.rs", "src/dynamic.rs", "src/engine.rs", "src/fn_call.rs", "src/fn_native.rs", "src/fn_register.rs", "src/lib.rs", "src/module/mod.rs", "src/optimize.rs", "src/packages/fn_basic.rs", "src/packages/string_more.rs", "src/parser.rs", "src/serde/metadata.rs", "src/token.rs", "src/utils.rs", "tests/closures.rs", "tests/modules.rs", "tests/string.rs"]

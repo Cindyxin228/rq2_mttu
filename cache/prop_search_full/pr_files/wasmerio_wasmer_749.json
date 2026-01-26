@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/simple_instantiate.rs", "fuzz/fuzz_targets/validate_wasm.rs"]

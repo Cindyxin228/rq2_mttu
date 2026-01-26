@@ -1,0 +1,1 @@
+["wgpu-hal/src/dx12/adapter.rs", "wgpu-hal/src/metal/adapter.rs", "wgpu-hal/src/vulkan/adapter.rs", "wgpu-types/src/lib.rs", "wgpu/src/lib.rs"]

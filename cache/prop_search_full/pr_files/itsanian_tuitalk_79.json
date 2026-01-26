@@ -1,0 +1,1 @@
+["flake.nix", "rust/Cargo.lock", "rust/Dockerfile.wasm", "rust/shared/src/lib.rs", "rust/wasm-client/Cargo.toml", "rust/wasm-client/index.html", "rust/wasm-client/src/command.rs", "rust/wasm-client/src/main.rs", "rust/wasm-client/src/wasm_client.rs", "rust/wasm-client/styles.css", "rust/wasm-client/wasm.sh"]

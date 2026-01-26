@@ -1,0 +1,1 @@
+[".github/actions/setup-nix/action.yaml", ".github/workflows/CD.yaml", ".github/workflows/CI.yaml", "src/server/integration_tests.rs"]

@@ -1,0 +1,1 @@
+["src/aggregation/agg_req_with_accessor.rs", "src/aggregation/bucket/term_agg.rs", "src/aggregation/metric/average.rs", "src/aggregation/metric/count.rs", "src/aggregation/metric/max.rs", "src/aggregation/metric/min.rs", "src/aggregation/metric/percentiles.rs", "src/aggregation/metric/stats.rs", "src/aggregation/metric/sum.rs", "src/aggregation/segment_agg_result.rs"]

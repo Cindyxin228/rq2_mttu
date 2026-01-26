@@ -1,0 +1,1 @@
+["schemars/src/generate.rs", "schemars/tests/integration/deprecated.rs", "schemars/tests/integration/enums.rs", "schemars/tests/integration/extend.rs", "schemars/tests/integration/schema_name.rs", "schemars/tests/integration/settings.rs", "schemars/tests/integration/test_helper.rs", "schemars/tests/integration/transform.rs"]

@@ -1,0 +1,1 @@
+["api/src/http.rs", "docs/samples/boostrap_blob_cache_entry.json", "src/bin/nydusd/api_server_glue.rs", "src/bin/nydusd/blob_cache.rs", "src/bin/nydusd/service_controller.rs", "storage/src/backend/mod.rs", "storage/src/backend/oss.rs", "storage/src/backend/registry.rs"]

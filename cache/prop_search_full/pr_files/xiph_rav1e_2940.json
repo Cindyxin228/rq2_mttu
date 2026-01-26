@@ -1,0 +1,1 @@
+["build.rs", "src/asm/x86/sad_row.rs", "src/x86/sad_row.asm"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/asset.rs", "src/channel.rs", "src/handle.rs", "src/lib.rs", "src/process.rs", "src/registry.rs", "src/source/fetch.rs", "src/source/mod.rs", "src/source/reqwest.rs", "src/spawn.rs", "src/sync.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "flake.nix", "local/.keep", "src/config.rs", "src/main.rs", "src/providers.rs", "src/proxy.rs", "src/proxy/cleartext.rs", "src/proxy/secure.rs"]

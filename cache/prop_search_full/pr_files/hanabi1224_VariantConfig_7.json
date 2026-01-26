@@ -1,0 +1,1 @@
+["crates/variant-config/Cargo.toml", "crates/variant-config/src/dsl/mod.rs", "crates/variant-config/src/lib.rs", "crates/variant-config/src/resolver/json_config_resolver.rs", "example/Cargo.toml", "example/pages/api/Cargo.toml", "example/pages/api/_utils.rs", "example/pages/package.json", "example/pages/yarn.lock", "example/src/convert_api.rs"]

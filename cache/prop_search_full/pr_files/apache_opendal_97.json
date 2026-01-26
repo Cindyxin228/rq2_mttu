@@ -1,0 +1,1 @@
+["Cargo.toml", "opendal_test/src/services/s3.rs", "src/services/s3/backend.rs", "src/services/s3/middleware.rs", "src/services/s3/mod.rs", "src/services/s3/signer.rs"]

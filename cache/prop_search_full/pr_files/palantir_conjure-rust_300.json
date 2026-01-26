@@ -1,0 +1,1 @@
+[".circleci/config.yml", "changelog/@unreleased/pr-300.v2.yml", "conjure-codegen/src/context.rs", "conjure-macros/src/lib.rs", "conjure-object/src/double_key.rs", "conjure-object/src/resource_identifier/mod.rs", "conjure-test/src/lib.rs", "example-api/Cargo.toml"]

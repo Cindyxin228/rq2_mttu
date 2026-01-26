@@ -1,0 +1,1 @@
+["postgresql_embedded/src/error.rs", "postgresql_embedded/src/postgresql.rs", "postgresql_embedded/tests/blocking.rs", "postgresql_embedded/tests/postgresql.rs"]

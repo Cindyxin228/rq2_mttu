@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".versionrc.json", "Cargo.toml", "README.md", "src/graphql/mod.rs", "src/graphql/query_block_hash_from_number.graphql", "src/graphql/query_indexing_statuses.graphql", "src/graphql/schema_graph_node.graphql", "src/graphql/schema_proof_of_indexing.graphql", "src/lib.rs", "src/main.rs"]

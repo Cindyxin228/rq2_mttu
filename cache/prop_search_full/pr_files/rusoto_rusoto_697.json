@@ -1,0 +1,1 @@
+["integration_tests/Cargo.toml", "integration_tests/tests/gamelift.rs", "rusoto/Cargo.toml", "rusoto/services/gamelift/Cargo.toml", "rusoto/services/gamelift/README.md", "rusoto/services/gamelift/src/custom/mod.rs", "rusoto/services/gamelift/src/generated.rs", "rusoto/services/gamelift/src/lib.rs", "service_crategen/services.json"]

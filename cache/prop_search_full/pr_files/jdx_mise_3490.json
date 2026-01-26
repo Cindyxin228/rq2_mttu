@@ -1,0 +1,1 @@
+["schema/mise.json", "settings.toml", "src/config/settings.rs", "src/plugins/core/deno.rs", "src/plugins/core/go.rs", "src/plugins/core/java.rs", "src/plugins/core/node.rs", "src/plugins/core/python.rs", "src/plugins/core/swift.rs", "src/plugins/core/zig.rs", "src/plugins/script_manager.rs"]

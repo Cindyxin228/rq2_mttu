@@ -1,0 +1,1 @@
+[".github/workflows/check.yml", "Cargo.toml", "README.md", "img/cancel-menu.png", "img/cancel-scan.gif", "install-nix.sh", "src/banner.rs", "src/extractor.rs", "src/main.rs", "src/reporter.rs", "src/scan_manager.rs", "src/scanner.rs", "src/statistics.rs", "tests/test_extractor.rs", "tests/test_scan_manager.rs"]

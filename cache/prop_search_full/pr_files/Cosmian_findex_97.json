@@ -1,0 +1,1 @@
+[".pre-commit-config.yaml", ".rustfmt.toml", "benches/benches.rs", "deny.toml", "docker-compose.yml", "examples/insert.rs", "src/encryption_layer.rs", "src/findex.rs", "src/lib.rs", "src/memory/redis.rs", "src/ovec.rs", "src/test/memory.rs"]

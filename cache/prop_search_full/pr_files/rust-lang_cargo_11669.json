@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/build_context/mod.rs", "src/cargo/core/compiler/context/compilation_files.rs", "src/cargo/core/compiler/context/mod.rs", "src/cargo/core/compiler/crate_type.rs", "src/cargo/core/compiler/fingerprint.rs", "src/cargo/core/compiler/fingerprint/dirty_reason.rs"]

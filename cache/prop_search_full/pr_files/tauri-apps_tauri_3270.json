@@ -1,0 +1,1 @@
+[".changes/refactor-dialog-apis.md", "core/tauri/src/api/dialog.rs", "core/tauri/src/endpoints/dialog.rs", "core/tauri/src/endpoints/notification.rs", "core/tauri/src/updater/mod.rs", "examples/api/src-tauri/Cargo.lock"]

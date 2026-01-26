@@ -1,0 +1,1 @@
+[".changelog/unreleased/features/113-ccv-protos.md", "scripts/sync-protobuf.sh", "src/COSMOS_ICS_COMMIT", "src/INTERCHAIN_SECURITY_COMMIT", "src/lib.rs", "src/prost/cosmos.evidence.v1beta1.rs", "src/prost/interchain_security.ccv.consumer.v1.rs", "src/prost/interchain_security.ccv.provider.v1.rs", "src/prost/interchain_security.ccv.v1.rs", "src/prost/proto_descriptor.bin"]

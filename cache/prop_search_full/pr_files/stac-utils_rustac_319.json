@@ -1,0 +1,1 @@
+["stac/CHANGELOG.md", "stac/src/io.rs", "stac/src/io/geoparquet.rs", "stac/src/io/json.rs", "stac/src/io/mod.rs", "stac/src/item.rs", "stac/src/lib.rs", "stac/src/migrate.rs"]

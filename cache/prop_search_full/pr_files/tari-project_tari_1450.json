@@ -1,0 +1,1 @@
+["base_layer/wallet/src/transaction_service/service.rs", "base_layer/wallet/src/transaction_service/storage/database.rs", "base_layer/wallet/src/transaction_service/storage/sqlite_db.rs", "base_layer/wallet/tests/transaction_service/storage.rs", "base_layer/wallet_ffi/src/lib.rs", "base_layer/wallet_ffi/wallet.h"]

@@ -1,0 +1,1 @@
+[".clusterfuzzlite/Dockerfile", ".clusterfuzzlite/build.sh", ".clusterfuzzlite/project.yaml", ".github/workflows/ci.yml", ".github/workflows/fuzz-build.yml", ".github/workflows/fuzz-cron.yml", ".github/workflows/fuzz-pr.yml", "fuzz/Cargo.toml"]

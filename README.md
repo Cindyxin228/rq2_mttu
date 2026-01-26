@@ -205,6 +205,27 @@ cargo run --release --bin rqx2_rustsec_batch -- \
 - 传播事件明细 CSV（可选）：由 `--propagation-events-output <PATH>` 指定（建议：`./outputs/propagation/propagation_events_raw.csv`）
   - 记录传播边的采样明细（用于抽样校验/复现）
 
+#### 仅生成 Hop=1 的传播事件全量明细（不覆盖现有 outputs/propagation）
+
+如果你只需要 **Hop=1 的传播事件全量 CSV**（用于后续抓取下游修复 PR / 修复类型分类），可以单独再跑一遍批处理，并把输出写到一个新的目录，避免影响你已有的报告与图：
+
+```bash
+cargo run --release --bin rqx2_rustsec_batch -- \
+  --propagation \
+  --propagation-max-hops 1 \
+  --propagation-summary-output outputs/propagation_hop1/rustsec_rqx2_propagation_summary_hop1.txt \
+  --propagation-output-dir outputs/propagation_hop1/rustsec_rqx2_propagation_svgs_hop1 \
+  --propagation-events-output outputs/propagation_hop1/propagation_events_hop1_full.csv \
+  --log-output outputs/propagation_hop1/rqx2_rustsec_batch_hop1.log
+```
+
+产物说明：
+
+- `outputs/propagation_hop1/propagation_events_hop1_full.csv`：Hop=1 传播事件全量明细（预期行数与 `propagation_summary` 中 hop=1 count 一致）
+- `outputs/propagation_hop1/rustsec_rqx2_propagation_summary_hop1.txt`：Hop=1 统计摘要（count/min/p50/avg/max）
+- `outputs/propagation_hop1/rustsec_rqx2_propagation_svgs_hop1/`：Hop=1 的直方图 SVG
+- `outputs/propagation_hop1/rqx2_rustsec_batch_hop1.log`：日志（含回退原因、进度等）
+
 链条断裂率（需要 `--constraint`）：
 
 - 断裂率逐公告明细 CSV：`./outputs/constraint/rustsec_rqx2_constraint_breakdown.csv`（可用 `--constraint-breakdown-output` 改名）

@@ -1,0 +1,1 @@
+["cairo/src/pdf.rs", "cairo/src/svg.rs", "gio/src/lib.rs", "gio/src/socket.rs", "gio/src/subprocess_launcher.rs", "gio/src/unix_mount_point.rs", "glib/src/source.rs", "glib/src/source_futures.rs"]

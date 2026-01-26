@@ -1,0 +1,1 @@
+["CHANGELOG.md", "daemon/lib.rs", "daemon/pid.rs", "daemon/state_helper.rs", "lib/src/network/platform/unix/socket.rs", "lib/src/settings.rs", "lib/tests/helper.rs", "tests/fixtures/daemon.rs", "tests/helper/daemon.rs", "tests/unix/environment_variables.rs", "tests/unix/restore.rs", "tests/unix/shutdown.rs"]

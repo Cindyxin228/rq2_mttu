@@ -1,0 +1,1 @@
+["helpers/Cargo.toml", "helpers/tests/dynamodb.rs", "integration_tests/Cargo.toml", "integration_tests/tests/s3.rs", "integration_tests/tests/xray.rs", "rusoto/core/Cargo.toml", "rusoto/core/src/lib.rs", "rusoto/signature/Cargo.toml", "rusoto/signature/src/signature.rs"]

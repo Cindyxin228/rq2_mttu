@@ -1,0 +1,1 @@
+["core/src/executor/aggregate/mod.rs", "core/src/executor/aggregate/state.rs", "test-suite/src/aggregate/min.rs", "test-suite/src/aggregate/sum.rs", "test-suite/src/arithmetic/error.rs", "test-suite/src/inline_view.rs"]

@@ -1,0 +1,1 @@
+["scripts/data/lints.rs", "src/config/src/lib.rs", "src/core/src/lib.rs", "src/core/src/modules/show_commit/mod.rs", "src/core/src/util.rs", "src/display/src/lib.rs", "src/git/src/lib.rs", "src/git/src/repository.rs", "src/input/src/lib.rs", "src/main.rs", "src/runtime/src/lib.rs", "src/testutils/src/lib.rs", "src/todo_file/src/lib.rs", "src/view/src/lib.rs"]

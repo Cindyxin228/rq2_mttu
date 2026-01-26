@@ -1,0 +1,1 @@
+["Cargo.lock", "catalogs/iceberg-rest-catalog/Cargo.toml", "catalogs/iceberg-rest-catalog/src/apis/configuration.rs", "catalogs/iceberg-rest-catalog/src/apis/mod.rs", "catalogs/iceberg-rest-catalog/src/catalog.rs", "catalogs/iceberg-rest-catalog/src/error.rs", "datafusion_iceberg/Cargo.toml", "datafusion_iceberg/tests/integration_trino.rs"]

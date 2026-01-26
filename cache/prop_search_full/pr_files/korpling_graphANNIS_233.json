@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/src/graph/serialization/graphml.rs", "graphannis/src/annis/db/aql/operators/mod.rs", "graphannis/src/annis/db/corpusstorage.rs", "graphannis/src/annis/db/corpusstorage/tests.rs", "graphannis/tests/SegmentationWithGaps.graphml", "tmp/test.toml"]

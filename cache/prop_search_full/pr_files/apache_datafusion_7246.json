@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/projection.rs", "datafusion/core/src/physical_plan/repartition/mod.rs", "datafusion/core/tests/sqllogictests/test_files/select.slt"]

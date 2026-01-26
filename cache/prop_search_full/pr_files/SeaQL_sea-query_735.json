@@ -1,0 +1,1 @@
+["sea-query-binder/src/sqlx_sqlite.rs", "src/backend/sqlite/table.rs", "src/lib.rs", "src/prepare.rs", "src/table/create.rs", "tests/sqlite/table.rs"]

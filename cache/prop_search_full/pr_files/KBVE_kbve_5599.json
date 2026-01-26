@@ -1,0 +1,1 @@
+["apps/kube/ingress/manifests/values.yaml", "apps/kube/irc/manifests/ergo-certificate.yaml", "apps/kube/irc/manifests/ergo-configmap.yaml", "apps/kube/irc/manifests/ergo-deployment.yaml", "apps/kube/irc/manifests/ergo-service.yaml"]

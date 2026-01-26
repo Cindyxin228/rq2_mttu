@@ -1,0 +1,1 @@
+["acceptance/src/meta.rs", "kernel/examples/dump-table/src/main.rs", "kernel/examples/inspect-table/src/main.rs", "kernel/src/scan/mod.rs", "kernel/src/snapshot.rs", "kernel/src/table.rs", "kernel/tests/dv.rs", "kernel/tests/read.rs"]

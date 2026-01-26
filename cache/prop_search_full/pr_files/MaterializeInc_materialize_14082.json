@@ -1,0 +1,1 @@
+["src/sql-parser/src/ast/defs/ddl.rs", "src/sql-parser/src/ast/defs/statement.rs", "src/sql-parser/src/parser.rs", "src/sql-parser/tests/testdata/ddl", "src/sql/src/normalize.rs", "src/sql/src/plan/statement/ddl.rs", "test/cluster/storaged/01-create-sources.td"]

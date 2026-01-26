@@ -1,0 +1,1 @@
+["datafusion/functions-table/src/generate_series.rs", "datafusion/sqllogictest/test_files/table_functions.slt"]

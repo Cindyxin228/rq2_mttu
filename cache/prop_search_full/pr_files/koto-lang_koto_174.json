@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/core_lib/string.md", "justfile", "koto/tests/strings.koto", "src/runtime/src/core/string.rs"]

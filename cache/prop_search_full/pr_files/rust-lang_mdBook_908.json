@@ -1,0 +1,1 @@
+["src/book/book.rs", "src/book/init.rs", "src/book/mod.rs", "src/book/summary.rs", "src/cmd/build.rs", "src/cmd/clean.rs", "src/cmd/init.rs", "src/cmd/serve.rs", "src/cmd/watch.rs", "src/lib.rs", "src/preprocess/links.rs", "src/renderer/html_handlebars/hbs_renderer.rs", "src/renderer/html_handlebars/helpers/navigation.rs", "src/utils/mod.rs", "tests/rendered_output.rs"]

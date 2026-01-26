@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "LICENSE", "src/domain/imap/imap_service.rs", "src/domain/msg/msg_arg.rs", "src/domain/msg/msg_handler.rs", "src/domain/msg/tpl_arg.rs", "src/domain/msg/tpl_handler.rs", "src/main.rs", "vim/README.md", "vim/autoload/himalaya/msg.vim", "vim/ftplugin/himalaya-msg-write.vim"]

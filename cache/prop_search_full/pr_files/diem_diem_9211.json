@@ -1,0 +1,1 @@
+["language/diem-framework/tests/CurrenciesTests.move", "language/diem-framework/tests/SignatureTests.move", "language/move-lang/functional-tests/tests/diem/errors/basic.move", "language/move-lang/functional-tests/tests/diem/natives/signature.move", "language/move-stdlib/tests/ErrorsTests.move"]

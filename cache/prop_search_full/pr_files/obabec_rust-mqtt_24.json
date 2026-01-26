@@ -1,0 +1,1 @@
+["src/client/client.rs", "src/client/client_config.rs", "src/packet/v5/connect_packet.rs", "src/packet/v5/publish_packet.rs", "tests/integration_test_single.rs", "tests/load_test.rs"]

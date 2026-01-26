@@ -1,0 +1,1 @@
+["src/admin.rs", "src/client.rs", "src/consumer/base_consumer.rs", "src/consumer/mod.rs", "src/consumer/stream_consumer.rs", "src/error.rs", "src/message.rs", "src/producer/base_producer.rs", "src/util.rs", "tests/test_high_consumers.rs", "tests/test_low_consumers.rs", "tests/test_metadata.rs"]

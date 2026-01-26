@@ -1,0 +1,1 @@
+["src/framework/standard/mod.rs", "src/framework/standard/parse/mod.rs", "src/gateway/bridge/shard_manager.rs", "src/gateway/bridge/shard_queuer.rs", "src/http/ratelimiting.rs", "src/model/misc.rs", "src/utils/mod.rs", "src/utils/quick_modal.rs"]

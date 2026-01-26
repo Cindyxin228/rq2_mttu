@@ -1,0 +1,1 @@
+["datafusion/proto/Cargo.toml", "datafusion/proto/README.md", "datafusion/proto/examples/plan_serde.rs", "datafusion/proto/src/bytes/mod.rs", "datafusion/proto/src/lib.rs", "datafusion/proto/src/logical_plan.rs"]

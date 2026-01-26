@@ -1,0 +1,1 @@
+["crates/components/src/lib.rs", "crates/components/src/sidebar.rs", "crates/core/src/events/event_name.rs", "crates/hooks/src/theming/dark.rs", "crates/hooks/src/theming/light.rs", "crates/hooks/src/theming/mod.rs", "examples/router.rs", "examples/sidebar.rs"]

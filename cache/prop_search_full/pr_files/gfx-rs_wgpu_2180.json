@@ -1,0 +1,1 @@
+["wgpu-core/src/device/mod.rs", "wgpu-core/src/resource.rs", "wgpu-hal/src/metal/device.rs", "wgpu/src/backend/direct.rs", "wgpu/src/lib.rs"]

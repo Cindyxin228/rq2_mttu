@@ -1,0 +1,1 @@
+["Cargo.toml", "src/actions/config.rs", "src/actions/install.rs", "src/actions/mod.rs", "src/actions/prepare_commit_msg.rs", "src/main.rs", "src/openai.rs", "src/settings.rs", "src/summarize.rs"]

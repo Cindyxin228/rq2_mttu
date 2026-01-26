@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/tests/mangle.rs", "crates/swc_ecma_parser/src/lib.rs", "crates/swc_ecma_parser/src/parser/stmt.rs", "crates/swc_ecma_parser/tests/typescript/next/stack-overflow/1/input.ts", "crates/swc_ecma_parser/tests/typescript/next/stack-overflow/1/input.ts.json"]

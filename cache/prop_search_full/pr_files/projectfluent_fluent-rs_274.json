@@ -1,0 +1,1 @@
+["fluent-bundle/src/args.rs", "fluent-bundle/src/entry.rs", "fluent-bundle/src/memoizer.rs", "fluent-bundle/src/resolver/errors.rs", "fluent-bundle/src/resolver/mod.rs", "fluent-bundle/src/resolver/scope.rs", "fluent-bundle/src/types/mod.rs", "fluent-syntax/src/ast/mod.rs"]

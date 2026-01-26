@@ -1,0 +1,1 @@
+["crates/nu-cmd-lang/src/core_commands/collect.rs", "crates/nu-cmd-lang/src/core_commands/match_.rs", "crates/nu-command/src/hook.rs", "crates/nu-engine/src/eval.rs", "crates/nu-protocol/src/engine/stack.rs"]

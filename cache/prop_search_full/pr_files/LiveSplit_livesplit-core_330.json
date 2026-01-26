@@ -1,0 +1,1 @@
+["src/analysis/mod.rs", "src/analysis/pb_chance/mod.rs", "src/analysis/skill_curve.rs", "src/comparison/balanced_pb.rs", "src/comparison/goal.rs", "src/component/current_pace.rs", "src/component/detailed_timer/mod.rs", "src/component/segment_time/mod.rs", "src/settings/image/shrinking.rs"]

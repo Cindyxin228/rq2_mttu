@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/content/elements-attributes.md", "maud/tests/basic_syntax.rs", "maud/tests/warnings/void-element-slash.rs", "maud/tests/warnings/void-element-slash.stderr", "maud_macros/src/parse.rs"]

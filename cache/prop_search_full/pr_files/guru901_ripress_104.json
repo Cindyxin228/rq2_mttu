@@ -1,0 +1,1 @@
+["src/app/mod.rs", "src/helpers.rs", "src/middlewares/file_upload.rs", "src/middlewares/logger.rs", "src/req/body/text_data.rs", "src/req/mod.rs", "src/res/mod.rs", "src/tests/middleware_test.rs", "src/tests/response/mod.rs", "src/types.rs"]

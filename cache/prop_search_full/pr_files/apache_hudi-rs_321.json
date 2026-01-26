@@ -1,0 +1,1 @@
+["crates/core/src/config/util.rs", "crates/core/src/expr/filter.rs", "crates/core/src/file_group/mod.rs", "crates/core/src/file_group/reader.rs", "crates/core/src/table/mod.rs", "crates/core/src/util/mod.rs", "crates/datafusion/src/lib.rs", "demo/table-api-rust/src/main.rs", "python/src/internal.rs"]

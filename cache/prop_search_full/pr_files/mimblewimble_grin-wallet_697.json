@@ -1,0 +1,1 @@
+["controller/tests/contract_self_spend.rs", "controller/tests/contract_self_spend_custom.rs", "libwallet/src/api_impl/types.rs", "libwallet/src/contract/actions/sign.rs", "libwallet/src/contract/utils.rs", "libwallet/src/internal/updater.rs", "libwallet/src/types.rs"]

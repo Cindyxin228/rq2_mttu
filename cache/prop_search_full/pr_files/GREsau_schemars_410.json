@@ -1,0 +1,1 @@
+["schemars/tests/ui/invalid_attrs.rs", "schemars/tests/ui/invalid_attrs.stderr", "schemars_derive/src/attr/mod.rs", "schemars_derive/src/attr/schemars_to_serde.rs"]

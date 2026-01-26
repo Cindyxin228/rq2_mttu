@@ -1,0 +1,1 @@
+["src/aggregation/bucket/range.rs", "src/aggregation/collector.rs", "src/aggregation/metric/stats.rs", "src/aggregation/mod.rs", "src/query/boolean_query/block_wand.rs", "src/tokenizer/ascii_folding_filter.rs", "src/tokenizer/lower_caser.rs"]

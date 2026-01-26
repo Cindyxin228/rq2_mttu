@@ -1,0 +1,1 @@
+["src/formatters/luau.rs", "tests/inputs-luau/excess-parentheses.lua", "tests/snapshots/tests__luau@excess-parentheses.lua.snap", "tests/snapshots/tests__luau@type-callback-hang-parameters.lua.snap", "tests/snapshots/tests__luau_full_moon@named_function_arg_types.lua.snap", "tests/snapshots/tests__luau_full_moon@types_parentheses.lua.snap"]

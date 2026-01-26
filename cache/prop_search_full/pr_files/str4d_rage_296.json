@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/interop.yml", "Cargo.lock", "README.md", "age-core/CHANGELOG.md", "age-plugin/CHANGELOG.md", "age/CHANGELOG.md", "age/Cargo.toml", "age/src/cli_common.rs", "age/src/ssh.rs", "rage/CHANGELOG.md", "rage/Cargo.toml", "rage/examples/generate-completions.rs", "rust-toolchain"]

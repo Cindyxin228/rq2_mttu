@@ -1,0 +1,1 @@
+["bindings/ruby/Gemfile", "bindings/ruby/Rakefile", "bindings/ruby/cucumber.yml", "bindings/ruby/tests/binding.feature", "bindings/ruby/tests/opendal_test.rb", "bindings/ruby/tests/steps/binding.rb", "bindings/ruby/tests/test_helper.rb"]

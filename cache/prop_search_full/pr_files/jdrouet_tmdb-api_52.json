@@ -1,0 +1,1 @@
+[".gitignore", "assets/collection-details.json", "assets/refresh.sh", "readme.md", "src/collection/details.rs", "src/collection/mod.rs", "src/genre/list.rs", "src/genre/mod.rs", "src/lib.rs", "src/movie/images.rs", "src/movie/latest.rs", "src/movie/lists.rs", "src/movie/mod.rs", "src/movie/now_playing.rs", "src/movie/search.rs", "src/movie/upcoming.rs", "src/tvshow/search.rs"]

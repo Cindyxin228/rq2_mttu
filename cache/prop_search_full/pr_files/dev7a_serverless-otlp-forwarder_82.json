@@ -1,0 +1,1 @@
+["benchmark/functions/rust/grpc/Cargo.toml", "benchmark/functions/rust/grpc/src/main.rs", "benchmark/functions/rust/http/Cargo.toml", "benchmark/functions/rust/http/src/main.rs", "benchmark/functions/rust/stdout/Cargo.toml", "benchmark/functions/rust/stdout/src/main.rs", "benchmark/proxy/src/main.rs", "benchmark/template.yaml"]

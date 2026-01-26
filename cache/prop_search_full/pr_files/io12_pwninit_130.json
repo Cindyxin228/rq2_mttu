@@ -1,0 +1,1 @@
+["src/lib.rs", "src/libc_deb.rs", "src/libc_version.rs", "src/patch_bin.rs", "src/pwninit.rs", "src/solvepy.rs", "src/unstrip_libc.rs"]

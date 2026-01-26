@@ -1,0 +1,1 @@
+["lib/emscripten-tests/tests/emtests/_common.rs", "lib/emscripten/src/lib.rs", "lib/emscripten/src/utils.rs", "src/bin/wasmer.rs"]

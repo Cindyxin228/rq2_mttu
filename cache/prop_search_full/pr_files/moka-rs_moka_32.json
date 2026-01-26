@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", ".vscode/settings.json", "CHANGELOG.md", "Cargo.toml", "README.md", "src/future/cache.rs", "src/lib.rs", "tests/ui/future/get_with_non_send_future.rs", "tests/ui/future/get_with_non_send_future.stderr", "tests/ui/future/get_with_non_static_future.rs", "tests/ui/future/get_with_non_static_future.stderr"]

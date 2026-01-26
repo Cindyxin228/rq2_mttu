@@ -1,0 +1,1 @@
+[".github/workflows/bindings_cpp.yml", ".github/workflows/docs.yml", "Cargo.lock", "bindings/cpp/CMakeLists.txt", "bindings/cpp/CONTRIBUTING.md", "bindings/cpp/Cargo.toml", "bindings/cpp/include/opendal.hpp", "bindings/cpp/src/lib.rs", "bindings/cpp/src/opendal.cpp", "bindings/cpp/tests/basic_test.cpp"]

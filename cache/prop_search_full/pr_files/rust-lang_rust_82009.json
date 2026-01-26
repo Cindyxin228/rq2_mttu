@@ -1,0 +1,1 @@
+["compiler/rustc_middle/src/ty/error.rs", "compiler/rustc_mir/src/const_eval/eval_queries.rs", "src/test/ui/const-generics/issue-79518-default_trait_method_normalization.rs", "src/test/ui/const-generics/issue-79518-default_trait_method_normalization.stderr"]

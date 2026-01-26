@@ -1,0 +1,1 @@
+["Cargo.lock", "wonnx-py/Cargo.toml", "wonnx-py/pyproject.toml", "wonnx-py/tests/test_onnx_backend.py", "wonnx/src/compiler.rs", "wonnx/templates/pool/aggregate.wgsl"]

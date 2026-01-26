@@ -1,0 +1,1 @@
+["opentelemetry-appender-log/src/lib.rs", "opentelemetry-appender-tracing/src/layer.rs", "opentelemetry-sdk/benches/log.rs", "opentelemetry-sdk/src/logs/mod.rs", "opentelemetry-sdk/src/logs/record.rs", "opentelemetry-stdout/src/logs/transform.rs", "opentelemetry/src/logs/noop.rs", "opentelemetry/src/logs/record.rs"]

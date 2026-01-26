@@ -1,0 +1,1 @@
+[".cargo/config.toml", "build.rs", "e2e/backend/test_terraform", "e2e/shell/test_bash", "registry.toml", "src/backend/mod.rs", "src/registry.rs"]

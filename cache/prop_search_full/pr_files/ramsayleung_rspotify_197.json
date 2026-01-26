@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/client.rs", "src/http/mod.rs", "src/http/reqwest.rs", "src/http/ureq.rs", "src/lib.rs", "src/model/enums/country.rs", "src/model/enums/types.rs", "src/oauth2.rs"]

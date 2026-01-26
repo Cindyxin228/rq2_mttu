@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/commands/bug_report.rs", "src/commands/mod.rs", "src/commands/navigation.rs", "src/commands/smartlog.rs", "src/commands/undo.rs", "src/opts.rs", "tests/command/test_init.rs", "tests/command/test_smartlog.rs"]

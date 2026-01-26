@@ -1,0 +1,1 @@
+["opentelemetry-prometheus/CHANGELOG.md", "opentelemetry-prometheus/Cargo.toml", "opentelemetry-prometheus/README.md", "opentelemetry-prometheus/examples/hyper.rs", "opentelemetry-prometheus/src/lib.rs", "opentelemetry-prometheus/src/resource_selector.rs", "opentelemetry-prometheus/src/utils.rs", "opentelemetry-prometheus/tests/integration_test.rs"]

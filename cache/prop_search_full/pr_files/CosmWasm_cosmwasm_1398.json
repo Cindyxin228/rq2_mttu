@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "README.md", "devtools/check_workspace.sh", "packages/check/Cargo.toml", "packages/check/README.md", "packages/check/src/main.rs", "packages/cw-check-contract/README.md", "packages/profiler/src/instrumentation.rs", "packages/vm/examples/check_contract.rs", "packages/vm/src/modules/versioning.rs"]

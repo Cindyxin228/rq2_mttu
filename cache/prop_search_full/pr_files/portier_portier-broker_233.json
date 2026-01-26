@@ -1,0 +1,1 @@
+["Cargo.lock", "src/agents/key_manager/manual.rs", "src/agents/store/redis.rs", "src/email_address.rs", "src/handlers/auth.rs", "src/utils/redis/pubsub.rs", "tests/e2e/package.json", "tests/e2e/src/broker.ts", "tests/e2e/yarn.lock"]

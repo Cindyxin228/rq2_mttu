@@ -1,0 +1,1 @@
+["examples/compute-versions.rs", "examples/list-baremetal.rs", "examples/list-servers-paginated.rs", "examples/list-servers.rs", "examples/object-store.rs", "src/adapter.rs", "src/client.rs", "src/identity/password.rs", "src/loading/cloud.rs", "src/session.rs", "src/sync.rs"]

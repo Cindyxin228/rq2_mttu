@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/pod_shell_crossterm.rs", "kube-client/src/api/mod.rs", "kube-client/src/api/remote_command.rs"]

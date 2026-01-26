@@ -1,0 +1,1 @@
+[".gitignore", ".pre-commit-config.yaml", "common.sh", "go/README.md", "go/build.sh", "go/main.go", "go/update_version.sh", "go/vault/vault.go", "go/vault/version.go"]

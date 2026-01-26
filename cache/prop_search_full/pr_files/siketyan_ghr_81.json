@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ghr.example.toml", "src/cmd/clone.rs", "src/cmd/delete.rs", "src/cmd/init.rs", "src/cmd/open.rs", "src/cmd/path.rs", "src/config.rs", "src/git/strategy/cli.rs", "src/url.rs"]

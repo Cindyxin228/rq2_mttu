@@ -1,0 +1,1 @@
+["Cargo.toml", "src/read/fs.rs", "src/read/mem.rs", "src/read/mod.rs", "src/read/stream.rs", "src/read/sync.rs", "src/spec/compression.rs", "src/spec/date.rs", "src/spec/mod.rs", "src/spec/version.rs", "src/tests/mod.rs", "src/write/compressed_writer.rs", "src/write/entry_stream.rs", "src/write/entry_whole.rs", "src/write/mod.rs"]

@@ -1,0 +1,1 @@
+["src/db.rs", "src/lib.rs", "src/parse/kdb.rs", "src/parse/kdbx3.rs", "src/parse/kdbx4.rs", "src/xml_db/dump/mod.rs", "src/xml_db/mod.rs", "src/xml_db/parse/entry.rs", "src/xml_db/parse/group.rs", "src/xml_db/parse/meta.rs", "src/xml_db/parse/mod.rs", "src/xml_parse.rs", "tests/entry_tests.rs", "tests/file_read_tests.rs", "tests/resources/inner_xml_with_custom_fields.xml"]

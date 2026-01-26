@@ -1,0 +1,1 @@
+["yazi-boot/src/boot.rs", "yazi-config/preset/theme.toml", "yazi-config/src/lib.rs", "yazi-config/src/preset.rs", "yazi-config/src/preview/preview.rs", "yazi-config/src/theme/flavor.rs", "yazi-config/src/theme/mod.rs", "yazi-config/src/theme/theme.rs", "yazi-core/src/lib.rs", "yazi-fm/src/logs.rs", "yazi-shared/src/ro_cell.rs", "yazi-shared/src/xdg.rs"]

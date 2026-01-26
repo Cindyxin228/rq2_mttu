@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lib.rs", "src/mediatypes.rs", "src/v2/auth.rs", "src/v2/blobs.rs", "src/v2/catalog.rs", "src/v2/manifest/mod.rs", "src/v2/mod.rs", "src/v2/tags.rs"]

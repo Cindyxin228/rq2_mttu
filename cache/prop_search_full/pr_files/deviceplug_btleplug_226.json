@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "src/winrtble/bindings.rs", "src/winrtble/ble/characteristic.rs", "src/winrtble/ble/device.rs", "src/winrtble/ble/watcher.rs", "src/winrtble/manager.rs", "src/winrtble/mod.rs", "src/winrtble/peripheral.rs", "src/winrtble/utils.rs"]

@@ -1,0 +1,1 @@
+["s3/Cargo.toml", "s3/src/bucket.rs", "s3/src/lib.rs", "s3/src/smol_request.rs", "s3/src/utils.rs"]

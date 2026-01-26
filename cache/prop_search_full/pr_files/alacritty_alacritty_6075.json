@@ -1,0 +1,1 @@
+["Cargo.lock", "alacritty/Cargo.toml", "alacritty/res/glsl3/text.f.glsl", "alacritty/res/glsl3/text.v.glsl", "alacritty/res/rect.f.glsl", "alacritty/src/renderer/mod.rs", "alacritty/src/renderer/text/gles2.rs", "alacritty/src/renderer/text/glsl3.rs", "alacritty/src/renderer/text/mod.rs"]

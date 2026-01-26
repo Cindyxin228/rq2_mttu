@@ -1,0 +1,1 @@
+["Cargo.lock", "rocketmq-broker/src/bin/broker_bootstrap_server.rs", "rocketmq-broker/src/processor/notification_processor.rs", "rocketmq-broker/src/processor/query_assignment_processor.rs", "rocketmq-broker/src/util/hook_utils.rs"]

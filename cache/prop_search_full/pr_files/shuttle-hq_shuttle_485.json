@@ -1,0 +1,1 @@
+["Makefile", "docker-compose.yml", "gateway/Cargo.toml", "gateway/src/project.rs", "gateway/src/service.rs", "gateway/src/task.rs"]

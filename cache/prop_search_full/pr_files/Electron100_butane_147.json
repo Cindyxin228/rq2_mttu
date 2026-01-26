@@ -1,0 +1,1 @@
+["butane_cli/tests/embed.rs", "butane_core/src/codegen/mod.rs", "butane_core/src/db/sqlite.rs", "butane_core/tests/connection.rs", "butane_core/tests/transactions.rs"]

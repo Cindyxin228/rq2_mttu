@@ -1,0 +1,1 @@
+[".changelog/unreleased/improvements/ibc-relayer-cli/3913-config-auto-pull.md", "crates/chain-registry/src/error.rs", "crates/chain-registry/src/querier.rs", "crates/relayer-cli/src/chain_registry.rs", "crates/relayer-cli/src/commands/config/auto.rs", "crates/relayer/src/config.rs"]

@@ -1,0 +1,1 @@
+["player/src/lib.rs", "wgpu-core/src/command/clear.rs", "wgpu-core/src/device/trace.rs", "wgpu/src/backend/direct.rs", "wgpu/src/backend/web.rs", "wgpu/src/lib.rs"]

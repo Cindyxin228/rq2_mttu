@@ -1,0 +1,1 @@
+["docs/src/checks/bans/cfg.md", "docs/src/checks/licenses/cfg.md", "src/bans.rs", "src/bans/cfg.rs", "src/lib.rs", "src/licenses.rs", "src/licenses/cfg.rs", "src/licenses/gather.rs", "tests/cfg/licenses.toml"]

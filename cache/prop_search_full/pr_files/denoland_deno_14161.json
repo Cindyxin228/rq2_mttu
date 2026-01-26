@@ -1,0 +1,1 @@
+["cli/standalone.rs", "cli/tests/integration/compile_tests.rs", "cli/tests/testdata/standalone_follow_redirects.ts", "cli/tests/testdata/standalone_follow_redirects_2.js"]

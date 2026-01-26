@@ -1,0 +1,1 @@
+["wnfs-common/src/metadata.rs", "wnfs/examples/README.md", "wnfs/examples/file_variants.rs", "wnfs/examples/private.rs", "wnfs/examples/write_proofs.rs", "wnfs/src/private/file.rs", "wnfs/src/public/directory.rs", "wnfs/src/public/file.rs", "wnfs/src/public/node/node.rs", "wnfs/src/utils/test.rs"]

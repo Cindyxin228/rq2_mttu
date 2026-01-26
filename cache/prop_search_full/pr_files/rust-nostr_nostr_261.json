@@ -1,0 +1,1 @@
+["bindings/nostr-ffi/src/message/subscription.rs", "bindings/nostr-js/src/message/subscription.rs", "crates/nostr-database/src/index.rs", "crates/nostr-database/src/tag_indexes.rs", "crates/nostr/src/lib.rs", "crates/nostr/src/message/mod.rs", "crates/nostr/src/message/subscription.rs"]

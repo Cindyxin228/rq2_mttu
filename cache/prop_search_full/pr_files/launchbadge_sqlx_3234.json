@@ -1,0 +1,1 @@
+[".github/workflows/sqlx.yml", "rust-toolchain.toml", "sqlx-mysql/src/io/buf.rs", "sqlx-postgres/src/copy.rs", "sqlx-postgres/src/lib.rs"]

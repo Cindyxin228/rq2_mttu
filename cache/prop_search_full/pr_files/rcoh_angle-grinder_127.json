@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "tests/integration.rs", "tests/structured_tests/agg_of_agg.toml", "tests/structured_tests/count_conditional.toml", "tests/structured_tests/fields_except.toml", "tests/structured_tests/json_from.toml", "tests/structured_tests/parse_plain.toml"]

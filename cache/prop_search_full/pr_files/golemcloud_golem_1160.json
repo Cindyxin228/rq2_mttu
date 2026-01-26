@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "golem-cli/Cargo.toml", "golem-worker-executor-base/Cargo.toml", "golem-worker-executor-base/src/grpc.rs", "golem-worker-executor-base/src/storage/indexed/sqlite.rs", "golem-worker-executor-base/tests/indexed_storage.rs"]

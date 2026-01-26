@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "codecov.yml", "vagrant/.gitignore", "vagrant/README.md", "vagrant/boxes/.gitignore", "vagrant/freebsd-14/Vagrantfile", "vagrant/lib/base_config.rb", "vagrant/lib/rust_installer.rb", "vagrant/openbsd-7.5/Vagrantfile", "vagrant/ubuntu-22.04/Vagrantfile", "vagrant/ubuntu-24.04/Vagrantfile"]

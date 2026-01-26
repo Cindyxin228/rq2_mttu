@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "auditor/Cargo.toml", "collectors/htcondor/pyproject.toml", "collectors/slurm-epilog/Cargo.toml", "collectors/slurm/Cargo.toml", "plugins/apel/pyproject.toml", "plugins/priority/Cargo.toml", "pyauditor/Cargo.toml", "rpm/auditor-priority-plugin.spec", "rpm/auditor-slurm-collector.spec", "rpm/auditor-slurm-epilog-collector.spec", "rpm/auditor.spec"]

@@ -1,0 +1,1 @@
+[".gitignore", "packages/const-serialize/src/lib.rs", "packages/core/src/nodes.rs", "packages/dioxus/src/launch.rs", "packages/html/src/events/mounted.rs", "packages/logger/src/lib.rs", "packages/router/src/contexts/outlet.rs", "packages/wasm-split/wasm-split-macro/src/lib.rs", "packages/wasm-split/wasm-split/src/lib.rs"]

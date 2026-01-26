@@ -1,0 +1,1 @@
+["kanidm_book/src/oauth2.md", "kanidm_client/tests/oauth2_test.rs", "kanidm_proto/src/oauth2.rs", "kanidmd/src/lib/actors/v1_read.rs", "kanidmd/src/lib/core/https/mod.rs", "kanidmd/src/lib/core/https/oauth2.rs", "kanidmd/src/lib/idm/oauth2.rs", "kanidmd/src/lib/idm/server.rs"]

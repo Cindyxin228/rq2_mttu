@@ -1,0 +1,1 @@
+["boards/metro_m0/examples/blinky_rtic.rs", "hal/Cargo.toml", "hal/src/interrupt.rs", "hal/src/lib.rs", "hal/src/prelude.rs", "hal/src/rtc/mod.rs", "hal/src/rtc/modes.rs", "hal/src/rtc/rtic/backends.rs", "hal/src/rtc/rtic/mod.rs"]

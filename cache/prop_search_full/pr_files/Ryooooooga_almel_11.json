@@ -1,0 +1,1 @@
+["src/prompt.rs", "src/segments/dir.rs", "src/segments/git/head_status.rs", "src/segments/git/mod.rs", "src/segments/git/user.rs", "src/segments/mod.rs", "src/segments/newline.rs", "src/segments/os.rs", "src/segments/user.rs", "src/shell.rs"]

@@ -1,0 +1,1 @@
+["protocol/src/codec/encoder.rs", "protocol/src/message/amqp/types/descriptor.rs", "protocol/src/message/amqp/types/primitives/simple.rs", "src/client/message.rs", "src/client/mod.rs"]

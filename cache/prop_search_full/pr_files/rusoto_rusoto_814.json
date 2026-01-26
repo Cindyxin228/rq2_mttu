@@ -1,0 +1,1 @@
+["rusoto/core/build.rs", "rusoto/core/src/lib.rs", "rusoto/core/src/param.rs", "rusoto/core/src/region.rs", "rusoto/core/src/request.rs", "rusoto/core/src/signature.rs"]

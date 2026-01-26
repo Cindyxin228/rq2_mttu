@@ -1,0 +1,1 @@
+["api/src/foreign.rs", "api/src/foreign_rpc.rs", "api/src/owner.rs", "api/src/owner_rpc.rs", "libwallet/src/api_impl/foreign.rs", "libwallet/src/api_impl/owner.rs", "libwallet/src/slate.rs"]

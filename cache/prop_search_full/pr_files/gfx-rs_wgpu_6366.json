@@ -1,0 +1,1 @@
+[".deny.toml", ".github/pull_request_template.md", ".github/workflows/ci.yml", "cts_runner/Cargo.toml", "naga/xtask/Cargo.toml", "player/Cargo.toml", "rustfmt.toml", "taplo.toml", "wgpu-hal/Cargo.toml", "xtask/Cargo.toml"]

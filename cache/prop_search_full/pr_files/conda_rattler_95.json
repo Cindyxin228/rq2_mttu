@@ -1,0 +1,1 @@
+["crates/rattler_solve/src/libsolv/wrapper/mod.rs", "crates/rattler_solve/src/libsolv/wrapper/queue.rs", "crates/rattler_solve/src/libsolv/wrapper/solvable.rs", "crates/rattler_solve/src/libsolv/wrapper/solve_problem.rs", "crates/rattler_solve/src/libsolv/wrapper/solver.rs"]

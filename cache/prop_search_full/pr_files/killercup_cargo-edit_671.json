@@ -1,0 +1,1 @@
+["crates/cargo-add/src/bin/cargo/commands/add.rs", "crates/cargo-add/src/cargo/ops/cargo_add/manifest.rs", "crates/cargo-add/src/cargo/ops/cargo_add/mod.rs", "crates/cargo-add/src/cargo/ops/mod.rs", "crates/cargo-add/tests/snapshots/add/target.out/Cargo.toml", "crates/cargo-add/tests/snapshots/add/target_cfg.out/Cargo.toml"]

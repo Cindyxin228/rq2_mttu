@@ -1,0 +1,1 @@
+["examples/fs.rs", "examples/s3.rs", "src/services/fs/backend.rs", "src/services/fs/error.rs", "src/services/fs/mod.rs", "src/services/fs/object_stream.rs", "src/services/memory/backend.rs", "src/services/memory/mod.rs", "src/services/s3/mod.rs"]

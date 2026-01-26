@@ -1,0 +1,1 @@
+["parquet/src/arrow/array_reader/mod.rs", "parquet/src/arrow/arrow_writer/byte_array.rs", "parquet/src/bin/parquet-fromcsv-help.txt", "parquet/src/bin/parquet-fromcsv.rs", "parquet/src/bin/parquet-show-bloom-filter.rs", "parquet/src/bloom_filter/mod.rs", "parquet/src/column/writer/encoder.rs", "parquet/src/column/writer/mod.rs", "parquet/src/file/properties.rs"]

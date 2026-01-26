@@ -1,0 +1,1 @@
+["cli/deploy/juno_testnet-deployInfo.json", "cli/deploy/juno_testnet-uploadInfo.json", "cli/interfaces/Proxy.types.ts", "contracts/proxy/schema/vectis-proxy.json", "contracts/proxy/src/contract.rs", "contracts/proxy/src/query.rs", "contracts/proxy/src/state.rs", "contracts/proxy/src/tests.rs", "packages/vectis/src/func/factory.rs", "packages/vectis/src/types/wallet.rs"]

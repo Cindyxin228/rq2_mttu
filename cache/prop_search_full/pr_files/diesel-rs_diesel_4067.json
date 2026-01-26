@@ -1,0 +1,1 @@
+["diesel_cli/src/config.rs", "diesel_cli/src/database.rs", "diesel_cli/src/errors.rs", "diesel_cli/src/main.rs", "diesel_cli/src/migrations/diff_schema.rs", "diesel_cli/src/migrations/mod.rs", "diesel_cli/src/print_schema.rs"]

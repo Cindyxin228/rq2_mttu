@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "resources/main/specs/0007-n-tuple-omit-prefix-storage-layout.md", "src/cmd/mod.rs", "src/cmd/opts.rs", "src/ocfl/consts.rs", "src/ocfl/specs.rs", "src/ocfl/store/fs.rs", "src/ocfl/store/layout.rs", "src/ocfl/store/s3.rs"]

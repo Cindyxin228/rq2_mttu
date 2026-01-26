@@ -1,0 +1,1 @@
+[".github/ISSUE_TEMPLATE/bug_report.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "pueue/Cargo.toml", "pueue/src/daemon/network/socket.rs", "pueue_lib/Cargo.toml", "pueue_lib/src/error.rs", "pueue_lib/src/network/protocol.rs", "pueue_lib/tests/helper.rs"]

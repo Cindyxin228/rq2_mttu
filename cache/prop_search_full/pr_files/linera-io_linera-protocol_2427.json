@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/Cargo.lock", "linera-execution/src/wasm/wasmtime.rs", "linera-witty/src/runtime/wasmtime/export_function.rs", "linera-witty/src/runtime/wasmtime/function.rs"]

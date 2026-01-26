@@ -1,0 +1,1 @@
+["embassy-stm32/src/adc/v1.rs", "embassy-stm32/src/adc/watchdog_v1.rs", "examples/stm32f0/src/bin/adc-watchdog.rs"]

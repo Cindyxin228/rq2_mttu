@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/Cargo.toml", "command/Cargo.toml", "command/src/certificate.rs", "e2e/Cargo.toml", "lib/Cargo.toml", "lib/src/tls.rs"]

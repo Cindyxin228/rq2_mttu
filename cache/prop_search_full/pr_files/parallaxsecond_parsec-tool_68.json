@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/error.rs", "src/lib.rs", "src/subcommands/create_csr.rs", "src/subcommands/mod.rs", "src/subcommands/sign.rs", "src/util.rs", "tests/parsec-cli-tests.sh"]

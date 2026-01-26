@@ -1,0 +1,1 @@
+[".changes/refactor-runtime-window-event.md", ".changes/refactor-window-event.md", "core/tauri-runtime-wry/src/lib.rs", "core/tauri-runtime/src/lib.rs", "core/tauri-runtime/src/window.rs", "core/tauri/src/app.rs", "core/tauri/src/lib.rs", "core/tauri/src/manager.rs", "examples/api/src-tauri/Cargo.lock", "examples/api/src-tauri/src/main.rs"]

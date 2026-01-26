@@ -1,0 +1,1 @@
+[".github/workflows/publish.yml", ".github/workflows/test-burn-dataset.yml", ".github/workflows/test-burn-tensor.yml", ".github/workflows/test-burn.yml", "Cargo.toml", "README.md", "burn/examples/mnist.rs", "examples/mnist/Cargo.toml", "examples/mnist/src/data.rs", "examples/mnist/src/main.rs", "examples/mnist/src/model.rs", "examples/mnist/src/training.rs"]

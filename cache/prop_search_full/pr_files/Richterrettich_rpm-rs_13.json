@@ -1,0 +1,1 @@
+["src/lib.rs", "src/rpm/builder.rs", "src/rpm/package.rs", "src/rpm/signature/pgp.rs", "src/rpm/signature/traits.rs", "src/sequential_cursor.rs"]

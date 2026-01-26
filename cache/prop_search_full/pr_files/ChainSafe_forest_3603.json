@@ -1,0 +1,1 @@
+[".github/workflows/docs.yml", "Cargo.toml", "Makefile", "build/vendored-docs-redirect.index.html", "lychee.toml", "src/lib.rs", "src/shim/mod.rs", "src/utils/encoding/fallback_de_ipld_dagcbor.rs", "src/utils/encoding/mod.rs"]

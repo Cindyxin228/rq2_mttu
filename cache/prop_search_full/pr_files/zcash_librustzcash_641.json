@@ -1,0 +1,1 @@
+["components/zcash_note_encryption/Cargo.toml", "components/zcash_note_encryption/src/lib.rs", "zcash_primitives/src/sapling/note_encryption.rs"]

@@ -1,0 +1,1 @@
+["rustfmt.toml", "src/config.rs", "src/db.rs", "src/downloads.rs", "src/feeds.rs", "src/keymap.rs", "src/main.rs", "src/main_controller.rs", "src/opml.rs", "src/play_file.rs", "src/sanitizer.rs", "src/threadpool.rs", "src/types.rs", "src/ui/colors.rs", "src/ui/menu.rs", "src/ui/mock_panel.rs", "src/ui/mod.rs", "src/ui/notification.rs", "src/ui/panel.rs"]

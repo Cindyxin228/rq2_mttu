@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "src/bin/oneio.rs", "src/error.rs", "src/lib.rs", "src/oneio/bzip2.rs", "src/oneio/gzip.rs", "src/oneio/lz4.rs", "src/oneio/mod.rs", "tests/oneio_test.rs"]

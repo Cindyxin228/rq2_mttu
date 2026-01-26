@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion/common/Cargo.toml", "datafusion/core/Cargo.toml", "datafusion/core/tests/sql/explain_analyze.rs", "datafusion/expr/Cargo.toml", "datafusion/sql/Cargo.toml", "datafusion/sql/src/parser.rs", "datafusion/sql/src/planner.rs"]

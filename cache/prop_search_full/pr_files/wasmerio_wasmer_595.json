@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/plugin-for-example.wasm", "examples/plugin-for-example/README.md", "examples/plugin-for-example/src/main.rs", "examples/plugin.rs", "lib/wasi/src/lib.rs", "lib/wasi/src/state.rs", "lib/wasi/src/syscalls/mod.rs"]

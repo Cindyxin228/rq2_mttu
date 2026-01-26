@@ -1,0 +1,1 @@
+["bindings/ergo-lib-wasm/Cargo.toml", "bindings/ergo-lib-wasm/src/wallet.rs", "ergo-chain-generation/Cargo.toml", "ergo-lib/Cargo.toml", "ergo-rest/Cargo.toml", "ergotree-interpreter/Cargo.toml", "ergotree-ir/Cargo.toml", "gf2_192/Cargo.toml"]

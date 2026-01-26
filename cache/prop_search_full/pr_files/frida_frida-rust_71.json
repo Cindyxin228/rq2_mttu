@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "frida-build/src/lib.rs", "frida-gum/src/instruction_writer.rs", "frida-gum/src/memory_range.rs", "frida-gum/src/module_map.rs", "frida-gum/src/range_details.rs", "frida-gum/src/stalker/transformer.rs"]

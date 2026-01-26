@@ -1,0 +1,1 @@
+[".github/actions/setup-ffmpeg/action.yaml", ".github/actions/setup-rust/action.yaml", ".github/patch-docs.sh", ".github/workflows/ci.yaml", ".github/workflows/crate-release.yaml", "crates/bootstrap/telemetry/Cargo.toml", "crates/bootstrap/telemetry/src/lib.rs", "crates/settings/Cargo.toml", "crates/settings/src/lib.rs"]

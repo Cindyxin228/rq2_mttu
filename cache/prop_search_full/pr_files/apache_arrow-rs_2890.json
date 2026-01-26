@@ -1,0 +1,1 @@
+["parquet/Cargo.toml", "parquet/src/arrow/arrow_writer/byte_array.rs", "parquet/src/column/writer/encoder.rs", "parquet/src/column/writer/mod.rs", "parquet/src/encodings/encoding/dict_encoder.rs", "parquet/src/encodings/encoding/mod.rs", "parquet/src/encodings/levels.rs", "parquet/src/encodings/rle.rs", "parquet/tests/arrow_writer_layout.rs"]

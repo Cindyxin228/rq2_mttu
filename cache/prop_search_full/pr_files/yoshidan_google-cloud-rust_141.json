@@ -1,0 +1,1 @@
+["default/Cargo.toml", "foundation/auth/Cargo.toml", "foundation/token/Cargo.toml", "pubsub/Cargo.toml", "spanner/Cargo.toml", "storage/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".github/workflows/package.sh", ".github/workflows/publish-release.yml", "NEWS.md", "README.md", "cli/Cargo.toml", "core/Cargo.toml", "std/Cargo.toml", "web/Cargo.toml", "web/package.json"]

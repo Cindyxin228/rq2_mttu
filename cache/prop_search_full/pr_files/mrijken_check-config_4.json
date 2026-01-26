@@ -1,0 +1,1 @@
+["CHANGES.md", "docs/checkers.md", "example/checkers/checkers.toml", "example/expected_output/.gitconfig", "example/output/.gitconfig", "src/checkers/file_present.rs", "src/checkers/file_regex.rs", "src/checkers/mod.rs"]

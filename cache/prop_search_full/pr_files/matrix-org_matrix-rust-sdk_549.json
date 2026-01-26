@@ -1,0 +1,1 @@
+["crates/matrix-sdk-base/src/store/integration_tests.rs", "crates/matrix-sdk-base/src/store/memory_store.rs", "crates/matrix-sdk-indexeddb/src/state_store.rs", "crates/matrix-sdk-sled/src/state_store.rs", "crates/matrix-sdk/src/client/mod.rs"]

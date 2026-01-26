@@ -1,0 +1,1 @@
+[".cargo/config.toml", "docs/src/checks/licenses/cfg.md", "src/licenses.rs", "src/licenses/cfg.rs", "src/licenses/diags.rs", "src/licenses/snapshots/cargo_deny__licenses__cfg__test__deserializes_licenses_cfg-2.snap"]

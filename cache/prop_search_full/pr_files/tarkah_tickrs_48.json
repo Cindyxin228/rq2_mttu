@@ -1,0 +1,1 @@
+["api/src/lib.rs", "src/app.rs", "src/common.rs", "src/main.rs", "src/service.rs", "src/service/default_timestamps.rs", "src/task.rs", "src/task/default_timestamps.rs", "src/task/options_dates.rs", "src/task/prices.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

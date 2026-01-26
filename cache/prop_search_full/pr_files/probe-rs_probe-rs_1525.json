@@ -1,0 +1,1 @@
+["CHANGELOG.md", "probe-rs/src/architecture/arm/sequences/mod.rs", "probe-rs/src/architecture/arm/sequences/stm32_armv6.rs", "probe-rs/src/architecture/arm/sequences/stm32_armv7.rs", "probe-rs/src/architecture/arm/sequences/stm32h7.rs", "probe-rs/src/session.rs", "target-gen/Cargo.toml"]

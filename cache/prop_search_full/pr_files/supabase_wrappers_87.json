@@ -1,0 +1,1 @@
+["docs/clickhouse.md", "supabase-wrappers/src/interface.rs", "wrappers/Cargo.lock", "wrappers/Cargo.toml", "wrappers/src/fdw/clickhouse_fdw/clickhouse_fdw.rs", "wrappers/src/fdw/clickhouse_fdw/tests.rs"]

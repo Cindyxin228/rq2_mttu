@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/nargo_cli/Cargo.toml", "crates/nargo_cli/src/cli/execute_cmd.rs", "crates/nargo_cli/src/cli/test_cmd.rs", "crates/noirc_evaluator/src/ssa/acir_gen/operations/sort.rs"]

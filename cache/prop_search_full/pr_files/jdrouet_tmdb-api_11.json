@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "Cargo.toml", "src/client.rs", "src/company/mod.rs", "src/error.rs", "src/genre/list.rs", "src/genre/mod.rs", "src/lib.rs", "src/movie/mod.rs", "src/movie/search.rs", "src/people/mod.rs", "src/tvshow/episode/mod.rs", "src/tvshow/mod.rs", "src/tvshow/season/mod.rs"]

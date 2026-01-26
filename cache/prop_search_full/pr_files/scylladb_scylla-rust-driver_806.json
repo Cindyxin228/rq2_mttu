@@ -1,0 +1,1 @@
+["scylla/src/transport/connection.rs", "scylla/tests/integration/main.rs", "scylla/tests/integration/retries.rs", "scylla/tests/integration/silent_prepare_query.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/cli-reference/dfx-cycles.mdx", "docs/cli-reference/dfx-ledger.mdx", "e2e/assets/ledger/david.pem", "e2e/tests-dfx/ledger.bash", "src/dfx/src/commands/ledger/approve.rs", "src/dfx/src/commands/ledger/mod.rs", "src/dfx/src/commands/ledger/transfer_from.rs", "src/dfx/src/lib/operations/ledger.rs"]

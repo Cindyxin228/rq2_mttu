@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "slatedb-bencher/Cargo.toml", "slatedb-cli/Cargo.toml", "slatedb-cli/src/main.rs", "slatedb/Cargo.toml", "slatedb/benches/db_operations.rs", "slatedb/src/test_utils.rs"]

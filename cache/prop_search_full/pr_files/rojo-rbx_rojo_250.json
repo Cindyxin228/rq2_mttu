@@ -1,0 +1,1 @@
+["src/change_processor.rs", "src/snapshot/mod.rs", "src/snapshot/patch.rs", "src/snapshot/patch_apply.rs", "src/snapshot/tests/apply.rs", "src/snapshot/tests/compute.rs", "src/snapshot/tests/mod.rs"]

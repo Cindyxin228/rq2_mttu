@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "crates/core/Cargo.toml", "crates/core/src/error.rs", "crates/core/src/transformers.rs", "crates/macros/src/collection.rs", "examples/testing-crate/Cargo.toml", "examples/testing-crate/src/main.rs"]

@@ -1,0 +1,1 @@
+["cli/dts/lib.dom.d.ts", "cli/dts/lib.dom.extras.d.ts", "cli/tests/integration/run_tests.rs", "cli/tests/testdata/lib_dom_extras.ts", "cli/tests/testdata/lib_dom_extras.ts.out", "cli/tsc.rs", "cli/tsc/00_typescript.js", "tools/update_typescript.md"]

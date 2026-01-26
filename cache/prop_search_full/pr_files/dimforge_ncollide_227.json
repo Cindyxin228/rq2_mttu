@@ -1,0 +1,1 @@
+["build/ncollide2d/examples/dbvt_broad_phase2d.rs", "build/ncollide3d/examples/dbvt_broad_phase3d.rs", "src/pipeline/broad_phase/broad_phase.rs", "src/pipeline/broad_phase/dbvt_broad_phase.rs", "src/pipeline/broad_phase/mod.rs", "src/pipeline/narrow_phase/default_narrow_phase.rs", "src/pipeline/narrow_phase/narrow_phase.rs", "src/pipeline/world/collision_world.rs"]

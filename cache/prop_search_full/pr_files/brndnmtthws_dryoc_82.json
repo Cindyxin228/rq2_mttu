@@ -1,0 +1,1 @@
+["src/argon2.rs", "src/dryocbox.rs", "src/keypair.rs", "src/lib.rs", "src/poly1305/poly1305_soft.rs", "src/precalc.rs", "tests/integration_tests.rs"]

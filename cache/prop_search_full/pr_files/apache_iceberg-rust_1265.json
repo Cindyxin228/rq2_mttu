@@ -1,0 +1,1 @@
+["crates/catalog/glue/src/catalog.rs", "crates/catalog/memory/src/catalog.rs", "crates/catalog/memory/src/namespace_state.rs", "crates/iceberg/src/error.rs"]

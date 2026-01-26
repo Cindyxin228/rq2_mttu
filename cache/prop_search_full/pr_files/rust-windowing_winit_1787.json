@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/event.rs", "src/platform_impl/linux/wayland/seat/pointer/handlers.rs", "src/platform_impl/linux/x11/event_processor.rs", "src/platform_impl/windows/event_loop.rs"]

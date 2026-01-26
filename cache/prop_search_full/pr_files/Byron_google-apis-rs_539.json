@@ -1,0 +1,1 @@
+["etc/api/shared.yaml", "google-apis-common/Cargo.toml", "google-clis-common/Cargo.toml", "src/generator/templates/Cargo.toml.mako", "src/generator/templates/api/lib/lib.mako", "src/generator/templates/cli/main.rs.mako"]

@@ -1,0 +1,1 @@
+["protocols/plaintext/Cargo.toml", "protocols/plaintext/regen_structs_proto.sh", "protocols/plaintext/src/error.rs", "protocols/plaintext/src/handshake.rs", "protocols/plaintext/src/lib.rs", "protocols/plaintext/src/pb.rs", "protocols/plaintext/src/pb/structs.rs", "protocols/plaintext/structs.proto"]

@@ -1,0 +1,1 @@
+["utoipa-gen/tests/path_derive.rs", "utoipa-gen/tests/path_derive_axum_test.rs", "utoipa-gen/tests/schema_derive_test.rs", "utoipa/src/lib.rs", "utoipa/src/openapi/schema.rs"]

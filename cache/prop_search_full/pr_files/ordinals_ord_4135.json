@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/mockcore/Cargo.toml", "crates/mockcore/src/lib.rs", "crates/ordinals/Cargo.toml", "crates/ordinals/src/sat_point.rs", "deploy/setup", "justfile", "src/chain.rs", "src/options.rs", "src/settings.rs", "src/subcommand/wallet/inscriptions.rs"]

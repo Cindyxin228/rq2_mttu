@@ -1,0 +1,1 @@
+["rocketmq-broker/src/bin/broker_bootstrap_server.rs", "rocketmq-namesrv/src/bin/namesrv_bootstrap_server.rs"]

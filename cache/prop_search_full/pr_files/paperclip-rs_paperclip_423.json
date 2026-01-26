@@ -1,0 +1,1 @@
+[".github/workflows/cicd.yml", "CHANGELOG.md", "core/src/v2/actix.rs", "core/src/v2/schema.rs", "macros/src/actix.rs", "plugins/actix-web/src/app.rs", "plugins/actix-web/src/lib.rs", "plugins/actix-web/src/web.rs", "plugins/actix-web/src/web3.rs", "shell.nix", "src/build/build.rs", "tests/test_app.rs"]

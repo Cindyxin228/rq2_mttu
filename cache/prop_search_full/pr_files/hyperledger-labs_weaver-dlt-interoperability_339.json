@@ -1,0 +1,1 @@
+["core/network/fabric-interop-cc/contracts/interop/go.sum", "samples/fabric/go-cli/go.mod", "samples/fabric/go-cli/go.sum", "samples/fabric/simpleasset/go.sum", "samples/fabric/simpleassetandinterop/go.sum", "samples/fabric/simpleassettransfer/go.mod", "samples/fabric/simpleassettransfer/go.sum", "sdks/fabric/go-sdk/go.mod", "sdks/fabric/go-sdk/go.sum"]

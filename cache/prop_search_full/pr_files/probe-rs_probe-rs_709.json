@@ -1,0 +1,1 @@
+["probe-rs-cli-util/Cargo.toml", "probe-rs/Cargo.toml", "probe-rs/examples/tcp_itm.rs", "probe-rs/src/architecture/arm/swo/mod.rs"]

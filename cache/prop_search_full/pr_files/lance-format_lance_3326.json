@@ -1,0 +1,1 @@
+["java/core/lance-jni/src/utils.rs", "rust/lance-index/src/vector.rs", "rust/lance-index/src/vector/flat/index.rs", "rust/lance/src/dataset/scanner.rs", "rust/lance/src/index/vector/fixture_test.rs", "rust/lance/src/index/vector/ivf.rs", "rust/lance/src/index/vector/ivf/v2.rs", "rust/lance/src/index/vector/pq.rs"]

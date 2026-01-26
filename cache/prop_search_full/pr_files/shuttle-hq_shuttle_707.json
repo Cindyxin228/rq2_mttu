@@ -1,0 +1,1 @@
+["codegen/src/shuttle_main/mod.rs", "codegen/tests/ui/main/duplicate-main-fn.rs", "codegen/tests/ui/main/duplicate-main-fn.stderr"]

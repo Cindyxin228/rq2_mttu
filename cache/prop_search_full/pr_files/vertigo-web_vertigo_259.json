@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/vertigo-cli/src/main.rs", "crates/vertigo/src/dom_list.rs", "tests/Cargo.toml", "tests/basic/Cargo.toml", "tests/basic/src/lib.rs", "tests/basic/src/row.rs", "tests/basic/tests.rs", "tests/lib.rs"]

@@ -1,0 +1,1 @@
+[".github/actions/setup_env/action.yml", ".github/workflows/push_main.yaml", ".gitignore", ".template.env", "Cargo.lock", "crates/txtx-cli/Cargo.toml", "crates/txtx-cli/src/cli/cloud/login.rs", "crates/txtx-cli/src/cli/cloud/mod.rs", "crates/txtx-cli/src/cli/mod.rs"]

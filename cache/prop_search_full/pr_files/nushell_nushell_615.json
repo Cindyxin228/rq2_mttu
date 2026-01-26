@@ -1,0 +1,1 @@
+["src/cli.rs", "src/commands.rs", "src/commands/autoview.rs", "src/commands/classified.rs", "src/commands/echo.rs", "tests/filters_test.rs", "tests/helpers/mod.rs", "tests/tests.rs"]

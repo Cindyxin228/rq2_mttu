@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/standard_lib.rs", "tests/testsuite/mock-std/library/sysroot/Cargo.toml", "tests/testsuite/mock-std/library/sysroot/src/lib.rs", "tests/testsuite/mock-std/library/test/Cargo.toml"]

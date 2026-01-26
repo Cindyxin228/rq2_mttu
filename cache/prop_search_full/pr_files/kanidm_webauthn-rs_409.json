@@ -1,0 +1,1 @@
+["fido-mds/src/patch.rs", "webauthn-authenticator-rs/src/ctap2/commands/bio_enrollment.rs", "webauthn-rs-core/src/attestation.rs", "webauthn-rs-core/src/core.rs"]

@@ -1,0 +1,1 @@
+["lib/wasix/src/bin_factory/binary_package.rs", "lib/wasix/src/runners/wasi.rs", "lib/wasix/src/runtime/package_loader/load_package_tree.rs", "lib/wasix/src/state/builder.rs", "lib/wasix/src/state/env.rs"]

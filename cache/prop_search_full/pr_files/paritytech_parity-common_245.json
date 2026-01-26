@@ -1,0 +1,1 @@
+["primitive-types/impls/serde/Cargo.toml", "primitive-types/impls/serde/benches/impl_serde.rs", "primitive-types/impls/serde/benches/input.rs", "primitive-types/impls/serde/src/lib.rs", "primitive-types/impls/serde/src/serialize.rs"]

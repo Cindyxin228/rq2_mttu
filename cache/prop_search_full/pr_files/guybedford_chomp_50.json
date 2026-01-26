@@ -1,0 +1,1 @@
+["src/chompfile.rs", "src/engines/cmd.rs", "src/engines/deno.rs", "src/engines/mod.rs", "src/engines/node.rs", "src/main.rs", "src/task.rs", "src/templates.js", "templates/swc.js"]

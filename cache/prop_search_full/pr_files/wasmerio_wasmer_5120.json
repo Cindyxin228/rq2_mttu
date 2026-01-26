@@ -1,0 +1,1 @@
+["lib/wasix/src/runtime/resolver/backend_source.rs", "lib/wasix/src/runtime/resolver/filesystem_source.rs", "lib/wasix/src/runtime/resolver/in_memory_source.rs", "lib/wasix/src/runtime/resolver/inputs.rs", "lib/wasix/src/runtime/resolver/multi_source.rs", "lib/wasix/src/runtime/resolver/source.rs", "lib/wasix/src/runtime/resolver/web_source.rs", "tests/compilers/serialize.rs"]

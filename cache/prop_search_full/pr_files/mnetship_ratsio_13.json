@@ -1,0 +1,1 @@
+["src/nats_client/client.rs", "src/nats_client/client_inner.rs", "src/nats_client/mod.rs", "src/stan_client/client.rs", "src/stan_client/mod.rs", "tests/nats_client_test.rs"]

@@ -1,0 +1,1 @@
+["libafl_frida/Cargo.toml", "libafl_frida/src/asan/asan_rt.rs", "libafl_frida/src/coverage_rt.rs"]

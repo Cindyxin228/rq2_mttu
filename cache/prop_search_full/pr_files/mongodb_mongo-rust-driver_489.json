@@ -1,0 +1,1 @@
+[".evergreen/check-rustdoc.sh", ".evergreen/check-rustfmt.sh", "rustfmt.toml", "src/client/auth/mod.rs", "src/cmap/establish/handshake/mod.rs", "src/is_master.rs", "src/lib.rs", "src/sdam/mod.rs", "src/sdam/monitor.rs", "src/sdam/state/mod.rs", "src/test/spec/auth.rs"]

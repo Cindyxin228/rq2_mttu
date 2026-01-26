@@ -1,0 +1,1 @@
+["CHANGELOG.md", "symbolic-debuginfo/Cargo.toml", "symbolic-debuginfo/src/base.rs", "symbolic-debuginfo/src/breakpad.rs", "symbolic-debuginfo/src/dwarf.rs", "symbolic-debuginfo/src/object.rs", "symbolic-debuginfo/src/pdb.rs", "symbolic-debuginfo/src/ppdb.rs", "symbolic-debuginfo/src/sourcebundle.rs", "symbolic-debuginfo/tests/test_objects.rs"]

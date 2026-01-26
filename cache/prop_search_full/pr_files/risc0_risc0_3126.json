@@ -1,0 +1,1 @@
+["examples/sha/src/main.rs", "risc0/zkp/src/core/hash/poseidon2/consts.rs", "risc0/zkvm/src/host/server/prove/tests.rs", "rzup/src/paths.rs", "xtask/src/update_crate_version.rs"]

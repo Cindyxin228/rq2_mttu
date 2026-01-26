@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/build-binary.yml", ".github/workflows/publish-crate.yml", ".github/workflows/rust-clippy.yml", ".github/workflows/rust-doc.yml", ".github/workflows/rust-release.yml", ".gitignore", "Cargo.lock"]

@@ -1,0 +1,1 @@
+["devimint/src/external.rs", "fedimint-cli/src/client.rs", "fedimint-core/src/encoding/btc.rs", "gateway/ln-gateway/src/lib.rs", "modules/fedimint-wallet-client/src/lib.rs", "modules/fedimint-wallet-common/src/lib.rs", "modules/fedimint-wallet-server/src/lib.rs", "modules/fedimint-wallet-tests/tests/tests.rs"]

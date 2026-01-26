@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "build.rs", "completions/_qrrs", "completions/_qrrs.ps1", "completions/qrrs.bash", "completions/qrrs.fish", "man/qrrs.1", "shell.nix", "src/cli.rs", "src/lib.rs", "src/main.rs", "tests/test_bin.rs", "tests/test_cli.rs", "tests/test_common.rs", "tests/test_lib.rs"]

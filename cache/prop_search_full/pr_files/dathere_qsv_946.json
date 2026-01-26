@@ -1,0 +1,1 @@
+["dotenv.template", "src/cmd/apply.rs", "src/cmd/fetch.rs", "src/cmd/fetchpost.rs", "src/cmd/foreach.rs", "src/cmd/luau.rs", "src/cmd/python.rs", "src/cmd/replace.rs", "src/cmd/schema.rs", "src/cmd/search.rs", "src/cmd/searchset.rs", "src/cmd/sniff.rs", "src/cmd/sortcheck.rs", "src/cmd/stats.rs", "src/cmd/validate.rs", "src/config.rs", "src/util.rs"]

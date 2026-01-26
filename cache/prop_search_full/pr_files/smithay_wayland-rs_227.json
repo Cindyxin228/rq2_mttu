@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tests/scanner_assets/client_c_code.rs", "tests/scanner_assets/client_rust_code.rs", "tests/scanner_assets/server_c_code.rs", "tests/scanner_assets/server_rust_code.rs", "wayland-scanner/src/c_code_gen.rs", "wayland-scanner/src/common_gen.rs", "wayland-scanner/src/rust_code_gen.rs"]

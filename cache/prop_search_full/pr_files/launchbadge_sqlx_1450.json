@@ -1,0 +1,1 @@
+["Cargo.lock", "sqlx-core/src/sqlite/connection/executor.rs", "sqlx-core/src/sqlite/connection/handle.rs", "sqlx-core/src/sqlite/connection/mod.rs", "sqlx-core/src/sqlite/row.rs", "sqlx-core/src/sqlite/statement/handle.rs", "sqlx-core/src/sqlite/statement/mod.rs", "tests/sqlite/sqlite.rs"]

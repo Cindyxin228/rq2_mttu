@@ -1,0 +1,1 @@
+["glean-core/ios/Glean.xcodeproj/project.pbxproj", "glean-core/ios/Glean/Net/HttpPingUploader.swift", "glean-core/ios/GleanTests/Net/HttpPingUploaderTests.swift", "glean-core/ios/GleanTests/UploaderCapabilityTests.swift"]

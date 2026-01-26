@@ -1,0 +1,1 @@
+["src/api/reflector.rs", "src/client/mod.rs", "src/config/apis.rs", "src/config/kube_config.rs", "src/config/mod.rs", "src/oauth2/mod.rs"]

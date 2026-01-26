@@ -1,0 +1,1 @@
+["examples/key.rs", "examples/keyboard.rs", "examples/layout.rs", "examples/mouse.rs", "examples/platform_specific.rs", "examples/serde.rs", "examples/timer.rs", "tests/common/enigo_test.rs"]

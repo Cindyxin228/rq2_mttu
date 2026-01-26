@@ -1,0 +1,1 @@
+["Cargo.lock", "Makefile", "examples/builtins.rh", "mdbook_rash/src/lib.rs", "rash_core/Cargo.toml", "rash_core/src/bin/rash.rs", "rash_core/src/logger.rs", "rash_core/src/modules/copy.rs", "rash_core/src/modules/file.rs", "rash_core/src/modules/set_vars.rs", "rash_core/src/task/mod.rs"]

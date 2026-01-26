@@ -1,0 +1,1 @@
+["zcash_client_backend/src/fees/fixed.rs", "zcash_client_sqlite/src/wallet/transact.rs", "zcash_extensions/src/transparent/demo.rs", "zcash_primitives/CHANGELOG.md", "zcash_primitives/src/transaction/builder.rs", "zcash_primitives/src/transaction/components/amount.rs"]

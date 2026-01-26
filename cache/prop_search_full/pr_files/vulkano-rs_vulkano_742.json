@@ -1,0 +1,1 @@
+["vulkano/src/descriptor/descriptor_set/fixed_size_pool.rs", "vulkano/src/descriptor/descriptor_set/mod.rs", "vulkano/src/descriptor/descriptor_set/persistent.rs", "vulkano/src/descriptor/descriptor_set/std_pool.rs", "vulkano/src/descriptor/descriptor_set/sys.rs"]

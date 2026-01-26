@@ -1,0 +1,1 @@
+["crates/swc_css_codegen/tests/fixture/at-rules/supports/2/input.css", "crates/swc_css_codegen/tests/fixture/at-rules/supports/2/output.css", "crates/swc_css_codegen/tests/fixture/at-rules/supports/2/output.min.css"]

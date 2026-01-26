@@ -1,0 +1,1 @@
+["src/lib.rs", "src/main.rs", "src/nixpacks/builder/docker/dockerfile_generation.rs", "src/nixpacks/builder/docker/incremental_cache.rs", "src/nixpacks/builder/docker/utils.rs", "src/nixpacks/files.rs", "src/nixpacks/plan/generator.rs", "src/nixpacks/plan/mod.rs", "src/providers/java.rs", "src/providers/node/mod.rs", "src/providers/staticfile.rs"]

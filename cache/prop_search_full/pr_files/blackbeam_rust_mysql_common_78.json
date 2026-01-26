@@ -1,0 +1,1 @@
+["src/binlog/events/mod.rs", "src/binlog/events/rows_event.rs", "src/binlog/row.rs"]

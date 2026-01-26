@@ -1,0 +1,1 @@
+["core/primitives/Cargo.toml", "core/primitives/src/version.rs", "integration-tests/src/tests/client/features.rs", "integration-tests/src/tests/client/features/nearvm.rs", "nearcore/Cargo.toml", "runtime/near-vm-runner/src/vm_kind.rs"]

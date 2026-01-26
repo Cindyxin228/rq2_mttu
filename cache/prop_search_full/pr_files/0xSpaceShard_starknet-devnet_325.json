@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/src/starknet/mod.rs", "crates/starknet-devnet-core/src/transactions.rs", "crates/starknet-devnet-server/src/api/json_rpc/endpoints.rs", "crates/starknet-devnet-types/src/rpc/transactions.rs"]

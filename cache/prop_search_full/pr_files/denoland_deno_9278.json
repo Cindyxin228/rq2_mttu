@@ -1,0 +1,1 @@
+["cli/tests/test_branch_coverage.out", "cli/tests/test_coverage.out", "cli/tests/test_run_combined_coverage.out", "cli/tests/test_run_run_coverage.out", "cli/tests/test_run_test_coverage.out", "cli/tools/coverage.rs"]

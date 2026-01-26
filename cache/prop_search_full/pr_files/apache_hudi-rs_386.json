@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/core/src/avro_to_arrow/README.md", "crates/core/src/table/partition.rs", "crates/datafusion/src/lib.rs", "crates/test/Cargo.toml", "demo/apps/datafusion/Cargo.toml", "demo/apps/hudi-table-api/rust/Cargo.toml", "python/Cargo.toml"]

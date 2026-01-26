@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/custom_client.rs", "src/application_default_credentials.rs", "src/authenticator.rs", "src/authorized_user.rs", "src/device.rs", "src/installed.rs", "src/refresh.rs", "src/service_account.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "README.md", "_build_npm.ts", "deno.json", "js/README.md", "js/loader.ts", "js/media_type.ts", "js/mod.ts", "js/test.ts", "js/types.d.ts", "lib/deno_graph_wasm.generated.js", "lib/deno_graph_wasm_bg.wasm"]

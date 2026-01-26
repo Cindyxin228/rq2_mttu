@@ -1,0 +1,1 @@
+["Cargo.toml", "src/certs.rs", "src/cmd.rs", "src/command_processor.rs", "src/completer.rs", "src/config/click.rs", "src/config/kube.rs", "src/config/kubefile.rs", "src/describe.rs", "src/env.rs", "src/error.rs", "src/kobj.rs", "src/kube.rs", "src/main.rs", "src/output.rs", "src/subjaltnames.rs", "src/table.rs", "src/values.rs"]

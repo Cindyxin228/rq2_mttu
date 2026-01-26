@@ -1,0 +1,1 @@
+[".github/workflows/docker.yaml", ".github/workflows/publish.yaml", "Cargo.toml", "Dockerfile", "WORKSPACE", "summa-core/src/hyper_external_request.rs", "summa-server/Cargo.toml", "summa-server/Dockerfile", "summa-server/push-to-docker.sh"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "addons/svm/core/Cargo.toml", "addons/svm/core/src/codec/anchor.rs", "addons/svm/core/src/codec/mod.rs", "addons/svm/core/src/codec/native.rs", "addons/svm/core/src/commands/deploy_program.rs", "addons/svm/core/src/functions.rs"]

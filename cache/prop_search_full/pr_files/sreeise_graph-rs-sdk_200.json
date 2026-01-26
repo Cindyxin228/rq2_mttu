@@ -1,0 +1,1 @@
+["examples/batch.rs", "src/client/graph.rs", "src/http/batch.rs", "src/http/intoresponse.rs", "src/http/mod.rs", "src/http/request.rs", "src/types/batch.rs", "src/types/mod.rs", "test-tools/src/oauthrequest.rs", "tests/batch.rs", "tests/drive_request.rs", "tests/mail_message_request.rs", "tests/user_request.rs"]

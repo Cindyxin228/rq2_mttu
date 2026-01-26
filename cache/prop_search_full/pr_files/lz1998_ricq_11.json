@@ -1,0 +1,1 @@
+["rq-engine/build.rs", "rq-engine/src/command/message_svc/builder.rs", "rq-engine/src/command/oidb_svc/builder.rs", "rq-engine/src/pb/oidb/oidb0xeac.proto", "src/bin/password_login.rs", "src/client/api.rs"]

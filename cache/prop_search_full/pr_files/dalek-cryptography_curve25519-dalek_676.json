@@ -1,0 +1,1 @@
+["curve25519-dalek/Cargo.toml", "curve25519-dalek/src/edwards.rs", "curve25519-dalek/src/field.rs", "curve25519-dalek/src/ristretto.rs", "curve25519-dalek/src/scalar.rs", "ed25519-dalek/Cargo.toml", "ed25519-dalek/src/errors.rs", "ed25519-dalek/src/hazmat.rs", "ed25519-dalek/src/signing.rs", "ed25519-dalek/src/verifying.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/api/config/encoder.rs", "src/api/config/grain_synth.rs", "src/api/config/mod.rs", "src/bin/common.rs", "src/bin/grain_synth/generate.rs", "src/bin/grain_synth/mod.rs", "src/bin/grain_synth/parse.rs", "src/bin/rav1e-ch.rs", "src/bin/rav1e.rs", "src/encoder.rs", "src/lib.rs"]

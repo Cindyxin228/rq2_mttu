@@ -1,0 +1,1 @@
+["lambda-events/src/event/dynamodb/mod.rs", "lambda-events/src/fixtures/example-dynamodb-event-record-with-optional-fields.json"]

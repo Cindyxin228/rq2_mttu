@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "scripts/check_external.rs", "src/advisories.rs", "src/advisories/diags.rs", "src/advisories/helpers.rs", "src/bans/diags.rs", "src/bans/graph.rs", "src/cargo-deny/common.rs", "src/cargo-deny/list.rs", "src/diag.rs", "src/lib.rs", "src/licenses/diags.rs", "src/sources/diags.rs"]

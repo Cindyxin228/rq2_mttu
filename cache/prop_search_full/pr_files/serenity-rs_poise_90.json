@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "macros/src/choice_parameter.rs", "src/builtins/register.rs", "src/dispatch/slash.rs", "src/lib.rs", "src/slash_argument/slash_macro.rs", "src/slash_argument/slash_trait.rs", "src/structs/command.rs", "src/structs/context.rs", "src/structs/slash.rs"]

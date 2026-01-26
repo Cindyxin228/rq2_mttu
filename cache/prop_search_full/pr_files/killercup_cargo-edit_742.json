@@ -1,0 +1,1 @@
+["src/bin/rm/rm.rs", "tests/cmd/rm/invalid_dep.toml", "tests/cmd/rm/invalid_rm_target.toml", "tests/cmd/rm/invalid_rm_target_dep.toml", "tests/cmd/rm/invalid_section.toml", "tests/cmd/rm/invalid_section_dep.toml"]

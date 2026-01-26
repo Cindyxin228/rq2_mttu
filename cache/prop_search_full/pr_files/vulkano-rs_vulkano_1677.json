@@ -1,0 +1,1 @@
+["vulkano/src/buffer/device_local.rs", "vulkano/src/memory/device_memory.rs", "vulkano/src/memory/pool/host_visible.rs", "vulkano/src/memory/pool/mod.rs", "vulkano/src/memory/pool/non_host_visible.rs", "vulkano/src/memory/pool/pool.rs", "vulkano/src/sync/semaphore/semaphore.rs"]

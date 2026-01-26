@@ -1,0 +1,1 @@
+["crates/nu-command/src/network/http/client.rs", "crates/nu-command/src/network/http/delete.rs", "crates/nu-command/src/network/http/get.rs", "crates/nu-command/src/network/http/head.rs", "crates/nu-command/src/network/http/patch.rs", "crates/nu-command/src/network/http/post.rs", "crates/nu-command/src/network/http/put.rs", "crates/nu-protocol/src/shell_error.rs"]

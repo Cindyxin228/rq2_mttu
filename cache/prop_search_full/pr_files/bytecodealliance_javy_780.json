@@ -1,0 +1,1 @@
+["crates/cli/build.rs", "crates/cli/src/codegen/static.rs", "crates/core/src/lib.rs", "crates/core/src/main.rs"]

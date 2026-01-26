@@ -1,0 +1,1 @@
+["Cargo.lock", "gitoxide-core/src/repository/blame.rs", "gix-blame/Cargo.toml", "gix-blame/src/file/function.rs", "gix-blame/src/lib.rs", "gix-blame/src/types.rs", "gix-blame/tests/blame.rs", "gix-blame/tests/fixtures/make_blame_repo.sh", "src/plumbing/main.rs", "src/plumbing/options/mod.rs"]

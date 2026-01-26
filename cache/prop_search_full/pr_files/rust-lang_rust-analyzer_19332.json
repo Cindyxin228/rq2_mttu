@@ -1,0 +1,1 @@
+["crates/ide-assists/src/tests.rs", "crates/ide-completion/src/render.rs", "crates/ide-db/src/rename.rs", "crates/ide-db/src/text_edit.rs", "crates/ide/src/rename.rs", "crates/ide/src/ssr.rs", "crates/rust-analyzer/src/lsp/to_proto.rs"]

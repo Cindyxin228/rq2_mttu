@@ -1,0 +1,1 @@
+["flatdata-py/generator/templates/rust/archive.jinja2", "flatdata-py/generator/tests/generators/rust_expectations/archives/multivector.rs", "flatdata-py/generator/tests/generators/rust_expectations/archives/namespaces.rs", "flatdata-rs/lib/src/archive.rs", "flatdata-rs/lib/src/multiarrayview.rs", "flatdata-rs/lib/src/multivector.rs", "flatdata-rs/lib/src/storage.rs"]

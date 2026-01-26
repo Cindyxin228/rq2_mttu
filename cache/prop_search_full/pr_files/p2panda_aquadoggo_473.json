@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "Cargo.lock", "aquadoggo/src/config.rs", "aquadoggo/src/node.rs", "aquadoggo/src/replication/service.rs", "aquadoggo_cli/Cargo.toml", "aquadoggo_cli/README.md", "aquadoggo_cli/example_config.toml", "aquadoggo_cli/src/main.rs", "aquadoggo_cli/src/schemas.rs"]

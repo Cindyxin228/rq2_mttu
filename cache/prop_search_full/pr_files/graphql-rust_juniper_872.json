@@ -1,0 +1,1 @@
+["integration_tests/async_await/src/main.rs", "juniper/src/executor_tests/async_await/mod.rs", "juniper/src/integrations/serde.rs", "juniper/src/types/base.rs", "juniper/src/value/mod.rs", "juniper/src/value/object.rs"]

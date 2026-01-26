@@ -1,0 +1,1 @@
+["iroh-api/src/p2p.rs", "iroh-p2p/src/behaviour.rs", "iroh-p2p/src/behaviour/peer_manager.rs", "iroh-p2p/src/node.rs", "iroh-p2p/src/rpc.rs", "iroh-rpc-client/src/network.rs", "iroh-rpc-types/proto/p2p.proto", "iroh-rpc-types/src/p2p.rs"]

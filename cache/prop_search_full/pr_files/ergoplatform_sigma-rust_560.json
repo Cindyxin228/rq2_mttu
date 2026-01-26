@@ -1,0 +1,1 @@
+["bindings/ergo-lib-c-core/src/tx_builder.rs", "bindings/ergo-lib-c/src/tx_builder.rs", "bindings/ergo-lib-ios/Sources/ErgoLib/TxBuilder.swift", "bindings/ergo-lib-wasm/src/tx_builder.rs", "ergo-lib/src/wallet/tx_builder.rs", "ergotree-ir/src/chain/header.rs", "ergotree-ir/src/chain/preheader.rs"]

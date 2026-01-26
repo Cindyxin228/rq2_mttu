@@ -1,0 +1,1 @@
+["c/Makefile", "c/main.c", "node/example.js", "runtime/src/memory.rs", "runtime/src/plugin.rs", "runtime/src/sdk.rs", "wasm/code-functions.wasm"]

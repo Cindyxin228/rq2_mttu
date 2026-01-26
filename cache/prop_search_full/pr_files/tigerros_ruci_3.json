@@ -1,0 +1,1 @@
+[".github/workflows/tests.yml", "Cargo.toml", "README.md", "examples/go.rs", "examples/go_async_info.rs", "examples/go_stop.rs", "src/define_message_enum.rs", "src/lib.rs", "src/messages/engine/best_move.rs", "src/messages/engine/info.rs", "src/messages/gui/go.rs", "src/messages/gui/set_position.rs", "src/traits.rs", "src/uci_connection.rs", "src/uci_move_list.rs"]

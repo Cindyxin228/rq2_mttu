@@ -1,0 +1,1 @@
+["examples/http-axum-diesel/Cargo.toml", "examples/http-axum-diesel/README.md", "examples/http-axum-diesel/migrations/2023-04-07-231632_create_posts/down.sql", "examples/http-axum-diesel/migrations/2023-04-07-231632_create_posts/up.sql", "examples/http-axum-diesel/src/main.rs"]

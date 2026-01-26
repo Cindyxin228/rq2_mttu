@@ -1,0 +1,1 @@
+[".travis.yml", "dcmdump/Cargo.toml", "encoding/Cargo.toml", "encoding/src/transfer_syntax/mod.rs", "object/Cargo.toml", "object/src/mem.rs", "parent/Cargo.toml", "transfer-syntax-registry/Cargo.toml", "transfer-syntax-registry/src/entries.rs", "transfer-syntax-registry/src/lib.rs", "transfer-syntax-registry/tests/base.rs", "transfer-syntax-registry/tests/submit.rs"]

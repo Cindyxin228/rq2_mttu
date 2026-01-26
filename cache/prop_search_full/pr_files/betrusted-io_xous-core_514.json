@@ -1,0 +1,1 @@
+[".cargo/config", "Cargo.lock", "Cargo.toml", "services/root-keys/Cargo.toml", "services/root-keys/src/main.rs", "services/shellchat/Cargo.toml", "services/shellchat/src/cmds/engine.rs", "xtask/src/main.rs"]

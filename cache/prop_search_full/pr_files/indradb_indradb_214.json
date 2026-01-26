@@ -1,0 +1,1 @@
+["client/Cargo.toml", "proto/Cargo.toml", "scripts/update_version.py", "server/Cargo.toml"]

@@ -1,0 +1,1 @@
+["cli/tests/integration/run_tests.rs", "cli/tests/worker_event_handler_test.js", "cli/tests/worker_event_handler_test.js.out", "cli/tests/workers/worker_event_handlers.js", "runtime/js/01_web_util.js", "runtime/js/99_main.js"]

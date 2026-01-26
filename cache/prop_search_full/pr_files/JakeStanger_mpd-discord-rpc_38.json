@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/deploy.yml", ".github/workflows/rust.yml", ".idea/runConfigurations/Clippy.xml", "Cargo.lock", "Cargo.toml", "src/config.rs", "src/defaults.rs", "src/main.rs", "src/mpd_conn.rs"]

@@ -1,0 +1,1 @@
+["engine-tests/src/tests/erc20_connector.rs", "engine-workspace/src/contract.rs", "engine-workspace/src/operation.rs", "engine/src/contract_methods/connector/internal.rs", "engine/src/contract_methods/connector/mod.rs", "engine/src/lib.rs"]

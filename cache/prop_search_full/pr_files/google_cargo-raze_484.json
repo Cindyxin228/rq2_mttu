@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "impl/Cargo.lock", "impl/Cargo.toml", "impl/src/util.rs", "third_party/cargo/crates.bzl", "third_party/cargo/remote/BUILD.cfg-expr-0.10.2.bazel", "third_party/cargo/remote/BUILD.smallvec-1.8.0.bazel", "third_party/cargo/remote/BUILD.spdx-0.3.6.bazel"]

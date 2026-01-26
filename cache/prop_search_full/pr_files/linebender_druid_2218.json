@@ -1,0 +1,1 @@
+["druid-shell/Cargo.toml", "druid-shell/src/backend/wayland/surfaces/buffers.rs", "druid-shell/src/backend/x11/application.rs", "druid-shell/src/backend/x11/clipboard.rs", "druid-shell/src/backend/x11/window.rs"]

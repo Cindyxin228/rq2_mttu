@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "Cargo.toml", "config.toml.dist", "src/agents/mailer/mailgun.rs", "src/agents/mailer/mod.rs", "src/config/env.rs", "src/config/mod.rs", "src/config/toml.rs", "tests/e2e/src/broker.ts", "tests/e2e/src/http-mailer.ts", "tests/e2e/src/tests.ts"]

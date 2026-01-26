@@ -1,0 +1,1 @@
+[".github/workflows/service_test_azblob.yml", ".github/workflows/service_test_cos.yml", ".github/workflows/service_test_dropbox.yml", ".github/workflows/service_test_gdrive.yml", ".github/workflows/service_test_s3.yml", ".github/workflows/service_test_supabase.yml", ".github/workflows/service_test_wasabi.yml"]

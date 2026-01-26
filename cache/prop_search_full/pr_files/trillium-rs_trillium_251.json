@@ -1,0 +1,1 @@
+["aws-lambda/src/request.rs", "aws-lambda/src/response.rs", "basic-auth/src/lib.rs", "basic-auth/tests/tests.rs", "websockets/src/lib.rs"]

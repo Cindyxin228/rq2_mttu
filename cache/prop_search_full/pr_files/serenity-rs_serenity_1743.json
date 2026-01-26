@@ -1,0 +1,1 @@
+["src/client/bridge/gateway/shard_messenger.rs", "src/client/bridge/gateway/shard_runner.rs", "src/client/bridge/gateway/shard_runner_message.rs", "src/collector/mod.rs", "src/collector/modal_interaction_collector.rs", "src/model/channel/message.rs"]

@@ -1,0 +1,1 @@
+["compiler/rustc_typeck/src/collect/type_of.rs", "compiler/rustc_typeck/src/lib.rs", "src/test/ui/generic-associated-types/const-generics-gat-in-trait-return-type-1.rs", "src/test/ui/generic-associated-types/const-generics-gat-in-trait-return-type-2.rs", "src/test/ui/generic-associated-types/const-generics-gat-in-trait-return-type-3.rs"]

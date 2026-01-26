@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/docker-build.yaml", "Dockerfile.flnode", "cli/flnode/run/package-lock.json", "cli/flnode/run/package.json", "common/src/node/config.rs"]

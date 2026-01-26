@@ -1,0 +1,1 @@
+["bindings/binding_core_wasm/__tests__/simple.js", "bindings/binding_minifier_wasm/__tests__/__snapshots__/simple.js.snap", "crates/swc/src/lib.rs", "crates/swc_common/src/errors/emitter.rs", "crates/swc_common/src/errors/mod.rs", "crates/swc_compiler_base/src/lib.rs", "crates/swc_error_reporters/src/lib.rs"]

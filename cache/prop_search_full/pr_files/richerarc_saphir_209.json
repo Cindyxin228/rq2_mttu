@@ -1,0 +1,1 @@
+["saphir/Cargo.toml", "saphir/src/file/middleware.rs", "saphir/src/lib.rs", "saphir/src/redirect.rs", "saphir/src/responder.rs", "saphir/src/response.rs", "saphir/src/server.rs", "saphir_cli/src/openapi/generate/crate_syn_browser/module.rs", "saphir_cli/src/openapi/generate/route_info.rs", "saphir_macro/Cargo.toml", "saphir_macro/src/controller/mod.rs"]

@@ -1,0 +1,1 @@
+["crates/core/src/syn/parser/builtin.rs", "crates/language-tests/README.md", "crates/language-tests/src/tests/schema/mod.rs", "crates/language-tests/tests/language/functions/path_hints/deprecated_path_hint.surql", "crates/language-tests/tests/language/functions/path_hints/typo_hint.surql"]

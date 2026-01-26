@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/database.rs", "examples/deviceproperties.rs", "examples/object.rs", "examples/registration.rs", "examples/simple.rs", "src/builder.rs", "src/database.rs", "src/e2etest/e2etest.rs", "src/interfaces.rs", "src/lib.rs", "src/types.rs"]

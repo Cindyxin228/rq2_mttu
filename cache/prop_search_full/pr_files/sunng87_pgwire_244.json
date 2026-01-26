@@ -1,0 +1,1 @@
+["examples/client.rs", "src/api/client/auth.rs", "src/api/client/mod.rs", "src/api/client/query.rs", "src/api/client/result.rs", "src/error.rs", "src/tokio/client.rs", "src/types/from_sql_text.rs", "src/types/mod.rs", "src/types/to_sql_text.rs"]

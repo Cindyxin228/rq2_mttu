@@ -1,0 +1,1 @@
+["Dockerfile", "docs_src/compatibility.md", "docs_src/explanations/how-scaph-computes-per-process-power-consumption.md", "docs_src/explanations/internal-structure.md", "src/exporters/mod.rs", "src/exporters/prometheus.rs", "src/exporters/riemann.rs", "src/exporters/stdout.rs", "src/exporters/warpten.rs", "src/sensors/mod.rs", "src/sensors/utils.rs"]

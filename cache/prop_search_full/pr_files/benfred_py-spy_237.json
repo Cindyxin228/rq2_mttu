@@ -1,0 +1,1 @@
+["src/dump.rs", "src/lib.rs", "src/main.rs", "src/python_spy.rs", "src/python_threading.rs", "src/speedscope.rs", "src/stack_trace.rs", "tests/integration_test.rs", "tests/scripts/thread_names.py"]

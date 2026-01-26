@@ -1,0 +1,1 @@
+["examples/router/index.html", "examples/router/src/lib.rs", "examples/router/style.css", "router/src/components.rs", "router/src/flat_router.rs", "router/src/hooks.rs", "router/src/lib.rs", "router/src/location/history.rs", "router/src/location/mod.rs", "router/src/matching/mod.rs", "router/src/nested_router.rs"]

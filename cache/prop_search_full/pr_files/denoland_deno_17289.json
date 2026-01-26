@@ -1,0 +1,1 @@
+["cli/args/lockfile.rs", "cli/npm/registry.rs", "cli/npm/resolution/snapshot.rs", "cli/npm/tarball.rs"]

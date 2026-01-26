@@ -1,0 +1,1 @@
+["cranelift/codegen/src/opts/arithmetic.isle", "cranelift/codegen/src/opts/bitops.isle", "cranelift/codegen/src/opts/cprop.isle", "cranelift/filetests/filetests/egraph/arithmetic.clif", "cranelift/filetests/filetests/egraph/cprop.clif", "cranelift/filetests/filetests/egraph/shifts.clif"]

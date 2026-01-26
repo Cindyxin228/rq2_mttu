@@ -1,0 +1,1 @@
+["src/core/index.rs", "src/core/index_meta.rs", "src/core/mod.rs", "src/directory/mmap_directory.rs", "src/error.rs", "src/indexer/segment_updater.rs", "src/lib.rs"]

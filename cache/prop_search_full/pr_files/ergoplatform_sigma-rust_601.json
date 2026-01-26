@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bindings/ergo-lib-c-core/src/rest/api/callback.rs", "bindings/ergo-lib-c/src/macros.rs", "ergo-rest/src/api/node.rs", "ergo-rest/src/api/peer_discovery_internals/non_chrome.rs", "ergoscript-compiler/src/parser/parse.rs", "ergotree-ir/src/sigma_protocol/dlog_group.rs", "gf2_192/src/gf2_192.rs"]

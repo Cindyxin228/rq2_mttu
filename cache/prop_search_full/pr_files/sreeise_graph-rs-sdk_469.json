@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/client_configuration.rs", "examples/identity_platform_auth/client_credentials/client_credentials_secret.rs", "graph-core/Cargo.toml", "graph-error/src/graph_failure.rs", "graph-http/Cargo.toml", "graph-http/src/client.rs", "graph-http/src/lib.rs", "graph-http/src/request_handler.rs", "graph-http/src/tower_services.rs", "graph-oauth/Cargo.toml"]

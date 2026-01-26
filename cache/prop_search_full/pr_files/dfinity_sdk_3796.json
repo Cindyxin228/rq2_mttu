@@ -1,0 +1,1 @@
+["CHANGELOG.md", "e2e/tests-dfx/cycles-ledger.bash", "e2e/tests-dfx/wallet.bash", "src/dfx/src/commands/canister/delete.rs", "src/dfx/src/commands/canister/deposit_cycles.rs", "src/dfx/src/commands/wallet/redeem_faucet_coupon.rs", "src/dfx/src/lib/cycles_ledger_types/mod.rs", "src/dfx/src/lib/operations/canister/create_canister.rs", "src/dfx/src/lib/operations/cycles_ledger.rs"]

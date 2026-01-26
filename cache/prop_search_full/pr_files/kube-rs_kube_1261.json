@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "examples/Cargo.toml", "examples/README.md", "examples/custom_client.rs", "examples/custom_client_tls.rs", "examples/custom_client_trace.rs", "kube-client/src/client/auth/oauth.rs", "kube-client/src/client/auth/oidc.rs", "kube-client/src/client/builder.rs", "kube-client/src/error.rs", "kube/Cargo.toml"]

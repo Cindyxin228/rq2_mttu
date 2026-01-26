@@ -1,0 +1,1 @@
+["wayland-client/src/cursor.rs", "wayland-client/src/display.rs", "wayland-client/src/rust_imp/mod.rs", "wayland-protocols/src/stable.rs", "wayland-server/src/client.rs", "wayland-server/src/globals.rs", "wayland-server/src/native_lib/mod.rs", "wayland-server/src/rust_imp/mod.rs", "wayland-sys/src/lib.rs"]

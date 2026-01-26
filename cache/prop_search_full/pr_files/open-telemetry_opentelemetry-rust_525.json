@@ -1,0 +1,1 @@
+["examples/basic/src/main.rs", "opentelemetry/benches/ddsketch.rs", "opentelemetry/src/sdk/export/metrics/aggregation.rs", "opentelemetry/src/sdk/export/metrics/mod.rs", "opentelemetry/src/sdk/export/metrics/stdout.rs", "opentelemetry/src/sdk/metrics/aggregators/array.rs", "opentelemetry/src/sdk/metrics/aggregators/ddsketch.rs"]

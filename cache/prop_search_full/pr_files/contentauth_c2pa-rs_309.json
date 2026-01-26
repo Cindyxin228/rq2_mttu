@@ -1,0 +1,1 @@
+["sdk/Cargo.toml", "sdk/src/asset_handlers/mod.rs", "sdk/src/asset_handlers/pdf.rs", "sdk/src/asset_handlers/pdf_io.rs", "sdk/src/error.rs", "sdk/src/jumbf_io.rs", "sdk/src/utils/mod.rs", "sdk/tests/fixtures/basic-no-xmp.pdf"]

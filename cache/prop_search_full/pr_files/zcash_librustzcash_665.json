@@ -1,0 +1,1 @@
+["zcash_client_sqlite/src/wallet/init.rs", "zcash_client_sqlite/src/wallet/init/migrations.rs", "zcash_client_sqlite/src/wallet/init/migrations/add_transaction_views.rs", "zcash_client_sqlite/src/wallet/init/migrations/sent_notes_to_internal.rs", "zcash_client_sqlite/src/wallet/init/migrations/ufvk_support.rs"]

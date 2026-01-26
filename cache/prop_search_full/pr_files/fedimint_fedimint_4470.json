@@ -1,0 +1,1 @@
+[".dockerignore", ".gitignore", "flake.nix", "scripts/_common.sh", "scripts/dev/bootstrap.sh", "scripts/dev/mprocs/run.sh", "scripts/dev/tmuxinator/run.sh"]

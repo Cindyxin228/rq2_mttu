@@ -1,0 +1,1 @@
+["src/bin/upgrade/upgrade.rs", "tests/cargo-upgrade/exclude_dep/stderr.log", "tests/cargo-upgrade/main.rs", "tests/cargo-upgrade/pinned/out/Cargo.toml", "tests/cargo-upgrade/pinned/stderr.log", "tests/cargo-upgrade/upgrade_verbose/stderr.log"]

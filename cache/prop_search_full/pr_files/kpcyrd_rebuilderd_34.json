@@ -1,0 +1,1 @@
+["contrib/confs/rebuilderd-worker.conf", "worker/src/diffoscope.rs", "worker/src/proc.rs", "worker/src/rebuild.rs"]

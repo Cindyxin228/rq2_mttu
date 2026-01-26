@@ -1,0 +1,1 @@
+["contracts/core/price-aggregator/scenarios/stress_submit_test.scen.json", "docker-compose.yml", "framework/meta/src/cmd/chain_simulator/error.rs", "tools/rust-debugger/format-tests/src/format_tests.rs"]

@@ -1,0 +1,1 @@
+["crates/apub/src/activities/community/announce.rs", "crates/apub/src/http/mod.rs", "crates/db_schema/src/impls/activity.rs", "crates/db_schema/src/schema.rs", "crates/db_schema/src/source/activity.rs", "migrations/2021-11-22-135324_add_activity_ap_id_index/down.sql", "migrations/2021-11-22-135324_add_activity_ap_id_index/up.sql"]

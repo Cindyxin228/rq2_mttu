@@ -1,0 +1,1 @@
+["crates/re_build_examples/src/example.rs", "crates/re_build_info/src/build_info.rs", "crates/re_sdk/src/recording_stream.rs", "examples/python/structure_from_motion/main.py", "rerun_py/rerun_sdk/rerun/script_helpers.py", "rerun_py/rerun_sdk/rerun/sinks.py", "rerun_py/src/python_bridge.rs"]

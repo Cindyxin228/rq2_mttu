@@ -1,0 +1,1 @@
+["juliet/Cargo.toml", "juliet/README.md", "juliet/src/io.rs", "juliet/src/protocol.rs", "juliet/src/protocol/outgoing_message.rs", "juliet/src/rpc.rs", "juliet/test.sh", "node/src/components/network.rs"]

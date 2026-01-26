@@ -1,0 +1,1 @@
+["lib/wasi-tests/wasitests/poll_oneoff.out", "lib/wasi-tests/wasitests/poll_oneoff.rs", "lib/wasi-tests/wasitests/poll_oneoff.wasm", "lib/wasi/src/state/types.rs", "lib/wasi/src/syscalls/mod.rs"]

@@ -1,0 +1,1 @@
+["esp-hal-common/Cargo.toml", "esp-hal-procmacros/Cargo.toml", "esp32-hal/Cargo.toml", "esp32c2-hal/Cargo.toml", "esp32c3-hal/Cargo.toml", "esp32s2-hal/Cargo.toml", "esp32s2-hal/examples/ledc.rs", "esp32s3-hal/Cargo.toml"]

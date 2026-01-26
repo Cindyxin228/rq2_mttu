@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/blob/core.rs", "src/blob/header.rs", "src/blob/index/bptree/tests.rs", "src/io/mod.rs", "src/io/unix/iouring.rs", "src/io/unix/sync.rs", "src/io/windows/mod.rs", "src/io/windows/sync.rs", "src/lib.rs", "tests/tests.rs"]

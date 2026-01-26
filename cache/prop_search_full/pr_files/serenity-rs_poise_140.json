@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/testing/main.rs", "examples/testing/misc.rs", "src/builtins/mod.rs", "src/dispatch/prefix.rs", "src/dispatch/slash.rs", "src/lib.rs", "src/structs/framework_error.rs"]

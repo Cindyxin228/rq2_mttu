@@ -1,0 +1,1 @@
+["tests/tests/wgpu-gpu/encoder.rs", "wgpu-core/src/command/clear.rs", "wgpu-core/src/command/compute.rs", "wgpu-core/src/command/mod.rs", "wgpu-core/src/command/query.rs", "wgpu-core/src/command/render.rs", "wgpu-core/src/command/transfer.rs", "wgpu-core/src/command/transition_resources.rs", "wgpu-core/src/ray_tracing.rs"]

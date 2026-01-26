@@ -1,0 +1,1 @@
+["examples/recognizer/embedded_recognize_once_async_from_file.rs", "examples/recognizer/main.rs", "src/common/property_id.rs", "src/speech.rs", "src/speech/embedded_speech_config.rs", "src/speech/speech_recognizer.rs"]

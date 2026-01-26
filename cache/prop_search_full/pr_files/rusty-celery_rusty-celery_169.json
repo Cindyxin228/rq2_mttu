@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/celery_app.rs", "src/beat/mod.rs", "src/beat/tests.rs", "src/codegen.rs", "src/error.rs", "src/lib.rs", "src/prelude.rs", "src/task/mod.rs", "src/task/signature.rs"]

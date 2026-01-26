@@ -1,0 +1,1 @@
+["datafusion-expr/src/accumulator.rs", "datafusion-expr/src/columnar_value.rs", "datafusion-expr/src/lib.rs", "datafusion/src/physical_plan/functions.rs", "datafusion/src/physical_plan/mod.rs"]

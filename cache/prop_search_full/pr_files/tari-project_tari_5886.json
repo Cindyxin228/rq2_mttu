@@ -1,0 +1,1 @@
+["Cargo.lock", "applications/minotari_node/Cargo.toml", "applications/minotari_node/src/config.rs", "applications/minotari_node/src/grpc/base_node_grpc_server.rs", "applications/minotari_node/src/lib.rs", "common/config/presets/c_base_node.toml", "integration_tests/src/base_node_process.rs"]

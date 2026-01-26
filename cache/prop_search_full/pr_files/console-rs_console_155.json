@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/ci.yml", "Cargo.toml", "scripts/wasmtime-wrapper.sh", "src/wasm_term.rs"]

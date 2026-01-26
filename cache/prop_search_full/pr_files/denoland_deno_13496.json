@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.unstable.d.ts", "cli/tests/unit/os_test.ts", "runtime/js/30_os.js", "runtime/js/90_deno_ns.js", "runtime/ops/os.rs"]

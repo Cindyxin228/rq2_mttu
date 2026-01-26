@@ -1,0 +1,1 @@
+["cli/man/splinter-registry-add.1.md", "cli/man/splinter-registry-build.1.md", "cli/man/splinter-registry.1.md", "cli/man/splinter-role-create.1.md", "cli/man/splinter-role-delete.1.md", "cli/man/splinter-role-list.1.md", "cli/man/splinter-role-show.1.md", "cli/man/splinter-role-update.1.md", "cli/man/splinter-upgrade.1.md", "cli/man/splinter.1.md", "cli/src/main.rs"]

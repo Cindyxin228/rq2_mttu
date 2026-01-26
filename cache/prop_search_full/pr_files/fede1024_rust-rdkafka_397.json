@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "changelog.md", "rdkafka-sys/Cargo.toml", "rdkafka-sys/changelog.md", "rdkafka-sys/librdkafka", "rdkafka-sys/src/bindings.rs", "src/client.rs", "src/consumer/stream_consumer.rs", "src/lib.rs", "src/producer/future_producer.rs", "src/statistics.rs"]

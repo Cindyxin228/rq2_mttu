@@ -1,0 +1,1 @@
+[".changes/build-android-env-vars.md", ".changes/mobile-entry-point-macro.md", ".changes/tauri-mobile-entry-point.md", "core/tauri-build/src/lib.rs", "core/tauri-macros/src/lib.rs", "core/tauri-macros/src/mobile.rs", "core/tauri/Cargo.toml", "core/tauri/src/lib.rs", "examples/api/src-tauri/Cargo.lock", "examples/api/src-tauri/Cargo.toml", "examples/api/src-tauri/src/mobile.rs"]

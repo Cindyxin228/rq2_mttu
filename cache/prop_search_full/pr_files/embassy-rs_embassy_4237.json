@@ -1,0 +1,1 @@
+["embassy-rp/src/gpio.rs", "tests/rp/src/bin/gpio.rs"]

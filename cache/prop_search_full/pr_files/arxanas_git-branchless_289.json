@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/commands/amend.rs", "src/commands/gc.rs", "src/commands/hide.rs", "src/commands/hooks.rs", "src/commands/navigation.rs", "src/commands/undo.rs", "src/core/formatting.rs", "src/core/rewrite/execute.rs", "src/core/rewrite/rewrite_hooks.rs", "tests/command/test_hide.rs", "tests/test_branchless.rs"]

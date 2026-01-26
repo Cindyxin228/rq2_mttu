@@ -1,0 +1,1 @@
+["clang-tidy-sarif/src/bin.rs", "clippy-sarif/src/bin.rs", "hadolint-sarif/src/bin.rs", "sarif-fmt/src/bin.rs", "shellcheck-sarif/src/bin.rs"]

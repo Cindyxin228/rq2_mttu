@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "src/board.rs", "src/chess/position.rs", "src/lib.rs", "src/parse.rs", "src/search.rs", "src/utils/board_utils.rs"]

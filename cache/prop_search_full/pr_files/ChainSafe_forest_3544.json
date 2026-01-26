@@ -1,0 +1,1 @@
+[".github/workflows/rust-lint.yml", "scripts/linters/find_banned_deps.rb"]

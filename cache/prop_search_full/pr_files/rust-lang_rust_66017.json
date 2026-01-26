@@ -1,0 +1,1 @@
+["src/libcore/iter/traits/collect.rs", "src/librustc_lint/array_into_iter.rs", "src/librustc_lint/lib.rs", "src/libtest/tests.rs", "src/test/ui/iterators/into-iter-on-arrays-lint.fixed", "src/test/ui/iterators/into-iter-on-arrays-lint.rs", "src/test/ui/iterators/into-iter-on-arrays-lint.stderr"]

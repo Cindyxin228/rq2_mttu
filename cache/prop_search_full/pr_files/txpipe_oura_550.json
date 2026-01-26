@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/sinks/rabbitmq.md", "src/bin/oura/daemon.rs", "src/sinks/mod.rs", "src/sinks/rabbitmq/mod.rs", "src/sinks/rabbitmq/run.rs", "src/sinks/rabbitmq/setup.rs"]

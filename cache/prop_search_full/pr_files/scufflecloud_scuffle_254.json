@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/postcompile/Cargo.toml", "crates/postcompile/src/lib.rs", "crates/postcompile/src/snapshots/postcompile__tests__compile_failure.snap", "crates/postcompile/src/snapshots/postcompile__tests__compile_success.snap"]

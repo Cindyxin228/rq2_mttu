@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CONTRIBUTING.md", "Cargo.lock", "README.md", "fuel-p2p/Cargo.toml", "fuel-p2p/src/behavior.rs", "fuel-p2p/src/config.rs", "fuel-p2p/src/discovery.rs", "fuel-p2p/src/discovery/discovery_config.rs", "fuel-p2p/src/discovery/mdns.rs", "fuel-p2p/src/orchestrator.rs", "fuel-p2p/src/peer_info.rs", "fuel-p2p/src/service.rs"]

@@ -1,0 +1,1 @@
+["Containerfile", "README.md", "compose.yaml", "docs/benchmarking.md", "docs/containers.md", "docs/profiling.md", "packages/configuration/src/lib.rs", "packages/configuration/src/v1/mod.rs", "packages/primitives/src/lib.rs", "share/container/entry_script_sh", "src/bootstrap/config.rs", "src/console/ci/e2e/runner.rs", "src/console/profiling.rs", "src/lib.rs"]

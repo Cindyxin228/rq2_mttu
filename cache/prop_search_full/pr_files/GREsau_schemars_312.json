@@ -1,0 +1,1 @@
+["docs/1.1-attributes.md", "docs/Gemfile", "schemars/tests/expected/transform_enum_external.json", "schemars/tests/expected/transform_struct.json", "schemars/tests/extend.rs", "schemars/tests/transform.rs", "schemars/tests/ui/transform_str.rs", "schemars/tests/ui/transform_str.stderr", "schemars_derive/src/attr/mod.rs", "schemars_derive/src/metadata.rs"]

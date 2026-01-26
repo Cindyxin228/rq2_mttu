@@ -1,0 +1,1 @@
+["src/engine/execution/batch_merging.rs", "src/engine/execution/query_task.rs", "src/engine/planning/mod.rs", "src/engine/planning/query.rs", "src/syntax/parser.rs", "tests/query_tests.rs"]

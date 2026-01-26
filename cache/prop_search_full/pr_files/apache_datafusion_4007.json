@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/errors.rs", "datafusion/core/tests/sql/expr.rs", "datafusion/core/tests/sql/functions.rs", "datafusion/core/tests/sql/mod.rs", "datafusion/core/tests/sql/udf.rs"]

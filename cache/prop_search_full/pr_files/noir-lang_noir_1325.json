@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/noirc_abi/Cargo.toml", "crates/noirc_abi/src/errors.rs", "crates/noirc_abi/src/input_parser/json.rs", "crates/noirc_abi/src/input_parser/mod.rs", "crates/noirc_abi/src/input_parser/toml.rs"]

@@ -1,0 +1,1 @@
+["crates/ide/src/inlay_hints.rs", "crates/ide/src/lib.rs", "crates/ide/src/static_index.rs", "crates/rust-analyzer/src/config.rs", "crates/rust-analyzer/src/to_proto.rs", "crates/test_utils/src/lib.rs", "docs/user/generated_config.adoc", "editors/code/package.json"]

@@ -1,0 +1,1 @@
+[".gitignore", "Earthfile", "README.md", "install.sh", "src/bin/bluebuild.rs", "src/commands/build.rs", "src/commands/completions.rs", "templates/Containerfile"]

@@ -1,0 +1,1 @@
+["crates/containerd-shim-wasm/CHANGELOG.md", "crates/containerd-shim-wasm/src/sandbox/instance.rs", "crates/containerd-shim-wasm/src/sandbox/shim/instance_data.rs", "crates/containerd-shim-wasm/src/sandbox/shim/local.rs", "crates/containerd-shim-wasm/src/sys/unix/container/instance.rs", "crates/containerd-shim-wasm/src/testing.rs"]

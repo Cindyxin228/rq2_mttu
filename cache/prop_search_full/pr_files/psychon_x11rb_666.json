@@ -1,0 +1,1 @@
+["examples/tutorial.rs", "src/connection.rs", "src/cookie.rs", "src/extension_manager.rs", "src/rust_connection/mod.rs", "src/xcb_ffi/mod.rs", "src/xcb_ffi/pending_errors.rs", "tests/multithread_test.rs", "tests/regression_tests.rs", "tests/resource_manager.rs", "x11rb-protocol/src/connection/mod.rs", "x11rb-protocol/src/lib.rs"]

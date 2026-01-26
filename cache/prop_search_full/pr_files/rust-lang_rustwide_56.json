@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/build.rs", "src/prepare.rs", "tests/buildtest/crates/path-based-patch/Cargo.toml", "tests/buildtest/crates/path-based-patch/patch/Cargo.toml", "tests/buildtest/crates/path-based-patch/patch/src/lib.rs", "tests/buildtest/crates/path-based-patch/src/main.rs", "tests/buildtest/inside_docker.rs", "tests/buildtest/mod.rs", "tests/buildtest/runner.rs"]

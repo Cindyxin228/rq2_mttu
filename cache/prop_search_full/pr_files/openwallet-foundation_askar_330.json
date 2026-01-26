@@ -1,0 +1,1 @@
+["askar-crypto/src/alg/aes/mod.rs", "askar-crypto/src/alg/any.rs", "askar-crypto/src/alg/chacha20.rs", "askar-crypto/src/alg/ed25519.rs", "askar-crypto/src/alg/k256.rs", "askar-crypto/src/alg/p256.rs", "askar-crypto/src/alg/p384.rs", "askar-crypto/src/alg/x25519.rs", "wrappers/python/tests/test_keys.py", "wrappers/python/tests/test_store.py"]

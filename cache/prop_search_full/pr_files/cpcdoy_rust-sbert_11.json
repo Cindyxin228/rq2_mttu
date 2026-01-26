@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/bench_sbert.rs", "src/bin/convert-tensor.rs", "src/lib.rs", "src/sbert.rs", "src/tokenizers/hf_tokenizers_impl.rs", "src/tokenizers/rust_tokenizers_impl.rs", "src/tokenizers/tokenizer.rs", "tests/test_sbert.rs"]

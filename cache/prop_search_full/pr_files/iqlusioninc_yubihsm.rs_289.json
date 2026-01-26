@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/asymmetric/public_key.rs", "src/connector/usb/config.rs", "src/ecdsa/signer.rs", "src/mockhsm/command.rs", "src/mockhsm/object/payload.rs", "tests/ecdsa/mod.rs"]

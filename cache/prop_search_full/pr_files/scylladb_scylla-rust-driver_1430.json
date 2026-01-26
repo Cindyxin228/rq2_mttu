@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock.msrv", "README.md", "scylla-cql/Cargo.toml", "scylla-cql/src/frame/request/mod.rs", "scylla-cql/src/frame/response/mod.rs", "scylla-macros/Cargo.toml", "scylla-proxy/Cargo.toml", "scylla/Cargo.toml", "scylla/src/policies/speculative_execution.rs"]

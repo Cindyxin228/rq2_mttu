@@ -1,0 +1,1 @@
+["api_tests/src/shared.ts", "crates/db_schema/Cargo.toml", "crates/db_schema/src/impls/community.rs", "crates/db_schema/src/impls/person.rs", "crates/db_schema/src/lib.rs", "crates/utils/src/settings/mod.rs"]

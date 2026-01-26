@@ -1,0 +1,1 @@
+[".github/scripts/cargo-update-table.sh", ".github/scripts/patch-docs.sh", ".github/workflows/cargo-update.yaml", ".github/workflows/ci.yaml"]

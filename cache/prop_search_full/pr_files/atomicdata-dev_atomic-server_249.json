@@ -1,0 +1,1 @@
+["CHANGELOG.md", "lib/defaults/default_store.json", "lib/src/agents.rs", "lib/src/collections.rs", "lib/src/commit.rs", "lib/src/db.rs", "lib/src/hierarchy.rs", "lib/src/plugins/invite.rs", "lib/src/plugins/versioning.rs", "lib/src/storelike.rs", "server/src/commit_monitor.rs", "server/src/handlers/search.rs"]

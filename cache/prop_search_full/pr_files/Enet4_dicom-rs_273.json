@@ -1,0 +1,1 @@
+["pixeldata/fuzz/.gitignore", "pixeldata/fuzz/Cargo.lock", "pixeldata/fuzz/Cargo.toml", "pixeldata/fuzz/fuzz.sh", "pixeldata/fuzz/fuzz_targets/decode_image_file.rs", "pixeldata/fuzz/fuzz_targets/decode_simple_image.rs"]

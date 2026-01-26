@@ -1,0 +1,1 @@
+["src/aio.rs", "src/aio/async_std.rs", "src/client.rs", "src/cluster.rs", "src/cluster_client.rs", "src/connection.rs", "src/lib.rs", "tests/support/mod.rs", "tests/test_async.rs"]

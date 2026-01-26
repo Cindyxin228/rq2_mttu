@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/canisters/frontend/ic-certified-assets/src/asset_certification/types/http.rs", "src/canisters/frontend/ic-certified-assets/src/lib.rs", "src/canisters/frontend/ic-frontend-canister/src/lib.rs", "src/dfx/src/lib/cycles_ledger_types/withdraw.rs", "src/distributed/assetstorage.wasm.gz"]

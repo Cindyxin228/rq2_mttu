@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "finalfrontier-utils/Cargo.toml", "finalfrontier-utils/src/bin/ff-train-deps.rs", "finalfrontier-utils/src/bin/ff-train-skipgram.rs", "finalfrontier/Cargo.toml", "finalfrontier/src/lib.rs", "finalfrontier/src/subword.rs", "finalfrontier/src/train_model.rs", "finalfrontier/src/vocab/simple.rs", "finalfrontier/src/vocab/subword.rs"]

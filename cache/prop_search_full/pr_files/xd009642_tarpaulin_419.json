@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/config/mod.rs", "src/config/parse.rs", "src/report/cobertura.rs", "src/report/coveralls.rs", "src/report/html.rs", "src/report/json.rs", "src/report/lcov.rs", "src/report/mod.rs"]

@@ -1,0 +1,1 @@
+["crossbeam-channel/src/channel.rs", "crossbeam-channel/src/flavors/at.rs", "crossbeam-channel/src/flavors/mod.rs", "crossbeam-channel/src/lib.rs", "crossbeam-channel/src/select.rs"]

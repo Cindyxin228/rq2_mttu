@@ -1,0 +1,1 @@
+["cli/tests/084_worker_custom_inspect.ts", "cli/tests/084_worker_custom_inspect.ts.out", "cli/tests/084_worker_custom_inspect_worker.ts", "cli/tests/integration_tests.rs", "cli/tests/unit/event_test.ts", "op_crates/fetch/11_streams.js", "op_crates/web/01_event.js", "op_crates/web/11_url.js", "op_crates/web/12_location.js", "runtime/js/02_console.js"]

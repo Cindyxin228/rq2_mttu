@@ -1,0 +1,1 @@
+["Cargo.lock", "auth/Cargo.toml", "auth/prepare.sh", "auth/src/api/builder.rs", "auth/src/api/handlers.rs", "auth/src/lib.rs", "common/src/backends/auth.rs", "gateway/src/api/auth_layer.rs", "gateway/src/api/cache.rs", "gateway/src/api/latest.rs", "gateway/src/api/mod.rs"]

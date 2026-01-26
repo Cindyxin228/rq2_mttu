@@ -1,0 +1,1 @@
+["kube/src/lib.rs", "kube/src/runtime/informer.rs", "kube/src/runtime/mod.rs", "kube/src/runtime/reflector.rs"]

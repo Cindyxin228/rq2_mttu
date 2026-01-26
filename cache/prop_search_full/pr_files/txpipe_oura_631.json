@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/elasticsearch/daemon.toml", "examples/elasticsearch/docker-compose.yaml", "src/sinks/_pending/elastic/mod.rs", "src/sinks/_pending/elastic/run.rs", "src/sinks/_pending/elastic/setup.rs", "src/sinks/elasticsearch.rs", "src/sinks/mod.rs"]

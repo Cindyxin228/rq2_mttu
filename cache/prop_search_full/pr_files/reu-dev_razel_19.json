@@ -1,0 +1,1 @@
+[".github/workflows/bump-version-and-create-tag.ts", ".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "include/deno/razel.ts", "include/python/razel.py", "src/cli.rs", "src/executors/custom_command.rs", "src/lib.rs", "src/main.rs"]

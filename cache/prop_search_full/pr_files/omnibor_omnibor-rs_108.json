@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "gitoid/cbindgen.toml", "gitoid/ctest.sh", "gitoid/src/error.rs", "gitoid/src/gitoid.rs", "gitoid/src/lib.rs", "gitoid/src/object_type.rs", "gitoid/src/tests.rs", "gitoid/test/.gitignore", "gitoid/test/c/test.c"]

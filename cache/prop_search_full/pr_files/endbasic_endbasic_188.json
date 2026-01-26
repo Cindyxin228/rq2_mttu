@@ -1,0 +1,1 @@
+["NEWS.md", "cli/Cargo.toml", "client/Cargo.toml", "client/src/lib.rs", "core/Cargo.toml", "core/src/exec.rs", "repl/Cargo.toml", "rpi/Cargo.toml", "sdl/Cargo.toml", "std/Cargo.toml", "std/src/console/mod.rs", "std/src/gpio/mod.rs", "std/src/storage/mod.rs", "terminal/Cargo.toml", "web/Cargo.toml", "web/package-lock.json", "web/package.json"]

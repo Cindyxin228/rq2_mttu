@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cli/src/args.rs", "crates/cli/src/config/runtime.rs", "crates/lib/src/config.rs", "crates/lib/src/error/runtime.rs", "crates/lib/src/error/specialised.rs", "crates/lib/src/event.rs", "crates/lib/src/keyboard.rs", "crates/lib/src/lib.rs", "crates/lib/src/watchexec.rs", "doc/watchexec.1.ronn"]

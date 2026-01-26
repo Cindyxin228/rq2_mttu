@@ -1,0 +1,1 @@
+["cli/src/action/circuit/mod.rs", "cli/src/action/circuit/payload.rs", "cli/src/action/health.rs", "cli/src/action/maintenance.rs", "cli/src/action/mod.rs", "cli/src/action/permissions.rs", "cli/src/action/rbac/mod.rs", "cli/src/action/registry/mod.rs", "cli/src/main.rs", "cli/src/signing.rs"]

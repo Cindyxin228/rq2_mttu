@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/demo/src-tauri/src/main.rs", "examples/demo/src/lib/components/listener.svelte", "examples/demo/src/lib/components/monitor.svelte", "examples/demo/src/lib/components/read-and-write.svelte", "examples/demo/src/routes/+page.svelte", "package.json", "src/lib.rs", "webview-dist/index.d.ts", "webview-dist/index.js", "webview-src/index.ts"]

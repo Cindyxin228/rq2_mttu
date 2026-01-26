@@ -1,0 +1,1 @@
+[".changelog/unreleased/features/167-ics721-impl.md", "scripts/sync-protobuf.sh", "src/NFT_TRANSFER_COMMIT", "src/lib.rs", "src/prost/ibc.applications.nft_transfer.v1.rs", "src/prost/ibc.applications.nft_transfer.v1.serde.rs", "src/prost/proto_descriptor.bin", "tools/proto-compiler/src/cmd/clone.rs", "tools/proto-compiler/src/cmd/compile.rs"]

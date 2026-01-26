@@ -1,0 +1,1 @@
+[".github/scripts/common/lib.sh", ".github/workflows/release-10_rc-automation.yml", ".github/workflows/release-50_publish-docker.yml", ".github/workflows/release-srtool.yml"]

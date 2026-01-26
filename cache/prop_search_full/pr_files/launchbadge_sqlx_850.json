@@ -1,0 +1,1 @@
+["sqlx-core/src/sqlite/mod.rs", "sqlx-core/src/sqlite/options/connect.rs", "sqlx-core/src/sqlite/options/mod.rs", "sqlx-core/src/sqlite/options/synchronous.rs"]

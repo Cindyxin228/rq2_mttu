@@ -1,0 +1,1 @@
+["src/cobalt_model/config.rs", "src/cobalt_model/mark.rs", "src/cobalt_model/template.rs", "src/cobalt_model/vwiki.rs", "src/syntax_highlight.rs", "tests/cli_tests.rs", "tests/cmd/publish_draft.in/_cobalt.yml", "tests/cmd/publish_post.in/_cobalt.yml", "tests/cmd/publish_post_with_date.in/_cobalt.yml", "tests/cmd/rename_page.in/_cobalt.yml", "tests/fixtures/init/_cobalt.yml"]

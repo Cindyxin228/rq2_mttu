@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "packages/fuel-indexer-database/postgres/Cargo.toml", "packages/fuel-indexer-database/postgres/src/lib.rs", "packages/fuel-indexer-tests/components/indices/simple-wasm/simple_wasm.wasm", "plugins/forc-index/src/defaults.rs"]

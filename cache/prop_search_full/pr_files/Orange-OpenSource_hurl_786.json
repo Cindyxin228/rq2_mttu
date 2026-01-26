@@ -1,0 +1,1 @@
+["integration/ssl/error_self_signed_certificate.err.pattern", "integration/ssl/error_self_signed_certificate.linux-fedora.err", "integration/ssl/error_self_signed_certificate.windows.err", "integration/test_hurl.py"]

@@ -1,0 +1,1 @@
+["data/src/observation_store.rs", "data/src/transaction_store.rs", "data/src/utxo_store.rs", "schema/json_build_config.json", "schema/src/proto/structs.proto", "schema/src/util/xor_distance.rs", "src/core/relay.rs", "src/core/transact/tx_builder_supports.rs", "src/core/transport/peer_rx_event_handler.rs", "src/data/download.rs", "src/node.rs", "src/node_config.rs"]

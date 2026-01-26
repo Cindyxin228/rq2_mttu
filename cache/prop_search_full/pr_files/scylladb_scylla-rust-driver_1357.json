@@ -1,0 +1,1 @@
+["examples/cqlsh-rs.rs", "scylla-proxy/src/frame.rs", "scylla/src/cluster/node.rs", "scylla/src/network/connection.rs", "scylla/src/network/tls.rs", "scylla/src/response/query_result.rs", "scylla/src/statement/batch.rs", "scylla/src/utils/test_utils.rs"]

@@ -1,0 +1,1 @@
+["cli/loader/src/lib.rs", "cli/src/highlight.rs", "cli/src/main.rs", "cli/src/test_highlight.rs", "cli/src/tests/helpers/fixtures.rs", "cli/src/tests/highlight_test.rs", "cli/src/tests/language_test.rs", "cli/src/tests/query_test.rs", "highlight/include/tree_sitter/highlight.h", "highlight/src/c_lib.rs", "highlight/src/lib.rs"]

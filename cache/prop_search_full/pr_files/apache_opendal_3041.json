@@ -1,0 +1,1 @@
+["core/Cargo.toml", "core/src/raw/adapters/kv/backend.rs", "core/src/raw/adapters/typed_kv/backend.rs", "core/src/raw/oio/buf/chunked_bytes.rs", "core/src/services/etcd/backend.rs"]

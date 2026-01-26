@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "ci/nostd-check/Cargo.toml", "ci/nostd-check/rust-toolchain.toml", "ci/nostd-check/src/bin/nostd_check.rs", "commons/zenoh-protocol/Cargo.toml", "commons/zenoh-protocol/src/core/cowstr.rs"]

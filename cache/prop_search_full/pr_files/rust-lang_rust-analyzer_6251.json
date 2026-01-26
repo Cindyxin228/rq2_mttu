@@ -1,0 +1,1 @@
+["crates/hir/src/code_model.rs", "crates/ide/src/syntax_highlighting.rs", "crates/ide/src/syntax_highlighting/tags.rs", "crates/ide/src/syntax_highlighting/test_data/highlighting.html", "crates/ide/src/syntax_highlighting/tests.rs", "crates/rust-analyzer/src/semantic_tokens.rs", "crates/rust-analyzer/src/to_proto.rs", "editors/code/package.json"]

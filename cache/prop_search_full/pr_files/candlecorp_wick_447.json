@@ -1,0 +1,1 @@
+["Cargo.toml", "src/commands.rs", "src/commands/query.rs", "tests/invoke.rs", "tests/new.rs", "tests/query.rs", "tests/query/unit/jq-style.toml", "tests/query/unit/no-curlies.toml", "tests/query/unit/with-curlies.toml", "tests/run.rs", "tests/serve.rs", "tests/test.rs", "tests/utils/mod.rs"]

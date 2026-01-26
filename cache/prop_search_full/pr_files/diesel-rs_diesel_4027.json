@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "diesel/Cargo.toml", "diesel/src/mysql/connection/bind.rs", "diesel/src/mysql/connection/raw.rs", "diesel_cli/Cargo.toml", "diesel_compile_tests/Cargo.lock", "diesel_tests/Cargo.toml"]

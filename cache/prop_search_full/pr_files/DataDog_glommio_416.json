@@ -1,0 +1,1 @@
+["examples/storage.rs", "glommio/Cargo.toml", "glommio/src/io/bulk_io.rs", "glommio/src/io/dma_file.rs", "glommio/src/io/immutable_file.rs", "glommio/src/io/sched.rs", "glommio/src/sys/uring.rs"]

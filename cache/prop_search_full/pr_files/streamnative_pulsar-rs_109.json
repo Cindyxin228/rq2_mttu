@@ -1,0 +1,1 @@
+["examples/batching.rs", "examples/producer.rs", "examples/round_trip.rs", "src/client.rs", "src/consumer.rs", "src/lib.rs", "src/producer.rs"]

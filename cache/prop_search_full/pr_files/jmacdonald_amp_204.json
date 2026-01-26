@@ -1,0 +1,1 @@
+["documentation/pages/configuration.md", "src/commands/buffer.rs", "src/input/key_map/default.yml", "src/models/application/mod.rs", "src/models/application/preferences/default.yml", "src/models/application/preferences/mod.rs", "src/view/presenter.rs"]

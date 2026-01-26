@@ -1,0 +1,1 @@
+[".gitignore", "scene3d/Cargo.toml", "scene3d/assets/basic_shading_rendy.glslf", "scene3d/assets/basic_shading_rendy.glslv", "scene3d/assets/colored_cube_rendy.glslf", "scene3d/assets/colored_cube_rendy.glslv", "scene3d/examples/colored_cube.rs", "scene3d/examples/monkey.rs", "scene3d/src/gl_backend/mod.rs", "scene3d/src/lib.rs", "scene3d/src/rendy_backend/mod.rs"]

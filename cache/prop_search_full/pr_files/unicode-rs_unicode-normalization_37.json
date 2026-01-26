@@ -1,0 +1,1 @@
+["scripts/unicode.py", "src/lib.rs", "src/lookups.rs", "src/normalize.rs", "src/perfect_hash.rs", "src/quick_check.rs", "src/stream_safe.rs", "src/tables.rs"]

@@ -1,0 +1,1 @@
+[".circleci/config.yml", "contracts/vending-minter/schema/query_msg.json", "contracts/vending-minter/src/contract.rs", "contracts/vending-minter/src/integration_tests.rs", "contracts/vending-minter/src/msg.rs"]

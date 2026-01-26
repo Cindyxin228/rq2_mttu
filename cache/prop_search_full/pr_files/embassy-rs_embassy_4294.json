@@ -1,0 +1,1 @@
+["embassy-stm32/Cargo.toml", "examples/stm32c0/Cargo.toml", "examples/stm32c0/src/bin/rtc.rs"]

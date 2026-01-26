@@ -1,0 +1,1 @@
+["changelog/issue-5941.md", "services/worker-manager/README.md", "services/worker-manager/src/providers/azure/azure-ca-certs/microsoft_azure_tls_issuing_ca_01_xsign.pem", "services/worker-manager/src/providers/azure/index.js", "services/worker-manager/test/fixtures/azure_signature_good", "services/worker-manager/test/provider_azure_test.js"]

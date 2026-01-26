@@ -1,0 +1,1 @@
+["src/compositor.rs", "src/error.rs", "src/lib.rs", "src/shell/layer/mod.rs", "src/shell/xdg/mod.rs", "src/shell/xdg/window/mod.rs", "src/shm/mod.rs", "src/shm/pool/mod.rs", "src/shm/pool/raw.rs"]

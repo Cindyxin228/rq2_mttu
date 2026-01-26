@@ -1,0 +1,1 @@
+["core/embed/rust/Cargo.toml", "core/embed/rust/src/trezorhal/display.rs", "core/embed/trezorhal/boards/trezor_t.h", "core/embed/trezorhal/displays/st7789v.c", "core/embed/trezorhal/displays/st7789v.h", "core/site_scons/boards/trezor_t.py"]

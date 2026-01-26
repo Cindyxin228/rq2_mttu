@@ -1,0 +1,1 @@
+["packages/fuel-indexer-api-server/src/uses.rs", "packages/fuel-indexer-database/postgres/src/lib.rs", "packages/fuel-indexer-database/src/queries.rs", "packages/fuel-indexer-lib/src/utils.rs", "packages/fuel-indexer-tests/tests/integration/web_api_postgres.rs", "packages/fuel-indexer/src/service.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command/bump/mod.rs", "src/command/bump/monorepo.rs", "src/command/bump/package.rs", "src/command/bump/standard.rs", "src/command/check.rs", "src/conventional/bump.rs", "src/conventional/changelog/release.rs", "src/conventional/commit.rs", "src/error.rs", "src/lib.rs", "tests/lib_tests/cocogitto.rs"]

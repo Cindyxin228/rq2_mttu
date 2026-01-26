@@ -1,0 +1,1 @@
+[".editorconfig", ".github/workflows/docker-publish.yml", "docker/Package.Dockerfile", "docker/Package.glibc-busybox.Dockerfile", "docker/Package.glibc-distroless.Dockerfile", "docker/docker-compose.package.yml", "docs/docker.md"]

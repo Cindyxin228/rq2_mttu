@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CONTRIBUTING.md", "Cargo.lock", "Cargo.toml", "README.md", "benches/bench-consumers/Cargo.toml", "crates/fuel-streams-core/src/stream/stream_impl.rs", "crates/fuel-streams-publisher/Cargo.toml", "crates/fuel-streams-publisher/README.md", "crates/fuel-streams/README.md", "package.json", "pnpm-lock.yaml"]

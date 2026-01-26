@@ -1,0 +1,1 @@
+["src/lib.rs", "src/openapi/v2/schema.rs", "src/openapi/v3_0/schema.rs", "tests/unit_tests.rs", "tests/wasm_browser.rs", "tests/wasm_node.rs"]

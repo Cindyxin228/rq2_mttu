@@ -1,0 +1,1 @@
+["src/commands/setup.rs", "src/commands/teardown.rs", "src/dns/aardvark.rs", "src/network/bridge.rs", "src/network/driver.rs", "test/100-bridge-iptables.bats", "test/200-bridge-firewalld.bats"]

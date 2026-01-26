@@ -1,0 +1,1 @@
+["sqlx-sqlite/src/connection/explain.rs", "sqlx-sqlite/src/connection/intmap.rs", "sqlx-sqlite/src/connection/mod.rs", "sqlx-sqlite/src/logger.rs", "tests/sqlite/describe.rs"]

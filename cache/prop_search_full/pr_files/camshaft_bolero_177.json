@@ -1,0 +1,1 @@
+["lib/bolero-libfuzzer/bolero-fixes.patch", "lib/bolero-libfuzzer/build.rs", "lib/bolero-libfuzzer/libfuzzer/FuzzerCommand.h", "lib/bolero-libfuzzer/src/lib.rs", "lib/bolero-libfuzzer/update.sh", "tests/src/engines.rs"]

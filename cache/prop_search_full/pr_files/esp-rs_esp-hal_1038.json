@@ -1,0 +1,1 @@
+["esp-hal-common/ld/esp32c2/esp32c2.x", "esp-hal-common/ld/esp32c3/esp32c3.x", "esp-hal-common/ld/esp32c6/esp32c6.x", "esp-hal-common/ld/esp32h2/esp32h2.x", "esp-hal-common/ld/sections/text.x"]

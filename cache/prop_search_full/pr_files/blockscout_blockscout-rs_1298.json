@@ -1,0 +1,1 @@
+["stats/stats-server/src/read_service.rs", "stats/stats-server/src/runtime_setup.rs", "stats/stats-server/src/update_service.rs", "stats/stats-server/src/update_tracker.rs", "stats/stats-server/tests/it/mock_blockscout_simple/common_tests.rs"]

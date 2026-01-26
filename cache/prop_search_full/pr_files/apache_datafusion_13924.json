@@ -1,0 +1,1 @@
+["datafusion/functions/src/string/ascii.rs", "datafusion/functions/src/string/bit_length.rs", "datafusion/functions/src/string/chr.rs", "datafusion/functions/src/string/contains.rs", "datafusion/functions/src/string/octet_length.rs", "datafusion/functions/src/string/rtrim.rs", "datafusion/functions/src/unicode/character_length.rs"]

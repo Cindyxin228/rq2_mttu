@@ -1,0 +1,1 @@
+["README.md", "docs/init.md", "docs/new.md", "docs/upgrade.md", "src/cli/init.rs", "src/cli/mod.rs", "src/cli/new.rs", "src/cli/upgrade.rs", "src/command.rs", "src/docker_compose.rs", "src/git.rs", "src/main.rs", "src/template.rs"]

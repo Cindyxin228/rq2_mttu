@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "install.ps1", "install.sh", "src/chompfile.rs", "src/engines/mod.rs", "src/extensions.rs", "src/http_client.rs", "src/main.rs", "src/task.rs", "src/templates.js", "templates/babel.js", "templates/cargo.js", "templates/jspm.js", "templates/npm.js", "templates/prettier.js", "templates/svelte.js", "templates/swc.js", "test/chompfile.toml"]

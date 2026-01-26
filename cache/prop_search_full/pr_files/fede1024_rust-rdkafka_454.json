@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "changelog.md", "examples/simple_consumer.rs", "examples/simple_producer.rs", "rdkafka-sys/simple_producer.rs", "src/message.rs", "tests/test_high_producers.rs", "tests/test_low_producers.rs"]

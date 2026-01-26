@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "sdk/Cargo.toml", "sdk/src/client_table.rs", "sdk/src/errors.rs", "sdk/src/lib.rs", "sdk/src/result.rs", "ydb-example-urlshortener/Cargo.toml", "ydb-example-urlshortener/src/db.rs", "ydb-example-urlshortener/src/index.html", "ydb-example-urlshortener/src/main.rs", "ydb-example-urlshortener/src/ui.rs"]

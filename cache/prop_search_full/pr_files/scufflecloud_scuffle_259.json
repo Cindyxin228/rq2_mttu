@@ -1,0 +1,1 @@
+["crates/aac/src/lib.rs", "crates/av1/src/lib.rs", "crates/batching/src/lib.rs", "crates/bootstrap/src/lib.rs", "crates/bootstrap/telemetry/src/lib.rs", "crates/context/src/lib.rs", "crates/expgolomb/src/lib.rs", "crates/flv/src/lib.rs", "crates/metrics/derive/src/lib.rs", "crates/metrics/src/lib.rs", "crates/signal/src/lib.rs"]

@@ -1,0 +1,1 @@
+["CODE_OF_CONDUCT.md", "Cargo.toml", "README.md", "examples/build-bot.rs", "examples/multiserver.rs", "examples/repeater.rs", "examples/simple.rs", "examples/simple_plaintext.rs", "examples/simple_proxy.rs", "examples/tooter.rs", "examples/tweeter.rs", "irc-proto/Cargo.toml", "src/client/data/config.rs", "src/client/mod.rs", "src/client/transport.rs"]

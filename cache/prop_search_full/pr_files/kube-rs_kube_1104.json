@@ -1,0 +1,1 @@
+["kube-client/Cargo.toml", "kube-client/src/client/builder.rs", "kube-client/src/client/config_ext.rs", "kube-client/src/config/file_config.rs", "kube-client/src/config/mod.rs"]

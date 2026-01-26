@@ -1,0 +1,1 @@
+["bitcoin/src/blockdata/script.rs", "bitcoin/src/blockdata/script/builder.rs", "bitcoin/src/blockdata/script/instruction.rs", "bitcoin/src/blockdata/script/mod.rs", "bitcoin/src/blockdata/script/tests.rs", "bitcoin/src/blockdata/script/types/borrowed.rs", "bitcoin/src/blockdata/script/types/mod.rs", "bitcoin/src/blockdata/script/types/owned.rs"]

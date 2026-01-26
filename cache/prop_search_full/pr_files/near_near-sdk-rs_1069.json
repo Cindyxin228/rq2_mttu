@@ -1,0 +1,1 @@
+[".github/workflows/release-plz.yml", "Cargo.toml", "near-contract-standards/Cargo.toml", "near-sdk-macros/Cargo.toml", "near-sdk/Cargo.toml", "near-sys/Cargo.toml", "near-sys/src/lib.rs", "release-plz.toml"]

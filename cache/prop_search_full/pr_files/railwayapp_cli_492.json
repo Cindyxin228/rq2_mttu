@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/commands/link.rs", "src/gql/queries/strings/Project.graphql", "src/gql/queries/strings/Projects.graphql", "src/gql/queries/strings/UserProjects.graphql", "src/util/prompt.rs"]

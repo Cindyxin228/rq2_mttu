@@ -1,0 +1,1 @@
+["ci/miri.sh", "crossbeam-channel/src/context.rs", "crossbeam-channel/src/flavors/zero.rs", "crossbeam-channel/src/select.rs", "crossbeam-channel/src/waker.rs"]

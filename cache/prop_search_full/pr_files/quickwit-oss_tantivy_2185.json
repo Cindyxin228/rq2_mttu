@@ -1,0 +1,1 @@
+["Cargo.toml", "src/indexer/mod.rs", "src/positions/reader.rs", "src/positions/serializer.rs", "src/postings/block_segment_postings.rs", "src/postings/compression/mod.rs", "src/postings/serializer.rs", "src/postings/skip.rs", "src/query/term_query/term_scorer.rs"]

@@ -1,0 +1,1 @@
+["consensus/core/src/block.rs", "consensus/src/pipeline/virtual_processor/processor.rs", "consensus/src/pipeline/virtual_processor/test_block_builder.rs", "mining/src/manager.rs", "mining/src/testutils/consensus_mock.rs", "rpc/service/src/service.rs"]

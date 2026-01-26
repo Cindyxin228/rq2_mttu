@@ -1,0 +1,1 @@
+["crates/assists/src/handlers/add_missing_impl_members.rs", "crates/syntax/src/ast/edit.rs", "crates/syntax/src/ast/make.rs"]

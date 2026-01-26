@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "libavif-image/Cargo.toml", "libavif-sys/Cargo.toml", "libavif-sys/build.rs", "libavif-sys/libavif", "libavif-sys/rav1e.h", "libdav1d-sys/Cargo.toml", "libdav1d-sys/vendor"]

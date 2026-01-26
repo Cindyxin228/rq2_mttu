@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "google-apis-common/Cargo.toml", "google-apis-common/src/auth.rs", "google-apis-common/src/lib.rs", "src/generator/templates/Cargo.toml.mako", "src/generator/templates/api/api.rs.mako", "src/generator/templates/api/lib.rs.mako", "src/generator/templates/api/lib/mbuild.mako"]

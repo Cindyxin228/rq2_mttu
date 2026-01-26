@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/round_trip.rs", "src/client.rs", "src/connection.rs", "src/connection_manager.rs", "src/consumer.rs", "src/executor.rs", "src/lib.rs", "src/message.rs", "src/producer.rs", "src/service_discovery.rs"]

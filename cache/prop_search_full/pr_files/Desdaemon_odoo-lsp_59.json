@@ -1,0 +1,1 @@
+["src/xml.rs", "testing/Cargo.toml", "testing/build.rs", "testing/fixtures/basic_xml/.odoo_lsp", "testing/fixtures/basic_xml/foo/__manifest__.py", "testing/fixtures/basic_xml/foo/models.py", "testing/fixtures/basic_xml/foo/records.xml"]

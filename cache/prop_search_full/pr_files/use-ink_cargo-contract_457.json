@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cmd/build.rs", "src/cmd/extrinsics/call.rs", "src/cmd/extrinsics/instantiate.rs", "src/cmd/extrinsics/mod.rs", "src/cmd/extrinsics/upload.rs", "src/cmd/test.rs", "src/main.rs"]

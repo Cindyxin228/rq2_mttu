@@ -1,0 +1,1 @@
+["Cargo.lock", "applications/minotari_console_wallet/src/grpc/wallet_grpc_server.rs", "base_layer/wallet/Cargo.toml", "base_layer/wallet/src/wallet.rs", "base_layer/wallet_ffi/Cargo.toml", "base_layer/wallet_ffi/src/lib.rs", "hashing/src/domains.rs"]

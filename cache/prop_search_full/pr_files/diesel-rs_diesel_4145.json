@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CONTRIBUTING.md", "diesel/src/mysql/connection/bind.rs", "diesel/src/pg/query_builder/copy/copy_to.rs", "xtask/src/clippy.rs", "xtask/src/main.rs", "xtask/src/tests/mod.rs", "xtask/src/tidy.rs", "xtask/src/utils.rs"]

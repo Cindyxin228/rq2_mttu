@@ -1,0 +1,1 @@
+[".changes/fix-restore-minimized-window-state.md", ".changes/window-state-physical-size.md", "Cargo.lock", "examples/api/src-tauri/Cargo.toml", "examples/api/src-tauri/gen/schemas/desktop-schema.json", "examples/api/src-tauri/src/lib.rs", "examples/api/src-tauri/tauri.conf.json", "plugins/window-state/src/lib.rs"]

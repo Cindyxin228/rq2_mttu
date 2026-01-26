@@ -1,0 +1,1 @@
+["examples/simple.rs", "src/assets.rs", "src/bin/bat/app.rs", "src/bin/bat/assets.rs", "src/bin/bat/config.rs", "src/bin/bat/directories.rs", "src/bin/bat/main.rs", "src/controller.rs", "src/lib.rs", "src/line_range.rs", "src/printer.rs", "tests/no_duplicate_extensions.rs", "tests/syntax_detection.rs"]

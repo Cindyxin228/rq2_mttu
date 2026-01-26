@@ -1,0 +1,1 @@
+["bindings/nostr-ffi/src/event/builder.rs", "bindings/nostr-js/src/event/builder.rs", "bindings/nostr-sdk-ffi/src/client/mod.rs", "bindings/nostr-sdk-js/src/client/mod.rs", "crates/nostr-sdk/src/client/mod.rs", "crates/nostr/src/event/builder.rs"]

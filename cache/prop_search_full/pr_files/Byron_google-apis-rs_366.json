@@ -1,0 +1,1 @@
+["Cargo.toml", "google-apis-common/Cargo.toml", "google-apis-common/src/lib.rs", "google-clis-common/Cargo.toml", "google-clis-common/src/lib.rs", "src/generator/templates/Cargo.toml.mako", "src/generator/templates/cli/main.rs.mako", "src/generator/templates/deps.mako", "src/rust/api/client.rs", "src/rust/cli/mod.rs", "src/rust/lib.rs"]

@@ -1,0 +1,1 @@
+[".gitignore", "python/Cargo.toml", "python/README.md", "python/examples/advanced_generate_example.py", "python/examples/config_file_example.py", "python/examples/generate_example.py", "python/examples/generate_from_schema.py", "python/src/lib.rs", "python/src/pyrudof_generate.rs", "python/stubs/pyrudof/pyrudof.pyi", "python/tests/test_generate.py"]

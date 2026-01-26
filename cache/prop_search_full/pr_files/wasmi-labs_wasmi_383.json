@@ -1,0 +1,1 @@
+["benches/benches.rs", "benches/wat/memory-fill.wat", "benches/wat/memory-sum.wat", "benches/wat/memory-vec-add.wat"]

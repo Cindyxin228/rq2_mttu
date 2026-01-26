@@ -1,0 +1,1 @@
+[".github/workflows/signature.yml", "signature/README.md", "signature/async/src/lib.rs", "signature/src/encoding.rs", "signature/src/error.rs", "signature/src/hazmat.rs", "signature/src/lib.rs", "signature/src/prehash_signature.rs", "signature/src/signer.rs", "signature/src/verifier.rs"]

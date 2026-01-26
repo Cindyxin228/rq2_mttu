@@ -1,0 +1,1 @@
+["config/src/config/upstream_config.rs", "mempool/src/shared_mempool/coordinator.rs", "mempool/src/shared_mempool/peer_manager.rs", "mempool/src/shared_mempool/tasks.rs", "mempool/src/shared_mempool/types.rs", "state-sync/state-sync-v1/src/coordinator.rs", "state-sync/state-sync-v1/src/request_manager.rs"]

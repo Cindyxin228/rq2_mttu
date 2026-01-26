@@ -1,0 +1,1 @@
+["crates/wasmtime/src/config.rs", "crates/wasmtime/src/externals.rs", "crates/wasmtime/src/lib.rs", "crates/wasmtime/src/memory.rs", "crates/wasmtime/src/trampoline/memory.rs", "tests/all/externals.rs"]

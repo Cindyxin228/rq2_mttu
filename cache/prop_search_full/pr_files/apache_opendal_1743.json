@@ -1,0 +1,1 @@
+["bindings/nodejs/tests/binding.js", "bindings/python/tests/steps/binding.py", "bindings/ruby/src/lib.rs", "bindings/ruby/tests/steps/binding.rb", "bindings/tests/features/binding.feature"]

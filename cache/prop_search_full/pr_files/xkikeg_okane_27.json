@@ -1,0 +1,1 @@
+["src/import/config.rs", "src/import/iso_camt053.rs", "src/import/iso_camt053/extract.rs", "src/import/iso_camt053/xmlnode.rs", "tests/testdata/iso_camt.ledger", "tests/testdata/iso_camt.xml"]

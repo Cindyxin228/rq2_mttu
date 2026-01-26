@@ -1,0 +1,1 @@
+["src/backend/sqlite/query.rs", "src/extension/sqlite/expr.rs", "src/extension/sqlite/mod.rs", "tests/sqlite/query.rs"]

@@ -1,0 +1,1 @@
+["fuzzers/fuzzbench_weighted/src/lib.rs", "libafl/src/schedulers/powersched.rs", "libafl/src/schedulers/testcase_score.rs", "libafl/src/stages/power.rs"]

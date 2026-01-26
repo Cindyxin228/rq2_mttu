@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "src/apk.rs", "src/model/builder.rs", "src/model/owned/package.rs", "src/model/owned/table_type/entry.rs", "src/model/value.rs", "src/raw_chunks.rs", "src/visitor/mod.rs", "src/visitor/xml.rs"]

@@ -1,0 +1,1 @@
+["examples/emulation_firefox.rs", "examples/emulation_twitter.rs", "src/tls/config.rs", "src/tls/conn/boring.rs", "tests/badssl.rs"]

@@ -1,0 +1,1 @@
+["examples/async/Cargo.toml", "examples/from-directory/Cargo.toml", "examples/simple/Cargo.toml", "rusqlite_migration/Cargo.toml", "rusqlite_migration/src/lib.rs", "rusqlite_migration_tests/Cargo.toml"]

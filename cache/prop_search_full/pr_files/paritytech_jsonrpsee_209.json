@@ -1,0 +1,1 @@
+["tests/src/lib.rs", "ws-client/src/client.rs", "ws-client/src/jsonrpc_transport.rs", "ws-client/src/transport.rs"]

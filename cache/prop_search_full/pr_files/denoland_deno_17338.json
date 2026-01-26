@@ -1,0 +1,1 @@
+["cli/args/config_file.rs", "cli/tests/integration/run_tests.rs", "cli/tests/testdata/fmt/fmt_with_config_default.out", "cli/tests/testdata/run/with_config/auto_discovery_log.out"]

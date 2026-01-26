@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".readthedocs.yaml", "python/Cargo.toml", "python/docs/api.md", "python/docs/index.md", "python/examples", "python/mkdocs.yml", "python/requirements-docs.in", "python/requirements-docs.txt", "python/src/lib.rs", "python/stacrs.pyi", "python/tests/conftest.py", "python/tests/test_validate.py"]

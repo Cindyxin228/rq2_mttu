@@ -1,0 +1,1 @@
+["Cargo.toml", "sea-query-attr/Cargo.toml", "sea-query-attr/src/lib.rs", "sea-query-attr/tests/pass/default.rs", "sea-query-attr/tests/pass/prefixed.rs", "sea-query-attr/tests/pass/suffixed.rs", "sea-query-attr/tests/test_build.rs", "sea-query-derive/Cargo.toml", "sea-query-derive/src/iden_variant.rs", "sea-query-derive/src/lib.rs", "src/lib.rs"]

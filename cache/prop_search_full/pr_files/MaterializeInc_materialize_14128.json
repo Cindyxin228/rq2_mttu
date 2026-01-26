@@ -1,0 +1,1 @@
+["src/adapter/src/catalog.rs", "src/adapter/src/catalog/builtin.rs", "src/adapter/src/catalog/builtin_table_updates.rs", "src/adapter/src/catalog/storage.rs", "src/sql/src/catalog.rs", "src/sql/src/names.rs", "test/cluster/mzcompose.py", "test/sqllogictest/id_reuse.slt", "test/sqllogictest/pg_catalog_roles.slt", "test/testdrive/roles.td"]

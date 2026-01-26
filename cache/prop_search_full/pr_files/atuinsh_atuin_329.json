@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "README.md", "atuin-client/src/database.rs", "atuin-client/src/settings.rs", "docs/config.md", "src/command/client/history.rs", "src/command/client/search.rs", "src/command/client/stats.rs"]

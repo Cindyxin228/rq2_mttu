@@ -1,0 +1,1 @@
+[".github/workflows/build-programs.yml", ".github/workflows/build-rust-client.yml", ".github/workflows/create-proposal.yml", ".github/workflows/test-rust-client.yml", ".github/workflows/version-program.yml", "clients/js/src/hooked/resolvers.ts", "clients/js/test/_setup.ts", "clients/js/test/createV1.test.ts", "programs/token-metadata/program/src/utils/metadata.rs"]

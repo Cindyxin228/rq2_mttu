@@ -1,0 +1,1 @@
+["README.md", "src/analyzer/display.rs", "src/analyzer/framework_detector.rs", "src/analyzer/frameworks/go.rs", "src/analyzer/frameworks/java.rs", "src/analyzer/frameworks/javascript.rs", "src/analyzer/frameworks/mod.rs", "src/analyzer/frameworks/python.rs", "src/analyzer/frameworks/rust.rs", "src/analyzer/mod.rs"]

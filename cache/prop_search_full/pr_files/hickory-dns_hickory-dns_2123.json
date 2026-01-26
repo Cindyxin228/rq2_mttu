@@ -1,0 +1,1 @@
+["crates/async-std-resolver/src/lib.rs", "crates/proto/src/error.rs", "crates/proto/src/multicast/mdns_stream.rs", "crates/proto/src/rr/rdata/caa.rs", "crates/proto/src/rr/rdata/hinfo.rs", "crates/proto/src/rr/rdata/opt.rs", "crates/proto/src/xfer/mod.rs", "crates/recursor/src/error.rs", "crates/resolver/src/lookup.rs", "crates/resolver/src/lookup_ip.rs"]

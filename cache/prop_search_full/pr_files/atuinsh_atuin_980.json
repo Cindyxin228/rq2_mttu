@@ -1,0 +1,1 @@
+["atuin-client/src/api_client.rs", "atuin-common/src/api.rs", "atuin-server/src/database.rs", "atuin-server/src/handlers/user.rs", "atuin-server/src/router.rs", "atuin/src/command/client/sync.rs", "atuin/src/command/client/sync/delete.rs", "docs/docs/commands/sync.md"]

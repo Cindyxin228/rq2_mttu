@@ -1,0 +1,1 @@
+[".github/workflows/docs-pages@v2.yaml", ".github/workflows/docs-pr@v1.yaml", ".gitignore", "docs/Makefile", "docs/pyproject.toml", "docs/source/conf.py", "docs/source/contents.rst", "docs/source/speculative-execution/speculative.md"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/c-api/Cargo.toml", "lib/cli/Cargo.toml", "lib/sys-utils/Cargo.toml", "lib/wasix/Cargo.toml", "lib/wasix/src/bin_factory/exec.rs", "lib/wasix/src/bin_factory/mod.rs", "lib/wasix/src/lib.rs", "lib/wasix/src/runtime/mod.rs", "tests/lib/wast/Cargo.toml"]

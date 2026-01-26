@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_typescript/src/strip_import_export.rs", "crates/swc_ecma_visit/src/lib.rs"]

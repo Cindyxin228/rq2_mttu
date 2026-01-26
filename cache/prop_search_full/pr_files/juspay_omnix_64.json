@@ -1,0 +1,1 @@
+["crates/nix_health/src/check/caches.rs", "crates/nix_health/src/check/flake_enabled.rs", "crates/nix_health/src/check/max_jobs.rs", "crates/nix_health/src/check/min_nix_version.rs", "crates/nix_health/src/check/trusted_users.rs", "crates/nix_health/src/lib.rs", "crates/nix_health/src/main.rs", "crates/nix_health/src/traits.rs", "src/app/health.rs", "src/app/mod.rs"]

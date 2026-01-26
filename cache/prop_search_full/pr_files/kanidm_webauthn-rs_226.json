@@ -1,0 +1,1 @@
+["webauthn-authenticator-rs/src/error.rs", "webauthn-authenticator-rs/src/lib.rs", "webauthn-authenticator-rs/src/softpasskey.rs", "webauthn-authenticator-rs/src/softtoken.rs", "webauthn-authenticator-rs/src/usb/mod.rs", "webauthn-authenticator-rs/src/util.rs"]

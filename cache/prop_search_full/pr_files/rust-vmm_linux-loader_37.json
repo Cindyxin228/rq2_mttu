@@ -1,0 +1,1 @@
+["coverage_config_aarch64.json", "coverage_config_x86_64.json", "rust-vmm-ci", "src/configurator/x86_64/linux.rs", "src/configurator/x86_64/pvh.rs", "src/lib.rs", "src/loader/mod.rs", "src/loader/x86_64/elf/mod.rs", "src/loader_gen/mod.rs", "src/loader_gen/x86_64/bootparam.rs", "src/loader_gen/x86_64/elf.rs", "src/loader_gen/x86_64/mod.rs", "src/loader_gen/x86_64/start_info.rs"]

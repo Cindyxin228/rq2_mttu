@@ -1,0 +1,1 @@
+["CHANGELOG.md", "ec/src/lib.rs", "ec/src/models/mod.rs", "ec/src/models/short_weierstrass_jacobian.rs", "ec/src/models/twisted_edwards_extended.rs", "test-curves/src/bls12_381/g1.rs", "test-templates/src/curves.rs"]

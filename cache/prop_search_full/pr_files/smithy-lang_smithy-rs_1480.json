@@ -1,0 +1,1 @@
+["codegen-server-test/model/pokemon.smithy", "rust-runtime/aws-smithy-http-server/examples/pokemon_service/src/lib.rs"]

@@ -1,0 +1,1 @@
+["substrate/frame/contracts/build.rs", "substrate/frame/contracts/src/tests.rs", "substrate/frame/contracts/src/wasm/runtime.rs"]

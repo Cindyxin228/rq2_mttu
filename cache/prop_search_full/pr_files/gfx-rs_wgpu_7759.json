@@ -1,0 +1,1 @@
+["CHANGELOG.md", "naga/src/back/spv/ray.rs", "naga/src/back/spv/writer.rs", "naga/tests/in/wgsl/aliased-ray-query.toml", "naga/tests/in/wgsl/aliased-ray-query.wgsl", "naga/tests/out/hlsl/wgsl-aliased-ray-query.hlsl", "naga/tests/out/hlsl/wgsl-aliased-ray-query.ron", "naga/tests/out/msl/wgsl-aliased-ray-query.msl", "naga/tests/out/spv/wgsl-aliased-ray-query.spvasm"]

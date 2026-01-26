@@ -1,0 +1,1 @@
+["NEWS.md", "cli/examples/tour.bas", "cli/tests/repl/dir.out", "core/examples/dsl.rs", "core/src/ast.rs", "core/src/eval.rs", "core/src/exec.rs", "core/src/lib.rs", "core/src/syms.rs", "core/src/testutils.rs", "std/src/console.rs", "std/src/exec.rs", "std/src/help.rs", "std/src/numerics.rs", "std/src/store.rs", "std/src/strings.rs", "std/src/testutils.rs"]

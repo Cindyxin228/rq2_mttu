@@ -1,0 +1,1 @@
+["docs/book/src/lsp/features.md", "sway-lsp/benches/lsp_benchmarks/requests.rs", "sway-lsp/src/core/session.rs", "sway-lsp/src/handlers/request.rs", "sway-lsp/src/lib.rs", "sway-lsp/src/server.rs", "sway-lsp/tests/integration/lsp.rs", "sway-lsp/tests/lib.rs"]

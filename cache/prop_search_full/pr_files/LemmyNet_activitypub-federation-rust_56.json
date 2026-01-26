@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/live_federation/objects/post.rs", "examples/local_federation/activities/accept.rs", "examples/local_federation/activities/follow.rs", "examples/local_federation/axum/http.rs", "src/actix_web/middleware.rs", "src/fetch/mod.rs", "src/fetch/webfinger.rs"]

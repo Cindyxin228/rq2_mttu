@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/python-release.yml", ".github/workflows/rust-release.yml", ".pre-commit-config.yaml", "bindings/python/tests-py/test_jsonschema.py"]

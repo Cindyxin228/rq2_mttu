@@ -1,0 +1,1 @@
+[".github/workflows/publish-casper-client-deb.yml", ".github/workflows/publish-casper-client-rpm.yml", "ci/publish_deb_to_repo.sh", "ci/publish_rpm_to_repo.sh"]

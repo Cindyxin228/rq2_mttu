@@ -1,0 +1,1 @@
+["lib/wasix/src/bin_factory/exec.rs", "lib/wasix/src/bin_factory/mod.rs", "tests/wasix/cwd-to-home/expected", "tests/wasix/cwd-to-home/run.sh", "tests/wasix/execv/main.c", "tests/wasix/execv/run.sh", "tests/wasix/test.sh"]

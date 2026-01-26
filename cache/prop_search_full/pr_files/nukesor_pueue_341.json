@@ -1,0 +1,1 @@
+["client/display/log/local.rs", "client/display/log/mod.rs", "client/display/log/remote.rs", "daemon/network/message_handler/log.rs", "lib/src/log.rs", "lib/src/network/message.rs", "tests/client/log.rs", "tests/client/snapshots/log__last_lines_log"]

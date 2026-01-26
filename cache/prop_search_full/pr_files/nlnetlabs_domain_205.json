@@ -1,0 +1,1 @@
+["src/base/charstr.rs", "src/base/name/builder.rs", "src/base/name/label.rs", "src/rdata/aaaa.rs", "src/rdata/dname.rs", "src/rdata/macros.rs", "src/rdata/nsec3.rs", "src/rdata/rfc1035.rs", "src/resolv/stub/conf.rs", "src/resolv/stub/mod.rs", "src/tsig/mod.rs"]

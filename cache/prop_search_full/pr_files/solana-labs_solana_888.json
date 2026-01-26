@@ -1,0 +1,1 @@
+["src/bin/bench-tps.rs", "src/bin/drone.rs", "src/bin/fullnode-config.rs", "src/bin/fullnode.rs", "src/bin/genesis.rs", "src/bin/keygen.rs", "src/bin/ledger-tool.rs", "src/bin/wallet.rs"]

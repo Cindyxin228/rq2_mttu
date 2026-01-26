@@ -1,0 +1,1 @@
+["components/properties/README.md", "components/properties/src/lib.rs", "components/properties/src/maps.rs", "components/properties/src/provider.rs", "components/properties/src/sets.rs", "ffi/diplomat/src/properties_maps.rs", "ffi/diplomat/src/properties_sets.rs", "provider/datagen/src/transform/cldr/list/mod.rs"]

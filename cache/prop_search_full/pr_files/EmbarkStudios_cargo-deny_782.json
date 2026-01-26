@@ -1,0 +1,1 @@
+["docs/src/checks/sources/cfg.md", "docs/src/checks/sources/diags.md", "src/sources.rs", "src/sources/cfg.rs", "src/sources/diags.rs", "src/sources/snapshots/cargo_deny__sources__cfg__test__deserializes_sources_cfg-2.snap", "tests/cfg/sources.toml"]

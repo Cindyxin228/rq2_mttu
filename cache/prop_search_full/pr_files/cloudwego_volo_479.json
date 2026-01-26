@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/Cargo.toml", "examples/src/thrift/hello/client.rs", "examples/src/thrift/multiplex/client.rs", "examples/src/thrift/unknown/client.rs", "scripts/clippy-and-test.sh", "volo-grpc/Cargo.toml", "volo-grpc/src/layer/mod.rs"]

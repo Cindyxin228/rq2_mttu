@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "Releasing.md", "examples/Cargo.toml", "pyo3-build-config/Cargo.toml", "pyo3-ffi/Cargo.toml", "pyo3-macros-backend/Cargo.toml", "pyo3-macros/Cargo.toml", "pyproject.toml"]

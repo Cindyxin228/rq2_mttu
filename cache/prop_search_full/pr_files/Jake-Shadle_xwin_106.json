@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "docs/example-map.toml", "src/ctx.rs", "src/lib.rs", "src/main.rs", "src/minimize.rs", "src/splat.rs", "src/util.rs", "tests/compiles.rs", "tests/deterministic.rs", "tests/snapshots/compiles__verify_compiles_minimized.snap", "tests/snapshots/xwin-minimize.snap"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/widgets/Cargo.toml", "crates/widgets/src/lib.rs", "crates/widgets/src/renderer.rs", "crates/widgets/src/renderer/table_row.rs", "crates/widgets/src/style.rs", "crates/widgets/src/style/table_row.rs", "crates/widgets/src/widget.rs", "crates/widgets/src/widget/table_row.rs", "src/gui/element.rs", "src/gui/mod.rs", "src/gui/style.rs"]

@@ -1,0 +1,1 @@
+["scylla/src/statement/prepared_statement.rs", "scylla/src/transport/iterator.rs", "scylla/src/transport/session.rs", "scylla/src/utils/pretty.rs"]

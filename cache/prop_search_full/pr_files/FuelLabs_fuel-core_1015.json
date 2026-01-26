@@ -1,0 +1,1 @@
+["crates/database/src/lib.rs", "crates/fuel-core/src/database/metadata.rs", "crates/fuel-core/src/service.rs", "crates/fuel-core/src/service/genesis.rs", "crates/fuel-core/src/state/rocks_db.rs", "tests/tests/health.rs"]

@@ -1,0 +1,1 @@
+["core/src/worker/client.rs", "test-utils/src/lib.rs", "tests/integ_tests/worker_versioning_tests.rs"]

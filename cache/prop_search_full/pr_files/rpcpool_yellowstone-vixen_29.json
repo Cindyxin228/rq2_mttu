@@ -1,0 +1,1 @@
+["crates/proto/build.rs", "crates/proto/src/lib.rs", "crates/runtime/src/stream/builder.rs", "crates/runtime/src/stream/grpc.rs", "crates/runtime/src/stream/mod.rs", "examples/stream-parser/src/main.rs"]

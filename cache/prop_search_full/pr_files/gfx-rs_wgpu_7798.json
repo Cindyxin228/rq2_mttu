@@ -1,0 +1,1 @@
+["tests/src/lib.rs", "tests/tests/wgpu-gpu/buffer.rs", "tests/tests/wgpu-gpu/device.rs", "tests/tests/wgpu-gpu/ray_tracing/as_build.rs", "wgpu-core/src/command/clear.rs", "wgpu-core/src/command/mod.rs", "wgpu-core/src/command/query.rs", "wgpu-core/src/command/ray_tracing.rs", "wgpu-core/src/command/transition_resources.rs", "wgpu-core/src/resource.rs"]

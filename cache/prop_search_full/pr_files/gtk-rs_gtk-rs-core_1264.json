@@ -1,0 +1,1 @@
+["cairo/src/lib.rs", "gdk-pixbuf/src/prelude.rs", "gdk-pixbuf/src/subclass/mod.rs", "glib-macros/src/boxed_derive.rs", "glib-macros/src/shared_boxed_derive.rs"]

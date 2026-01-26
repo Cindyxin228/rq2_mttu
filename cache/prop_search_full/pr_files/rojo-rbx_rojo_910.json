@@ -1,0 +1,1 @@
+[".github/workflows/changelog.yml", ".github/workflows/ci.yml", ".github/workflows/release.yml", "aftman.toml", "src/change_processor.rs", "src/cli/sourcemap.rs"]

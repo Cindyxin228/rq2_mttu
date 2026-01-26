@@ -1,0 +1,1 @@
+["crates/component-macro/tests/codegen/resources-export.wit", "crates/wit-bindgen/src/lib.rs", "tests/all/component_model/bindgen.rs"]

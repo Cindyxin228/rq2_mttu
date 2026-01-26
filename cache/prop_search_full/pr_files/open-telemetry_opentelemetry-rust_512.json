@@ -1,0 +1,1 @@
+["opentelemetry/src/global/mod.rs", "opentelemetry/src/global/trace.rs", "opentelemetry/src/sdk/trace/provider.rs", "opentelemetry/src/trace/noop.rs", "opentelemetry/src/trace/provider.rs"]

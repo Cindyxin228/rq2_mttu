@@ -1,0 +1,1 @@
+["documentation/architecture/decisions/0006-publishing-rust-crates.md", "implementations/rust/ockam/ockam_key_exchange_core/Cargo.toml", "implementations/rust/ockam/ockam_key_exchange_x3dh/Cargo.toml", "implementations/rust/ockam/ockam_key_exchange_xx/Cargo.toml", "implementations/rust/ockam/ockam_node/Cargo.toml"]

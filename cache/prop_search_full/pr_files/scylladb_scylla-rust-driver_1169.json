@@ -1,0 +1,1 @@
+["scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/src/cluster/metadata.rs", "scylla/src/cluster/state.rs", "scylla/src/network/connection_pool.rs", "scylla/src/observability/driver_tracing.rs", "scylla/src/routing/locator/mod.rs", "scylla/src/routing/locator/replicas.rs", "scylla/src/routing/locator/replication_info.rs", "scylla/src/utils/pretty.rs"]

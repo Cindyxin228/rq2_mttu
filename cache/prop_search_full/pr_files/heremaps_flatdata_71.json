@@ -1,0 +1,1 @@
+["generator/templates/rust/archive.jinja2", "generator/templates/rust/index.jinja2", "generator/templates/rust/rust.jinja2", "generator/templates/rust/structure.jinja2", "tests/generators/test_rust_generator.py"]

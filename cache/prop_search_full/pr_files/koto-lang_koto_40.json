@@ -1,0 +1,1 @@
+["CHANGELOG.md", "koto/tests/iterators.koto", "koto/tests/list_ops.koto", "koto/tests/map_ops.koto", "koto/tests/tuples.koto", "src/runtime/src/core/iterator.rs", "src/runtime/src/core/list.rs", "src/runtime/src/core/map.rs", "src/runtime/src/core/tuple.rs", "src/runtime/src/lib.rs", "src/runtime/src/value.rs", "src/runtime/src/value_map.rs", "src/runtime/src/value_sort.rs"]

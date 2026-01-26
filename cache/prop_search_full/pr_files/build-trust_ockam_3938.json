@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/nodes/service.rs", "implementations/rust/ockam/ockam_api/src/nodes/service/identity.rs", "implementations/rust/ockam/ockam_command/src/identity/show.rs", "implementations/rust/ockam/ockam_command/src/util/mod.rs", "implementations/rust/ockam/ockam_command/tests/commands.bats"]

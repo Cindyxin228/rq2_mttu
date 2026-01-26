@@ -1,0 +1,1 @@
+["gitoid/Cargo.toml", "gitoid/src/error.rs", "gitoid/src/ffi/error.rs", "gitoid/src/ffi/gitoid.rs", "gitoid/src/ffi/util.rs", "gitoid/src/gitoid.rs", "gitoid/src/hash_algorithm.rs", "gitoid/src/hash_ref.rs", "gitoid/src/object_type.rs"]

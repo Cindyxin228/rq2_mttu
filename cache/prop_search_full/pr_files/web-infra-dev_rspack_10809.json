@@ -1,0 +1,1 @@
+["crates/rspack_plugin_javascript/src/dependency/esm/esm_import_specifier_dependency.rs", "packages/rspack-test-tools/tests/configCases/mangle-exports/issue-10565/errors.js", "packages/rspack-test-tools/tests/configCases/mangle-exports/issue-10565/index.js", "packages/rspack-test-tools/tests/configCases/mangle-exports/issue-10565/rspack.config.js"]

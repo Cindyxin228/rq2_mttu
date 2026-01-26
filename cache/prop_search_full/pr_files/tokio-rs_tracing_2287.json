@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", "examples/Cargo.toml", "examples/examples/sloggish/sloggish_collector.rs", "tracing-subscriber/Cargo.toml", "tracing-subscriber/README.md", "tracing-subscriber/src/filter/env/builder.rs", "tracing-subscriber/src/fmt/format/mod.rs", "tracing-subscriber/src/fmt/format/pretty.rs", "tracing-subscriber/src/lib.rs"]

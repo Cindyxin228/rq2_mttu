@@ -1,0 +1,1 @@
+["vegafusion-datafusion-udfs/src/udfs/datetime/date_to_utc_timestamp.rs", "vegafusion-datafusion-udfs/src/udfs/datetime/str_to_utc_timestamp.rs", "vegafusion-datafusion-udfs/src/udfs/datetime/timeunit.rs", "vegafusion-datafusion-udfs/src/udfs/datetime/to_utc_timestamp.rs"]

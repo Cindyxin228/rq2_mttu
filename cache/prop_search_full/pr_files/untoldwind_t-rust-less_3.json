@@ -1,0 +1,1 @@
+["Cargo.lock", "experiments/Cargo.toml", "lib/Cargo.toml", "lib/src/api/mod.rs", "lib/src/memguard/weak.rs", "lib/src/memguard/words.rs", "lib/src/secrets_store/error.rs", "lib/src/secrets_store/index.rs", "lib/src/secrets_store/multi_lane.rs", "lib/src/secrets_store_capnp.rs", "lib/src/service/error.rs"]

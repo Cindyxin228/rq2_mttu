@@ -1,0 +1,1 @@
+["examples/node-nvmrc/.nvmrc", "examples/node-nvmrc/index.js", "examples/node-nvmrc/package-lock.json", "examples/node-nvmrc/package.json", "src/providers/node/mod.rs", "tests/snapshots/generate_plan_tests__node_nvmrc.snap"]

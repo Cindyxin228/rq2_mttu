@@ -1,0 +1,1 @@
+["ffi/firewood.go", "ffi/firewood.h", "ffi/firewood_test.go", "ffi/src/lib.rs", "ffi/tests/eth/eth_compatibility_test.go", "ffi/tests/firewood/merkle_compatibility_test.go", "firewood/src/db.rs", "firewood/src/manager.rs", "fwdctl/src/check.rs", "storage/src/linear/filebacked.rs", "storage/src/nodestore/mod.rs"]

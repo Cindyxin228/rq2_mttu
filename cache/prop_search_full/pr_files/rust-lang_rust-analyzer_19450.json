@@ -1,0 +1,1 @@
+["crates/syntax/src/validation.rs", "crates/syntax/test_data/parser/validation/dangling_impl.rast", "crates/syntax/test_data/parser/validation/dangling_impl_reference.rast", "crates/syntax/test_data/parser/validation/impl_trait_lifetime_only.rast"]

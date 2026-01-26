@@ -1,0 +1,1 @@
+["crates/nu-command/src/dataframe/values/nu_dataframe/between_values.rs", "crates/nu-engine/src/eval.rs", "crates/nu-parser/src/parser.rs", "crates/nu-parser/src/type_check.rs", "crates/nu-protocol/src/ast/expression.rs", "crates/nu-protocol/src/ast/operator.rs", "crates/nu-protocol/src/value/mod.rs", "src/tests/test_parser.rs"]

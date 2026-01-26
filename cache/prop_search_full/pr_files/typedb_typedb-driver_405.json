@@ -1,0 +1,1 @@
+["dependencies/vaticle/repositories.bzl", "test/behaviour/concept/serialization/BUILD", "test/behaviour/concept/serialization/json/BUILD", "test/behaviour/concept/serialization/json/JSONSteps.java", "test/behaviour/concept/serialization/json/JSONTest.java"]

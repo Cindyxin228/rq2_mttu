@@ -1,0 +1,1 @@
+["crates/matrix-sdk/Cargo.toml", "crates/matrix-sdk/src/client/mod.rs", "crates/matrix-sdk/src/config/sync.rs", "crates/matrix-sdk/src/encryption/mod.rs"]

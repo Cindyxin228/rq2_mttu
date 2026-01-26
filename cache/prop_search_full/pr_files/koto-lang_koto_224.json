@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/parser/src/parser.rs", "core/parser/tests/parsing_failures.rs", "core/runtime/src/core/list.rs", "core/runtime/tests/vm_tests.rs", "docs/core_lib/iterator.md", "docs/core_lib/list.md", "koto/benches/spectral_norm.koto", "koto/tests/list_ops.koto"]

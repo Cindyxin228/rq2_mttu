@@ -1,0 +1,1 @@
+["programs/bpf/tests/programs.rs", "runtime/src/loader_utils.rs", "sdk/bpf/scripts/install.sh", "sdk/cargo-build-bpf/src/main.rs"]

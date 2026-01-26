@@ -1,0 +1,1 @@
+["kanidmd/server.toml", "kanidmd/src/lib/event.rs", "kanidmd_web_ui/Cargo.toml", "kanidmd_web_ui/pkg/bundle.js", "kanidmd_web_ui/pkg/kanidmd_web_ui.js", "kanidmd_web_ui/pkg/kanidmd_web_ui_bg.wasm", "kanidmd_web_ui/src/login.rs"]

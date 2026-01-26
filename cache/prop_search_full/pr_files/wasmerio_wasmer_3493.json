@@ -1,0 +1,1 @@
+["lib/api/src/sys/instance.rs", "lib/api/src/sys/module.rs", "lib/compiler/src/engine/artifact.rs", "lib/compiler/src/traits.rs", "lib/types/src/serialize.rs", "lib/vm/src/instance/allocator.rs", "lib/vm/src/instance/mod.rs", "lib/vm/src/instance/ref.rs", "lib/vm/src/lib.rs", "lib/vm/src/libcalls.rs", "lib/vm/src/store.rs"]

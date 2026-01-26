@@ -1,0 +1,1 @@
+["crates/delta/src/routes/push/subscribe.rs", "crates/delta/src/routes/push/unsubscribe.rs", "crates/quark/src/events/impl.rs", "crates/quark/src/permissions/defn/mod.rs", "crates/quark/src/presence/mod.rs", "crates/quark/src/tasks/process_embeds.rs"]

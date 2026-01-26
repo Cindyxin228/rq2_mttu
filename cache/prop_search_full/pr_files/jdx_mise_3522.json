@@ -1,0 +1,1 @@
+["e2e/assert.sh", "e2e/tasks/test_task_run_sources", "src/cli/run.rs", "src/logger.rs"]

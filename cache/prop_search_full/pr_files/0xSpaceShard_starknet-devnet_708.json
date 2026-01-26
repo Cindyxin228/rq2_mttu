@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/src/messaging/ethereum.rs", "tests/integration/common/background_anvil.rs", "tests/integration/common/background_devnet.rs", "tests/integration/common/background_server.rs", "tests/integration/common/errors.rs", "tests/integration/common/mod.rs", "tests/integration/common/safe_child.rs", "tests/integration/common/utils.rs"]

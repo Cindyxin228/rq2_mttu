@@ -1,0 +1,1 @@
+["build.rs", "src/check.rs", "src/cli/args.rs", "src/cli/mod.rs", "src/commands/mod.rs", "src/extension.rs", "src/main.rs", "src/utils/formatting.rs"]

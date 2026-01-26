@@ -1,0 +1,1 @@
+["esp-hal-common/Cargo.toml", "esp-ulp-riscv-hal/Cargo.toml", "esp32c6-lp-hal/Cargo.toml"]

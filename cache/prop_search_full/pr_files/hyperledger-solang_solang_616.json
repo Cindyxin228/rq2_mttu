@@ -1,0 +1,1 @@
+["Cargo.toml", "docs/examples.rst", "examples/example.sol", "src/codegen/constant_folding.rs", "tests/ewasm.rs", "tests/substrate.rs", "tests/substrate_tests/functions.rs"]

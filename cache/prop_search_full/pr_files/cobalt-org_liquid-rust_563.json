@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", "Cargo.toml", "crates/core/src/error/clone.rs", "crates/core/src/parser/parser.rs", "tests/conformance_ruby/tags/include_tag_test.rs"]

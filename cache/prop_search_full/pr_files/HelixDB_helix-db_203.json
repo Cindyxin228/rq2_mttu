@@ -1,0 +1,1 @@
+["Cargo.lock", "helix-cli/Cargo.toml", "helixdb/Cargo.toml", "helixdb/src/helix_gateway/embedding_providers/embedding_providers.rs", "helixdb/src/helixc/analyzer/analyzer.rs", "helixdb/src/helixc/generator/utils.rs", "helixdb/src/helixc/parser/helix_parser.rs"]

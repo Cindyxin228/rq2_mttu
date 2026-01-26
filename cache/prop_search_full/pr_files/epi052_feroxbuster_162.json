@@ -1,0 +1,1 @@
+["src/banner.rs", "src/extractor.rs", "tests/test_extractor.rs", "tests/test_filters.rs", "tests/test_heuristics.rs", "tests/test_main.rs", "tests/test_scan_manager.rs", "tests/test_scanner.rs"]

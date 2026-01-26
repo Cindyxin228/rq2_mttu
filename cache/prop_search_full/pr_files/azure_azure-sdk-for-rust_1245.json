@@ -1,0 +1,1 @@
+["sdk/identity/Cargo.toml", "sdk/identity/examples/client_certificate_credentials.rs", "sdk/identity/src/token_credentials/client_certificate_credentials.rs"]

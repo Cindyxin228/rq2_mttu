@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "justfile", "kube-client/Cargo.toml", "kube-client/src/client/auth/mod.rs", "kube-client/src/client/auth/oidc.rs", "kube-client/src/client/mod.rs", "kube/Cargo.toml"]

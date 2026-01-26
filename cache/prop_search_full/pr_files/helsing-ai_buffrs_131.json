@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "registry/Cargo.toml", "src/command.rs", "src/context.rs", "src/lib.rs", "src/main.rs", "src/manifest.rs", "src/package/mod.rs", "src/package/store.rs", "src/registry/local.rs", "tests/cmd/login/stdout.log", "tests/cmd/package/out/lib-0.0.1.tgz"]

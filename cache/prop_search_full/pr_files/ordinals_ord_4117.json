@@ -1,0 +1,1 @@
+["src/subcommand/wallet/burn.rs", "src/subcommand/wallet/send.rs", "src/wallet.rs", "tests/lib.rs", "tests/wallet/burn.rs"]

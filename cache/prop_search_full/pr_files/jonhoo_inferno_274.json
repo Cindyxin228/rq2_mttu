@@ -1,0 +1,1 @@
+["src/bin/flamegraph.rs", "src/flamegraph/mod.rs", "tests/data/flamegraph/base/flames.txt", "tests/data/flamegraph/base/multi-base.svg", "tests/data/flamegraph/base/single-base.svg", "tests/flamegraph.rs"]

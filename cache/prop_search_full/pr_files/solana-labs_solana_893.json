@@ -1,0 +1,1 @@
+["multinode-demo/common.sh", "multinode-demo/drone.sh", "multinode-demo/leader.sh", "multinode-demo/validator.sh"]

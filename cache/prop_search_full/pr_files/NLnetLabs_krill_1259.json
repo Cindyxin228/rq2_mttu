@@ -1,0 +1,1 @@
+["src/daemon/http/auth/authorizer.rs", "src/daemon/http/auth/providers/config_file.rs", "src/daemon/http/auth/providers/openid_connect/provider.rs", "src/daemon/http/auth/session.rs", "src/daemon/http/metrics.rs", "src/daemon/krillserver.rs", "src/daemon/mq.rs", "src/daemon/scheduler.rs"]

@@ -1,0 +1,1 @@
+["CAHNGELOG.md", "fedimint-api-client/src/api/global_api/with_request_hook.rs", "flake.lock", "flake.nix", "modules/fedimint-mint-tests/src/bin/mint-module-tests.rs", "modules/fedimint-wallet-client/src/backup.rs", "nix/overlays/wasm-bindgen.nix", "nix/pkgs/cargo-honggfuzz.nix"]

@@ -1,0 +1,1 @@
+[".github/workflows/service_test_fs.yml", ".github/workflows/service_test_memory.yml", ".github/workflows/service_test_s3.yml", "Cargo.toml", "src/object.rs", "src/services/fs/backend.rs", "src/services/s3/backend.rs"]

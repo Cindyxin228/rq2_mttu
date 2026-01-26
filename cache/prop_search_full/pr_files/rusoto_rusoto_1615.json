@@ -1,0 +1,1 @@
+["CHANGELOG.md", "integration_tests/Cargo.toml", "integration_tests/tests/ds.rs", "integration_tests/tests/logs.rs", "integration_tests/tests/sample-data/sagan.log", "rusoto/core/Cargo.toml", "rusoto/core/src/client.rs", "rusoto/core/src/encoding.rs", "rusoto/core/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocl/Cargo.toml", "bin/nanocl/src/commands/cargo.rs", "bin/nanocl/src/commands/cargo_image.rs", "bin/nanocl/src/commands/namespace.rs", "bin/nanocl/src/commands/resource.rs", "bin/nanocl/src/commands/state.rs", "bin/nanocl/src/utils/dialog.rs", "bin/nanocl/src/utils/mod.rs"]

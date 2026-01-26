@@ -1,0 +1,1 @@
+[".vscode/settings.json", "CHANGELOG.md", "Cargo.toml", "benches/benches.rs", "examples/search.rs", "examples/upsert.rs", "src/callbacks.rs", "src/compact.rs", "src/compact_live.rs", "src/in_memory_example.rs", "src/lib.rs", "src/search.rs", "src/upsert.rs", "tests/non_regression.rs", "tests/test_in_memory.rs"]

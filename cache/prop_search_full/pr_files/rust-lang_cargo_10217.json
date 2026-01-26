@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/mod.rs", "src/cargo/core/features.rs", "src/cargo/core/profiles.rs", "src/cargo/ops/cargo_compile.rs", "src/cargo/util/toml/mod.rs", "src/doc/src/reference/unstable.md", "tests/testsuite/config.rs", "tests/testsuite/profiles.rs"]

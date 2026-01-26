@@ -1,0 +1,1 @@
+["src/find/matchers/delete.rs", "src/find/matchers/logical_matchers.rs", "src/find/matchers/mod.rs", "src/find/matchers/printf.rs", "src/find/matchers/size.rs", "src/find/matchers/type_matcher.rs", "src/find/mod.rs", "src/xargs/mod.rs", "tests/xargs_tests.rs"]

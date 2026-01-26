@@ -1,0 +1,1 @@
+["serde-tests/Cargo.toml", "serde-tests/test.rs", "src/de/mod.rs", "src/de/raw.rs", "src/de/serde.rs", "src/decimal128.rs", "src/lib.rs", "src/raw/array.rs", "src/raw/bson.rs", "src/raw/document.rs", "src/raw/document_buf.rs", "src/raw/mod.rs", "src/raw/test/props.rs", "src/ser/raw/mod.rs", "src/ser/raw/value_serializer.rs", "src/ser/serde.rs", "src/tests/spec/corpus.rs"]

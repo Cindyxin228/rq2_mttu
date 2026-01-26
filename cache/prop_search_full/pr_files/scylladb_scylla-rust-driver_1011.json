@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".github/workflows/tablets.yml", "examples/Cargo.toml", "scylla-cql/Cargo.toml", "scylla-proxy/Cargo.toml", "scylla/Cargo.toml", "scylla/src/transport/session_test.rs", "scylla/tests/integration/lwt_optimisation.rs", "scylla/tests/integration/tablets.rs"]

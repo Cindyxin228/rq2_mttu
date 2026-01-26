@@ -1,0 +1,1 @@
+["connectorx-python/connectorx/tests/test_oracle.py", "connectorx-python/src/pandas/transports/oracle.rs", "connectorx/src/sources/oracle/mod.rs", "connectorx/src/sources/oracle/typesystem.rs", "connectorx/src/transports/oracle_arrow.rs", "connectorx/src/transports/oracle_arrow2.rs", "scripts/oracle.sql"]

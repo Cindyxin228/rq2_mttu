@@ -1,0 +1,1 @@
+["src/filters.rs", "src/headers.rs", "src/interlace.rs", "src/png/mod.rs", "src/png/scan_lines.rs", "src/reduction/alpha.rs", "src/reduction/color.rs"]

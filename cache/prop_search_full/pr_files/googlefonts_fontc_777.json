@@ -1,0 +1,1 @@
+["Cargo.toml", "fontbe/Cargo.toml", "glyphs-reader/Cargo.toml", "glyphs-reader/src/error.rs", "glyphs-reader/src/font.rs", "glyphs-reader/src/glyphdata.rs", "glyphs-reader/src/glyphdata/glyphdata_impl.rs", "glyphs2fontir/src/source.rs"]

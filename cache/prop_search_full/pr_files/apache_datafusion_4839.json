@@ -1,0 +1,1 @@
+["datafusion/core/src/execution/context.rs", "datafusion/core/src/physical_optimizer/dist_enforcement.rs", "datafusion/core/src/physical_optimizer/mod.rs", "datafusion/core/src/physical_optimizer/repartition.rs", "datafusion/core/src/physical_optimizer/sort_enforcement.rs", "datafusion/core/src/physical_plan/limit.rs", "datafusion/expr/src/logical_plan/builder.rs"]

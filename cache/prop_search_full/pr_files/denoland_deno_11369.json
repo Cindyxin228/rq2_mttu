@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "cli/bench/deno_tcp_proxy.ts", "cli/dts/lib.deno.ns.d.ts", "cli/tests/cat.ts", "cli/tests/echo_server.ts", "cli/tests/unit/files_test.ts", "docs/examples/tcp_echo.md", "docs/examples/unix_cat.md", "docs/getting_started/first_steps.md", "test_util/std"]

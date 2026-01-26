@@ -1,0 +1,1 @@
+["crates/nu-command/src/commands.rs", "crates/nu-command/src/commands/group_by.rs", "crates/nu-command/src/commands/move_/command.rs", "crates/nu-command/src/commands/to_md.rs", "crates/nu-command/src/examples.rs", "crates/nu-command/src/examples/sample.rs", "crates/nu-command/tests/format_conversions/markdown.rs", "crates/nu-protocol/src/value.rs"]

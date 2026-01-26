@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "src/async_impl/body.rs", "src/async_impl/client.rs", "src/async_impl/multipart.rs", "src/async_impl/request.rs", "tests/redirect.rs"]

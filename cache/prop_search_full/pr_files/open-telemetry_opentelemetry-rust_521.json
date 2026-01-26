@@ -1,0 +1,1 @@
+["opentelemetry/src/sdk/trace/config.rs", "opentelemetry/src/sdk/trace/mod.rs", "opentelemetry/src/sdk/trace/span.rs", "opentelemetry/src/sdk/trace/span_limit.rs", "opentelemetry/src/sdk/trace/tracer.rs", "opentelemetry/src/testing/trace.rs", "opentelemetry/src/trace/link.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "nanocl-models/Cargo.toml", "nanocl-models/src/lib.rs", "nanocl-models/src/resource.rs", "nanocl-models/src/schema.rs", "nanocl-models/src/system.rs", "nanocld/Cargo.toml", "nanocld/src/models/resource.rs", "nanocld/src/repositories/resource.rs", "nanocld/src/schema.rs", "nanocld/src/services/resource.rs"]

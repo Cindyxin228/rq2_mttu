@@ -1,0 +1,1 @@
+["crates/iceberg/src/expr/visitors/manifest_evaluator.rs", "crates/iceberg/src/inspect/manifests.rs", "crates/iceberg/src/spec/manifest/mod.rs", "crates/iceberg/src/spec/manifest/writer.rs", "crates/iceberg/src/spec/manifest_list.rs", "crates/iceberg/src/spec/snapshot.rs", "crates/iceberg/src/spec/snapshot_summary.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ruby-bindings.yml", ".github/workflows/ruby-version-tests.yml", "ruby-structs/src/lib.rs", "ruby-structs/src/ruby_2_6_8.rs", "ruby-structs/src/ruby_2_7_4.rs", "ruby-structs/src/ruby_3_0_2.rs", "src/core/initialize.rs", "src/core/ruby_version.rs"]

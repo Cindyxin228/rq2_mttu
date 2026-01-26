@@ -1,0 +1,1 @@
+["bindings/ergo-lib-wasm/src/utils.rs", "ergo-lib/Cargo.toml", "ergo-lib/src/constants.rs", "ergo-lib/src/wallet.rs", "ergo-lib/src/wallet/miner_fee.rs", "ergo-lib/src/wallet/tx_builder.rs"]

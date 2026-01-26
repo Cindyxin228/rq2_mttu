@@ -1,0 +1,1 @@
+["crates/renderer/src/globals.wgsl", "crates/sky/src/atmospheric_scattering.wgsl", "crates/sky/src/clouds.wgsl", "crates/water/src/water.wgsl", "guest/rust/examples/controllers/third_person_camera/screenshot.png", "guest/rust/examples/rendering/sun/src/server.rs", "web/Cargo.lock", "web/Cargo.toml", "web/client/Cargo.toml", "web/client/src/app.rs", "web/client/src/lib.rs"]

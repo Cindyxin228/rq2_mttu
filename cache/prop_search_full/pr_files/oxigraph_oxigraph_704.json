@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/tests.yml", "lib/oxsdatatypes/src/double.rs", "lib/oxsdatatypes/src/float.rs", "lib/oxttl/src/line_formats.rs", "lib/spargebra/src/algebra.rs", "lib/spargebra/src/parser.rs", "lib/src/sparql/eval.rs", "lib/src/sparql/mod.rs", "lints/build_config.py"]

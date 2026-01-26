@@ -1,0 +1,1 @@
+["hil-test/Cargo.toml", "hil-test/src/bin/qspi.rs", "hil-test/src/bin/spi_half_duplex_read.rs", "hil-test/src/bin/spi_half_duplex_slave_qspi.rs", "hil-test/src/bin/spi_half_duplex_write.rs", "hil-test/src/bin/spi_slave.rs"]

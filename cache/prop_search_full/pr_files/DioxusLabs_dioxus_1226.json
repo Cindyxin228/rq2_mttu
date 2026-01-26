@@ -1,0 +1,1 @@
+[".github/workflows/miri.yml", "packages/core/Cargo.toml", "packages/core/src/arena.rs", "packages/core/src/diff.rs", "packages/core/src/scheduler/wait.rs", "packages/core/src/scope_arena.rs", "packages/core/src/scopes.rs", "packages/core/src/virtual_dom.rs", "packages/core/tests/fuzzing.rs", "packages/core/tests/suspense.rs", "packages/core/tests/task.rs"]

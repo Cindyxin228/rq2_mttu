@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "cargo-shuttle/src/args.rs", "cargo-shuttle/src/init.rs", "cargo-shuttle/tests/integration/init.rs", "cargo-shuttle/tests/integration/run.rs", "e2e/tests/integration/actix_web.rs", "e2e/tests/integration/main.rs", "service/Cargo.toml", "service/src/lib.rs"]

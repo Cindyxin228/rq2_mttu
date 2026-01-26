@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "ffi/Cargo.toml", "ffi/README.md", "ffi/build.rs", "ffi/src/lib.rs", "kernel/examples/inspect-table/src/main.rs", "kernel/src/lib.rs", "kernel/src/snapshot.rs"]

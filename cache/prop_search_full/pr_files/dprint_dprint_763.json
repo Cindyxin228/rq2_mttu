@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/core/src/formatting/printer.rs", "crates/core/src/formatting/writer.rs", "crates/dprint/src/environment/environment.rs", "crates/dprint/src/paths.rs", "crates/dprint/src/utils/logging/logger.rs", "crates/dprint/src/utils/logging/multi_select.rs", "rust-toolchain.toml"]

@@ -1,0 +1,1 @@
+["src/event/data.rs", "src/event/format.rs", "tests/serde_json.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/Cargo.toml", "benches/dns_name.rs", "fuzz/.gitignore", "fuzz/Cargo.toml", "fuzz/fuzz_targets/fuzz_target_dns_message.rs", "fuzz/fuzz_targets/fuzz_target_dns_name.rs", "fuzz/fuzz_targets/fuzz_target_memcached_get.rs", "fuzz/fuzz_targets/fuzz_target_memcached_metas.rs", "mtop-client/src/core.rs"]

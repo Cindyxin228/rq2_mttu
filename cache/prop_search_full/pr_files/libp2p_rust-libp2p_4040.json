@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/Cargo.toml", "core/src/lib.rs", "protocols/gossipsub/src/error.rs", "protocols/gossipsub/src/lib.rs", "protocols/gossipsub/src/protocol.rs", "protocols/relay/src/priv_client/transport.rs", "swarm-test/src/lib.rs", "swarm/src/lib.rs", "transports/plaintext/src/error.rs", "transports/pnet/Cargo.toml", "transports/webrtc/src/tokio/transport.rs"]

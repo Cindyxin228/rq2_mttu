@@ -1,0 +1,1 @@
+[".gitignore", "README.md", "fixtures/TEST.md", "fixtures/TEST_EXCLUDE_1.txt", "fixtures/TEST_EXCLUDE_2.txt", "lychee-bin/src/main.rs", "lychee-bin/src/options.rs", "lychee-bin/src/stats.rs", "lychee-bin/tests/cli.rs", "lychee-lib/src/collector.rs", "lychee-lib/src/extract.rs", "lychee-lib/src/quirks/mod.rs", "lychee.example.toml"]

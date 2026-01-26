@@ -1,0 +1,1 @@
+["daemon/src/api.rs", "daemon/src/dashboard.rs", "daemon/src/sync.rs", "tools/src/pager.rs", "tools/src/schedule/archlinux.rs", "tools/src/schedule/debian.rs", "worker/Dockerfile.debian", "worker/README.md", "worker/src/main.rs"]

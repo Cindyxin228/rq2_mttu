@@ -1,0 +1,1 @@
+[".github/workflows/python_test.yml", "controller-client/Cargo.toml", "controller-client/src/cli.rs", "controller-client/src/lib.rs", "controller-client/src/mock_controller.rs", "controller-client/src/model_helper.rs", "controller-client/src/paginator.rs", "shared/src/lib.rs"]

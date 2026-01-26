@@ -1,0 +1,1 @@
+["rust/noosphere-gateway/src/lib.rs", "rust/noosphere-gateway/src/try_or_reset.rs", "rust/noosphere-gateway/src/worker/name_system.rs", "rust/noosphere-ipfs/src/client/kubo.rs"]

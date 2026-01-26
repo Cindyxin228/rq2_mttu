@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/core/rewrite/execute.rs", "src/core/rewrite/plan.rs", "src/core/rewrite/rewrite_hooks.rs", "tests/command/test_move.rs", "tests/command/test_restack.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "src/client/builder.rs", "src/client/connect.rs", "src/client/mod.rs", "src/client/paired.rs", "src/client/pubsub/mod.rs", "src/reconnect.rs", "src/resp.rs"]

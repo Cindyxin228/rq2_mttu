@@ -1,0 +1,1 @@
+[".github/ISSUE_TEMPLATE/bug_report.md", ".github/ISSUE_TEMPLATE/config.yml", ".github/ISSUE_TEMPLATE/doc-improvement.md", ".github/ISSUE_TEMPLATE/feature_request.md", "crates/ruma-common/src/events/room/aliases.rs", "crates/ruma-common/src/events/room/member.rs", "crates/ruma-common/tests/events/ui/09-enum-invalid-kind.stderr", "crates/ruma-macros/src/events/event_parse.rs"]

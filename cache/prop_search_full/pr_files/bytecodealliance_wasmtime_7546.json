@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/test-programs/src/bin/api_proxy.rs", "crates/test-programs/src/bin/api_proxy_streaming.rs", "crates/wasi-http/tests/all/main.rs", "src/commands/serve.rs"]

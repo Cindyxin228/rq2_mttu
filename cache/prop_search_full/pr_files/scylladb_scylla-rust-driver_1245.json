@@ -1,0 +1,1 @@
+["scylla/src/cluster/metadata.rs", "scylla/src/network/connection.rs", "scylla/src/utils/test_utils.rs", "scylla/tests/integration/history.rs", "scylla/tests/integration/new_session.rs", "scylla/tests/integration/utils.rs", "test/cluster/docker-compose-passauth.yml", "test/cluster/docker-compose.yml", "test/tls/docker-compose-tls.yml"]

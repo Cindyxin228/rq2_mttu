@@ -1,0 +1,1 @@
+[".github/PULL_REQUEST_TEMPLATE/release-checklist.md", ".github/workflows/release-crates-io.patch.yml", ".github/workflows/release-crates-io.yml", "CHANGELOG.md", "book/src/user/docker.md", "book/src/user/install.md", "release.toml", "zebra-state/Cargo.toml", "zebrad/Cargo.toml"]

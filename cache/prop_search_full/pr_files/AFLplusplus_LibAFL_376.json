@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng/src/lib.rs", "fuzzers/libfuzzer_reachability/src/lib.rs", "fuzzers/tutorial/src/lib.rs", "libafl/src/fuzzer/mod.rs"]

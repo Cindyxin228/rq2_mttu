@@ -1,0 +1,1 @@
+["src/blockchain/bitcoin.rs", "src/blockchain/chains.rs", "src/convert/proto/wallet.rs", "src/storage/vault.rs", "src/storage/vault_ethereum.rs", "src/structs/book.rs", "src/structs/seed.rs"]

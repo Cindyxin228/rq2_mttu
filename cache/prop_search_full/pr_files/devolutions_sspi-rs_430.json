@@ -1,0 +1,1 @@
+["ffi/src/dpapi/api.rs", "ffi/src/dpapi/mod.rs", "ffi/src/lib.rs", "ffi/src/sspi/common.rs", "ffi/src/sspi/credentials_attributes.rs", "ffi/src/sspi/sec_buffer.rs", "ffi/src/sspi/sec_handle.rs", "ffi/src/sspi/sec_pkg_info.rs", "ffi/src/sspi/sec_winnt_auth_identity.rs", "ffi/src/sspi/utils.rs", "ffi/src/utils.rs", "ffi/src/winscard/scard_handle.rs", "src/cert_utils.rs"]

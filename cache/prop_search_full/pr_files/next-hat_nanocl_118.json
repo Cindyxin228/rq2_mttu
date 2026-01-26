@@ -1,0 +1,1 @@
+[".github/workflows/tests.yml", "bin/nanocl/src/commands/state.rs", "bin/nanocl/src/main.rs", "bin/nanocld/src/services/cargo_image.rs", "bin/nanocld/src/utils/cargo_image.rs", "crates/nanocl_stubs/src/cargo_image.rs", "crates/nanocld_client/src/cargo_image.rs", "crates/nanocld_client/src/http_client.rs"]

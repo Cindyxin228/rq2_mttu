@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Changelog.md", "defaults/krill.conf", "lagosta/js/app.js", "lagosta/js/app.js.map", "src/commons/api/history.rs", "src/commons/eventsourcing/store.rs", "src/constants.rs", "src/daemon/ca/server.rs", "src/daemon/config.rs", "src/pubd/pubserver.rs", "src/pubd/repository.rs", "test-resources/krill-init.conf", "tests/history.rs"]

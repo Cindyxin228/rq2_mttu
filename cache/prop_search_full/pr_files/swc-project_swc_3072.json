@@ -1,0 +1,1 @@
+["crates/swc_ecma_preset_env/scripts/transform-data-gen.js", "crates/swc_ecma_preset_env/src/lib.rs", "crates/swc_ecma_preset_env/src/transform_data.json", "crates/swc_ecma_preset_env/src/transform_data.rs", "crates/swc_ecma_preset_env/src/transform_data_bugfixes.json", "package.json", "yarn.lock"]

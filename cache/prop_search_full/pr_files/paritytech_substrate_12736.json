@@ -1,0 +1,1 @@
+["bin/node/runtime/src/lib.rs", "frame/nfts/README.md", "frame/nfts/src/features/attributes.rs", "frame/nfts/src/impl_nonfungibles.rs", "frame/nfts/src/lib.rs", "frame/nfts/src/mock.rs", "frame/nfts/src/tests.rs", "frame/nfts/src/types.rs", "frame/support/src/traits/tokens/nonfungible_v2.rs", "frame/support/src/traits/tokens/nonfungibles_v2.rs"]

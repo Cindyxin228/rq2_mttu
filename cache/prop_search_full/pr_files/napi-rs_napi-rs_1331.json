@@ -1,0 +1,1 @@
+[".github/workflows/msrv.yml", "crates/napi/src/bindgen_runtime/js_values/arraybuffer.rs", "crates/napi/src/bindgen_runtime/js_values/buffer.rs", "crates/napi/src/bindgen_runtime/mod.rs", "examples/napi/src/typed_array.rs", "memory-testing/buffer.mjs", "memory-testing/src/lib.rs", "memory-testing/test-util.mjs"]

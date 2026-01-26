@@ -1,0 +1,1 @@
+[".changes/fix-gtk-destroyed-event.md", "examples/window.rs", "src/event.rs", "src/platform_impl/linux/event_loop.rs"]

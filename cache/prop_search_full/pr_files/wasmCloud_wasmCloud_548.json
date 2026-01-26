@@ -1,0 +1,1 @@
+[".cargo/audit.toml", "Cargo.lock", "Cargo.toml", "crates/providers/Cargo.lock", "crates/wit-bindgen-wasmcloud-provider/Cargo.toml", "flake.lock", "flake.nix", "tests/actors/rust/Cargo.lock", "tests/actors/rust/tcp-component-command/Cargo.lock"]

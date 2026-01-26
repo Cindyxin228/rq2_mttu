@@ -1,0 +1,1 @@
+["flareon-cli/src/migration_generator.rs", "flareon/src/auth/db/migrations/m_0001_initial.rs", "flareon/src/db.rs", "flareon/src/db/fields.rs", "flareon/src/db/migrations.rs", "flareon/tests/db.rs"]

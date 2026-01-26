@@ -1,0 +1,1 @@
+["src/cargo/core/dependency.rs", "src/cargo/util/toml/mod.rs", "src/cargo/util/toml_mut/manifest.rs", "tests/testsuite/check.rs", "tests/testsuite/inheritable_workspace_fields.rs", "tests/testsuite/metadata.rs"]

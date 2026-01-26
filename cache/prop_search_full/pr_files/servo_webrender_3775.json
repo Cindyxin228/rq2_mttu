@@ -1,0 +1,1 @@
+["webrender/src/frame_builder.rs", "webrender/src/picture.rs", "webrender/src/prim_store/mod.rs", "webrender/src/record.rs", "webrender/src/render_backend.rs", "webrender/src/renderer.rs", "webrender_api/src/api.rs"]

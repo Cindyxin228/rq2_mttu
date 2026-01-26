@@ -1,0 +1,1 @@
+["src/commands/command.rs", "src/commands/pwd.rs", "src/shell/filesystem_shell.rs", "src/shell/help_shell.rs", "src/shell/shell.rs", "src/shell/shell_manager.rs", "src/shell/value_shell.rs"]

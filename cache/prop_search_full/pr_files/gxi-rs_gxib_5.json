@@ -1,0 +1,1 @@
+["examples/web/public/favicon.ico", "src/cli/web_args.rs", "src/pipelines/web/mod.rs", "src/pipelines/web/server/mod.rs", "src/pipelines/web/server/server.rs", "src/pipelines/web/server/ws_actor.rs", "src/pipelines/web/web_pipeline.rs"]

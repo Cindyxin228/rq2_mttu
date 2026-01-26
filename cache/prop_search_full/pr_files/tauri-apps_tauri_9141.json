@@ -1,0 +1,1 @@
+[".changes/codegen-set-assets.md", ".changes/context-assets-unbox.md", ".changes/context-remove-assets-generics.md", "core/tauri-build/src/codegen/context.rs", "core/tauri-codegen/src/context.rs", "core/tauri-macros/src/context.rs", "core/tauri/src/app.rs", "core/tauri/src/lib.rs", "core/tauri/src/manager/mod.rs", "core/tauri/src/test/mod.rs", "examples/splashscreen/main.rs"]

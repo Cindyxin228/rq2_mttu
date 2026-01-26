@@ -1,0 +1,1 @@
+["autonomi/src/client/data_types/scratchpad.rs", "autonomi/src/client/quote.rs", "autonomi/src/networking/driver/mod.rs", "autonomi/src/networking/driver/swarm_events.rs", "autonomi/src/networking/driver/task_handler.rs", "autonomi/src/networking/interface/mod.rs", "autonomi/src/networking/mod.rs", "autonomi/tests/scratchpad.rs"]

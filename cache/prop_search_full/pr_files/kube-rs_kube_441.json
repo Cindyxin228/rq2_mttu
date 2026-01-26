@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Makefile", "examples/Cargo.toml", "kube-derive/Cargo.toml", "kube/Cargo.toml", "kube/src/api/params.rs", "kube/src/api/resource.rs", "kube/src/config/file_config.rs", "kube/src/error.rs"]

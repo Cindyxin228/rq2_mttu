@@ -1,0 +1,1 @@
+["Cargo.lock", "deny.toml", "iroh-dns-server/Cargo.toml", "iroh-dns-server/src/http.rs", "iroh-dns-server/src/http/doh/extract.rs", "iroh-relay/Cargo.toml", "iroh/Cargo.toml", "iroh/src/test_utils.rs"]

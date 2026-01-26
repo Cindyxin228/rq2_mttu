@@ -1,0 +1,1 @@
+["Cargo.lock", "apple-bom/Cargo.toml", "apple-bundles/Cargo.toml", "apple-codesign/Cargo.toml", "apple-codesign/src/cryptography.rs", "apple-xar/Cargo.toml"]

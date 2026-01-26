@@ -1,0 +1,1 @@
+[".changes/bundler-merge-info-plist.md", ".changes/embed-plist.md", "core/tauri-codegen/src/context.rs", "core/tauri/Cargo.toml", "core/tauri/src/lib.rs", "examples/api/src-tauri/Info.plist", "tooling/bundler/src/bundle/macos/app.rs", "tooling/bundler/src/bundle/settings.rs", "tooling/cli.rs/src/interface/rust.rs"]

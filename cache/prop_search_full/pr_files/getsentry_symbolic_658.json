@@ -1,0 +1,1 @@
+["CHANGELOG.md", "symbolic-debuginfo/src/pe.rs", "symbolic-ppdb/Cargo.toml", "symbolic-ppdb/src/lib.rs", "symbolic-ppdb/tests/fixtures/integration.dll", "symbolic-ppdb/tests/test_caches.rs", "symbolic-testutils/fixtures/windows/portable.pdb"]

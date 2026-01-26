@@ -1,0 +1,1 @@
+["CHANGELOG", "core/src/Ad4mClient.test.ts", "core/src/PubSub.ts", "core/src/agent/AgentClient.ts", "core/src/agent/AgentResolver.ts", "executor/src/core/agent/AgentService.ts", "executor/src/core/graphQL-interface/GraphQL.ts", "executor/src/core/graphQL-interface/PubSub.ts", "ui/src/components/Apps.tsx"]

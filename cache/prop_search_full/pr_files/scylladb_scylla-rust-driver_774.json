@@ -1,0 +1,1 @@
+["scylla/src/routing.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/locator/mod.rs", "scylla/src/transport/session.rs", "scylla/src/transport/speculative_execution.rs", "scylla/src/transport/topology.rs"]

@@ -1,0 +1,1 @@
+["libsql/src/connection.rs", "libsql/src/hrana/connection.rs", "libsql/src/hrana/hyper.rs", "libsql/src/hrana/stream.rs", "libsql/src/local/impls.rs", "libsql/src/replication/connection.rs"]

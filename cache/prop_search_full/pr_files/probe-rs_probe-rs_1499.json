@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Cross.toml", "build/version_info.rs", "cargo-embed/Cargo.toml", "cargo-embed/build.rs", "cargo-flash/Cargo.toml", "cargo-flash/build.rs", "cli/Cargo.toml", "cli/build.rs", "probe-rs-cli-util/Cargo.toml", "probe-rs-cli-util/src/flash.rs", "probe-rs-cli-util/src/lib.rs"]

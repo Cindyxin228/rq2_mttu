@@ -1,0 +1,1 @@
+["Cargo.toml", "src/internals/query/view/read.rs", "src/internals/query/view/try_read.rs", "src/internals/query/view/try_write.rs", "src/internals/query/view/write.rs", "src/internals/storage/slicevec.rs", "src/internals/systems/command.rs"]

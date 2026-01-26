@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "wayland-client/Cargo.toml", "wayland-commons/Cargo.toml", "wayland-commons/src/socket.rs", "wayland-cursor/Cargo.toml", "wayland-server/Cargo.toml"]

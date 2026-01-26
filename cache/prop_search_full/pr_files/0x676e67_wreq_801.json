@@ -1,0 +1,1 @@
+["src/client/request.rs", "src/client/ws/mod.rs", "src/core/client/mod.rs", "src/core/client/options/mod.rs", "src/core/ext/config.rs", "src/core/ext/mod.rs"]

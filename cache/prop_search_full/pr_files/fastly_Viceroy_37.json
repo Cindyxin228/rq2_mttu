@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/src/opts.rs", "lib/Cargo.toml", "lib/src/error.rs", "lib/src/execute.rs", "lib/src/wiggle_abi/dictionary_impl.rs", "lib/src/wiggle_abi/geo_impl.rs", "lib/src/wiggle_abi/req_impl.rs", "lib/src/wiggle_abi/uap_impl.rs"]

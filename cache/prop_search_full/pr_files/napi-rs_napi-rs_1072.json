@@ -1,0 +1,1 @@
+["Cargo.toml", "bench/Cargo.toml", "crates/backend/Cargo.toml", "crates/macro/Cargo.toml", "crates/napi/Cargo.toml", "examples/napi-compat-mode/Cargo.toml", "examples/napi/Cargo.toml", "examples/napi/__test__/values.spec.ts.md", "examples/napi/__test__/values.spec.ts.snap", "memory-testing/Cargo.toml", "package.json", "yarn.lock"]

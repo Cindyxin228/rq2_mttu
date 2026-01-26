@@ -1,0 +1,1 @@
+[".github/workflows/ci-rust.yml", ".markdownlint.yml", "CHANGELOG.md", "Cargo.toml", "examples/with-range-error-handling.rs", "src/download.rs", "src/downloader.rs"]

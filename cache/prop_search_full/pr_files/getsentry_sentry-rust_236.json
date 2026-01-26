@@ -1,0 +1,1 @@
+["CHANGELOG.md", "sentry-core/Cargo.toml", "sentry-core/src/client.rs", "sentry-core/src/envelope.rs", "sentry-core/src/lib.rs", "sentry-core/src/test.rs", "sentry-core/src/transport.rs", "sentry-log/src/integration.rs", "sentry/src/transport.rs", "sentry/tests/test_basic.rs"]

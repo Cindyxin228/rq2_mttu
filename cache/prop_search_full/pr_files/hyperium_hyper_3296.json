@@ -1,0 +1,1 @@
+["capi/include/hyper.h", "src/ffi/body.rs", "src/ffi/client.rs", "src/ffi/error.rs", "src/ffi/http_types.rs", "src/ffi/io.rs", "src/ffi/task.rs"]

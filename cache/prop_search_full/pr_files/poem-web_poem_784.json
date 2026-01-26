@@ -1,0 +1,1 @@
+["examples/poem/opentelemetry-jaeger/Cargo.toml", "poem/CHANGELOG.md", "poem/Cargo.toml", "poem/src/middleware/opentelemetry_metrics.rs", "poem/src/middleware/opentelemetry_tracing.rs"]

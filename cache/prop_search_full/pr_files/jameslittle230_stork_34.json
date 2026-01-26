@@ -1,0 +1,1 @@
+["js/index.js", "js/pencil.js", "package.json", "src/config/mod.rs", "src/index_versions/v2/search.rs", "src/index_versions/v3/builder.rs", "src/index_versions/v3/search.rs", "src/index_versions/v3/structs.rs", "src/searcher/mod.rs", "test/3b1b-config/3b1b.toml", "test/static/basic.css", "test/static/index.html"]

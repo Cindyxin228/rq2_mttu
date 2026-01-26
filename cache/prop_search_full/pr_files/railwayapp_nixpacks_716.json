@@ -1,0 +1,1 @@
+["src/nixpacks/builder/docker/dockerfile_generation.rs", "src/nixpacks/nix/mod.rs", "src/providers/rust.rs", "tests/docker_run_tests.rs"]

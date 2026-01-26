@@ -1,0 +1,1 @@
+["src/config/file.rs", "src/config/mod.rs", "src/config/stemming_config.rs", "src/config/test.rs", "src/index_versions/v2/builder.rs", "src/index_versions/v2/writer.rs", "src/lib.rs", "test/federalist2.toml"]

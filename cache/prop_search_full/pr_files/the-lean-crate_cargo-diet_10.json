@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/format_changeset.rs", "src/lib.rs", "tests/snapshots/failure-invalid-cargo-manifest"]

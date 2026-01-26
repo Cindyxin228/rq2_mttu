@@ -1,0 +1,1 @@
+["rust/lance-core/src/cache.rs", "rust/lance-core/src/datatypes.rs", "rust/lance-core/src/utils/path.rs", "rust/lance-datagen/src/generator.rs", "rust/lance-encoding/src/data.rs", "rust/lance-encoding/src/encodings/logical/primitive.rs"]

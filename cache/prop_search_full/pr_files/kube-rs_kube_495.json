@@ -1,0 +1,1 @@
+["examples/crd_derive_schema.rs", "examples/dynamic_api.rs", "examples/dynamic_watcher.rs", "kube-derive/src/custom_resource.rs", "kube-runtime/src/reflector/object_ref.rs", "kube/src/api/dynamic.rs", "kube/src/api/gvk.rs", "kube/src/api/mod.rs", "kube/src/client/discovery.rs", "kube/src/client/mod.rs", "kube/src/error.rs"]

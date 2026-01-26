@@ -1,0 +1,1 @@
+[".github/workflows/clippy.yml", ".github/workflows/coverage.yml", ".github/workflows/workflow.yml", "Cargo.lock", "Cargo.toml", "README.md", "clippy.toml", "src/wrapper.rs", "tests/mod.rs", "tests/test_base.rs", "tests/test_deepzoom.rs", "tests/test_properties.rs"]

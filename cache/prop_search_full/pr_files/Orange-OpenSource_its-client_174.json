@@ -1,0 +1,1 @@
+["rust/Cargo.lock", "rust/Cargo.toml", "rust/examples/config.ini", "rust/src/client/configuration.rs", "rust/src/client/configuration/telemetry_configuration.rs", "rust/src/transport/mqtt.rs", "rust/src/transport/telemetry.rs"]

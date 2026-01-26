@@ -1,0 +1,1 @@
+["sea-orm-macros/src/derives/try_getable_from_json.rs", "src/database/proxy.rs", "src/driver/mock.rs", "src/driver/sqlx_postgres.rs", "tests/common/features/json_struct.rs", "tests/common/features/schema.rs", "tests/json_struct_tests.rs"]

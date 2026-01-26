@@ -1,0 +1,1 @@
+["client/cli.rs", "client/client.rs", "client/commands/restart.rs", "daemon/instructions.rs", "shared/message.rs"]

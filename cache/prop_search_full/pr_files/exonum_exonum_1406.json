@@ -1,0 +1,1 @@
+[".travis.yml", "components/crypto/Cargo.toml", "components/merkledb/Cargo.toml", "components/merkledb/src/keys.rs", "examples/cryptocurrency/Cargo.toml", "exonum/Cargo.toml", "testkit/Cargo.toml"]

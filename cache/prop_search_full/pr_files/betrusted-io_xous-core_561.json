@@ -1,0 +1,1 @@
+["kernel/src/platform/cramium/rand.rs", "libs/cramium-hal/src/sce/trng.rs", "loader/src/platform/cramium/swap.rs"]

@@ -1,0 +1,1 @@
+["fuel-core/src/config/chain_config.rs", "fuel-core/src/config/snapshots/fuel_core__config__chain_config__tests__snapshot_simple_message_state.snap", "fuel-core/src/database/message.rs", "fuel-core/src/service/genesis.rs", "fuel-relayer/src/config.rs", "fuel-tests/tests/balances.rs", "fuel-tests/tests/coin.rs", "fuel-tests/tests/messages.rs", "fuel-tests/tests/snapshot.rs"]

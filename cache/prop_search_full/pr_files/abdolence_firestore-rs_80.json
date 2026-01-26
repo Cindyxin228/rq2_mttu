@@ -1,0 +1,1 @@
+["examples/list-collections.rs", "src/db/consistency_selector.rs", "src/db/list.rs", "src/db/mod.rs", "src/fluent_api/listing_builder.rs", "src/fluent_api/tests/mockdb.rs"]

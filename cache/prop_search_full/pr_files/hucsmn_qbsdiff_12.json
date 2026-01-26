@@ -1,0 +1,1 @@
+["Cargo.toml", "assets/bin/bspatch", "benches/invoke.rs", "cmd/qbsdiff.rs", "cmd/qbspatch.rs", "utils/Cargo.toml", "utils/src/lib.rs"]

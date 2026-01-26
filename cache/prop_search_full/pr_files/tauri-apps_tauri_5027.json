@@ -1,0 +1,1 @@
+["core/tauri-build/src/lib.rs", "core/tauri-macros/src/mobile.rs", "tooling/cli/src/interface/mod.rs", "tooling/cli/src/interface/rust.rs", "tooling/cli/src/interface/rust/manifest.rs", "tooling/cli/src/mobile/mod.rs"]

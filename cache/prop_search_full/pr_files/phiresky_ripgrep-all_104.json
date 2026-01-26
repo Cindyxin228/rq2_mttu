@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "exampledir/mail_nested.eml", "exampledir/mail_pdf_attach.eml", "exampledir/test/github_email.eml", "exampledir/test/mail_with_attachment.mbox", "exampledir/test/test.mbx", "src/adapters.rs", "src/adapters/custom.rs", "src/adapters/mbox.rs", "src/preproc.rs", "src/test_utils.rs"]

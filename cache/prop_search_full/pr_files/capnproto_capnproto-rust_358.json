@@ -1,0 +1,1 @@
+["benchmark/benchmark.rs", "capnp-futures/src/serialize.rs", "capnp-rpc/src/lib.rs", "capnp-rpc/src/rpc.rs", "capnp/src/serialize.rs", "capnpc/src/codegen.rs", "capnpc/src/codegen_types.rs"]

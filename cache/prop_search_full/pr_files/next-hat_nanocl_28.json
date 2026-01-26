@@ -1,0 +1,1 @@
+["Cargo.lock", "build.rs", "src/cli/docker.rs", "src/cli/mod.rs", "src/cli/node.rs", "src/client/mod.rs", "src/client/nginx_log.rs", "src/main.rs", "src/models/cargo.rs", "src/models/container.rs", "src/models/controller.rs", "src/models/git_repository.rs", "src/models/mod.rs", "src/models/nginx_template.rs", "src/models/node.rs"]

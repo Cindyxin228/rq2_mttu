@@ -1,0 +1,1 @@
+[".changes/fix-add-child-deadlock.md", ".changes/fix-reparent.md", ".changes/multiwebview-bounds-fixes.md", "core/tauri-runtime-wry/src/lib.rs", "core/tauri/Cargo.toml", "core/tauri/src/error.rs", "core/tauri/src/lib.rs", "core/tauri/src/manager/window.rs", "core/tauri/src/webview/mod.rs", "core/tauri/src/webview/webview_window.rs", "core/tauri/src/window/mod.rs"]

@@ -1,0 +1,1 @@
+["src/lib.rs", "src/main.rs", "src/storage/mod.rs", "src/sync.rs", "src/todoist.rs", "src/ui/components/dialog_component.rs", "src/ui/components/mod.rs", "src/ui/components/sidebar_component.rs", "src/ui/components/task_list_component.rs", "src/ui/core/mod.rs", "src/ui/mod.rs", "src/utils/mod.rs"]

@@ -1,0 +1,1 @@
+["script/fuzz/.gitignore", "script/fuzz/Cargo.toml", "script/fuzz/README.md", "script/fuzz/fuzz_targets/transaction_scripts_verifier_data0.rs", "script/fuzz/fuzz_targets/transaction_scripts_verifier_data1.rs"]

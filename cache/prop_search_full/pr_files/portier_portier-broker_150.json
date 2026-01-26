@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lang/de.po", "lang/en.po", "lang/nl.po", "src/bridges/email.rs", "src/bridges/oidc.rs", "src/crypto.rs", "src/error.rs", "src/handlers/auth.rs", "src/handlers/pages.rs", "src/http.rs", "src/macros.rs", "src/store.rs", "tmpl/error.mustache"]

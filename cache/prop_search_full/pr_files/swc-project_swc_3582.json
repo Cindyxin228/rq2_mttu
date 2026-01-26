@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc_plugin/Cargo.toml", "crates/swc_plugin/src/handler.rs", "tests/rust-plugins/swc_internal_plugin/Cargo.lock"]

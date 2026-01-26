@@ -1,0 +1,1 @@
+["nix/modules/holochain.nix", "nix/modules/release-automation.nix"]

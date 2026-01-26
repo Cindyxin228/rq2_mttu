@@ -1,0 +1,1 @@
+["src/processor/delegate.rs", "src/state/delegated_metadata.rs", "src/state/delegation_record.rs", "tests/buffers/test_delegation.so", "tests/fixtures/accounts.rs", "tests/integration/tests/test-delegation.ts"]

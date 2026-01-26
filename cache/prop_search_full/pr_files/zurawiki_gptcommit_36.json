@@ -1,0 +1,1 @@
+["Cargo.toml", "Justfile", "README.md", "src/actions/config.rs", "src/actions/install.rs", "src/actions/prepare_commit_msg.rs", "src/help.rs", "src/main.rs", "src/openai.rs", "src/prompt.rs", "src/util.rs"]

@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/cli_state/secure_channels.rs", "implementations/rust/ockam/ockam_api/src/logs/exporting_configuration.rs", "implementations/rust/ockam/ockam_api/src/logs/ockam_tonic_traces_client.rs", "implementations/rust/ockam/ockam_api/src/nodes/service/manager.rs"]

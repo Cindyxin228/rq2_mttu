@@ -1,0 +1,1 @@
+["packages/desktop/Cargo.toml", "packages/desktop/src/desktop_context.rs", "packages/desktop/src/file_upload.rs", "packages/desktop/src/lib.rs", "packages/desktop/src/mobile_shortcut.rs", "packages/desktop/src/shortcut.rs", "packages/html/Cargo.toml"]

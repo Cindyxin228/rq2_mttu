@@ -1,0 +1,1 @@
+["src/cmd/context.rs", "src/cmd/exec.rs", "src/cmd/namespace.rs", "src/kubeconfig.rs", "src/kubectl.rs", "src/shell/mod.rs"]

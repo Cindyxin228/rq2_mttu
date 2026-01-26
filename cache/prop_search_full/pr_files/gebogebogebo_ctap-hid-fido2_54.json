@@ -1,0 +1,1 @@
+["examples/credential-management/main.rs", "examples/ctapcli/bio.rs", "examples/test-with-pin-non-rk/main.rs", "src/fidokey/get_assertion/get_assertion_command.rs", "src/fidokey/get_assertion/get_assertion_params.rs", "src/fidokey/get_assertion/get_assertion_response.rs", "src/fidokey/get_assertion/mod.rs", "src/lib.rs"]

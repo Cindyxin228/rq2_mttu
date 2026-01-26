@@ -1,0 +1,1 @@
+[".changelog/presigning-bugfix.md", "aws/rust-runtime/aws-inlineable/src/http_request_checksum.rs", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/HttpRequestChecksumDecorator.kt", "aws/sdk/aws-models/s3.json", "aws/sdk/integration-tests/s3/tests/presigning.rs"]

@@ -1,0 +1,1 @@
+["crypto/fipsmodule/aes/aes_nohw.c", "crypto/fipsmodule/bn/asm/x86_64-mont5.pl", "crypto/fipsmodule/ec/asm/p256-armv8-asm.pl", "crypto/poly1305/poly1305.c", "src/arithmetic/bigint.rs"]

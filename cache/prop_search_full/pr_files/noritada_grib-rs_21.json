@@ -1,0 +1,1 @@
+["src/bin/gribber/commands/info.rs", "src/context.rs", "tests/cli/commands/decode.rs", "tests/cli/commands/info.rs", "tests/cli/commands/inspect.rs", "tests/cli/commands/list.rs", "tests/cli/utils/testdata.rs"]

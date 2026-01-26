@@ -1,0 +1,1 @@
+[".github/workflows/bench.yml", ".github/workflows/publish-node.yml", ".github/workflows/publish-wasm.yml", "crates/swc/tests/fixture/issue-2216/input/.swcrc", "crates/swc/tests/fixture/issue-2216/input/index.ts", "crates/swc/tests/fixture/issue-2216/output/index.ts"]

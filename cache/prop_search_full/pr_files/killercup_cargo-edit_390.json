@@ -1,0 +1,1 @@
+["src/bin/add/args.rs", "src/bin/add/main.rs", "src/bin/rm/main.rs", "src/bin/upgrade/main.rs", "src/errors.rs", "src/lib.rs", "src/metadata.rs", "tests/cargo-add.rs", "tests/cargo-rm.rs", "tests/cargo-upgrade.rs", "tests/utils.rs"]

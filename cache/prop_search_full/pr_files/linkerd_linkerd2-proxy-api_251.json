@@ -1,0 +1,1 @@
+["go/http_route/http_route.pb.go", "go/outbound/outbound.pb.go", "proto/http_route.proto", "proto/outbound.proto", "src/gen/io.linkerd.proxy.http_route.rs", "src/gen/io.linkerd.proxy.outbound.rs"]

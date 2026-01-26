@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/release.yaml", "javascript/scripts/build.mjs", "rust/automerge-wasm/Cargo.toml", "rust/automerge/Cargo.toml", "rust/automerge/src/lib.rs", "rust/automerge/src/text_value.rs", "scripts/ci/build-test"]

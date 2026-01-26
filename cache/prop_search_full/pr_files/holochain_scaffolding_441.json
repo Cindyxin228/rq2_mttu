@@ -1,0 +1,1 @@
+["Cargo.lock", "flake.lock", "flake.nix", "src/scaffold/zome.rs", "src/scaffold/zome/coordinator.rs", "templates/ui-frameworks/vanilla/example/Cargo.toml.hbs", "templates/ui-frameworks/vanilla/example/dnas/hello_world/zomes/coordinator/hello_world/Cargo.toml.hbs"]

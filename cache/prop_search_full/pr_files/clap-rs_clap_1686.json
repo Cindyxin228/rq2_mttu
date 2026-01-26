@@ -1,0 +1,1 @@
+["Cargo.toml", "clap_derive/Cargo.toml", "clap_derive/tests/author_version_about.rs", "clap_generate/Cargo.toml", "clap_generate/src/generators/mod.rs", "clap_generate/src/lib.rs", "tests/app_from_crate.rs", "tests/cargo.rs"]

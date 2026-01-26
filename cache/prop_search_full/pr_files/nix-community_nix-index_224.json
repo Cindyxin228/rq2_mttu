@@ -1,0 +1,1 @@
+["src/bin/nix-channel-index.rs", "src/bin/nix-index.rs", "src/bin/nix-locate.rs", "src/database.rs", "src/files.rs", "src/frcode.rs", "src/hydra.rs", "src/lib.rs", "src/nixpkgs.rs", "src/package.rs"]

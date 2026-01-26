@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "ci/installdeps.sh", "lib/Cargo.toml", "lib/src/cli.rs", "lib/src/container/imageproxy.rs", "lib/src/container/import.rs", "lib/src/container/mod.rs", "lib/src/container/skopeo.rs"]

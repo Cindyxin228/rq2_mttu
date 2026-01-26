@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/repl/help.out", "repl/src/editor.rs", "sdl/src/console.rs", "std/src/console/cmds.rs", "std/src/console/mod.rs", "std/src/console/readline.rs", "terminal/src/lib.rs", "web/src/input.rs"]

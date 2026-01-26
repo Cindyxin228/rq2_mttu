@@ -1,0 +1,1 @@
+["datafusion/src/logical_plan/builder.rs", "datafusion/src/logical_plan/plan.rs", "datafusion/src/optimizer/filter_push_down.rs", "datafusion/src/optimizer/projection_push_down.rs", "datafusion/src/sql/planner.rs", "datafusion/tests/sql/explain_analyze.rs"]

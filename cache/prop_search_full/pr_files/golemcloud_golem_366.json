@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "golem-worker-executor-base/Cargo.toml", "golem-worker-executor-base/src/durable_host/wasm_rpc/mod.rs", "golem-worker-executor-base/src/services/rpc.rs", "integration-tests/Cargo.toml"]

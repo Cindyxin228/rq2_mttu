@@ -1,0 +1,1 @@
+["ci/run-wasi-nn-example.sh", "docs/WASI-tutorial.md", "src/commands/run.rs", "tests/all/cli_tests.rs", "tests/all/wasi_testsuite.rs"]

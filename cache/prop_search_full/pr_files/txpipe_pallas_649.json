@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/wallet/Cargo.toml", "examples/wallet/README.md", "examples/wallet/src/hd.rs", "examples/wallet/src/lib.rs", "examples/wallet/src/wrapper.rs", "pallas-crypto/src/key/ed25519.rs", "pallas-txbuilder/Cargo.toml", "pallas/Cargo.toml", "pallas/src/lib.rs"]

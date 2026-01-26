@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".pre-commit-config.yaml", "bindings/python/CHANGELOG.md", "bindings/python/README.rst", "bindings/python/benches/bench.py", "bindings/python/src/lib.rs", "bindings/python/tests-py/test_jsonschema.py"]

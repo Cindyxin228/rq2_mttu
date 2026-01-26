@@ -1,0 +1,1 @@
+["integration/src/tests/libraries/sdk.spec.ts", "js/sdk/etc/sdk.api.md", "js/sdk/src/event-fns.ts", "js/sdk/src/internal_common/event-fns-impl.ts", "js/sdk/src/internal_common/eventStore.ts", "js/sdk/src/v2/websocketEventStore.ts"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/catalog/rest/Cargo.toml", "crates/catalog/rest/src/catalog.rs", "crates/catalog/rest/src/client.rs", "crates/catalog/rest/src/lib.rs", "crates/catalog/rest/src/types.rs", "crates/catalog/rest/tests/rest_catalog_test.rs", "crates/examples/src/rest_catalog_namespace.rs", "crates/examples/src/rest_catalog_table.rs"]

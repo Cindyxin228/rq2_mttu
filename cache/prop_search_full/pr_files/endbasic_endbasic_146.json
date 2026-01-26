@@ -1,0 +1,1 @@
+[".github/workflows/release.sh", ".github/workflows/update-version.sh", "NEWS.md", "cli/Cargo.toml", "cli/src/main.rs", "core/Cargo.toml", "repl/Cargo.toml", "rpi/Cargo.toml", "sdl/Cargo.toml", "std/Cargo.toml", "std/src/console/readline.rs", "terminal/Cargo.toml", "web/Cargo.toml", "web/package-lock.json", "web/package.json"]

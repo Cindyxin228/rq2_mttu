@@ -1,0 +1,1 @@
+["lightning-invoice/src/lib.rs", "lightning/src/chain/mod.rs", "lightning/src/ln/chan_utils.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/features.rs", "lightning/src/ln/peer_channel_encryptor.rs", "lightning/src/ln/script.rs", "lightning/src/ln/wire.rs", "lightning/src/routing/network_graph.rs"]

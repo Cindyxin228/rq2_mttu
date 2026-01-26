@@ -1,0 +1,1 @@
+["Cargo.lock", "apps/vault/Cargo.toml", "apps/vault/src/env/xous/mod.rs", "apps/vault/src/main.rs", "services/usb-device-xous/Cargo.toml", "services/usb-device-xous/src/lib.rs", "services/usb-device-xous/src/main_hosted.rs", "services/usb-device-xous/src/main_hw.rs", "services/usb-test/Cargo.toml", "services/usb-test/src/main.rs"]

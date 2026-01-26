@@ -1,0 +1,1 @@
+["build/textures.rs", "examples/compute_image.rs", "src/lib.rs", "src/program/raw.rs", "src/texture/any.rs", "src/texture/buffer_texture.rs", "src/uniforms/bind.rs", "src/uniforms/image_unit.rs", "src/uniforms/mod.rs", "src/uniforms/value.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Makefile.toml", "backends/src/otlp_tracing_bridge.rs", "cargo-shuttle/src/init.rs", "cargo-shuttle/src/lib.rs", "common/Cargo.toml", "common/src/deployment.rs", "common/src/resource.rs", "gateway/src/lib.rs", "resources/opendal/Cargo.toml", "resources/opendal/src/lib.rs", "resources/shared-db/Cargo.toml", "resources/shared-db/src/postgres.rs"]

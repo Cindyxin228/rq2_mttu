@@ -1,0 +1,1 @@
+[".github/workflows/build-binaries.yml", ".github/workflows/validation.yml", ".github/workflows/wheels-test.yml", "CHANGELOG.md", "crates/zspell/benches/datastructure.rs", "crates/zspell/benches/dict_integration.rs", "crates/zspell/src/dictionary.rs"]

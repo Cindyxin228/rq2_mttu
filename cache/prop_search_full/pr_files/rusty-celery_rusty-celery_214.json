@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/app/mod.rs", "src/broker/amqp.rs", "src/broker/mock.rs", "src/broker/mod.rs", "src/broker/redis.rs"]

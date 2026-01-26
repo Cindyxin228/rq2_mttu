@@ -1,0 +1,1 @@
+["packages/yew-macro/src/derive_props/field.rs", "packages/yew/src/html/component/scope.rs", "packages/yew/src/server_renderer.rs", "packages/yew/src/virtual_dom/vcomp.rs", "packages/yew/src/virtual_dom/vlist.rs", "packages/yew/src/virtual_dom/vnode.rs", "packages/yew/src/virtual_dom/vsuspense.rs", "packages/yew/src/virtual_dom/vtag.rs", "packages/yew/src/virtual_dom/vtext.rs"]

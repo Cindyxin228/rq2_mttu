@@ -1,0 +1,1 @@
+[".pre-commit-config.yaml", "CHANGELOG.md", "Cargo.toml", "README.md", "README.tpl", "examples/to_value.rs", "migration_guide.md", "src/codec.rs", "src/de.rs", "src/decimal.rs", "src/decode.rs", "src/errors.rs", "src/lib.rs", "src/reader.rs", "src/schema.rs", "src/ser.rs", "src/types.rs", "src/util.rs", "src/writer.rs", "tests/io.rs", "tests/schema.rs"]

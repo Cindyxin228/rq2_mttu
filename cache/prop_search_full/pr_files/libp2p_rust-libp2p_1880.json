@@ -1,0 +1,1 @@
+["protocols/kad/src/handler.rs", "protocols/request-response/src/handler/protocol.rs", "swarm/CHANGELOG.md", "swarm/src/behaviour.rs", "swarm/src/lib.rs"]

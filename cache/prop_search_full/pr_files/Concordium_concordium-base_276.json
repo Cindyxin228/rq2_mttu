@@ -1,0 +1,1 @@
+["rust-src/concordium_base/src/base.rs", "rust-src/crypto_common/src/version.rs", "rust-src/id/src/id_proof_types.rs", "rust-src/id/src/id_verifier.rs", "rust-src/id/src/types.rs"]

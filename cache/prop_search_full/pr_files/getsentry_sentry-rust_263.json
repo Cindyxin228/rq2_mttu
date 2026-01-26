@@ -1,0 +1,1 @@
+["CHANGELOG.md", "sentry-backtrace/src/trim.rs", "sentry-core/src/lib.rs", "sentry-error-chain/src/lib.rs", "sentry-types/src/auth.rs", "sentry/Cargo.toml", "sentry/examples/error-chain-demo.rs", "sentry/src/defaults.rs", "sentry/src/lib.rs"]

@@ -1,0 +1,1 @@
+[".cargo/config.toml", "Cargo.lock", "Cargo.toml", "src/bin/cli/mod.rs", "src/bin/clouddns-nat-helper.rs", "src/bin/executor/mod.rs", "src/config.rs", "src/ipv4source.rs", "src/lib.rs", "src/plan.rs", "src/provider.rs", "src/provider/cloudflare/mod.rs", "src/provider/cloudflare/traits.rs", "src/provider/cloudflare/wrapper.rs", "src/registry.rs", "src/registry/txt/mod.rs"]

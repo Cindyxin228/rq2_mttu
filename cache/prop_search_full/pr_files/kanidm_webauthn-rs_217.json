@@ -1,0 +1,1 @@
+["base64urlsafedata/src/lib.rs", "webauthn-authenticator-rs/Cargo.toml", "webauthn-authenticator-rs/examples/authenticate/main.rs", "webauthn-authenticator-rs/src/softtoken.rs", "webauthn-rs-core/src/attestation.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs-core/src/error.rs", "webauthn-rs-core/src/interface.rs"]

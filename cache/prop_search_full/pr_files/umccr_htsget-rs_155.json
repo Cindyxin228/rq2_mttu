@@ -1,0 +1,1 @@
+[".github/workflows/benchmarking.yml", ".github/workflows/release.yml", ".github/workflows/tests.yml", "htsget-search/src/htsget/bam_search.rs", "htsget-search/src/htsget/bcf_search.rs", "htsget-search/src/htsget/vcf_search.rs"]

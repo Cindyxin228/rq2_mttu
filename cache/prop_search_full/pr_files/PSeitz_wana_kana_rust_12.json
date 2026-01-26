@@ -1,0 +1,1 @@
+["Cargo.toml", "src/is_mixed.rs", "src/lib.rs", "src/to_hiragana.rs", "src/to_kana.rs", "src/to_romaji.rs", "src/traits.rs", "src/trim_okurigana.rs", "src/utils/is_char_consonant.rs", "src/utils/is_char_slash_dot.rs", "src/utils/is_char_upper_case.rs", "tests/tokenize.rs", "tests/trim_okurigana.rs"]

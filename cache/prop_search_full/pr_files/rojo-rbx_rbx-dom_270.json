@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/clippy.yml", "README.md", "generate_reflection/src/main.rs", "rbx_types/src/attributes/writer.rs", "rbx_types/src/font.rs", "rbx_xml/src/deserializer_core.rs", "rbx_xml/src/types/tags.rs"]

@@ -1,0 +1,1 @@
+["lib/src/config/v2/tui/keys/mod.rs", "lib/src/lib.rs", "lib/src/library_db/migration.rs", "lib/src/library_db/migrations/002.sql", "lib/src/library_db/mod.rs", "lib/src/library_db/track_db.rs", "playback/src/lib.rs", "tui/src/ui/components/database.rs", "tui/src/ui/components/playlist.rs", "tui/src/ui/model/mod.rs", "tui/src/ui/model/update.rs"]

@@ -1,0 +1,1 @@
+["bitcoin/examples/taproot-psbt.rs", "bitcoin/src/blockdata/transaction.rs", "bitcoin/src/crypto/key.rs", "bitcoin/src/crypto/mod.rs", "bitcoin/src/lib.rs", "bitcoin/src/taproot.rs", "bitcoin/tests/serde.rs"]

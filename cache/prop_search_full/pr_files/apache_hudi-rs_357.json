@@ -1,0 +1,1 @@
+["crates/core/src/file_group/record_batches.rs", "crates/core/src/merge/ordering.rs", "crates/core/src/merge/record_merger.rs", "crates/core/src/record/mod.rs", "crates/core/src/schema/delete.rs"]

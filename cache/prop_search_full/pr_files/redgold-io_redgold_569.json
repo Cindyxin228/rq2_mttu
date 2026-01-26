@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bin/test.sh", "src/api/public_api.rs", "src/api/rosetta/mod.rs", "src/core/block_formation.rs", "src/core/resolver.rs", "src/core/transaction.rs", "src/data/download.rs", "src/e2e/tx_gen.rs", "src/genesis.rs", "src/node.rs", "src/node_config.rs", "src/test/node_e2e.rs"]

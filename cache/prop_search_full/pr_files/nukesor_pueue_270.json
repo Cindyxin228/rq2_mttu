@@ -1,0 +1,1 @@
+["CHANGELOG.md", "client/cli.rs", "client/client.rs", "client/commands/local_follow.rs", "client/display/follow.rs", "daemon/network/follow_log.rs", "lib/src/network/message.rs"]

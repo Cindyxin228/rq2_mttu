@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/config.rs", "src/dir_entry.rs", "src/exec/job.rs", "src/filesystem.rs", "src/filetypes.rs", "src/main.rs", "src/output.rs", "src/walk.rs", "tests/tests.rs"]

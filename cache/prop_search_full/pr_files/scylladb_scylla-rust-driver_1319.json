@@ -1,0 +1,1 @@
+["Cargo.lock.msrv", "scylla-cql/src/deserialize/result.rs", "scylla/Cargo.toml", "scylla/src/client/session_builder.rs", "scylla/src/network/tls.rs", "scylla/src/routing/locator/tablets.rs", "scylla/src/routing/partitioner.rs"]

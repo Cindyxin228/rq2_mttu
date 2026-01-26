@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/list-baremetal.rs", "examples/list-servers-paginated.rs", "examples/object-store.rs", "src/adapter.rs", "src/cache.rs", "src/client.rs", "src/lib.rs", "src/protocol.rs", "src/session.rs", "src/stream.rs", "src/sync.rs", "src/url.rs"]

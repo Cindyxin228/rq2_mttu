@@ -1,0 +1,1 @@
+["crates/store/re_protos/proto/rerun/v0/remote_store.proto", "crates/store/re_protos/src/codec.rs", "crates/store/re_protos/src/lib.rs", "crates/store/re_protos/src/v0/rerun.remote_store.v0.rs", "rerun_py/src/remote.rs"]

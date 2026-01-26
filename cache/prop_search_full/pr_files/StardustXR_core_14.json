@@ -1,0 +1,1 @@
+["core/Cargo.toml", "core/src/messenger.rs", "core/src/scenegraph.rs", "fusion/src/client.rs", "fusion/src/drawable/mod.rs", "fusion/src/items/mod.rs", "fusion/src/node.rs"]

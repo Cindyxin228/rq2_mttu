@@ -1,0 +1,1 @@
+["examples/http-axum/cdk/.gitignore", "examples/http-axum/cdk/.npmignore", "examples/http-axum/cdk/README.md", "examples/http-axum/cdk/bin/cdk.ts", "examples/http-axum/cdk/cdk.json", "examples/http-axum/cdk/lib/cdk-stack.ts", "examples/http-axum/cdk/package-lock.json", "examples/http-axum/cdk/package.json", "examples/http-axum/cdk/tsconfig.json"]

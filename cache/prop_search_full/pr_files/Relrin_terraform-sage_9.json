@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/context_switch/configs/context.toml", "examples/context_switch/configs/dev/variables.tfvars", "examples/context_switch/configs/production/variables.tfvars", "examples/context_switch/configs/staging/variables.tfvars", "examples/context_switch/main.tpl", "examples/context_switch/variables.tf", "src/cli.rs", "src/client.rs", "src/template.rs"]

@@ -1,0 +1,1 @@
+["src/libcore/mem/maybe_uninit.rs", "src/librustc/lint/context.rs", "src/librustc_lint/builtin.rs", "src/librustc_lint/lib.rs", "src/libsyntax_pos/symbol.rs", "src/test/ui/lint/uninitialized-zeroed.rs", "src/test/ui/lint/uninitialized-zeroed.stderr"]

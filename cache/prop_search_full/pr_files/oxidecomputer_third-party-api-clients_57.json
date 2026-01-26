@@ -1,0 +1,1 @@
+["generator/src/client.rs", "generator/src/functions.rs", "generator/src/main.rs", "github/src/auth.rs", "github/tests/tests.rs", "google/drive/src/traits.rs", "google/sheets/src/traits.rs", "rev.ai/src/traits.rs", "sendgrid/src/traits.rs"]

@@ -1,0 +1,1 @@
+["src/lib.rs", "src/mysql/mod.rs", "src/pg/mod.rs", "src/pooled_connection/deadpool.rs", "src/pooled_connection/mod.rs", "src/run_query_dsl/mod.rs", "src/stmt_cache.rs", "src/transaction_manager.rs"]

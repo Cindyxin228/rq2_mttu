@@ -1,0 +1,1 @@
+["src/client/client/mod.rs", "src/client/client/service.rs", "src/client/decoder.rs", "src/client/middleware/decoder/layer.rs", "src/client/middleware/retry/mod.rs", "src/client/request.rs", "src/config.rs", "src/connect.rs", "src/tls/config.rs", "src/tls/conn/boring.rs", "src/tls/conn/mod.rs", "src/tls/mod.rs", "tests/client.rs"]

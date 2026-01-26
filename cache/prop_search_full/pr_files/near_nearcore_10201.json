@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "core/crypto/src/key_conversion.rs", "core/crypto/src/signature.rs", "core/crypto/src/test_utils.rs", "core/crypto/src/util.rs", "core/crypto/src/vrf.rs", "deny.toml", "runtime/near-vm-runner/src/logic/gas_counter.rs", "runtime/near-vm-runner/src/logic/logic.rs", "tools/mirror/src/key_mapping.rs"]

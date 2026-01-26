@@ -1,0 +1,1 @@
+["linting/extra/src/primitive_topic.rs", "linting/extra/src/storage_never_freed.rs", "linting/extra/src/strict_balance_equality.rs", "linting/mandatory/src/no_main.rs", "scripts/generate_linter_docs.sh"]

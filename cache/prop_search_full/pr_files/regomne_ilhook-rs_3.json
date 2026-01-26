@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lib.rs", "src/x64.rs", "src/x64/fixed_memory_unix.rs", "src/x64/fixed_memory_win.rs", "src/x86.rs"]

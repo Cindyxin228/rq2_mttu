@@ -1,0 +1,1 @@
+["README.md", "examples/download_all_dependencies.rs", "examples/electra_discriminator.rs", "examples/electra_masked_lm.rs", "src/bert/bert.rs", "src/bert/mod.rs", "src/electra/electra.rs", "src/electra/embeddings.rs", "src/electra/mod.rs", "src/lib.rs", "tests/electra.rs", "utils/download-dependencies_electra-discriminator.py", "utils/download-dependencies_electra-generator.py"]

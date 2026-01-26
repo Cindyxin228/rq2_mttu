@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "guide/src/usage.md", "src/git/creds.rs", "src/git/identity_path.rs", "src/git/mod.rs", "tests/integration/config_file/defaults.rs"]

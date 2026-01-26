@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "src/cache/mod.rs", "src/cache/models.rs", "src/cfg.rs", "src/cmds/list.rs", "src/cmds/pick.rs", "src/err.rs", "src/helper.rs", "src/plugins/chrome.rs"]

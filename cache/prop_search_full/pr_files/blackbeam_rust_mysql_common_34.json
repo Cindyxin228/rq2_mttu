@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "build.rs", "src/packets/mod.rs", "src/proto/codec/mod.rs", "src/row/convert.rs", "src/row/mod.rs", "src/value/convert/bigdecimal.rs", "src/value/convert/chrono.rs", "src/value/convert/decimal.rs", "src/value/convert/mod.rs", "src/value/convert/time.rs", "src/value/convert/uuid.rs"]

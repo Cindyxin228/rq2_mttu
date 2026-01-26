@@ -1,0 +1,1 @@
+["Cargo.lock", "golem-service-base/Cargo.toml", "golem-service-base/src/lib.rs", "golem-service-base/src/service/template_object_store.rs", "golem-service-base/src/stream.rs", "golem-template-service/src/api/template.rs", "golem-template-service/src/grpcapi/template.rs", "golem-template-service/src/service/template.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/guide/configuration.md", "default-config.toml", "src/emotes/downloader.rs", "src/emotes/graphics_protocol.rs", "src/emotes/mod.rs", "src/handlers/config.rs", "src/handlers/data.rs", "src/handlers/user_input/input.rs", "src/main.rs", "src/terminal.rs", "src/twitch/mod.rs", "src/ui/mod.rs", "src/utils/pathing.rs"]

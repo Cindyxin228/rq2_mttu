@@ -1,0 +1,1 @@
+["embassy-executor/src/spawner.rs", "examples/nrf52840/src/bin/self_spawn_current_executor.rs"]

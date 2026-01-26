@@ -1,0 +1,1 @@
+["doc/rustdocfx/generate.go", "doc/rustdocfx/render_toc.go", "doc/rustdocfx/render_toc_test.go", "doc/rustdocfx/templates/toc.yml.mustache", "doc/rustdocfx/templates/tocItem.mustache"]

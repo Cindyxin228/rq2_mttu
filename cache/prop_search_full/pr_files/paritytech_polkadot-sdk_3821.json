@@ -1,0 +1,1 @@
+["substrate/frame/contracts/mock-network/src/tests.rs", "substrate/frame/contracts/src/lib.rs", "substrate/frame/contracts/src/wasm/runtime.rs", "substrate/frame/contracts/uapi/src/host.rs"]

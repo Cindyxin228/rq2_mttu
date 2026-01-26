@@ -1,0 +1,1 @@
+["opentelemetry-jaeger/src/exporter/thrift/mod.rs", "opentelemetry-otlp/src/transform/traces.rs", "opentelemetry/src/sdk/trace/config.rs", "opentelemetry/src/sdk/trace/span.rs", "opentelemetry/src/sdk/trace/tracer.rs", "opentelemetry/src/testing/trace.rs", "opentelemetry/src/trace/event.rs", "opentelemetry/src/trace/link.rs"]

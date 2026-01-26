@@ -1,0 +1,1 @@
+["crates/components/wick-azure-sql/src/component.rs", "crates/wick/wick-runtime/src/triggers/http.rs", "crates/wick/wick-runtime/src/triggers/http/rest_router.rs", "crates/wick/wick-runtime/src/triggers/http/rest_router/route.rs", "examples/http/rest-router.wick"]

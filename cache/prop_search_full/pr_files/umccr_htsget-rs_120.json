@@ -1,0 +1,1 @@
+["deploy/package.json", "htsget-http-actix/Cargo.toml", "htsget-http-core/Cargo.toml", "htsget-http-lambda/Cargo.toml", "htsget-search/Cargo.toml", "htsget-test-utils/Cargo.toml"]

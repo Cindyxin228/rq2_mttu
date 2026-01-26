@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocl/Cargo.toml", "bin/nanocld/Cargo.toml", "bin/ncdns/Cargo.toml", "bin/ncproxy/Cargo.toml", "bin/ncvpnkit/Cargo.toml", "crates/nanocl_stubs/Cargo.toml", "crates/nanocl_utils/Cargo.toml", "crates/nanocld_client/Cargo.toml"]

@@ -1,0 +1,1 @@
+["deny.toml", "examples/configmapgen_controller.rs", "kube-core/src/resource.rs"]

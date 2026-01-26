@@ -1,0 +1,1 @@
+["cassandra-protocol/src/types/value.rs", "cdrs-tokio-helpers-derive/src/into_cdrs_value.rs", "cdrs-tokio/tests/tuple_types.rs", "cdrs-tokio/tests/user_defined_types.rs", "changelog.md"]

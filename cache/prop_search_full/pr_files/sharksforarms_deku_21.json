@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "deku-derive/src/lib.rs", "deku-derive/src/macros/deku_read.rs", "deku-derive/src/macros/deku_write.rs", "deku-derive/src/macros/mod.rs", "examples/custom_reader_and_writer.rs", "examples/enums.rs", "src/error.rs", "src/lib.rs", "tests/test_from_bytes.rs", "tests/test_macro.rs"]

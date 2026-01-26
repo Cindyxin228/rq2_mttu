@@ -1,0 +1,1 @@
+["db/database.sql", "rust/client/src/command.rs", "rust/client/src/main.rs", "rust/client/src/ui.rs", "rust/shared/src/lib.rs", "rust/ws-server/src/database/models.rs", "rust/ws-server/src/database/queries.rs", "rust/ws-server/src/database/schema.rs", "rust/ws-server/src/wsserver.rs"]

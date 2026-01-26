@@ -1,0 +1,1 @@
+["esp-hal-common/src/ledc/mod.rs", "esp-hal-common/src/peripherals/esp32.rs", "esp-hal-common/src/peripherals/esp32c2.rs", "esp-hal-common/src/peripherals/esp32c3.rs", "esp-hal-common/src/peripherals/esp32s2.rs", "esp-hal-common/src/peripherals/esp32s3.rs", "esp-hal-common/src/rng.rs"]

@@ -1,0 +1,1 @@
+["crates/viewer/re_view_spatial/tests/annotations.rs", "crates/viewer/re_view_spatial/tests/pinhole_camera.rs", "crates/viewer/re_view_spatial/tests/project_2d_and_3d.rs", "crates/viewer/re_view_spatial/tests/snapshots/2d_in_3d.png", "crates/viewer/re_view_spatial/tests/snapshots/3d_in_2d.png"]

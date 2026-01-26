@@ -1,0 +1,1 @@
+["javascript/src/next.ts", "javascript/src/raw_string.ts", "javascript/src/types.ts", "javascript/test/block_test.ts", "rust/automerge-wasm/src/interop.rs", "rust/automerge-wasm/src/lib.rs", "rust/automerge-wasm/test/blocks.mts", "rust/automerge/src/transaction/inner.rs", "rust/automerge/tests/block_tests.rs"]

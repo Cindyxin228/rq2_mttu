@@ -1,0 +1,1 @@
+["core/Cargo.toml", "protocols/floodsub/Cargo.toml", "protocols/identify/Cargo.toml", "protocols/kad/Cargo.toml", "protocols/noise/Cargo.toml", "protocols/plaintext/Cargo.toml", "protocols/secio/Cargo.toml"]

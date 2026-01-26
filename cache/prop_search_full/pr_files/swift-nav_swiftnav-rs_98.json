@@ -1,0 +1,1 @@
+["swiftnav-sys/build.rs", "swiftnav-sys/src/libswiftnav", "swiftnav/src/ionosphere.rs", "swiftnav/src/navmeas.rs", "swiftnav/src/solver.rs", "swiftnav/src/troposphere.rs"]

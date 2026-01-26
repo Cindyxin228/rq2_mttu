@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/09_task_cancellation.rs", "examples/10_request_shutdown.rs", "src/errors.rs", "src/future_ext.rs", "src/lib.rs", "src/shutdown_token.rs", "tests/cancel_on_shutdown.rs"]

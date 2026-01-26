@@ -1,0 +1,1 @@
+[".evergreen/run-x509-tests.sh", "src/client/auth/mod.rs", "src/client/auth/sasl.rs", "src/client/auth/scram.rs", "src/client/auth/x509.rs", "src/cmap/establish/handshake/mod.rs", "src/cmap/establish/mod.rs", "src/cmap/establish/test.rs", "src/is_master.rs", "src/lib.rs", "src/test/client.rs", "src/test/spec/initial_dns_seedlist_discovery.rs", "src/test/util/mod.rs"]

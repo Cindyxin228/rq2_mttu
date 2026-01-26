@@ -1,0 +1,1 @@
+["src/import/config.rs", "src/import/csv.rs", "src/import/extract.rs", "tests/testdata/csv_multi_currency.csv", "tests/testdata/test_config.yml"]

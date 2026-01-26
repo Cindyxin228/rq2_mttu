@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/repl/help.out", "cli/tests/repl/storage.in", "client/src/drive.rs", "core/src/ast.rs", "core/src/parser.rs", "core/src/testutils.rs", "std/src/console/cmds.rs", "std/src/storage/cmds.rs"]

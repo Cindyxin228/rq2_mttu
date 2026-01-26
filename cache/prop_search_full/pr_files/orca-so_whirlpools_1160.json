@@ -1,0 +1,1 @@
+[".changeset/silly-emus-open.md", ".github/workflows/checks.yml", "docker-compose.yml", "legacy-sdk/whirlpool/vitest.config.mts", "ts-sdk/client/package.json", "ts-sdk/core/package.json", "ts-sdk/integration/package.json", "ts-sdk/tx-sender/package.json", "ts-sdk/tx-sender/vitest.config.ts", "ts-sdk/whirlpool/package.json", "ts-sdk/whirlpool/vitest.config.ts", "yarn.lock"]

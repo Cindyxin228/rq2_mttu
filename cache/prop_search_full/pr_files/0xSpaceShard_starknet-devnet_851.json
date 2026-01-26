@@ -1,0 +1,1 @@
+["crates/starknet-devnet-server/src/api/json_rpc_handler.rs", "crates/starknet-devnet-server/src/rpc_core/error.rs", "crates/starknet-devnet-server/src/rpc_handler.rs", "tests/integration/general_rpc_tests.rs", "tests/integration/test_websocket.rs"]

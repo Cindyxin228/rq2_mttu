@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "src/p2p/fetch.rs", "src/p2p/irc.rs", "src/p2p/mod.rs", "src/p2p/peering.rs", "src/p2p/proto.rs"]

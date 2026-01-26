@@ -1,0 +1,1 @@
+["wgpu-core/src/device/mod.rs", "wgpu-hal/src/gles/adapter.rs", "wgpu-types/src/lib.rs", "wgpu/examples/hello-compute/tests.rs", "wgpu/examples/shadow/main.rs", "wgpu/tests/common/mod.rs"]

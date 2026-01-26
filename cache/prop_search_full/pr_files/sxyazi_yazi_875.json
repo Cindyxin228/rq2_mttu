@@ -1,0 +1,1 @@
+["Cargo.lock", "yazi-boot/Cargo.toml", "yazi-boot/src/lib.rs", "yazi-dds/Cargo.toml", "yazi-dds/src/body/body.rs", "yazi-dds/src/client.rs", "yazi-dds/src/server.rs", "yazi-plugin/src/bindings/cha.rs", "yazi-plugin/src/lua.rs", "yazi-plugin/src/pubsub/pubsub.rs", "yazi-plugin/src/utils/user.rs", "yazi-plugin/src/utils/utils.rs"]

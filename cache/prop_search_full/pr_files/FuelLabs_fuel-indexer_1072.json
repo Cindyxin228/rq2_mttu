@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "packages/fuel-indexer-tests/Cargo.toml", "packages/fuel-indexer-tests/tests/integration/database.rs", "packages/fuel-indexer/Cargo.toml", "packages/fuel-indexer/src/database.rs", "packages/fuel-indexer/src/executor.rs", "packages/fuel-indexer/src/ffi.rs", "packages/fuel-indexer/src/lib.rs"]

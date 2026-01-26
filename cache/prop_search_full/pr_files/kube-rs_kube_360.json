@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/pod_attach.rs", "examples/pod_exec.rs", "examples/pod_shell.rs", "kube-derive/Cargo.toml", "kube/Cargo.toml", "kube/src/api/mod.rs", "kube/src/api/remote_command.rs", "kube/src/api/subresource.rs", "kube/src/client/mod.rs", "kube/src/client/ws.rs", "kube/src/config/file_loader.rs", "kube/src/config/incluster_config.rs", "kube/src/config/mod.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "service/install.ps1", "service/install_linux.sh", "service/nssm.exe", "service/uninstall.ps1", "service/uninstall_linux.sh", "src/api.rs", "src/lib.rs", "src/main.rs", "src/service/linux.rs", "src/service/mod.rs", "src/service/windows.rs", "src/ssh.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/nu-cli/Cargo.toml", "crates/nu-protocol/Cargo.toml", "crates/nu-source/Cargo.toml", "crates/nu_plugin_binaryview/Cargo.toml", "crates/nu_plugin_inc/Cargo.toml", "crates/nu_plugin_textview/Cargo.toml"]

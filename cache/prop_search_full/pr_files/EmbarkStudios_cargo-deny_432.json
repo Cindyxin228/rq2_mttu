@@ -1,0 +1,1 @@
+["docs/src/checks/bans/cfg.md", "docs/src/checks/bans/diags.md", "examples/10_allow_build_script/Cargo.lock", "examples/10_allow_build_script/Cargo.toml", "examples/10_allow_build_script/deny.toml", "examples/10_allow_build_script/src/lib.rs", "src/bans.rs", "src/bans/cfg.rs", "src/bans/diags.rs"]

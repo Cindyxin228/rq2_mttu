@@ -1,0 +1,1 @@
+[".circleci/config.yml", "contracts/crypto-verify/src/ethereum.rs", "packages/crypto/benches/main.rs", "packages/crypto/src/secp256k1.rs", "packages/vm/src/cache.rs", "packages/vm/src/imports.rs", "packages/vm/src/modules/file_system_cache.rs", "packages/vm/src/modules/pinned_memory_cache.rs", "packages/vm/src/wasm_backend/gatekeeper.rs", "packages/vm/src/wasm_backend/store.rs"]

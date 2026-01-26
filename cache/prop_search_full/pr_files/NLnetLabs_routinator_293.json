@@ -1,0 +1,1 @@
+["Cargo.lock", "Changelog.md", "doc/routinator.1", "etc/routinator.conf.example", "src/config.rs", "src/rrdp/cache.rs", "src/rrdp/server.rs", "src/rsync.rs", "src/utils.rs"]

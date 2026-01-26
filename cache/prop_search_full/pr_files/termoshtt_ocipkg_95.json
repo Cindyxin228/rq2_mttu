@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "ocipkg-cli/Cargo.toml", "ocipkg-cli/src/bin/cargo-ocipkg.rs", "ocipkg-cli/src/bin/ocipkg.rs", "ocipkg/Cargo.toml", "ocipkg/src/image/annotations/nested.rs"]

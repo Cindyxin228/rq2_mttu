@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "trustfall/Cargo.toml", "trustfall_derive/Cargo.toml", "trustfall_derive/src/lib.rs", "trustfall_derive/tests/ui/invalid_attr_as_path_only.stderr", "trustfall_derive/tests/ui/invalid_attr_unexpected_assignment.stderr", "trustfall_derive/tests/ui/invalid_attr_unexpected_list_element.stderr", "trustfall_stubgen/Cargo.toml"]

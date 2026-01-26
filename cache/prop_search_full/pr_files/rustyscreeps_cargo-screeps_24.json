@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/lint.yml", ".github/workflows/test.yml", ".travis.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "appveyor.yml", "rustfmt.toml", "screeps-defaults.toml", "src/build.rs", "src/config.rs", "src/copy.rs", "src/run.rs", "src/setup.rs", "src/upload.rs"]

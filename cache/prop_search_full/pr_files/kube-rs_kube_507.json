@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "examples/README.md", "examples/admission_controller.rs", "examples/admission_controller.yaml.tpl", "examples/admission_ok.yaml", "examples/admission_reject.yaml", "examples/admission_setup.sh", "kube/src/api/admission.rs"]

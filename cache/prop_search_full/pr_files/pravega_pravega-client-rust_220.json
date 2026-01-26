@@ -1,0 +1,1 @@
+["bindings/src/stream_reader.rs", "bindings/tests/pravega_reader_test.py", "integration_test/src/event_stream_reader_tests.rs", "src/event_reader.rs", "src/reader_group/reader_group_state.rs", "src/segment_slice.rs"]

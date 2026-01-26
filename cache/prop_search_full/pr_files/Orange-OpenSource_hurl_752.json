@@ -1,0 +1,1 @@
+["packages/hurl/src/http/client.rs", "packages/hurl/src/http/options.rs", "packages/hurl/src/http/request_spec_curl_args.rs", "packages/hurl/src/main.rs", "packages/hurl/src/runner/entry.rs", "packages/hurl/tests/libcurl.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/core/types.rs", "src/main.rs", "src/ui/flamegraph.rs", "src/ui/output.rs", "src/ui/summary.rs", "vendor/flamegraph/README.md", "vendor/flamegraph/cddl1.txt", "vendor/flamegraph/flamegraph.pl"]

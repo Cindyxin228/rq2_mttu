@@ -1,0 +1,1 @@
+["integration_tests/features/WalletBaseNodeSwitch.feature", "integration_tests/features/WalletCli.feature", "integration_tests/features/WalletPasswordChange.feature", "integration_tests/features/support/steps.js", "integration_tests/helpers/walletProcess.js"]

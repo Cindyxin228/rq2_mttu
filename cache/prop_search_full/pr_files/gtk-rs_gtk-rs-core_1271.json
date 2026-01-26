@@ -1,0 +1,1 @@
+["glib-macros/src/enum_derive.rs", "glib-macros/src/flags_attribute.rs", "glib-macros/src/lib.rs", "glib-macros/tests/flags_dynamic.rs", "glib/Gir_GObject.toml", "glib/src/enums.rs", "glib/src/gobject/dynamic_object.rs", "glib/src/gobject/type_module.rs", "glib/src/subclass/type_plugin.rs"]

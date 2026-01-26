@@ -1,0 +1,1 @@
+["api/proto/api/tenant.proto", "api/python/proto/chirpstack-api/api/tenant.proto", "api/rust/proto/chirpstack/api/tenant.proto", "chirpstack/src/api/tenant.rs", "chirpstack/src/storage/tenant.rs"]

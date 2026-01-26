@@ -1,0 +1,1 @@
+["api/src/owner.rs", "api/src/owner_rpc_s.rs", "controller/src/command.rs", "controller/src/controller.rs", "controller/src/display.rs", "libwallet/src/address.rs", "libwallet/src/internal/selection.rs", "libwallet/src/internal/tx.rs", "libwallet/src/types.rs", "src/bin/grin-wallet.yml", "src/cmd/wallet_args.rs"]

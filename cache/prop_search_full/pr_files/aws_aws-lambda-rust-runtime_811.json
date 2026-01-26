@@ -1,0 +1,1 @@
+["Makefile", "lambda-events/Cargo.toml", "lambda-events/src/event/mod.rs", "lambda-events/src/event/secretsmanager/mod.rs", "lambda-events/src/fixtures/example-secretsmanager-secret-rotation-event.json", "lambda-events/src/lib.rs"]

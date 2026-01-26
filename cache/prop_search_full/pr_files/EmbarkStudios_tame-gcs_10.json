@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "deny.toml", "examples/gsutil/cp.rs", "examples/gsutil/main.rs", "examples/gsutil/rm.rs", "src/v1/objects/mod.rs", "tests/objects.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bindings/ergo-lib-ios/Sources/ErgoLib/RestNodeApi.swift", "bindings/ergo-lib-ios/Tests/ErgoLibTests/RestNodeApiTests.swift", "bindings/ergo-lib-wasm/package.json", "bindings/ergo-lib-wasm/tests/integration_test_rest_api.js", "bindings/ergo-lib-wasm/tests/test_rest_api.js"]

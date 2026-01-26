@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "src/native/etw_types.rs", "src/native/evntrace.rs", "src/native/pla.rs", "src/native/tdh.rs", "src/native/tdh_types.rs", "src/native/version_helper.rs", "src/parser.rs", "src/provider.rs", "src/schema.rs", "src/trace.rs", "src/traits.rs", "src/utils.rs"]

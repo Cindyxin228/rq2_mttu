@@ -1,0 +1,1 @@
+["kernel/src/client/default/json.rs", "kernel/src/client/default/parquet.rs", "kernel/src/error.rs", "kernel/src/expressions/scalars.rs", "kernel/src/scan/mod.rs"]

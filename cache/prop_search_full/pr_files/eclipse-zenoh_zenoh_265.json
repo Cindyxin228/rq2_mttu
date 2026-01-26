@@ -1,0 +1,1 @@
+["EXAMPLE_CONFIG.json5", "commons/zenoh-config/src/lib.rs", "commons/zenoh-protocol-core/src/lib.rs", "io/zenoh-transport/src/manager.rs", "zenoh/src/net/runtime/mod.rs", "zenohd/src/main.rs"]

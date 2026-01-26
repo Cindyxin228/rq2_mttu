@@ -1,0 +1,1 @@
+[".travis.yml", "CHANGELOG.md", "Cargo.toml", "benches/ironoxide_bench.rs", "src/document/mod.rs", "src/internal/document_api/mod.rs", "src/internal/mod.rs", "src/lib.rs", "src/policy.rs", "tests/common/mod.rs", "tests/document_ops.rs", "tests/group_ops.rs", "tests/user_ops.rs"]

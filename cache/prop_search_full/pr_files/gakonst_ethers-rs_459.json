@@ -1,0 +1,1 @@
+["ethers-core/src/types/mod.rs", "ethers-core/src/types/proof.rs", "ethers-providers/src/lib.rs", "ethers-providers/src/provider.rs", "ethers-providers/src/transports/quorum.rs"]

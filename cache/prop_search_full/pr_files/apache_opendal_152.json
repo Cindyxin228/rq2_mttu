@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lib.rs", "src/services/s3/backend.rs", "src/services/s3/error.rs", "src/services/s3/middleware/credentials.rs", "src/services/s3/middleware/default.rs", "src/services/s3/middleware/mod.rs", "src/services/s3/middleware/signer.rs", "src/services/s3/mod.rs", "src/services/s3/object_stream.rs", "tests/behavior/behavior.rs"]

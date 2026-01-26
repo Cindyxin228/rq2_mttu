@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/typst-library/src/visualize/image/raster.rs", "crates/typst-pdf/src/image.rs", "tests/ref/image-exif-rotation.png", "tests/suite/visualize/image.typ"]

@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "examples/todo-axum/Cargo.toml", "examples/todo-axum/src/main.rs", "scripts/test.sh", "utoipa-swagger-ui/Cargo.toml", "utoipa-swagger-ui/README.md", "utoipa-swagger-ui/src/axum.rs", "utoipa-swagger-ui/src/lib.rs"]

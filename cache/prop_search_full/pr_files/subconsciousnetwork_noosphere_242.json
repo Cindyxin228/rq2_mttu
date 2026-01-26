@@ -1,0 +1,1 @@
+["c/.gitignore", "c/README.md", "c/example/Makefile", "c/example/main.c", "rust/noosphere/examples/generate_header.rs", "rust/noosphere/src/ffi/header_transformer.rs", "rust/noosphere/src/ffi/mod.rs"]

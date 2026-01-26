@@ -1,0 +1,1 @@
+["changelog.md", "src/consumer/base_consumer.rs", "src/consumer/mod.rs", "src/consumer/stream_consumer.rs", "src/topic_partition_list.rs", "tests/test_low_consumers.rs"]

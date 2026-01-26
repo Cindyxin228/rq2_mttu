@@ -1,0 +1,1 @@
+[".github/workflows/ci_test.yml", "examples/colors.rs", "src/writers/file_log_writer/state.rs", "src/writers/syslog_writer.rs"]

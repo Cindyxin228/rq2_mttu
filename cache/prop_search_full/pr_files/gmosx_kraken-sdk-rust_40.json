@@ -1,0 +1,1 @@
+["kraken_futures_rest_client/src/client.rs", "kraken_ws_client/examples/book.rs", "kraken_ws_client/examples/ticker.rs", "kraken_ws_client/src/api/cancel_order.rs", "kraken_ws_client/src/api/subscribe_book.rs", "kraken_ws_client/src/api/subscribe_ticker.rs", "kraken_ws_client/src/client.rs", "kraken_ws_client/src/types.rs"]

@@ -1,0 +1,1 @@
+["crates/xtask-stale-label/src/main.rs", "src/cargo/sources/git/known_hosts.rs", "src/cargo/sources/registry/http_remote.rs", "src/cargo/util/auth/asymmetric.rs", "src/cargo/util/toml/embedded.rs", "src/cargo/util/toml/mod.rs"]

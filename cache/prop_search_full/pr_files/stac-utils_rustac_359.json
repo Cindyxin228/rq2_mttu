@@ -1,0 +1,1 @@
+[".github/workflows/api.yml", ".github/workflows/cli.yml", ".github/workflows/core.yml", ".github/workflows/server.yml", "api/Cargo.toml", "async/Cargo.toml", "cli/Cargo.toml", "cli/src/lib.rs", "duckdb/Cargo.toml", "pgstac/Cargo.toml", "server/Cargo.toml"]

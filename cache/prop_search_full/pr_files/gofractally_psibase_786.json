@@ -1,0 +1,1 @@
+["libraries/psibase/CMakeLists.txt", "libraries/psibase/tester/src/chain_polyfill.cpp", "libraries/psibase/tester/src/tester.cpp", "programs/psitest/main.cpp", "rust/psibase/src/tester.rs", "rust/psibase/src/tester_raw.rs", "rust/psibase_macros/src/service_macro.rs"]

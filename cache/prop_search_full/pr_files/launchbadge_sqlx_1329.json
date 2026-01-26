@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-core/src/postgres/type_info.rs", "sqlx-core/src/postgres/types/mac_address.rs", "sqlx-core/src/postgres/types/mod.rs", "sqlx-core/src/types/mod.rs", "sqlx-macros/Cargo.toml", "sqlx-macros/src/database/postgres.rs", "tests/postgres/types.rs"]

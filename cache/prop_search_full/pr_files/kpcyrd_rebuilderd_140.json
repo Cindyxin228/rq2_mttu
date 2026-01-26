@@ -1,0 +1,1 @@
+["Cargo.lock", "Dockerfile", "common/Cargo.toml", "common/src/auth.rs", "common/src/config.rs", "daemon/Cargo.toml", "daemon/src/api.rs", "daemon/src/config.rs", "tools/src/pager.rs", "worker/Cargo.toml", "worker/Dockerfile.alpine", "worker/src/auth.rs", "worker/src/config.rs", "worker/src/rebuild.rs"]

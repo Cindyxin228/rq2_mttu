@@ -1,0 +1,1 @@
+["src/cargo/core/features.rs", "src/cargo/core/resolver/encode.rs", "src/cargo/core/resolver/resolve.rs", "src/cargo/ops/lockfile.rs", "tests/testsuite/lockfile_compat.rs"]

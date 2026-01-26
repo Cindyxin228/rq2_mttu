@@ -1,0 +1,1 @@
+["generator/src/generator/mod.rs", "src/connection.rs", "src/rust_connection/xauth.rs", "src/utils.rs", "src/wrapper.rs", "src/x11_utils.rs", "x11rb-protocol/src/connection/mod.rs", "x11rb-protocol/src/lib.rs", "x11rb-protocol/src/protocol/mod.rs", "x11rb-protocol/src/wrapper.rs", "x11rb-protocol/src/x11_utils.rs", "xcbgen-rs/src/defs/top_level.rs"]

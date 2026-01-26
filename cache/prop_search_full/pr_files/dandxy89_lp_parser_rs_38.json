@@ -1,0 +1,1 @@
+["src/model/coefficient.rs", "src/model/constraint.rs", "src/model/lp_problem.rs", "src/model/objective.rs", "src/model/sense.rs", "src/model/sos.rs", "src/model/variable.rs"]

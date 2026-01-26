@@ -1,0 +1,1 @@
+["src/user_management/operations/get_email_verification.rs", "src/user_management/operations/get_magic_auth.rs", "src/user_management/types.rs", "src/user_management/types/email_verification.rs", "src/user_management/types/pending_authentication_token.rs"]

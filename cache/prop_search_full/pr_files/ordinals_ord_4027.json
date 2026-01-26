@@ -1,0 +1,1 @@
+["src/error.rs", "src/lib.rs", "src/signer.rs", "src/subcommand/verify.rs", "src/subcommand/wallet/sign.rs", "tests/verify.rs", "tests/wallet/sign.rs"]

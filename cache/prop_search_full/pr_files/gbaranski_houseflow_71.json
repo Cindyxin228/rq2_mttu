@@ -1,0 +1,1 @@
+["devices/watermixer-esp8266/src/mqtt.h", "docker-compose.dev.yml", "mosquitto/conf.d/go-auth.conf", "mosquitto/mosquitto.conf", "server-api/src/index.ts", "server-api/src/routes/auth/index.ts", "server-api/src/routes/index.ts", "server-device/package-lock.json", "server-device/package.json", "server-device/src/index.ts", "server-device/src/services/mqtt.ts"]

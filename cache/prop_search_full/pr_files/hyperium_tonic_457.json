@@ -1,0 +1,1 @@
+["tests/integration_tests/tests/user_agent.rs", "tonic/src/transport/channel/endpoint.rs", "tonic/src/transport/error.rs", "tonic/src/transport/service/connection.rs", "tonic/src/transport/service/mod.rs", "tonic/src/transport/service/user_agent.rs"]

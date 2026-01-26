@@ -1,0 +1,1 @@
+["src/kernel/ahi_policy.rs", "src/kernel/broker.rs", "src/kernel/capability_contracts.rs", "src/kernel/execution_receipts.rs", "src/kernel/mod.rs", "src/kernel/replay_engine.rs", "src/kernel/session_log.rs", "src/kernel/transport.rs"]

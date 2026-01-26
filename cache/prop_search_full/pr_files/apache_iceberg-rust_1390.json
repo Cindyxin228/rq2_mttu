@@ -1,0 +1,1 @@
+["crates/iceberg/src/catalog/mod.rs", "crates/iceberg/src/spec/snapshot.rs", "crates/iceberg/src/spec/table_metadata_builder.rs", "crates/iceberg/src/transaction/mod.rs"]

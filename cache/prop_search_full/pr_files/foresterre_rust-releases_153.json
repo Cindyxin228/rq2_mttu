@@ -1,0 +1,1 @@
+["Cargo.lock.msrv", "Cargo.toml", "crates/rust-releases-channel-manifests/Cargo.toml", "crates/rust-releases-core/Cargo.toml", "crates/rust-releases-io/Cargo.toml", "crates/rust-releases-rust-changelog/Cargo.toml", "crates/rust-releases-rust-dist-with-cli/Cargo.toml", "crates/rust-releases-rust-dist/Cargo.toml", "crates/rust-releases-rust-dist/src/fetch.rs"]

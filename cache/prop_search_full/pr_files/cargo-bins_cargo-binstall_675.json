@@ -1,0 +1,1 @@
+[".github/scripts/extract-release-notes.sh", ".github/scripts/extract-tag-from-release-commit.sh", ".github/workflows/release-build.yml", ".github/workflows/release.yml"]

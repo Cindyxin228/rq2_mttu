@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/metadata.rs", "crates/nu-engine/src/eval.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/engine/engine_state.rs", "crates/nu-protocol/src/lib.rs", "crates/nu-protocol/src/variable.rs"]

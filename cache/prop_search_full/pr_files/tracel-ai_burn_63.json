@@ -1,0 +1,1 @@
+["burn-tensor/src/tensor/backend/autodiff/ops/tensor.rs", "burn-tensor/src/tensor/backend/ndarray/tensor_ops.rs", "burn-tensor/src/tensor/backend/tch/tensor_ops.rs", "burn-tensor/src/tensor/base.rs", "burn-tensor/src/tensor/ops/base.rs", "burn-tensor/tests/tensor/ops/mod.rs", "burn-tensor/tests/tensor/ops/repeat.rs"]

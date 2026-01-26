@@ -1,0 +1,1 @@
+["src/formatters/functions.rs", "src/formatters/general.rs", "tests/inputs/function-call-multiline-comment.lua", "tests/snapshots/tests__standard@function-call-multiline-comment.lua.snap"]

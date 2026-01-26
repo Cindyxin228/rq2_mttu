@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/Cargo.toml", "examples/idl/zero_value.proto", "examples/src/lib.rs", "examples/src/zero_value.rs", "pilota/Cargo.toml", "pilota/src/prost/encoding.rs"]

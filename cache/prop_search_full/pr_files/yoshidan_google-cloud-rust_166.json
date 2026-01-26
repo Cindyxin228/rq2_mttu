@@ -1,0 +1,1 @@
+["foundation/auth/src/idtoken.rs", "foundation/auth/src/lib.rs", "foundation/auth/src/project.rs", "foundation/auth/src/token_source/compute_identity_source.rs", "foundation/auth/src/token_source/mod.rs", "foundation/auth/src/token_source/service_account_token_source.rs"]

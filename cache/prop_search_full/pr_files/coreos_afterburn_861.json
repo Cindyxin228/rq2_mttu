@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/release-notes.md", "src/providers/cloudstack/network.rs", "src/providers/microsoft/azure/mod.rs", "src/providers/microsoft/azurestack/mod.rs", "src/util/dhcp.rs", "src/util/mod.rs"]

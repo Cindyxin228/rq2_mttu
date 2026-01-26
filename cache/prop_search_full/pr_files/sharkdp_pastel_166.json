@@ -1,0 +1,1 @@
+[".github/workflows/CICD.yml", "Cargo.lock", "Cargo.toml", "build.rs", "clippy.toml", "src/ansi.rs", "src/cli/cli.rs", "src/cli/colorpicker_tools.rs", "src/cli/commands/distinct.rs", "src/cli/commands/format.rs", "src/cli/main.rs", "src/delta_e.rs", "src/lib.rs"]

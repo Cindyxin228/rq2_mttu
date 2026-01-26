@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".travis.yml", "CHANGELOG.md", "Cargo.toml", "Makefile.toml", "README.md", "src/mpmc/async.rs", "src/mpmc/mod.rs", "src/mpmc/queue.rs"]

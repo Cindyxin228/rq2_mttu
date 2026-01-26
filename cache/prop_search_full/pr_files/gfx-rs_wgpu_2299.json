@@ -1,0 +1,1 @@
+["run-wasm-example.sh", "wgpu/examples/README.md", "wgpu/examples/cube/main.rs", "wgpu/src/backend/direct.rs", "wgpu/src/backend/web.rs", "wgpu/src/lib.rs"]

@@ -1,0 +1,1 @@
+["clients/web/ts/index.ts", "core/src/protos/generated/exocore_index.fd", "index/src/error.rs", "index/src/remote/client.rs", "protos/exocore/core/config.proto", "protos/exocore/core/node.proto", "tools/generate_protos.sh", "transport/src/mock.rs"]

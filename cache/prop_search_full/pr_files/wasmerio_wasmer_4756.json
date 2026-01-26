@@ -1,0 +1,1 @@
+["lib/wasix/src/lib.rs", "lib/wasix/src/syscalls/mod.rs", "lib/wasix/src/syscalls/wasix/mod.rs", "lib/wasix/src/syscalls/wasix/proc_exec.rs", "lib/wasix/src/syscalls/wasix/proc_exec2.rs", "tests/wasix/proc_exec/main.c", "tests/wasix/proc_exec/run.sh", "tests/wasix/proc_exec2/main.c", "tests/wasix/proc_exec2/run.sh"]

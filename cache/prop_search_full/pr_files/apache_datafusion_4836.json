@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/aggregates.rs", "datafusion/core/tests/sql/arrow_typeof.rs", "datafusion/core/tests/sql/mod.rs", "datafusion/core/tests/sqllogictests/test_files/aggregate.slt"]

@@ -1,0 +1,1 @@
+["comms/core/src/tor/control_client/client.rs", "comms/core/src/tor/control_client/monitor.rs", "comms/core/src/tor/hidden_service/controller.rs", "comms/core/src/transports/hidden_service_transport.rs", "infrastructure/libtor/Cargo.toml", "infrastructure/libtor/src/tor.rs"]

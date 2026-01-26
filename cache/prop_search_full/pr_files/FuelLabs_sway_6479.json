@@ -1,0 +1,1 @@
+["sway-core/src/semantic_analysis/ast_node/code_block.rs", "sway-core/src/semantic_analysis/ast_node/declaration/declaration.rs", "sway-core/src/semantic_analysis/namespace/lexical_scope.rs", "sway-core/src/semantic_analysis/namespace/module.rs"]

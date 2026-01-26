@@ -1,0 +1,1 @@
+["crates/polars-core/src/chunked_array/from.rs", "crates/polars-ops/src/series/ops/rank.rs", "py-polars/src/series/numpy_ufunc.rs"]

@@ -1,0 +1,1 @@
+[".config/nextest.toml", ".github/workflows/ci.yml", ".github/workflows/release.yml", "CHANGELOG.md", "Cargo.lock", "distant-ssh2/Cargo.toml", "distant-ssh2/src/api.rs", "distant-ssh2/src/utils.rs", "distant-ssh2/tests/ssh2/client.rs", "distant-ssh2/tests/ssh2/launched.rs", "distant-ssh2/tests/sshd/mod.rs"]

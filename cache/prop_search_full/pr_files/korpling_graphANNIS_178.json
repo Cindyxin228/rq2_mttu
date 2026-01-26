@@ -1,0 +1,1 @@
+["CHANGELOG.md", "capi/cbindgen.toml", "capi/include/graphannis-capi.h", "capi/src/corpusstorage.rs", "core/src/annostorage/mod.rs", "graphannis/src/annis/db/aql/ast.rs", "graphannis/src/annis/db/corpusstorage.rs", "webservice/Cargo.toml", "webservice/src/api/administration.rs"]

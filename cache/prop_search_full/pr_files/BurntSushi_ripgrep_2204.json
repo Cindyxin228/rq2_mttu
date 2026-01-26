@@ -1,0 +1,1 @@
+["crates/cli/Cargo.toml", "crates/globset/Cargo.toml", "crates/grep/Cargo.toml", "crates/ignore/Cargo.toml", "crates/matcher/Cargo.toml", "crates/pcre2/Cargo.toml", "crates/printer/Cargo.toml", "crates/regex/Cargo.toml", "crates/searcher/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nix_rs/CHANGELOG.md", "crates/nix_rs/src/command.rs", "crates/nix_rs/src/flake/outputs.rs", "crates/nix_rs/src/flake/schema.rs", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/src/command/show.rs", "crates/omnix-gui/src/app/flake.rs", "flake.lock", "flake.nix", "nix/rust.nix"]

@@ -1,0 +1,1 @@
+["lib/compiler/src/artifact_builders/artifact_builder.rs", "lib/compiler/src/engine/artifact.rs", "lib/compiler/src/engine/tunables.rs", "lib/types/src/serialize.rs", "tests/integration/cli/tests/create_exe.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "assets/tiled_base64.tmx", "assets/tiled_base64_external.tmx", "assets/tiled_base64_gzip.tmx", "assets/tiled_base64_zlib.tmx", "assets/tiled_base64_zstandard.tmx", "assets/tiled_csv.tmx", "assets/tiled_flipped.tmx", "assets/tiled_image_layers.tmx", "assets/tiled_object_groups.tmx", "assets/tiled_xml.tmx", "assets/tilesheet.tsx", "src/lib.rs"]

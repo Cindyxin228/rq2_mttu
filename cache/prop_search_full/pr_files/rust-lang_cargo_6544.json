@@ -1,0 +1,1 @@
+["tests/testsuite/alt_registry.rs", "tests/testsuite/cargo_features.rs", "tests/testsuite/cross_publish.rs", "tests/testsuite/login.rs", "tests/testsuite/package.rs", "tests/testsuite/publish.rs", "tests/testsuite/registry.rs", "tests/testsuite/search.rs", "tests/testsuite/support/publish.rs", "tests/testsuite/support/registry.rs"]

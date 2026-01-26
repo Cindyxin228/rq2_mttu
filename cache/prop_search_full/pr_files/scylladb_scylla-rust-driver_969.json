@@ -1,0 +1,1 @@
+["examples/custom_load_balancing_policy.rs", "scylla/src/transport/load_balancing/default.rs", "scylla/src/transport/load_balancing/mod.rs", "scylla/src/transport/load_balancing/plan.rs", "scylla/tests/integration/consistency.rs", "scylla/tests/integration/execution_profiles.rs", "scylla/tests/integration/utils.rs"]

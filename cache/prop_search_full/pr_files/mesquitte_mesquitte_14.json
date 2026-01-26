@@ -1,0 +1,1 @@
+["Cargo.toml", "mesquitte-core/Cargo.toml", "mesquitte-core/build.rs", "mesquitte-core/src/cluster/api.rs", "mesquitte-core/src/cluster/app.rs", "mesquitte-core/src/cluster/mod.rs", "mesquitte-core/src/cluster/network.rs", "mesquitte-core/src/cluster/router.rs", "mesquitte-core/src/cluster/store.rs", "mesquitte-core/src/idl/sample.proto", "mesquitte-core/src/lib.rs"]

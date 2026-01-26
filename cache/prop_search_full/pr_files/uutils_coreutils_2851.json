@@ -1,0 +1,1 @@
+["src/uu/join/src/join.rs", "tests/by-util/test_join.rs", "tests/fixtures/join/non-line_feeds.expected", "tests/fixtures/join/non-line_feeds_1.txt", "tests/fixtures/join/non-line_feeds_2.txt", "tests/fixtures/join/non-unicode.expected", "tests/fixtures/join/non-unicode_1.bin", "tests/fixtures/join/non-unicode_2.bin"]

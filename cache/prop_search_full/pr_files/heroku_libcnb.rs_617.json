@@ -1,0 +1,1 @@
+["Cargo.toml", "libcnb-package/src/cross_compile.rs", "libcnb-test/src/container_context.rs", "libcnb-test/src/test_context.rs", "libcnb/src/exec_d.rs", "libherokubuildpack/src/write.rs"]

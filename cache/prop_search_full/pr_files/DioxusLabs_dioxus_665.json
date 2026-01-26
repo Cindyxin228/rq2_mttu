@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "Cargo.toml", "packages/native-core/src/utils/cursor.rs", "packages/tui/src/widgets/number.rs", "packages/tui/src/widgets/password.rs", "packages/tui/src/widgets/slider.rs", "packages/tui/src/widgets/textbox.rs", "packages/web/src/dom.rs", "packages/web/src/lib.rs"]

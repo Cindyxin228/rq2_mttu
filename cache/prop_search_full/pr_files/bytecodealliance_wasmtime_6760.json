@@ -1,0 +1,1 @@
+["cranelift/filetests/src/test_wasm/env.rs", "cranelift/wasm/src/code_translator.rs", "cranelift/wasm/src/environ/dummy.rs", "cranelift/wasm/src/environ/spec.rs", "crates/cranelift/src/func_environ.rs"]

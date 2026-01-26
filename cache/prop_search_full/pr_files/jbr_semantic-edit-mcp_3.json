@@ -1,0 +1,1 @@
+["IMPROVEMENTS.md", "README.md", "schemas/get_node_info.json", "schemas/insert_after_node.json", "schemas/insert_before_node.json", "schemas/replace_node.json", "schemas/validate_syntax.json", "schemas/wrap_node.json", "src/editors/rust.rs", "src/main.rs", "src/operations/mod.rs", "src/parsers/rust.rs"]

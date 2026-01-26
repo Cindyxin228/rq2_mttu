@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/src/compress/optimize/switches.rs", "crates/swc_ecma_minifier/tests/fixture/issues/9922/1/input.js", "crates/swc_ecma_minifier/tests/fixture/issues/9922/1/output.js", "crates/swc_ecma_minifier/tests/fixture/issues/9922/2/input.js", "crates/swc_ecma_minifier/tests/fixture/issues/9922/2/output.js"]

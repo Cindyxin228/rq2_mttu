@@ -1,0 +1,1 @@
+["addons/svm/core/src/commands/deploy_subraph.rs", "addons/svm/types/src/subgraph/event.rs", "addons/svm/types/src/subgraph/idl.rs", "addons/svm/types/src/subgraph/mod.rs", "addons/svm/types/src/subgraph/pda.rs", "addons/svm/types/src/subgraph/tests.rs"]

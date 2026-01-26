@@ -1,0 +1,1 @@
+["crates/db_views_actor/src/community_follower_view.rs", "migrations/2022-02-01-154240_add_community_title_index/down.sql", "migrations/2022-02-01-154240_add_community_title_index/up.sql"]

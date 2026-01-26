@@ -1,0 +1,1 @@
+["sdk/storage_blobs/src/blob/mod.rs", "sdk/storage_blobs/src/blob/operations/snapshot_blob.rs", "sdk/storage_blobs/src/clients/blob_client.rs", "sdk/storage_blobs/src/options/blob_versioning.rs", "sdk/storage_blobs/src/options/mod.rs"]

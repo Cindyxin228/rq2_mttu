@@ -1,0 +1,1 @@
+["Cargo.lock", "src/uu/cut/src/cut.rs", "src/uu/du/src/du.rs", "src/uu/join/src/join.rs", "src/uu/shred/src/shred.rs", "src/uu/split/src/split.rs", "src/uucore/Cargo.toml", "src/uucore/src/lib/lib.rs", "src/uucore/src/lib/macros.rs", "src/uucore/src/lib/mods.rs", "src/uucore/src/lib/mods/coreopts.rs"]

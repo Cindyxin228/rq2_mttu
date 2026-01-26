@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/c_api/filter.rs", "src/haystack/defs/namespace.rs", "src/haystack/encoding/zinc/encode.rs", "src/haystack/filter/nodes.rs", "src/haystack/filter/parser.rs", "tests/defs/namespace.rs", "unit-gen/src/parser.rs"]

@@ -1,0 +1,1 @@
+["ethers-contract/ethers-contract-abigen/src/contract.rs", "ethers-contract/ethers-contract-abigen/src/contract/common.rs", "ethers-contract/src/base.rs", "ethers-contract/src/call.rs", "ethers-contract/src/contract.rs", "ethers-contract/src/event.rs", "ethers-core/src/abi/human_readable.rs", "ethers-core/src/abi/mod.rs", "ethers/examples/contract.rs"]

@@ -1,0 +1,1 @@
+["diesel_compile_tests/tests/fail/derive/unknown_attribute.stderr", "diesel_derives/src/attrs.rs"]

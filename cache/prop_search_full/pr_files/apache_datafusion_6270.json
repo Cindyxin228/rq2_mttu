@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/interval.slt", "datafusion/core/tests/sqllogictests/test_files/type_coercion.slt", "datafusion/sql/src/expr/mod.rs", "datafusion/sql/src/expr/value.rs"]

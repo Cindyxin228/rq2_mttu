@@ -1,0 +1,1 @@
+[".github/workflows/signatory.yml", "Cargo.lock", "signatory/Cargo.toml", "signatory/src/ecdsa.rs", "signatory/src/ecdsa/keyring.rs", "signatory/src/ecdsa/nistp256.rs", "signatory/src/key/handle.rs"]

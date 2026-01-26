@@ -1,0 +1,1 @@
+["feed-rs/Cargo.toml", "feed-rs/fixture/rss_1.0_iso8859.xml", "feed-rs/fixture/xml_iso8859.xml", "feed-rs/src/parser/rss1/tests.rs", "feed-rs/src/xml/mod.rs", "feed-rs/src/xml/tests.rs"]

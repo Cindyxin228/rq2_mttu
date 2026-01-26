@@ -1,0 +1,1 @@
+["examples/counter.rs", "examples/failures.rs", "examples/greeter.rs", "examples/run.rs", "macros/src/ast.rs", "macros/src/gen.rs", "src/endpoint/context.rs", "src/errors.rs", "test-services/src/failing.rs", "tests/service.rs"]

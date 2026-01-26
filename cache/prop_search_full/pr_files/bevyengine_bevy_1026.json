@@ -1,0 +1,1 @@
+["crates/bevy_scene/Cargo.toml", "crates/bevy_scene/src/command.rs", "crates/bevy_scene/src/lib.rs", "crates/bevy_scene/src/scene_spawner.rs", "crates/bevy_transform/src/hierarchy/child_builder.rs"]

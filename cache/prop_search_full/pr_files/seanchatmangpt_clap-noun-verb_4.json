@@ -1,0 +1,1 @@
+["AUTONOMIC.md", "Cargo.toml", "README.md", "examples/autonomic_example.rs", "src/autonomic/cli.rs", "src/autonomic/effects.rs", "src/autonomic/errors.rs", "src/autonomic/guards.rs", "src/autonomic/introspection.rs", "src/autonomic/mod.rs", "src/autonomic/planes.rs", "src/autonomic/receipts.rs", "src/lib.rs", "tests/autonomic_tests.rs"]

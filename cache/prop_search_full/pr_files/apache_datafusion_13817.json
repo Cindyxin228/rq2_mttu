@@ -1,0 +1,1 @@
+["datafusion/expr-common/src/signature.rs", "datafusion/expr-common/src/type_coercion/binary.rs", "datafusion/expr/src/type_coercion/functions.rs", "datafusion/functions-aggregate/src/count.rs", "datafusion/functions-nested/src/make_array.rs"]

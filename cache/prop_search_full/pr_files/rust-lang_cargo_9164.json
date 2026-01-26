@@ -1,0 +1,1 @@
+["src/bin/cargo/commands/install.rs", "src/cargo/core/workspace.rs", "src/cargo/ops/cargo_new.rs", "src/cargo/util/config/mod.rs", "src/cargo/util/important_paths.rs", "src/cargo/util/paths.rs", "tests/testsuite/config.rs"]

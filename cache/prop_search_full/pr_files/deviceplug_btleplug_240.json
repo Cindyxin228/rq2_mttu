@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/api/bdaddr.rs", "src/bluez/peripheral.rs", "src/corebluetooth/peripheral.rs", "src/platform.rs", "src/winrtble/peripheral.rs"]

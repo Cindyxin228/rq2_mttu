@@ -1,0 +1,1 @@
+["juniper/CHANGELOG.md", "juniper/src/executor_tests/enums.rs", "juniper/src/executor_tests/variables.rs", "juniper/src/types/utilities.rs", "juniper/src/validation/rules/arguments_of_correct_type.rs", "juniper/src/validation/rules/default_values_of_correct_type.rs", "tests/integration/tests/array.rs", "tests/integration/tests/codegen_input_object_derive.rs"]

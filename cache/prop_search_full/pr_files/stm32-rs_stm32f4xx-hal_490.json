@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/i2s-audio-out-dma.rs", "examples/i2s-audio-out.rs", "examples/i2s-rtic-audio-in-out.rs", "src/gpio.rs", "src/gpio/alt.rs", "src/i2s.rs"]

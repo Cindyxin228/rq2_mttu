@@ -1,0 +1,1 @@
+["crates/marine-macro-impl/src/parse_macro_input/item_record.rs", "tests/compilation_tests/records/struct_with_attribute.rs", "tests/compilation_tests/records/struct_with_attributes.stderr", "tests/compilation_tests/records/struct_with_doc_attribute.rs", "tests/compilation_tests_runner.rs"]

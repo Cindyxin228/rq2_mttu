@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/custom_build.rs", "src/cargo/core/compiler/mod.rs", "src/cargo/util/config/target.rs", "tests/testsuite/build.rs", "tests/testsuite/build_script.rs", "tests/testsuite/cross_compile.rs", "tests/testsuite/profile_config.rs", "tests/testsuite/profile_targets.rs", "tests/testsuite/profiles.rs", "tests/testsuite/run.rs", "tests/testsuite/rustc.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/benchmark.yml", ".github/workflows/ci.yml", ".github/workflows/docs.yml", ".github/workflows/release.yml", "Cargo.lock", "connectorx-python/Cargo.toml", "connectorx-python/connectorx/tests/test_arrow.py", "connectorx-python/src/arrow2.rs", "connectorx/Cargo.toml", "connectorx/src/destinations/arrow2/mod.rs", "connectorx/src/transports/postgres_arrow2.rs"]

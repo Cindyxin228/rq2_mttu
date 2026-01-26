@@ -1,0 +1,1 @@
+["src/database/db_connection.rs", "src/database/mock.rs", "src/driver/mock.rs", "src/driver/sqlx_mysql.rs", "src/driver/sqlx_postgres.rs", "src/driver/sqlx_sqlite.rs", "tests/connection_tests.rs"]

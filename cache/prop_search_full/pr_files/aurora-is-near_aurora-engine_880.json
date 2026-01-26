@@ -1,0 +1,1 @@
+["CHANGES.md", "Cargo.lock", "Makefile.toml", "VERSION", "engine-precompiles/Cargo.toml", "engine-tests/src/tests/upgrade.rs", "engine-transactions/Cargo.toml", "engine-types/src/parameters/xcc.rs", "engine-workspace/src/contract.rs", "engine-workspace/src/operation.rs", "engine/Cargo.toml", "engine/src/contract_methods/admin.rs", "engine/src/lib.rs", "engine/src/xcc.rs"]

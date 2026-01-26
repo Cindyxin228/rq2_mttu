@@ -1,0 +1,1 @@
+["Cargo.lock", "components/decimal/src/lib.rs", "provider/adapters/Cargo.toml", "provider/adapters/src/any_payload.rs", "provider/blob/src/blob_data_provider.rs", "provider/core/README.md", "provider/core/src/constructors.rs", "provider/core/src/hello_world.rs", "provider/core/src/helpers.rs", "provider/core/src/lib.rs", "provider/fs/src/fs_data_provider.rs"]

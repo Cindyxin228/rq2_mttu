@@ -1,0 +1,1 @@
+["components/equihash/src/lib.rs", "components/equihash/src/test_vectors.rs", "components/equihash/src/test_vectors/invalid.rs", "components/equihash/src/test_vectors/valid.rs", "components/equihash/src/verify.rs"]

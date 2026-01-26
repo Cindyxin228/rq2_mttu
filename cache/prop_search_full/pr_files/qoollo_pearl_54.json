@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "src/blob/core.rs", "src/blob/entry.rs", "src/blob/file.rs", "src/blob/index/bloom.rs", "src/blob/index/mod.rs", "src/blob/index/simple.rs", "src/blob/mod.rs", "src/error.rs", "src/lib.rs", "src/record.rs", "src/storage/builder.rs", "src/storage/core.rs", "src/storage/observer.rs", "tests/common.rs", "tests/tests.rs"]

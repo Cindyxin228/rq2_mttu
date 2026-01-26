@@ -1,0 +1,1 @@
+["src/api/internal.rs", "src/asm/x86/dist/sse.rs", "src/dist.rs", "src/encoder.rs", "src/rate.rs", "src/rdo.rs", "src/segmentation.rs", "src/x86/sse.asm"]

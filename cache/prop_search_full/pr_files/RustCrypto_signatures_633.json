@@ -1,0 +1,1 @@
+["ecdsa/src/hazmat.rs", "ecdsa/src/signing.rs", "ecdsa/src/verifying.rs"]

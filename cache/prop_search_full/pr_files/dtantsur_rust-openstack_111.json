@@ -1,0 +1,1 @@
+["src/cloud.rs", "src/object_storage/api.rs", "src/object_storage/containers.rs", "src/object_storage/objects.rs", "tests/integration-object-storage.rs"]

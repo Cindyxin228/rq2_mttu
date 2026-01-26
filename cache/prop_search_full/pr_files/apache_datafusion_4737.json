@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/nullif.slt", "datafusion/expr/src/nullif.rs", "datafusion/physical-expr/src/expressions/nullif.rs"]

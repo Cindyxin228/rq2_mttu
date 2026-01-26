@@ -1,0 +1,1 @@
+["sdk/identity/src/lib.rs", "sdk/identity/src/token_credentials/default_credentials.rs", "sdk/identity/src/token_credentials/mod.rs", "sdk/storage_blobs/Cargo.toml", "sdk/storage_datalake/Cargo.toml"]

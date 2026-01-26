@@ -1,0 +1,1 @@
+["ci/no-std-check/Cargo.toml", "modules/Cargo.toml", "relayer-cli/Cargo.toml", "relayer-cli/src/bin/hermes/main.rs", "relayer-cli/src/components.rs", "relayer-cli/src/lib.rs", "relayer/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "clippy.toml", "interop-tests/Cargo.toml", "interop-tests/src/lib.rs", "tuf/Cargo.toml", "tuf/src/client.rs", "tuf/src/crypto.rs", "tuf/src/metadata.rs", "tuf/src/repo_builder.rs", "tuf/src/repository/file_system.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "distant-core/Cargo.toml", "distant-core/src/api/local/state/search.rs", "distant-core/src/data/search.rs", "distant-net/src/server/ext.rs"]

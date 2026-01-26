@@ -1,0 +1,1 @@
+["fastcrypto/Cargo.toml", "fastcrypto/src/lib.rs", "fastcrypto/src/unsecure/hash.rs", "fastcrypto/src/unsecure/signature.rs", "fastcrypto/src/unsecure/tests/unsecure_signature_tests.rs"]

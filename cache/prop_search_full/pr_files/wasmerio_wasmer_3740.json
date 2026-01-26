@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/deterministic.rs", "fuzz/fuzz_targets/universal_cranelift.rs"]

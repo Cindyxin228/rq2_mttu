@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/select.rs", "datafusion/core/tests/sqllogictests/src/main.rs", "datafusion/core/tests/sqllogictests/test_files/select.slt"]

@@ -1,0 +1,1 @@
+["rust/analytics/src/lakehouse/blocks_view.rs", "rust/analytics/src/lakehouse/log_view.rs", "rust/analytics/src/lakehouse/metrics_view.rs", "rust/analytics/src/lakehouse/sql_batch_view.rs", "rust/analytics/src/lakehouse/thread_spans_view.rs", "rust/analytics/src/time.rs"]

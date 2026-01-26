@@ -1,0 +1,1 @@
+["Cargo.lock", "ethers-core/src/types/txpool.rs", "ethers-middleware/Cargo.toml", "ethers-middleware/src/gas_escalator/mod.rs", "ethers-providers/Cargo.toml", "ethers-providers/src/lib.rs", "ethers-providers/src/pending_transaction.rs", "ethers-providers/src/provider.rs", "ethers-providers/src/stream.rs"]

@@ -1,0 +1,1 @@
+["sqlx-mysql/src/connection/establish.rs", "sqlx-mysql/src/connection/executor.rs", "sqlx-mysql/src/connection/mod.rs", "sqlx-mysql/src/options/connect.rs", "sqlx-mysql/src/transaction.rs"]

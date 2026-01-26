@@ -1,0 +1,1 @@
+["CHANGELOG.md", "cli/Cargo.toml", "debugger/Cargo.toml", "gdb-server/Cargo.toml", "probe-rs-cli-util/Cargo.toml", "probe-rs-target/Cargo.toml", "probe-rs/Cargo.toml", "smoke-tester/Cargo.toml"]

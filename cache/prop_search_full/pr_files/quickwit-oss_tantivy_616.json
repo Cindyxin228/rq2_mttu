@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/indexer/index_writer.rs", "src/query/query_parser/query_grammar.rs", "src/query/query_parser/query_parser.rs", "tests/failpoints/mod.rs"]

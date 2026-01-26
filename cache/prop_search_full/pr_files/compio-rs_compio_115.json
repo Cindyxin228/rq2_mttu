@@ -1,0 +1,1 @@
+["compio-buf/src/io_buf.rs", "compio-buf/src/iter.rs", "compio-buf/src/slice.rs", "compio-driver/src/iocp/op.rs", "compio-driver/src/iour/op.rs", "compio-driver/src/poll/op.rs", "compio-io/src/buffer.rs", "compio-io/src/read/ext.rs", "compio-io/src/read/mod.rs", "compio-io/src/util/internal.rs", "compio-io/src/util/repeat.rs", "compio/tests/io.rs", "compio/tests/runtime.rs"]

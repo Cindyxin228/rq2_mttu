@@ -1,0 +1,1 @@
+["corelib/src/byte_array.cairo", "corelib/src/bytes_31.cairo", "corelib/src/lib.cairo", "corelib/src/panics.cairo", "corelib/src/test.cairo", "corelib/src/test/byte_array_test.cairo", "corelib/src/test/panics_test.cairo"]

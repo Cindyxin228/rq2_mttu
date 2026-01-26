@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/rune/src/ast/expr.rs", "crates/rune/src/ast/stmt.rs", "crates/rune/src/compile/error.rs", "crates/rune/src/diagnostics.rs", "crates/rune/src/diagnostics/warning.rs", "crates/rune/src/fmt/printer.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/worker.rs", "scripts/make_function.rn"]

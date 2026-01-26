@@ -1,0 +1,1 @@
+["src/message/encoder.rs", "src/message/utf8_b.rs", "src/transport/smtp/commands.rs"]

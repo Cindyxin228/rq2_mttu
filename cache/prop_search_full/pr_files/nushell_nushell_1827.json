@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/sum.rs", "crates/nu-cli/src/utils/data_processing.rs", "crates/nu-cli/tests/commands/sum.rs", "crates/nu-protocol/src/value.rs", "tests/fixtures/formats/sample-ps-output.json", "tests/fixtures/formats/sample-sys-output.json"]

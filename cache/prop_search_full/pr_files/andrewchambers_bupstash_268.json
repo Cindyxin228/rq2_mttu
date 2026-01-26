@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli-tests/cli-tests.bats", "doc/man/bupstash-get.1.md", "doc/man/bupstash-list-contents.1.md", "doc/man/bupstash-restore.1.md", "doc/upcoming_changelog.md", "src/client.rs", "src/fmtutil.rs", "src/fsutil.rs", "src/index.rs", "src/indexer.rs", "src/ioutil.rs", "src/main.rs", "src/migrate.rs", "src/protocol.rs", "src/repository.rs"]

@@ -1,0 +1,1 @@
+["cli/tests/integration/run_tests.rs", "cli/tests/testdata/issue13562.ts", "cli/tests/testdata/issue13562.ts.out", "cli/tsc.rs"]

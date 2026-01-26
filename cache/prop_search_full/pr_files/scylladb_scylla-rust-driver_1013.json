@@ -1,0 +1,1 @@
+[".github/workflows/authenticate_test.yml", ".github/workflows/book.yml", ".github/workflows/cassandra.yml", ".github/workflows/rust.yml", ".github/workflows/semver_checks.yml", ".github/workflows/serverless.yaml", ".github/workflows/tls.yml", "scylla-macros/src/serialize/row.rs", "scylla-macros/src/serialize/value.rs", "scylla/src/transport/connection.rs"]

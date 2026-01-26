@@ -1,0 +1,1 @@
+["crates/polars-io/src/parquet/read_impl.rs", "crates/polars-pipe/src/executors/sources/parquet.rs"]

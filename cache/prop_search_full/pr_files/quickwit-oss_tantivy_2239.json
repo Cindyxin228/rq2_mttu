@@ -1,0 +1,1 @@
+["src/aggregation/agg_limits.rs", "src/core/index.rs", "src/docset.rs", "src/functional_test.rs", "src/query/range_query/mod.rs", "src/query/term_query/mod.rs", "src/query/term_query/term_scorer.rs"]

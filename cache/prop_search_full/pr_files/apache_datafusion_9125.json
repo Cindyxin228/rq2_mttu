@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_optimizer/enforce_sorting.rs", "datafusion/physical-plan/src/sorts/mod.rs", "datafusion/physical-plan/src/sorts/partial_sort.rs", "datafusion/sqllogictest/test_files/group_by.slt"]

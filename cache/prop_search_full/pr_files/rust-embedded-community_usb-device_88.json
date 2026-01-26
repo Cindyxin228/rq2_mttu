@@ -1,0 +1,1 @@
+["src/bus.rs", "src/control_pipe.rs", "src/device.rs", "src/endpoint.rs", "tests/test_class_host/device.rs", "tests/test_class_host/tests.rs"]

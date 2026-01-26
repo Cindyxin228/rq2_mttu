@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-espflash/src/main.rs", "espflash/Cargo.toml", "espflash/src/cli/line_endings.rs", "espflash/src/cli/mod.rs", "espflash/src/cli/monitor.rs", "espflash/src/image_format/esp32bootloader.rs", "espflash/src/main.rs"]

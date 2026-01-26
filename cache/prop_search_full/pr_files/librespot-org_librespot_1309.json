@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "core/Cargo.toml", "core/src/authentication.rs", "core/src/connection/mod.rs", "core/src/error.rs", "core/src/session.rs", "examples/get_token.rs", "examples/play.rs", "examples/play_connect.rs", "examples/playlist_tracks.rs", "oauth/Cargo.toml", "oauth/examples/oauth.rs", "oauth/src/lib.rs", "publish.sh", "src/lib.rs", "src/main.rs"]

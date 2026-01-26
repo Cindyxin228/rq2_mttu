@@ -1,0 +1,1 @@
+["examples/staticfile/Staticfile", "src/lib.rs", "src/main.rs", "src/nixpacks/app.rs", "src/nixpacks/builder/docker.rs", "src/nixpacks/cache.rs", "src/nixpacks/mod.rs", "src/nixpacks/phase.rs", "src/providers/node.rs", "src/providers/python.rs", "src/providers/rust.rs", "src/providers/zig.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

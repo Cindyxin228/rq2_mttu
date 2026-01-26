@@ -1,0 +1,1 @@
+["bin/cargo-bolero/src/list.rs", "bin/cargo-bolero/test_crates/failing_tests/Cargo.toml", "bin/cargo-bolero/test_crates/failing_tests/src/lib.rs", "bin/cargo-bolero/test_crates/failing_tests/tests/integ.rs", "tests/src/cargo_bolero.rs"]

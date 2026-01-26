@@ -1,0 +1,1 @@
+[".envrc", ".github/workflows/ci.yaml", ".vscode/extensions.json", "README.md", "e2e/.gitignore", "e2e/README.md", "e2e/flake-module.nix", "e2e/playwright.config.ts", "e2e/tests/nix-version.spec.ts", "flake.nix", "justfile"]

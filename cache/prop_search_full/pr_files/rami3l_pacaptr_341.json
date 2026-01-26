@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "tests/common.rs", "xtask/Cargo.toml", "xtask/src/binary.rs", "xtask/src/dispatch/bump_choco.rs", "xtask/src/dispatch/bump_tap.rs", "xtask/src/dispatch/publish.rs"]

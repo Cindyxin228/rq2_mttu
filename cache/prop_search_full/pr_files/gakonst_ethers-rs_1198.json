@@ -1,0 +1,1 @@
+["ethers-signers/src/aws/mod.rs", "ethers-signers/src/ledger/app.rs", "ethers-signers/src/ledger/mod.rs", "ethers-signers/src/trezor/app.rs", "ethers-signers/src/trezor/mod.rs", "ethers-signers/src/wallet/mod.rs", "ethers-signers/src/wallet/private_key.rs"]

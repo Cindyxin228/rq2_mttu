@@ -1,0 +1,1 @@
+[".gitignore", ".gitmodules", "Makefile", "devtools/doc/rpc-gen/src/gen.rs", "devtools/doc/rpc-gen/src/main.rs", "devtools/doc/rpc-gen/src/utils.rs", "devtools/doc/rpc-gen/templates/link.tera", "docs/ckb_rpc_openrpc", "rpc/README.md"]

@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/upgrade_deps.yml", "Cargo.lock", "Cargo.toml", "clippy.toml", "docs/build.md", "src/utils/domain_validator.rs", "src/web.rs"]

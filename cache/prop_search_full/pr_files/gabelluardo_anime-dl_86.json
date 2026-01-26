@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/config.yml", ".github/workflows/ci.yml", ".github/workflows/publish.yml", "Cargo.lock", "Cargo.toml", "README.md", "ci/ubuntu-install-packages", "src/anime.rs", "src/cli.rs", "src/main.rs", "src/scraper.rs", "src/utils/bars.rs", "src/utils/macros.rs", "src/utils/mod.rs", "src/utils/tui.rs"]

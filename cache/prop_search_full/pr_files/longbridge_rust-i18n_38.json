@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build.rs", "crates/support/Cargo.toml", "crates/support/src/lib.rs", "src/config.rs", "src/lib.rs", "src/main.rs", "tests/intergartion_test.rs", "tests/locales/en.json", "tests/locales/test-toml.en.toml", "tests/locales/user.en.yaml"]

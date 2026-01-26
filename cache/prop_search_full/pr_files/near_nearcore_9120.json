@@ -1,0 +1,1 @@
+["core/store/src/flat/chunk_view.rs", "core/store/src/flat/store_helper.rs", "core/store/src/trie/state_parts.rs", "integration-tests/src/tests/client/flat_storage.rs", "tools/flat-storage/src/commands.rs"]

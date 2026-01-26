@@ -1,0 +1,1 @@
+["examples/friendica_relationship.rs", "examples/mastodon_relationship.rs", "examples/pleroma_relationship.rs", "src/entities/relationship.rs", "src/friendica/entities/relationship.rs", "src/mastodon/entities/relationship.rs", "src/pleroma/entities/relationship.rs"]

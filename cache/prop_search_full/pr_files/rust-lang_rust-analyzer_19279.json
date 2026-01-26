@@ -1,0 +1,1 @@
+["crates/ide-completion/src/completions/expr.rs", "crates/ide-completion/src/completions/keyword.rs", "crates/ide-completion/src/tests/expression.rs", "crates/ide-completion/src/tests/item.rs", "crates/ide-completion/src/tests/special.rs"]

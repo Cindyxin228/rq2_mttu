@@ -1,0 +1,1 @@
+["applications/minotari_app_grpc/proto/base_node.proto", "applications/minotari_node/src/config.rs", "applications/minotari_node/src/grpc/base_node_grpc_server.rs", "base_layer/core/src/base_node/tari_pulse_service/mod.rs", "common/config/presets/c_base_node_c.toml"]

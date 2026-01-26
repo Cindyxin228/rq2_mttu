@@ -1,0 +1,1 @@
+["c2rust-transpile/src/c_ast/conversion.rs", "c2rust-transpile/src/c_ast/mod.rs", "c2rust-transpile/src/translator/mod.rs", "tests/unions/src/test_unions.rs", "tests/unions/src/unions.c"]

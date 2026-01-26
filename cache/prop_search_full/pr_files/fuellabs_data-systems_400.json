@@ -1,0 +1,1 @@
+[".github/actions/setup-node/action.yaml", ".github/workflows/ci.yaml", ".github/workflows/release-plz.yaml", ".pre-commit-config.yaml", ".prettierignore", ".typos.toml", "CHANGELOG.md", "CONTRIBUTING.md", "Makefile", "bun.lock", "bunfig.toml", "crates/message-broker/src/nats.rs", "package.json", "pnpm-lock.yaml", "scripts/cleanup_artifacts.sh", "scripts/setup.sh"]

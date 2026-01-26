@@ -1,0 +1,1 @@
+["src/cli/build.rs", "src/cli/config.rs", "src/cli/dev.rs", "src/cli/generate.rs", "src/cli/init.rs", "src/cli/kv.rs", "src/cli/mod.rs", "src/cli/preview.rs", "src/cli/publish.rs", "src/cli/route.rs", "src/cli/secret.rs", "src/cli/subdomain.rs", "src/cli/tail.rs", "src/cli/whoami.rs", "src/lib.rs", "src/main.rs"]

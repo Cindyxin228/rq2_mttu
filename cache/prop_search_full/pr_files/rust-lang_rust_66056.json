@@ -1,0 +1,1 @@
+["src/librustc_metadata/creader.rs", "src/librustc_metadata/cstore.rs", "src/librustc_metadata/lib.rs", "src/librustc_metadata/locator.rs", "src/librustc_metadata/rmeta/decoder.rs", "src/librustc_metadata/rmeta/decoder/cstore_impl.rs", "src/librustc_metadata/rmeta/encoder.rs", "src/librustc_metadata/rmeta/mod.rs", "src/librustc_metadata/rmeta/table.rs"]

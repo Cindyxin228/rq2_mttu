@@ -1,0 +1,1 @@
+["crates/nargo/tests/test_data/poseidon_bn254_hash/Nargo.toml", "crates/nargo/tests/test_data/poseidon_bn254_hash/Prover.toml", "crates/nargo/tests/test_data/poseidon_bn254_hash/src/main.nr", "crates/nargo/tests/test_data/poseidonperm_x5_254/src/main.nr", "crates/nargo/tests/test_data/poseidonsponge_x5_254/src/main.nr", "noir_stdlib/src/hash/poseidon/bn254.nr"]

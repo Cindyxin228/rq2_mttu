@@ -1,0 +1,1 @@
+[".changeset/silver-taxis-do.md", "crates/swc_ecma_transforms_typescript/src/strip_import_export.rs", "crates/swc_ecma_transforms_typescript/tests/fixture/issue-9486/input.ts", "crates/swc_ecma_transforms_typescript/tests/fixture/issue-9486/output.js"]

@@ -1,0 +1,1 @@
+["crates/swc/tests/fixture/issue-2423/input/.swcrc", "crates/swc/tests/fixture/issue-2423/input/index.ts", "crates/swc/tests/fixture/issue-2423/output/index.map", "crates/swc/tests/fixture/issue-2423/output/index.ts", "crates/swc/tests/fixture/issue-2636/input/.swcrc", "crates/swc/tests/fixture/issue-2636/input/index.ts", "crates/swc/tests/fixture/issue-2636/output/index.ts"]

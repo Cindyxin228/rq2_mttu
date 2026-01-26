@@ -1,0 +1,1 @@
+["client/tinychain/collection/tensor.py", "host/src/route/collection/tensor.rs", "host/tensor/Cargo.toml", "host/tensor/src/dense/mod.rs", "host/tensor/src/lib.rs", "host/tensor/src/sparse/mod.rs", "tests/host/test_tensor.py"]

@@ -1,0 +1,1 @@
+["crates/ruma-federation-api/CHANGELOG.md", "crates/ruma-federation-api/src/membership/create_join_event.rs", "crates/ruma-federation-api/src/serde/v1_pdu.rs"]

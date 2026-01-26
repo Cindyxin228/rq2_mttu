@@ -1,0 +1,1 @@
+["NEWS.md", "cli/Cargo.toml", "cli/src/main.rs", "core/Cargo.toml", "core/src/exec.rs", "core/src/testutils.rs", "repl/src/lib.rs", "sdl/Cargo.toml", "sdl/src/console.rs", "sdl/src/host.rs", "sdl/src/lib.rs", "std/Cargo.toml", "std/src/lib.rs", "std/src/program.rs", "terminal/Cargo.toml", "terminal/src/lib.rs", "web/src/input.rs", "web/src/lib.rs"]

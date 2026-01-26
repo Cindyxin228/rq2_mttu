@@ -1,0 +1,1 @@
+["acceptance/src/meta.rs", "kernel/src/client/json.rs", "kernel/src/client/mod.rs", "kernel/src/client/parquet.rs", "kernel/src/lib.rs", "kernel/src/scan/mod.rs", "kernel/src/snapshot.rs", "kernel/src/table.rs"]

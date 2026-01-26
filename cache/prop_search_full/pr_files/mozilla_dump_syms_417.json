@@ -1,0 +1,1 @@
+["src/windows/symbol.rs", "test_data/windows/basic-opt32.sym", "test_data/windows/basic-opt64.sym", "test_data/windows/basic32.sym", "test_data/windows/basic64.sym", "test_data/windows/dump_syms_regtest64.sym"]

@@ -1,0 +1,1 @@
+[".github/workflows/windows_stable.yml", "Cargo.toml", "build.rs", "src/pty/base.rs", "src/pty/conpty/pty_impl.rs", "src/pty/winpty/pty_impl.rs"]

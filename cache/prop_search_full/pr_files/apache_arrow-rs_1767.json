@@ -1,0 +1,1 @@
+["arrow/src/array/array_binary.rs", "arrow/src/array/builder.rs", "arrow/src/array/data.rs", "arrow/src/array/transform/mod.rs", "arrow/src/csv/reader.rs", "arrow/src/ffi.rs", "arrow/src/ipc/reader.rs", "arrow/src/ipc/writer.rs", "integration-testing/src/lib.rs"]

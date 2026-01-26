@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bin/test", "diesel_dynamic_schema/Cargo.toml"]

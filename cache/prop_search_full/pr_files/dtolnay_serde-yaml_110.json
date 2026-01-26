@@ -1,0 +1,1 @@
+["Cargo.toml", "src/de.rs", "src/number.rs", "src/ser.rs", "src/value/de.rs", "src/value/mod.rs", "tests/test_de.rs", "tests/test_serde.rs"]

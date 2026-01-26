@@ -1,0 +1,1 @@
+["contracts/ibc-reflect/schema/packet_msg.json", "contracts/ibc-reflect/src/contract.rs", "contracts/ibc-reflect/src/msg.rs", "contracts/ibc-reflect/tests/integration.rs"]

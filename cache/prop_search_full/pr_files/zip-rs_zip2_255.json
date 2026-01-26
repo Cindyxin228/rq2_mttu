@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/read_metadata.rs", "src/read.rs", "src/spec.rs", "tests/extract_symlink.rs", "tests/repro_old423.rs"]

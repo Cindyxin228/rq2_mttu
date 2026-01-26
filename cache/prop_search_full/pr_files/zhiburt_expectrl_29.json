@@ -1,0 +1,1 @@
+["examples/bash.rs", "examples/expect_line.rs", "examples/powershell.rs", "examples/python.rs", "src/captures.rs", "src/found.rs", "src/interact.rs", "src/lib.rs", "src/repl.rs", "src/session/async_session.rs", "src/session/sync_session.rs", "tests/check.rs", "tests/expect.rs", "tests/io.rs", "tests/is_matched.rs"]

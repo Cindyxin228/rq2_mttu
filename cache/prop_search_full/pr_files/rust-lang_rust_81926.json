@@ -1,0 +1,1 @@
+["compiler/rustc_typeck/src/check/check.rs", "src/test/ui/async-await/mutually-recursive-async-impl-trait-type.stderr", "src/test/ui/async-await/recursive-async-impl-trait-type.stderr"]

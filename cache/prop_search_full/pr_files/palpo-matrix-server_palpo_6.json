@@ -1,0 +1,1 @@
+["crates/core/src/user.rs", "crates/server/src/bl/user/profile.rs", "crates/server/src/routing/federation/query.rs", "tests/complement.sh"]

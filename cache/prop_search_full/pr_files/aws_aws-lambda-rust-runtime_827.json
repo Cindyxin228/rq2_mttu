@@ -1,0 +1,1 @@
+["examples/http-axum-apigw-authorizer/Cargo.toml", "examples/http-axum-apigw-authorizer/README.md", "examples/http-axum-apigw-authorizer/src/main.rs", "lambda-events/src/event/apigw/mod.rs", "lambda-http/src/request.rs"]

@@ -1,0 +1,1 @@
+["api/src/lib.rs", "api/src/types.rs", "controller/src/controller.rs", "libwallet/src/slate_versions/ser.rs", "tests/common/mod.rs", "tests/owner_v3_init_secure.rs", "tests/owner_v3_lifecycle.rs"]

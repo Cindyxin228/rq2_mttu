@@ -1,0 +1,1 @@
+[".github/workflows/build_and_test.yml", "fuzzers/inprocess/libfuzzer_libmozjpeg/hook_allocs.c", "utils/libafl_fmt/src/main.rs"]

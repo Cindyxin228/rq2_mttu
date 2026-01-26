@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "crates/jean/src/main.rs", "crates/rc-zip/Cargo.toml", "crates/rc-zip/src/format/archive.rs", "crates/rc-zip/src/reader/sync/read_zip.rs", "crates/rc-zip/src/tests.rs"]

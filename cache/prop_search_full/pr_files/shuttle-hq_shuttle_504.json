@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "Containerfile", "codegen/src/lib.rs", "codegen/src/shuttle_main/mod.rs", "deployer/src/handlers/mod.rs", "deployer/src/persistence/mod.rs", "deployer/src/proxy.rs", "service/src/lib.rs"]

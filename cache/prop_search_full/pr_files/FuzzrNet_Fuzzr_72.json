@@ -1,0 +1,1 @@
+["src/main.rs", "src/message.rs", "src/page/dashboard.rs", "src/page/feed.rs", "src/page/publish.rs", "src/page/settings.rs", "src/page/site.rs", "src/page/view.rs", "src/ui.rs", "src/ui/page_selector.rs", "src/ui/style.rs", "src/ui/toolbar.rs"]

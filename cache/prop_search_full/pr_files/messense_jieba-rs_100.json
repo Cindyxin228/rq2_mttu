@@ -1,0 +1,1 @@
+["benches/jieba_benchmark.rs", "build.rs", "capi/src/lib.rs", "src/keywords/mod.rs", "src/keywords/textrank.rs", "src/keywords/tfidf.rs", "src/lib.rs"]

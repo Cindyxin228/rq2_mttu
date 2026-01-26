@@ -1,0 +1,1 @@
+[".github/actions/build-nix/action.yml", ".github/actions/install-nix/action.yml", ".github/workflows/build.yml", ".github/workflows/check.yml", ".github/workflows/doc.yml", ".github/workflows/nix.yml", ".github/workflows/wasmcloud.yml", "flake.lock", "flake.nix", "garnix.yaml"]

@@ -1,0 +1,1 @@
+["e2e/test_path_safety", "src/shell/bash.rs", "src/shell/fish.rs", "src/shell/nushell.rs", "src/shell/xonsh.rs", "src/shell/zsh.rs"]

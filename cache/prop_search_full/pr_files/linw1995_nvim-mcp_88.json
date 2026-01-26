@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/tools.md", "src/neovim/client.rs", "src/neovim/lua/lsp_call_hierarchy_incoming_calls.lua", "src/neovim/lua/lsp_call_hierarchy_outgoing_calls.lua", "src/neovim/lua/lsp_call_hierarchy_prepare.lua", "src/neovim/mod.rs", "src/server/integration_tests.rs", "src/server/tools.rs", "src/test_utils.rs", "src/testdata/call_hierarchy.go"]

@@ -1,0 +1,1 @@
+["playback/src/discord.rs", "playback/src/gstreamer_backend.rs", "playback/src/mpv_backend/mod.rs", "playback/src/rusty_backend/mod.rs", "server/build.rs", "server/src/cli.rs", "tui/build.rs", "tui/src/cli.rs"]

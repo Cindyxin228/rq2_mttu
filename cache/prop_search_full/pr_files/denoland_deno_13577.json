@@ -1,0 +1,1 @@
+["cli/bench/lsp_bench_standalone.rs", "cli/lsp/diagnostics.rs", "cli/lsp/language_server.rs", "cli/tests/integration/lsp_tests.rs", "test_util/src/lsp.rs"]

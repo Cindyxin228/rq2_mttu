@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/get_by_name.rs", "scylla/src/frame/response/result.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/session_test.rs"]

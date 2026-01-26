@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "build.rs", "completions/_qrrs", "completions/_qrrs.ps1", "completions/qrrs.bash", "completions/qrrs.fish", "man/qrrs.1", "src/cli.rs", "tests/test_bin.rs"]

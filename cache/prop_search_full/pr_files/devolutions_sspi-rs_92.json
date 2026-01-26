@@ -1,0 +1,1 @@
+["Cargo.toml", "ffi/src/sec_buffer.rs", "ffi/src/sec_pkg_info.rs", "src/crypto/rc4.rs", "src/dns.rs", "src/kdc.rs", "src/sspi/kerberos/network_client.rs", "src/sspi/ntlm/messages.rs"]

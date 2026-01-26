@@ -1,0 +1,1 @@
+["crates/neon-runtime/src/napi/bindings/functions.rs", "crates/neon-runtime/src/napi/call.rs", "crates/neon-runtime/src/napi/fun.rs", "src/context/mod.rs", "src/types/internal.rs", "src/types/mod.rs", "test/napi/lib/functions.js", "test/napi/src/js/functions.rs", "test/napi/src/lib.rs"]

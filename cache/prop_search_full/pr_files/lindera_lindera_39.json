@@ -1,0 +1,1 @@
+["Cargo.toml", "src/ipadic.rs", "src/ipadic/builder.rs", "src/ipadic/character_definition.rs", "src/ipadic/connection.rs", "src/ipadic/prefix_dict.rs", "src/ipadic/system_dict.rs", "src/ipadic/tokenizer.rs", "src/ipadic/unknown_dictionary.rs", "src/ipadic/viterbi.rs", "src/ipadic/word_entry.rs", "src/lib.rs", "src/tokenizer.rs"]

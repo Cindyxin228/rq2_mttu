@@ -1,0 +1,1 @@
+[".editorconfig", "src/object/dict.rs", "src/parser/deserializer.rs", "tests/command_cp_tests.rs", "tests/command_ls_tests.rs", "tests/command_mv_tests.rs", "tests/commands_test.rs", "tests/filter_str_tests.rs", "tests/filters_test.rs", "tests/tests.rs"]

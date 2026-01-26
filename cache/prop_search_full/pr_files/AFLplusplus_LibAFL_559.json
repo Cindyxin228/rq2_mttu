@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_stb_image_concolic/fuzzer/src/main.rs", "fuzzers/libfuzzer_stb_image_concolic/runtime/src/lib.rs", "scripts/test_all_fuzzers.sh"]

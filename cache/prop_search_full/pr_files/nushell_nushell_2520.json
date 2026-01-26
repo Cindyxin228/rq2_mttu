@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/Cargo.toml", "crates/nu-data/Cargo.toml", "crates/nu-parser/Cargo.toml", "crates/nu-protocol/Cargo.toml", "crates/nu-source/Cargo.toml", "crates/nu-test-support/Cargo.toml", "crates/nu-value-ext/Cargo.toml", "crates/nu_plugin_match/Cargo.toml"]

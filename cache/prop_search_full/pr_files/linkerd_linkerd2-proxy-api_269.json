@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "proto/inbound.proto", "proto/outbound.proto", "src/gen/io.linkerd.proxy.destination.rs", "src/gen/io.linkerd.proxy.http_route.rs", "src/gen/io.linkerd.proxy.identity.rs", "src/gen/io.linkerd.proxy.inbound.rs", "src/gen/io.linkerd.proxy.outbound.rs", "src/gen/io.linkerd.proxy.tap.rs"]

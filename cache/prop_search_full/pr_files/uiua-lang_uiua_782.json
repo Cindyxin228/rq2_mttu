@@ -1,0 +1,1 @@
+["src/compile/algebra.rs", "src/compile/invert/mod.rs", "src/compile/mod.rs", "src/compile/optimize.rs", "src/main.rs", "src/run.rs", "src/run_prim.rs", "src/sys/native.rs"]

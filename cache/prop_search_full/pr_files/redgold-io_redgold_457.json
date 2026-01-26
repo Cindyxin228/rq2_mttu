@@ -1,0 +1,1 @@
+["schema/src/local_stored_state.rs", "src/gui/app_loop.rs", "src/gui/mod.rs", "src/gui/tabs/hot_wallet.rs", "src/gui/tabs/keys_tab.rs", "src/gui/tabs/mod.rs", "src/gui/tabs/server_tab.rs", "src/gui/tabs/settings_tab.rs", "src/gui/wallet_tab.rs", "src/infra/deploy.rs", "src/util/cli/args.rs"]

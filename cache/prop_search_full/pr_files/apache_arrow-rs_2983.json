@@ -1,0 +1,1 @@
+["arrow-buffer/src/alloc/alignment.rs", "arrow-data/src/data.rs", "arrow-flight/build.rs", "arrow-flight/src/lib.rs", "arrow-flight/src/sql/mod.rs", "arrow-flight/src/sql/server.rs", "arrow-schema/src/error.rs"]

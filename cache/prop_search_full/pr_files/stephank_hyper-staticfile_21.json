@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/doc_server.rs", "src/lib.rs", "src/resolve.rs", "src/response_builder.rs", "src/service.rs", "src/util/file_bytes_stream.rs", "src/util/file_chunk_stream.rs", "src/util/file_response_builder.rs", "src/util/mod.rs", "src/util/open_with_metadata.rs", "src/util/requested_path.rs", "tests/static.rs"]

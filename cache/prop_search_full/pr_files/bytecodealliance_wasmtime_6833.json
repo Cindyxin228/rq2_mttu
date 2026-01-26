@@ -1,0 +1,1 @@
+["crates/wasi/src/preview2/stdio/unix.rs", "crates/wasi/src/preview2/stdio/worker_thread_stdin.rs"]

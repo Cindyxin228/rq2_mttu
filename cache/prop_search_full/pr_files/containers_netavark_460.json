@@ -1,0 +1,1 @@
+["test/100-bridge-iptables.bats", "test/testfiles/dualstack-bridge-multiple-custom-dns-server.json"]

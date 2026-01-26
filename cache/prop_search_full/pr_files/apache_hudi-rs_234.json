@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/core/Cargo.toml", "crates/core/src/config/table.rs", "crates/core/src/table/builder.rs", "crates/core/src/table/mod.rs", "crates/core/src/timeline/instant.rs", "crates/core/src/timeline/mod.rs", "crates/core/src/timeline/selector.rs", "crates/core/tests/data/table_props_valid/.hoodie/hoodie.properties"]

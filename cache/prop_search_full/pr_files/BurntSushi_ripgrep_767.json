@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "Cargo.toml", "README.md", "complete/_rg", "doc/rg.1", "doc/rg.1.md", "ignore/src/types.rs", "src/app.rs", "src/args.rs", "src/decompressor.rs", "src/main.rs", "src/worker.rs", "tests/data/sherlock.bz2", "tests/data/sherlock.gz", "tests/data/sherlock.lzma", "tests/data/sherlock.xz", "tests/tests.rs"]

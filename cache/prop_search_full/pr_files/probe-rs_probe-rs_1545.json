@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "cargo-embed/Cargo.toml", "debugger/Cargo.toml", "gdb-server/Cargo.toml", "probe-rs-cli-util/Cargo.toml", "target-gen/Cargo.toml"]

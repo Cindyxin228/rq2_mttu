@@ -1,0 +1,1 @@
+["admin/Cargo.toml", "rustsec/Cargo.toml", "rustsec/src/osv.rs", "rustsec/src/repository/git.rs", "rustsec/src/repository/git/gitpath.rs", "rustsec/src/repository/git/modification_time.rs"]

@@ -1,0 +1,1 @@
+["src/iter.rs", "src/rope.rs", "src/rope_builder.rs", "src/slice.rs", "src/str_utils.rs", "src/tree/node.rs", "tests/quickcheck_tests.proptest-regressions", "tests/quickcheck_tests.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "deku-derive/src/macros/deku_read.rs", "ensure_no_std/src/bin/main.rs", "src/error.rs", "src/lib.rs", "src/prelude.rs", "src/slice_impls.rs", "tests/test_macro.rs"]

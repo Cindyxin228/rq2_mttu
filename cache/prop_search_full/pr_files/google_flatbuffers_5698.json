@@ -1,0 +1,1 @@
+["include/flatbuffers/idl.h", "src/flatc.cpp", "src/idl_gen_fbs.cpp", "tests/BUILD", "tests/prototest/test_suffix.golden", "tests/prototest/test_union_suffix.golden", "tests/test.cpp"]

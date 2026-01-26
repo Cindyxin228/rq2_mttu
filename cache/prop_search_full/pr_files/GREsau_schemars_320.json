@@ -1,0 +1,1 @@
+["schemars/src/_private.rs", "schemars/src/json_schema_impls/chrono04.rs", "schemars/src/json_schema_impls/semver1.rs", "schemars/tests/enum_flatten.rs", "schemars/tests/expected/enum_flatten.json"]

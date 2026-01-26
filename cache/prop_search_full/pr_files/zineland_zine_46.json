@@ -1,0 +1,1 @@
+["README.md", "locales/en.ftl", "locales/zh.ftl", "src/data.rs", "src/engine.rs", "src/entity/author.rs", "src/entity/mod.rs", "src/entity/zine.rs", "static/zine.css", "templates/_macros.jinja", "templates/author-list.jinja", "templates/author.jinja"]

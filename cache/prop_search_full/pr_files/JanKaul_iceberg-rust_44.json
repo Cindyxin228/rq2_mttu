@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "datafusion_iceberg/src/planner.rs", "datafusion_iceberg/src/statistics.rs", "datafusion_iceberg/src/table.rs", "iceberg-file-catalog/Cargo.toml", "iceberg-file-catalog/src/error.rs", "iceberg-file-catalog/src/lib.rs", "iceberg-rust/src/table/mod.rs"]

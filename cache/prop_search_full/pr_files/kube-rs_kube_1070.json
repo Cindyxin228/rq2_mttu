@@ -1,0 +1,1 @@
+["e2e/Cargo.toml", "examples/Cargo.toml", "kube-client/Cargo.toml", "kube-runtime/Cargo.toml"]

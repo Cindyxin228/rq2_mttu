@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lambda-attributes/Cargo.toml", "lambda-attributes/src/lib.rs", "lambda-http/Cargo.toml", "lambda-http/examples/hello-http-without-macros.rs", "lambda-http/examples/hello-http.rs", "lambda-http/src/lib.rs", "lambda/Cargo.toml", "lambda/examples/hello-without-macro.rs", "lambda/examples/hello.rs", "lambda/src/lib.rs"]

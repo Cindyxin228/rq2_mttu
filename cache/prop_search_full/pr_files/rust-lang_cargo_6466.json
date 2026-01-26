@@ -1,0 +1,1 @@
+["src/bin/cargo/commands/login.rs", "src/bin/cargo/commands/package.rs", "src/cargo/ops/cargo_package.rs", "src/cargo/ops/registry.rs", "src/cargo/sources/registry/mod.rs", "src/crates-io/lib.rs", "tests/testsuite/alt_registry.rs", "tests/testsuite/login.rs", "tests/testsuite/main.rs", "tests/testsuite/registry.rs"]

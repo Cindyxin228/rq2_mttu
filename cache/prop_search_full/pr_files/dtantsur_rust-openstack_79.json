@@ -1,0 +1,1 @@
+["src/common/mod.rs", "src/common/types.rs", "src/compute/block_device_mapping.rs", "src/compute/mod.rs", "src/compute/protocol.rs", "src/compute/servers.rs", "src/lib.rs", "tests/integration-create-delete-server.rs"]

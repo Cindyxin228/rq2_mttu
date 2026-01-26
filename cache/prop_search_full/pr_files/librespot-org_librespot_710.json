@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "COMPILING.md", "Cargo.lock", "Cargo.toml", "connect/Cargo.toml", "connect/src/discovery.rs", "core/Cargo.toml", "core/src/connection/handshake.rs", "playback/Cargo.toml"]

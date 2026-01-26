@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/timestamps.slt", "datafusion/expr/src/type_coercion/functions.rs", "datafusion/optimizer/src/type_coercion.rs"]

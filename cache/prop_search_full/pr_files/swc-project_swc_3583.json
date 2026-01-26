@@ -1,0 +1,1 @@
+[".github/workflows/bot.yml", "crates/swc/tests/errors/lints/duplicate-exports/3/.swcrc", "crates/swc/tests/errors/lints/duplicate-exports/3/input.ts", "crates/swc/tests/errors/lints/duplicate-exports/3/output.swc-stderr", "crates/swc_ecma_lints/src/rules/duplicate_exports.rs"]

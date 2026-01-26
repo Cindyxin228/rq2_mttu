@@ -1,0 +1,1 @@
+["Cargo.toml", "src/planar_camera/fixed_view.rs", "src/planar_camera/sidescroll.rs", "src/renderer/conrod_renderer.rs", "src/window/canvas.rs", "src/window/gl_canvas.rs", "src/window/webgl_canvas.rs", "src/window/window.rs"]

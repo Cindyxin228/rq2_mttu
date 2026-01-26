@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cli.rs", "src/info/info_field.rs", "src/info/langs/language.rs", "src/info/langs/mod.rs", "src/info/mod.rs", "src/info/repo.rs", "src/main.rs", "src/ui/image_backends/mod.rs", "src/ui/mod.rs", "src/ui/printer.rs", "src/ui/text_colors.rs"]

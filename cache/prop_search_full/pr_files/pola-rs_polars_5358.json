@@ -1,0 +1,1 @@
+["polars/polars-core/src/frame/hash_join/mod.rs", "polars/polars-lazy/polars-plan/src/logical_plan/optimizer/predicate_pushdown/mod.rs", "py-polars/tests/unit/test_predicates.py"]

@@ -1,0 +1,1 @@
+["src/librustc/session/mod.rs", "src/librustc/ty/context.rs", "src/librustc_metadata/encoder.rs", "src/librustc_typeck/check/mod.rs"]

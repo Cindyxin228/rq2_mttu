@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "alacritty/Cargo.toml", "alacritty/src/display/mod.rs", "alacritty/src/event.rs", "alacritty/src/input/mod.rs", "alacritty/src/renderer/text/glyph_cache.rs", "alacritty/src/window_context.rs"]

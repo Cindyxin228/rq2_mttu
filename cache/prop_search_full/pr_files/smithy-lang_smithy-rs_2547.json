@@ -1,0 +1,1 @@
+["aws/sdk/build.gradle.kts", "codegen-server/src/main/kotlin/software/amazon/smithy/rust/codegen/server/smithy/generators/protocol/ServerProtocolTestGenerator.kt", "gradle.properties"]

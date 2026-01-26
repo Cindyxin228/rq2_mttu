@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/src/file/upload.rs", "cli/src/folder/sync.rs", "cli/src/main.rs", "fuse/Cargo.toml", "fuse/src/main.rs", "http-server/Cargo.toml", "http-server/src/handler.rs", "lib/Cargo.toml"]

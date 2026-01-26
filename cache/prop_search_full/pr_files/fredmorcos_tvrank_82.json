@@ -1,0 +1,1 @@
+["cli/src/main.rs", "cli/src/print.rs", "lib/examples/query.rs", "lib/src/imdb/db_binary.rs", "lib/src/imdb/db_impl.rs", "lib/src/imdb/error.rs", "lib/src/imdb/genre.rs", "lib/src/imdb/service.rs"]

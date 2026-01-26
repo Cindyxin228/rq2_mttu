@@ -1,0 +1,1 @@
+["cli/module_loader.rs", "cli/node/mod.rs", "cli/tests/integration/npm_tests.rs", "cli/tests/testdata/npm/builtin_module_module/main.js", "cli/tests/testdata/npm/builtin_module_module/main.out", "cli/tests/testdata/npm/registry/@denotest/builtin-module-module/1.0.0/index.js", "cli/tests/testdata/npm/registry/@denotest/builtin-module-module/1.0.0/package.json"]

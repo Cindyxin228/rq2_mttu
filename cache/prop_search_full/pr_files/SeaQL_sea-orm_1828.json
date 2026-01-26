@@ -1,0 +1,1 @@
+["sea-orm-migration/Cargo.toml", "sea-orm-migration/src/manager.rs", "sea-orm-migration/tests/common/migration/m20220118_000001_create_cake_table.rs", "sea-orm-migration/tests/main.rs"]

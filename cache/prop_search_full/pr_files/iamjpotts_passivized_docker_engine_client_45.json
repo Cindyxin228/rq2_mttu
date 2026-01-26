@@ -1,0 +1,1 @@
+["src/imp/serde.rs", "src/responses/container_network_settings.rs", "tests/fixtures/container_list_without_ipv4.json", "tests/test_json_mappings.rs"]

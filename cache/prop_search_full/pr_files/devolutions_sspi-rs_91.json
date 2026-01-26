@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "ci/build.sh", "ffi/Cargo.toml", "rust-toolchain.toml", "src/dns.rs", "src/sspi/kerberos/client/generators.rs", "src/sspi/negotiate.rs", "tools/wasm-testcompile/.cargo/config.toml", "tools/wasm-testcompile/Cargo.toml", "tools/wasm-testcompile/check.ps1", "tools/wasm-testcompile/rust-toolchain.toml", "tools/wasm-testcompile/src/lib.rs"]

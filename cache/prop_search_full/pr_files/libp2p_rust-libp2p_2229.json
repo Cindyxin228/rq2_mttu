@@ -1,0 +1,1 @@
+["protocols/rendezvous/Cargo.toml", "protocols/rendezvous/examples/discover.rs", "protocols/rendezvous/examples/register.rs", "protocols/rendezvous/examples/register_with_identify.rs", "protocols/rendezvous/examples/rendezvous_point.rs"]

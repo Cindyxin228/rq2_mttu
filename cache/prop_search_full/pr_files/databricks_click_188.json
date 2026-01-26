@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command/click.rs", "src/command/events.rs", "src/command/mod.rs", "src/command/nodes.rs", "src/command/pods.rs", "src/command/portforwards.rs", "src/k8s_table.rs", "src/main.rs", "src/table.rs"]

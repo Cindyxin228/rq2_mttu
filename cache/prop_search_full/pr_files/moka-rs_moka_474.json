@@ -1,0 +1,1 @@
+[".ci_extras/pin-crate-vers-msrv.sh", ".ci_extras/remove-examples-msrv.sh", ".devcontainer/ensure-rust-toolchains-installed.sh", ".github/workflows/CI.yml", ".github/workflows/CIQuantaDisabled.yml", "CHANGELOG.md", "Cargo.toml", "README.md", "src/lib.rs"]

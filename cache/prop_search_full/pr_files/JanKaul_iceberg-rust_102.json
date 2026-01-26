@@ -1,0 +1,1 @@
+["datafusion_iceberg/src/materialized_view/delta_queries/fork_node.rs", "datafusion_iceberg/src/materialized_view/delta_queries/mod.rs", "iceberg-rust/src/arrow/write.rs", "iceberg-rust/src/error.rs"]

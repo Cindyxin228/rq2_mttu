@@ -1,0 +1,1 @@
+["examples/http1_websocket.rs", "examples/http2_websocket.rs", "src/client/websocket/json.rs", "src/client/websocket/message.rs", "src/client/websocket/mod.rs", "src/lib.rs", "src/tls/conn/boring.rs"]

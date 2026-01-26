@@ -1,0 +1,1 @@
+["crates/shim-protos/Cargo.toml", "crates/shim-protos/build.rs", "crates/shim-protos/src/lib.rs", "crates/shim-protos/src/sandbox.rs", "crates/shim-protos/src/types.rs", "crates/shim-protos/vendor/github.com/containerd/containerd/runtime/sandbox/v1/sandbox.proto"]

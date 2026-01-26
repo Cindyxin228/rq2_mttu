@@ -1,0 +1,1 @@
+["mosec/errors.py", "mosec/mixin/__init__.py", "mosec/mixin/msgpack_worker.py", "mosec/worker.py", "requirements/plugin.txt", "tests/test_coordinator.py"]

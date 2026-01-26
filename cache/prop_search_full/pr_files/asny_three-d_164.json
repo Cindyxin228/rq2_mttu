@@ -1,0 +1,1 @@
+["examples/normals/main.rs", "examples/wireframe/main.rs", "src/core.rs", "src/core/mesh.rs", "src/core/mesh.vert", "src/core/texture_transform.rs", "src/renderer/object/bounding_box.rs", "src/renderer/object/instanced_model.rs", "src/renderer/object/model.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/cargo.yml", ".mergify.yml", "programs/sbf/tests/programs.rs", "scripts/cargo-clippy-nightly.sh", "scripts/cargo-clippy-stable.sh", "scripts/cargo-clippy.sh", "sdk/src/account.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/assembly/local/mass.rs", "src/assembly/local/quadrature_table.rs", "src/element/segment.rs", "src/quadrature.rs", "src/quadrature/canonical.rs", "tests/unit_tests/mod.rs", "tests/unit_tests/quadrature/canonical.rs", "tests/unit_tests/quadrature/mod.rs"]

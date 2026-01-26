@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Justfile", "pueue/src/client/cli.rs", "pueue/src/daemon/cli.rs", "pueue/tests/client/integration/configuration.rs", "pueue/tests/client/integration/mod.rs", "pueue_lib/src/settings.rs"]

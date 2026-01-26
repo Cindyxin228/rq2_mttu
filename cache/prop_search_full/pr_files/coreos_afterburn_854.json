@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/release-notes.md", "src/providers/aws/mod.rs", "src/providers/digitalocean/mod.rs", "src/providers/ibmcloud/mod.rs", "src/providers/microsoft/azure/mod.rs", "src/providers/microsoft/azurestack/mod.rs", "src/providers/microsoft/goalstate.rs", "src/providers/packet/mod.rs"]

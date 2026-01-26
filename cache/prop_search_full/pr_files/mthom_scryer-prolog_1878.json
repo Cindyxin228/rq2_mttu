@@ -1,0 +1,1 @@
+["build/instructions_template.rs", "src/codegen.rs", "src/lib/lists.pl", "src/machine/dispatch.rs", "src/machine/machine_state.rs", "src/machine/mod.rs", "src/machine/system_calls.rs", "src/targets.rs"]

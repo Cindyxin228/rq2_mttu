@@ -1,0 +1,1 @@
+["yazi-boot/src/boot.rs", "yazi-config/preset/theme.toml", "yazi-config/preset/yazi.toml", "yazi-core/src/manager/commands/tab_create.rs", "yazi-core/src/tab/commands/shell.rs", "yazi-fm/src/notify/layout.rs", "yazi-plugin/preset/plugins/fzf.lua", "yazi-plugin/preset/plugins/zoxide.lua", "yazi-scheduler/src/process/process.rs"]

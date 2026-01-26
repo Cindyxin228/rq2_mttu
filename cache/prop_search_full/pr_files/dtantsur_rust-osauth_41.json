@@ -1,0 +1,1 @@
+["src/auth.rs", "src/basic.rs", "src/client.rs", "src/identity/internal.rs", "src/identity/password.rs", "src/identity/token.rs", "src/lib.rs", "src/loading/config.rs", "src/loading/env.rs", "src/protocol.rs", "src/session.rs"]

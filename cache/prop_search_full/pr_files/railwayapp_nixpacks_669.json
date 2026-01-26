@@ -1,0 +1,1 @@
+["src/providers/csharp.rs", "src/providers/fsharp.rs", "tests/snapshots/generate_plan_tests__csharp_api.snap", "tests/snapshots/generate_plan_tests__csharp_cli.snap", "tests/snapshots/generate_plan_tests__fsharp_api.snap", "tests/snapshots/generate_plan_tests__fsharp_cli.snap"]

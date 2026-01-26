@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "src/cli/run.rs", "src/cli/task/deps.rs", "src/cli/task/edit.rs", "src/cli/task/ls.rs", "src/cli/task/mod.rs", "src/cli/watch.rs", "src/config/mod.rs", "src/task.rs", "src/ui/mod.rs", "src/ui/tree.rs"]

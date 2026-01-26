@@ -1,0 +1,1 @@
+["Cargo.lock", "czkawka_cli/Cargo.toml", "czkawka_cli/src/commands.rs", "czkawka_core/Cargo.toml", "czkawka_core/src/similar_images.rs", "czkawka_gui/Cargo.toml", "czkawka_gui/src/connect_things/connect_popovers.rs", "czkawka_gui/src/connect_things/connect_settings.rs", "czkawka_gui/src/help_combo_box.rs", "czkawka_gui/src/help_functions.rs", "czkawka_gui/src/initialize_gui.rs"]

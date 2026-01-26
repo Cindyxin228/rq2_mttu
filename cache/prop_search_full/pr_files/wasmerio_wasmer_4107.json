@@ -1,0 +1,1 @@
+["lib/c-api/src/wasm_c_api/wasi/mod.rs", "lib/cli/src/commands/run.rs", "lib/cli/src/commands/run/wasi.rs", "lib/wasix/src/os/console/mod.rs", "lib/wasix/src/runtime/task_manager/thread.rs", "lib/wasix/src/runtime/task_manager/tokio.rs", "tests/lib/wast/src/wasi_wast.rs"]

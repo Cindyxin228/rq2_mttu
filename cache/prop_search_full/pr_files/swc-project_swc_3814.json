@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/src/compress/optimize/unused.rs", "crates/swc_ecma_minifier/tests/TODO.txt", "crates/swc_ecma_minifier/tests/golden.txt", "crates/swc_ecma_minifier/tests/terser/compress/drop-unused/issue_3146_3/output.js", "crates/swc_ecma_minifier/tests/terser/compress/drop-unused/issue_3146_4/output.js"]

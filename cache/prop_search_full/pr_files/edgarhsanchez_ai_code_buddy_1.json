@@ -1,0 +1,1 @@
+[".cargo-audit.toml", ".github/workflows/ci.yml", ".github/workflows/release.yml", ".github/workflows/security.yml", "Cargo.lock", "Cargo.toml", "src/git_analyzer.rs", "src/main.rs", "src/ui_simple.rs"]

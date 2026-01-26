@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/iceberg/Cargo.toml", "crates/iceberg/src/arrow/reader.rs", "crates/iceberg/src/arrow/schema.rs", "crates/iceberg/src/scan.rs", "crates/iceberg/testdata/example_table_metadata_v2.json"]

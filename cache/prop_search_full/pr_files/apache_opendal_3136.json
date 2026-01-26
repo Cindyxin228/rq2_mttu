@@ -1,0 +1,1 @@
+[".github/workflows/bindings_haskell.yml", ".github/workflows/bindings_nodejs.yml", ".github/workflows/bindings_python.yml", ".github/workflows/publish.yml", ".github/workflows/release_java.yml", "scripts/release.sh", "website/docs/contributing/release.md"]

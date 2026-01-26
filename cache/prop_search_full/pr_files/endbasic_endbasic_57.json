@@ -1,0 +1,1 @@
+["cli/src/main.rs", "core/examples/dsl.rs", "core/src/ast.rs", "core/src/eval.rs", "core/src/exec.rs", "std/examples/script-runner.rs", "std/src/console.rs", "std/src/editor.rs", "std/src/exec.rs", "std/src/help.rs", "std/src/lib.rs", "std/src/numerics.rs", "std/src/store.rs", "std/src/strings.rs", "std/src/testutils.rs", "web/src/lib.rs"]

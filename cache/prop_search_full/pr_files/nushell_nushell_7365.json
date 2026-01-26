@@ -1,0 +1,1 @@
+["crates/nu-command/src/default_context.rs", "crates/nu-command/src/filters/filter.rs", "crates/nu-command/src/filters/mod.rs", "crates/nu-command/src/filters/where_.rs", "crates/nu-command/tests/commands/where_.rs", "crates/nu-parser/src/parse_keywords.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/shell_error.rs"]

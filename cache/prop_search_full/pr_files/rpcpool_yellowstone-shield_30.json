@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli/Cargo.toml", "cli/src/lib.rs", "clients/rust/Cargo.toml", "clients/rust/src/generated/errors/shield.rs", "config.example.toml", "parser/Cargo.toml", "parser/src/generated/accounts_parser.rs", "parser/src/generated/instructions_parser.rs", "program/Cargo.toml", "store/Cargo.toml", "store/examples/complete.rs", "store/src/lib.rs"]

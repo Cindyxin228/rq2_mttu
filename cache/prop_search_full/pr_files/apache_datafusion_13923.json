@@ -1,0 +1,1 @@
+["datafusion/functions/src/math/nanvl.rs", "datafusion/functions/src/math/pi.rs", "datafusion/functions/src/math/power.rs", "datafusion/functions/src/math/random.rs", "datafusion/functions/src/math/round.rs", "datafusion/functions/src/math/signum.rs", "datafusion/functions/src/math/trunc.rs"]

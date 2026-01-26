@@ -1,0 +1,1 @@
+[".cargo/config.toml", "src/providers/node/mod.rs", "src/providers/node/nx.rs", "src/providers/node/turborepo.rs", "tests/snapshots/generate_plan_tests__node_pnpm.snap", "tests/snapshots/generate_plan_tests__node_pnpm_custom_node_version.snap", "tests/snapshots/generate_plan_tests__node_pnpm_v7.snap"]

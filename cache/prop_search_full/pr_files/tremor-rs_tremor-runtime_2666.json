@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "tremor-codec/Cargo.toml", "tremor-codec/src/codec/avro.rs", "tremor-connectors/src/impls/kafka.rs", "tremor-connectors/src/lib.rs"]

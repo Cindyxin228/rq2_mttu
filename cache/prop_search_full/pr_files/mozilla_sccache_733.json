@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/azure/blobstore.rs", "src/commands.rs", "src/compiler/compiler.rs", "src/dist/client_auth.rs", "src/server.rs", "src/test/tests.rs"]

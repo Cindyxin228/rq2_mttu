@@ -1,0 +1,1 @@
+["completions/just.bash", "completions/just.elvish", "completions/just.fish", "completions/just.powershell", "completions/just.zsh", "src/config.rs", "src/subcommand.rs", "tests/lib.rs", "tests/no_aliases.rs"]

@@ -1,0 +1,1 @@
+["man/exa.1.md", "src/fs/feature/mod.rs", "src/fs/feature/xattr.rs", "src/options/error.rs", "src/options/help.rs", "src/options/mod.rs", "src/options/version.rs", "src/options/view.rs", "src/output/table.rs"]

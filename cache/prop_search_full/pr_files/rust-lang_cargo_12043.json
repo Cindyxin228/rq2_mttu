@@ -1,0 +1,1 @@
+["crates/cargo-test-support/src/publish.rs", "crates/cargo-test-support/src/registry.rs", "crates/resolver-tests/src/lib.rs", "src/cargo/core/features.rs", "src/cargo/core/resolver/version_prefs.rs", "src/cargo/core/summary.rs", "src/cargo/sources/registry/index.rs", "src/cargo/sources/registry/mod.rs", "src/cargo/util/toml/mod.rs", "src/doc/src/reference/unstable.md"]

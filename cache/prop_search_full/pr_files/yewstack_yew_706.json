@@ -1,0 +1,1 @@
+[".travis.yml", "ci/run_checks.sh", "src/html/mod.rs", "src/services/fetch.rs", "src/virtual_dom/vnode.rs", "src/virtual_dom/vtag.rs"]

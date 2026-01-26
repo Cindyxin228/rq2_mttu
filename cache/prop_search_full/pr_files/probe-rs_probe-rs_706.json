@@ -1,0 +1,1 @@
+["probe-rs/src/debug/mod.rs", "probe-rs/src/probe/cmsisdap/commands/transfer/mod.rs", "probe-rs/src/probe/cmsisdap/mod.rs", "probe-rs/src/probe/stlink/constants.rs", "smoke-tester/src/dut_definition.rs"]

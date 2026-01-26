@@ -1,0 +1,1 @@
+["Cargo.toml", "consensus/client/src/utxo.rs", "rpc/core/src/wasm/convert.rs", "rpc/core/src/wasm/message.rs", "wallet/core/src/tx/generator/generator.rs", "wallet/core/src/tx/generator/test.rs", "wallet/core/src/wasm/tx/mass.rs", "wallet/keys/src/publickey.rs"]

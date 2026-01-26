@@ -1,0 +1,1 @@
+["CHANGELOG.md", "fastrace-datadog/src/lib.rs", "fastrace-jaeger/src/lib.rs", "fastrace-opentelemetry/src/lib.rs", "fastrace/benches/compare.rs", "fastrace/benches/trace.rs", "fastrace/examples/asynchronous.rs", "fastrace/examples/synchronous.rs", "fastrace/src/collector/console_reporter.rs", "fastrace/src/collector/global_collector.rs", "fastrace/src/collector/test_reporter.rs"]

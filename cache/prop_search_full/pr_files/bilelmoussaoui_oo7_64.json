@@ -1,0 +1,1 @@
+["cli/src/main.rs", "client/examples/dbus_service.rs", "client/src/dbus/collection.rs", "client/src/dbus/mod.rs", "client/src/dbus/service.rs", "client/src/keyring.rs", "client/src/migration.rs"]

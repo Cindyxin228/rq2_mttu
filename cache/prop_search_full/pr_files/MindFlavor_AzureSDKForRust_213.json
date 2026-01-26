@@ -1,0 +1,1 @@
+["README.md", "azure_sdk_auth_aad/Cargo.toml", "azure_sdk_auth_aad/src/lib.rs", "azure_sdk_core/Cargo.toml", "azure_sdk_core/src/errors.rs", "azure_sdk_cosmos/Cargo.toml", "azure_sdk_service_bus/Cargo.toml", "azure_sdk_storage_account/Cargo.toml", "azure_sdk_storage_blob/Cargo.toml", "azure_sdk_storage_core/Cargo.toml", "azure_sdk_storage_table/Cargo.toml"]

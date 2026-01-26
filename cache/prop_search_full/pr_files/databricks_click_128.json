@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cmd.rs", "src/command_processor.rs", "src/completer.rs", "src/config/click.rs", "src/env.rs", "src/kobj.rs", "src/kube.rs", "src/main.rs", "src/output.rs", "src/parser.rs", "src/table.rs"]

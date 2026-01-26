@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", "pueue/src/client/display/state.rs", "pueue/src/client/query/mod.rs", "pueue/src/daemon/network/message_handler/clean.rs", "pueue/src/lib.rs", "pueue_lib/tests/state_backward_compatibility.rs"]

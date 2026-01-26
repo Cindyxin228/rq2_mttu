@@ -1,0 +1,1 @@
+["Cargo.toml", "cli/Cargo.toml", "client/Cargo.toml", "client/examples/basic.rs", "client/examples/basic_2.rs", "client/examples/dbus_service.rs", "client/src/dbus/collection.rs", "client/src/dbus/service.rs", "client/src/portal/api/mod.rs", "client/src/portal/mod.rs", "portal/Cargo.toml"]

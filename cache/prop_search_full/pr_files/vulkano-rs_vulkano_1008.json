@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/src/bin/image.rs", "examples/src/bin/runtime-shader.rs", "examples/src/bin/teapot.rs", "examples/src/bin/triangle.rs", "vulkano/src/command_buffer/auto.rs", "vulkano/src/command_buffer/state_cacher.rs"]

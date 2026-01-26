@@ -1,0 +1,1 @@
+["clippy.toml", "tracing-attributes/src/expand.rs", "tracing-core/src/dispatch.rs", "tracing-subscriber/benches/support/mod.rs", "tracing-subscriber/src/fmt/format/json.rs", "tracing-subscriber/src/registry/sharded.rs", "tracing-subscriber/tests/field_filter.rs", "tracing/src/span.rs", "tracing/tests/span.rs"]

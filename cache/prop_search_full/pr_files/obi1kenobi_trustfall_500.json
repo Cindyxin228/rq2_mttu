@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "trustfall_stubgen/src/adapter_creator.rs", "trustfall_stubgen/test_data/expected_outputs/hackernews/adapter/adapter_impl.rs", "trustfall_stubgen/test_data/expected_outputs/use_reserved_rust_names_in_schema/adapter/adapter_impl.rs"]

@@ -1,0 +1,1 @@
+["crates/client/vendor/github.com/containerd/containerd/api/services/images/v1/images.proto", "crates/client/vendor/github.com/containerd/containerd/api/types/fieldpath.proto", "crates/shim-protos/Cargo.toml", "crates/shim/src/asynchronous/mod.rs", "crates/shim/src/synchronous/mod.rs", "crates/shim/src/synchronous/publisher.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/authenticate_test.yml", "scylla-cql/Cargo.toml", "scylla-cql/src/errors.rs", "scylla/Cargo.toml", "scylla/src/statement/mod.rs", "scylla/src/statement/prepared_statement.rs", "scylla/src/statement/query.rs", "scylla/src/transport/session.rs", "scylla/src/transport/session_builder.rs", "scylla/src/transport/session_test.rs"]

@@ -1,0 +1,1 @@
+["mock/Cargo.toml", "mock/src/lib.rs", "rusoto/credential/Cargo.toml", "rusoto/credential/src/lib.rs", "rusoto/credential/src/static_provider.rs", "rusoto/services/sts/Cargo.toml", "rusoto/services/sts/src/custom/credential.rs", "service_crategen/services.json"]

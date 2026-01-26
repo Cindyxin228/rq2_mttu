@@ -1,0 +1,1 @@
+["Cargo.lock", "bindings/python/Cargo.toml", "bindings/python/opendal.pyi", "bindings/python/src/asyncio.rs", "bindings/python/tests/test_core.py"]

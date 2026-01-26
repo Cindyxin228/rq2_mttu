@@ -1,0 +1,1 @@
+["Cargo.lock", "attr/Cargo.toml", "attr/src/metadata.rs", "attr/src/syndecode.rs", "attr/src/syndecode/args.rs", "attr/src/syndecode/derive.rs", "attr/src/syndecode/properties.rs", "cli/Cargo.toml", "core/Cargo.toml", "core/src/join.rs", "macro/Cargo.toml", "ormlite/Cargo.toml"]

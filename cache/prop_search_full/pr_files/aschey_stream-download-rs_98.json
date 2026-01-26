@@ -1,0 +1,1 @@
+["examples/client_options.rs", "examples/custom_client.rs", "examples/from_stream.rs", "examples/infinite_stream.rs", "examples/s3.rs", "rustfmt.toml", "src/http/mod.rs", "src/http/reqwest_client.rs", "src/lib.rs", "src/open_dal.rs", "src/source.rs", "src/storage/memory.rs", "src/storage/temp.rs", "tests/integration_test.rs"]

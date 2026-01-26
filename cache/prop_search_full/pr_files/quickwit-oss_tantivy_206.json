@@ -1,0 +1,1 @@
+["src/collector/mod.rs", "src/fastfield/mod.rs", "src/lib.rs", "src/postings/mod.rs", "src/query/mod.rs", "src/query/occur_filter.rs", "src/query/phrase_query/phrase_query.rs", "src/query/query.rs", "src/schema/mod.rs"]

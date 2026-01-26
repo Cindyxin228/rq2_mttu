@@ -1,0 +1,1 @@
+["crates/hir-def/src/macro_expansion_tests/mbe/tt_conversion.rs", "crates/hir-expand/src/fixup.rs", "crates/mbe/src/tests.rs", "crates/syntax-bridge/src/lib.rs", "crates/tt/src/lib.rs", "docs/book/src/assists_generated.md"]

@@ -1,0 +1,1 @@
+["fluent-bundle/src/bundle.rs", "fluent-bundle/src/resolver/expression.rs", "fluent-bundle/src/resolver/inline_expression.rs", "fluent-bundle/src/resolver/mod.rs", "fluent-bundle/src/resolver/pattern.rs", "fluent-bundle/src/resolver/scope.rs", "fluent-bundle/src/types/mod.rs", "fluent-bundle/tests/bundle.rs"]

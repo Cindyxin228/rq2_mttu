@@ -1,0 +1,1 @@
+["amethyst_renderer/src/lib.rs", "amethyst_renderer/src/pass/debug_lines/interleaved.rs", "amethyst_renderer/src/pass/debug_lines/mod.rs", "amethyst_renderer/src/pass/shaders/geometry/debug_lines.glsl", "docs/AUTHORS.md", "docs/CHANGELOG.md", "examples/debug_lines/main.rs"]

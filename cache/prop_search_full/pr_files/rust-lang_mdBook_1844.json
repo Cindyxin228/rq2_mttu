@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/nop-preprocessor.rs", "src/book/mod.rs", "src/cmd/build.rs", "src/cmd/clean.rs", "src/cmd/command_prelude.rs", "src/cmd/init.rs", "src/cmd/mod.rs", "src/cmd/serve.rs", "src/cmd/test.rs", "src/cmd/watch.rs", "src/main.rs"]

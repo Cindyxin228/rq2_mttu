@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "arrow/test/dependency/README.md", "arrow/test/dependency/default-features/Cargo.toml", "arrow/test/dependency/default-features/src/main.rs", "arrow/test/dependency/no-default-features/Cargo.toml", "arrow/test/dependency/no-default-features/src/main.rs", "dev/release/rat_exclude_files.txt"]

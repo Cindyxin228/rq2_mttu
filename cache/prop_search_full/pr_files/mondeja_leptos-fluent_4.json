@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "Cargo.toml", "README.md", "examples/minimal/Cargo.toml", "examples/minimal/README.md", "examples/minimal/index.html", "examples/minimal/locales/en/main.ftl", "examples/minimal/locales/es/main.ftl", "examples/minimal/locales/languages.json", "examples/minimal/src/main.rs", "leptos-fluent/Cargo.toml", "leptos-fluent/src/lib.rs"]

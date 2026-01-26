@@ -1,0 +1,1 @@
+["examples/examples/z_get.rs", "examples/examples/z_pull.rs", "examples/examples/z_storage.rs", "examples/examples/z_sub.rs", "plugins/zenoh-plugin-rest/src/lib.rs", "zenoh-ext/examples/z_query_sub.rs", "zenoh-ext/src/group.rs", "zenoh/src/prelude.rs"]

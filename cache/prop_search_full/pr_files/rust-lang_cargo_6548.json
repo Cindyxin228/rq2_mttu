@@ -1,0 +1,1 @@
+["src/cargo/ops/lockfile.rs", "tests/testsuite/generate_lockfile.rs", "tests/testsuite/lockfile_compat.rs", "tests/testsuite/update.rs"]

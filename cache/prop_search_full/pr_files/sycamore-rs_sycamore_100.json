@@ -1,0 +1,1 @@
+["examples/todomvc/src/footer.rs", "examples/todomvc/src/list.rs", "maple-core-macro/src/component/mod.rs", "maple-core-macro/src/template/component.rs", "maple-core-macro/tests/template/component-fail.stderr", "maple-core/benches/ssr.rs", "maple-core/src/component.rs", "maple-core/src/flow.rs", "maple-core/tests/integration/keyed.rs", "maple-core/tests/integration/non_keyed.rs"]

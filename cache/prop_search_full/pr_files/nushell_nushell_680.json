@@ -1,0 +1,1 @@
+["src/commands/autoview.rs", "src/commands/enter.rs", "src/commands/fetch.rs", "src/commands/open.rs", "src/commands/post.rs", "src/commands/save.rs", "src/commands/tags.rs", "src/data/meta.rs", "src/parser/parse/files.rs", "src/plugins/binaryview.rs", "src/plugins/textview.rs"]

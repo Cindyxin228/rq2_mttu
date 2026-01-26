@@ -1,0 +1,1 @@
+["src/persist-client/examples/maelstrom/txn.rs", "src/persist-client/examples/source_example.rs", "src/persist-client/src/impl/encoding.rs", "src/persist-client/src/impl/state.rs", "src/persist-client/src/impl/trace.rs", "src/persist-client/src/lib.rs", "src/persist-client/src/read.rs", "src/storage/src/controller.rs"]

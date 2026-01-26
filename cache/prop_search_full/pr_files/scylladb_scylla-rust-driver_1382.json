@@ -1,0 +1,1 @@
+["docs/source/data-types/data-types.md", "docs/source/data-types/text.md", "scylla-cql/src/deserialize/value.rs", "scylla-cql/src/deserialize/value_tests.rs", "scylla-cql/src/serialize/value.rs", "scylla-cql/src/serialize/value_tests.rs"]

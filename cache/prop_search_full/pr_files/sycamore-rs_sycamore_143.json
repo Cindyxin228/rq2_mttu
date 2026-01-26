@@ -1,0 +1,1 @@
+["packages/sycamore-macro/src/template/attributes.rs", "packages/sycamore/src/generic_node.rs", "packages/sycamore/src/generic_node/dom_node.rs", "packages/sycamore/src/generic_node/ssr_node.rs", "packages/sycamore/src/rx/effect.rs", "packages/sycamore/src/rx/signal.rs", "packages/sycamore/src/template.rs"]

@@ -1,0 +1,1 @@
+["core/src/worker/workflow/machines/nexus_operation_state_machine.rs", "sdk-core-protos/protos/local/temporal/sdk/core/nexus/nexus.proto", "sdk-core-protos/protos/local/temporal/sdk/core/workflow_commands/workflow_commands.proto", "sdk/src/workflow_context/options.rs", "tests/integ_tests/workflow_tests/nexus.rs"]

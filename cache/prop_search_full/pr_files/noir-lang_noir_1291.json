@@ -1,0 +1,1 @@
+["crates/nargo_cli/tests/test_data/array_dynamic/Prover.toml", "crates/nargo_cli/tests/test_data/array_dynamic/src/main.nr", "crates/noirc_evaluator/src/ssa/acir_gen.rs", "crates/noirc_evaluator/src/ssa/acir_gen/acir_mem.rs", "crates/noirc_evaluator/src/ssa/mem.rs"]

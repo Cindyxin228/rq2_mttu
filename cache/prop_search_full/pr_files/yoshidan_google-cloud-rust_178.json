@@ -1,0 +1,1 @@
+["spanner-derive/tests/test.rs", "spanner/Cargo.toml", "spanner/src/lib.rs", "spanner/src/row.rs", "spanner/src/statement.rs", "spanner/src/value.rs", "spanner/tests/common.rs", "spanner/tests/transaction_ro_test.rs"]

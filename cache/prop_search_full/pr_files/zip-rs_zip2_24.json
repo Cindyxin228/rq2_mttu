@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/read_entry.rs", "benches/read_metadata.rs", "examples/write_dir.rs", "examples/write_sample.rs", "fuzz/fuzz_targets/fuzz_write.rs", "src/read.rs", "src/types.rs", "src/unstable.rs", "src/write.rs", "tests/end_to_end.rs", "tests/zip_crypto.rs"]

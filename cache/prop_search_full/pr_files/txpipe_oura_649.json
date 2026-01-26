@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/SUMMARY.md", "book/src/sinks/README.md", "book/src/sinks/file_rotate.md", "src/sinks/_pending/common/mod.rs", "src/sinks/_pending/common/web.rs", "src/sinks/_pending/logs/mod.rs", "src/sinks/_pending/logs/run.rs", "src/sinks/_pending/logs/setup.rs", "src/sinks/file_rotate.rs", "src/sinks/mod.rs"]

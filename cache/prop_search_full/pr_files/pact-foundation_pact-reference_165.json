@@ -1,0 +1,1 @@
+["php/pact/http-consumer-1-http-provider.json", "php/pact/http-consumer-2-http-provider.json", "php/pact/message-consumer-2-message-provider.json", "php/public/proxy.php", "php/src/consumer-1.php", "php/src/consumer-2.php", "php/src/provider.php", "rust/pact_ffi/src/verifier/handle.rs", "rust/pact_ffi/src/verifier/mod.rs"]

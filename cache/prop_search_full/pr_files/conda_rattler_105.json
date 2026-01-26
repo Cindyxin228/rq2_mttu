@@ -1,0 +1,1 @@
+["crates/rattler_conda_types/src/channel_data.rs", "crates/rattler_conda_types/src/match_spec/mod.rs", "crates/rattler_conda_types/src/package/link.rs", "crates/rattler_conda_types/src/package/paths.rs", "crates/rattler_conda_types/src/prefix_record.rs", "crates/rattler_conda_types/src/repo_data/mod.rs"]

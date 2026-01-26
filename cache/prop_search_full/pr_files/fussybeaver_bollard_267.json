@@ -1,0 +1,1 @@
+["Cargo.toml", "codegen/pom.xml", "codegen/src/main/resources/bollard/Cargo.mustache", "codegen/src/main/resources/bollard/models.mustache", "codegen/target/generated-sources/Cargo.toml", "codegen/target/generated-sources/README.md", "codegen/target/generated-sources/src/models.rs"]

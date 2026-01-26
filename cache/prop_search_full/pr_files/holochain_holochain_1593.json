@@ -1,0 +1,1 @@
+["crates/hc_bundle/CHANGELOG.md", "crates/hc_bundle/src/cli.rs", "crates/hc_bundle/src/packing.rs", "crates/holochain_types/src/app/app_manifest/app_manifest_v1.rs", "crates/mr_bundle/src/bundle.rs", "crates/mr_bundle/src/lib.rs", "crates/mr_bundle/src/packing.rs"]

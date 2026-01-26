@@ -1,0 +1,1 @@
+["cli/tauri-bundler/Cargo.toml", "cli/tauri-bundler/src/bundle.rs", "cli/tauri-bundler/src/bundle/settings.rs", "cli/tauri-bundler/src/bundle/tauri_config.rs", "cli/tauri-bundler/src/main.rs", "cli/tauri.js/src/template/defaultConfig.ts", "cli/tauri.js/templates/src-tauri/Cargo.toml"]

@@ -1,0 +1,1 @@
+["src/librustc_mir/transform/qualify_consts.rs", "src/test/ui/consts/const_let_promote.rs"]

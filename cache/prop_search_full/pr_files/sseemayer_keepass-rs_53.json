@@ -1,0 +1,1 @@
+["src/db.rs", "src/parse/kdb.rs", "src/parse/kdbx3.rs", "src/xml_parse.rs", "tests/entry_tests.rs"]

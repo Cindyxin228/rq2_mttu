@@ -1,0 +1,1 @@
+["fedimint-core/src/encoding/btc.rs", "fedimint-core/src/encoding/mod.rs", "fedimint-core/src/macros.rs", "fedimint-core/src/tiered_multi.rs", "fedimint-derive/src/lib.rs", "fuzz/src/lib.rs"]

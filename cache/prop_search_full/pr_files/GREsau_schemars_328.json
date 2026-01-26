@@ -1,0 +1,1 @@
+["schemars/tests/ui/invalid_validation_attrs.rs", "schemars/tests/ui/invalid_validation_attrs.stderr", "schemars/tests/validate.rs", "schemars_derive/src/attr/mod.rs", "schemars_derive/src/attr/validation.rs"]

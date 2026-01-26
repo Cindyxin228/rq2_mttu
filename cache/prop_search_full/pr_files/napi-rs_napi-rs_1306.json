@@ -1,0 +1,1 @@
+["crates/napi/src/env.rs", "crates/napi/src/js_values/deferred.rs", "crates/napi/src/js_values/mod.rs", "crates/napi/src/lib.rs", "crates/napi/src/promise.rs", "crates/napi/src/tokio_runtime.rs", "examples/napi-compat-mode/__test__/napi4/deferred.spec.ts", "examples/napi-compat-mode/src/napi4/deferred.rs", "examples/napi-compat-mode/src/napi4/mod.rs"]

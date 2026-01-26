@@ -1,0 +1,1 @@
+[".github/workflows/rust-clippy.yml", ".github/workflows/rust.yml", "src/armor.rs", "src/crypto.rs", "src/file.rs", "src/format.rs", "src/hash.rs", "src/kdf.rs", "src/keymap.rs", "src/lib.rs", "src/streaming.rs", "src/types.rs", "tests/chunk_limits.rs", "tests/stream_header_checks.rs"]

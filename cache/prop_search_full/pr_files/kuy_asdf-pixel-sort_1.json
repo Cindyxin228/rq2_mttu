@@ -1,0 +1,1 @@
+["README.md", "assets/sample.png", "src/color.rs", "src/finder/find_by_black.rs", "src/finder/find_by_brightness.rs", "src/finder/mod.rs", "src/line_sorter.rs", "src/sort.rs", "tests/p1-black_default.bmp", "tests/p1-brightness_default.bmp"]

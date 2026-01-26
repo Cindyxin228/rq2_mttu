@@ -1,0 +1,1 @@
+["src/cargo/core/resolver/dep_cache.rs", "src/cargo/core/resolver/features.rs", "src/cargo/core/workspace.rs", "src/cargo/ops/tree/graph.rs", "tests/testsuite/features2.rs", "tests/testsuite/features_namespaced.rs", "tests/testsuite/tree_graph_features.rs"]

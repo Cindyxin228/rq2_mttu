@@ -1,0 +1,1 @@
+["core/dtn7/src/core/application_agent.rs", "core/dtn7/src/core/processing.rs", "core/dtn7/src/lib.rs", "run_all_tests.sh", "tests/local_ping_echo.sh", "tests/store_delete_singleton.sh"]

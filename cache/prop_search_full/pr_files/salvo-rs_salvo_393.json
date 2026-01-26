@@ -1,0 +1,1 @@
+["crates/core/src/conn/quinn/builder.rs", "crates/core/src/http/request.rs", "crates/core/src/serde/request.rs", "crates/oapi-macros/src/lib.rs", "crates/oapi-macros/src/serde.rs", "examples/db-graphql/src/query.rs", "examples/otel-jaeger/src/exporter.rs", "examples/with-listenfd/src/main.rs"]

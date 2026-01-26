@@ -1,0 +1,1 @@
+["schemars/Cargo.toml", "schemars/src/json_schema_impls/mod.rs", "schemars/src/json_schema_impls/smol_str.rs", "schemars/tests/expected/smol_str.json", "schemars/tests/smol_str.rs"]

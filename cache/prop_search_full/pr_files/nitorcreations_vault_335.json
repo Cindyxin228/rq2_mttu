@@ -1,0 +1,1 @@
+["common.sh", "go/README.md", "go/build.sh", "go/cli/cli.go", "go/cli/version.go", "go/go.mod", "go/go.sum", "go/main.go", "go/nvault/vault.go", "go/update_version.sh"]

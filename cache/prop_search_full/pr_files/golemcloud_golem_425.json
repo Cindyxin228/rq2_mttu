@@ -1,0 +1,1 @@
+["Makefile.toml", "golem-cli/src/api_definition.rs", "golem-cli/src/clients/api_definition.rs", "golem-cli/src/model/text.rs", "golem-cli/tests/api_definition.rs", "golem-cli/tests/main.rs", "golem-cli/tests/text.rs", "golem-cli/tests/worker.rs"]

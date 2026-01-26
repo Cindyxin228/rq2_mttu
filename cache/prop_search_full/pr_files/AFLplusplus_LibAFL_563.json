@@ -1,0 +1,1 @@
+["fuzzers/backtrace_baby_fuzzers/forkserver_executor/src/main.rs", "fuzzers/backtrace_baby_fuzzers/rust_code_with_inprocess_executor/src/main.rs", "fuzzers/libfuzzer_libpng_ctx/src/lib.rs", "fuzzers/libfuzzer_libpng_launcher/src/lib.rs", "fuzzers/libfuzzer_stb_image/src/main.rs", "libafl/src/bolts/mod.rs"]

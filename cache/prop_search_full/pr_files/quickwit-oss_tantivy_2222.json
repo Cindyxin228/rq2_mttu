@@ -1,0 +1,1 @@
+["columnar/src/lib.rs", "src/core/index.rs", "src/core/inverted_index_reader.rs", "src/core/json_utils.rs", "src/core/mod.rs", "src/core/segment_reader.rs", "src/indexer/mod.rs", "src/lib.rs", "src/schema/field_entry.rs", "src/schema/field_type.rs", "src/schema/schema.rs"]

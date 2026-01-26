@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "benches/main.rs", "benches/massive_ints_array.json", "fuzz/Cargo.lock", "fuzz/Cargo.toml", "fuzz/fuzz_targets/compare_to_serde.rs", "src/jiter.rs", "src/lib.rs", "src/number_decoder.rs", "src/python.rs", "src/value.rs", "tests/main.rs"]

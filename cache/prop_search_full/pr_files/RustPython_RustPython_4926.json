@@ -1,0 +1,1 @@
+["stdlib/src/array.rs", "stdlib/src/bisect.rs", "stdlib/src/contextvars.rs", "stdlib/src/math.rs", "stdlib/src/mmap.rs", "stdlib/src/pyexpat.rs", "stdlib/src/pystruct.rs", "stdlib/src/sqlite.rs", "stdlib/src/ssl.rs", "stdlib/src/syslog.rs", "vm/src/builtins/function.rs", "vm/src/builtins/memory.rs", "vm/src/builtins/str.rs", "vm/src/builtins/weakref.rs"]

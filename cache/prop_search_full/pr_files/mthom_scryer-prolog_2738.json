@@ -1,0 +1,1 @@
+["src/lib/builtins.pl", "src/loader.pl", "src/machine/system_calls.rs", "src/tests/module_resolution.pl", "tests-pl/issue2725.pl", "tests/scryer/cli/src_tests/module_resolution.stderr", "tests/scryer/cli/src_tests/module_resolution.stdout", "tests/scryer/cli/src_tests/module_resolution.toml", "tests/scryer/issues.rs"]

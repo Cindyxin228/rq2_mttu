@@ -1,0 +1,1 @@
+["examples/dart/.gitignore", "examples/dart/analysis_options.yaml", "examples/dart/bin/console_simple.dart", "examples/dart/pubspec.lock", "examples/dart/pubspec.yaml", "src/lib.rs", "src/providers/dart.rs", "src/providers/mod.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "cli/Cargo.toml", "dash/Cargo.toml", "dash/templates/base.html.tera", "dash/templates/index.html.tera", "dash/templates/status.html.tera", "services/Cargo.toml", "services/src/config.rs", "services/src/printnanny_api.rs", "tools/ci/install.sh"]

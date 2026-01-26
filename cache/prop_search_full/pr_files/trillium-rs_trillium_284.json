@@ -1,0 +1,1 @@
+["api/Cargo.toml", "aws-lambda/Cargo.toml", "channels/Cargo.toml", "client/Cargo.toml", "handlebars/Cargo.toml", "logger/Cargo.toml", "static-compiled-macros/Cargo.toml", "tera/Cargo.toml", "websockets/Cargo.toml"]

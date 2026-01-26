@@ -1,0 +1,1 @@
+["README.md", "examples/fluent-crud.rs", "src/db/create.rs", "src/db/delete.rs", "src/db/update.rs", "src/fluent_api/create_builder.rs", "src/fluent_api/delete_builder.rs", "src/fluent_api/mod.rs", "src/fluent_api/query_builder.rs", "src/fluent_api/tests/mockdb.rs", "src/fluent_api/update_builder.rs", "src/lib.rs", "src/struct_path_macro.rs"]

@@ -1,0 +1,1 @@
+["README.md", "src/async_impl/schema_registry.rs", "src/blocking/schema_registry.rs", "src/schema_registry_common.rs", "tests/async_impl/mod.rs", "tests/async_impl/schema_registry_calls.rs", "tests/blocking/mod.rs", "tests/blocking/proto_tests.rs", "tests/blocking/schema_registry_calls.rs", "tests/lib.rs"]

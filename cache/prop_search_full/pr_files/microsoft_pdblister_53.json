@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/bin/Cargo.toml", "crates/symsrv/Cargo.toml", "src/main.rs", "src/pe.rs", "src/symsrv/blocking.rs", "src/symsrv/mod.rs", "src/symsrv/nonblocking.rs"]

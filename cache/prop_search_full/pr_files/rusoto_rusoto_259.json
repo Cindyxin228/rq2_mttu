@@ -1,0 +1,1 @@
+["Cargo.toml", "codegen/Cargo.toml", "src/credential.rs", "src/s3.rs", "src/signature.rs"]

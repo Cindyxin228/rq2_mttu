@@ -1,0 +1,1 @@
+[".ci_extras/pin-crate-vers-msrv.sh", ".ci_extras/pin-crate-vers-nightly.sh", ".cirrus.yml", ".github/workflows/CI.yml", ".github/workflows/CIQuantaDisabled.yml", ".github/workflows/Lints.yml", "Cargo.toml", "src/cht/segment.rs", "src/common/frequency_sketch.rs", "src/notification/notifier.rs", "src/sync/cache.rs", "src/sync/segment.rs", "src/sync_base/invalidator.rs"]

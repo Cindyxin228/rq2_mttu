@@ -1,0 +1,1 @@
+["CHANGELOG.md", "integration_tests/Cargo.toml", "integration_tests/tests/codestar.rs", "rusoto/services/codestar/Cargo.toml", "rusoto/services/codestar/README.md", "rusoto/services/codestar/src/custom/mod.rs", "rusoto/services/codestar/src/generated.rs", "rusoto/services/codestar/src/lib.rs", "service_crategen/services.json"]

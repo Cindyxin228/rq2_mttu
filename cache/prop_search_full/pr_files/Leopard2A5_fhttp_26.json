@@ -1,0 +1,1 @@
+["Cargo.toml", "resources/it/requests/create.http", "resources/it/requests/delete.http", "resources/it/requests/token.http", "resources/it/requests/update.http", "src/request/mod.rs", "tests/integration_test.rs"]

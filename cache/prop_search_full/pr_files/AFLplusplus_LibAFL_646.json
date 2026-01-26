@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng/src/lib.rs", "libafl/src/executors/inprocess.rs", "libafl/src/mutators/gramatron.rs", "libafl/src/schedulers/powersched.rs", "libafl_frida/src/alloc.rs"]

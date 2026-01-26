@@ -1,0 +1,1 @@
+["c2rust-ast-builder/src/builder.rs", "c2rust-transpile/src/convert_type.rs", "c2rust-transpile/src/translator/mod.rs", "c2rust-transpile/src/translator/structs.rs", "c2rust-transpile/src/translator/variadic.rs", "tests/items/src/test_varargs.rs", "tests/items/src/varargs.c"]

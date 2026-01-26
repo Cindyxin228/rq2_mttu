@@ -1,0 +1,1 @@
+["src/cargo/core/resolver/mod.rs", "src/cargo/core/shell.rs", "src/cargo/ops/resolve.rs", "src/cargo/sources/git/utils.rs", "src/cargo/sources/registry/remote.rs", "src/cargo/util/config.rs", "src/cargo/util/mod.rs", "src/cargo/util/progress.rs", "tests/resolve.rs"]

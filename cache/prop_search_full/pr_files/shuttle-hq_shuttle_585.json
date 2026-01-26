@@ -1,0 +1,1 @@
+["cargo-shuttle/src/lib.rs", "deployer/src/deployment/run.rs", "proto/runtime.proto", "runtime/src/axum/mod.rs", "runtime/src/legacy/mod.rs"]

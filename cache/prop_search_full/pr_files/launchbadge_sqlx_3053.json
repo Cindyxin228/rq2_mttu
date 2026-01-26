@@ -1,0 +1,1 @@
+[".github/workflows/sqlx.yml", "Cargo.toml", "sqlx-postgres/src/types/bigdecimal-range.md", "sqlx-postgres/src/types/bigdecimal.rs", "sqlx-postgres/src/types/mod.rs", "sqlx-postgres/src/types/rust_decimal-range.md", "sqlx-postgres/src/types/rust_decimal.rs", "tests/postgres/postgres.rs", "tests/sqlite/sqlcipher.rs"]

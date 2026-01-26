@@ -1,0 +1,1 @@
+["cli/flags.rs", "cli/tests/integration/task_tests.rs", "cli/tests/testdata/task/deno.json", "cli/tests/testdata/task/task_cwd.out", "cli/tests/testdata/task/task_no_args.out", "cli/tests/testdata/task/task_non_existent.out", "cli/tools/task.rs"]

@@ -1,0 +1,1 @@
+["cli/src/main.rs", "cli/templates/authemail.html.tera", "cli/templates/authtoken.html.tera", "cli/templates/base.html.tera", "cli/templates/error.html.tera", "cli/templates/index.html.tera", "cli/templates/issue.html.tera", "dash/src/home.rs", "dash/src/issue.rs", "dash/src/lib.rs", "dash/src/response.rs", "services/src/config.rs", "services/src/printnanny_api.rs"]

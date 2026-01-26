@@ -1,0 +1,1 @@
+["src/base/array_storage.rs", "src/base/blas.rs", "src/base/default_allocator.rs", "src/base/edition.rs", "src/base/matrix_slice.rs", "src/base/ops.rs", "src/base/storage.rs", "src/base/vec_storage.rs", "src/linalg/inverse.rs"]

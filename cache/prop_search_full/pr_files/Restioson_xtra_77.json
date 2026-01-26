@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "examples/basic_async_std.rs", "examples/basic_wasm_bindgen/src/lib.rs", "examples/crude_bench.rs", "src/lib.rs", "src/send_future.rs"]

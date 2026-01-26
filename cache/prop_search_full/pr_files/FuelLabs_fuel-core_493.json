@@ -1,0 +1,1 @@
+["fuel-client/assets/schema.sdl", "fuel-client/src/client.rs", "fuel-client/src/client/schema/block.rs", "fuel-client/src/client/schema/snapshots/fuel_gql_client__client__schema__block__tests__block_mutation_query_gql_output.snap", "fuel-core/src/schema/block.rs", "fuel-tests/tests/blocks.rs"]

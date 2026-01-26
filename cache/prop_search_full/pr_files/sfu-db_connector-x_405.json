@@ -1,0 +1,1 @@
+["Cargo.lock", "connectorx/Cargo.toml", "connectorx/src/destinations/arrow/arrow_assoc.rs", "connectorx/src/sources/sqlite/mod.rs", "connectorx/src/transports/postgres_arrow.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "hydro_deploy/core/Cargo.toml", "hydro_deploy/core/src/hydroflow_crate/perf_options.rs", "hydro_deploy/core/src/hydroflow_crate/service.rs", "hydro_deploy/core/src/localhost/mod.rs", "hydro_deploy/core/src/ssh.rs", "hydroflow_plus_test/examples/perf_compute_pi.rs"]

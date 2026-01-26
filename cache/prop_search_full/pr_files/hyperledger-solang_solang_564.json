@@ -1,0 +1,1 @@
+[".github/workflows/build-llvm.yml", ".github/workflows/release.yml", "docs/running.rst", "src/bin/solang.rs", "src/emit/mod.rs", "src/emit/solana.rs", "src/sema/expression.rs", "tests/solana_tests/expressions.rs", "tests/undefined_variable_detection.rs", "tests/unused_variable_detection.rs", "vscode/src/utils/getServer.ts"]

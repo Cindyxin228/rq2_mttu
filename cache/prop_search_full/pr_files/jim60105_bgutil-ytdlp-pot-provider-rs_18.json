@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/config/loader.rs", "src/config/mod.rs", "src/config/settings.rs", "src/error/formatting.rs", "src/error/mod.rs", "src/error/types.rs", "src/lib.rs", "src/server/handlers.rs", "src/session/botguard.rs", "src/session/innertube.rs", "src/session/network.rs", "src/utils/cache.rs"]

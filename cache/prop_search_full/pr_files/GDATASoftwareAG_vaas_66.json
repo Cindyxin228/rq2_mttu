@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "dotnet/Vaas/src/Vaas/Vaas.cs", "dotnet/Vaas/test/Vaas.Test/IntegrationTests.cs", "java/src/main/java/de/gdata/vaas/WsConfig.java", "java/src/test/java/de/gdata/test/integration/RealApiIntegrationTests.java", "php/src/vaas/Vaas.php", "php/tests/vaas/VaasTest.php", "rust/tests/real_api_integration_tests.rs"]

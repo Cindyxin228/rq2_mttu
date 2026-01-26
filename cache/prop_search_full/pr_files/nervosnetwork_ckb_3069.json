@@ -1,0 +1,1 @@
+[".github/workflows/ci_linters_windows.yaml", ".github/workflows/ci_quick_checks_macos.yaml", ".github/workflows/ci_quick_checks_windows.yaml", "devtools/ci/ci_main.sh"]

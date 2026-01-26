@@ -1,0 +1,1 @@
+["examples/secret_reflector.rs", "kube-client/Cargo.toml", "kube-client/src/api/entry.rs", "kube-client/src/client/auth/mod.rs", "kube-client/src/client/auth/oidc.rs", "kube-client/src/client/mod.rs", "kube-client/src/lib.rs", "kube-runtime/src/events.rs", "kube-runtime/src/reflector/object_ref.rs", "kube/src/mock_tests.rs"]

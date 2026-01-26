@@ -1,0 +1,1 @@
+["c2rust-refactor/gen/ast.txt", "c2rust-refactor/gen/mac_table.py", "c2rust-refactor/src/ast_manip/util.rs", "c2rust-refactor/src/collapse/deleted.rs", "c2rust-refactor/src/collapse/mac_table.rs", "c2rust-refactor/src/collapse/macros.rs", "c2rust-refactor/src/command.rs"]

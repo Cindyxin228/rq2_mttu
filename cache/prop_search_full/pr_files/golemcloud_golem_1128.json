@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "golem-component-compilation-service/docker/Dockerfile", "golem-component-service/docker/Dockerfile", "golem-shard-manager/docker/Dockerfile", "golem-worker-executor/docker/Dockerfile", "golem-worker-service/docker/Dockerfile"]

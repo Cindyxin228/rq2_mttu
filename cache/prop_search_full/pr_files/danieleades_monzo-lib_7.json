@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", ".rustfmt.toml", "Cargo.toml", "src/client.rs", "src/client/quick.rs", "src/client/refreshable.rs", "src/endpoints.rs", "src/endpoints/accounts.rs", "src/endpoints/balance.rs", "src/endpoints/feed_items.rs", "src/endpoints/pots.rs", "src/endpoints/pots/deposit.rs", "src/endpoints/transactions.rs", "src/lib.rs"]

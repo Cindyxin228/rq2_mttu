@@ -1,0 +1,1 @@
+[".github/workflows/build.sh", ".github/workflows/coverage.yml", ".github/workflows/releases.yaml", ".github/workflows/run-tests.yaml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "README.md", "src/asvo/mod.rs", "src/asvo/types.rs", "src/bin/giant-squid.rs", "src/obsid.rs"]

@@ -1,0 +1,1 @@
+["client/client.rs", "client/commands/restart.rs", "client/output.rs", "daemon/instructions.rs", "daemon/main.rs", "shared/aliasing.rs", "shared/lib.rs", "shared/message.rs", "shared/settings.rs", "shared/task.rs"]

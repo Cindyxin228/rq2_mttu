@@ -1,0 +1,1 @@
+["bindings/ldk_node.udl", "src/payment/onchain.rs", "src/payment/unified_qr.rs", "src/uniffi_types.rs", "src/wallet/mod.rs", "tests/integration_tests_rust.rs"]

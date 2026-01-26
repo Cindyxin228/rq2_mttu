@@ -1,0 +1,1 @@
+["crates/hir_ty/src/autoderef.rs", "crates/hir_ty/src/method_resolution.rs", "crates/hir_ty/src/tests/method_resolution.rs", "crates/ide/src/syntax_highlighting/tests.rs", "crates/test_utils/src/minicore.rs"]

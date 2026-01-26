@@ -1,0 +1,1 @@
+["Cargo.toml", "golem-cli/Cargo.toml", "golem-cli/tests/worker.rs", "golem-common/src/model/exports.rs", "golem-common/src/model/public_oplog.rs", "golem-worker-executor-base/src/model/public_oplog/mod.rs", "golem-worker-executor-base/tests/api.rs", "golem-worker-executor-base/tests/observability.rs", "integration-tests/tests/worker.rs"]

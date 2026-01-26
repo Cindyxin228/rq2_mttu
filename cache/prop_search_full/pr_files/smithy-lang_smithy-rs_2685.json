@@ -1,0 +1,1 @@
+["CHANGELOG.next.toml", "examples/pokemon-service-lambda/Cargo.toml", "rust-runtime/aws-smithy-http-server-python/Cargo.toml", "rust-runtime/aws-smithy-http-server/Cargo.toml", "rust-runtime/aws-smithy-http-server/src/routing/lambda_handler.rs"]

@@ -1,0 +1,1 @@
+["src/base.rs", "src/commands.rs", "src/config.rs", "src/keybindings.rs", "src/main.rs", "src/message/html.rs", "src/message/mod.rs", "src/message/printer.rs", "src/util.rs", "src/windows/mod.rs", "src/windows/room/chat.rs", "src/windows/room/mod.rs", "src/windows/room/scrollback.rs", "src/windows/room/space.rs", "src/windows/welcome.rs", "src/worker.rs"]

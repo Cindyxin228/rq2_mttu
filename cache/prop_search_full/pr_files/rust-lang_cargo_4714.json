@@ -1,0 +1,1 @@
+["src/cargo/core/resolver/mod.rs", "src/cargo/ops/lockfile.rs", "tests/lockfile-compat.rs"]

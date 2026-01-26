@@ -1,0 +1,1 @@
+["datafusion/proto/proto/datafusion.proto", "datafusion/proto/src/generated/pbjson.rs", "datafusion/proto/src/generated/prost.rs", "datafusion/proto/src/physical_plan/from_proto.rs", "datafusion/proto/src/physical_plan/to_proto.rs", "datafusion/proto/tests/cases/roundtrip_physical_plan.rs"]

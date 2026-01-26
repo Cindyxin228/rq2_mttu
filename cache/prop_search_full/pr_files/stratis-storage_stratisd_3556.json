@@ -1,0 +1,1 @@
+[".githooks/pre-commit", ".github/workflows/main.yml", ".isort.cfg", "Makefile", "src/bin/utils/stratis-decode-dm"]

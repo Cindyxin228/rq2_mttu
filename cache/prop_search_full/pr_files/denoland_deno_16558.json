@@ -1,0 +1,1 @@
+["cli/lockfile.rs", "cli/tests/integration/run_tests.rs", "cli/tests/testdata/run/lock_only_http_and_https/b.ts", "cli/tests/testdata/run/lock_only_http_and_https/deno.lock", "cli/tests/testdata/run/lock_only_http_and_https/main.out", "cli/tests/testdata/run/lock_only_http_and_https/main.ts"]

@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "README.md", "docs/installation.md", "docs/manual/hurl.1", "docs/manual/hurlfmt.1", "packages/hurl/Cargo.toml", "packages/hurl/README.md", "packages/hurl_core/Cargo.toml", "packages/hurlfmt/Cargo.toml"]

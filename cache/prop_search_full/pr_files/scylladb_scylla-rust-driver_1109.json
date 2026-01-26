@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/response/result.rs", "scylla/src/statement/prepared_statement.rs", "scylla/src/transport/iterator.rs", "scylla/src/transport/query_result.rs"]

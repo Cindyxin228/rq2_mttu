@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/bart/bart_model.rs", "src/bart/mod.rs", "src/gpt2/gpt2_model.rs", "src/marian/marian_model.rs", "src/openai_gpt/openai_gpt_model.rs", "src/pipelines/generation_utils.rs", "src/reformer/embeddings.rs", "src/reformer/reformer_model.rs", "src/t5/t5_model.rs", "src/xlnet/xlnet_model.rs", "tests/bart.rs"]

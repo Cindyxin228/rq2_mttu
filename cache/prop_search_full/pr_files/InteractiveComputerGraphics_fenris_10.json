@@ -1,0 +1,1 @@
+["src/assembly.rs", "src/assembly/buffers.rs", "src/assembly/global.rs", "src/assembly/local/elliptic.rs", "src/assembly/local/mass.rs", "src/assembly/local/source.rs", "src/error.rs", "src/integrate.rs", "tests/unit_tests/assembly/global.rs", "tests/unit_tests/assembly/local.rs"]

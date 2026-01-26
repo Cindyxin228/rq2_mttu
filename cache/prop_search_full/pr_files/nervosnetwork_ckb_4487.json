@@ -1,0 +1,1 @@
+["rpc/src/tests/module/pool.rs", "test/src/specs/tx_pool/limit.rs", "test/src/specs/tx_pool/send_tx_chain.rs", "util/app-config/src/legacy/tx_pool.rs"]

@@ -1,0 +1,1 @@
+["datafusion/core/src/datasource/physical_plan/mod.rs", "datafusion/core/tests/sqllogictests/test_files/groupby.slt"]

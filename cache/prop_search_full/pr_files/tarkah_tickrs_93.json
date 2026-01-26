@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/app.rs", "src/common.rs", "src/draw.rs", "src/event.rs", "src/main.rs", "src/opts.rs", "src/widget.rs", "src/widget/add_stock.rs", "src/widget/chart/mod.rs", "src/widget/chart/prices_kagi.rs", "src/widget/chart_configuration.rs", "src/widget/help.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

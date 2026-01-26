@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "atuin-client/Cargo.toml", "atuin-client/src/api_client.rs", "atuin-client/src/history.rs", "atuin-client/src/sync.rs", "atuin-common/Cargo.toml", "atuin-common/src/utils.rs", "atuin-server/Cargo.toml", "src/command/client/history.rs", "src/command/client/search.rs"]

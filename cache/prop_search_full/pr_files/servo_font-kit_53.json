@@ -1,0 +1,1 @@
+["examples/list-fonts.rs", "src/source.rs", "src/sources/core_text.rs", "src/sources/directwrite.rs", "src/sources/fontconfig.rs", "src/sources/fs.rs", "src/sources/mem.rs", "src/sources/multi.rs"]

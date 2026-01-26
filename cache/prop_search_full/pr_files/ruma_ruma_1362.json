@@ -1,0 +1,1 @@
+["crates/ruma-common/Cargo.toml", "crates/ruma-common/benches/event_deserialize.rs", "crates/ruma-state-res/Cargo.toml", "examples/message_log/Cargo.toml", "examples/message_log/src/main.rs", "xtask/Cargo.toml"]

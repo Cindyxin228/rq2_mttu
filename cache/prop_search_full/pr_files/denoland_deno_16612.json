@@ -1,0 +1,1 @@
+["cli/graph_util.rs", "cli/npm/resolution/specifier.rs", "cli/proc_state.rs", "cli/tests/integration/npm_tests.rs", "cli/tests/testdata/npm/remote_npm_specifier/main.out", "cli/tests/testdata/npm/remote_npm_specifier/main.ts", "cli/tests/testdata/npm/remote_npm_specifier/remote.ts"]

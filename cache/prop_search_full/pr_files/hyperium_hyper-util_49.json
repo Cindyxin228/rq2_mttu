@@ -1,0 +1,1 @@
+["examples/client.rs", "src/client/legacy/client.rs", "src/client/legacy/connect/dns.rs", "src/client/legacy/connect/http.rs", "src/client/legacy/connect/mod.rs", "src/client/legacy/mod.rs", "src/client/mod.rs"]

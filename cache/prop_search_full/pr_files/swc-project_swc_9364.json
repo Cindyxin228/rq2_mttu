@@ -1,0 +1,1 @@
+[".changeset/lucky-panthers-cough.md", "crates/swc_ecma_transforms_typescript/src/strip_type.rs", "crates/swc_fast_ts_strip/src/lib.rs", "crates/swc_fast_ts_strip/tests/fixture/single-ts-stmt.js", "crates/swc_fast_ts_strip/tests/fixture/single-ts-stmt.transform.js", "crates/swc_fast_ts_strip/tests/fixture/single-ts-stmt.ts"]

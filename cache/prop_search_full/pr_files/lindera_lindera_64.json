@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "lindera-core/src/core/prefix_dict.rs", "lindera-core/src/core/viterbi.rs", "lindera-core/src/core/word_entry.rs", "lindera-ipadic-builder/src/lib.rs", "lindera-ipadic/lindera-ipadic/unk.bin", "lindera/Cargo.toml", "lindera/README.md", "lindera/examples/userdic_example.rs", "lindera/resources/userdic.csv", "lindera/src/tokenizer.rs"]

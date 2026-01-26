@@ -1,0 +1,1 @@
+["ffi/examples/read-table/arrow.c", "ffi/examples/read-table/read_table.c", "ffi/src/scan.rs", "kernel/examples/inspect-table/src/main.rs", "kernel/examples/read-table-multi-threaded/src/main.rs", "kernel/src/scan/log_replay.rs", "kernel/src/scan/mod.rs", "kernel/src/scan/state.rs", "kernel/tests/read.rs"]

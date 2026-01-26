@@ -1,0 +1,1 @@
+["docs/src/socket-mode.md", "src/client/src/socket_mode/clients_manager.rs", "src/client/src/socket_mode/listener.rs", "src/hyper/src/socket_mode/tokio_clients_manager.rs", "src/hyper/src/socket_mode/tungstenite_wss_client.rs"]

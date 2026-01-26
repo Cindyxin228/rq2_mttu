@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/custom_yaml/variable.rs", "src/dezoomer.rs", "src/iiif/mod.rs", "src/iipimage/mod.rs", "src/krpano/krpano_metadata.rs", "src/krpano/mod.rs", "src/lib.rs", "src/output_file.rs", "src/pff/image_properties.rs", "testdata/krpano/krpano_360cities.xml", "testdata/krpano/krpano_scenes.xml", "tests/local_dezoomifying.rs"]

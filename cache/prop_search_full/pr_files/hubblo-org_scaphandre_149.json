@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/exporters/mod.rs", "src/exporters/stdout.rs", "src/lib.rs", "src/main.rs", "src/sensors/mod.rs", "src/sensors/msr_rapl.rs", "src/sensors/powercap_rapl.rs", "src/sensors/utils.rs"]

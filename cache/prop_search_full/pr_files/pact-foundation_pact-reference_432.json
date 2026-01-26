@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "ruby/detect_os.rb", "ruby/smoke-test.sh", "ruby/test_ffi.rb", "rust/pact_ffi/release-linux.sh", "rust/pact_ffi/release-macos.sh", "rust/pact_ffi/release-win.sh", "rust/pact_verifier_cli/release-linux.sh", "rust/pact_verifier_cli/release-macos.sh", "rust/pact_verifier_cli/release-win.sh", "rust/scripts/gzip-and-sum.sh"]

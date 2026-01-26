@@ -1,0 +1,1 @@
+["contracts/minter/schema/config.json", "contracts/minter/schema/config_response.json", "contracts/minter/schema/execute_msg.json", "contracts/minter/src/contract.rs", "contracts/minter/src/msg.rs", "contracts/minter/src/state.rs", "packages/sg-std/src/msg.rs", "packages/sg-std/src/query.rs", "packages/sg-std/src/route.rs"]

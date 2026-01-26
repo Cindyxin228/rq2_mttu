@@ -1,0 +1,1 @@
+["components/derive/Cargo.toml", "components/merkledb/Cargo.toml", "components/merkledb/src/proof_list_index/tests.rs", "examples/cryptocurrency-advanced/backend/Cargo.toml", "examples/cryptocurrency/Cargo.toml", "examples/timestamping/backend/Cargo.toml", "exonum/Cargo.toml", "services/configuration/Cargo.toml", "services/configuration/src/lib.rs", "services/time/Cargo.toml"]

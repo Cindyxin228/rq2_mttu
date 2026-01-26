@@ -1,0 +1,1 @@
+["src/attrs.rs", "src/bidi_para.rs", "src/buffer.rs", "src/buffer_line.rs", "src/edit/editor.rs", "src/edit/syntect.rs", "src/edit/vi.rs", "src/font/mod.rs", "src/font/system/mod.rs", "src/font/system/no_std.rs", "src/font/system/std.rs", "src/layout.rs", "src/lib.rs", "src/shape.rs", "src/swash.rs"]

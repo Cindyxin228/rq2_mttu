@@ -1,0 +1,1 @@
+["src/cmd/context.rs", "src/cmd/info.rs", "src/cmd/meta.rs", "src/cmd/namespace.rs", "src/kubeconfig.rs", "src/main.rs", "src/session.rs", "src/state.rs"]

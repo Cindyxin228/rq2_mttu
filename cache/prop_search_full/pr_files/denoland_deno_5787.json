@@ -1,0 +1,1 @@
+["cli/js/lib.deno.shared_globals.d.ts", "cli/js/web/body.ts", "cli/js/web/dom_types.d.ts", "cli/js/web/fetch.ts", "cli/js/web/request.ts", "cli/tests/unit/fetch_test.ts"]

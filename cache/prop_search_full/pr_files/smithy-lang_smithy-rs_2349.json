@@ -1,0 +1,1 @@
+["CHANGELOG.next.toml", "codegen-client-test/build.gradle.kts", "codegen-core/common-test-models/naming-obstacle-course-casing.smithy", "codegen-server-test/build.gradle.kts", "codegen-server/src/main/kotlin/software/amazon/smithy/rust/codegen/server/smithy/generators/ServerServiceGenerator.kt"]

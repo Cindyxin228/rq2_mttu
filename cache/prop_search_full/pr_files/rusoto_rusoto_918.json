@@ -1,0 +1,1 @@
+["CHANGELOG.md", "mock/src/lib.rs", "rusoto/core/src/request.rs", "rusoto/core/src/signature.rs", "rusoto/services/s3/src/generated.rs", "service_crategen/src/commands/generate/codegen/rest_response_parser.rs"]

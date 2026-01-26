@@ -1,0 +1,1 @@
+["Cargo.toml", "src/code_blocks/mod.rs", "src/code_blocks/url_preview.rs", "src/data.rs", "src/entity/article.rs", "src/entity/author.rs", "src/entity/issue.rs", "src/entity/page.rs", "src/html.rs", "src/main.rs", "src/markdown/render.rs", "src/meta.rs", "static/zine.js", "zine-entry.css"]

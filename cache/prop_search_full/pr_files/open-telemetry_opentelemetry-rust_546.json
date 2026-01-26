@@ -1,0 +1,1 @@
+["opentelemetry-datadog/Cargo.toml", "opentelemetry-jaeger/Cargo.toml", "opentelemetry-otlp/Cargo.toml", "opentelemetry-zipkin/Cargo.toml", "scripts/lint.sh"]

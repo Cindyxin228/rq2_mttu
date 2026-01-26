@@ -1,0 +1,1 @@
+["crates/component-macro/tests/codegen/rename.wit", "crates/wit-bindgen/src/lib.rs", "crates/wit-bindgen/src/rust.rs"]

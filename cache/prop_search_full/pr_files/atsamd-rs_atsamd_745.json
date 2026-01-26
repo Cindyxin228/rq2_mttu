@@ -1,0 +1,1 @@
+[".github/actions/list-BSPs/action.yml", ".github/workflows/build-bsp.yml", ".github/workflows/build-hal.yml", ".github/workflows/generate-docs.yml", ".github/workflows/rustfmt.yml"]

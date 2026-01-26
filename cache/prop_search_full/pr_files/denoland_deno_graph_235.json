@@ -1,0 +1,1 @@
+["lib/deno_graph_wasm.generated.js", "lib/deno_graph_wasm_bg.wasm", "src/npm.rs", "src/semver/mod.rs", "src/semver/npm.rs", "src/semver/specifier.rs"]

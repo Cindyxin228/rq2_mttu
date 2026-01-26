@@ -1,0 +1,1 @@
+["crates/test-programs/tests/reactor.rs", "crates/test-programs/tests/wasi-sockets.rs", "crates/wasi/src/preview2/command.rs", "crates/wasi/src/preview2/host/tcp.rs", "crates/wasi/src/preview2/mod.rs", "crates/wasi/src/preview2/tcp.rs", "src/commands/run.rs"]

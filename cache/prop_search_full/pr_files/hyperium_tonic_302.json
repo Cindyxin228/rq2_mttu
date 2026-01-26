@@ -1,0 +1,1 @@
+["examples/build.rs", "examples/routeguide-tutorial.md", "interop/build.rs", "tests/extern_path/my_application/build.rs", "tests/included_service/build.rs", "tests/same_name/build.rs", "tests/wellknown/build.rs", "tonic-build/README.md", "tonic-build/src/client.rs", "tonic-build/src/lib.rs", "tonic-build/src/prost.rs", "tonic-build/src/schema.rs", "tonic-build/src/server.rs"]

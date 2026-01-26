@@ -1,0 +1,1 @@
+["go/build.sh", "go/cli/cli.go", "go/cli/version.go", "go/go.mod", "go/go.sum", "go/main.go", "go/update_version.sh", "go/vault/vault.go", "rust/src/cli.rs"]

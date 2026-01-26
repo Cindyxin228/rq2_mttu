@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/directory/error.rs", "src/directory/footer.rs", "src/directory/managed_directory.rs", "src/directory/mod.rs", "src/directory/read_only_source.rs", "src/error.rs", "src/lib.rs", "src/positions/reader.rs", "src/store/compression_lz4.rs", "src/store/compression_snap.rs", "src/store/mod.rs"]

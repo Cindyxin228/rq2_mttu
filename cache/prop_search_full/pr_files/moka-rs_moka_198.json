@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".cirrus.yml", ".github/workflows/CI.yml", "src/sync/cache.rs"]

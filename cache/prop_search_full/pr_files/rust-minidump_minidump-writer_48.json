@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/linux/crash_context/arm.rs", "src/linux/thread_info.rs", "src/linux/thread_info/aarch64.rs", "tests/linux_minidump_writer.rs", "tests/mac_minidump_writer.rs", "tests/ptrace_dumper.rs"]

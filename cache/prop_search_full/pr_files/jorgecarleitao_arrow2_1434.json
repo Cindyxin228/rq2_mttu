@@ -1,0 +1,1 @@
+["src/array/binary/mod.rs", "src/array/list/mod.rs", "src/array/map/mod.rs", "src/array/utf8/mod.rs", "src/compute/aggregate/memory.rs", "src/io/parquet/write/pages.rs", "src/offset.rs"]

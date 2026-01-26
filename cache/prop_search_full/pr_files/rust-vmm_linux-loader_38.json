@@ -1,0 +1,1 @@
+["coverage_config_aarch64.json", "coverage_config_x86_64.json", "src/loader/aarch64/pe/mod.rs", "src/loader/mod.rs", "src/loader/x86_64/bzimage/mod.rs", "src/loader/x86_64/elf/mod.rs"]

@@ -1,0 +1,1 @@
+["cli/src/__test__/parse-triple.spec.ts", "cli/src/artifacts.ts", "cli/src/create-npm-dir.ts", "cli/src/index.ts", "cli/src/js-binding-template.ts", "cli/src/new/ci-template.ts", "cli/src/new/ci-yml.ts", "cli/src/new/index.ts", "cli/src/new/package.ts", "cli/src/parse-triple.ts", "cli/src/universal.ts"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/lsp-async-stub/Cargo.toml", "crates/taplo-cli/Cargo.toml", "crates/taplo-common/Cargo.toml", "crates/taplo-lsp/Cargo.toml", "crates/taplo/CHANGELOG.md", "crates/taplo/Cargo.toml", "editors/vscode/CHANGELOG.md", "editors/vscode/package.json", "js/lsp/package.json"]

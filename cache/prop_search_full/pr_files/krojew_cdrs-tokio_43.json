@@ -1,0 +1,1 @@
+["cassandra-protocol/src/frame/frame_query.rs", "cassandra-protocol/src/query/query_params.rs", "cassandra-protocol/src/query/query_params_builder.rs", "cdrs-tokio/src/cluster/connection_manager.rs", "changelog.md"]

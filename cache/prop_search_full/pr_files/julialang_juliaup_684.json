@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "deploy/msi/Julia.wxs", "deploy/msi/License.rtf", "deploy/msi/WixUI_InstallDir_NoLicense.wxs", "scripts/msi/build_msi.ps1"]

@@ -1,0 +1,1 @@
+["codegen/src/botocore.in.rs", "codegen/src/generator/ec2.rs", "codegen/src/generator/error_types.rs", "codegen/src/generator/json.rs", "codegen/src/generator/mod.rs", "codegen/src/generator/query.rs", "codegen/src/generator/rest_json.rs", "src/credential.rs", "src/error.rs", "src/lib.rs", "src/s3.rs", "src/xmlerror.rs", "tests/s3.rs"]

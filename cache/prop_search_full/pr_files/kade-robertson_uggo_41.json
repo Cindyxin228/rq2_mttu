@@ -1,0 +1,1 @@
+["Cargo.toml", "src/api.rs", "src/config.rs", "src/main.rs", "src/mappings.rs", "src/styling.rs", "src/types/champion.rs", "src/types/client_runepage.rs", "src/types/item.rs", "src/types/matchups.rs", "src/types/overview.rs", "src/util.rs"]

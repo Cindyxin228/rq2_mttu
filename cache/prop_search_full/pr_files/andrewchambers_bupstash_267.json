@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli-tests/cli-tests.bats", "src/client.rs", "src/indexer.rs", "src/main.rs", "src/query.rs", "src/xglobset.rs"]

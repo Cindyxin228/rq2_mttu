@@ -1,0 +1,1 @@
+["crates/swc/tests/tsc-references/emitter.forAwait(target=es2015).1.normal.js", "crates/swc/tests/tsc-references/emitter.forAwait(target=es5).1.normal.js", "crates/swc_ecma_compat_es2017/src/async_to_generator.rs", "crates/swc_ecma_transforms_compat/tests/async-to-generator/issue-8805/1/exec.js", "crates/swc_ecma_transforms_compat/tests/async-to-generator/issue-8805/2/exec.js"]

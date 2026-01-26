@@ -1,0 +1,1 @@
+["core/Cargo.toml", "core/src/types/error.rs", "core/src/types/id.rs", "core/src/types/params.rs", "core/src/types/request.rs", "core/src/types/response.rs", "core/src/types/version.rs", "macros/Cargo.toml", "macros/src/auto_args.rs", "tcp/Cargo.toml"]

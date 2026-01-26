@@ -1,0 +1,1 @@
+["integration/tests_ok/color.err", "packages/hurl/src/cli/mod.rs", "packages/hurl/src/json/result.rs", "packages/hurl/src/main.rs", "packages/hurl/src/report/junit/testcase.rs", "packages/hurl/src/runner/hurl_file.rs", "packages/hurl/src/util/logger.rs", "packages/hurl/tests/libcurl.rs", "packages/hurl/tests/runner.rs"]

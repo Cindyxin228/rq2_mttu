@@ -1,0 +1,1 @@
+["client/py/docs/conf.py", "client/py_async/docs/conf.py", "client/py_async/setup.cfg", "host/Cargo.toml", "host/chain/Cargo.toml", "host/collection/Cargo.toml", "host/collection/src/tensor/shape.rs", "host/error/Cargo.toml", "host/fs/Cargo.toml", "host/generic/Cargo.toml", "host/scalar/Cargo.toml", "host/state/Cargo.toml", "host/transact/Cargo.toml", "host/value/Cargo.toml"]

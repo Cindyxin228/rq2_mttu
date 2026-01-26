@@ -1,0 +1,1 @@
+["examples/basic-cognito-post-confirmation/.gitignore", "examples/basic-cognito-post-confirmation/Cargo.toml", "examples/basic-cognito-post-confirmation/README.md", "examples/basic-cognito-post-confirmation/src/main.rs", "lambda-events/src/event/cognito/mod.rs"]

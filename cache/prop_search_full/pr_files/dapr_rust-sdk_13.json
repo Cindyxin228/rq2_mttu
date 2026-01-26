@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build.rs", "dapr/proto/common/v1/common.proto", "dapr/proto/dapr/v1/dapr.proto", "examples/README.md", "examples/client.rs", "proto/daprclient.proto", "src/client.rs", "src/error.rs", "src/google.protobuf.rs"]

@@ -1,0 +1,1 @@
+["backends/traits/Cargo.toml", "plugins/example-plugin/Cargo.toml", "plugins/zenoh-rest/Cargo.toml", "plugins/zenoh-storages/Cargo.toml", "zenoh-perf/Cargo.toml", "zenoh-protocol/Cargo.toml", "zenoh-router/Cargo.toml", "zenoh-util/Cargo.toml", "zenoh/Cargo.toml"]

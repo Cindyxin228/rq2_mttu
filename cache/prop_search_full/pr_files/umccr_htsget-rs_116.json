@@ -1,0 +1,1 @@
+["deploy/README.md", "deploy/lib/htsget-http-lambda-stack.ts", "deploy/package.json", "htsget-http-actix/Cargo.toml", "htsget-search/Cargo.toml", "htsget-search/src/storage/aws.rs", "htsget-search/src/storage/local.rs", "htsget-search/src/storage/mod.rs", "htsget-search/src/storage/ticket_server.rs", "htsget-test-utils/Cargo.toml"]

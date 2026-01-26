@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "Cargo.lock", "Cargo.toml", "justfile", "src/cli.rs", "src/compiler/detect.rs", "src/debug.rs", "src/main.rs", "src/plugin/manager.rs", "src/server/mod.rs"]

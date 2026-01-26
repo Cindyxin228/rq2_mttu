@@ -1,0 +1,1 @@
+["addons/evm/src/signers/common.rs", "addons/stacks/src/signers/mod.rs", "addons/stacks/src/tests/mod.rs", "addons/svm/src/signers/mod.rs", "crates/txtx-core/src/lib.rs", "crates/txtx-core/src/runbook/execution_context.rs", "crates/txtx-core/src/runbook/workspace_context.rs"]

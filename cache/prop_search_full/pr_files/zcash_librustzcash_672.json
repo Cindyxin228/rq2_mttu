@@ -1,0 +1,1 @@
+["zcash_client_backend/src/wallet.rs", "zcash_client_sqlite/src/prepared.rs", "zcash_client_sqlite/src/wallet.rs", "zcash_client_sqlite/src/wallet/init.rs", "zcash_client_sqlite/src/wallet/init/migrations/addresses_table.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "doc/manual/source/api-endpoints.rst", "doc/manual/source/manual-page.rst", "src/http/delta.rs", "src/http/listener.rs", "src/http/mod.rs", "src/operation.rs", "src/payload/history.rs", "src/rtr.rs"]

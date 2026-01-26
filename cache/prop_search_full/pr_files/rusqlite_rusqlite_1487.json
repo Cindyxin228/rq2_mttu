@@ -1,0 +1,1 @@
+["Cargo.toml", "libsqlite3-sys/bindgen-bindings/bindgen_3.14.0.rs", "libsqlite3-sys/build.rs", "libsqlite3-sys/sqlcipher/bindgen_bundled_version.rs", "libsqlite3-sys/sqlite3/bindgen_bundled_version.rs", "src/auto_extension.rs", "src/lib.rs", "tests/auto_ext.rs"]

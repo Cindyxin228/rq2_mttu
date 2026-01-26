@@ -1,0 +1,1 @@
+["ci.sh", "embassy-nxp/Cargo.toml", "embassy-nxp/src/chips/lpc55.rs", "embassy-nxp/src/gpio.rs", "embassy-nxp/src/gpio/lpc55.rs", "embassy-nxp/src/lib.rs", "embassy-nxp/src/pint.rs", "examples/lpc55s69/Cargo.toml"]

@@ -1,0 +1,1 @@
+["crates/bevy_ui/Cargo.toml", "crates/bevy_ui/src/layout/ui_surface.rs", "crates/bevy_ui/src/measurement.rs", "crates/bevy_ui/src/widget/image.rs", "crates/bevy_ui/src/widget/text.rs"]

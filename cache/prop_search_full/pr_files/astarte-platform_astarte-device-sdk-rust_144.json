@@ -1,0 +1,1 @@
+[".github/workflows/build-workflow.yaml", ".github/workflows/e2e-test.yaml", ".gitignore", ".reuse/dep5", "Cargo.lock", "Cargo.toml", "astarte-device-sdk-derive/Cargo.lock"]

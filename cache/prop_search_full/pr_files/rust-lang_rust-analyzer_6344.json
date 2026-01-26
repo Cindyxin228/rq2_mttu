@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/hir_ty/Cargo.toml", "crates/ide_db/Cargo.toml", "crates/rust-analyzer/Cargo.toml", "crates/syntax/Cargo.toml"]

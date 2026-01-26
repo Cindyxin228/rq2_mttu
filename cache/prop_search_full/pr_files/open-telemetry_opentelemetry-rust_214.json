@@ -1,0 +1,1 @@
+["examples/zipkin/src/main.rs", "opentelemetry-otlp/src/lib.rs", "opentelemetry-zipkin/Cargo.toml", "opentelemetry-zipkin/src/lib.rs", "opentelemetry-zipkin/src/model/annotation.rs", "opentelemetry-zipkin/src/model/endpoint.rs", "opentelemetry-zipkin/src/model/mod.rs", "opentelemetry-zipkin/src/model/span.rs", "opentelemetry-zipkin/src/uploader.rs"]

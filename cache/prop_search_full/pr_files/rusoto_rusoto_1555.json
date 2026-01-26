@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "rusoto/core/Cargo.toml", "rusoto/core/src/lib.rs", "rusoto/core/src/region.rs", "rusoto/core/src/request.rs", "rusoto/core/src/signature.rs", "rusoto/core/src/stream.rs", "rusoto/signature/Cargo.toml", "rusoto/signature/src/lib.rs", "rusoto/signature/src/region.rs", "rusoto/signature/src/signature.rs", "rusoto/signature/src/stream.rs"]

@@ -1,0 +1,1 @@
+["src/client/auth/scram.rs", "src/client/options/mod.rs", "src/cmap/conn/wire/header.rs", "src/concern/mod.rs", "src/operation/mod.rs", "src/sdam/description/topology/server_selection/test.rs", "src/selection_criteria.rs"]

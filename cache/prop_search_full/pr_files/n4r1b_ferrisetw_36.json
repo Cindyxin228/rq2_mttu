@@ -1,0 +1,1 @@
+["examples/kernel_trace.rs", "examples/multiple_providers.rs", "examples/user_trace.rs", "src/lib.rs", "src/native/etw_types.rs", "src/native/etw_types/event_record.rs", "src/native/etw_types/extended_data.rs", "src/native/evntrace.rs", "src/native/tdh.rs", "src/parser.rs", "src/provider.rs", "src/schema.rs", "src/trace.rs"]

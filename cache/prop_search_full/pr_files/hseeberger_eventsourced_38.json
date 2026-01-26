@@ -1,0 +1,1 @@
+["eventsourced-nats/src/evt_log.rs", "eventsourced-postgres/src/evt_log.rs", "eventsourced/src/evt_log.rs", "eventsourced/src/lib.rs"]

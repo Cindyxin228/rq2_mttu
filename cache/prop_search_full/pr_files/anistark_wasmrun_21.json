@@ -1,0 +1,1 @@
+["src/commands/run.rs", "src/commands/verify.rs", "src/config/constants.rs", "src/config/mod.rs", "src/config/plugin.rs", "src/config/server.rs", "src/debug.rs", "src/main.rs", "src/plugin/external.rs", "src/plugin/manager.rs", "src/plugin/mod.rs", "src/plugin/registry.rs", "src/server/mod.rs", "src/server/utils.rs"]

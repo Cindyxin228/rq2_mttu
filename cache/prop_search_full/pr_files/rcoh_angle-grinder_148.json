@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/alias.rs", "src/bin/agrind.rs", "src/errors.rs", "src/lang.rs", "src/lib.rs", "src/typecheck.rs", "tests/integration.rs", "tests/structured_tests/parse_error_double_from.toml", "tests/structured_tests/parse_error_missing_operand.toml"]

@@ -1,0 +1,1 @@
+["cts_runner/test.lst", "deno_webgpu/buffer.rs", "deno_webgpu/texture.rs", "player/src/lib.rs", "wgpu-core/src/device/global.rs", "wgpu-core/src/device/resource.rs", "wgpu-core/src/resource.rs", "wgpu-hal/src/dx12/suballocation.rs", "wgpu/src/backend/wgpu_core.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "_typos.toml", "config/config.d/rule_gfw.yaml", "config/config.yaml", "src/cli.rs", "src/config/dns_table.rs", "src/config/load.rs", "src/dns/dns_handler.rs", "src/dns/dns_server.rs", "src/metrics.rs"]

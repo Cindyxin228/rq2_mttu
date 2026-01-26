@@ -1,0 +1,1 @@
+["Cargo.toml", "src/codegen.rs", "src/commands.rs", "src/compile/latex.rs", "src/compile/vesti.rs", "src/constants.rs", "src/lexer/mod.rs", "src/lexer/token.rs", "src/main.rs", "src/parser/mod.rs", "src/parser/parser_test.rs"]

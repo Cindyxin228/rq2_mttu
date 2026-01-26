@@ -1,0 +1,1 @@
+["compiler/rustc_typeck/src/astconv/mod.rs", "compiler/rustc_typeck/src/check/mod.rs", "compiler/rustc_typeck/src/collect.rs", "src/test/ui/issues/issue-74086.stderr", "src/test/ui/issues/issue-81885.rs", "src/test/ui/issues/issue-81885.stderr", "src/test/ui/typeck/typeck_type_placeholder_item_help.stderr"]

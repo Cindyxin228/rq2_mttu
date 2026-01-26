@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/album.rs", "examples/track.rs", "examples/tracks.rs", "examples/with_refresh_token.rs", "src/client.rs", "src/model/enums/types.rs", "src/model/idtypes.rs", "src/model/mod.rs", "src/model/offset.rs", "src/model/track.rs", "tests/test_models.rs", "tests/test_with_credential.rs", "tests/test_with_oauth.rs"]

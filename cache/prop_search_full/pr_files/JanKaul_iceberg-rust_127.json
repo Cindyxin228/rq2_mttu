@@ -1,0 +1,1 @@
+["datafusion_iceberg/src/materialized_view/mod.rs", "datafusion_iceberg/src/table.rs", "datafusion_iceberg/tests/equality_delete.rs", "iceberg-rust/src/materialized_view/transaction/mod.rs", "iceberg-rust/src/table/transaction/mod.rs", "iceberg-rust/src/table/transaction/operation.rs"]

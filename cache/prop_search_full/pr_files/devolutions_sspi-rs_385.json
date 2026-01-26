@@ -1,0 +1,1 @@
+["ffi/build.rs", "ffi/sspi_base.def", "ffi/sspi_dpapi.def", "ffi/sspi_winscard.def"]

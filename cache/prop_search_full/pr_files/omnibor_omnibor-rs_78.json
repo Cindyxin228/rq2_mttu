@@ -1,0 +1,1 @@
+["Cargo.toml", "gitoid/Cargo.toml", "gitoid/Makefile", "gitoid/cbindgen.toml", "gitoid/src/ffi/gitoid.rs", "gitoid/src/gitoid.rs", "gitoid/test/.gitignore", "gitoid/test/c/test.c", "omnibor/Cargo.toml", "omnibor/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "core/Cargo.toml", "core/icudtl.dat", "core/inspector.rs", "core/runtime.rs", "runtime/Cargo.toml", "serde_v8/Cargo.toml", "tools/wpt/expectation.json"]

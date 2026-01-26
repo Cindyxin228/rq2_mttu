@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/esthri/Cargo.toml", "crates/esthri/src/rusoto.rs", "crates/esthri/tests/integration/upload_test.rs"]

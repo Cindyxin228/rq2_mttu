@@ -1,0 +1,1 @@
+["crates/ecs/src/component_registry.rs", "crates/ecs/src/stream.rs", "crates/network/src/diff_serialization.rs", "crates/network/src/proto/client.rs", "crates/network/src/proto/mod.rs", "crates/network/src/proto/server.rs"]

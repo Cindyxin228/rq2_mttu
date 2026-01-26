@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "cli/src/main.rs", "cli/src/new.rs", "cli/src/print.rs", "server/default.env", "server/openapi.yml", "server/src/config.rs", "server/src/content_types.rs", "server/src/handlers/single_page_app.rs", "server/templates/atomic-data-browser.html"]

@@ -1,0 +1,1 @@
+["crates/exec-wasmtime/src/config.rs", "crates/exec-wasmtime/src/loader/compiled/mod.rs", "tests/wasm/mod.rs"]

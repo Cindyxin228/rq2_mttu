@@ -1,0 +1,1 @@
+["crates/holochain/CHANGELOG.md", "crates/holochain/src/core/sys_validate.rs", "crates/holochain/tests/integrity_zome/mod.rs", "crates/holochain/tests/sharded_gossip/mod.rs", "crates/kitsune_p2p/kitsune_p2p/CHANGELOG.md", "crates/kitsune_p2p/proxy/src/bin/kitsune-p2p-tx2-proxy.rs", "crates/kitsune_p2p/proxy/src/bin/proxy-tx2-cli.rs", "crates/kitsune_p2p/types/src/config.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "srp/Cargo.toml", "srp/src/client.rs", "srp/src/lib.rs", "srp/src/prime.bin", "srp/src/server.rs", "srp/src/test/k_sha1_1024.bin", "srp/src/types.rs", "srp/src/utils.rs", "srp/tests/bad_public.rs", "srp/tests/rfc5054.rs", "srp/tests/srp.rs"]

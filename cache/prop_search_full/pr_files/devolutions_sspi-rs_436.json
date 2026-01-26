@@ -1,0 +1,1 @@
+["crates/dpapi-web/src/transport.rs", "crates/dpapi/src/client.rs", "src/credssp/mod.rs", "src/kerberos/mod.rs", "src/negotiate.rs"]

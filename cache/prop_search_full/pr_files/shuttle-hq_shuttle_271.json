@@ -1,0 +1,1 @@
+["Cargo.lock", "deployer/Cargo.toml", "deployer/src/deployment/queue.rs", "deployer/src/deployment/run.rs", "deployer/src/handlers.rs", "deployer/src/main.rs", "service/src/loader.rs", "shell.nix"]

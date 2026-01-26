@@ -1,0 +1,1 @@
+["src/backend/mod.rs", "src/backend/todoist.rs", "src/entities/label.rs", "src/entities/project.rs", "src/sync.rs", "src/ui/app_component.rs", "src/utils/color.rs", "src/utils/mod.rs", "tests/utils.rs", "tests/utils/color.rs"]

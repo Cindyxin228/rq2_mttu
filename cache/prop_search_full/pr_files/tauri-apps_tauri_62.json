@@ -1,0 +1,1 @@
+["mode/bin/tauri-build.js", "mode/helpers/tauri-config.js", "mode/webpack/index.js", "package.json", "tauri.conf.js", "templates/conf/tauri.conf.js", "yarn.lock"]

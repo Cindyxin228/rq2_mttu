@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-dylint/Cargo.toml", "driver/Cargo.lock", "dylint-link/Cargo.toml", "dylint/Cargo.toml", "examples/allow_clippy/Cargo.lock", "internal/Cargo.toml", "utils/testing/Cargo.toml"]

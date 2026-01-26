@@ -1,0 +1,1 @@
+["cargo-espflash/src/error.rs", "cargo-espflash/src/main.rs", "espflash/src/chip/esp32/esp32.rs", "espflash/src/chip/esp8266.rs", "espflash/src/chip/mod.rs", "espflash/src/elf.rs", "espflash/src/flasher.rs", "espflash/src/image_format/esp32bootloader.rs", "espflash/src/image_format/esp8266.rs", "espflash/src/image_format/mod.rs", "espflash/src/lib.rs"]

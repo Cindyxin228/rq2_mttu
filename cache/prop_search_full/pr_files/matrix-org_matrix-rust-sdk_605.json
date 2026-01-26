@@ -1,0 +1,1 @@
+["crates/matrix-crypto-ffi/src/machine.rs", "crates/matrix-sdk-crypto/src/olm/signing/mod.rs", "crates/matrix-sdk-crypto/src/olm/signing/pk_signing.rs"]

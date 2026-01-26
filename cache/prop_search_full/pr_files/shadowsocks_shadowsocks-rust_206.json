@@ -1,0 +1,1 @@
+["src/bin/local.rs", "src/bin/manager.rs", "src/bin/redir.rs", "src/bin/server.rs", "src/bin/tunnel.rs", "src/config.rs", "src/context.rs", "src/crypto/cipher.rs", "src/relay/dnsrelay/mod.rs", "src/relay/mod.rs", "src/relay/socks5.rs"]

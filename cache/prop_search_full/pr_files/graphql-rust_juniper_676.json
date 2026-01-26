@@ -1,0 +1,1 @@
+["README.md", "docs/book/content/quickstart.md", "docs/book/content/schema/schemas_and_mutations.md", "juniper/CHANGELOG.md", "juniper/Cargo.toml", "juniper/src/schema/meta.rs", "juniper/src/schema/mod.rs", "juniper/src/schema/model.rs", "juniper/src/schema/translate/graphql_parser.rs", "juniper/src/schema/translate/mod.rs"]

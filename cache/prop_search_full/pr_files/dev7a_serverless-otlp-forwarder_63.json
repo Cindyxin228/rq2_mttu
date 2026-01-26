@@ -1,0 +1,1 @@
+["forwarders/experimental/aws-span-processor/processor/Cargo.toml", "forwarders/experimental/aws-span-processor/template.yaml", "forwarders/experimental/otlp-stdout-kinesis-processor/processor/Cargo.toml", "forwarders/otlp-stdout-logs-processor/template.yaml"]

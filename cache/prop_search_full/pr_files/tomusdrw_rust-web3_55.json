@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/batch.rs", "examples/bench.rs", "examples/contract.rs", "examples/http.rs", "examples/ipc.rs", "examples/simple.rs", "src/helpers.rs", "src/lib.rs", "src/transports/http.rs", "src/transports/ipc.rs", "src/transports/mod.rs", "src/transports/shared.rs"]

@@ -1,0 +1,1 @@
+["crates/neon-runtime/src/napi/fun.rs", "crates/neon-sys/src/lib.rs", "src/event/event_handler.rs", "src/object/class/mod.rs", "src/types/mod.rs", "test/dynamic/native/src/js/functions.rs", "test/napi/src/js/functions.rs", "test/napi/src/js/threads.rs"]

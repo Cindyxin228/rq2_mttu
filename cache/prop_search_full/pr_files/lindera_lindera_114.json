@@ -1,0 +1,1 @@
+["lindera-core/src/file_util.rs", "lindera-core/src/prefix_dict.rs", "lindera-core/src/user_dictionary.rs", "lindera-ipadic-builder/Cargo.toml", "lindera-ipadic-builder/src/bin/lindera-userdic-builder/main.rs", "lindera-ipadic-builder/src/main.rs", "lindera/README.md", "lindera/benches/bench.rs", "lindera/examples/userdic_example.rs", "lindera/src/tokenizer.rs"]

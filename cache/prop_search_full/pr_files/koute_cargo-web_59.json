@@ -1,0 +1,1 @@
+["integration-tests/src/main.rs", "src/cargo_shim/mod.rs", "src/deployment.rs", "test-crates/staticlib/Cargo.toml", "test-crates/staticlib/src/lib.rs"]

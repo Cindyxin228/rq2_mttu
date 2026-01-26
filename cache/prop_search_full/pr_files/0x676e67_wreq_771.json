@@ -1,0 +1,1 @@
+["src/client/client/service.rs", "src/client/middleware/config.rs", "src/client/middleware/decoder/layer.rs", "src/client/middleware/mod.rs", "src/client/middleware/timeout/layer.rs", "src/client/request.rs", "src/lib.rs", "src/redirect.rs"]

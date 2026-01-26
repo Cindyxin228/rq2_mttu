@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/producer.rs", "src/connection.rs", "src/connection_manager.rs", "src/consumer.rs", "src/executor.rs", "src/lib.rs", "src/message.rs"]

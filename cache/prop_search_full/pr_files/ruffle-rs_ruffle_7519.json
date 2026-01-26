@@ -1,0 +1,1 @@
+["core/src/avm2/activation.rs", "core/src/avm2/object/script_object.rs", "core/src/avm2/scope.rs", "core/src/avm2/vtable.rs", "swf/src/avm2/read.rs", "swf/src/avm2/types.rs", "swf/src/extensions.rs", "tests/tests/regression_tests.rs", "tests/tests/swfs/avm2/try_catch/Test.as", "tests/tests/swfs/avm2/try_catch/output.txt", "tests/tests/swfs/avm2/try_catch/test.swf"]

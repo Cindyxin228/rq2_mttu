@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "core/src/v3/openapi.rs", "core/src/v3/operation.rs", "core/src/v3/parameter.rs", "core/src/v3/paths.rs", "core/src/v3/request_body.rs", "core/src/v3/response.rs", "core/src/v3/schema.rs", "core/src/v3/security_scheme.rs", "plugins/actix-web/Cargo.toml"]

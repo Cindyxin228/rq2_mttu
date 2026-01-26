@@ -1,0 +1,1 @@
+["src/auth/identity.rs", "src/auth/mod.rs", "src/common/protocol.rs", "src/common/resourceiterator.rs", "src/compute/base.rs", "src/compute/flavors.rs", "src/identity/protocol.rs", "src/image/base.rs", "src/lib.rs", "src/network/base.rs"]

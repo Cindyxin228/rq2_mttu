@@ -1,0 +1,1 @@
+["src/app/mod.rs", "src/app/roles.rs", "src/handlers/mod.rs", "src/network/kube_api.rs", "src/network/mod.rs", "src/ui/resource_tabs.rs", "test_data/roles.yaml"]

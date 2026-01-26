@@ -1,0 +1,1 @@
+["cli/tests/integration/common.rs", "cli/tests/integration/dictionary_lookup.rs", "cli/tests/integration/main.rs", "lib/src/config/dictionaries.rs", "lib/src/config/unit_tests.rs", "lib/src/error.rs", "lib/src/wiggle_abi/dictionary_impl.rs", "test-fixtures/data/json-dictionary.json", "test-fixtures/src/bin/dictionary-lookup.rs"]

@@ -1,0 +1,1 @@
+["crates/store/re_protos/proto/rerun/v1alpha1/manifest_registry.proto", "crates/store/re_protos/src/v1alpha1/rerun.common.v1alpha1.ext.rs", "crates/store/re_protos/src/v1alpha1/rerun.manifest_registry.v1alpha1.ext.rs", "crates/store/re_protos/src/v1alpha1/rerun.manifest_registry.v1alpha1.rs", "rerun_py/src/catalog/connection_handle.rs", "rerun_py/src/catalog/dataset.rs"]

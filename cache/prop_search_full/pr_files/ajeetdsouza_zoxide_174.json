@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "shell.nix", "src/cmd/init.rs", "src/shell.rs", "templates/bash.txt", "templates/elvish.txt", "templates/fish.txt", "templates/nushell.txt", "templates/posix.txt", "templates/powershell.txt", "templates/xonsh.txt", "templates/zsh.txt"]

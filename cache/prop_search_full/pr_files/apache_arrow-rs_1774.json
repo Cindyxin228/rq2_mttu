@@ -1,0 +1,1 @@
+["parquet/src/arrow/arrow_writer.rs", "parquet/src/file/metadata.rs", "parquet/src/file/writer.rs", "parquet/src/schema/types.rs"]

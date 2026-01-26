@@ -1,0 +1,1 @@
+["src/certificate.rs", "tests/assets/Bob.crt", "tests/assets/Bob.der", "tests/assets/Bob.key", "tests/integration.rs"]

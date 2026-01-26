@@ -1,0 +1,1 @@
+["crates/hir-def/src/generics.rs", "crates/hir-def/src/path.rs", "crates/hir-def/src/type_ref.rs", "crates/hir-expand/src/mod_path.rs", "crates/hir-ty/src/lower.rs", "crates/hir-ty/src/utils.rs"]

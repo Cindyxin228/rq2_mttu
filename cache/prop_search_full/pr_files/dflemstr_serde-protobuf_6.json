@@ -1,0 +1,1 @@
+["Cargo.toml", "src/descriptor.rs", "testdata/hash", "tests/lib.rs", "tests/protobuf_unittest/unittest.rs", "tests/protobuf_unittest/unittest_import.rs", "tests/protobuf_unittest/unittest_import_public.rs"]

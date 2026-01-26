@@ -1,0 +1,1 @@
+["CHANGELOG.md", "bindings/python/Cargo.toml", "jsonschema/Cargo.toml", "jsonschema/src/compilation/options.rs", "jsonschema/src/error.rs", "jsonschema/src/keywords/pattern.rs", "jsonschema/src/keywords/ref_.rs", "jsonschema/src/lib.rs", "jsonschema/src/resolver.rs"]

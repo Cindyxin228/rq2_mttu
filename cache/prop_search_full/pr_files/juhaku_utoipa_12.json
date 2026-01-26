@@ -1,0 +1,1 @@
+["src/openapi/mod.rs", "src/openapi/schema.rs", "tests/component_derive_test.rs", "tests/utoipa_gen_test.rs", "utoipa-gen/src/component.rs", "utoipa-gen/src/component/attr.rs", "utoipa-gen/src/component/attribute.rs", "utoipa-gen/src/doc_comment.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/openapi.rs"]

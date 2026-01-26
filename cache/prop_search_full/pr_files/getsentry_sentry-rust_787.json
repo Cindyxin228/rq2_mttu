@@ -1,0 +1,1 @@
+["sentry-actix/src/lib.rs", "sentry-core/src/clientoptions.rs", "sentry-core/src/session.rs", "sentry-opentelemetry/Cargo.toml", "sentry-tower/Cargo.toml", "sentry-tracing/Cargo.toml", "sentry/src/init.rs"]

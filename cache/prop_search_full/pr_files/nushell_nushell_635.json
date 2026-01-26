@@ -1,0 +1,1 @@
+["src/commands/to_csv.rs", "src/commands/to_tsv.rs", "src/plugins/binaryview.rs", "tests/commands_test.rs"]

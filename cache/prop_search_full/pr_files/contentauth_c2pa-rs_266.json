@@ -1,0 +1,1 @@
+["sdk/src/asset_handlers/jpeg_io.rs", "sdk/src/asset_handlers/png_io.rs", "sdk/src/asset_handlers/tiff_io.rs", "sdk/src/asset_io.rs", "sdk/src/manifest.rs", "sdk/src/openssl/temp_signer.rs", "sdk/src/store.rs", "sdk/src/utils/hash_utils.rs", "sdk/src/utils/test.rs", "sdk/tests/fixtures/boxhash.jpg"]

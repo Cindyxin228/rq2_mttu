@@ -1,0 +1,1 @@
+[".github/workflows/deploy-release.yml", ".github/workflows/test.yml", "CHANGELOG.md", "capi/Cargo.toml", "cli/Cargo.toml", "cli/src/bin/annis.rs", "core/Cargo.toml", "graphannis/Cargo.toml", "graphannis/src/annis/db/query/conjunction.rs", "graphannis/src/annis/util/quicksort.rs", "webservice/Cargo.toml", "webservice/src/errors.rs", "webservice/src/main.rs"]

@@ -1,0 +1,1 @@
+["changelog.md", "parser/src/defs.rs", "parser/src/lex.rs", "parser/src/primitive.rs", "site/src/other.rs", "src/algorithm/pervade.rs", "src/compile/algebra.rs", "src/compile/invert/un.rs", "src/compile/mod.rs", "src/impl_prim.rs", "src/run_prim.rs"]

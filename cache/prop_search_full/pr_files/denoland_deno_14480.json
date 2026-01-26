@@ -1,0 +1,1 @@
+["cli/tests/integration/coverage_tests.rs", "cli/tests/testdata/coverage/no_snaps_included/__snapshots__/no_snaps_included_test.ts.snap", "cli/tests/testdata/coverage/no_snaps_included/expected.out", "cli/tests/testdata/coverage/no_snaps_included/no_snaps_included.ts", "cli/tests/testdata/coverage/no_snaps_included/no_snaps_included_test.ts", "cli/tools/coverage/mod.rs"]

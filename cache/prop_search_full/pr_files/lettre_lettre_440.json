@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.toml", "src/lib.rs", "src/transport/file/mod.rs", "src/transport/sendmail/mod.rs", "src/transport/stub/mod.rs", "tests/transport_file.rs", "tests/transport_sendmail.rs", "tests/transport_stub.rs"]

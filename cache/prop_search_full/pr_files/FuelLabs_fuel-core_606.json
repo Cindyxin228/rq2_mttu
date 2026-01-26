@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "deployment/Dockerfile", "fuel-client/Cargo.toml", "fuel-client/build.rs", "fuel-client/src/lib.rs", "fuel-core/Cargo.toml", "fuel-core/src/service.rs", "fuel-core/src/service/metrics.rs", "fuel-metrics/Cargo.toml", "fuel-metrics/src/core_metrics.rs", "fuel-p2p/Cargo.toml", "fuel-relayer/Cargo.toml", "fuel-txpool/src/txpool.rs"]

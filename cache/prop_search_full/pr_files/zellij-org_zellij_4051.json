@@ -1,0 +1,1 @@
+["default-plugins/about/src/tips.rs", "src/tests/e2e/cases.rs", "zellij-server/src/panes/tiled_panes/pane_resizer.rs", "zellij-server/src/panes/tiled_panes/stacked_panes.rs", "zellij-utils/src/input/layout.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "src/core/Cargo.toml", "src/core/src/lib.rs", "src/core/src/search/action.rs", "src/core/src/search/interrupter.rs", "src/core/src/search/mod.rs", "src/core/src/search/search_result.rs", "src/core/src/search/search_state.rs", "src/core/src/search/searchable.rs", "src/core/src/search/state.rs", "src/core/src/search/thread.rs"]

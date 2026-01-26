@@ -1,0 +1,1 @@
+["WORKSPACE", "connection/BUILD", "dependencies/maven/artifacts.snapshot", "dependencies/vaticle/repositories.bzl"]

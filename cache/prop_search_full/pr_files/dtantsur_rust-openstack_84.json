@@ -1,0 +1,1 @@
+["Cargo.toml", "src/common/apiversion.rs", "src/common/mod.rs", "src/common/protocol.rs", "src/error.rs", "src/identity/catalog.rs", "src/lib.rs", "src/session.rs", "src/utils.rs"]

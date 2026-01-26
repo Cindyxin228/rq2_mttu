@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/generator/ast.rs", "src/generator/code_generator.rs", "src/generator/orchestrator.rs", "src/generator/schema_converter.rs", "src/main.rs", "tests/serde_round_trip.rs"]

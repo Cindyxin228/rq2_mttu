@@ -1,0 +1,1 @@
+["juniper/CHANGELOG.md", "juniper/package.json", "juniper/src/http/graphiql.html", "tests/codegen/fail/union/struct_same_type_ugly.stderr"]

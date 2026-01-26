@@ -1,0 +1,1 @@
+["datafusion/common/src/config.rs", "datafusion/core/src/physical_plan/aggregates/bounded_aggregate_stream.rs", "datafusion/core/src/physical_plan/aggregates/mod.rs", "datafusion/core/src/physical_plan/aggregates/row_hash.rs", "datafusion/core/tests/sqllogictests/test_files/information_schema.slt", "datafusion/execution/src/config.rs", "docs/source/user-guide/configs.md"]

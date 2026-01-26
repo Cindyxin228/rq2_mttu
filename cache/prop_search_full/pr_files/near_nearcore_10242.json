@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/types.rs", "chain/network/src/network_protocol/testonly.rs", "core/primitives/benches/serialization.rs", "core/primitives/src/block.rs", "genesis-tools/genesis-populate/src/lib.rs"]

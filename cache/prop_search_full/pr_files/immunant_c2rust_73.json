@@ -1,0 +1,1 @@
+["c2rust-transpile/src/build_files/mod.rs", "c2rust-transpile/src/compile_cmds/mod.rs", "c2rust-transpile/src/convert_type.rs", "c2rust-transpile/src/translator/mod.rs", "c2rust-transpile/src/translator/variadic.rs", "tests/pointers/src/function_pointers.c", "tests/pointers/src/test_pointers.rs"]

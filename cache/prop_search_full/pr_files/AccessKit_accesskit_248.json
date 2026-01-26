@@ -1,0 +1,1 @@
+["Cargo.lock", "platforms/unix/Cargo.toml", "platforms/unix/src/adapter.rs", "platforms/unix/src/atspi/bus.rs", "platforms/unix/src/util.rs", "platforms/winit/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".actrc", ".github/workflows/build-and-test.yaml", ".github/workflows/release.yaml", ".gitignore", ".pre-commit-config.yaml", ".rustfmt.toml", "Cargo.toml", "README.md", "examples/auth0.rs", "src/builder.rs", "src/error.rs", "src/lib.rs", "src/server.rs"]

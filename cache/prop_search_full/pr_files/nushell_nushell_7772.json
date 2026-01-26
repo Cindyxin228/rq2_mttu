@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-command/Cargo.toml", "crates/nu-command/src/dataframe/eager/sql_context.rs", "crates/nu-command/src/dataframe/eager/sql_expr.rs"]

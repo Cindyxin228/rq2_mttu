@@ -1,0 +1,1 @@
+["CHANGES.md", "Cargo.toml", "examples/read_ogr_arrow.rs", "gdal-sys/prebuilt-bindings/gdal_3.6.rs", "gdal-sys/wrapper.h", "src/lib.rs", "src/vector/layer.rs"]

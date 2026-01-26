@@ -1,0 +1,1 @@
+["CHANGELOG.md", "pueue/src/daemon/callbacks.rs", "pueue/src/daemon/process_handler/finish.rs", "pueue/tests/daemon/integration/callback.rs", "pueue/tests/daemon/integration/mod.rs", "pueue/tests/daemon/integration/stashed.rs", "pueue/tests/helper/mod.rs", "pueue/tests/helper/task.rs"]

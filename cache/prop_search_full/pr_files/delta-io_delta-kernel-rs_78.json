@@ -1,0 +1,1 @@
+["kernel/examples/inspect-table/src/main.rs", "kernel/src/actions/mod.rs", "kernel/src/actions/schemas.rs", "kernel/src/client/conversion.rs", "kernel/src/client/json.rs", "kernel/src/client/mod.rs", "kernel/src/scan/mod.rs", "kernel/src/schema.rs", "kernel/src/snapshot.rs"]

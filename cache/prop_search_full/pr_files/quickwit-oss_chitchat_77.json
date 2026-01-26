@@ -1,0 +1,1 @@
+["chitchat-test/src/main.rs", "chitchat/src/configuration.rs", "chitchat/src/delta.rs", "chitchat/src/lib.rs", "chitchat/src/serialize.rs", "chitchat/src/server.rs", "chitchat/src/state.rs", "chitchat/src/transport/channel.rs", "chitchat/tests/cluster_test.rs", "chitchat/tests/perf_test.rs"]

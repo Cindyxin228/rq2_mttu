@@ -1,0 +1,1 @@
+["examples/hello-world-native/hello-indexer-native/src/main.rs", "packages/fuel-indexer-macros/src/indexer.rs", "packages/fuel-indexer-plugin/src/lib.rs", "packages/fuel-indexer-plugin/src/native.rs", "packages/fuel-indexer-tests/components/indices/fuel-indexer-test/src/lib.rs", "plugins/forc-index/src/utils/defaults.rs"]

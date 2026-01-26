@@ -1,0 +1,1 @@
+["src/chsr/cli.pest", "src/chsr/cli.rs", "src/chsr/main.rs", "src/config.rs", "src/database/finder.rs", "src/database/mod.rs", "src/database/options.rs", "src/database/structs.rs", "src/database/version.rs", "src/mod.rs", "src/plugin/hashchecker.rs", "src/plugin/hierarchy.rs", "src/sr/main.rs", "src/sr/timeout.rs"]

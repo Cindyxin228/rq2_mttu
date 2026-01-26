@@ -1,0 +1,1 @@
+["crates/proto/src/serialize/txt/mod.rs", "crates/proto/src/serialize/txt/rdata_parsers/svcb.rs", "crates/proto/src/serialize/txt/zone.rs", "crates/proto/src/serialize/txt/zone_lex.rs", "crates/server/src/store/file/authority.rs", "crates/server/src/store/recursor/config.rs", "crates/server/tests/txt_tests.rs"]

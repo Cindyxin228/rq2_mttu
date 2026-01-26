@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "vscode/package.json", "vscode/src/client/extension.ts", "vscode/src/test/suite/extension.test.ts", "vscode/src/test/suite/helper.ts", "vscode/src/utils/getPlatform.ts", "vscode/src/utils/getServer.ts"]

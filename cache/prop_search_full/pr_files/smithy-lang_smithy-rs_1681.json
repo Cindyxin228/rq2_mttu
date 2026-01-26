@@ -1,0 +1,1 @@
+["aws/rust-runtime/aws-config/Cargo.toml", "rust-runtime/aws-smithy-eventstream/Cargo.toml", "rust-runtime/aws-smithy-eventstream/fuzz/Cargo.toml"]

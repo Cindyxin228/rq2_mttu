@@ -1,0 +1,1 @@
+["src/persist-client/examples/maelstrom/services.rs", "src/persist-client/src/impl/metrics.rs", "src/persist/src/file.rs", "src/persist/src/location.rs", "src/persist/src/mem.rs", "src/persist/src/s3.rs", "src/persist/src/unreliable.rs"]

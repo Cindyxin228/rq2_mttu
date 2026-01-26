@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/nu-cli/Cargo.toml", "crates/nu-cli/src/util.rs", "crates/nu-command/Cargo.toml", "crates/nu-command/src/viewers/table.rs", "crates/nu-utils/.gitignore", "crates/nu-utils/Cargo.toml", "crates/nu-utils/src/lib.rs", "crates/nu-utils/src/main.rs", "crates/nu-utils/src/utils.rs"]

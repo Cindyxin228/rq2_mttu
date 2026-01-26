@@ -1,0 +1,1 @@
+["src/format.rs", "src/main.rs", "src/resolver.rs", "src/serialization.rs", "src/tests.rs", "tests/snapshots/test_cli__markdown-help.snap", "tests/test-project/supply-chain/audits.toml"]

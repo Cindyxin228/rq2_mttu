@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "clippy.toml", "crates/store/re_log_encoding/Cargo.toml", "crates/store/re_log_encoding/src/codec/arrow.rs", "crates/store/re_log_encoding/src/codec/mod.rs", "crates/store/re_log_types/Cargo.toml", "crates/store/re_log_types/src/arrow_msg.rs", "crates/store/re_sorbet/src/ipc.rs"]

@@ -1,0 +1,1 @@
+["kube-core/Cargo.toml", "kube-core/src/lib.rs", "kube-core/src/util.rs", "kube/src/api/mod.rs", "kube/src/api/util.rs"]

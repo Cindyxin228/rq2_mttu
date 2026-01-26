@@ -1,0 +1,1 @@
+["crates/vkteams-bot-cli/src/commands/daemon.rs", "crates/vkteams-bot-cli/src/commands/files.rs", "crates/vkteams-bot-cli/src/commands/storage.rs", "crates/vkteams-bot-cli/src/storage/vector/mod.rs", "crates/vkteams-bot-cli/src/storage/vector/pgvector.rs"]

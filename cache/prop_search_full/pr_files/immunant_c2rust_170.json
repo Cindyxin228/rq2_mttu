@@ -1,0 +1,1 @@
+["c2rust-refactor/src/analysis/ownership/annot.rs", "c2rust-refactor/src/analysis/ownership/mod.rs", "c2rust-refactor/tests/ownership_upgrade_ptrs/new.rs", "c2rust-refactor/tests/ownership_upgrade_ptrs/old.rs"]

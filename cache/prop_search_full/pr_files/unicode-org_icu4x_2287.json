@@ -1,0 +1,1 @@
+["components/datetime/src/pattern/runtime/plural.rs", "components/icu/examples/tui.rs", "components/plurals/README.md", "components/plurals/benches/pluralrules.rs", "components/plurals/examples/elevator_floors.rs", "components/plurals/examples/unread_emails.rs", "components/plurals/src/lib.rs", "components/plurals/tests/plurals.rs", "ffi/diplomat/src/pluralrules.rs"]

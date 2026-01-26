@@ -1,0 +1,1 @@
+[".gitignore", "flake.lock", "flake.nix", "rust/wasm-client/src/main.rs"]

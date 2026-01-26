@@ -1,0 +1,1 @@
+["Cargo.toml", "Makefile", "src/transport/file_traits.rs", "src/transport/fusedev/mod.rs", "src/transport/fusedev/session.rs", "src/transport/mod.rs", "src/transport/virtiofs/mod.rs", "tests/example/mod.rs", "tests/example/passthroughfs.rs", "tests/smoke.rs"]

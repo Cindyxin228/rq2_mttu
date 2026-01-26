@@ -1,0 +1,1 @@
+["apollo-router/src/lib.rs", "apollo-router/src/spec/fragments.rs", "apollo-router/src/spec/query.rs", "apollo-router/src/spec/schema.rs", "apollo-router/src/spec/selection.rs", "apollo-router/tests/compiler_integration.rs"]

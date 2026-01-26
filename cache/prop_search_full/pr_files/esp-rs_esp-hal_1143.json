@@ -1,0 +1,1 @@
+["esp-hal-procmacros/Cargo.toml", "esp-hal-procmacros/src/lib.rs", "esp-hal-smartled/Cargo.toml", "esp-hal-smartled/src/lib.rs", "esp-riscv-rt/Cargo.toml", "esp-riscv-rt/src/lib.rs"]

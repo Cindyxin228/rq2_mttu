@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasix/fd_pipe.rs", "lib/wasix/src/syscalls/wasix/sock_recv.rs", "lib/wasix/src/syscalls/wasix/sock_send.rs"]

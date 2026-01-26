@@ -1,0 +1,1 @@
+["protocols/autonat/CHANGELOG.md", "protocols/autonat/src/behaviour.rs", "protocols/autonat/src/behaviour/as_client.rs", "protocols/autonat/src/behaviour/as_server.rs", "protocols/autonat/tests/test_client.rs", "protocols/autonat/tests/test_server.rs"]

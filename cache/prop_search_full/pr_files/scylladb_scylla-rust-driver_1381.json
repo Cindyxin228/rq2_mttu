@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock.msrv", "README.md", "examples/Cargo.toml", "examples/allocations.rs", "examples/cqlsh-rs.rs", "scylla-cql/Cargo.toml", "scylla-cql/benches/benchmark.rs", "scylla/Cargo.toml", "scylla/benches/benchmark.rs", "scylla/src/cluster/metadata.rs", "scylla/src/cluster/state.rs", "scylla/tests/integration/types/cql_types.rs"]

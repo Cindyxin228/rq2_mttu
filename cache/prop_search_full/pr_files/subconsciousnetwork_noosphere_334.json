@@ -1,0 +1,1 @@
+["rust/noosphere-cli/src/native/workspace.rs", "rust/noosphere-cli/tests/peer_to_peer.rs", "rust/noosphere-core/src/data/bundle.rs", "rust/noosphere-core/src/data/headers/content_type.rs", "rust/noosphere-gateway/src/gateway.rs", "rust/noosphere-gateway/src/worker/name_system.rs", "rust/noosphere/tests/integration.rs"]

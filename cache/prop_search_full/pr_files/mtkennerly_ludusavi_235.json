@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "README.md", "lang/en-US.ftl", "src/cli.rs", "src/cli/parse.rs", "src/cli/ui.rs", "src/lang.rs", "src/main.rs", "src/prelude.rs", "src/scan.rs", "src/scan/launchers.rs", "src/scan/launchers/heroic.rs", "src/scan/launchers/lutris.rs", "src/scan/layout.rs", "src/scan/title.rs", "src/wrap.rs", "src/wrap/heroic.rs"]

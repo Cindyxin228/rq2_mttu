@@ -1,0 +1,1 @@
+["fido-mds-tool/src/main.rs", "fido-mds/Cargo.toml", "fido-mds/src/lib.rs", "fido-mds/src/query.rs", "webauthn-authenticator-rs/examples/key_manager/main.rs", "webauthn-authenticator-rs/src/ctap2/commands/get_info.rs"]

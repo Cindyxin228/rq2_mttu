@@ -1,0 +1,1 @@
+["sync/src/relayer/block_proposal_process.rs", "sync/src/relayer/block_transactions_process.rs", "sync/src/relayer/compact_block_process.rs", "sync/src/relayer/mod.rs", "sync/src/relayer/tests/block_proposal_process.rs", "sync/src/relayer/tests/block_transactions_process.rs", "sync/src/relayer/tests/compact_block_process.rs", "sync/src/types/mod.rs"]

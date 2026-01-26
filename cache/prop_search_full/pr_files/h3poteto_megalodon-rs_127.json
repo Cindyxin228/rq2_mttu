@@ -1,0 +1,1 @@
+["src/entities/account.rs", "src/entities/mod.rs", "src/entities/role.rs", "src/friendica/entities/account.rs", "src/mastodon/entities/account.rs", "src/mastodon/entities/mod.rs", "src/mastodon/entities/role.rs", "src/pleroma/entities/account.rs"]

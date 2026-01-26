@@ -1,0 +1,1 @@
+["Cargo.toml", "core/CHANGELOG.md", "core/Cargo.toml", "core/src/lib.rs", "core/src/peer_id.rs", "core/tests/serde.rs", "protocols/gossipsub/CHANGELOG.md", "protocols/gossipsub/Cargo.toml", "protocols/gossipsub/src/types.rs", "protocols/kad/CHANGELOG.md", "protocols/kad/Cargo.toml", "protocols/kad/src/lib.rs", "protocols/kad/src/record.rs"]

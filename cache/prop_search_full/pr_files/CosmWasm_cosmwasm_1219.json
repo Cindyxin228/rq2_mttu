@@ -1,0 +1,1 @@
+[".circleci/config.yml", "README.md", "contracts/README.md", "packages/vm/README.md", "packages/vm/src/instance.rs", "packages/vm/testdata/floaty_1.0.wasm", "packages/vm/testdata/hackatom_1.0.wasm", "packages/vm/testdata/ibc_reflect_1.0.wasm"]

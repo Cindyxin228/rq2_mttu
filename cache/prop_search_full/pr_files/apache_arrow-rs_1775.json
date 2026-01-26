@@ -1,0 +1,1 @@
+["parquet/src/arrow/arrow_reader.rs", "parquet/src/arrow/arrow_writer.rs", "parquet/src/file/footer.rs", "parquet/src/file/serialized_reader.rs", "parquet/src/file/writer.rs", "parquet/src/util/cursor.rs"]

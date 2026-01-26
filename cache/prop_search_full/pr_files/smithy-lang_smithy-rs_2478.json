@@ -1,0 +1,1 @@
+["codegen-server-test/python/build.gradle.kts", "codegen-server/python/src/main/kotlin/software/amazon/smithy/rust/codegen/server/python/smithy/generators/PythonServerUnionGenerator.kt"]

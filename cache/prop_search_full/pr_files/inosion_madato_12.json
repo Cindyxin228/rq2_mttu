@@ -1,0 +1,1 @@
+[".github/workflows/python-build-release.yml", ".github/workflows/rust-build-release.yml", "Cargo.toml", "README.md", "examples/sample_notebook.ipynb", "madato_cmd/Cargo.toml", "madato_py/Cargo.toml", "pyproject.toml", "pysource/madato/madato.pyi", "pysource/tests/test_csv.py", "pysource/tests/test_xlsx.py", "src/lib.rs"]

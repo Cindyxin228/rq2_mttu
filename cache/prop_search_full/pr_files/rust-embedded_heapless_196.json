@@ -1,0 +1,1 @@
+["ci/after_success.sh", "ci/install.sh", "ci/script.sh"]

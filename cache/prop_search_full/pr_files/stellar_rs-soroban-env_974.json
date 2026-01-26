@@ -1,0 +1,1 @@
+["soroban-env-host/src/native_contract/token/contract.rs", "soroban-env-host/src/test/auth.rs", "soroban-env-host/src/test/complex.rs", "soroban-env-host/src/test/event.rs", "soroban-env-host/src/test/lifecycle.rs", "soroban-env-host/src/test/metering_benchmark.rs", "soroban-env-host/src/test/prng.rs", "soroban-env-host/src/test/token.rs"]

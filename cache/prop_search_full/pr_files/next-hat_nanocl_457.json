@@ -1,0 +1,1 @@
+["bin/nanocld/specs/swagger.yaml", "bin/nanocld/src/utils/vm.rs", "crates/nanocl_stubs/src/vm_config.rs", "dev.Dockerfile", "dev.entrypoint.sh", "examples/vm_advenced.yml", "examples/vm_example.yml"]

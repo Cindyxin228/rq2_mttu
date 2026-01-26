@@ -1,0 +1,1 @@
+["runtime/near-vm/compiler/src/lib.rs", "runtime/near-vm/engine/src/lib.rs", "runtime/near-vm/types/src/lib.rs", "runtime/near-vm/vm/src/lib.rs", "runtime/near-vm/wast/src/lib.rs"]

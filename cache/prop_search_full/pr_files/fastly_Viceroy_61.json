@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/src/main.rs", "cli/tests/trap-test/Cargo.lock", "lib/Cargo.toml", "lib/src/config.rs", "lib/src/config/dictionaries.rs", "lib/src/config/limits.rs", "lib/src/config/unit_tests.rs", "lib/src/error.rs", "lib/src/execute.rs", "lib/src/session.rs", "lib/src/wiggle_abi/dictionary_impl.rs", "lib/src/wiggle_abi/entity.rs"]

@@ -1,0 +1,1 @@
+["tools/changelogger/src/render.rs", "tools/changelogger/tests/e2e_test.rs", "tools/publisher/src/main.rs", "tools/publisher/src/subcommand/generate_version_manifest.rs", "tools/publisher/src/subcommand/hydrate_readme.rs", "tools/publisher/tests/hydrate_readme_e2e_test.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tests/client_proxies.rs", "tests/helpers/mod.rs", "wayland-client/src/native_lib/mod.rs", "wayland-client/src/rust_imp/mod.rs", "wayland-client/src/rust_imp/proxy.rs", "wayland-commons/src/lib.rs", "wayland-scanner/src/common_gen.rs"]

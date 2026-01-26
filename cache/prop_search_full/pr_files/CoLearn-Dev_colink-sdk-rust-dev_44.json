@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/extensions/storage_macro.rs", "src/extensions/storage_macro/append.rs", "src/extensions/storage_macro/chunk.rs", "src/extensions/storage_macro/redis.rs", "tests/common/mod.rs", "tests/test_counter_with_lock.rs", "tests/test_policy_module.rs", "tests/test_protocol_variable_transfer.rs", "tests/test_remote_storage.rs", "tests/test_storage_macro.rs"]

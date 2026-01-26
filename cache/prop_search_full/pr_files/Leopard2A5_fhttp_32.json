@@ -1,0 +1,1 @@
+["resources/it/requests/1.http", "resources/it/requests/2.http", "src/bin/fhttp.rs", "src/client.rs", "src/errors.rs", "tests/failed_calls.rs"]

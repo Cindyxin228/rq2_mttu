@@ -1,0 +1,1 @@
+["applications/tari_base_node/src/cli.rs", "applications/tari_base_node/src/main.rs", "common/Cargo.toml", "common/src/configuration.rs", "common/src/dir_utils.rs", "common/src/lib.rs", "common/src/logging.rs", "infrastructure/storage/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".github/workflows/release_python.yml", "Cargo.lock", "crates/iceberg/Cargo.toml", "crates/iceberg/src/lib.rs", "crates/iceberg/src/writer/mod.rs"]

@@ -1,0 +1,1 @@
+["packages/core/src/compiler/index.ts", "packages/core/src/config/index.ts", "packages/core/src/config/types.ts", "packages/core/src/plugin/index.ts", "packages/core/src/plugin/js/utils.ts", "packages/core/src/plugin/js/vite-server-adapter.ts", "packages/core/src/server/hmr-engine.ts"]

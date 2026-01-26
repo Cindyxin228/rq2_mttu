@@ -1,0 +1,1 @@
+["examples/stdout/daemon.toml", "src/framework/mod.rs", "src/sinks/_pending/stdout/mod.rs", "src/sinks/_pending/stdout/run.rs", "src/sinks/_pending/stdout/setup.rs", "src/sinks/filerotate.rs", "src/sinks/mod.rs", "src/sinks/stdout.rs"]

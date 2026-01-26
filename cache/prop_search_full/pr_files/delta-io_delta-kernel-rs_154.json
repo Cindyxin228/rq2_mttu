@@ -1,0 +1,1 @@
+["acceptance/Cargo.toml", "acceptance/src/data.rs", "acceptance/src/lib.rs", "acceptance/src/meta.rs", "acceptance/tests/dat_reader.rs", "kernel/src/client/arrow_conversion.rs", "kernel/src/client/arrow_expression.rs", "kernel/src/expressions/scalars.rs", "kernel/src/schema.rs"]

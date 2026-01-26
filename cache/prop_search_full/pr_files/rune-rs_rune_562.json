@@ -1,0 +1,1 @@
+["crates/rune/src/runtime/tuple.rs", "crates/rune/src/runtime/vec.rs", "crates/rune/src/runtime/vec_tuple.rs", "crates/rune/src/runtime/vm_error.rs", "crates/rune/src/tests.rs", "crates/rune/src/tests/tuple.rs"]

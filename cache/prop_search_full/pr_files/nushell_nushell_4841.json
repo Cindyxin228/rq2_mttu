@@ -1,0 +1,1 @@
+["crates/nu-command/tests/commands/alias.rs", "crates/nu-command/tests/commands/mod.rs", "crates/nu-parser/src/parser.rs", "tests/fixtures/formats/sample_def.nu"]

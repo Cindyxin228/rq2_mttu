@@ -1,0 +1,1 @@
+[".github/workflows/unit-tests.yml", "src/fs/feature/git.rs", "src/fs/feature/xattr.rs", "src/fs/fields.rs", "src/fs/file.rs", "src/options/parser.rs", "src/options/theme.rs", "src/output/render/links.rs", "src/output/render/mod.rs", "src/output/render/permissions.rs", "src/output/table.rs", "src/theme/mod.rs"]

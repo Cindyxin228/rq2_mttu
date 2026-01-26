@@ -1,0 +1,1 @@
+[".github/actions/check/action.yml", ".github/actions/setup/action.yml", ".github/workflows/bindings.nodejs.yml", ".github/workflows/bindings.python.yml", ".github/workflows/ci.yml", ".github/workflows/publish.yml", ".github/workflows/release.yml", "driver/Cargo.toml"]

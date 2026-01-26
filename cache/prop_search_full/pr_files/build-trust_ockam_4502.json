@@ -1,0 +1,1 @@
+["demos/influxdb-telegraf/docker-compose.yml", "demos/influxdb-telegraf/influxdb/Dockerfile", "demos/influxdb-telegraf/influxdb/start_ockam.sh", "demos/influxdb-telegraf/telegraf/Dockerfile", "demos/influxdb-telegraf/telegraf/start_ockam.sh"]

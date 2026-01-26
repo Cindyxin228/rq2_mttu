@@ -1,0 +1,1 @@
+["debuginfo/src/base.rs", "symcache/src/format.rs", "symcache/src/writer.rs", "symcache/tests/snapshots/test_writer__functions_linux.snap", "symcache/tests/snapshots/test_writer__functions_macos.snap"]

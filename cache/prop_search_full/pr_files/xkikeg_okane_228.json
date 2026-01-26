@@ -1,0 +1,1 @@
+["cli/src/import/single_entry.rs", "cli/tests/testdata/csv_multi_currency.ledger", "cli/tests/testdata/csv_template.ledger", "cli/tests/testdata/index_amount.ledger", "cli/tests/testdata/iso_camt.ledger", "cli/tests/testdata/label_credit_debit.ledger", "cli/tests/testdata/viseca.ledger"]

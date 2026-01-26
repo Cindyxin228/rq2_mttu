@@ -1,0 +1,1 @@
+[".cargo-deny-config.toml", ".github/workflows/ci.yml", "tools/Dockerfile", "tools/ci-build/scripts/check-aws-sdk-cargo-deny"]

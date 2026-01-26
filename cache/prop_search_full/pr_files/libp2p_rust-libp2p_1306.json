@@ -1,0 +1,1 @@
+["CHANGELOG.md", "protocols/plaintext/Cargo.toml", "protocols/plaintext/src/handshake.rs", "protocols/plaintext/src/lib.rs", "protocols/plaintext/tests/smoke.rs", "protocols/secio/src/codec/mod.rs"]

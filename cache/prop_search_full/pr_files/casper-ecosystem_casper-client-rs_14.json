@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "build.rs", "examples/ffi/.clang-format", "examples/ffi/CMakeLists.txt", "examples/ffi/README.md", "examples/ffi/check_format.bash", "examples/ffi/src/get_auction_info.c", "examples/ffi/src/put_deploy.c", "examples/ffi/tests/ffi_tests.c", "lib/error.rs", "lib/ffi.rs", "lib/lib.rs"]

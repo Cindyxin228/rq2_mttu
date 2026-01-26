@@ -1,0 +1,1 @@
+["crates/holochain/src/conductor/cell.rs", "crates/holochain/src/core/workflow/countersigning_workflow.rs", "crates/holochain/src/core/workflow/error.rs", "crates/holochain_types/src/signal.rs"]

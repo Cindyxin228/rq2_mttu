@@ -1,0 +1,1 @@
+["Cargo.toml", "etc/api/type-api.yaml", "etc/api/type-cli.yaml", "src/mako/Cargo.toml.mako", "src/mako/api/api.rs.mako", "src/mako/api/lib/mbuild.mako", "src/mako/cli/lib/engine.mako", "src/mako/cli/main.rs.mako", "src/mako/lib/util.py", "src/rust/api/client.rs"]

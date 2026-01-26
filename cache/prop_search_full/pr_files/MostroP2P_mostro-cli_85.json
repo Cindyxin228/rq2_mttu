@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cli.rs", "src/cli/conversation_key.rs", "src/cli/get_dm.rs", "src/cli/send_dm.rs", "src/nip59.rs", "src/util.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/e2e.yml", ".github/workflows/lint.yml", ".github/workflows/prepare-dfx-assets.yml", ".github/workflows/publish.yml", ".github/workflows/unit.yml", "CHANGELOG.md", "scripts/update-motoko.sh", "scripts/update-replica.sh", "scripts/workflows/e2e-matrix.py", "src/dfx/assets/build.rs", "src/dfx/assets/dfx-asset-sources.json", "src/dfx/assets/prepare_assets.rs"]

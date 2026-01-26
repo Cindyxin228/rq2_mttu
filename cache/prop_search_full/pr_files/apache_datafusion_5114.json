@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_optimizer/pruning.rs", "datafusion/expr/src/logical_plan/plan.rs", "datafusion/optimizer/src/push_down_filter.rs", "datafusion/sql/src/expr/mod.rs"]

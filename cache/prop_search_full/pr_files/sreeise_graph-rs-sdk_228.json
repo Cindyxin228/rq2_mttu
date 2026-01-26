@@ -1,0 +1,1 @@
+["README.md", "examples/mail.rs", "graph-oauth/src/idtoken.rs", "src/attachments/mod.rs", "src/attachments/request.rs", "src/calendar/request.rs", "src/client/graph.rs", "src/client/macros.rs", "src/lib.rs", "src/mail/request.rs", "src/types/collection.rs", "tests/attachments_url.rs", "tests/downloaderr.rs", "tests/mail_url.rs", "tests/posts_url.rs"]

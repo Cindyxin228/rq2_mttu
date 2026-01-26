@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "README.md", "etc/docker/Dockerfile.alpine", "gix-archive/Cargo.toml", "gix-features/Cargo.toml", "gix-url/src/lib.rs", "gix/Cargo.toml", "justfile", "tests/journey/gix.sh"]

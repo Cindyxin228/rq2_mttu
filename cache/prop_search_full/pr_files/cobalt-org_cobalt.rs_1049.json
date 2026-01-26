@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/config/Cargo.toml", "crates/core/Cargo.toml", "crates/engarde/Cargo.toml", "crates/engarde/src/syntax.rs", "tests/cmd/liquid_error.md", "tests/cmd/publish_draft.out/posts/my-new-special-post.md", "tests/cmd/publish_post.out/posts/my-new-special-post.md"]

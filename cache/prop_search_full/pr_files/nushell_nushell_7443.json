@@ -1,0 +1,1 @@
+["crates/nu-command/tests/commands/ls.rs", "crates/nu-parser/src/errors.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/signature.rs"]

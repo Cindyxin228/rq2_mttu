@@ -1,0 +1,1 @@
+["crates/nu-cli/src/evaluate/operator.rs", "crates/nu-cli/tests/commands/math/mod.rs", "crates/nu-cli/tests/commands/merge.rs", "crates/nu-cli/tests/commands/where_.rs", "crates/nu-data/src/value.rs", "crates/nu-parser/src/parse.rs", "crates/nu-protocol/src/hir.rs"]

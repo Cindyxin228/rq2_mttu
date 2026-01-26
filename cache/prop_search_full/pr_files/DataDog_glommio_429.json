@@ -1,0 +1,1 @@
+[".github/templates/license_check_failed.md", ".github/workflows/ci.yml", "LICENSE-3rdparty.csv", "deny.toml", "examples/Cargo.toml", "glommio/Cargo.toml", "glommio/benches/tokio_tcp.rs", "glommio/src/sys/uring.rs"]

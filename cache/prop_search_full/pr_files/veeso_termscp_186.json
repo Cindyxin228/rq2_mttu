@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/activity_manager.rs", "src/filetransfer/builder.rs", "src/filetransfer/params.rs", "src/system/sshkey_storage.rs", "src/ui/activities/filetransfer/view.rs", "src/utils/mod.rs", "src/utils/parser.rs", "src/utils/ssh.rs"]

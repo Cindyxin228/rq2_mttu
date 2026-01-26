@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/composite-query.rs", "examples/query-as-stream.rs", "examples/simple-crud.rs", "examples/timestamp-serialize.rs", "src/db.rs", "src/errors.rs", "src/lib.rs", "src/query.rs", "src/serde.rs", "src/serde_deserializer.rs", "src/serde_serializer.rs", "src/serde_types_serializers.rs", "src/value_type.rs"]

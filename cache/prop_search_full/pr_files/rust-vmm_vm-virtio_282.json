@@ -1,0 +1,1 @@
+["coverage_config_x86_64.json", "fuzz/Cargo.toml", "fuzz/common/Cargo.toml", "virtio-blk/Cargo.toml", "virtio-console/Cargo.toml", "virtio-device/Cargo.toml", "virtio-queue-ser/CHANGELOG.md", "virtio-queue-ser/Cargo.toml", "virtio-queue/CHANGELOG.md", "virtio-queue/Cargo.toml", "virtio-vsock/Cargo.toml"]

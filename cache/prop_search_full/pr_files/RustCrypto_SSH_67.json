@@ -1,0 +1,1 @@
+["ssh-key/src/certificate/builder.rs", "ssh-key/src/kdf.rs", "ssh-key/src/private/dsa.rs", "ssh-key/src/private/ed25519.rs", "ssh-key/src/private/rsa.rs"]

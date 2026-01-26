@@ -1,0 +1,1 @@
+[".github/workflows/checks.yml", "Cargo.lock", "Cargo.toml", "rsql_core/Cargo.toml", "rsql_core/benches/bench_main.rs", "rsql_core/benches/benchmarks/mod.rs", "rsql_core/src/shell/completer.rs", "rsql_formatters/Cargo.toml"]

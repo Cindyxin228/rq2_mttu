@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/conversation.rs", "examples/download_all_dependencies.rs", "src/gpt2/gpt2.rs", "src/lib.rs", "src/pipelines/conversation.rs", "src/pipelines/generation.rs", "src/pipelines/mod.rs", "tests/gpt2.rs", "utils/download-dependencies_dialogpt-medium.py"]

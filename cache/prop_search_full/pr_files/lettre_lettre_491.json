@@ -1,0 +1,1 @@
+["src/address/envelope.rs", "src/address/types.rs", "src/message/mailbox/types.rs", "src/message/mimebody.rs", "src/message/mod.rs", "src/transport/file/mod.rs", "src/transport/sendmail/mod.rs", "src/transport/smtp/client/mod.rs", "src/transport/smtp/mod.rs", "src/transport/stub/mod.rs"]

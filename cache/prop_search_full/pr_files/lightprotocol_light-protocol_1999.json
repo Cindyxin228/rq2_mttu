@@ -1,0 +1,1 @@
+[".github/workflows/release-rust.yml", "Cargo.lock", "Cargo.toml", "scripts/validate-packages.sh", "sdk-libs/program-test/Cargo.toml", "sdk-libs/sdk/Cargo.toml"]

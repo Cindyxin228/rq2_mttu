@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "connectorx-python/Cargo.lock", "connectorx-python/Cargo.toml", "connectorx-python/src/arrow2.rs", "connectorx/Cargo.toml", "connectorx/src/destinations/arrow2/arrow_assoc.rs", "connectorx/src/destinations/arrow2/errors.rs", "connectorx/src/destinations/arrow2/funcs.rs", "connectorx/src/destinations/arrow2/mod.rs"]

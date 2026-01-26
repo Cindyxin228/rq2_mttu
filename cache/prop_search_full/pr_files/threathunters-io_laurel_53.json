@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/release.yml", "Cargo.toml", "build.rs", "contrib/musl-static-build/rustc-wrapper"]

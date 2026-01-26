@@ -1,0 +1,1 @@
+["CHANGELOG.md", "components/merkledb/src/db.rs", "components/merkledb/src/views/tests.rs", "exonum/benches/criterion/block.rs", "exonum/src/blockchain/mod.rs", "exonum/src/node/consensus.rs", "exonum/src/node/state.rs", "exonum/tests/explorer/blockchain/mod.rs", "testkit/src/checkpoint_db.rs", "testkit/src/lib.rs"]

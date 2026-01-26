@@ -1,0 +1,1 @@
+["crates/api/src/local_user.rs", "crates/api_common/src/lib.rs", "crates/api_crud/src/community/create.rs", "crates/api_crud/src/community/update.rs", "crates/api_crud/src/site/create.rs", "crates/api_crud/src/site/update.rs"]

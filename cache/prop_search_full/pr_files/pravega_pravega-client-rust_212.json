@@ -1,0 +1,1 @@
+["controller-client/src/mock_controller.rs", "integration_test/src/wirecommand_tests.rs", "shared/src/lib.rs", "src/reactor/segment_selector.rs", "src/reader_group/reader_group_state.rs"]

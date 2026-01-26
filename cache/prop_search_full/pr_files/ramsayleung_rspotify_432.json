@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/client_creds.rs", "examples/tasks.rs", "examples/ureq/threading.rs", "examples/with_auto_reauth.rs", "src/clients/base.rs", "tests/test_with_credential.rs"]

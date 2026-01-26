@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "aead/src/dev.rs", "aead/tests/dummy.rs", "cipher/src/dev.rs", "cipher/src/dev/block.rs", "cipher/src/dev/stream.rs", "cipher/src/lib.rs", "digest/src/dev.rs", "digest/src/dev/fixed.rs", "digest/src/dev/mac.rs", "digest/src/dev/variable.rs", "digest/src/dev/xof.rs"]

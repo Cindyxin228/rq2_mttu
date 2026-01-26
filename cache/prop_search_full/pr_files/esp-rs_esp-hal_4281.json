@@ -1,0 +1,1 @@
+["esp-config/src/generate/validator.rs", "esp-hal/Cargo.toml", "esp-phy/Cargo.toml", "esp-phy/src/lib.rs", "esp-println/Cargo.toml", "esp-radio/Cargo.toml", "esp-radio/esp_config.yml", "esp-radio/src/lib.rs"]

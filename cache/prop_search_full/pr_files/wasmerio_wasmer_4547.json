@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/cli/Cargo.toml", "lib/journal/Cargo.toml", "lib/virtual-net/Cargo.toml", "lib/wasix/Cargo.toml", "scripts/publish.py"]

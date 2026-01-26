@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.toml", "README.md", "codegen/swagger/Cargo.toml", "codegen/swagger/README.md", "codegen/swagger/pom.xml", "codegen/swagger/src/models.rs", "src/lib.rs"]

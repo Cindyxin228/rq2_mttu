@@ -1,0 +1,1 @@
+[".github/workflows/release_cli.yaml", "Cargo.lock", "addons/evm/build.rs", "addons/evm/src/constants.rs", "addons/svm/core/src/codec/anchor.rs", "crates/txtx-addon-kit/src/helpers/fs.rs", "crates/txtx-cli/src/cli/docs/mod.rs", "crates/txtx-core/src/manifest/mod.rs", "crates/txtx-supervisor-ui/build.rs"]

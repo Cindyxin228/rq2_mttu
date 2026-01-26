@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/bevy_app/Cargo.toml", "crates/bevy_app/src/schedule_runner.rs", "crates/bevy_core/Cargo.toml", "crates/bevy_core/src/time/time.rs", "crates/bevy_diagnostic/Cargo.toml", "crates/bevy_diagnostic/src/system_profiler.rs", "crates/bevy_winit/Cargo.toml", "crates/bevy_winit/src/lib.rs", "crates/bevy_winit/src/winit_windows.rs", "examples/wasm/winit_wasm.rs"]

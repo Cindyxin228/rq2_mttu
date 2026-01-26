@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/ci.yml", "README.md", "tss-esapi-sys/Cargo.toml", "tss-esapi-sys/build.rs", "tss-esapi/Cargo.toml", "tss-esapi/build.rs", "tss-esapi/src/lib.rs", "tss-esapi/src/tcti_ldr.rs", "tss-esapi/tests/Cargo.lock.frozen"]

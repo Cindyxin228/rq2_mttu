@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "README.md", "docs/example_config.json", "docs/iamb.5.md", "flake.nix", "src/base.rs", "src/config.rs", "src/main.rs", "src/message/mod.rs", "src/preview.rs", "src/tests.rs", "src/windows/room/scrollback.rs", "src/worker.rs"]

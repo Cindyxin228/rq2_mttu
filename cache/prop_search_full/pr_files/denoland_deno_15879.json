@@ -1,0 +1,1 @@
+["cli/module_loader.rs", "cli/node/mod.rs", "cli/tests/testdata/npm/cjs_reexport_collision/main.ts", "cli/tests/testdata/npm/esm_import_cjs_default/main.js", "cli/tests/testdata/npm/esm_import_cjs_default/main.out"]

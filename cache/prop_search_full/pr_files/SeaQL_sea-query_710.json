@@ -1,0 +1,1 @@
+["Cargo.toml", "src/table/column.rs", "tests/postgres/interval.rs", "tests/postgres/mod.rs"]

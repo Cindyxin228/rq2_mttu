@@ -1,0 +1,1 @@
+["kernel/examples/inspect-table/src/main.rs", "kernel/src/actions/set_transaction.rs", "kernel/src/lib.rs", "kernel/src/log_segment/tests.rs", "kernel/src/scan/mod.rs", "kernel/src/snapshot.rs", "kernel/src/table_changes/mod.rs", "kernel/src/table_changes/scan.rs", "kernel/src/table_configuration.rs"]

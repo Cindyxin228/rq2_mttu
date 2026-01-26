@@ -1,0 +1,1 @@
+["src/event_handlers/command.rs", "src/event_handlers/scans.rs", "src/event_handlers/statistics.rs", "src/main.rs", "src/scan_manager/scan.rs", "src/scan_manager/tests.rs", "tests/test_scan_manager.rs"]

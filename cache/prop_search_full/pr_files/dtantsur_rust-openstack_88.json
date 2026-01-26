@@ -1,0 +1,1 @@
+["src/auth/identity.rs", "src/common/types.rs", "src/compute/api.rs", "src/compute/block_device_mapping.rs", "src/compute/flavors.rs", "src/compute/keypairs.rs", "src/compute/servers.rs", "src/image/api.rs", "src/image/images.rs", "src/network/api.rs", "src/network/networks.rs", "src/network/ports.rs", "src/network/subnets.rs", "src/session.rs"]

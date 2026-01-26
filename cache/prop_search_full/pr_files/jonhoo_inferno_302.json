@@ -1,0 +1,1 @@
+["src/differential/mod.rs", "src/flamegraph/color/mod.rs", "src/flamegraph/color/palettes.rs", "src/flamegraph/mod.rs", "src/flamegraph/svg.rs", "src/lib.rs", "tests/common/collapse.rs", "tests/diff-folded.rs"]

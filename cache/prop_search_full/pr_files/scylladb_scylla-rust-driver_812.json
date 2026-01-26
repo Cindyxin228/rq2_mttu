@@ -1,0 +1,1 @@
+["scylla/src/transport/connection.rs", "scylla/src/transport/mod.rs", "scylla/src/transport/silent_prepare_batch_test.rs"]

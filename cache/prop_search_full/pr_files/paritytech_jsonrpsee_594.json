@@ -1,0 +1,1 @@
+["types/src/client.rs", "types/src/v2/params.rs", "types/src/v2/response.rs", "utils/src/server/rpc_module.rs", "ws-client/Cargo.toml", "ws-client/src/helpers.rs", "ws-client/src/manager.rs", "ws-client/src/transport.rs"]

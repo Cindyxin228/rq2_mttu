@@ -1,0 +1,1 @@
+["coins/monero/src/wallet/send/mod.rs", "coins/monero/tests/runner.rs", "coins/monero/tests/send.rs", "coins/monero/tests/wallet2_compatibility.rs", "processor/src/networks/monero.rs", "tests/full-stack/src/tests/mint_and_burn.rs", "tests/processor/src/networks.rs"]

@@ -1,0 +1,1 @@
+["spanner/tests/common.rs", "spanner/tests/ddl/schema.sql", "spanner/tests/transaction_ro_test.rs"]

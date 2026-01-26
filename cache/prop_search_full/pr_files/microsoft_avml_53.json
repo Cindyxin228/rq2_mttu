@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/avml-convert.rs", "src/bin/avml-upload.rs", "src/bin/avml.rs", "src/image.rs", "src/iomem.rs", "src/lib.rs", "src/snapshot.rs", "src/upload/blobstore.rs", "src/upload/http.rs", "src/upload/mod.rs"]

@@ -1,0 +1,1 @@
+["gitlab-runner-mock/src/api/artifacts.rs", "gitlab-runner-mock/src/api/request.rs", "gitlab-runner-mock/src/job.rs", "gitlab-runner/Cargo.toml", "gitlab-runner/examples/demo-runner.rs", "gitlab-runner/src/client.rs", "gitlab-runner/src/lib.rs", "gitlab-runner/src/run.rs", "gitlab-runner/src/uploader.rs", "gitlab-runner/tests/artifacts.rs"]

@@ -1,0 +1,1 @@
+["impl/src/templates/partials/build_script.template", "impl/src/templates/partials/rust_binary.template", "impl/src/templates/partials/rust_library.template"]

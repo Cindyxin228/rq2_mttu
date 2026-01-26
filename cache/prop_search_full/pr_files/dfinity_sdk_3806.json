@@ -1,0 +1,1 @@
+[".github/workflows/update-docs.yml", "CHANGELOG.md", "docs/cli-reference/dfx-schema.mdx", "docs/extension-manifest-schema.json", "src/dfx-core/src/extension/manifest/extension.rs", "src/dfx/src/commands/schema.rs"]

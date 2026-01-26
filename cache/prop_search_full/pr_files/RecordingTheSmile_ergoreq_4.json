@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/middleware/auto_redirect_middleware.rs", "src/middleware/auto_retry_middleware.rs", "src/middleware/middleware.rs", "src/wrappers/request_builder_wrapper.rs"]

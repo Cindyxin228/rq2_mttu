@@ -1,0 +1,1 @@
+["src/compiler.rs", "src/lib.rs", "src/onnx_proto3.rs", "src/optimisation.rs", "src/sequencer.rs", "src/utils.rs"]

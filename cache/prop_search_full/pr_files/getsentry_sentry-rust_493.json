@@ -1,0 +1,1 @@
+["sentry-contexts/src/utils.rs", "sentry-core/src/clientoptions.rs", "sentry-log/src/logger.rs", "sentry-slog/src/drain.rs", "sentry-types/src/protocol/mod.rs", "sentry/Cargo.toml"]

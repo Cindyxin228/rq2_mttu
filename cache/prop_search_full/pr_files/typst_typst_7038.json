@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/typst-cli/src/args.rs", "crates/typst-cli/src/compile.rs", "crates/typst-pdf/src/convert.rs", "crates/typst-pdf/src/lib.rs", "crates/typst-pdf/src/metadata.rs"]

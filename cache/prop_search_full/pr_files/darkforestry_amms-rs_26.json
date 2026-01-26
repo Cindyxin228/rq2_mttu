@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "dump.md", "examples/discover-erc-4626-vaults.rs", "src/amm/erc_4626/mod.rs", "src/amm/factory.rs", "src/amm/mod.rs", "src/amm/uniswap_v2/factory.rs", "src/amm/uniswap_v2/mod.rs", "src/amm/uniswap_v3/batch_request/mod.rs", "src/amm/uniswap_v3/factory.rs", "src/amm/uniswap_v3/mod.rs", "src/errors.rs", "src/sync/checkpoint.rs", "src/sync/mod.rs"]

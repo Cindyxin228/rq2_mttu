@@ -1,0 +1,1 @@
+["deno_webgpu/queue.rs", "tests/tests/regression/issue_6317.rs", "tests/tests/root.rs", "wgpu-core/src/device/queue.rs", "wgpu/src/backend/wgpu_core.rs"]

@@ -1,0 +1,1 @@
+["examples/todo-axum/Cargo.toml", "examples/todo-axum/src/main.rs", "utoipa-gen/Cargo.toml", "utoipa-swagger-ui/Cargo.toml", "utoipa-swagger-ui/src/axum.rs", "utoipa-swagger-ui/src/lib.rs"]

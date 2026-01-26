@@ -1,0 +1,1 @@
+["datafusion/functions/src/string/repeat.rs", "datafusion/functions/src/string/replace.rs", "datafusion/functions/src/string/split_part.rs", "datafusion/functions/src/string/starts_with.rs", "datafusion/functions/src/string/to_hex.rs", "datafusion/functions/src/string/uuid.rs", "datafusion/functions/src/unicode/find_in_set.rs", "datafusion/functions/src/unicode/reverse.rs"]

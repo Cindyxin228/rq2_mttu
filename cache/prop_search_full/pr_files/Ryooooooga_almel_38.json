@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "Cargo.lock", "Cargo.toml", "src/configs/mod.rs", "src/main.rs", "src/opt.rs", "src/prompt.rs", "src/segments/duration.rs", "src/segments/git_repo.rs", "src/segments/git_user.rs", "src/segments/mod.rs", "src/shell.rs"]

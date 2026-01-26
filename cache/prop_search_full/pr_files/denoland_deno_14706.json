@@ -1,0 +1,1 @@
+["cli/flags.rs", "cli/tests/integration/info_tests.rs", "cli/tests/testdata/info/with_config/deno-override.json", "cli/tests/testdata/info/with_config/deno.json", "cli/tests/testdata/info/with_config/import_map.json", "cli/tests/testdata/info/with_config/test.ts", "cli/tests/testdata/info/with_config/with_config.out"]

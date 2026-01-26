@@ -1,0 +1,1 @@
+["gds21/resources/empty.gds.json", "gds21/resources/has_properties.json", "gds21/resources/invalid_dates.gds", "gds21/resources/sample1.json", "gds21/resources/sample1_array.json", "gds21/resources/sample1_inst.json", "gds21/src/lib.rs", "gds21/src/read.rs", "gds21/src/tests.rs", "gds21/src/write.rs"]

@@ -1,0 +1,1 @@
+["src/backend.rs", "src/index.rs", "src/python.rs", "src/python/completions.rs", "src/python/tests.rs", "src/test_utils.rs", "src/xml/tests.rs", "testing/fixtures/basic_completions/.odoo_lsp", "testing/fixtures/basic_completions/foo/__manifest__.py", "testing/fixtures/basic_completions/foo/models.py"]

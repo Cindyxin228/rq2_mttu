@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/lint.yml", ".github/workflows/linux.yml", ".github/workflows/macos.yml", ".github/workflows/msrv.yml", ".github/workflows/upload-doc.yml", ".github/workflows/windows.yml", "actix-identity/Cargo.toml", "actix-session/src/cookie.rs", "actix-web-httpauth/examples/with-cors.rs", "codecov.yml"]

@@ -1,0 +1,1 @@
+["bevy_proto_derive/src/attributes.rs", "bevy_proto_derive/src/constants.rs", "bevy_proto_derive/src/lib.rs", "examples/attributes.rs", "examples/basic.rs", "examples/bench.rs", "examples/bundles.rs", "examples/templates.rs", "rustfmt.toml", "src/components.rs", "src/data.rs", "src/lib.rs", "src/plugin.rs", "src/prototype.rs", "src/utils.rs"]

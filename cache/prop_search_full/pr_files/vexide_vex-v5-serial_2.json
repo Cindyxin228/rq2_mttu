@@ -1,0 +1,1 @@
+["examples/bluetooth.rs", "examples/devices.rs", "examples/product.rs", "examples/screen.rs", "examples/set_team.rs", "examples/upload_program.rs", "src/commands/file.rs", "src/commands/mod.rs", "src/commands/screen.rs", "src/connection/bluetooth.rs", "src/connection/generic.rs", "src/connection/mod.rs", "src/connection/serial.rs", "src/packets/cdc2.rs"]

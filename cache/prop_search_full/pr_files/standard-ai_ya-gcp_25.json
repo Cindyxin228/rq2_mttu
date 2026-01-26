@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "src/auth/grpc.rs", "src/bigtable/admin.rs", "src/bigtable/client_builder.rs", "src/bigtable/mod.rs", "src/builder.rs", "src/pubsub/client_builder.rs", "src/pubsub/mod.rs", "src/pubsub/publish_sink.rs", "src/pubsub/streaming_subscription.rs", "src/retry_policy/mod.rs", "src/storage.rs", "tests/pubsub_client.rs"]

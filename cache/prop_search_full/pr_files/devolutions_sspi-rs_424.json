@@ -1,0 +1,1 @@
+["crates/dpapi-core/Cargo.toml", "crates/dpapi-fuzzing/Cargo.toml", "crates/dpapi-native-transport/Cargo.toml", "crates/dpapi-pdu/Cargo.toml", "crates/dpapi-transport/Cargo.toml", "crates/dpapi-web/Cargo.toml"]

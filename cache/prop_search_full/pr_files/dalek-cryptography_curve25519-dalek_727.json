@@ -1,0 +1,1 @@
+["curve25519-dalek/src/backend/vector/scalar_mul/straus.rs", "curve25519-dalek/src/diagnostics.rs", "curve25519-dalek/tests/build_tests.sh"]

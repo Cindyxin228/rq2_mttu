@@ -1,0 +1,1 @@
+[".github/workflows/check-and-lint.yaml", "config.example.toml", "src/config.rs", "src/main.rs", "src/steps/generic.rs", "src/steps/node.rs", "src/sudo.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rust-toolchain.toml", "src/commands/func/mod.rs", "src/commands/info.rs", "src/commands/shell.rs", "src/common/shell.rs", "src/config/cli.rs", "src/finder/mod.rs"]

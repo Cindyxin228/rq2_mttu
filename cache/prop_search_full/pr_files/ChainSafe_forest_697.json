@@ -1,0 +1,1 @@
+["blockchain/beacon/src/drand.rs", "blockchain/chain/src/store/chain_store.rs", "blockchain/chain_sync/src/sync.rs", "forest/src/cli/mod.rs"]

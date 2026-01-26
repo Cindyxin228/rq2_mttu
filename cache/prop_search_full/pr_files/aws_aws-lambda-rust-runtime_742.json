@@ -1,0 +1,1 @@
+["lambda-events/src/event/documentdb/events/drop_database_event.rs", "lambda-events/src/event/documentdb/events/drop_event.rs", "lambda-events/src/event/documentdb/events/insert_event.rs", "lambda-events/src/event/documentdb/events/replace_event.rs", "lambda-events/src/event/documentdb/events/update_event.rs", "lambda-events/src/fixtures/example-documentdb-update-event.json"]

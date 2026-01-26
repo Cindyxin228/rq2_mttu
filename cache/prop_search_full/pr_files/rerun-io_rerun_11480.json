@@ -1,0 +1,1 @@
+["crates/store/re_data_loader/tests/snapshots/test_mcap_loader__tests__ros2.snap", "crates/utils/re_mcap/src/layers/ros2_reflection.rs", "tests/assets/rrd/snippets/howto/load_mcap.rrd"]

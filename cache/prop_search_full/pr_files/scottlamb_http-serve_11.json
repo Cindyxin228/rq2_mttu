@@ -1,0 +1,1 @@
+[".travis.yml", "AUTHORS", "Cargo.lock", "Cargo.toml", "LICENSE-APACHE.txt", "LICENSE-MIT.txt", "README.md", "benches/file.rs", "benches/inmem.rs", "examples/serve_file.rs", "src/chunker.rs", "src/etag.rs", "src/file.rs", "src/gzip.rs", "src/lib.rs", "src/platform.rs", "src/range.rs", "src/serving.rs", "tests/chunked-acceptance.rs", "tests/entity-acceptance.rs"]

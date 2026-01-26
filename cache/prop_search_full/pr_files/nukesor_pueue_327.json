@@ -1,0 +1,1 @@
+["client/cli.rs", "client/display/log/json.rs", "daemon/network/message_handler/edit.rs", "lib/src/log.rs", "lib/src/network/message.rs", "lib/src/settings.rs", "lib/src/state.rs", "lib/src/task.rs"]

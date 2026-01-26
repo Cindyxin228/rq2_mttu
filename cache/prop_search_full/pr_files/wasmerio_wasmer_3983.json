@@ -1,0 +1,1 @@
+["lib/cli/src/commands/publish.rs", "lib/cli/src/commands/run/wasi.rs", "lib/wasix/src/runtime/package_loader/builtin_loader.rs", "lib/wasix/src/runtime/resolver/mod.rs", "lib/wasix/src/runtime/resolver/multi_source.rs", "lib/wasix/src/runtime/resolver/wapm_source.rs", "lib/wasix/src/runtime/resolver/web_source.rs"]

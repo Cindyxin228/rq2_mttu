@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "examples/09-backward-chaining/detective_system_demo.rs", "examples/09-backward-chaining/medical_diagnosis_demo.rs", "examples/09-backward-chaining/simple_query_demo.rs", "src/backward/backward_engine.rs", "src/backward/rule_executor.rs", "src/backward/search.rs"]

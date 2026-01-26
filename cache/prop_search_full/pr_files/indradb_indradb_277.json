@@ -1,0 +1,1 @@
+["client/src/main.rs", "lib/fuzz/fuzz_targets/compare.rs", "lib/src/errors.rs", "lib/src/memory/datastore.rs", "lib/src/util.rs", "plugins/host/build.rs", "plugins/host/src/errors.rs", "proto/build.rs", "proto/src/client.rs", "proto/src/converters.rs", "proto/src/server.rs", "proto/src/tests.rs", "server/src/main.rs"]

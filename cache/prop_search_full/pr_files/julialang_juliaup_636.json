@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".gitignore", "Cargo.toml", "build_msi.ps1", "deploy/msi/Julia.wxs", "deploy/msi/License.rtf", "scripts/versiondb/updateversiondb.jl", "versiondb/versiondb-i686-pc-windows-gnu.json", "versiondb/versiondb-x86_64-pc-windows-gnu.json"]

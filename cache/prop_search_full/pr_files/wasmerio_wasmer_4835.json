@@ -1,0 +1,1 @@
+["lib/wasix/src/journal/effector/syscalls/sock_accept.rs", "lib/wasix/src/journal/effector/syscalls/sock_connect.rs", "lib/wasix/src/net/socket.rs"]

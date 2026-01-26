@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ci-tests/env-string-named-config.toml", "ci-tests/hoard-named-config.toml", "ci-tests/pile-named-config.toml", "ci-tests/tests/testers/correct_errors.py", "src/checkers/history/last_paths.rs", "src/checkers/history/operation.rs", "src/config/builder/hoard.rs", "src/config/builder/mod.rs"]

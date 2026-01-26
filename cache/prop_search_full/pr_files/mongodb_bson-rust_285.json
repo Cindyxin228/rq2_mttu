@@ -1,0 +1,1 @@
+["serde-tests/Cargo.toml", "serde-tests/test.rs", "src/bson.rs", "src/de/serde.rs", "src/extjson/de.rs", "src/ser/mod.rs", "src/tests/serde.rs"]

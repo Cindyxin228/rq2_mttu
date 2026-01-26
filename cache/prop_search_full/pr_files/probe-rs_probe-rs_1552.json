@@ -1,0 +1,1 @@
+["CHANGELOG.md", "debugger/src/debug_adapter/dap_adapter.rs", "debugger/src/debug_adapter/dap_types.rs", "debugger/src/debug_adapter/mod.rs", "debugger/src/debug_adapter/repl_commands.rs", "debugger/src/debugger/debug_entry.rs", "debugger/src/main.rs", "probe-rs/src/debug/variable_cache.rs"]

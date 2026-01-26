@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/sinks/gcp_cloudfunction.md", "examples/gcp_cloudfunction/daemon.toml", "src/sinks/_pending/gcp_cloudfunction/mod.rs", "src/sinks/_pending/gcp_cloudfunction/setup.rs", "src/sinks/common/mod.rs", "src/sinks/common/web.rs", "src/sinks/gcp_cloudfunction.rs", "src/sinks/mod.rs", "src/sinks/webhook.rs"]

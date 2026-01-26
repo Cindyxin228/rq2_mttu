@@ -1,0 +1,1 @@
+["vulkano/src/buffer/mod.rs", "vulkano/src/command_buffer/mod.rs", "vulkano/src/instance/debug.rs", "vulkano/src/instance/instance.rs", "vulkano/src/instance/layers.rs", "vulkano/src/lib.rs", "vulkano/src/pipeline/cache.rs", "vulkano/src/pipeline/shader.rs", "vulkano/src/swapchain/mod.rs", "vulkano/src/sync/mod.rs"]

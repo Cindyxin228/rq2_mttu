@@ -1,0 +1,1 @@
+["CHANGELOG.md", "schnorr_fun/src/frost.rs", "schnorr_fun/src/musig.rs", "secp256kfun/src/backend/k256_impl.rs", "secp256kfun/src/lib.rs", "secp256kfun/src/marker/point_type.rs", "secp256kfun/src/marker/secrecy.rs", "secp256kfun/src/marker/zero_choice.rs", "secp256kfun/src/op.rs", "secp256kfun/src/point.rs", "secp256kfun/src/scalar.rs", "secp256kfun/tests/against_c_lib.rs"]

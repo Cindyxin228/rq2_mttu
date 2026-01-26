@@ -1,0 +1,1 @@
+["src/lib/ifaces/iface.rs", "src/lib/ifaces/mod.rs", "src/lib/ifaces/sriov.rs", "src/lib/mac.rs", "src/python/nispor/base_iface.py", "src/python/nispor/bridge.py", "src/python/nispor/ethtool.py", "src/python/nispor/ipoib.py", "src/python/nispor/mptcp.py", "src/python/nispor/sr_iov.py", "src/python/setup.py"]

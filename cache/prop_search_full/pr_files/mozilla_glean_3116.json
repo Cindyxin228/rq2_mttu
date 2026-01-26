@@ -1,0 +1,1 @@
+[".circleci/config.yml", "bin/build-win.sh", "docs/dev/python/setting-up-python-build-environment.md", "tools/docker-winbuild/Dockerfile", "tools/docker-winbuild/build.sh", "tools/docker-winbuild/init.sh"]

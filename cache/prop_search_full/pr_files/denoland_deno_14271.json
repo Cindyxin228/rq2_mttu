@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/lsp/testing/execution.rs", "cli/ops/testing.rs", "cli/tests/integration/mod.rs", "cli/tests/integration/test_tests.rs", "cli/tests/testdata/test/steps/output_within.out", "cli/tests/testdata/test/steps/output_within.ts", "cli/tools/test.rs", "core/resources.rs", "runtime/js/40_testing.js"]

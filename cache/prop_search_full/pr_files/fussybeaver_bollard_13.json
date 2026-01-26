@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.toml", "README.md", "dockerfiles/bin/run_integration_tests.sh", "dockerfiles/registry/README", "dockerfiles/registry/config.yml", "examples/kafka.rs", "src/auth.rs", "src/container.rs", "src/docker.rs", "src/image.rs", "src/lib.rs", "tests/common/mod.rs", "tests/container_test.rs", "tests/image_test.rs"]

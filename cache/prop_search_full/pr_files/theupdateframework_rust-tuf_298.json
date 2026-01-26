@@ -1,0 +1,1 @@
+["src/client.rs", "src/repository.rs", "src/repository/ephemeral.rs", "src/repository/file_system.rs", "tests/metadata/generate.rs", "tests/simple_example.rs"]

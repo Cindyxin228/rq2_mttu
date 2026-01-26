@@ -1,0 +1,1 @@
+["crates/napi/src/bindgen_runtime/js_values/string.rs", "crates/napi/src/error.rs", "examples/napi/__test__/values.spec.ts"]

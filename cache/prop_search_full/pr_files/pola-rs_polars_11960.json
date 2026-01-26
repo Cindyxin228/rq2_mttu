@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/polars-arrow/src/legacy/kernels/ewm/mod.rs", "crates/polars-core/src/series/series_trait.rs", "crates/polars-ops/src/series/ops/rank.rs", "crates/polars-plan/Cargo.toml", "crates/polars-plan/src/dsl/function_expr/mod.rs", "py-polars/Cargo.lock", "py-polars/Cargo.toml", "py-polars/tests/unit/test_cse.py"]

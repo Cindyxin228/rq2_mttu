@@ -1,0 +1,1 @@
+["deny.toml", "src/cargo-deny/check.rs", "src/lib.rs", "src/licenses.rs", "src/test_utils.rs", "tests/snapshots/licenses__accepts_exceptions.snap", "tests/snapshots/licenses__handles_dev_dependencies.snap", "tests/snapshots/licenses__rejects_licenses.snap"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/neon/Cargo.toml", "crates/neon/src/sys/bindings/functions.rs", "crates/neon/src/sys/tag.rs", "crates/neon/src/types_impl/bigint.rs", "crates/neon/src/types_impl/mod.rs", "test/napi/Cargo.toml", "test/napi/lib/bigint.js", "test/napi/package.json", "test/napi/src/js/bigint.rs", "test/napi/src/lib.rs"]

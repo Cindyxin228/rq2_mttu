@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/client.rs", "src/client/gemini.rs", "src/epub.rs", "src/main.rs", "src/translate.rs", "src/translate/gemini.rs", "src/translate/open_ai.rs", "src/translate/translator.rs"]

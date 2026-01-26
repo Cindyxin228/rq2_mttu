@@ -1,0 +1,1 @@
+["bindings/swift/LDKNodeFFI.xcframework/Info.plist", "bindings/swift/LDKNodeFFI.xcframework/ios-arm64/LDKNodeFFI.framework/Info.plist", "bindings/swift/LDKNodeFFI.xcframework/ios-arm64_x86_64-simulator/LDKNodeFFI.framework/Info.plist", "bindings/swift/LDKNodeFFI.xcframework/macos-arm64_x86_64/LDKNodeFFI.framework/Info.plist", "scripts/uniffi_bindgen_generate_swift.sh"]

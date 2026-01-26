@@ -1,0 +1,1 @@
+["derive/src/rpc_trait.rs", "derive/src/to_client.rs", "derive/src/to_delegate.rs", "derive/tests/pubsub-macros.rs", "derive/tests/ui/pubsub/mixed-subscriber-signatures.rs", "derive/tests/ui/pubsub/mixed-subscriber-signatures.stderr"]

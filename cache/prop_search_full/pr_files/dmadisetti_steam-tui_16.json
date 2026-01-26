@@ -1,0 +1,1 @@
+["src/app.rs", "src/client.rs", "src/config.rs", "src/interface.rs", "src/main.rs", "src/util/error.rs", "src/util/event.rs", "src/util/parser.rs", "src/util/paths.rs", "src/util/stateful.rs"]

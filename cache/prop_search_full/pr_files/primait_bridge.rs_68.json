@@ -1,0 +1,1 @@
+[".cargo/config", "Dockerfile", "Makefile.toml", "src/auth0/mod.rs", "src/request/body.rs", "src/response.rs", "tests/async_auth0/graphql.rs", "tests/async_bridge/graphql.rs"]

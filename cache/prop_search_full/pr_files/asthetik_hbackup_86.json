@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/publish.yml", ".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "scripts/build-all.sh", "src/file_util.rs"]

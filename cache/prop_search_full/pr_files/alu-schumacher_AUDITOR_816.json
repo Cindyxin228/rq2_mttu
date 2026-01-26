@@ -1,0 +1,1 @@
+["auditor-client/Cargo.toml", "auditor/Cargo.toml", "codecov.yaml", "collectors/slurm-epilog/Cargo.toml", "collectors/slurm/Cargo.toml", "plugins/priority/Cargo.toml"]

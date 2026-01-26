@@ -1,0 +1,1 @@
+[".github/workflows/audit.yml", ".github/workflows/release.yaml", "Cargo.lock", "actix-producer/Cargo.toml", "lib/Cargo.toml", "lib/src/record/client.rs", "lib/src/record/core.rs", "lib/src/record/record_client/reqwest.rs"]

@@ -1,0 +1,1 @@
+["compiler/rustc_parse/src/parser/item.rs", "src/test/ui/parser/issue-81806.rs", "src/test/ui/parser/issue-81806.stderr"]

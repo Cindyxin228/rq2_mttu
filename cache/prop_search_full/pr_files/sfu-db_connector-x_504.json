@@ -1,0 +1,1 @@
+["connectorx-python/connectorx/tests/test_arrow.py", "connectorx-python/connectorx/tests/test_postgres.py", "connectorx-python/src/pandas/transports/postgres.rs", "connectorx/src/sources/postgres/typesystem.rs", "connectorx/src/transports/postgres_arrow.rs", "connectorx/src/transports/postgres_arrow2.rs", "connectorx/tests/test_polars.rs", "scripts/postgres.sql"]

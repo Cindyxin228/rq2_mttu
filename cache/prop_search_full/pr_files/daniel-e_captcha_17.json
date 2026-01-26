@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/audio.rs", "examples/build_captchas.rs", "examples/perf.rs", "examples/various.rs", "src/audio/mod.rs", "src/filters/cow.rs", "src/filters/dots.rs", "src/filters/grid.rs", "src/filters/noise.rs", "src/filters/wave.rs", "src/images/mod.rs", "src/lib.rs", "src/samples/mod.rs"]

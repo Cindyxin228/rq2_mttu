@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/bin/logtail-crossterm.rs", "src/bin/logtail-termion.rs", "src/custom/app.rs", "src/custom/opt.rs", "src/custom/ui.rs", "src/custom/ui_debug.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-command/src/viewers/table.rs", "crates/nu-table/src/table.rs", "crates/nu-table/tests/common.rs", "crates/nu-table/tests/constrains.rs"]

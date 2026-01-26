@@ -1,0 +1,1 @@
+[".github/workflows/rust_tests.yml", "Cargo.toml", "example-projects/poem-example/Cargo.toml", "example-projects/poem-example/README.md", "example-projects/poem-example/src/main.rs", "src/binding/mod.rs", "src/binding/poem/extractor.rs", "src/binding/poem/mod.rs", "src/binding/poem/response.rs"]

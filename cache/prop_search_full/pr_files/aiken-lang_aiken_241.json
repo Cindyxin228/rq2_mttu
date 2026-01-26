@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "crates/aiken-project/Cargo.toml", "crates/aiken/Cargo.toml", "crates/uplc/Cargo.toml", "crates/uplc/src/tx/to_plutus_data.rs", "examples/hello_world/.gitignore"]

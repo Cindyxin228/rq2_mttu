@@ -1,0 +1,1 @@
+[".cargo/mutants.toml", "payjoin-test-utils/src/lib.rs", "payjoin/src/receive/error.rs", "payjoin/src/receive/v1/exclusive/mod.rs", "payjoin/src/receive/v1/mod.rs", "payjoin/src/receive/v2/mod.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/csv2arrow/Cargo.toml", "crates/csv2parquet/Cargo.toml", "crates/csv2parquet/Readme.md", "crates/csv2parquet/src/main.rs", "crates/json2arrow/Cargo.toml", "crates/json2parquet/Cargo.toml", "crates/json2parquet/Readme.md", "crates/json2parquet/src/main.rs"]

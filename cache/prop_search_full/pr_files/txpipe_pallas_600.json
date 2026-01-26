@@ -1,0 +1,1 @@
+["examples/n2c-miniprotocols/src/main.rs", "pallas-codec/src/utils.rs", "pallas-network/src/miniprotocols/localstate/queries_v16/codec.rs", "pallas-network/src/miniprotocols/localstate/queries_v16/mod.rs", "pallas-network/src/miniprotocols/localtxsubmission/protocol.rs", "pallas-network/tests/protocols.rs"]

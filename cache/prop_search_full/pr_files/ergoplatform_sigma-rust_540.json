@@ -1,0 +1,1 @@
+[".github/workflows/android.yml", ".github/workflows/ci.yml", ".github/workflows/formatting.yml", ".github/workflows/intra_doc.yml", ".github/workflows/ios.yml", ".github/workflows/js_tests.yml", ".github/workflows/lints.yml", "bindings/ergo-lib-wasm/Cargo.toml", "bindings/ergo-lib-wasm/src/lib.rs", "ergotree-ir/Cargo.toml", "ergotree-ir/src/sigma_protocol/dlog_group.rs"]

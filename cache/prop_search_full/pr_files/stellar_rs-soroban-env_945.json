@@ -1,0 +1,1 @@
+["soroban-env-common/src/error.rs", "soroban-env-host/src/host.rs", "soroban-env-host/src/host/error.rs", "soroban-env-host/src/storage.rs", "soroban-env-host/src/test/hostile.rs", "soroban-env-host/src/test/invocation.rs"]

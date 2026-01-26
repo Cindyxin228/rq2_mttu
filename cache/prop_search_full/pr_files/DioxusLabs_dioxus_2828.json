@@ -1,0 +1,1 @@
+["Cargo.lock", "packages/core/tests/fuzzing.rs", "packages/hot-reload/src/client.rs", "packages/html/src/web_sys_bind/events.rs", "packages/rsx/src/template_body.rs"]

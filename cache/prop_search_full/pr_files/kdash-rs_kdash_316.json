@@ -1,0 +1,1 @@
+["src/app/ingress.rs", "src/app/mod.rs", "src/handlers/mod.rs", "src/network/kube_api.rs", "src/network/mod.rs", "src/ui/resource_tabs.rs", "test_data/ingress.yaml"]

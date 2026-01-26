@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "spirit-cfg-helpers/src/lib.rs", "spirit-daemonize/src/lib.rs", "spirit-log/src/background.rs", "spirit-log/src/lib.rs", "spirit-reqwest/Cargo.toml", "spirit-reqwest/src/lib.rs", "spirit-tokio/Cargo.toml", "spirit-tokio/src/handlers.rs", "spirit-tokio/src/runtime.rs", "src/extension.rs", "src/fragment/pipeline.rs"]

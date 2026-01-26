@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "build.rs", "tests/integration/client/mod.rs", "tests/integration/consumer_producer/consumer.rs", "tests/integration/consumer_producer/producer.rs", "tests/test_kafka.rs"]

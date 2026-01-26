@@ -1,0 +1,1 @@
+["Cargo.toml", "datafusion-common/Cargo.toml", "datafusion-common/README.md", "datafusion-common/src/error.rs", "datafusion-common/src/lib.rs", "datafusion/Cargo.toml", "datafusion/src/error.rs", "datafusion/src/pyarrow.rs"]

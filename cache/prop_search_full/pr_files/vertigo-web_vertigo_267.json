@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/pipeline.yaml", "Dockerfile", "crates/vertigo/src/computed/computed_box.rs", "crates/vertigo/src/computed/value.rs", "demo/app/src/app/route.rs", "examples/router/src/app.rs"]

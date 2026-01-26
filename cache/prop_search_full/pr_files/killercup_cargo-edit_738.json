@@ -1,0 +1,1 @@
+["src/bin/upgrade/upgrade.rs", "src/lib.rs", "src/util.rs", "tests/cmd/upgrade/pinned.toml", "tests/cmd/upgrade/skip_compatible.toml"]

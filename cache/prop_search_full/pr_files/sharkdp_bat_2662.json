@@ -1,0 +1,1 @@
+["CHANGELOG.md", "assets/completions/_bat.ps1.in", "assets/completions/bat.bash.in", "assets/completions/bat.fish.in", "assets/completions/bat.zsh.in", "assets/manual/bat.1.in", "src/bin/bat/app.rs", "src/bin/bat/clap_app.rs", "src/lessopen.rs", "src/output.rs", "tests/integration_tests.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "examples/bot/Cargo.toml", "examples/example/Cargo.toml", "examples/example_sqlx/Cargo.toml", "examples/example_sqlx/src/main.rs", "examples/holder_pg/Cargo.toml", "resident-utils-rs.code-workspace", "src/lib.rs", "src/sqlx.rs", "src/sqlx/holder.rs", "src/sqlx_redis.rs"]

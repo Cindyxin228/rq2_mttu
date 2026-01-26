@@ -1,0 +1,1 @@
+["Dockerfile", "src/aggregation.rs", "src/cli.rs", "src/filters.rs", "src/live_monitor.rs", "src/main.rs", "src/mcp.rs", "src/pricing_fetcher.rs", "src/types.rs", "tests/integration_test.rs", "tests/isolated_dedup_test.rs"]

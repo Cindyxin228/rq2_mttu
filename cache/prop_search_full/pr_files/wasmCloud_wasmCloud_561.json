@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/provider-wit-bindgen/Cargo.toml", "crates/provider-wit-bindgen/README.md", "crates/provider-wit-bindgen/src/lib.rs", "crates/provider-wit-bindgen/src/vendor/mod.rs", "crates/provider-wit-bindgen/src/vendor/wasmtime_component_macro/bindgen.rs", "crates/provider-wit-bindgen/src/vendor/wasmtime_component_macro/mod.rs"]

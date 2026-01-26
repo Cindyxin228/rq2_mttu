@@ -1,0 +1,1 @@
+["CHANGELOG.md", "sentry-core/src/client.rs", "sentry-core/src/envelope.rs", "sentry-core/src/hub.rs", "sentry-core/src/lib.rs", "sentry-core/src/session.rs", "sentry-types/src/protocol/envelope.rs", "sentry-types/src/protocol/mod.rs", "sentry-types/src/protocol/session.rs", "sentry-types/src/protocol/v7.rs"]

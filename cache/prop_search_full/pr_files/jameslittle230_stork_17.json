@@ -1,0 +1,1 @@
+["src/config/mod.rs", "src/index_analyzer.rs", "src/index_versions/mod.rs", "src/index_versions/v2/builder.rs", "src/index_versions/v2/mod.rs", "src/index_versions/v2/search.rs", "src/index_versions/v2/structs.rs", "src/index_versions/v2/writer.rs", "src/searcher/mod.rs"]

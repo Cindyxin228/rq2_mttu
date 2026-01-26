@@ -1,0 +1,1 @@
+["feed-rs/src/parser/atom/tests.rs", "feed-rs/src/parser/json/tests.rs", "feed-rs/src/parser/rss1/tests.rs", "feed-rs/src/parser/rss2/tests.rs", "feed-rs/src/parser/util.rs", "feed-rs/src/xml/tests.rs"]

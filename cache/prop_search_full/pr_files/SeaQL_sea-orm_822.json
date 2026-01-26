@@ -1,0 +1,1 @@
+["sea-orm-migration/Cargo.toml", "src/entity/prelude.rs", "src/executor/cursor.rs", "src/executor/mod.rs", "src/query/mod.rs", "tests/cursor_tests.rs"]

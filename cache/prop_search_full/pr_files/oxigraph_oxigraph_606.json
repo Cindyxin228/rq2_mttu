@@ -1,0 +1,1 @@
+["lib/oxrdfio/src/parser.rs", "lib/oxrdfio/src/serializer.rs", "lib/oxrdfxml/src/parser.rs", "lib/oxrdfxml/src/serializer.rs", "lib/oxttl/src/n3.rs", "lib/oxttl/src/nquads.rs", "lib/oxttl/src/ntriples.rs", "lib/oxttl/src/trig.rs", "lib/oxttl/src/turtle.rs"]

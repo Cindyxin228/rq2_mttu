@@ -1,0 +1,1 @@
+["build/instructions_template.rs", "src/heap_print.rs", "src/lib/builtins.pl", "src/lib/charsio.pl", "src/machine/machine_state.rs", "src/machine/mock_wam.rs", "src/parser/ast.rs", "src/toplevel.pl", "tests-pl/iso-conformity-tests.pl", "tests/scryer/src_tests.rs"]

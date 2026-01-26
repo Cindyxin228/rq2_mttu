@@ -1,0 +1,1 @@
+["crates/test-programs/src/bin/cli_panic.rs", "crates/test-programs/src/bin/cli_stream_pollable_lifetimes.rs", "crates/test-programs/src/bin/preview2_stream_pollable_correct.rs", "crates/test-programs/src/bin/preview2_stream_pollable_traps.rs", "crates/wasi/tests/all/async_.rs", "crates/wasi/tests/all/sync.rs", "tests/all/cli_tests.rs"]

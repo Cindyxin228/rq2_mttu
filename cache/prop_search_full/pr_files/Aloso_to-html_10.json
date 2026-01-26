@@ -1,0 +1,1 @@
+["crates/ansi-to-html/src/ansi.rs", "crates/ansi-to-html/src/color.rs", "crates/ansi-to-html/src/lib.rs", "crates/fake-tty/src/lib.rs", "src/lexer.rs", "src/main.rs"]

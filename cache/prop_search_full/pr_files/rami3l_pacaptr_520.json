@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/pacaptr-macros/src/compat_table.rs", "crates/pacaptr-macros/src/lib.rs", "src/lib.rs", "src/pm.rs", "src/print.rs", "xtask/src/binary.rs", "xtask/src/dispatch/bump_choco.rs", "xtask/src/dispatch/bump_tap.rs", "xtask/src/dispatch/publish.rs", "xtask/src/main.rs"]

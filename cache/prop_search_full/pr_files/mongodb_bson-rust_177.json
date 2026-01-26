@@ -1,0 +1,1 @@
+["src/bson.rs", "src/decimal128.rs", "src/decoder/error.rs", "src/decoder/mod.rs", "src/encoder/mod.rs", "src/lib.rs", "src/spec.rs", "tests/spec/corpus.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust-compile.yml", "crates/rattler_solve/Cargo.toml", "crates/rattler_solve/build.rs", "crates/rattler_solve/src/libsolv/wrapper/ffi.rs", "crates/tools/Cargo.toml", "crates/tools/src/lib.rs", "crates/tools/src/libsolv_bindings.rs", "crates/tools/src/main.rs"]

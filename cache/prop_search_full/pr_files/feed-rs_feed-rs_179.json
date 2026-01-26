@@ -1,0 +1,1 @@
+["feed-rs/Cargo.toml", "feed-rs/fixture/rss_2.0_nightvale.xml", "feed-rs/src/model.rs", "feed-rs/src/parser/atom/tests.rs", "feed-rs/src/parser/itunes.rs", "feed-rs/src/parser/rss0/tests.rs", "feed-rs/src/parser/rss1/tests.rs", "feed-rs/src/parser/rss2/mod.rs", "feed-rs/src/parser/rss2/tests.rs"]

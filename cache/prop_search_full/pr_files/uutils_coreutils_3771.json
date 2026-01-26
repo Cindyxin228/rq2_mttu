@@ -1,0 +1,1 @@
+["src/bin/coreutils.rs", "src/uu/cp/src/cp.rs", "src/uu/df/src/df.rs", "src/uu/du/src/du.rs", "src/uu/join/src/join.rs", "src/uu/ls/src/ls.rs", "src/uu/numfmt/src/numfmt.rs", "src/uu/od/src/od.rs", "src/uu/sort/src/sort.rs", "src/uu/tail/src/tail.rs", "src/uu/tee/src/tee.rs", "src/uu/touch/src/touch.rs", "src/uu/uniq/src/uniq.rs"]

@@ -1,0 +1,1 @@
+["build/version_info.rs", "cargo-embed/build.rs", "cargo-flash/build.rs", "cli/build.rs"]

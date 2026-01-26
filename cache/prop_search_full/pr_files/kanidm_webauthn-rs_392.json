@@ -1,0 +1,1 @@
+["compat_tester/webauthn-rs-demo/src/actors.rs", "fido-key-manager/src/main.rs", "webauthn-authenticator-rs/examples/authenticate.rs", "webauthn-authenticator-rs/src/softpasskey.rs", "webauthn-authenticator-rs/src/softtoken.rs", "webauthn-authenticator-rs/src/stubs.rs", "webauthn-rs-core/src/constants.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs/src/lib.rs"]

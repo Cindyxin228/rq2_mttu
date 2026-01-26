@@ -1,0 +1,1 @@
+["CHANGELOG.next.toml", "aws/rust-runtime/aws-config/src/connector.rs", "aws/rust-runtime/aws-config/src/lib.rs", "aws/sdk/integration-tests/s3/tests/make-connector-override.rs", "rust-runtime/aws-smithy-client/src/test_connection.rs", "tools/ci-cdk/canary-lambda/src/latest/paginator_canary.rs"]

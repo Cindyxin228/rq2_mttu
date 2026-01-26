@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion/optimizer/Cargo.toml", "datafusion/optimizer/src/simplify_expressions/regex.rs", "datafusion/physical-expr/Cargo.toml"]

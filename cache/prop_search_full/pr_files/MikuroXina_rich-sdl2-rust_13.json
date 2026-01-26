@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/simple-window.rs", "src/audio.rs", "src/lib.rs", "src/sdl.rs", "src/video/geo/rect.rs", "src/video/renderer.rs", "src/video/renderer/paste.rs", "src/video/renderer/pen.rs", "src/video/surface.rs", "src/video/texture/lock.rs", "src/video/window/brightness.rs", "src/video/window/message_box.rs"]

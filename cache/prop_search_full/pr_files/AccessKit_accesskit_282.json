@@ -1,0 +1,1 @@
+["common/src/lib.rs", "consumer/src/text.rs", "platforms/macos/src/node.rs", "platforms/unix/src/node.rs", "platforms/windows/src/node.rs"]

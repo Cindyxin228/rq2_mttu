@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/ts_asm.rs", "fuzz/.gitignore", "fuzz/Cargo.toml", "fuzz/fuzz_targets/parse.rs", "src/format.rs", "src/lib.rs", "src/parse.rs", "src/ts_str.rs", "tests/fuzz.rs", "tests/tests.rs"]

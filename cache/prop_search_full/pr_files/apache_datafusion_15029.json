@@ -1,0 +1,1 @@
+["datafusion/datasource-csv/src/source.rs", "datafusion/datasource-parquet/src/source.rs", "datafusion/datasource/src/file_scan_config.rs", "datafusion/datasource/src/memory.rs", "datafusion/datasource/src/source.rs", "datafusion/sqllogictest/test_files/explain_tree.slt"]

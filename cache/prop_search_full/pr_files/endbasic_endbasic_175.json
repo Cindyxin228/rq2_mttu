@@ -1,0 +1,1 @@
+["NEWS.md", "client/src/cloud.rs", "client/src/cmds.rs", "repl/src/editor.rs", "sdl/src/console.rs", "std/src/console/linebuffer.rs", "std/src/console/mod.rs", "std/src/console/readline.rs", "std/src/console/trivial.rs", "std/src/testutils.rs", "terminal/src/lib.rs", "web/src/canvas.rs"]

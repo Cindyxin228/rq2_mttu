@@ -1,0 +1,1 @@
+["CHANGELOG.md", "esp-hal/src/gpio.rs", "esp32-hal/examples/blinky_erased_pins.rs", "esp32c2-hal/examples/blinky_erased_pins.rs", "esp32c3-hal/examples/blinky_erased_pins.rs", "esp32c6-hal/examples/blinky_erased_pins.rs", "esp32h2-hal/examples/blinky_erased_pins.rs", "esp32s2-hal/examples/blinky_erased_pins.rs", "esp32s3-hal/examples/blinky_erased_pins.rs"]

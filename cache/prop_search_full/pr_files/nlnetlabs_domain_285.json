@@ -1,0 +1,1 @@
+["src/base/name/traits.rs", "src/net/client/cache.rs", "src/resolv/lookup/srv.rs", "src/tsig/mod.rs", "src/zonefile/inplace.rs", "tests/net/stelline/parse_query.rs"]

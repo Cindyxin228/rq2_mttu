@@ -1,0 +1,1 @@
+["bindings/rust/Cargo.toml", "bindings/rust/src/bytes.rs", "bindings/rust/src/primitive.rs", "tools/codegen/src/generator/languages/rust/getters.rs", "tools/codegen/src/generator/languages/rust/reader/implementation.rs"]

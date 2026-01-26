@@ -1,0 +1,1 @@
+["Cargo.toml", "Makefile", "azure-pipelines.yml", "rusoto/credential/Cargo.toml", "rusoto/credential/src/instance_metadata.rs", "rusoto/credential/tests/instance-profile-test.rs", "rusoto/credential_service_mock/Cargo.toml", "rusoto/credential_service_mock/run-and-test.sh", "rusoto/credential_service_mock/src/main.rs"]

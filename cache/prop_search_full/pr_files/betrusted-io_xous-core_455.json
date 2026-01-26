@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "apps/chat-test/Cargo.toml", "apps/chat-test/README.md", "apps/chat-test/src/api.rs", "apps/chat-test/src/main.rs", "apps/chat-test/src/tests.rs", "apps/manifest.json", "apps/mtxchat/src/api.rs", "apps/mtxchat/src/main.rs", "libs/chat/src/dialogue.rs", "libs/chat/src/dialogue/post.rs", "libs/chat/src/lib.rs", "libs/chat/src/ui.rs"]

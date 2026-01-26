@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/Cargo.toml", "crates/matrix-sdk-crypto/src/identities/device.rs", "crates/matrix-sdk-crypto/src/lib.rs", "crates/matrix-sdk-crypto/src/machine.rs", "crates/matrix-sdk-crypto/src/olm/account.rs", "crates/matrix-sdk-crypto/src/session_manager/sessions.rs", "crates/matrix-sdk-crypto/src/types/mod.rs", "crates/matrix-sdk-crypto/src/types/one_time_keys.rs"]

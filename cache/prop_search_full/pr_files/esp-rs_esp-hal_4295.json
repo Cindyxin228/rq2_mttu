@@ -1,0 +1,1 @@
+["esp-hal/CHANGELOG.md", "esp-hal/esp_config.yml", "esp-hal/ld/esp32c2/esp32c2.x", "esp-hal/ld/esp32c3/esp32c3.x", "esp-hal/ld/esp32c6/esp32c6.x", "esp-hal/ld/esp32h2/esp32h2.x", "esp-hal/ld/sections/stack.x", "esp-hal/src/soc/mod.rs", "hil-test/Cargo.toml", "hil-test/src/bin/flip_link.rs"]

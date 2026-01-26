@@ -1,0 +1,1 @@
+["src/sys/fs.rs", "src/usr/copy.rs", "src/usr/editor.rs", "src/usr/hex.rs", "src/usr/httpd.rs", "src/usr/read.rs", "src/usr/shell.rs", "src/usr/user.rs", "src/usr/vga.rs"]

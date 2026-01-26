@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/join.slt", "datafusion/optimizer/src/eliminate_cross_join.rs"]

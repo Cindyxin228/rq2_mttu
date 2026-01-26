@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/core/src/config/table.rs", "crates/core/src/table/mod.rs", "crates/datafusion/src/lib.rs", "demo/infra/runner/Dockerfile", "demo/sql-datafusion/Cargo.toml", "demo/table-api-rust/Cargo.toml", "python/Cargo.toml", "rust-toolchain.toml"]

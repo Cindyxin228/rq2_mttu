@@ -1,0 +1,1 @@
+["ecdsa/Cargo.toml", "ecdsa/src/lib.rs", "ecdsa/src/recovery.rs", "ecdsa/src/signing.rs", "ecdsa/src/verifying.rs"]

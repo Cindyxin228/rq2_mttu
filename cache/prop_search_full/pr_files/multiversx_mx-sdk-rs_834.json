@@ -1,0 +1,1 @@
+["contracts/examples/factorial/mandos/factorial.scen.json", "contracts/examples/factorial/tests/factorial_mandos_go_test.rs", "contracts/examples/factorial/tests/factorial_mandos_rs_test.rs", "vm-test-build-copy.sh"]

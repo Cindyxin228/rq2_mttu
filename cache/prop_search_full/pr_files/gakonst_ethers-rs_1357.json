@@ -1,0 +1,1 @@
+["ethers-core/src/types/trace/filter.rs", "ethers-core/src/types/transaction/eip1559.rs", "ethers-core/src/types/transaction/request.rs", "ethers-core/src/types/transaction/response.rs", "ethers-core/src/types/txpool.rs"]

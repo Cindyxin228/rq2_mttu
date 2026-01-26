@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng_cmin/Cargo.toml", "fuzzers/libfuzzer_libpng_cmin/Makefile.toml", "fuzzers/libfuzzer_libpng_cmin/src/bin/libafl_cc.rs", "fuzzers/libfuzzer_libpng_cmin/src/lib.rs", "libafl/Cargo.toml", "libafl_cc/src/profiling.cc", "scripts/fmt_all.sh"]

@@ -1,0 +1,1 @@
+["ffi/rodbus-ffi/Cargo.toml", "rodbus/Cargo.toml", "rodbus/examples/client.rs", "rodbus/examples/client_tls.rs", "rodbus/examples/server.rs", "rodbus/examples/server_tls.rs", "rodbus/src/client/mod.rs", "rodbus/src/common/phys.rs", "rodbus/src/server/mod.rs", "rodbus/src/server/task.rs", "rodbus/src/tcp/client.rs", "rodbus/src/tcp/mod.rs", "rodbus/src/tcp/server.rs"]

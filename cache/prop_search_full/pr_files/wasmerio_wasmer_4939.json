@@ -1,0 +1,1 @@
+["lib/cli/src/commands/app/secrets/create.rs", "lib/cli/src/commands/app/secrets/delete.rs", "lib/cli/src/commands/app/secrets/list.rs", "lib/cli/src/commands/app/secrets/reveal.rs", "lib/cli/src/commands/app/secrets/update.rs"]

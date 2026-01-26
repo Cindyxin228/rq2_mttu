@@ -1,0 +1,1 @@
+["cosmrs/Cargo.toml", "cosmrs/src/crypto.rs", "cosmrs/src/crypto/legacy_amino.rs", "cosmrs/src/crypto/public_key.rs", "cosmrs/src/tx.rs", "cosmrs/src/tx/signer_info.rs"]

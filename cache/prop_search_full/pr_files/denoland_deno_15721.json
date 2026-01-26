@@ -1,0 +1,1 @@
+["ops/lib.rs", "ops/tests/01_fast_callback_options.rs", "ops/tests/compile_fail/unsupported.rs", "ops/tests/compile_fail/unsupported.stderr", "ops/tests/mod.rs"]

@@ -1,0 +1,1 @@
+["examples/node_reflector.rs", "examples/pod_reflector.rs", "kube-core/src/request.rs", "kube-runtime/src/lib.rs", "kube-runtime/src/utils/mod.rs", "kube-runtime/src/utils/predicate.rs", "kube-runtime/src/utils/watch_ext.rs"]

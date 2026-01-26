@@ -1,0 +1,1 @@
+[".gitignore", ".gitmodules", "coverage_config_x86_64.json", "rust-vmm-ci", "src/api/filesystem/mod.rs", "src/api/mod.rs", "src/api/pseudo_fs.rs", "src/api/vfs/mod.rs", "src/lib.rs", "src/transport/fusedev/mod.rs", "src/transport/mod.rs", "tests/smoke.rs"]

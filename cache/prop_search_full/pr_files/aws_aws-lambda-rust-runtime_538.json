@@ -1,0 +1,1 @@
+["lambda-extension/src/extension.rs", "lambda-http/src/lib.rs", "lambda-integration-tests/src/bin/extension-trait.rs", "lambda-integration-tests/src/bin/http-trait.rs", "lambda-integration-tests/src/bin/runtime-trait.rs"]

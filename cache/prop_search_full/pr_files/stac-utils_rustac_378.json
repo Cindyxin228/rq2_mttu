@@ -1,0 +1,1 @@
+["cli/src/args/migrate.rs", "cli/src/args/mod.rs", "cli/src/input.rs", "cli/src/output.rs", "core/CHANGELOG.md", "core/src/item_collection.rs", "core/src/migrate.rs", "core/src/value.rs", "core/src/version.rs", "core/tests/migrate.rs", "python/src/lib.rs", "validate/src/validator.rs", "validate/tests/migrate.rs"]

@@ -1,0 +1,1 @@
+["crates/swc_ecma_parser/src/error.rs", "crates/swc_ecma_parser/src/parser/class_and_fn.rs", "crates/swc_ecma_parser/tests/errors/issue-8687/input.ts", "crates/swc_ecma_parser/tests/errors/issue-8687/input.ts.swc-stderr", "crates/swc_ecma_transforms_typescript/src/strip_type.rs"]

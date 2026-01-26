@@ -1,0 +1,1 @@
+["client/src/event.rs", "client/src/spv.rs", "client/src/spv/tests.rs", "p2p/src/protocol/cbfmgr.rs", "p2p/src/protocol/cbfmgr/rescan.rs", "p2p/src/protocol/invmgr.rs"]

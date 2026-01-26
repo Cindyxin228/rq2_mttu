@@ -1,0 +1,1 @@
+["webrender/res/cs_clip_box_shadow.glsl", "webrender/src/batch.rs", "webrender/src/box_shadow.rs", "webrender/src/clip.rs", "webrender/src/display_list_flattener.rs", "webrender/src/hit_test.rs", "webrender/src/picture.rs", "webrender/src/prim_store/mod.rs", "webrender/src/render_task.rs"]

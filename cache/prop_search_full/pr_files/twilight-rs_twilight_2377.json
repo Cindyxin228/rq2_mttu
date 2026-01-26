@@ -1,0 +1,1 @@
+["examples/cache-optimization/models/guild.rs", "twilight-cache-inmemory/src/event/guild.rs", "twilight-cache-inmemory/src/model/guild.rs", "twilight-cache-inmemory/src/permission.rs", "twilight-cache-inmemory/src/test.rs", "twilight-cache-inmemory/src/traits.rs", "twilight-model/src/gateway/payload/incoming/guild_delete.rs", "twilight-model/src/guild/mod.rs"]

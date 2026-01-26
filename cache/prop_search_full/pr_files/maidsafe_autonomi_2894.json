@@ -1,0 +1,1 @@
+[".github/workflows/nodejs-publish.yml", "nodejs/README.md", "nodejs/__test__/data.spec.mjs", "nodejs/__test__/pointer.spec.mjs", "nodejs/index.d.ts", "nodejs/npm/darwin-arm64/package.json", "nodejs/npm/darwin-x64/package.json", "nodejs/npm/linux-x64-gnu/package.json", "nodejs/npm/win32-x64-msvc/package.json", "nodejs/package.json", "nodejs/src/lib.rs", "nodejs/yarn.lock"]

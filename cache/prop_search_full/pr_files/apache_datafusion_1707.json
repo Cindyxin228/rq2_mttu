@@ -1,0 +1,1 @@
+["datafusion/src/physical_plan/coalesce_batches.rs", "datafusion/src/physical_plan/mod.rs", "datafusion/src/physical_plan/planner.rs", "datafusion/src/physical_plan/repartition.rs", "datafusion/src/test/mod.rs"]

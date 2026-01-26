@@ -1,0 +1,1 @@
+["utoipa-gen/src/lib.rs", "utoipa-gen/src/openapi.rs", "utoipa-gen/src/openapi/info.rs", "utoipa-gen/tests/openapi_derive.rs", "utoipa-gen/tests/testdata/openapi-derive-info-description", "utoipa/src/openapi.rs", "utoipa/src/openapi/path.rs"]

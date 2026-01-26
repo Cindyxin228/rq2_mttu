@@ -1,0 +1,1 @@
+["twilight-http/src/client/mod.rs", "twilight-http/src/request/guild/user/get_current_user_voice_state.rs", "twilight-http/src/request/guild/user/get_user_voice_state.rs", "twilight-http/src/request/guild/user/mod.rs", "twilight-http/src/request/try_into_request.rs", "twilight-http/src/routing.rs"]

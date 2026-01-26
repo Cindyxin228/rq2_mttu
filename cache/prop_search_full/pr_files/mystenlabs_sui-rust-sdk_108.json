@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "crates/sui-graphql-client/Cargo.toml", "crates/sui-graphql-client/README.md", "crates/sui-graphql-client/src/faucet.rs", "crates/sui-graphql-client/src/lib.rs", "crates/sui-sdk-types/src/lib.rs", "crates/sui-transaction-builder/src/lib.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/app.rs", "src/canvas/widgets/battery_display.rs", "src/canvas/widgets/cpu_graph.rs", "src/canvas/widgets/disk_table.rs", "src/canvas/widgets/network_graph.rs", "src/canvas/widgets/process_table.rs", "src/canvas/widgets/temp_table.rs", "src/lib.rs"]

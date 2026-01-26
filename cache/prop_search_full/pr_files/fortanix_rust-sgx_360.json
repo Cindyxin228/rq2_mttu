@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "fortanix-vme/ci-common.sh", "fortanix-vme/ci-fortanixvme.sh", "fortanix-vme/eif-tools/src/bin/ftxvme-elf2eif.rs", "fortanix-vme/tests/hello_world/Cargo.toml", "fortanix-vme/tests/hello_world/src/main.rs", "fortanix-vme/tests/outgoing_connection/src/main.rs"]

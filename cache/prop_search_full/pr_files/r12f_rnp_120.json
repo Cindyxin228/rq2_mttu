@@ -1,0 +1,1 @@
+["azure-pipelines.yml", "build/azure-pipeline/build-stages.yml", "build/azure-pipeline/workflow-pr.yml", "src/ping_result_processors/ping_result_processor_console_logger.rs"]

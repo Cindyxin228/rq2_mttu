@@ -1,0 +1,1 @@
+["scylla/src/statement/batch.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/session_test.rs"]

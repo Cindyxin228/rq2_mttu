@@ -1,0 +1,1 @@
+["CHANGELOG.md", "lib/wasi-tests/tests/wasitests/mod.rs", "lib/wasi-tests/tests/wasitests/path_symlink.rs", "lib/wasi-tests/wasitests/path_symlink.out", "lib/wasi-tests/wasitests/path_symlink.rs", "lib/wasi-tests/wasitests/path_symlink.wasm", "lib/wasi/src/state/mod.rs", "lib/wasi/src/state/types.rs", "lib/wasi/src/syscalls/mod.rs"]

@@ -1,0 +1,1 @@
+["config/src/lib.rs", "core/src/lib.rs", "ecs/src/lib.rs", "file/src/lib.rs", "lib/src/lib.rs", "logging/src/lib.rs", "pipeline/src/lib.rs", "storage/src/lib.rs", "test_helper/src/lib.rs", "walker/src/lib.rs", "workflow_tests/src/lib.rs"]

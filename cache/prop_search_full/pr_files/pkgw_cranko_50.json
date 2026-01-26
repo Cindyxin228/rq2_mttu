@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ci/azure-ci-cd.yml", "ci/azure-cross-build.yml", "src/cargo.rs", "src/changelog.rs", "src/csproj.rs", "src/logger.rs", "src/main.rs", "src/npm.rs", "src/pypa.rs", "src/repository.rs", "src/version.rs"]

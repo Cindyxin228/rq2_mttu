@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/cli-reference/dfx-identity.mdx", "e2e/assets/expect_scripts/create_identity_with_invalid_password.exp", "e2e/assets/expect_scripts/create_identity_with_password.exp", "e2e/tests-dfx/identity_encryption.bash", "src/dfx-core/src/identity/pem_safekeeping.rs"]

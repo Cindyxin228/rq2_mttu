@@ -1,0 +1,1 @@
+["Cargo.toml", "Package.swift", "bindings/kotlin/ldk-node-android/gradle.properties", "bindings/kotlin/ldk-node-jvm/gradle.properties", "bindings/python/pyproject.toml", "bindings/swift/Sources/LDKNode/LDKNode.swift", "scripts/uniffi_bindgen_generate_swift.sh"]

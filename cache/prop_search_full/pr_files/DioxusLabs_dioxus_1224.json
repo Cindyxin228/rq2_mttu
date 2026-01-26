@@ -1,0 +1,1 @@
+["packages/autofmt/Cargo.toml", "packages/autofmt/src/collect_macros.rs", "packages/autofmt/src/component.rs", "packages/autofmt/src/element.rs", "packages/autofmt/src/expr.rs", "packages/autofmt/src/lib.rs", "packages/cli/src/cli/autoformat.rs"]

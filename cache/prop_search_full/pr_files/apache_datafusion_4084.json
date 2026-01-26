@@ -1,0 +1,1 @@
+["datafusion/common/src/column.rs", "datafusion/common/src/dfschema.rs", "datafusion/common/src/error.rs", "datafusion/core/tests/sql/references.rs", "datafusion/expr/src/expr_rewriter.rs", "datafusion/sql/src/planner.rs"]

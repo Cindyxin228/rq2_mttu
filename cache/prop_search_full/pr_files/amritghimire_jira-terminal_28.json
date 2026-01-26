@@ -1,0 +1,1 @@
+["README.md", "src/config/mod.rs", "src/jira/assign.rs", "src/jira/comments.rs", "src/jira/details.rs", "src/jira/fields.rs", "src/jira/lists.rs", "src/jira/update.rs", "src/subcommands/list.rs", "src/subcommands/new_subcommand.rs"]

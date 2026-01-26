@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "sqlx-core/src/query.rs", "sqlx-core/src/query_as.rs", "sqlx-core/src/query_scalar.rs", "sqlx-postgres/src/types/chrono/date.rs", "sqlx-sqlite/src/types/chrono.rs", "sqlx-sqlite/src/types/mod.rs"]

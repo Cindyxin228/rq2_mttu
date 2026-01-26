@@ -1,0 +1,1 @@
+["crates/db_schema/src/schema.rs", "migrations/2023-06-22-101245_increase_user_theme_column_size/down.sql", "migrations/2023-06-22-101245_increase_user_theme_column_size/up.sql"]

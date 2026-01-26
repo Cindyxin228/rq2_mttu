@@ -1,0 +1,1 @@
+["Cargo.lock", "crux_core/src/capabilities/compose.rs", "crux_core/src/capabilities/render.rs", "crux_core/tests/capability_orchestration.rs", "crux_http/tests/with_tester.rs", "crux_kv/src/lib.rs", "crux_kv/tests/kv_test.rs", "crux_time/Cargo.toml", "crux_time/src/lib.rs", "crux_time/tests/time_test.rs", "docs/src/guide/capabilities.md"]

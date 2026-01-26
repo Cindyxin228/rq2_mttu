@@ -1,0 +1,1 @@
+[".github/workflows/cargo-audit.yml", ".github/workflows/cargo-clippy.yml", ".github/workflows/cargo-fmt.yml", ".github/workflows/cargo-test.yml", ".github/workflows/ci.yml", ".github/workflows/release.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "Makefile", "shell.nix", "src/db/dir.rs", "src/db/mod.rs", "src/import/autojump.rs", "src/shell.rs"]

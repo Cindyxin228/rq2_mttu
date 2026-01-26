@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client.rs", "src/lib.rs", "src/message.rs", "src/model/candlestick.rs", "src/model/mod.rs", "src/model/subscription_response_user.rs", "src/model/trade.rs", "src/subscription.rs", "src/websocket/client.rs", "src/websocket/mod.rs", "src/websocket/reader.rs", "src/websocket/writer.rs"]

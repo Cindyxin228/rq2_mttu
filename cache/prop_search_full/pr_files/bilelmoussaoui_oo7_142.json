@@ -1,0 +1,1 @@
+["Cargo.lock", "client/src/portal/secret.rs", "server/Cargo.toml", "server/src/collection.rs", "server/src/error.rs", "server/src/item.rs", "server/src/main.rs", "server/src/prompt.rs", "server/src/service.rs", "server/src/session.rs"]

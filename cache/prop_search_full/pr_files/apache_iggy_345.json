@@ -1,0 +1,1 @@
+["integration/tests/cmd/common/mod.rs", "integration/tests/cmd/user/test_login_options.rs", "integration/tests/cmd/user/test_user_password_command.rs"]

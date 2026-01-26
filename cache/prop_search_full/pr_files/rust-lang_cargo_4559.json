@@ -1,0 +1,1 @@
+["src/cargo/core/package.rs", "src/cargo/core/shell.rs", "src/cargo/core/source.rs", "src/cargo/ops/cargo_rustc/context.rs", "src/cargo/ops/cargo_rustc/layout.rs", "src/cargo/util/config.rs", "src/cargo/util/rustc.rs", "src/cargo/util/to_url.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", "cog.toml", "src/dots.rs", "src/error.rs", "src/git.rs", "src/gpg.rs", "src/lib.rs", "src/paths/mod.rs", "src/state.rs", "tests/gpg/private.gpg", "tests/gpg/public.gpg"]

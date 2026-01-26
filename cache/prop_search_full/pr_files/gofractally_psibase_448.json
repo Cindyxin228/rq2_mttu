@@ -1,0 +1,1 @@
+["CMakeLists.txt", "external/eos-vm", "libraries/psibase/native/src/ExecutionContext.cpp", "libraries/psibase/sdk/psibase-wasm-opt", "libraries/psibase/sdk/toolchain.cmake", "programs/psitest/main.cpp", "services/system/VerifyEcSys/CMakeLists.txt", "wasm/CMakeLists.txt"]

@@ -1,0 +1,1 @@
+["fe2o3-amqp-types/Cargo.toml", "fe2o3-amqp-types/src/messaging/message/body.rs", "fe2o3-amqp-types/src/messaging/message/mod.rs", "serde_amqp/src/de.rs", "serde_amqp/src/error.rs", "serde_amqp/src/primitives/symbol.rs", "serde_amqp/src/read/ioread.rs", "serde_amqp/src/read/mod.rs", "serde_amqp/src/read/sliceread.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "Cargo.lock", "Cargo.toml", "README.md", "dry-run.sh", "src/config.rs", "src/embedded_runner.rs", "src/generate_key.rs", "src/main.rs", "src/read_passphrase_secure.rs"]

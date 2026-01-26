@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/bluebuild.rs", "src/commands/bug_report.rs", "src/commands/build.rs", "template/templates/modules/modules.j2", "utils/Cargo.toml", "utils/src/lib.rs", "utils/src/logging.rs"]

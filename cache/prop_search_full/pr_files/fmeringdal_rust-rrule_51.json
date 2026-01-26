@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/codecov.yml", ".travis.yml", "README.md", "rrule/src/iter/iterinfo.rs", "rrule/src/iter/mod.rs", "rrule/src/iter/pos_list.rs", "rrule/src/iter/rruleset_iter.rs", "rrule/src/iter/yearinfo.rs", "rrule/src/parser/rrulestr.rs"]

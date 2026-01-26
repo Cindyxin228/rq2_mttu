@@ -1,0 +1,1 @@
+[".github/workflows/rust.yaml", ".gitignore", "Cargo.toml", "libduckdb-sys/Cargo.toml", "libduckdb-sys/duckdb/bindgen_bundled_version.rs", "libduckdb-sys/duckdb/duckdb.cpp", "libduckdb-sys/duckdb/duckdb.h", "libduckdb-sys/duckdb/duckdb.hpp", "libduckdb-sys/upgrade.sh", "src/cache.rs", "src/types/to_sql.rs"]

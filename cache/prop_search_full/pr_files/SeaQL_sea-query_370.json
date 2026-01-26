@@ -1,0 +1,1 @@
+["examples/sqlx_any/Cargo.toml", "sea-query-binder/Cargo.toml", "src/backend/postgres/table.rs", "src/backend/query_builder.rs", "src/shim.rs", "src/value.rs"]

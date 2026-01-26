@@ -1,0 +1,1 @@
+["deno_webgpu/01_webgpu.js", "deno_webgpu/src/command_encoder.rs", "deno_webgpu/src/lib.rs", "deno_webgpu/webgpu.idl", "player/src/lib.rs", "wgpu-core/src/command/clear.rs", "wgpu-core/src/device/trace.rs", "wgpu/src/backend/direct.rs", "wgpu/src/backend/web.rs", "wgpu/src/lib.rs"]

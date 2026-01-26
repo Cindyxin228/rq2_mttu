@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/formatters/functions.rs", "src/formatters/trivia.rs", "tests/inputs/hang-call-chain-small-prefix.lua", "tests/snapshots/tests__standard@hang-call-chain-small-prefix.lua.snap", "tests/snapshots/tests__standard@hang-call-chains-static.lua.snap", "tests/snapshots/tests__standard@hang-call-chains.lua.snap"]

@@ -1,0 +1,1 @@
+["crates/fuel-core/src/graphql_api/service.rs", "crates/fuel-core/src/service.rs", "crates/services/consensus_module/poa/src/service.rs", "crates/services/p2p/src/service.rs", "crates/services/relayer/src/service.rs", "crates/services/relayer/src/service/test.rs", "crates/services/src/service.rs", "crates/services/sync/src/service.rs", "crates/services/txpool/src/service.rs"]

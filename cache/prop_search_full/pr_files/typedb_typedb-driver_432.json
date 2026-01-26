@@ -1,0 +1,1 @@
+["common/exception/TypeDBClientException.java", "connection/cluster/ClusterClient.java", "connection/cluster/ClusterDatabaseManager.java", "dependencies/vaticle/repositories.bzl", "test/integration/ClientEncryptionTest.java"]

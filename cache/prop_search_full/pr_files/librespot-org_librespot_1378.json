@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/src/config.rs", "core/src/connection/handshake.rs", "core/src/connection/mod.rs", "core/src/http_client.rs", "core/src/login5.rs", "core/src/spclient.rs", "core/src/version.rs"]

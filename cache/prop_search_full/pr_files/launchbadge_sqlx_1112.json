@@ -1,0 +1,1 @@
+["sqlx-core/src/postgres/connection/describe.rs", "tests/postgres/postgres.rs", "tests/postgres/setup.sql"]

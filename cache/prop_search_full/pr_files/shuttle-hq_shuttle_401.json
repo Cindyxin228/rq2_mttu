@@ -1,0 +1,1 @@
+["cargo-shuttle/src/client.rs", "cargo-shuttle/src/lib.rs", "common/src/log.rs", "deployer/src/deployment/deploy_layer.rs", "deployer/src/deployment/provisioner_factory.rs", "deployer/src/deployment/queue.rs", "deployer/src/handlers/mod.rs", "deployer/src/persistence/log.rs", "deployer/src/persistence/mod.rs", "service/src/loader.rs"]

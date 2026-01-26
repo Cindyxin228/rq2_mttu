@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/direnv/Cargo.toml", "crates/direnv/src/lib.rs", "crates/nix_health/Cargo.toml", "crates/nix_health/src/check/direnv.rs"]

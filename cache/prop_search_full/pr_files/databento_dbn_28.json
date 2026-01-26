@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "c/Cargo.toml", "python/Cargo.toml", "python/pyproject.toml", "rust/dbn-cli/Cargo.toml", "rust/dbn-macros/Cargo.toml", "rust/dbn/Cargo.toml", "rust/dbn/src/metadata.rs"]

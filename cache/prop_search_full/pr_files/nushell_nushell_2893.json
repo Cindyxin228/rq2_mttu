@@ -1,0 +1,1 @@
+["crates/nu-protocol/src/value/serde_bigdecimal.rs", "crates/nu-protocol/src/value/serde_bigint.rs", "tests/shell/pipeline/commands/internal.rs"]

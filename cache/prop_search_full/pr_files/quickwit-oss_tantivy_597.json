@@ -1,0 +1,1 @@
+["src/core/inverted_index_reader.rs", "src/fieldnorm/code.rs", "src/indexer/delete_queue.rs", "src/indexer/doc_opstamp_mapping.rs", "src/indexer/index_writer.rs", "src/indexer/segment_updater.rs", "src/indexer/segment_writer.rs", "src/query/intersection.rs", "src/query/query_parser/query_grammar.rs", "src/store/reader.rs", "src/termdict/merger.rs", "src/tokenizer/stemmer.rs"]

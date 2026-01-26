@@ -1,0 +1,1 @@
+["README.md", "doc/lsd.md", "src/app.rs", "src/color.rs", "src/config_file.rs", "src/core.rs", "src/display.rs", "src/flags/permission.rs", "src/icon.rs", "src/meta/filetype.rs", "src/meta/mod.rs", "src/meta/name.rs", "src/meta/permissions.rs", "src/meta/permissions_or_attributes.rs", "src/meta/windows_attributes.rs", "src/sort.rs", "src/theme/color.rs", "tests/integration.rs"]

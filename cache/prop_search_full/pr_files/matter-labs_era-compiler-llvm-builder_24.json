@@ -1,0 +1,1 @@
+[".github/workflows/build-and-test.yaml", "Cargo.lock", "Cargo.toml", "src/platforms/aarch64_macos.rs", "src/platforms/shared.rs", "src/platforms/x86_64_macos.rs", "src/utils.rs", "tests/common/mod.rs"]

@@ -1,0 +1,1 @@
+[".dprint.json", "Cargo.lock", "cli/Cargo.toml", "cli/lockfile.rs", "cli/lsp/language_server.rs", "cli/tools/coverage/mod.rs", "cli/tools/fmt.rs", "test_util/src/lib.rs"]

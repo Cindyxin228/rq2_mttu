@@ -1,0 +1,1 @@
+["build-probe-mpi/src/lib.rs", "examples/immediate.rs", "examples/immediate_multiple_barrier.rs", "examples/immediate_multiple_requests.rs", "examples/immediate_multiple_test.rs", "src/collective.rs", "src/lib.rs", "src/point_to_point.rs", "src/request.rs"]

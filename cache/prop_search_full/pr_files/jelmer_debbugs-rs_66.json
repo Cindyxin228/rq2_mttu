@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/get_bugs.rs", "examples/get_status.rs", "examples/newest.rs", "src/async.rs", "src/blocking.rs", "src/lib.rs", "src/soap.rs"]

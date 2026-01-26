@@ -1,0 +1,1 @@
+[".github/workflows/tests.yml", "Cargo.toml", "README.md", "benchmarks/Cargo.toml", "benchmarks/benches/wigner-symbols.rs", "benchmarks/benches/wigners.rs", "benchmarks/benches/wigxjpf.rs", "benchmarks/sympy-bench.py", "benchmarks/wigner-symbol.jl", "python/build-wheels/Dockerfile", "python/wigners/__init__.py", "src/primes.rs", "src/wigner_3j.rs"]

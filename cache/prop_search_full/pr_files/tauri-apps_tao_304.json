@@ -1,0 +1,1 @@
+["audits/Radically_Open_Security-v1-report.pdf", "src/platform_impl/linux/global_shortcut.rs", "src/platform_impl/linux/keyboard.rs", "src/platform_impl/macos/clipboard.rs", "src/platform_impl/macos/event.rs", "src/platform_impl/macos/global_shortcut.rs", "src/platform_impl/macos/menu.rs", "src/platform_impl/windows/clipboard.rs", "src/platform_impl/windows/keyboard_layout.rs"]

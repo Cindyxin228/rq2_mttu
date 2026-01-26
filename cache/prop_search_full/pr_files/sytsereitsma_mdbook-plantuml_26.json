@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/base64_plantuml.rs", "src/bin/mdbook-plantuml.rs", "src/dir_cleaner.rs", "src/lib.rs", "src/markdown_plantuml_pipeline.rs", "src/plantuml_backend.rs", "src/plantuml_backend_factory.rs", "src/plantuml_renderer.rs", "src/plantuml_server_backend.rs", "src/plantuml_shell_backend.rs", "src/plantumlconfig.rs", "src/util.rs"]

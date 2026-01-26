@@ -1,0 +1,1 @@
+["CHANGELOG.md", "cli/src/info.rs", "probe-rs/src/architecture/arm/ap/memory_ap/mock.rs", "probe-rs/src/architecture/arm/ap/mod.rs", "probe-rs/src/probe.rs", "probe-rs/src/probe/stlink/mod.rs", "probe-rs/src/probe/stlink/usb_interface.rs", "probe-rs/src/session.rs"]

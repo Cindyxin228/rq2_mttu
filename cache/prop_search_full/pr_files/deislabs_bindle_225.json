@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "bin/server.rs", "src/authn/http_basic.rs", "src/authz/always.rs", "src/authz/anonymous_get.rs", "src/authz/mod.rs", "src/server/filters.rs", "src/server/mod.rs", "src/server/routes.rs", "tests/cli.rs", "tests/client.rs"]

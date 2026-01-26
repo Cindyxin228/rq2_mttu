@@ -1,0 +1,1 @@
+[".github/workflows/basic-checks.yaml", ".github/workflows/build-checks.yaml", ".github/workflows/execute-command.yaml", ".github/workflows/integration-tests-checks.yaml", ".github/workflows/nocompile-checks.yaml", ".github/workflows/preflight-checks.yaml", ".github/workflows/slash-command.yaml", ".github/workflows/unit-tests-checks.yaml"]

@@ -1,0 +1,1 @@
+["src/commands/kv/bucket/mod.rs", "src/commands/kv/bucket/sync.rs", "src/commands/kv/bucket/upload.rs", "src/commands/preview/upload.rs", "src/commands/publish.rs", "src/commands/secret/mod.rs", "src/http.rs", "src/terminal/message.rs", "src/upload/mod.rs"]

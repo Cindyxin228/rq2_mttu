@@ -1,0 +1,1 @@
+["protocols/plaintext/regen_structs_proto.sh", "protocols/plaintext/src/handshake.rs", "protocols/plaintext/src/lib.rs", "protocols/plaintext/src/pb.rs", "protocols/plaintext/src/structs.proto", "protocols/plaintext/src/structs_proto.rs"]

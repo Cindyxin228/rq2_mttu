@@ -1,0 +1,1 @@
+[".github/actions/task/action.yml", ".github/workflows/taskcluster.yml", ".taskcluster.yml", "CI/decision.py", "CI/get_artifact.py", "CI/gha.py", "CI/macos.token.enc", "CI/osx.token.enc", "CI/start-worker.sh", "CI/tasks.py"]

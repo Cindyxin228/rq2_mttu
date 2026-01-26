@@ -1,0 +1,1 @@
+["src/action.rs", "src/common.rs", "src/dumper.rs", "src/linux/elf.rs", "src/mac/macho.rs", "src/main.rs", "src/windows/pdb.rs"]

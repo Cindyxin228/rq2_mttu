@@ -1,0 +1,1 @@
+["crates/matrix-crypto-ffi/src/machine.rs", "crates/matrix-crypto-ffi/src/olm.udl", "crates/matrix-sdk-base/src/client.rs", "crates/matrix-sdk-crypto/src/machine.rs"]

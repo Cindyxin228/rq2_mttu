@@ -1,0 +1,1 @@
+["src/storage/src/storage/perform_upload/buffered.rs", "src/storage/src/storage/perform_upload/buffered/resumable_tests.rs", "src/storage/src/storage/perform_upload/tests.rs", "src/storage/src/storage/perform_upload/unbuffered/single_shot_tests.rs", "src/storage/src/storage/transport.rs", "src/storage/src/storage/write_object.rs"]

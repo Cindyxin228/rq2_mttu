@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".gitignore", "Cargo.toml", "README.md", "src/default/multi/${table_name}.tmpl", "src/default/single/mod.tmpl", "src/helper.rs", "src/main.rs", "src/model.rs", "src/repository.rs", "testddl/schema.sql", "tests/test.rs"]

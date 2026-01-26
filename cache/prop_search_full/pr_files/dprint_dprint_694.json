@@ -1,0 +1,1 @@
+["crates/dprint/clippy.toml", "crates/dprint/src/commands/formatting.rs", "crates/dprint/src/environment/environment.rs", "crates/dprint/src/environment/real_environment.rs", "crates/dprint/src/plugins/cache.rs", "crates/dprint/src/plugins/implementations/process/plugin.rs", "crates/dprint/src/utils/lax_single_process_fs_flag.rs"]

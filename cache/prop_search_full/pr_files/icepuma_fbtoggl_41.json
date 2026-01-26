@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".gitignore", "Cargo.toml", "check.sh", "src/client.rs", "src/client_tests.rs", "src/commands/clients.rs", "src/commands/projects.rs", "src/commands/time_entries.rs", "src/commands/time_entries_tests.rs", "src/commands/workspaces.rs", "src/report_client.rs"]

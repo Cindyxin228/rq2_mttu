@@ -1,0 +1,1 @@
+["src/renderer/html_handlebars/hbs_renderer.rs", "src/renderer/html_handlebars/helpers/toc.rs", "tests/dummy_book/index_html_test/SUMMARY.md", "tests/dummy_book/index_html_test/chapter_1.md", "tests/rendered_output.rs"]

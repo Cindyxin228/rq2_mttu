@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.toml", "README.md", "appveyor.yml", "examples/info.rs", "examples/kafka.rs", "examples/stats.rs", "src/container.rs", "src/image.rs", "src/lib.rs", "src/named_pipe.rs", "tests/common/mod.rs", "tests/image_test.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/generate.rs", "src/session/manager.rs", "src/utils/cache.rs", "src/utils/mod.rs", "src/utils/version.rs", "tests/cli_integration.rs", "tests/integration/cli_tests.rs", "tests/integration/mod.rs"]

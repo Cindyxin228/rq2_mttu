@@ -1,0 +1,1 @@
+["src/aead/aes.rs", "src/aead/chacha.rs", "src/aead/gcm.rs", "src/aead/gcm/gcm_nohw.rs", "src/polyfill.rs", "src/polyfill/array_split_map.rs", "src/polyfill/chunks_fixed.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/action.rs", "src/common.rs", "src/linux/elf.rs", "src/linux/symbol.rs", "src/mapping.rs", "src/windows/pdb.rs", "test_data/linux/basic.full.sym", "test_data/linux/basic.full_no_multiple.sym"]

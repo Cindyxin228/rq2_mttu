@@ -1,0 +1,1 @@
+["azure_sdk_core/src/lib.rs", "azure_sdk_storage_table/examples/copy_table.rs", "azure_sdk_storage_table/examples/entries.rs", "azure_sdk_storage_table/src/lib.rs", "azure_sdk_storage_table/src/table/batch.rs", "azure_sdk_storage_table/src/table/mod.rs", "azure_sdk_storage_table/src/table_entry.rs"]

@@ -1,0 +1,1 @@
+[".github/ISSUE_TEMPLATE/bug_report.md", ".github/PULL_REQUEST_TEMPLATE/pull_request_template.md", ".github/workflows/build.yml", "Cargo.lock", "Cargo.toml", "README.md", "apfloat/src/ieee.rs", "apfloat/src/lib.rs", "apfloat/tests/ieee.rs", "apfloat/tests/ppc.rs", "derive/src/lib.rs", "num/src/bigint.rs", "src/lib.rs", "src/slice32.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "appveyor.yml", "scripts/build-release.sh", "src/cache/cache.rs", "src/cache/mod.rs", "src/cache/redis.rs", "src/cmdline.rs", "src/errors.rs", "src/main.rs"]

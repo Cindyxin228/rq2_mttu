@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-plan/src/dsl/mod.rs", "polars/polars-time/src/chunkedarray/rolling_window/mod.rs", "polars/polars-time/src/chunkedarray/rolling_window/rolling_kernels/no_nulls.rs", "polars/polars-time/src/windows/groupby.rs", "polars/polars-time/src/windows/test.rs", "py-polars/tests/unit/operations/test_rolling.py"]

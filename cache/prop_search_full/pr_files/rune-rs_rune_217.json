@@ -1,0 +1,1 @@
+["crates/rune/src/ast/expr.rs", "crates/rune/src/ast/expr_field_access.rs", "crates/rune/src/ast/stmt.rs", "crates/rune/src/parsing/lexer.rs", "crates/runestick/src/modules/int.rs", "crates/runestick/src/modules/string.rs"]

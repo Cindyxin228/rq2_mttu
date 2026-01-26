@@ -1,0 +1,1 @@
+["src/contract/assignments.rs", "src/contract/fungible.rs", "src/validation/status.rs", "src/validation/validator.rs", "src/vm/op_contract.rs", "src/vm/op_timechain.rs", "src/vm/runtime.rs", "src/vm/script.rs"]

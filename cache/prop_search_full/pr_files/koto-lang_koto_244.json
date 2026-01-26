@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "core/koto/Cargo.toml", "core/koto/benches/koto_benchmark.rs", "core/koto/src/error.rs", "core/koto/src/koto.rs", "core/koto/src/lib.rs", "core/koto/src/prelude.rs", "core/koto/tests/one_plus_two.rs", "core/parser/src/parser.rs", "core/runtime/src/vm.rs", "justfile"]

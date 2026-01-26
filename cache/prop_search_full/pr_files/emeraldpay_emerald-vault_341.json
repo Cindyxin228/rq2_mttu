@@ -1,0 +1,1 @@
+["proto/seed.proto", "src/blockchain/ethereum/signature.rs", "src/convert/proto/seed.rs", "src/crypto.rs", "src/crypto/fingerprint.rs", "src/migration/source/common.rs", "src/proto/seed.rs", "src/sign/bitcoin.rs", "src/sign/ethereum.rs", "src/storage/vault.rs", "src/storage/vault_bitcoin.rs", "src/storage/vault_ethereum.rs", "src/storage/watch.rs", "src/structs/seed.rs"]

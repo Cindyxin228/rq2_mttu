@@ -1,0 +1,1 @@
+["src/bindings.rs", "src/bitmap.rs", "src/thread_safe.rs", "src/wasm.rs"]

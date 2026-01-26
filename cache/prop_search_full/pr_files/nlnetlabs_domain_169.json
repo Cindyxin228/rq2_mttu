@@ -1,0 +1,1 @@
+["src/base/opt/mod.rs", "src/base/rdata.rs", "src/rdata/macros.rs", "src/rdata/rfc1035.rs", "src/rdata/rfc2845.rs", "src/rdata/rfc4034.rs", "src/rdata/rfc7344.rs", "src/sign/records.rs", "src/sign/ring.rs", "src/tsig/mod.rs", "src/validate.rs"]

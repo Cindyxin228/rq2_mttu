@@ -1,0 +1,1 @@
+["kernel/src/actions/deletion_vector.rs", "kernel/src/engine/arrow_data.rs", "kernel/src/engine/arrow_utils.rs", "kernel/src/engine/sync/json.rs", "kernel/src/expressions/scalars.rs", "kernel/src/lib.rs", "kernel/src/schema.rs", "kernel/src/snapshot.rs", "kernel/src/utils.rs"]

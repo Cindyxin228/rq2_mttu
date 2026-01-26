@@ -1,0 +1,1 @@
+["consensus/src/aggregator.rs", "consensus/src/commons.rs", "consensus/src/consensus.rs", "consensus/src/execution_ctx.rs", "consensus/src/phase.rs", "consensus/src/proposal/block_generator.rs", "consensus/src/proposal/handler.rs", "node-data/src/message.rs", "rusk/src/lib/http/chain.rs", "rusk/src/lib/node/vm.rs"]

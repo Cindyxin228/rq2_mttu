@@ -1,0 +1,1 @@
+["scylla/src/client/session.rs", "scylla/src/cluster/state.rs", "scylla/src/errors.rs", "scylla/tests/integration/session/mod.rs", "scylla/tests/integration/session/schema_agreement.rs", "scylla/tests/integration/utils.rs"]

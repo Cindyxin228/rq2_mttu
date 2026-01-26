@@ -1,0 +1,1 @@
+["crates/nu-cli/Cargo.toml", "crates/nu-cli/src/keybinding.rs", "crates/nu-data/src/keybinding.rs", "crates/nu-data/src/lib.rs", "crates/nu-engine/Cargo.toml", "crates/nu-engine/src/evaluate/variables.rs"]

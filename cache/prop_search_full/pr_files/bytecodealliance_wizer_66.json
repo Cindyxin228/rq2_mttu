@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/regex.rs", "benches/uap.rs", "fuzz/Cargo.toml", "fuzz/fuzz_targets/same_result.rs", "src/lib.rs"]

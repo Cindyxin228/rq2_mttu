@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/service_bus/Cargo.toml", "examples/service_bus/src/bin/cbs.rs", "examples/service_bus/src/bin/management.rs", "fe2o3-amqp-cbs/Cargo.toml", "fe2o3-amqp-cbs/src/lib.rs", "fe2o3-amqp/Cargo.toml", "fe2o3-amqp/src/frames/amqp.rs"]

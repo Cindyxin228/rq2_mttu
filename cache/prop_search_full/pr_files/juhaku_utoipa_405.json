@@ -1,0 +1,1 @@
+["utoipa-gen/src/lib.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/path/property.rs", "utoipa-gen/src/path/request_body.rs", "utoipa-gen/src/path/response.rs", "utoipa-gen/src/schema_type.rs", "utoipa-gen/tests/path_response_derive_test.rs"]

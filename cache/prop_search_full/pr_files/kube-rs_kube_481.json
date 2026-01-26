@@ -1,0 +1,1 @@
+["examples/crd_derive.rs", "examples/crd_derive_no_schema.rs", "kube-derive/Cargo.toml", "kube-derive/src/custom_resource.rs", "kube-derive/src/lib.rs", "kube/src/api/dynamic.rs", "kube/src/api/metadata.rs", "kube/src/api/typed.rs"]

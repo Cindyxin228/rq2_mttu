@@ -1,0 +1,1 @@
+[".github/workflows/cosmos-sdk-proto.yml", ".github/workflows/cosmos-sdk-rs.yml", ".github/workflows/rebuild-protos.yml", ".github/workflows/workspace.yml", "README.md", "cosmos-sdk-proto/README.md", "cosmos-sdk-rs/README.md", "cosmos-sdk-rs/src/staking.rs", "rust-toolchain"]

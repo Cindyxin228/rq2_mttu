@@ -1,0 +1,1 @@
+["bindings/nostr-ffi/src/contact.rs", "bindings/nostr-js/src/types/contact.rs", "bindings/nostr-nodejs/src/types/contact.rs", "crates/nostr-sdk/src/client/mod.rs", "crates/nostr/src/event/builder.rs", "crates/nostr/src/event/tag.rs", "crates/nostr/src/prelude.rs", "crates/nostr/src/types/contact.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build-ffi.yml", ".github/workflows/build.yml", ".github/workflows/release.yml", "rust/pact_ffi/CMakeLists.txt", "rust/pact_ffi/ci-build.sh", "rust/pact_ffi/release-linux.sh"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-shuttle/Cargo.toml", "cargo-shuttle/src/lib.rs", "deployer/Cargo.toml", "deployer/src/deployment/queue.rs", "deployer/src/handlers/mod.rs", "resources/static-folder/Cargo.toml", "runtime/Cargo.toml", "service/Cargo.toml", "service/src/builder.rs", "service/src/lib.rs"]

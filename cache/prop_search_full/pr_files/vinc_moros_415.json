@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "doc/lisp.md", "dsk/lib/lisp/core.lsp", "dsk/tmp/lisp/pi.lsp", "src/lib.rs", "src/sys/idt.rs", "src/usr/lisp.rs", "src/usr/mod.rs", "src/usr/pi.rs", "src/usr/shell.rs"]

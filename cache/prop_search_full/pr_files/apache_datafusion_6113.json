@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/aggregates/mod.rs", "datafusion/core/src/physical_plan/projection.rs", "datafusion/core/tests/sqllogictests/test_files/groupby.slt", "datafusion/physical-expr/src/lib.rs", "datafusion/physical-expr/src/utils.rs"]

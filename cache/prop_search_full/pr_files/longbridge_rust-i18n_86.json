@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "crates/cli/Cargo.toml", "crates/extract/Cargo.toml", "crates/extract/src/generator.rs", "crates/macro/Cargo.toml", "crates/macro/src/tr.rs", "crates/support/Cargo.toml", "crates/support/src/lib.rs", "tests/integration_tests.rs"]

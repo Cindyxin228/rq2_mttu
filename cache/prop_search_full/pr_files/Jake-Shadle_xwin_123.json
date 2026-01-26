@@ -1,0 +1,1 @@
+["README.md", "src/ctx.rs", "src/lib.rs", "src/main.rs", "src/manifest.rs", "src/minimize.rs", "src/splat.rs", "tests/compiles.rs", "tests/deterministic.rs", "tests/snapshots/xwin-minimize.snap", "tests/snapshots/xwin-splat.snap"]

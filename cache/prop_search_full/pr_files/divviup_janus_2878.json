@@ -1,0 +1,1 @@
+[".github/workflows/ci-build.yml", "Cargo.toml", "Dockerfile", "Dockerfile.interop", "Dockerfile.interop_aggregator", "Dockerfile.sqlx"]

@@ -1,0 +1,1 @@
+["crux_http/src/client.rs", "crux_http/src/error.rs", "crux_http/src/protocol.rs", "crux_http/src/testing/fake_shell.rs", "crux_http/tests/with_shell.rs", "crux_http/tests/with_tester.rs"]

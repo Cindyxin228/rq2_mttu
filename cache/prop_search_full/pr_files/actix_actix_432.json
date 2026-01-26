@@ -1,0 +1,1 @@
+["CHANGES.md", "examples/weak_addr.rs", "examples/weak_recipient.rs", "src/address/channel.rs", "src/address/mod.rs", "src/lib.rs", "tests/test_address.rs"]

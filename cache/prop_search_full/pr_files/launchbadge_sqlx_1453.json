@@ -1,0 +1,1 @@
+["sqlx-core/src/sqlite/connection/mod.rs", "sqlx-core/src/sqlite/statement/worker.rs", "tests/sqlite/sqlite.rs"]

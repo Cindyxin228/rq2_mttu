@@ -1,0 +1,1 @@
+["examples/perlin_surflet.rs", "examples/power.rs", "examples/simplex.rs", "src/noise_fns/generators/fractals/basicmulti.rs", "src/noise_fns/generators/fractals/billow.rs", "src/noise_fns/generators/fractals/fbm.rs", "src/noise_fns/generators/fractals/hybridmulti.rs", "src/noise_fns/generators/fractals/ridgedmulti.rs"]

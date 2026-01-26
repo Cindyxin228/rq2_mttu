@@ -1,0 +1,1 @@
+["Cargo.lock", "crypto_box/Cargo.toml", "crypto_secretbox/Cargo.toml", "crypto_secretbox/src/lib.rs", "crypto_secretbox/tests/xsalsa20poly1305.rs"]

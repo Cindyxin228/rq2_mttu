@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test_supabase_wrappers.yml", ".github/workflows/test_wrappers.yml", "Cargo.lock", "supabase-wrappers/Cargo.toml", "supabase-wrappers/src/lib.rs", "wrappers/Cargo.lock", "wrappers/Cargo.toml"]

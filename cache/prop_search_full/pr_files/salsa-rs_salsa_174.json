@@ -1,0 +1,1 @@
+["Cargo.toml", "components/salsa-macros/Cargo.toml", "components/salsa-macros/src/lib.rs", "components/salsa-macros/src/query_group.rs", "src/derived.rs", "src/plumbing.rs", "src/runtime.rs", "tests/cycles.rs", "tests/gc/volatile_tests.rs", "tests/incremental/memoized_volatile.rs", "tests/lru.rs", "tests/storage_varieties/queries.rs"]

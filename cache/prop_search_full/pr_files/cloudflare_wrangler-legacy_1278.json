@@ -1,0 +1,1 @@
+["src/commands/config.rs", "src/commands/generate.rs", "src/commands/init.rs", "src/commands/publish.rs", "src/commands/route.rs", "src/commands/secret.rs", "src/commands/subdomain.rs", "src/commands/tail.rs", "src/commands/whoami.rs"]

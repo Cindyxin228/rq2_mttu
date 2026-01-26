@@ -1,0 +1,1 @@
+["ic-agent/src/agent/mod.rs", "ic-asset/src/asset_canister/chunk.rs", "ic-utils/src/canister.rs", "ic-utils/src/interfaces/management_canister.rs", "ic-utils/src/interfaces/management_canister/builders.rs", "ic-utils/src/interfaces/wallet.rs", "icx-asset/src/commands/list.rs", "icx/src/main.rs", "ref-tests/tests/ic-ref.rs", "ref-tests/tests/integration.rs"]

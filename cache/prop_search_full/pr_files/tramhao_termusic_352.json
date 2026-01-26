@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "lib/Cargo.toml", "lib/src/playlist/asx.rs", "lib/src/playlist/xspf.rs", "lib/src/utils.rs", "playback/Cargo.toml", "playback/src/gstreamer_backend.rs", "playback/src/mpris.rs", "playback/src/rusty_backend/conversions/sample.rs", "tui/src/ui/model/update.rs"]

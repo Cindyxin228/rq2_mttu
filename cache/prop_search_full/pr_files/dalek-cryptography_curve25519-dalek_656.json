@@ -1,0 +1,1 @@
+["curve25519-dalek/Cargo.toml", "curve25519-dalek/src/backend/vector/ifma/edwards.rs", "curve25519-dalek/src/backend/vector/ifma/field.rs", "curve25519-dalek/src/lib.rs"]

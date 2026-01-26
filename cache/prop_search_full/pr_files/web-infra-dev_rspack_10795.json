@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/rspack_plugin_devtool/Cargo.toml", "crates/rspack_plugin_devtool/src/source_map_dev_tool_plugin.rs", "crates/rspack_plugin_javascript/src/plugin/mangle_exports_plugin.rs"]

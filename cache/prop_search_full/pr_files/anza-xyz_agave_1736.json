@@ -1,0 +1,1 @@
+["runtime/src/bank.rs", "runtime/src/bank/tests.rs", "svm/src/program_loader.rs", "svm/src/transaction_processor.rs", "svm/tests/conformance.rs", "svm/tests/integration_test.rs"]

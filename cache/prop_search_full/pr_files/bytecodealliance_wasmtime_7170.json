@@ -1,0 +1,1 @@
+["crates/component-macro/src/bindgen.rs", "crates/component-macro/tests/codegen.rs", "crates/wasi/src/preview2/mod.rs", "crates/wasmtime/src/component/mod.rs", "crates/wit-bindgen/src/lib.rs", "tests/all/component_model/bindgen/results.rs"]

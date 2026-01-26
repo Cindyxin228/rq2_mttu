@@ -1,0 +1,1 @@
+["CHANGELOG.md", "CLI.md", "src/cli.rs", "src/command/mod.rs", "src/command/update_addons.rs", "src/command/update_weakauras.rs", "src/gui/mod.rs", "src/gui/update.rs", "src/main.rs"]

@@ -1,0 +1,1 @@
+["diesel/Cargo.toml", "diesel/src/pg/query_builder/mod.rs", "diesel_cli/Cargo.toml", "diesel_cli/src/infer_schema_internals/mysql.rs", "diesel_cli/src/infer_schema_internals/pg.rs"]

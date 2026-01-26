@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "docs/features.md", "src/commands/date.rs", "src/commands/file_type.rs", "src/commands/help.rs", "src/commands/mod.rs", "src/commands/name.rs", "src/commands/size.rs", "src/main.rs", "src/parser.rs", "src/path.rs"]

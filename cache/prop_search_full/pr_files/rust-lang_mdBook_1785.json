@@ -1,0 +1,1 @@
+["src/book/book.rs", "src/renderer/html_handlebars/helpers/toc.rs", "src/utils/mod.rs", "tests/dummy_book/summary-formatting/SUMMARY.md", "tests/rendered_output.rs"]

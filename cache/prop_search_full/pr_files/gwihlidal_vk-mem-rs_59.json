@@ -1,0 +1,1 @@
+[".gitmodules", "Cargo.toml", "build.rs", "gen/bindings.rs", "src/definitions.rs", "src/lib.rs", "tests/mod.rs", "vendor", "vendor/Vulkan-Headers", "vendor/VulkanMemoryAllocator", "wrapper/vulkan/vk_platform.h", "wrapper/vulkan/vulkan.h", "wrapper/vulkan/vulkan_core.h"]

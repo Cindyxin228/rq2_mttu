@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "README.md", "examples/basic_http.rs", "examples/client_options.rs", "examples/custom_client.rs", "examples/from_stream.rs", "examples/infinite_stream.rs", "examples/memory_storage.rs", "examples/retry_middleware.rs", "examples/stream_progress.rs", "examples/video_mpv.rs", "examples/youtube_simple.rs"]

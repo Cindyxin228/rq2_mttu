@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/component-macro/src/bindgen.rs", "crates/wasi/src/preview2/command.rs", "crates/wasi/src/preview2/mod.rs", "crates/wit-bindgen/Cargo.toml", "crates/wit-bindgen/src/lib.rs", "tests/all/component_model/bindgen/results.rs"]

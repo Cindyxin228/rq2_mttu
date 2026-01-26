@@ -1,0 +1,1 @@
+[".cargo/config", ".github/workflows/ci.yml", "crates/fuel-core/src/executor.rs", "crates/fuel-core/src/query/block.rs", "crates/fuel-core/src/schema/coins.rs", "crates/services/p2p/src/service.rs", "deployment/Dockerfile", "deployment/e2e-client.Dockerfile", "tests/tests/sync.rs", "tests/tests/tx/utxo_validation.rs"]

@@ -1,0 +1,1 @@
+["examples/examples/z_get.rs", "plugins/zenoh-plugin-rest/src/lib.rs", "plugins/zenoh-plugin-storage-manager/src/storages_mgt.rs", "zenoh-ext/src/group.rs", "zenoh-ext/src/querying_subscriber.rs", "zenoh/src/lib.rs", "zenoh/src/query.rs", "zenoh/src/session.rs"]

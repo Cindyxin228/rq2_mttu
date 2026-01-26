@@ -1,0 +1,1 @@
+["Cargo.toml", "iroh-bitswap/src/lib.rs", "iroh-p2p/Cargo.toml", "iroh-p2p/src/behaviour.rs", "iroh-p2p/src/behaviour/event.rs", "iroh-p2p/src/node.rs", "iroh-p2p/src/swarm.rs"]

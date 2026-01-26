@@ -1,0 +1,1 @@
+["crates/nu-parser/src/known_external.rs", "crates/nu-protocol/src/engine/engine_state.rs", "src/tests/test_known_external.rs"]

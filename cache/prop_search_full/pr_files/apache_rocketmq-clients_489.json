@@ -1,0 +1,1 @@
+[".codecov.yml", ".github/workflows/rust_build.yml", ".github/workflows/rust_coverage.yaml", "rust/src/main.rs", "rust/src/model/common.rs", "rust/src/producer.rs", "rust/src/simple_consumer.rs"]

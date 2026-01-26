@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/ide_assists/Cargo.toml", "crates/ide_assists/src/handlers/extract_module.rs", "crates/ide_assists/src/utils/suggest_name.rs", "crates/ide_db/src/lib.rs"]

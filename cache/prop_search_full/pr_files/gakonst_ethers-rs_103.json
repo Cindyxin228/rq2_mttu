@@ -1,0 +1,1 @@
+["Cargo.lock", "ethers-core/Cargo.toml", "ethers-core/src/types/signature.rs", "ethers-providers/src/pending_transaction.rs", "ethers-signers/Cargo.toml", "ethers-signers/src/wallet/private_key.rs"]

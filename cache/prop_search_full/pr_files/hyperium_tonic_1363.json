@@ -1,0 +1,1 @@
+["tests/integration_tests/proto/test.proto", "tests/integration_tests/tests/max_message_size.rs"]

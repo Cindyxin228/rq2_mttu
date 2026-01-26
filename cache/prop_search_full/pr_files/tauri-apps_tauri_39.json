@@ -1,0 +1,1 @@
+["bindings/rust/rustfmt.toml", "lib/rust/build.rs", "lib/rust/rustfmt.toml", "lib/rust/src/lib.rs", "templates/rust/rustfmt.toml", "templates/rust/src/main.rs", "templates/rust/src/updater.rs"]

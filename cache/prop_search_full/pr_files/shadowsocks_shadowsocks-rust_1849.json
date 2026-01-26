@@ -1,0 +1,1 @@
+[".github/workflows/build-and-test.yml", "clippy.toml", "crates/shadowsocks-service/src/local/redir/tcprelay/mod.rs", "crates/shadowsocks-service/src/local/tun/tcp.rs", "src/service/local.rs", "src/service/manager.rs", "src/service/server.rs"]

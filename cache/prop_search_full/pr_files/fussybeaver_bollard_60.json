@@ -1,0 +1,1 @@
+["README.md", "appveyor.yml", "dockerfiles/bin/run_integration_tests.sh", "src/docker.rs", "src/lib.rs", "src/service.rs", "src/service_models.rs", "tests/service_test.rs"]

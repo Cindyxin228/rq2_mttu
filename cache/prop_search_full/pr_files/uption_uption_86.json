@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/collectors/http.rs", "src/collectors/ping.rs", "src/config.rs", "src/exporters/influxdb/influxdb_v1.rs", "src/exporters/influxdb/influxdb_v2.rs", "src/exporters/influxdb/mod.rs", "tests/integration.rs", "uption.toml"]

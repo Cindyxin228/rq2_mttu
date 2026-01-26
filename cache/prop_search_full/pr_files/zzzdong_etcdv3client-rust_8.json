@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "bin/update_proto.sh", "examples/hello.rs", "proto/auth.proto", "proto/kv.proto", "proto/rpc.proto", "src/auth.rs", "src/client.rs", "src/error.rs", "src/kv.rs", "src/lib.rs", "src/pb/authpb.rs", "src/pb/etcdserverpb.rs", "src/pb/mod.rs", "src/utils.rs", "src/watch.rs", "src/watcher.rs"]

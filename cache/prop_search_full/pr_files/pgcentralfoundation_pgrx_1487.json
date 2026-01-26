@@ -1,0 +1,1 @@
+["cargo-pgrx/README.md", "cargo-pgrx/src/command/init.rs", "cargo-pgrx/src/command/mod.rs", "cargo-pgrx/src/command/start.rs", "cargo-pgrx/src/command/stop.rs", "cargo-pgrx/src/command/test.rs", "cargo-pgrx/src/manifest.rs", "pgrx-pg-sys/build.rs"]

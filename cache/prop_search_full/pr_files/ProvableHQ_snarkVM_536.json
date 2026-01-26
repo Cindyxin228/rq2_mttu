@@ -1,0 +1,1 @@
+[".integration/tests/dpc_testnet1.rs", ".integration/tests/dpc_testnet2.rs", "dpc/src/block/block.rs", "dpc/src/block/header.rs", "dpc/src/block/mod.rs", "dpc/src/block/template.rs", "dpc/src/ledger/ledger.rs"]

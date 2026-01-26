@@ -1,0 +1,1 @@
+["Cargo.lock", "dropshot/Cargo.toml", "dropshot/examples/websocket.rs", "dropshot/src/api_description.rs", "dropshot/src/handler.rs", "dropshot/src/lib.rs", "dropshot/src/router.rs", "dropshot/src/websocket.rs", "dropshot/tests/fail/bad_endpoint3.stderr", "dropshot/tests/fail/bad_endpoint4.stderr", "dropshot/tests/test_demo.rs", "dropshot_endpoint/src/lib.rs"]

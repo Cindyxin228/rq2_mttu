@@ -1,0 +1,1 @@
+["exonum/src/blockchain/transaction.rs", "exonum/src/encoding/fields.rs", "exonum/src/encoding/segments.rs", "exonum/src/encoding/serialize/mod.rs", "exonum/src/encoding/spec.rs", "exonum/src/helpers/fabric/context_key.rs"]

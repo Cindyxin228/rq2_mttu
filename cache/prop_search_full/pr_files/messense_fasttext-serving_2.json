@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "proto/predict.proto", "python/README.md", "python/fasttext_serving/__init__.py", "python/fasttext_serving/predict_pb2.py", "python/fasttext_serving/predict_pb2_grpc.py", "python/setup.cfg", "python/setup.py", "src/grpc/mod.rs", "src/grpc/predict.rs", "src/grpc/predict_grpc.rs", "src/http.rs", "src/main.rs"]

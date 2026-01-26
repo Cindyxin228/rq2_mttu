@@ -1,0 +1,1 @@
+["src/drawing/bezier.rs", "src/drawing/conics.rs", "src/drawing/cross.rs", "src/drawing/line.rs", "src/drawing/mod.rs", "src/drawing/polygon.rs", "src/drawing/rect.rs", "src/drawing/text.rs"]

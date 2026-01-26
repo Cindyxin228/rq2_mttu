@@ -1,0 +1,1 @@
+["coverage_config_x86_64.json", "src/loader/x86_64/bzimage/invalid_bzimage.bin", "src/loader/x86_64/bzimage/mod.rs", "src/loader/x86_64/elf/mod.rs", "src/loader/x86_64/elf/test_align.bin"]

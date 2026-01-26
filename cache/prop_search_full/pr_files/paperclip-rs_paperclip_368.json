@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "core/src/v2/resolver.rs", "macros/Cargo.toml", "macros/src/actix.rs", "src/v2/codegen/emitter.rs", "src/v2/codegen/impls.rs", "src/v2/codegen/object.rs", "src/v2/codegen/state.rs"]

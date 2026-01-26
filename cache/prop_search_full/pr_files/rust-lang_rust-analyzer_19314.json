@@ -1,0 +1,1 @@
+["crates/hir/src/has_source.rs", "crates/parser/src/syntax_kind/generated.rs", "crates/syntax/rust.ungram", "crates/syntax/src/ast/generated/nodes.rs", "docs/book/src/assists_generated.md"]

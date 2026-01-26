@@ -1,0 +1,1 @@
+["crates/lang/ir/src/ir/item_impl/callable.rs", "crates/lang/macro/tests/compile_tests.rs", "crates/lang/macro/tests/ui/fail/C-16-function-arg-struct-destructuring.rs", "crates/lang/macro/tests/ui/fail/C-16-function-arg-struct-destructuring.stderr"]

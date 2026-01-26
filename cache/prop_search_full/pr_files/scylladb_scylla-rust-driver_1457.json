@@ -1,0 +1,1 @@
+["scylla/src/client/execution_profile.rs", "scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/tests/integration/statements/request_timeout.rs"]

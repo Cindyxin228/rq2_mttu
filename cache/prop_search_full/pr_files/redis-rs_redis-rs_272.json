@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "benches/bench_basic.rs", "src/aio.rs", "src/client.rs", "src/cmd.rs", "src/connection.rs", "src/lib.rs", "src/parser.rs", "src/types.rs", "tests/parser.rs", "tests/test_async.rs", "tests/test_basic.rs"]

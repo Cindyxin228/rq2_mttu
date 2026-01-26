@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/question_answering_bert.rs", "src/bert/bert.rs", "src/pipelines/common.rs", "src/pipelines/question_answering.rs", "src/pipelines/sequence_classification.rs", "utils/download-dependencies_bert_qa.py"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "loopers-common/Cargo.toml", "loopers-common/src/gui_channel.rs", "loopers-engine/Cargo.toml", "loopers-engine/src/looper.rs", "loopers-gui/Cargo.toml", "loopers-gui/src/app.rs", "loopers-gui/src/skia.rs", "loopers-gui/src/widgets.rs", "loopers-jack/Cargo.toml", "loopers-jack/src/main.rs"]

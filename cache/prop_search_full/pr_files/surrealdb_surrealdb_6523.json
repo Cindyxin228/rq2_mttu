@@ -1,0 +1,1 @@
+["crates/core/src/fnc/mod.rs", "crates/core/src/fnc/type.rs", "crates/core/src/rpc/format/cbor/convert.rs", "crates/core/src/syn/parser/builtin.rs", "crates/language-tests/tests/language/functions/type/type_of.surql"]

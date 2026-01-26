@@ -1,0 +1,1 @@
+["crates/core/src/catalog/schema/index.rs", "crates/core/src/sql/index.rs", "crates/core/src/syn/parser/stmt/define.rs", "crates/language-tests/Cargo.lock", "crates/language-tests/tests/language/functions/search/search-linear.surql", "crates/language-tests/tests/language/functions/search/search-rrf.surql", "revision.lock"]

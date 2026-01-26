@@ -1,0 +1,1 @@
+[".github/workflows/build-test-sources.yaml", "haskell-src/Concordium/Genesis/Data/BaseV1.hs", "haskell-src/Concordium/Types.hs", "haskell-src/Concordium/Types/ProtocolVersion.hs", "haskell-src/Concordium/Types/Transactions.hs", "identity-provider-service/Cargo.lock", "identity-provider-service/Cargo.toml", "rust-bins/Cargo.lock", "rust-bins/Cargo.toml"]

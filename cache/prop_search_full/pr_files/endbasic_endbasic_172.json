@@ -1,0 +1,1 @@
+["Makefile", "NEWS.md", "cli/src/main.rs", "cli/tests/cli/run-from-cloud.out", "cli/tests/integration_test.rs", "cli/tests/repl/help.out", "client/src/cloud.rs", "client/src/cmds.rs", "client/src/lib.rs", "client/src/testutils.rs", "repl/src/lib.rs", "std/src/testutils.rs", "web/src/index.js", "web/src/lib.rs"]

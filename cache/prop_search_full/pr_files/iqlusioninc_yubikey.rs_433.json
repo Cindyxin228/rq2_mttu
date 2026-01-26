@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "cli/src/terminal.rs", "src/certificate.rs", "src/mgm.rs", "src/piv.rs", "src/policy.rs", "src/transaction.rs", "src/yubikey.rs"]

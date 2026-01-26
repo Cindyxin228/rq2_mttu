@@ -1,0 +1,1 @@
+["exonum/src/blockchain/tests.rs", "exonum/src/runtime/dispatcher/mod.rs", "exonum/src/runtime/dispatcher/schema.rs", "exonum/src/runtime/rust/call_context.rs", "services/supervisor/src/lib.rs", "services/supervisor/src/proto_structures.rs", "services/supervisor/src/schema.rs"]

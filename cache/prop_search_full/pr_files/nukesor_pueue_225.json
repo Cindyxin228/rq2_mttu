@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "client/cli.rs", "client/main.rs", "daemon/platform/windows/process_helper.rs"]

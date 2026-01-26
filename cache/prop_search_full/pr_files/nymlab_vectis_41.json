@@ -1,0 +1,1 @@
+["contracts/factory/examples/schema.rs", "contracts/factory/schema/execute_msg.json", "contracts/factory/schema/query_msg.json", "contracts/factory/src/contract.rs", "contracts/factory/src/error.rs", "contracts/factory/tests/common.rs", "contracts/govec/src/contract.rs", "contracts/proxy/src/contract.rs", "contracts/proxy/src/error.rs", "packages/vectis/src/factory.rs"]

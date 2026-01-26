@@ -1,0 +1,1 @@
+["src/driver/sqlx_mysql.rs", "src/driver/sqlx_postgres.rs", "src/driver/sqlx_sqlite.rs", "src/error.rs", "tests/connection_tests.rs"]

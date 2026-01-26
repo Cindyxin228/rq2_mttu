@@ -1,0 +1,1 @@
+["crates/nu-command/src/filters/insert.rs", "crates/nu-command/src/filters/update.rs", "crates/nu-command/tests/commands/insert.rs", "crates/nu-command/tests/commands/update.rs", "crates/nu-protocol/src/shell_error.rs"]

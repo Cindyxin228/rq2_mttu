@@ -1,0 +1,1 @@
+["boards/xiao_m0/.cargo/config.toml", "boards/xiao_m0/CHANGELOG.md", "boards/xiao_m0/Cargo.toml", "boards/xiao_m0/README.md", "boards/xiao_m0/examples/eic.rs", "boards/xiao_m0/examples/sercom_interrupt.rs", "boards/xiao_m0/examples/ssd1306_i2c.rs", "boards/xiao_m0/examples/usb_echo.rs"]

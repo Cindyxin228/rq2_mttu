@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/fuel-core/src/executor.rs", "crates/services/executor/src/executor.rs", "crates/services/importer/src/importer/test.rs", "crates/services/upgradable-executor/src/config.rs", "crates/services/upgradable-executor/src/executor.rs", "crates/types/src/blockchain/header.rs", "crates/types/src/services/executor.rs"]

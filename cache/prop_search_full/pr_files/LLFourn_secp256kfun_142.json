@@ -1,0 +1,1 @@
+["schnorr_fun/tests/musig/sign_verify_vectors.json", "schnorr_fun/tests/musig/tweak_vectors.json", "schnorr_fun/tests/musig_sign_verify.rs", "schnorr_fun/tests/musig_tweak.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "wezterm-gui/Cargo.toml", "wezterm-gui/build.rs", "wezterm-gui/src/main.rs", "wezterm-toast-notification/Cargo.toml", "wezterm-toast-notification/build.rs", "wezterm-toast-notification/src/windows.rs", "window/src/os/mod.rs", "window/src/os/windows/mod.rs"]

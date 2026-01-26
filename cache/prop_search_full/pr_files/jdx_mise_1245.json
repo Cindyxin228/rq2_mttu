@@ -1,0 +1,1 @@
+["src/cli/latest.rs", "src/cli/link.rs", "src/cli/local.rs", "src/cli/plugins/link.rs", "src/cli/plugins/uninstall.rs", "src/cli/prune.rs", "src/cli/uninstall.rs", "src/cli/upgrade.rs", "src/cli/use.rs", "src/plugins/external_plugin.rs", "src/plugins/script_manager.rs", "src/toolset/mod.rs", "src/ui/mod.rs", "src/ui/style.rs"]

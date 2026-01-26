@@ -1,0 +1,1 @@
+["src/resolver.rs", "src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-audit-as-default-root.snap", "src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-audit-as-weaker-root.snap", "src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-unaudited-in-direct-full.snap", "src/tests/vet.rs", "tests/snapshots/test_cli__test-project-json.snap"]

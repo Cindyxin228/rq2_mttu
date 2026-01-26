@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "FAQ.md", "sqlx-cli/Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-core/src/pool/connection.rs", "sqlx-macros/Cargo.toml", "sqlx-rt/Cargo.toml"]

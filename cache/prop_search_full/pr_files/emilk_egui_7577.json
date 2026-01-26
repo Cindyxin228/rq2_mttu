@@ -1,0 +1,1 @@
+[".github/workflows/preview_build.yml", ".github/workflows/preview_deploy.yml", ".github/workflows/update_kittest_snapshots.yml", "scripts/accept_snapshots.sh", "scripts/update_snapshots_from_ci.sh"]

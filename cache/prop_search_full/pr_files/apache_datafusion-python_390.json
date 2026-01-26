@@ -1,0 +1,1 @@
+[".gitignore", "datafusion/context.py", "datafusion/cudf.py", "datafusion/pandas.py", "datafusion/polars.py", "docs/mdbook/src/usage/create-table.md", "examples/sql-on-cudf.py", "examples/sql-on-pandas.py", "examples/sql-on-polars.py"]

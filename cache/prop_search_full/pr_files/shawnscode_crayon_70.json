@@ -1,0 +1,1 @@
+[".travis.yml", "CHANGELOG.md", "Cargo.toml", "examples/render_texture.rs", "examples/texture.rs", "modules/audio/Cargo.toml", "modules/audio/examples/audio.rs", "modules/audio/src/lib.rs", "modules/world/Cargo.toml", "modules/world/src/spatial/transform.rs", "src/lib.rs", "src/utils/hash.rs", "src/video/assets/mesh.rs", "tools/wasm-template/index.js"]

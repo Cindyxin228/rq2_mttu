@@ -1,0 +1,1 @@
+["golem-cli/src/api_deployment.rs", "golem-cli/src/clients/api_deployment.rs", "golem-cli/src/model/text.rs", "golem-cli/tests/api_deployment.rs", "golem-worker-service-base/src/api_definition/api_common.rs", "golem-worker-service-base/src/repo/api_deployment_repo.rs", "openapi/golem-service.yaml"]

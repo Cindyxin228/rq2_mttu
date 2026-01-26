@@ -1,0 +1,1 @@
+["Cargo.lock", "core/store/src/db/rocksdb/snapshot.rs", "core/store/src/opener.rs", "tools/cold-store/Cargo.toml", "tools/cold-store/src/cli.rs"]

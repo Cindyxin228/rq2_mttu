@@ -1,0 +1,1 @@
+["src/crypto.rs", "src/krb.rs", "src/sspi/internal/credssp.rs", "src/sspi/pku2u/cert_utils/win_extraction.rs", "src/sspi/pku2u/generators.rs", "src/sspi/pku2u/validate.rs"]

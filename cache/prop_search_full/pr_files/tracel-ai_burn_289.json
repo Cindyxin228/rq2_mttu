@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "burn-autodiff/Cargo.toml", "burn-core/Cargo.toml", "examples/mnist-inference-web/Cargo.toml", "examples/text-classification/Cargo.toml", "examples/text-generation/Cargo.toml"]

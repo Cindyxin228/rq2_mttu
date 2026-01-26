@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-plan/src/dsl/mod.rs", "polars/polars-lazy/src/tests/queries.rs", "polars/tests/it/lazy/queries.rs", "py-polars/polars/internals/lazy_functions.py", "py-polars/src/lazy/apply.rs", "py-polars/src/lib.rs"]

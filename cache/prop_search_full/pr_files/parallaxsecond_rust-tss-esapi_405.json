@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "tss-esapi/src/constants/return_code/base_error.rs", "tss-esapi/src/error/return_code/base.rs", "tss-esapi/src/interface_types/session_handles.rs", "tss-esapi/src/structures/lists/pcr_selection.rs", "tss-esapi/tests/integration_tests/error_tests/return_code_tests/base_tests.rs"]

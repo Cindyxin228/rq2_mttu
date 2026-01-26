@@ -1,0 +1,1 @@
+["examples/nojs/main.rs", "examples/websockets/main.rs", "src/rpc/authentication.rs", "src/scanner.rs", "src/storage/stores/sqlite.rs"]

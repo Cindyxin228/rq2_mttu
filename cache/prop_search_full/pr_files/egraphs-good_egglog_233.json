@@ -1,0 +1,1 @@
+["src/ast/desugar.rs", "src/ast/mod.rs", "src/extract.rs", "src/gj.rs", "src/lib.rs", "src/main.rs", "src/sort/i64.rs", "src/sort/macros.rs", "src/sort/map.rs", "src/sort/set.rs", "src/sort/string.rs", "src/sort/unit.rs", "src/sort/vec.rs", "src/terms.rs", "src/typecheck.rs", "src/typechecking.rs", "tests/files.rs", "tests/math-microbenchmark.egg"]

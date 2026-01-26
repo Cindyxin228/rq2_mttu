@@ -1,0 +1,1 @@
+["crates/base-db/src/change.rs", "crates/base-db/src/input.rs", "crates/ide-db/src/apply_change.rs", "crates/ide-db/src/lib.rs"]

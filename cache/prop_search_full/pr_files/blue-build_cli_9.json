@@ -1,0 +1,1 @@
+[".github/CODEOWNERS", ".github/workflows/build.yml", ".github/workflows/release.yml", ".github/workflows/tag.yml", ".gitlab-ci.yml", "Earthfile"]

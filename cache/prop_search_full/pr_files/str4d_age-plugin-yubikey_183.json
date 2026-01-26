@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "examples/generate-docs.rs", "i18n/en-US/age_plugin_yubikey.ftl", "rust-toolchain.toml", "src/error.rs", "src/key.rs", "src/main.rs", "src/util.rs"]

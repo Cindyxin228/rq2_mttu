@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "libsettings_wrapper.h", "src/client.rs", "src/context.rs", "src/error.rs", "src/lib.rs", "src/setting.rs", "tests/load.rs", "tests/load_from_path.rs"]

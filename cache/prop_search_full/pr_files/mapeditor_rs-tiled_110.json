@@ -1,0 +1,1 @@
+["assets/tiled_base64.tmx", "assets/tiled_base64_external.tmx", "assets/tiled_base64_gzip.tmx", "assets/tiled_base64_zlib.tmx", "assets/tiled_base64_zstandard.tmx", "assets/tiled_csv.tmx", "src/properties.rs", "tests/lib.rs"]

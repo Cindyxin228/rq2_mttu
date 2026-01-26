@@ -1,0 +1,1 @@
+["ci/run-wasi-crypto-example.sh", "ci/run-wasi-nn-example.sh", "src/bin/wasmtime.rs", "src/commands/run.rs", "tests/all/cli_tests.rs", "tests/all/cli_tests/print-arguments.wat", "tests/all/cli_tests/run", "tests/all/debug/gdb.rs", "tests/all/debug/lldb.rs", "tests/all/wasi_testsuite.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/code.yml", "Cargo.toml", "crates/core/src/table/mod.rs", "demo/infra/runner/Dockerfile", "demo/table-api-rust/Cargo.toml", "python/Cargo.toml", "python/src/internal.rs", "python/src/lib.rs", "rust-toolchain.toml"]

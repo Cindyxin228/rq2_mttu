@@ -1,0 +1,1 @@
+["src/command/delete.rs", "src/command/events.rs", "src/command/logs.rs", "src/command/mod.rs", "src/command_processor.rs", "src/completer.rs", "src/env.rs", "src/error.rs", "src/k8s.rs"]

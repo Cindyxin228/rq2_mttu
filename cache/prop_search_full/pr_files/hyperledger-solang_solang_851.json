@@ -1,0 +1,1 @@
+["src/bin/solang.rs", "src/emit/binary.rs", "src/emit/mod.rs", "src/emit/solana.rs", "src/lib.rs", "tests/contract.rs", "tests/solana.rs"]

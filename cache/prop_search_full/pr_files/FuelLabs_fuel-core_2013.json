@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "crates/fuel-core/src/p2p_test_helpers.rs", "crates/services/p2p/Cargo.toml", "crates/services/p2p/src/heavy_task_processor.rs", "crates/services/p2p/src/lib.rs", "crates/services/p2p/src/service.rs", "crates/services/src/lib.rs", "crates/services/sync/src/import.rs", "crates/services/sync/src/lib.rs", "crates/services/sync/src/tracing_helpers.rs"]

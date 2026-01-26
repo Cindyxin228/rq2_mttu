@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "src/ffi/migration.rs", "src/ffi/mod.rs", "src/lib.rs", "src/migration/mod.rs", "src/migration/strategy.rs", "src/protect/mod.rs", "src/protect/store_key.rs", "tests/.gitignore", "tests/indy_wallet_sqlite.db", "tests/migration.rs"]

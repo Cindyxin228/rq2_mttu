@@ -1,0 +1,1 @@
+["README.md", "build-aux/dist-vendor.sh", "meson.build", "scripts/cargo.sh", "scripts/grabber.sh", "scripts/release.sh", "src/channel_player.rs", "src/main.rs", "src/ui_context.rs"]

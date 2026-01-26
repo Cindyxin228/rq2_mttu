@@ -1,0 +1,1 @@
+["src/client.rs", "src/message.rs", "src/options.rs", "tests/async_errors.rs", "tests/configs/perms.conf"]

@@ -1,0 +1,1 @@
+["crates/nu-command/src/bits/mod.rs", "crates/nu-command/src/bits/rotate_left.rs", "crates/nu-command/src/bits/rotate_right.rs", "crates/nu-command/src/default_context.rs", "src/tests/test_bits.rs"]

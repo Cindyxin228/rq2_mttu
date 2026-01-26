@@ -1,0 +1,1 @@
+["aws/rust-runtime/aws-runtime/Cargo.toml", "aws/rust-runtime/aws-runtime/src/invocation_id.rs", "aws/rust-runtime/aws-runtime/src/lib.rs", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/AwsCodegenDecorator.kt", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/InvocationIdDecorator.kt"]

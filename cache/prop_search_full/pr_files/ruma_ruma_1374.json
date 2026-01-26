@@ -1,0 +1,1 @@
+["crates/ruma-client-api/CHANGELOG.md", "crates/ruma-client-api/src/error.rs", "crates/ruma-client-api/src/uiaa.rs", "crates/ruma-client-api/tests/uiaa.rs", "crates/ruma-common/CHANGELOG.md", "crates/ruma-common/src/api.rs", "crates/ruma-common/src/api/error.rs", "crates/ruma-common/tests/api/manual_endpoint_impl.rs", "crates/ruma-macros/src/api/response/incoming.rs"]

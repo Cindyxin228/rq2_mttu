@@ -1,0 +1,1 @@
+["madato/Cargo.toml", "madato/src/csv.rs", "madato/src/lib.rs", "madato/src/yaml.rs", "madato_cal/Cargo.toml", "madato_cal/src/lib.rs", "madato_cmd/Cargo.toml", "madato_cmd/src/main.rs", "madato_wasm/test/www-sample/package.json", "test/potatoes.csv", "test/sample_potatoes.md"]

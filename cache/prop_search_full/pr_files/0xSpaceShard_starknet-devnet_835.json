@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/src/transactions.rs", "crates/starknet-devnet-types/src/rpc/transaction_receipt.rs", "tests/integration/get_transaction_receipt_by_hash.rs", "tests/integration/test_subscription_to_new_tx_receipts.rs"]

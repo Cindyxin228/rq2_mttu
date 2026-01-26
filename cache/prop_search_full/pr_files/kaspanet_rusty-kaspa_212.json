@@ -1,0 +1,1 @@
+["Cargo.lock", "consensus/core/src/config/bps.rs", "consensus/core/src/config/constants.rs", "mining/Cargo.toml", "mining/src/manager_tests.rs", "mining/src/mempool/validate_and_insert_transaction.rs", "protocol/flows/src/flow_context.rs", "protocol/p2p/Cargo.toml", "protocol/p2p/src/common.rs", "rpc/service/src/service.rs", "utils/src/vec.rs"]

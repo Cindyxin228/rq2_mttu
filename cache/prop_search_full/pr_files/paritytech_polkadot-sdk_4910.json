@@ -1,0 +1,1 @@
+["cumulus/parachains/chain-specs/people-polkadot.json", "cumulus/polkadot-parachain/chain-specs/people-polkadot.json", "cumulus/polkadot-parachain/src/chain_spec/people.rs", "cumulus/scripts/create_people_kusama_spec.sh", "cumulus/scripts/create_people_polkadot_spec.sh"]

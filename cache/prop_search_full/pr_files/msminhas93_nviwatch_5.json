@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "assets/influxdb_dashboard.png", "config/gpu_dashboard_template.json", "scripts/setup_influxdb.sh", "src/app_state.rs", "src/gpu/info.rs", "src/influxdb.rs", "src/main.rs", "src/ui/render.rs", "src/utils/formatting.rs", "src/utils/system.rs"]

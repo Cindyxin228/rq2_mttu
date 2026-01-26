@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "docs/src/checks/cfg.md", "docs/src/cli/common.md", "docs/src/cli/list.md", "src/cargo-deny/main.rs", "src/sources/cfg.rs", "src/sources/snapshots/cargo_deny__sources__cfg__test__deserializes_sources_cfg.snap", "tests/snapshots/cargo_deny__test__cargo_deny.snap"]

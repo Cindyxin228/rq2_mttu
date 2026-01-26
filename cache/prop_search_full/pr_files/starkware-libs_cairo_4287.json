@@ -1,0 +1,1 @@
+["corelib/src/starknet.cairo", "corelib/src/starknet/eth_signature.cairo", "corelib/src/starknet/secp256_trait.cairo", "corelib/src/starknet/secp256k1.cairo", "corelib/src/test/secp256k1_test.cairo", "corelib/src/test/secp256r1_test.cairo"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crypto/Cargo.toml", "elliptic-curve/Cargo.toml", "elliptic-curve/src/arithmetic.rs", "elliptic-curve/src/dev.rs", "elliptic-curve/src/lib.rs", "elliptic-curve/src/scalar/bytes.rs", "elliptic-curve/src/scalar/non_zero.rs"]

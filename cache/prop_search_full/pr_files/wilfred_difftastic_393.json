@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/diff/dijkstra.rs", "src/diff/graph.rs", "src/diff/mod.rs", "src/diff/stack.rs", "src/display/style.rs", "src/main.rs", "src/parse/guess_language.rs", "src/parse/syntax.rs"]

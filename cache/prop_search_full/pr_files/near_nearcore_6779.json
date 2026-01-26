@@ -1,0 +1,1 @@
+["Cargo.lock", "core/o11y/Cargo.toml", "core/o11y/src/lib.rs", "neard/src/cli.rs", "tools/chainsync-loadtest/src/main.rs", "tools/indexer/example/src/main.rs", "tools/restaked/src/main.rs", "tools/storage-usage-delta-calculator/src/main.rs"]

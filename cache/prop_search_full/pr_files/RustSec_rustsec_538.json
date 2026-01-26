@@ -1,0 +1,1 @@
+["rustsec/Cargo.toml", "rustsec/README.md", "rustsec/src/advisory/versions.rs", "rustsec/src/collection.rs", "rustsec/src/lib.rs", "rustsec/src/osv.rs", "rustsec/src/osv/osv_advisory.rs", "rustsec/src/osv/osv_range.rs", "rustsec/src/osv/ranges_for_advisory.rs", "rustsec/src/osv/unaffected_range.rs", "rustsec/src/repository/git/repository.rs"]

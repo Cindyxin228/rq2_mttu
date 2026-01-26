@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "cargo-espflash/Cargo.toml", "cargo-espflash/src/line_endings.rs", "cargo-espflash/src/main.rs", "cargo-espflash/src/monitor.rs", "espflash/src/connection.rs", "espflash/src/flasher.rs"]

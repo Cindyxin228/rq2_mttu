@@ -1,0 +1,1 @@
+["src/command/bump/mod.rs", "src/command/bump/monorepo.rs", "src/command/bump/package.rs", "src/command/bump/standard.rs", "src/conventional/bump.rs", "src/conventional/version.rs", "tests/lib_tests/bump.rs"]

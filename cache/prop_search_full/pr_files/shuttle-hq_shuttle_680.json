@@ -1,0 +1,1 @@
+["resources/aws-rds/Cargo.toml", "resources/aws-rds/src/lib.rs", "resources/persist/Cargo.toml", "resources/persist/src/lib.rs", "resources/shared-db/Cargo.toml", "resources/shared-db/src/lib.rs", "resources/static-folder/Cargo.toml", "resources/static-folder/src/lib.rs", "service/src/lib.rs", "service/src/persist.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-cli/Cargo.toml", "crates/nu-color-config/Cargo.toml", "crates/nu-command/Cargo.toml", "crates/nu-engine/Cargo.toml", "crates/nu-parser/Cargo.toml", "crates/nu-plugin/Cargo.toml", "crates/nu-protocol/Cargo.toml", "crates/nu-system/Cargo.toml"]

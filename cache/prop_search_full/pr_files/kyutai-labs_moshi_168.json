@@ -1,0 +1,1 @@
+["rust/moshi-core/src/lib.rs", "rust/moshi-core/src/lm.rs", "rust/moshi-core/src/quantized_transformer.rs", "rust/moshi-core/src/transformer.rs", "rust/moshi-core/src/tts_streaming.rs"]

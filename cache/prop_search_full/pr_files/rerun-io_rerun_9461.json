@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/store/re_protos/src/lib.rs", "crates/store/re_protos/src/v1alpha1/rerun.manifest_registry.v1alpha1.ext.rs", "rerun_py/Cargo.toml", "rerun_py/src/catalog/connection_handle.rs", "rerun_py/src/catalog/dataset.rs", "rerun_py/src/catalog/errors.rs"]

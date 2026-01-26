@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", ".github/workflows/release.yaml", "CHANGELOG.md", "Cargo.toml", "src/historical/batch.rs", "src/historical/client.rs", "src/historical/metadata.rs", "src/historical/mod.rs", "src/historical/symbology.rs", "src/historical/timeseries.rs", "src/lib.rs", "src/live.rs"]

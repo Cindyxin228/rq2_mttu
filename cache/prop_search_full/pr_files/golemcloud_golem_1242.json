@@ -1,0 +1,1 @@
+["golem-worker-executor-base/src/durable_host/mod.rs", "golem-worker-executor-base/src/services/oplog/mod.rs", "golem-worker-executor-base/src/worker.rs", "golem-worker-executor-base/src/workerctx.rs", "golem-worker-executor-base/tests/common/mod.rs", "golem-worker-executor/src/context.rs"]

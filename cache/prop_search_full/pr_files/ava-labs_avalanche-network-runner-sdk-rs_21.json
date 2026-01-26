@@ -1,0 +1,1 @@
+[".github/workflows/build-test-release.yml", "avalanche-network-runner-sdk/Cargo.toml", "avalanche-network-runner-sdk/rpcpb/rpc.proto", "scripts/tests.e2e.sh", "tests/e2e/Cargo.toml"]

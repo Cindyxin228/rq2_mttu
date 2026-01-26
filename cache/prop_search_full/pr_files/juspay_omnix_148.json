@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "Cargo.toml", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/src/command/init.rs", "crates/omnix-cli/src/command/mod.rs", "crates/omnix-cli/src/command/show.rs", "crates/omnix-cli/src/main.rs", "crates/omnix/src/logging.rs", "justfile"]

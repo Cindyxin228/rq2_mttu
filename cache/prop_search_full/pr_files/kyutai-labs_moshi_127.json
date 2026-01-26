@@ -1,0 +1,1 @@
+["rust/mimi-pyo3/src/lib.rs", "rust/moshi-core/src/encodec.rs", "rust/moshi-core/src/lm.rs", "rust/moshi-core/src/quantized_transformer.rs", "rust/moshi-core/src/transformer.rs"]

@@ -1,0 +1,1 @@
+["nix/modules/crate2nix.nix", "nix/modules/holochain-crate2nix.nix", "nix/modules/holochain.nix"]

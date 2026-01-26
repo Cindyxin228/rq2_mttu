@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Makefile", "sentry-actix/Cargo.toml", "sentry-contexts/src/integration.rs", "sentry-contexts/src/lib.rs", "sentry-core/src/lib.rs", "sentry-core/src/macros.rs", "sentry-types/CHANGELOG.md", "sentry-types/src/protocol/mod.rs", "sentry/Cargo.toml", "sentry/src/lib.rs", "sentry/src/transport.rs"]

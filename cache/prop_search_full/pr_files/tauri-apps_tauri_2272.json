@@ -1,0 +1,1 @@
+[".changes/fix-listen_global-not-getting-events.md", "core/tauri/src/event.rs"]

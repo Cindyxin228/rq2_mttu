@@ -1,0 +1,1 @@
+["iroh-bitswap/src/metrics.rs", "iroh-gateway/src/handlers.rs", "iroh-gateway/src/metrics.rs", "iroh-p2p/src/metrics.rs", "iroh-p2p/src/node.rs", "iroh-resolver/Cargo.toml", "iroh-store/src/metrics.rs", "iroh/src/metrics.rs", "iroh/tests/cli_tests.rs", "iroh/tests/cmd/version.trycmd"]

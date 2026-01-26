@@ -1,0 +1,1 @@
+["tests/testsuite/cargo_add/invalid_git_external/in", "tests/testsuite/cargo_add/invalid_git_external/mod.rs", "tests/testsuite/cargo_add/invalid_git_external/out/Cargo.toml", "tests/testsuite/cargo_add/invalid_git_external/stderr.log", "tests/testsuite/cargo_add/invalid_git_external/stdout.log", "tests/testsuite/cargo_add/mod.rs"]

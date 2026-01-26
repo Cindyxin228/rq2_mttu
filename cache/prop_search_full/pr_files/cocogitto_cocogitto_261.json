@@ -1,0 +1,1 @@
+["src/bin/cog/main.rs", "src/command/bump/monorepo.rs", "src/command/bump/package.rs", "src/command/bump/standard.rs", "src/git/tag.rs", "tests/helpers.rs", "tests/lib_tests/bump.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "locales/app.yml", "src/main.rs", "src/template/src/routers/mod.hbs", "src/test/mod.rs", "src/test/test_write_project.rs", "src/utils/create_project.rs", "src/utils/print_util.rs"]

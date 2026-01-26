@@ -1,0 +1,1 @@
+["Cargo.toml", "src/interpreter/contract.rs", "src/interpreter/executors/instruction.rs", "src/interpreter/gas/consts.rs", "tests/contract.rs"]

@@ -1,0 +1,1 @@
+["src/components/data_table/sortable.rs", "src/utils/gen_util.rs", "src/widgets/cpu_graph.rs", "src/widgets/disk_table.rs", "src/widgets/process_table/proc_widget_data.rs", "src/widgets/process_table/sort_table.rs", "src/widgets/temperature_table.rs"]

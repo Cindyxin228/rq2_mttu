@@ -1,0 +1,1 @@
+["DEFAULT_CONFIG.json5", "plugins/zenoh-backend-traits/Cargo.toml", "plugins/zenoh-backend-traits/src/config.rs", "plugins/zenoh-plugin-storage-manager/Cargo.toml", "plugins/zenoh-plugin-storage-manager/src/replica/storage.rs"]

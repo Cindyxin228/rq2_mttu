@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".release-please-manifest.json", "Cargo.lock", "Cargo.toml", "package.json", "packages/client-web/src/components/game-list.tsx", "packages/db/Cargo.toml", "release-please-config.json"]

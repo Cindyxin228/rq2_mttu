@@ -1,0 +1,1 @@
+["cranelift/codegen/src/isa/riscv64/inst.isle", "cranelift/codegen/src/isa/riscv64/inst/args.rs", "cranelift/codegen/src/isa/riscv64/inst/emit.rs", "cranelift/codegen/src/isa/riscv64/inst/encode.rs", "cranelift/codegen/src/isa/riscv64/inst/mod.rs", "cranelift/filetests/filetests/isa/riscv64/zca.clif", "cranelift/filetests/filetests/runtests/long-jump.clif"]

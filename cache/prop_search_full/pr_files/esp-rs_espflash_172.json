@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "README.md", "cargo-espflash/src/main.rs", "espflash/Cargo.toml", "espflash/src/error.rs", "espflash/src/lib.rs", "espflash/src/main.rs", "espflash/src/partition_table.rs"]

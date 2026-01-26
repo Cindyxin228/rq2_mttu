@@ -1,0 +1,1 @@
+["src/core/inverted_index_reader.rs", "src/fastfield/bytes/mod.rs", "src/fieldnorm/reader.rs", "src/postings/mod.rs", "src/postings/serializer.rs", "src/postings/term_info.rs", "src/query/term_query/term_query.rs", "src/query/term_query/term_weight.rs", "src/termdict/mod.rs", "src/termdict/term_info_store.rs"]

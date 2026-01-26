@@ -1,0 +1,1 @@
+["postgres-protocol/src/authentication/sasl.rs", "postgres-protocol/src/lib.rs", "postgres-protocol/src/password/mod.rs", "postgres-protocol/src/password/test.rs"]

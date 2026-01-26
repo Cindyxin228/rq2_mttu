@@ -1,0 +1,1 @@
+["src/cargo/core/source_id.rs", "src/cargo/ops/cargo_generate_lockfile.rs", "src/cargo/sources/git/source.rs", "src/cargo/sources/git/utils.rs", "tests/testsuite/git.rs", "tests/testsuite/update.rs"]

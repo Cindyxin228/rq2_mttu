@@ -1,0 +1,1 @@
+[".github/workflows/publish-docker-images.yml", "ci/docker/Dockerfile", "ci/docker/Dockerfile.arch2018", "ci/docker/Dockerfile.fedora", "ci/docker/Dockerfile.ubuntu1404", "ci/docker/Dockerfile.ubuntu1604", "ci/docker/Dockerfile.ubuntu1704", "ci/docker/sources.list.trusty", "ci/docker/sources.list.xenial", "ci/docker/versions.txt"]

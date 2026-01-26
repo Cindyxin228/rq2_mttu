@@ -1,0 +1,1 @@
+["src/client/client/future.rs", "src/client/client/mod.rs", "tests/brotli.rs", "tests/deflate.rs", "tests/gzip.rs", "tests/zstd.rs"]

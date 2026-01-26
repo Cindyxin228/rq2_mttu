@@ -1,0 +1,1 @@
+["vulkano-shaders/src/codegen.rs", "vulkano-shaders/src/entry_point.rs", "vulkano/autogen/spirv_parse.rs", "vulkano/src/shader/mod.rs", "vulkano/src/shader/reflect.rs"]

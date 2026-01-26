@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "README.md", "src/json.rs", "src/operations/search/aggregations/bucket.rs", "src/operations/search/aggregations/common.rs", "src/operations/search/aggregations/metrics.rs", "src/operations/search/aggregations/mod.rs", "src/query/functions.rs", "src/query/geo.rs", "src/query/mod.rs"]

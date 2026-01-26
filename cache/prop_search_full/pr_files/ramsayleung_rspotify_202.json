@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/current_user_recently_played.rs", "examples/pagination_manual.rs", "examples/ureq/device.rs", "examples/ureq/me.rs", "examples/ureq/search.rs", "src/client.rs", "src/macros.rs", "src/model/enums/misc.rs", "tests/test_with_credential.rs", "tests/test_with_oauth.rs"]

@@ -1,0 +1,1 @@
+["src/transport/smtp/mod.rs", "tests/transport_smtp.rs", "tests/transport_smtp_pool.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "NEWS", "README.md", "justfile", "src/database.rs", "src/iterate.rs", "src/lib.rs", "src/logic.rs", "src/memtable.rs", "sync/Cargo.toml", "sync/justfile", "sync/src/database.rs", "sync/src/iterate.rs", "sync/src/lib.rs", "sync/tests/basic.rs", "sync/tests/reopen.rs", "tests/basic.rs", "tests/reopen.rs"]

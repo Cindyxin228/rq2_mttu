@@ -1,0 +1,1 @@
+["pueue/tests/daemon/data/v2.0.0_state.json", "pueue/tests/daemon/state_backward_compatibility.rs", "pueue/tests/helper/wait.rs", "pueue_lib/src/process_helper/windows.rs"]

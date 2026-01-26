@@ -1,0 +1,1 @@
+["parquet/src/column/reader.rs", "parquet/src/column/reader/decoder.rs", "parquet/src/encodings/encoding.rs", "parquet/src/encodings/levels.rs", "parquet/src/encodings/rle.rs", "parquet/src/util/bit_util.rs"]

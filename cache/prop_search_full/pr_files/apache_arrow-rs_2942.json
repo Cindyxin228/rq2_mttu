@@ -1,0 +1,1 @@
+["parquet/src/column/writer/mod.rs", "parquet/src/file/properties.rs", "parquet/tests/arrow_writer_layout.rs"]

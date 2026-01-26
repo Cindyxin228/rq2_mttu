@@ -1,0 +1,1 @@
+["rocketmq-broker/src/hook/batch_check_before_put_message.rs", "rocketmq-broker/src/hook/check_before_put_message.rs", "rocketmq-broker/src/hook/schedule_message_hook.rs", "rocketmq-broker/src/util/hook_utils.rs", "rocketmq-store/src/hook/put_message_hook.rs"]

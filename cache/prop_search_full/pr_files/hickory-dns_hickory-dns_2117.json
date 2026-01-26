@@ -1,0 +1,1 @@
+["crates/recursor/src/recursor.rs", "crates/server/src/store/recursor/authority.rs", "crates/server/src/store/recursor/config.rs", "tests/test-data/test_configs/example_recursor.toml", "util/src/bin/recurse.rs"]

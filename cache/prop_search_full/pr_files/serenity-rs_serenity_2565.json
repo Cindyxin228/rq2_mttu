@@ -1,0 +1,1 @@
+["command_attr/src/structures.rs", "src/builder/edit_channel.rs", "src/cache/event.rs", "src/client/dispatch.rs", "src/client/event_handler.rs", "src/model/channel/guild_channel.rs", "src/model/event.rs", "src/model/guild/audit_log/mod.rs", "src/model/permissions.rs"]

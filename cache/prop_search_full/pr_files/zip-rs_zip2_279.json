@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/extra_fields/mod.rs", "src/extra_fields/ntfs.rs", "src/read.rs", "tests/data/ntfs.zip", "tests/zip_extended_timestamp.rs", "tests/zip_ntfs.rs"]

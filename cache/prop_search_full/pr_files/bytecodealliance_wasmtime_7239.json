@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/wasmtime.rs", "supply-chain/audits.toml", "supply-chain/config.toml", "supply-chain/imports.lock", "tests/all/cli_tests.rs"]

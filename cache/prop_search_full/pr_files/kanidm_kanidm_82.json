@@ -1,0 +1,1 @@
+["rsidm_proto/src/v1.rs", "rsidmd/src/lib/access.rs", "rsidmd/src/lib/constants.rs", "rsidmd/src/lib/entry.rs", "rsidmd/src/lib/lib.rs", "rsidmd/src/lib/plugins/attrunique.rs", "rsidmd/src/lib/plugins/mod.rs", "rsidmd/src/lib/plugins/protected.rs", "rsidmd/src/lib/plugins/refint.rs", "rsidmd/src/lib/schema.rs", "rsidmd/src/lib/server.rs"]

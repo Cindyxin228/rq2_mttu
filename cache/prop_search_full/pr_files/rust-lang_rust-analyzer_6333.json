@@ -1,0 +1,1 @@
+["crates/assists/src/handlers/move_guard.rs", "crates/parser/src/grammar.rs", "crates/syntax/test_data/parser/inline/ok/0153_pub_parens_typepath.rast", "crates/syntax/test_data/parser/inline/ok/0153_pub_parens_typepath.rs"]

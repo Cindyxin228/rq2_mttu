@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".drone.yml", "contracts/base-minter/Cargo.toml", "contracts/splits/Cargo.toml", "contracts/vending-minter/Cargo.toml", "contracts/whitelist/Cargo.toml", "scripts/optimize.sh"]

@@ -1,0 +1,1 @@
+["crates/matrix-sdk/src/sliding_sync/client.rs", "crates/matrix-sdk/src/sync.rs", "crates/matrix-sdk/tests/integration/encryption/backups.rs"]

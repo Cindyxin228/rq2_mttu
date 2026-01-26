@@ -1,0 +1,1 @@
+["bin/client/opts.rs", "bin/server.rs", "examples/as2bindle.rs", "examples/cargo2bindle.rs", "src/cache/mod.rs", "src/client/load.rs", "src/filters/mod.rs", "src/provider/embedded.rs", "src/search/strict.rs", "tests/client.rs"]

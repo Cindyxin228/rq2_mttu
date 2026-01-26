@@ -1,0 +1,1 @@
+["dependencies/vaticle/artifacts.bzl", "dependencies/vaticle/repositories.bzl", "test/behaviour/concept/type/thingtype/ThingTypeSteps.java", "test/behaviour/config/Parameters.java", "test/behaviour/connection/ConnectionStepsBase.java", "test/behaviour/connection/ConnectionStepsCluster.java", "test/behaviour/connection/ConnectionStepsCore.java"]

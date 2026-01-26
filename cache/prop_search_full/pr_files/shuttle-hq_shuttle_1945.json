@@ -1,0 +1,1 @@
+["cargo-shuttle/src/provisioner_server.rs", "common/src/database.rs", "common/src/resource.rs", "resources/aws-rds/src/lib.rs"]

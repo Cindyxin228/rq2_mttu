@@ -1,0 +1,1 @@
+["src/commands/config.rs", "src/data/base.rs", "src/data/config.rs", "src/lib.rs", "tests/command_config_test.rs", "tests/helpers/mod.rs"]

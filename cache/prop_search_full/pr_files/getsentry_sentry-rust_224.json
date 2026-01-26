@@ -1,0 +1,1 @@
+["sentry-core/src/api.rs", "sentry-core/src/constants.rs", "sentry-core/src/hub.rs", "sentry-log/src/integration.rs", "sentry-log/src/logger.rs", "sentry-panic/src/lib.rs", "sentry-slog/src/drain.rs", "sentry/src/defaults.rs", "sentry/src/lib.rs"]

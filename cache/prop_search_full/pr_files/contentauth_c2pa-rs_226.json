@@ -1,0 +1,1 @@
+["sdk/Cargo.toml", "sdk/src/asset_handlers/mod.rs", "sdk/src/asset_handlers/svg_io.rs", "sdk/src/error.rs", "sdk/src/jumbf_io.rs", "sdk/src/utils/xmp_inmemory_utils.rs", "sdk/tests/fixtures/sample1.svg", "sdk/tests/fixtures/sample2.svg", "sdk/tests/fixtures/sample3.svg", "sdk/tests/fixtures/sample4.svg"]

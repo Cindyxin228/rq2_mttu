@@ -1,0 +1,1 @@
+["cli/module_loader.rs", "cli/tests/integration/npm_tests.rs", "cli/tests/testdata/npm/nonexistent_file/main.js", "cli/tests/testdata/npm/nonexistent_file/main.out", "cli/tests/testdata/npm/registry/crypto-js/crypto-js-4.1.1.tgz", "cli/tests/testdata/npm/registry/crypto-js/registry.json"]

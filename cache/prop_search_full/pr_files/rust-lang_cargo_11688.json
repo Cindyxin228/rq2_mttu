@@ -1,0 +1,1 @@
+["crates/resolver-tests/tests/resolve.rs", "src/cargo/core/features.rs", "src/cargo/core/resolver/dep_cache.rs", "src/cargo/core/resolver/mod.rs", "src/cargo/core/resolver/version_prefs.rs", "src/doc/src/reference/unstable.md", "tests/testsuite/direct_minimal_versions.rs", "tests/testsuite/main.rs"]

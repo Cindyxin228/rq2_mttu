@@ -1,0 +1,1 @@
+[".github/workflows/publish-global-state-update-gen.yml", ".github/workflows/push-artifacts.yml", "ci/build_client_rpm.sh", "ci/build_update_package.sh", "ci/publish_deb_to_repo.sh", "node/Cargo.toml"]

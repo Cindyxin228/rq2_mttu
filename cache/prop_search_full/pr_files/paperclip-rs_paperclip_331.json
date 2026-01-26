@@ -1,0 +1,1 @@
+[".github/workflows/cicd.yml", ".gitmodules", "CHANGELOG.md", "Cargo.toml", "Makefile", "plugins/actix-web/Cargo.toml", "plugins/actix-web/src/lib.rs", "plugins/swagger-ui", "tests/test_app.rs"]

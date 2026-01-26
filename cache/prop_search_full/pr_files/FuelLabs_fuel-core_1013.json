@@ -1,0 +1,1 @@
+["crates/fuel-core/src/graphql_api/service.rs", "crates/fuel-core/src/query/balance/asset_query.rs", "crates/fuel-core/src/query/message.rs", "crates/fuel-core/src/schema/chain.rs", "crates/fuel-core/src/schema/message.rs"]

@@ -1,0 +1,1 @@
+["crates/nu-cli/src/config_files.rs", "crates/nu-cli/src/repl.rs", "crates/nu-cli/tests/completions/mod.rs", "crates/nu-cli/tests/completions/support/completions_helpers.rs", "crates/nu-cmd-base/src/hook.rs", "crates/nu-cmd-lang/src/example_support.rs", "crates/nu-protocol/src/engine/engine_state.rs", "crates/nu-std/src/lib.rs", "src/config_files.rs", "src/test_bins.rs"]

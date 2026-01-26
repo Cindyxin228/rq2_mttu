@@ -1,0 +1,1 @@
+["attributes/src/mock.rs", "cli/src/cli/mod.rs", "lib/src/model/mod.rs", "lib/src/record/mapping/mod.rs", "lib/src/server/config.rs", "lib/tests/misc/config_verify.rs", "lib/tests/misc/mod.rs", "lib/tests/stubs/resp/verify/expect-0.json", "lib/tests/stubs/resp/verify/expect-1.json", "lib/tests/stubs/resp/verify/expect-2.json", "schemas/stubr.schema.json"]

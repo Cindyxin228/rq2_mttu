@@ -1,0 +1,1 @@
+["src/cli/registry.rs", "src/kernel/grammar.rs", "src/kernel/grammar_dsl.rs", "src/kernel/session.rs", "src/kernel/session_log.rs"]

@@ -1,0 +1,1 @@
+["CHANGES.md", "crates/vertigo-cli/src/build/cargo_build.rs", "crates/vertigo-cli/src/build/wasm_opt.rs", "crates/vertigo-cli/src/check_env.rs", "crates/vertigo-cli/src/command.rs", "crates/vertigo-cli/src/serve/serve_command.rs", "crates/vertigo/src/lib.rs", "tutorial.md"]

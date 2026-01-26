@@ -1,0 +1,1 @@
+["cw-orch-daemon/Cargo.toml", "cw-orch-daemon/src/channel.rs", "cw-orch-daemon/src/senders/query_only.rs", "packages/cw-orch-core/src/contract/interface_traits.rs", "packages/cw-orch-core/src/contract/paths.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command.rs", "src/commands/cat.rs", "src/commands/head.rs", "src/commands/merge.rs", "src/commands/rowcount.rs", "src/commands/sample.rs", "src/commands/schema.rs", "src/commands/size.rs", "src/errors.rs", "src/main.rs", "src/utils.rs", "tests/integration.rs"]

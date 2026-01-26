@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/attach_null_to_surface.rs", "tests/basic_global.rs", "tests/globals.rs", "tests/helpers/mod.rs", "wayland-client/src/globals.rs", "wayland-server/src/display.rs", "wayland-server/src/rust_imp/clients.rs", "wayland-server/src/rust_imp/globals.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Dockerfile", "src/infect/deb.rs", "src/infect/oci.rs", "src/infect/pacman.rs", "src/keygen/tls.rs", "src/tamper/pacman.rs"]

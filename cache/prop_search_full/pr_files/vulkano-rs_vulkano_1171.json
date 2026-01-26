@@ -1,0 +1,1 @@
+["vulkano/src/command_buffer/synced/base.rs", "vulkano/src/framebuffer/macros.rs", "vulkano/src/image/attachment.rs", "vulkano/src/image/swapchain.rs", "vulkano/src/image/sys.rs", "vulkano/src/image/traits.rs", "vulkano/src/swapchain/swapchain.rs"]

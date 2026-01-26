@@ -1,0 +1,1 @@
+["bin/diesel", "bin/test", "examples/mysql/test_all", "examples/postgres/test_all", "examples/sqlite/test_all", "examples/test_all"]

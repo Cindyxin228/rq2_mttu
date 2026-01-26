@@ -1,0 +1,1 @@
+["embassy-nrf/Cargo.toml", "embassy-nrf/src/chips/nrf54l15_app.rs", "embassy-nrf/src/lib.rs", "embassy-nrf/src/wdt.rs", "examples/nrf54l15/src/bin/wdt.rs"]

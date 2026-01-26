@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lm.rs", "src/lm/test_examples.rs", "src/lm/test_examples_gen.rs", "src/lm/test_helpers.rs", "src/lm/test_init_step.rs", "src/qr.rs", "src/trust_region.rs", "src/utils.rs", "tests/line_fitting.rs"]

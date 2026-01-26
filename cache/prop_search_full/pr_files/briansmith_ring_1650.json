@@ -1,0 +1,1 @@
+["crypto/fipsmodule/aes/aes_nohw.c", "crypto/internal.h", "crypto/poly1305/poly1305_vec.c"]

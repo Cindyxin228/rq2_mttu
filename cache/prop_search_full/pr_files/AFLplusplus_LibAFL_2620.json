@@ -1,0 +1,1 @@
+["libafl_frida/src/coverage_rt.rs", "libafl_qemu/libafl_qemu_build/src/bindings.rs", "libafl_qemu/libafl_qemu_sys/src/bindings/x86_64_stub_bindings.rs", "libafl_qemu/runtime/libafl_qemu_stub_bindings.rs", "libafl_qemu/src/executor.rs", "libafl_qemu/src/modules/drcov.rs", "libafl_qemu/src/modules/mod.rs"]

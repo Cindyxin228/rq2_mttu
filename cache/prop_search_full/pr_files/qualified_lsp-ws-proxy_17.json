@@ -1,0 +1,1 @@
+["src/client.rs", "src/lsp/error.rs", "src/lsp/ext/mod.rs", "src/lsp/ext/relative_uri.rs", "src/lsp/framed/codec.rs", "src/lsp/framed/mod.rs", "src/lsp/framed/parser.rs", "src/lsp/mod.rs", "src/lsp/notification.rs", "src/lsp/request.rs", "src/lsp/response.rs", "src/lsp/types.rs", "src/main.rs"]

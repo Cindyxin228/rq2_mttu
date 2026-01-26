@@ -1,0 +1,1 @@
+["sdk/Cargo.toml", "sdk/src/cose_validator.rs", "sdk/src/error.rs", "sdk/src/manifest_store.rs", "sdk/src/wasm/webcrypto_validator.rs", "sdk/tests/fixtures/data.data", "sdk/tests/fixtures/data_ps256.data", "sdk/tests/fixtures/key.data", "sdk/tests/fixtures/key_ps256.data", "sdk/tests/fixtures/sig.data", "sdk/tests/fixtures/sig_ps256.data"]

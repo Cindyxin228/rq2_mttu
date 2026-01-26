@@ -1,0 +1,1 @@
+["scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/src/cluster/metadata.rs", "scylla/src/network/connection.rs", "scylla/src/statement/batch.rs", "scylla/src/statement/prepared_statement.rs"]

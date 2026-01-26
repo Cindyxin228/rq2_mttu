@@ -1,0 +1,1 @@
+["crates/nu-command/src/default_context.rs", "crates/nu-command/src/filters/group.rs", "crates/nu-command/src/filters/mod.rs", "crates/nu-command/src/filters/par_each_group.rs", "crates/nu-command/src/filters/window.rs", "crates/nu-command/tests/commands/each.rs", "src/tests/test_engine.rs"]

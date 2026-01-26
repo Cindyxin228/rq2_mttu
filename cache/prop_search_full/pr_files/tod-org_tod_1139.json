@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "LICENSE", "PUBLISH_CHECKLIST.md", "scripts/test.sh", "src/config.rs", "src/main.rs", "src/tasks.rs", "src/tasks/format.rs", "src/test.rs", "src/test_time.rs", "src/time.rs", "src/todoist.rs", "tests/project_test_config"]

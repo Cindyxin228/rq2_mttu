@@ -1,0 +1,1 @@
+["src/actor.rs", "src/config/cli.rs", "src/config/yaml.rs", "src/finder/post.rs", "src/handler/core.rs", "src/parser.rs", "src/shell.rs", "src/structures/cheat.rs", "src/tldr.rs", "src/welcome.rs"]

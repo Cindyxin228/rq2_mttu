@@ -1,0 +1,1 @@
+["src/db/meta.rs", "src/db/mod.rs", "src/format/kdbx3.rs", "src/format/kdbx4/dump.rs", "src/format/kdbx4/mod.rs", "src/format/kdbx4/parse.rs", "src/xml_db/mod.rs"]

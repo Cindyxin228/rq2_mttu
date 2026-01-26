@@ -1,0 +1,1 @@
+["crates/swc_ecma_codegen/src/typescript.rs", "crates/swc_ecma_codegen/tests/fixture/typescript/class_ts_constructor/input.ts", "crates/swc_ecma_codegen/tests/fixture/typescript/class_ts_constructor/output.ts", "crates/swc_ecma_transforms_base/tests/ts-resolver/issues/3960/1/output.ts"]

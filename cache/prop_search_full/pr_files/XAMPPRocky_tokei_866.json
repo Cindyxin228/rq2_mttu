@@ -1,0 +1,1 @@
+["fuzz/Cargo.lock", "fuzz/fuzz_targets/parse_from_slice.rs"]

@@ -1,0 +1,1 @@
+["src/codegen/encoding/borsh_encoding.rs", "src/codegen/encoding/mod.rs", "tests/codegen_testcases/solidity/borsh_encoding_simple_types.sol", "tests/codegen_testcases/solidity/encode_decode_double_dynamic_array.sol", "tests/solana_tests/abi_decode.rs", "tests/solana_tests/abi_encode.rs"]

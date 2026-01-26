@@ -1,0 +1,1 @@
+[".gitattributes", "Cargo.toml", "examples/github-private.key", "examples/github-public.key", "examples/github.rs", "src/backends/gitea.rs", "src/backends/github.rs", "src/backends/gitlab.rs", "src/backends/s3.rs", "src/errors.rs", "src/lib.rs", "src/update.rs"]

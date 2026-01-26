@@ -1,0 +1,1 @@
+["deploy/cdk.json", "deploy/config/config_prod_umccr.toml", "deploy/lib/htsget-lambda-stack.ts"]

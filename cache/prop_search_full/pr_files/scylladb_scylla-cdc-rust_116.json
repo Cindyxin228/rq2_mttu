@@ -1,0 +1,1 @@
+["scylla-cdc-printer/Cargo.toml", "scylla-cdc-printer/src/printer.rs", "scylla-cdc-replicator/Cargo.toml", "scylla-cdc-replicator/src/replication_tests.rs", "scylla-cdc-replicator/src/replicator_consumer.rs", "scylla-cdc-test-utils/Cargo.toml", "scylla-cdc/Cargo.toml", "scylla-cdc/src/stream_reader.rs"]

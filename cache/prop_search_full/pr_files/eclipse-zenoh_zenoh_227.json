@@ -1,0 +1,1 @@
+["commons/zenoh-cfg-properties/src/config.rs", "plugins/zenoh-backend-traits/src/lib.rs", "plugins/zenoh-plugin-storage-manager/src/backends_mgt.rs", "plugins/zenoh-plugin-storage-manager/src/lib.rs", "plugins/zenoh-plugin-storage-manager/src/memory_backend/mod.rs", "zenoh/src/lib.rs"]

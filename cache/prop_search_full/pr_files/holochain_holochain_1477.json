@@ -1,0 +1,1 @@
+["crates/hdi/CHANGELOG.md", "crates/hdi/src/hash.rs", "crates/hdi/src/lib.rs", "crates/hdi/src/map_extern.rs", "crates/hdk/src/entry.rs", "crates/hdk/src/lib.rs", "crates/holochain_types/src/dna/dna_manifest/dna_manifest_v1.rs", "crates/test_utils/wasm/wasm_workspace/link/src/integrity.rs"]

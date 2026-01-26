@@ -1,0 +1,1 @@
+["src/core/open_simplex.rs", "src/core/perlin.rs", "src/core/perlin_surflet.rs", "src/core/simplex.rs", "src/core/super_simplex.rs", "src/core/value.rs", "src/core/worley.rs", "src/math/vectors.rs", "src/math/vectors/vector2.rs", "src/math/vectors/vector3.rs", "src/math/vectors/vector4.rs"]

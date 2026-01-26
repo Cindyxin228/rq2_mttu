@@ -1,0 +1,1 @@
+["Cargo.lock", "sentry-tracing/Cargo.toml", "sentry-tracing/src/converters.rs", "sentry-tracing/src/layer.rs", "sentry-tracing/tests/README.md", "sentry-tracing/tests/breadcrumbs.rs", "sentry-tracing/tests/shared.rs", "sentry-tracing/tests/smoke.rs"]

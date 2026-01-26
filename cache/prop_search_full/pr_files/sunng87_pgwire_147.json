@@ -1,0 +1,1 @@
+["examples/datafusion.rs", "examples/gluesql.rs", "examples/scram.rs", "examples/secure_server.rs", "examples/server.rs", "examples/sqlite.rs", "src/api/query.rs", "src/api/results.rs", "tests-integration/test-server/src/main.rs"]

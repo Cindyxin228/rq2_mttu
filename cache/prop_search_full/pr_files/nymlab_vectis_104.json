@@ -1,0 +1,1 @@
+["contracts/dao_tunnel/src/msg.rs", "contracts/factory/src/contract.rs", "contracts/factory/src/helpers.rs", "contracts/govec/src/contract.rs", "contracts/govec/src/state.rs", "contracts/govec/src/tests.rs", "contracts/govec/src/tests_remote.rs", "packages/vectis/src/govec.rs"]

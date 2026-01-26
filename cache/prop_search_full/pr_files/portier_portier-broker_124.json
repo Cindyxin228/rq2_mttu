@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "build-docker.sh", "build.rs", "lang/de.po", "lang/en.po", "lang/nl.po", "src/config.rs", "src/email_bridge.rs", "src/handlers/oidc.rs", "src/lib.rs", "tmpl/confirm_email.mustache", "tmpl/email_html.mustache"]

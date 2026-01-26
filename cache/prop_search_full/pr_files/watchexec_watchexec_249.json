@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "cli/Cargo.toml", "cli/src/args.rs", "cli/src/config/runtime.rs", "cli/src/filterer/common.rs", "cli/tests/snapshots/help__help_unix.snap", "cli/tests/snapshots/help__help_windows.snap", "doc/watchexec.1.ronn"]

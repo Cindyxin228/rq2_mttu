@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", ".github/workflows/lint.yaml", ".github/workflows/test.yaml", ".gitignore", "crates/holochain_serialized_bytes/Cargo.toml", "crates/holochain_serialized_bytes/src/lib.rs", "flake.lock", "flake.nix", "test/holochain_serialized_bytes/Cargo.toml"]

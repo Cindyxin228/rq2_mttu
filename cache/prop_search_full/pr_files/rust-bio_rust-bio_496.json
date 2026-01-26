@@ -1,0 +1,1 @@
+["src/alignment/pairwise/mod.rs", "src/alphabets/mod.rs", "src/data_structures/fmindex.rs", "src/data_structures/qgram_index.rs", "src/io/fasta.rs", "src/io/fastq.rs", "src/io/gff.rs", "src/pattern_matching/pssm/errors.rs", "src/seq_analysis/orf.rs", "src/stats/hmm/errors.rs", "src/stats/hmm/mod.rs", "src/stats/probs/mod.rs", "src/utils/interval/errors.rs"]

@@ -1,0 +1,1 @@
+["deny.toml", "interop/Cargo.toml", "interop/src/lib.rs", "tests/integration_tests/Cargo.toml", "tests/integration_tests/src/lib.rs", "tests/integration_tests/tests/status.rs"]

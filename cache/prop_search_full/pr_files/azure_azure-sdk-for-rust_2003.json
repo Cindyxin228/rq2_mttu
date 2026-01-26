@@ -1,0 +1,1 @@
+["sdk/core/azure_core/Cargo.toml", "sdk/core/azure_core_amqp/Cargo.toml", "sdk/cosmos/azure_data_cosmos/Cargo.toml", "sdk/eventhubs/azure_messaging_eventhubs/Cargo.toml", "sdk/identity/azure_identity/Cargo.toml", "sdk/typespec/Cargo.toml"]

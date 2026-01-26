@@ -1,0 +1,1 @@
+[".changelog/unreleased/improvements/4228-fix-hw-tests-by-unbatching.md", "crates/apps_lib/src/client/tx.rs", "crates/tests/src/e2e/ibc_tests.rs", "crates/tests/src/integration/ledger_tests.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/board.rs", "src/parse.rs", "src/search.rs", "tests/board.rs", "tests/evaluate_nnue.rs"]

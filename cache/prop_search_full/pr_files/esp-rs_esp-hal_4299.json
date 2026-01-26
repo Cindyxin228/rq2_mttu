@@ -1,0 +1,1 @@
+["esp-hal/src/timer/systimer.rs", "esp-hal/src/timer/timg.rs", "esp-sync/src/raw.rs"]

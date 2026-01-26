@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "SPECIFICATON.md", "src/events/error_event.rs", "src/events/event.rs", "src/events/payload.rs", "src/ipc/context.rs", "src/ipc/mod.rs", "src/ipc/stream_emitter.rs", "src/lib.rs", "tests/test_events_with_payload.rs", "tests/test_raw_events.rs", "tests/test_serialization.rs"]

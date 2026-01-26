@@ -1,0 +1,1 @@
+["Cargo.lock", "aesm-client/Cargo.toml", "dcap-provider/Cargo.toml", "dcap-ql/Cargo.toml", "enclave-runner/Cargo.toml", "fortanix-sgx-abi/Cargo.toml", "fortanix-sgx-tools/Cargo.toml", "report-test/Cargo.toml", "rs-libc/Cargo.toml", "sgxs-loaders/Cargo.toml", "sgxs-tools/Cargo.toml", "sgxs/Cargo.toml"]

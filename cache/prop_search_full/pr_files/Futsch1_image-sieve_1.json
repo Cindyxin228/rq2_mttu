@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".vscode/launch.json", "CHANGELOG.md", "Cargo.toml", "README.md", "src/item_sort_list/file_item.rs", "src/item_sort_list/item_list.rs", "src/main_window.rs", "src/persistence/json.rs", "src/persistence/settings.rs", "src/synchronize.rs", "ui/image_sieve.60", "ui/settings.60", "ui/sort.60"]

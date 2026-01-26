@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/notan_app/src/config.rs", "crates/notan_web/src/window.rs", "crates/notan_winit/Cargo.toml", "crates/notan_winit/src/window.rs", "examples/egui_basic.rs", "examples/egui_demo.rs", "examples/egui_paint.rs", "examples/egui_render_texture.rs", "examples/egui_shape_widget.rs"]

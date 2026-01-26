@@ -1,0 +1,1 @@
+["README.md", "lindera-ipadic-builder/src/lib.rs", "lindera/resources/detailed_userdic.csv", "lindera/resources/mixed_userdic.csv", "lindera/src/tokenizer.rs", "lindera/test/fixtures/userdic_insufficient_number_of_fields.csv", "lindera/test/fixtures/userdic_invalid_word_cost.csv"]

@@ -1,0 +1,1 @@
+["crates/c-api/include/wasmtime/store.h", "crates/c-api/src/store.rs", "crates/wasmtime/src/func.rs", "crates/wasmtime/src/store.rs", "tests/all/fuel.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/backends/github.rs", "src/backends/gitlab.rs", "src/backends/s3.rs", "src/lib.rs", "src/update.rs"]

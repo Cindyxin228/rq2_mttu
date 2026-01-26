@@ -1,0 +1,1 @@
+[".changes/vc-redistributable.md", "cli/core/src/MergeModules/Microsoft_VC142_CRT_x64.msm", "cli/core/src/MergeModules/Microsoft_VC142_CRT_x86.msm", "cli/core/src/build.rs", "cli/tauri-bundler/src/bundle/templates/main.wxs", "cli/tauri-bundler/src/bundle/wix.rs"]

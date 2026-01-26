@@ -1,0 +1,1 @@
+["cmd/client/main.go", "cmd/kuber/BUILD.bazel", "cmd/kuber/main.go", "pkg/cli/k0s/k0s.go", "pkg/cli/kuber/kuber.go", "pkg/hub/config/config.go", "pkg/utils/env.go"]

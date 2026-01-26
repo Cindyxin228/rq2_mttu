@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "cli/Cargo.toml", "codegen/Cargo.toml", "codegen/src/utils/fetch_metadata.rs", "subxt/Cargo.toml", "subxt/src/client/online_client.rs", "subxt/src/lib.rs", "subxt/src/rpc/jsonrpsee_impl.rs", "testing/test-runtime/Cargo.toml", "testing/test-runtime/build.rs", "testing/wasm-tests/Cargo.toml", "testing/wasm-tests/tests/wasm.rs"]

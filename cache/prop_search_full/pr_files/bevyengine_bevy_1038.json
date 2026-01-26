@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/bevy_internal/Cargo.toml", "crates/bevy_render/Cargo.toml", "crates/bevy_render/src/texture/image_texture_loader.rs"]

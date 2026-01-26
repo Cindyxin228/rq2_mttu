@@ -1,0 +1,1 @@
+["ffi/capi/bindings/cpp/ICU4XBidi.hpp", "ffi/capi/bindings/dart/Bidi.g.dart", "ffi/capi/bindings/js/ICU4XBidi.d.ts", "ffi/capi/bindings/js/ICU4XBidi.mjs", "ffi/capi/src/bidi.rs", "ffi/capi/src/collator.rs", "tutorials/c/Cargo.lock", "tutorials/cpp/Cargo.lock", "tutorials/cpp/bidi.cpp"]

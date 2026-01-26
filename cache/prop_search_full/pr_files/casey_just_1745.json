@@ -1,0 +1,1 @@
+["src/analyzer.rs", "src/compiler.rs", "src/justfile.rs", "src/lib.rs", "src/testing.rs", "tests/includes.rs"]

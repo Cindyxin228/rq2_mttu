@@ -1,0 +1,1 @@
+["scripts/bump-version.sh", "scripts/generate-readme.sh", "scripts/update-readme.sh"]

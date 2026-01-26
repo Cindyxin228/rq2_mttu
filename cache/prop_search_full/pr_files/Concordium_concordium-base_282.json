@@ -1,0 +1,1 @@
+["haskell-src/Concordium/Crypto/BlsSignature.hs", "haskell-tests/ConcordiumTests/Crypto/BlsSignature.hs", "rust-src/aggregate_sig/benches/bench.rs", "rust-src/aggregate_sig/src/aggregate_sig.rs", "rust-src/aggregate_sig/src/ffi.rs"]

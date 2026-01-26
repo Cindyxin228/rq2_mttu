@@ -1,0 +1,1 @@
+["src/pipelines/copydir.rs", "src/pipelines/copyfile.rs", "src/pipelines/css.rs", "src/pipelines/html.rs", "src/pipelines/icon.rs", "src/pipelines/inline.rs", "src/pipelines/mod.rs", "src/pipelines/rust_app.rs", "src/pipelines/sass.rs"]

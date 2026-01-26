@@ -1,0 +1,1 @@
+["clippy.toml", "cot-cli/src/handlers.rs", "cot-cli/src/migration_generator.rs", "cot-cli/tests/migration_generator.rs", "cot-codegen/src/model.rs", "cot-macros/src/dbtest.rs", "cot-macros/src/model.rs"]

@@ -1,0 +1,1 @@
+["sentry-core/src/hub_impl.rs", "sentry-core/src/performance.rs", "sentry-core/src/scope/real.rs", "sentry-types/README.md", "sentry-types/src/lib.rs", "sentry-types/src/protocol/session.rs", "sentry-types/src/protocol/v7.rs"]

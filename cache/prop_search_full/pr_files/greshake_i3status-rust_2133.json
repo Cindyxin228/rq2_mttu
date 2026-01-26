@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cspell.yaml", "src/blocks/keyboard_layout.rs", "src/blocks/keyboard_layout/set_xkb_map.rs", "src/blocks/keyboard_layout/xkb_event.rs", "src/blocks/keyboard_layout/xkb_switch.rs"]

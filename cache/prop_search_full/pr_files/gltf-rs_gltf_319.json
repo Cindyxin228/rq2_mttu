@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "gltf-json/Cargo.toml", "gltf-json/src/extensions/mesh.rs", "gltf-json/src/extensions/root.rs", "gltf-json/src/extensions/scene.rs", "src/iter.rs", "src/khr_materials_variants.rs", "src/lib.rs", "src/mesh/iter.rs", "src/mesh/mod.rs"]

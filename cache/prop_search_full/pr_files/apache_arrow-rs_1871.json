@@ -1,0 +1,1 @@
+["arrow/src/array/array_binary.rs", "arrow/src/array/builder.rs", "arrow/src/array/equal_json.rs", "arrow/src/array/iterator.rs", "arrow/src/compute/kernels/cast.rs", "arrow/src/compute/kernels/sort.rs", "arrow/src/compute/kernels/take.rs", "arrow/src/util/decimal.rs", "arrow/src/util/mod.rs", "parquet/src/arrow/arrow_reader.rs", "parquet/src/arrow/arrow_writer/mod.rs"]

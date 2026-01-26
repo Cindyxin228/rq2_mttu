@@ -1,0 +1,1 @@
+["Cargo.toml", "src/content.rs", "src/creator.rs", "src/document.rs", "src/lib.rs", "src/object_stream.rs", "src/parser_aux.rs", "src/processor.rs", "src/reader.rs", "src/xobject.rs", "src/xref.rs", "tests/modify.rs"]

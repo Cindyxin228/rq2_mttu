@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/archive_async/Cargo.toml", "examples/embedded_async/Cargo.toml", "examples/postgres_embedded/Cargo.toml", "examples/sqlx_embedded/Cargo.toml", "postgresql_archive/Cargo.toml", "postgresql_archive/src/archive.rs", "postgresql_embedded/Cargo.toml", "postgresql_embedded/src/command/traits.rs", "postgresql_embedded/src/postgresql.rs"]

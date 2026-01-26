@@ -1,0 +1,1 @@
+["crates/ide/src/syntax_highlighting.rs", "crates/ide/src/syntax_highlighting/highlight.rs", "crates/ide/src/syntax_highlighting/inject.rs", "crates/ide/src/syntax_highlighting/injector.rs", "crates/ide/src/syntax_highlighting/macro_.rs", "crates/ide/src/syntax_highlighting/test_data/highlight_doctest.html", "crates/ide_db/src/defs.rs"]

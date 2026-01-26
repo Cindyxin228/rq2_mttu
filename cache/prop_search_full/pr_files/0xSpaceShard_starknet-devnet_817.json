@@ -1,0 +1,1 @@
+["tests/integration/common/constants.rs", "tests/integration/common/utils.rs", "tests/integration/test_deploy.rs", "tests/integration/test_estimate_fee.rs", "tests/integration/test_old_state.rs", "tests/integration/test_simulate_transactions.rs", "tests/integration/test_subscription_to_events.rs", "tests/integration/test_v3_transactions.rs"]

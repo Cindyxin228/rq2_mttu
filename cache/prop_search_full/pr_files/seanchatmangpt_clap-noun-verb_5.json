@@ -1,0 +1,1 @@
+["Cargo.toml", "clap-noun-verb-macros/Cargo.toml", "examples/kernel_example.rs", "src/format.rs", "src/kernel/grammar.rs", "src/kernel/io.rs", "src/kernel/manpage.rs", "src/kernel/mod.rs", "src/kernel/output.rs", "src/kernel/telemetry.rs", "src/kernel/test_harness.rs", "src/lib.rs", "tests/kernel_tests.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/cache.rs", "cli/main.rs", "cli/standalone.rs", "cli/tests/integration/compile_tests.rs", "cli/tests/testdata/standalone_dynamic_imports.ts", "cli/tests/testdata/standalone_error_module_with_imports_1.ts", "cli/tests/testdata/standalone_error_module_with_imports_2.ts", "cli/tools/doc.rs", "cli/tools/standalone.rs", "cli/tsc.rs"]

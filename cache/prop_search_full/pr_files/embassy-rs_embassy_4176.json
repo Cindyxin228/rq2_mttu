@@ -1,0 +1,1 @@
+["embassy-usb-driver/Cargo.toml", "embassy-usb-driver/src/lib.rs", "embassy-usb/Cargo.toml", "embassy-usb/src/class/cdc_acm.rs"]

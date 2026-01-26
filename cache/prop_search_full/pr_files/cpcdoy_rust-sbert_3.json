@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "proto/service.proto", "src/client.rs", "src/sbert.rs", "src/server.rs"]

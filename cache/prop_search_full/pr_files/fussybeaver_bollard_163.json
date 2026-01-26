@@ -1,0 +1,1 @@
+[".circleci/config.yml", "appveyor.yml", "dockerfiles/windows/consul/Dockerfile", "dockerfiles/windows/consul/LICENSE", "dockerfiles/windows/registry/Dockerfile"]

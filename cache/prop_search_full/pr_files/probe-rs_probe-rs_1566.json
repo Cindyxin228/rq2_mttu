@@ -1,0 +1,1 @@
+["cli/src/debugger.rs", "debugger/src/debug_adapter/dap/adapter.rs", "probe-rs-cli-util/src/rtt.rs", "probe-rs/src/architecture/arm/ap/generic_ap.rs", "probe-rs/src/architecture/arm/ap/memory_ap/mod.rs", "probe-rs/src/debug/variable.rs", "probe-rs/src/rtt.rs", "target-gen/src/commands/test.rs"]

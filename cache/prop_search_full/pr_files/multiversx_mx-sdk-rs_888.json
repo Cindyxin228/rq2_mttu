@@ -1,0 +1,1 @@
+["elrond-wasm-debug/src/api/send_api_mock.rs", "elrond-wasm-debug/src/tx_execution/builtin_function_mocks/builtin_func_exec.rs", "elrond-wasm-debug/src/tx_mock/tx_async_call_data.rs", "elrond-wasm/src/api/builtin_function_names.rs", "elrond-wasm/src/contract_base/wrappers/send_wrapper.rs", "elrond-wasm/src/types/interaction/contract_call.rs"]

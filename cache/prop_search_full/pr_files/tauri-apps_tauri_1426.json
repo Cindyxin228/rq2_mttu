@@ -1,0 +1,1 @@
+["tauri/src/endpoints.rs", "tauri/src/endpoints/internal.rs", "tauri/src/lib.rs", "tauri/src/runtime/manager.rs", "tauri/src/runtime/mod.rs", "tauri/src/runtime/window.rs", "tauri/src/salt.rs"]

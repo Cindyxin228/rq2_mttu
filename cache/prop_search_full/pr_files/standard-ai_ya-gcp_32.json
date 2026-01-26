@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "src/bigtable/emulator.rs", "src/emulator.rs", "src/pubsub/emulator.rs", "src/pubsub/publish_sink.rs", "tests/bigtable_client.rs", "tests/pubsub_client.rs"]

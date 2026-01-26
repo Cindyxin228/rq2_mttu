@@ -1,0 +1,1 @@
+["bindings/python/Cargo.lock", "bindings/python/Cargo.toml", "bindings/python/pyproject.toml", "bindings/python/src/datafusion_table_provider.rs", "bindings/python/src/lib.rs", "bindings/python/src/runtime.rs", "bindings/python/tests/test_datafusion_table_provider.py", "crates/integrations/datafusion/src/lib.rs"]

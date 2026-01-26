@@ -1,0 +1,1 @@
+["Cargo.lock", "efiboot/Cargo.toml", "efivar/Cargo.toml", "efivar/src/error.rs", "efivar/src/store/file.rs", "efivar/src/store/store_value.rs"]

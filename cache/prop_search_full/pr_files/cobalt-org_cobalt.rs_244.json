@@ -1,0 +1,1 @@
+[".travis.yml", "appveyor.yml", "ci/coverage.sh", "ci/install.sh", "ci/script.sh", "src/document.rs", "src/syntax_highlight.rs"]

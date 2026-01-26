@@ -1,0 +1,1 @@
+["sway-lsp/benches/lsp_benchmarks/compile.rs", "sway-lsp/src/core/session.rs", "sway-lsp/src/core/token_map.rs", "sway-lsp/src/traverse/lexed_tree.rs"]

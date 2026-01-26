@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/c-api/Cargo.toml", "lib/cli/Cargo.toml", "lib/registry/Cargo.toml", "lib/vfs/Cargo.toml", "lib/vfs/src/overlay_fs.rs", "lib/vfs/src/webc_fs.rs", "lib/wasi/Cargo.toml", "lib/wasi/src/runners/container.rs", "lib/wasi/src/runners/emscripten.rs", "lib/wasi/src/runners/wasi.rs", "lib/wasi/src/runners/wcgi/runner.rs"]

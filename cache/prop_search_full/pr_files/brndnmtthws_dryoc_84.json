@@ -1,0 +1,1 @@
+["src/classic/crypto_core.rs", "src/classic/crypto_sign_ed25519.rs", "src/constants.rs", "src/keypair.rs"]

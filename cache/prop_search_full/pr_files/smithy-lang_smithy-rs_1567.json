@@ -1,0 +1,1 @@
+["tools/publisher/src/subcommand/generate_version_manifest.rs", "tools/publisher/src/subcommand/tag_versions_manifest.rs", "tools/publisher/tests/hydrate_readme_e2e_test.rs", "tools/sdk-versioner/src/main.rs", "tools/smithy-rs-tool-common/src/versions_manifest.rs"]

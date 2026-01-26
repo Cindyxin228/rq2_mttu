@@ -1,0 +1,1 @@
+["sdk/src/asset_handlers/bmff_io.rs", "sdk/src/asset_handlers/jpeg_io.rs", "sdk/src/asset_handlers/png_io.rs", "sdk/src/error.rs", "sdk/tests/fixtures/video1.mp4"]

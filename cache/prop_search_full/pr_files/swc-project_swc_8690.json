@@ -1,0 +1,1 @@
+["crates/swc_ecma_compat_common/src/regexp.rs", "crates/swc_ecma_compat_es2015/src/lib.rs", "crates/swc_ecma_compat_es2018/src/lib.rs", "crates/swc_ecma_compat_es2022/src/lib.rs", "crates/swc_ecma_parser/src/parser/expr.rs", "crates/swc_ecma_preset_env/src/lib.rs"]

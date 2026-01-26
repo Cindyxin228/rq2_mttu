@@ -1,0 +1,1 @@
+["controller/src/command.rs", "controller/tests/file.rs", "libwallet/src/api_impl/types.rs", "libwallet/src/lib.rs", "libwallet/src/slate.rs", "libwallet/src/slate_versions/ser.rs", "libwallet/src/slate_versions/v4.rs", "src/cmd/wallet_args.rs"]

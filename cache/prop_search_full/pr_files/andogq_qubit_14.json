@@ -1,0 +1,1 @@
+[".changes/type-registry.md", "crates/qubit-macros/src/handler/mod.rs", "crates/qubit-macros/src/macros/derive_export_type.rs", "examples/counter/bindings.ts", "examples/counter/src/main.rs", "src/builder/handler.rs", "src/builder/ty/export_type.rs", "src/builder/ty/mod.rs", "src/builder/ty/registry.rs", "src/server/router.rs"]

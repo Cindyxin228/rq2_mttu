@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "src/args.rs", "src/bin/build-man.rs", "src/branch.rs", "src/core.rs", "src/lib.rs", "src/main.rs", "src/merge_tracker.rs", "src/simple_glob.rs", "src/subprocess.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/draft_nightly_nanocl.yml", ".github/workflows/draft_stable_nanocl.yml", "bin/nanocl/Dockerfile", "bin/nanocld/Dockerfile", "bin/ncddns/Dockerfile", "bin/ncdproxy/Dockerfile", "dev.Dockerfile", "rust-toolchain.toml"]

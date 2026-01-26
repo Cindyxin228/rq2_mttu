@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "README.md", "ci/test.sh", "ci/thumbv6m.sh", "derive/src/value.rs", "src/derive.rs", "src/lib.rs", "src/serde/error.rs", "src/serde/mod.rs", "src/serde/to_serialize.rs", "src/value/owned.rs", "tests/serde/Cargo.toml", "tests/serde_no_std/Cargo.toml", "tests/serde_no_std/lib.rs"]

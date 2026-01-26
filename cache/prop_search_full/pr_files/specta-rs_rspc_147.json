@@ -1,0 +1,1 @@
+["Cargo.toml", "src/integrations/httpz.rs", "src/integrations/tauri.rs", "src/internal/async_map.rs", "src/internal/execute.rs", "src/internal/jsonrpc_exec.rs", "src/internal/mod.rs", "src/internal/subscription_manager.rs"]

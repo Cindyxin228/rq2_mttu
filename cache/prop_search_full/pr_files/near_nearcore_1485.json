@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/client/src/client.rs", "chain/client/tests/catching_up.rs", "pytest/lib/cluster.py", "pytest/lib/utils.py", "pytest/tests/sanity/state_sync.py", "pytest/tests/sanity/transactions.py", "pytest/tests/stress/stress.py"]

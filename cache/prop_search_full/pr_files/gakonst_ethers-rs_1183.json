@@ -1,0 +1,1 @@
+["CHANGELOG.md", "ethers-contract/ethers-contract-abigen/src/contract/common.rs", "ethers-contract/src/call.rs", "ethers-contract/src/contract.rs", "ethers-contract/src/factory.rs", "ethers-contract/src/multicall/mod.rs", "ethers-contract/src/multicall/multicall_contract.rs", "ethers-middleware/src/gas_escalator/mod.rs", "ethers-middleware/src/transformer/ds_proxy/factory.rs"]

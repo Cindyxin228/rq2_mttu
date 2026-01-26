@@ -1,0 +1,1 @@
+["libsql-server/src/connection/libsql.rs", "libsql-server/src/namespace/mod.rs", "libsql-server/src/replication/primary/logger.rs", "libsql-server/src/replication/primary/replication_logger_wal.rs"]

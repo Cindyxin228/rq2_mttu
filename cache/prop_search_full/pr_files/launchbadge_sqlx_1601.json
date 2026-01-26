@@ -1,0 +1,1 @@
+["Cargo.lock", "sqlx-core/Cargo.toml", "sqlx-core/src/mssql/arguments.rs", "sqlx-core/src/mssql/protocol/type_info.rs", "sqlx-core/src/postgres/io/buf_mut.rs"]

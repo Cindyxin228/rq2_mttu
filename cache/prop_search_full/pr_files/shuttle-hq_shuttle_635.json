@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cargo-shuttle/Cargo.toml", "common/Cargo.toml", "common/src/backends/auth.rs", "common/src/backends/mod.rs", "deployer/Cargo.toml", "gateway/Cargo.toml", "service/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bitmap/immutable.rs", "src/buffer/immutable.rs", "src/buffer/mod.rs", "src/ffi/array.rs", "src/types/native.rs", "tests/it/bitmap/immutable.rs", "tests/it/buffer/immutable.rs"]

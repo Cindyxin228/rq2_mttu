@@ -1,0 +1,1 @@
+["src/config.rs", "src/constants.rs", "src/lib.rs", "src/main.rs", "src/sync.rs", "src/ui/app_component.rs", "src/ui/components/task_list_component.rs", "src/utils/datetime.rs", "tests/config.rs", "tests/utils/datetime.rs"]

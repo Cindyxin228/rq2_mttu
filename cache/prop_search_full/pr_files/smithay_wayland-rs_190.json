@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/basic_global.rs", "tests/event_loop.rs", "tests/event_loop_signal.rs", "tests/server.rs", "wayland-client/src/proxy.rs", "wayland-server/src/resource.rs"]

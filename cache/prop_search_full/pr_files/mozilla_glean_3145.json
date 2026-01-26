@@ -1,0 +1,1 @@
+["CHANGELOG.md", "docs/user/_includes/label-limits.md", "glean-core/android/src/test/java/mozilla/telemetry/glean/private/LabeledMetricTypeTest.kt", "glean-core/ios/GleanTests/Metrics/LabeledMetricTests.swift", "glean-core/python/tests/metrics/test_labeled.py", "glean-core/src/metrics/labeled.rs", "glean-core/tests/labeled.rs"]

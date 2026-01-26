@@ -1,0 +1,1 @@
+["crates/typst-pdf/src/convert.rs", "crates/typst-pdf/src/image.rs", "crates/typst-pdf/src/shape.rs", "crates/typst-pdf/src/text.rs", "crates/typst-utils/src/lib.rs", "tests/suite/pdftags/link.typ", "tests/suite/pdftags/logical-children.typ"]

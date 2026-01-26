@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/dalek_benchmarks.rs", "src/backend/serial/scalar_mul/vartime_double_base.rs", "src/backend/serial/u32/constants.rs", "src/backend/serial/u64/constants.rs", "src/backend/vector/avx2/constants.rs", "src/backend/vector/ifma/constants.rs", "src/backend/vector/mod.rs", "src/backend/vector/scalar_mul/vartime_double_base.rs", "src/window.rs"]

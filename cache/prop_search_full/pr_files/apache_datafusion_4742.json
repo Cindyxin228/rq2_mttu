@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/file_format/parquet.rs", "datafusion/core/src/physical_plan/file_format/parquet/page_filter.rs", "datafusion/core/src/physical_plan/file_format/parquet/row_groups.rs"]

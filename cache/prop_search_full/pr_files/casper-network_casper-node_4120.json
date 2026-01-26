@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "utils/nctl/sh/scenarios/accounts_toml/validators_disconnect.accounts.toml.override", "utils/nctl/sh/scenarios/chainspecs/validators_disconnect.chainspec.toml.override", "utils/nctl/sh/scenarios/common/itst.sh", "utils/nctl/sh/scenarios/itst02.sh", "utils/nctl/sh/scenarios/validators_disconnect.sh"]

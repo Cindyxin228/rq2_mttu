@@ -1,0 +1,1 @@
+["Makefile", "dune-project", "extism-manifest.opam", "extism.opam", "haskell/CHANGELOG.md", "haskell/Makefile", "haskell/manifest/Extism/JSON.hs", "ocaml/Makefile", "ocaml/bin/main.ml", "ocaml/lib/current_plugin.ml", "ocaml/lib/extism.mli", "ocaml/lib/function.ml", "ocaml/lib/plugin.ml", "ocaml/manifest/extism_manifest.ml", "ocaml/manifest/extism_manifest.mli"]

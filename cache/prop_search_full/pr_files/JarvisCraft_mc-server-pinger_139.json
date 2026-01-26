@@ -1,0 +1,1 @@
+[".github/workflows/check.yml", ".github/workflows/release.yml", ".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "Dockerfile", "src/clap_support.rs", "src/main.rs", "src/output_flavor.rs"]

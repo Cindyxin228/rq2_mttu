@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "c/Cargo.toml", "python/Cargo.toml", "python/databento_dbn.pyi", "python/pyproject.toml", "python/src/dbn_decoder.rs", "python/src/lib.rs", "python/src/transcoder.rs", "rust/dbn-cli/Cargo.toml", "rust/dbn-macros/Cargo.toml", "rust/dbn/Cargo.toml", "rust/dbn/src/compat.rs", "rust/dbn/src/python/record.rs", "rust/dbn/src/symbol_map.rs"]

@@ -1,0 +1,1 @@
+["crates/ruma-common/src/api/metadata.rs", "crates/ruma-common/tests/api/ui/01-api-sanity-check.rs", "crates/ruma-macros/src/api.rs", "crates/ruma-macros/src/api/api_metadata.rs", "crates/ruma-macros/src/api/request.rs", "crates/ruma-macros/src/api/response.rs"]

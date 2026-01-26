@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/test.rs", "src/linux/sections/exception_stream.rs", "src/linux/sections/thread_list_stream.rs", "src/mac/streams/exception.rs", "src/mac/streams/module_list.rs", "tests/linux_minidump_writer.rs"]

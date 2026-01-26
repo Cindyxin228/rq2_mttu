@@ -1,0 +1,1 @@
+["lambda-events/src/event/cloudwatch_alarms/mod.rs", "lambda-events/src/fixtures/example-cloudwatch-alarm-composite-with-suppressor-alarm.json"]

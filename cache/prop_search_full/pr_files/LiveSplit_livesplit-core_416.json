@@ -1,0 +1,1 @@
+[".github/workflows/bench.yml", ".github/workflows/build.yml", ".github/workflows/build_static.sh", "Cargo.toml", "README.md", "crates/livesplit-hotkey/src/wasm_web/mod.rs", "crates/no-std-test/Cargo.toml", "crates/no-std-test/README.md", "crates/no-std-test/src/lib.rs", "src/rendering/font/mod.rs", "src/run/editor/state.rs", "src/run/parser/splits_io.rs"]

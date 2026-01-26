@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "kanidm_unix_int/Cargo.toml", "kanidm_unix_int/src/daemon.rs", "kanidmd/Cargo.toml", "kanidmd/Dockerfile"]

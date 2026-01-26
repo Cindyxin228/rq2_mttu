@@ -1,0 +1,1 @@
+[".dockerignore", ".env.example.txt", "Cargo.toml", "Dockerfile", "Dockerfile.dev", "Dockerfile.prod", "README.md", "docker-compose.yml", "src/hooks/mod.rs", "src/hooks/monitor.rs", "src/interface/page.rs", "src/lib.rs", "src/routes/crawl.rs", "src/routes/mod.rs", "src/routes/scan.rs"]

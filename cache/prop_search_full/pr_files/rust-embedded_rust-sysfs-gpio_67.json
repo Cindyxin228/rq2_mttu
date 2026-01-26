@@ -1,0 +1,1 @@
+[".github/CODEOWNERS", ".github/bors.toml", ".github/workflows/ci.yml", ".travis.yml", "CHANGELOG.md", "Cargo.toml", "LICENSE-MIT", "README.md", "examples/tokio.rs", "src/error.rs", "src/lib.rs"]

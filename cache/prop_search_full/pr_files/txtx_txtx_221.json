@@ -1,0 +1,1 @@
+["addons/svm/src/commands/deploy_program.rs", "addons/svm/src/commands/process_instructions.rs", "addons/svm/src/commands/send_token.rs", "addons/svm/src/commands/send_transaction.rs", "addons/svm/src/functions.rs", "addons/svm/src/typing.rs"]

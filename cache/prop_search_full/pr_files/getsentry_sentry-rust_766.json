@@ -1,0 +1,1 @@
+["sentry/Cargo.toml", "sentry/README.md", "sentry/src/lib.rs", "sentry/src/transports/mod.rs", "sentry/src/transports/surf.rs"]

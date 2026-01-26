@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "rustfmt.toml", "src/app/key_binding.rs", "src/app/metrics.rs", "src/app/models.rs", "src/app/nodes.rs", "src/banner.rs", "src/cli.rs", "src/event/key.rs", "src/handlers/mod.rs", "src/main.rs", "src/ui/contexts.rs", "src/ui/help.rs", "src/ui/mod.rs", "src/ui/overview.rs", "src/ui/resource_tabs.rs", "src/ui/utilization.rs", "src/ui/utils.rs"]

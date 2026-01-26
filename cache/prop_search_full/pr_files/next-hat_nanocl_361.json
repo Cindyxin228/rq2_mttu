@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocld/Cargo.toml", "bin/nanocld/Dockerfile", "bin/nanocld/entrypoint.sh", "bin/nanocld/src/main.rs", "dev.Dockerfile", "dev.entrypoint.sh"]

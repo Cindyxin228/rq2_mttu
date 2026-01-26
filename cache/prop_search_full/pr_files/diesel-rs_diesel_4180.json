@@ -1,0 +1,1 @@
+["diesel/src/expression/operators.rs", "diesel/src/expression_methods/text_expression_methods.rs", "diesel/src/sql_types/ord.rs", "diesel_compile_tests/tests/fail/ordering_functions_require_ord.stderr", "diesel_compile_tests/tests/fail/pg_specific_binary_expressions_only_usable_with_pg.stderr"]

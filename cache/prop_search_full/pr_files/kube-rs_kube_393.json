@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/pod_evict.rs", "kube/src/api/mod.rs", "kube/src/api/subresource.rs"]

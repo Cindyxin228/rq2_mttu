@@ -1,0 +1,1 @@
+["Cargo.lock", "doc/manual/source/manual-page.rst", "doc/routinator.1", "src/config.rs", "src/engine.rs", "src/http/delta.rs", "src/http/metrics.rs", "src/http/status.rs", "src/metrics.rs", "src/operation.rs", "src/output.rs", "src/payload.rs", "src/utils/tls.rs", "src/validity.rs"]

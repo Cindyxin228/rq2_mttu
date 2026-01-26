@@ -1,0 +1,1 @@
+["ui/src-tauri/src/commands/app.rs", "ui/src-tauri/src/config.rs", "ui/src-tauri/src/main.rs", "ui/src-tauri/src/util.rs", "ui/src/App.tsx", "ui/src/components/Splashscreen.tsx", "ui/src/components/TrayMessage.tsx", "ui/src/context/AgentContext.tsx"]

@@ -1,0 +1,1 @@
+["cli/src/commands/codegen.rs", "examples/examples/storage_iterating.rs", "macro/src/lib.rs", "subxt/src/lib.rs", "testing/test-runtime/build.rs", "testing/ui-tests/src/lib.rs", "testing/ui-tests/src/utils/metadata_test_runner.rs"]

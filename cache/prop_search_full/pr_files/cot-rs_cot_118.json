@@ -1,0 +1,1 @@
+["cot-cli/src/lib.rs", "cot-cli/src/migration_generator.rs", "cot-codegen/src/lib.rs", "cot-macros/src/lib.rs", "cot/src/auth.rs", "cot/src/auth/db.rs", "cot/src/cli.rs", "cot/src/db/migrations.rs", "cot/src/db/query.rs", "cot/src/project.rs", "cot/src/request.rs", "cot/src/request/path_params_deserializer.rs", "cot/src/router.rs", "cot/src/test.rs"]

@@ -1,0 +1,1 @@
+["crates/neon/src/types_impl/buffer/mod.rs", "crates/neon/src/types_impl/buffer/types.rs", "test/napi/lib/typedarrays.js", "test/napi/src/js/typedarrays.rs", "test/napi/src/lib.rs"]

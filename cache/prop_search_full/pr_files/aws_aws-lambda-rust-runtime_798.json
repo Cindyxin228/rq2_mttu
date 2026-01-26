@@ -1,0 +1,1 @@
+["lambda-events/src/fixtures/example-apigw-sam-http-request.json", "lambda-events/src/fixtures/example-apigw-sam-rest-request.json", "lambda-http/src/deserializer.rs"]

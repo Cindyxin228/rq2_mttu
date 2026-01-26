@@ -1,0 +1,1 @@
+["Cargo.toml", "cli/Cargo.toml", "cli/src/grpc.rs", "cli/src/http.rs", "cli/src/lib.rs", "cli/src/main.rs", "cli/src/man.rs", "cli/src/params.rs", "cli/src/record.rs", "cli/src/take.rs", "filmreel/Cargo.toml"]

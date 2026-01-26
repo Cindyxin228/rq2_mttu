@@ -1,0 +1,1 @@
+["bin/client/main.rs", "bin/client/opts.rs", "bin/server.rs", "src/invoice/signature.rs", "tests/cli.rs"]

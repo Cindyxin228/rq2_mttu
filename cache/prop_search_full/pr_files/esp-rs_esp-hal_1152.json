@@ -1,0 +1,1 @@
+["esp-hal/Cargo.toml", "esp-hal/src/clock/clocks_ll/esp32p4.rs", "esp-hal/src/gpio.rs", "esp-hal/src/uart.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.toml", "coverage.sh", "example-project/Cargo.toml", "src/bin/capi.rs", "src/bin/cbuild.rs", "src/bin/cinstall.rs", "src/bin/ctest.rs", "src/build.rs", "src/cli.rs", "src/config.rs", "src/install.rs", "src/pkg_config_gen.rs"]

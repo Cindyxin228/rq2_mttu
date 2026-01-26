@@ -1,0 +1,1 @@
+["create-rust-app_cli/src/plugins/auth.rs", "create-rust-app_cli/template/migrations/00000000000000_diesel_initial_setup/down.sql", "create-rust-app_cli/template/migrations/00000000000000_diesel_initial_setup/up.sql", "create-rust-app_cli/template/migrations/00000000000002_todos/up.sql"]

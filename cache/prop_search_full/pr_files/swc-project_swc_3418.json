@@ -1,0 +1,1 @@
+["crates/swc/tests/fixture/jest/sourcemap-1/input/.swcrc", "crates/swc/tests/fixture/jest/sourcemap-1/input/index.ts", "crates/swc/tests/fixture/jest/sourcemap-1/output/index.ts", "crates/swc_ecma_transforms_module/src/util.rs"]

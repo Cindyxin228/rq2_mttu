@@ -1,0 +1,1 @@
+["examples/user-defined-type.rs", "scylla-cql/src/lib.rs", "scylla-macros/Cargo.toml", "scylla-macros/src/from_row.rs", "scylla-macros/src/from_user_type.rs", "scylla-macros/src/into_user_type.rs", "scylla-macros/src/lib.rs", "scylla-macros/src/parser.rs", "scylla-macros/src/value_list.rs", "scylla/src/lib.rs", "scylla/tests/hygiene.rs"]

@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/lib.rs", "chain/chain/src/stateless_validation/mod.rs", "chain/chain/src/stateless_validation/state_transition_data.rs", "core/primitives/src/block_header.rs", "core/store/src/db.rs"]

@@ -1,0 +1,17 @@
+patch propagation analysis (hops=1..1)
+max_hops_limit = 1
+
+all hops
+  count = 31781
+  min   = 0 days
+  p50   = 291.0000 days
+  avg   = 503.3965 days
+  max   = 3181 days
+
+hop 1
+  count = 31781
+  min   = 0 days
+  p50   = 291.0000 days
+  avg   = 503.3965 days
+  max   = 3181 days
+

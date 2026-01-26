@@ -1,0 +1,1 @@
+[".github/workflows/ci-zig.yml", ".gitignore", "scripts/sdk_coverage.py", "zig/build.zig", "zig/examples/basic.zig", "zig/src/context.zig", "zig/src/ffi.zig", "zig/src/main.zig", "zig/src/manifest.zig", "zig/src/plugin.zig", "zig/src/utils.zig", "zig/test.zig"]

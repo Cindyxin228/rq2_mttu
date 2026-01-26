@@ -1,0 +1,1 @@
+[".gitignore", "ink_linting/Cargo.lock", "ink_linting/_Cargo.toml", "ink_linting/rust-toolchain.toml", "ink_linting/src/lib.rs", "ink_linting/src/mapping_initialized.rs", "ink_linting/ui/fail/mapping-two-constructors-01.stderr", "ink_linting/ui/fail/mapping-two-constructors-02.stderr"]

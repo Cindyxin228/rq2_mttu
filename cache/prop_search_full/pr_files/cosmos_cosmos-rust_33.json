@@ -1,0 +1,1 @@
+["cosmos-sdk-proto/src/prost/gogoproto.rs", "cosmos-sdk-proto/src/prost/google.api.rs", "cosmos-sdk-proto/src/prost/google.protobuf.rs", "cosmos-sdk-proto/src/prost/tendermint.abci.rs", "cosmos-sdk-proto/src/prost/tendermint.crypto.rs", "cosmos-sdk-proto/src/prost/tendermint.types.rs", "cosmos-sdk-proto/src/prost/tendermint.version.rs", "proto-build/src/main.rs"]

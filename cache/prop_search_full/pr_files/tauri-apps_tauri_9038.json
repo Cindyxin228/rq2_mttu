@@ -1,0 +1,1 @@
+[".changes/ipc-post-message-fallback.md", "core/tauri/build.rs", "core/tauri/scripts/ipc-protocol.js", "core/tauri/src/app.rs", "core/tauri/src/ipc/mod.rs", "core/tauri/src/ipc/protocol.rs", "core/tauri/src/manager/webview.rs"]

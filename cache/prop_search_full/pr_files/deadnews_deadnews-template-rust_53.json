@@ -1,0 +1,1 @@
+[".github/workflows/cd.yml", ".github/workflows/docker-publish.yml", ".pre-commit-config.yaml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "Dockerfile.static", "Makefile", "README.md"]

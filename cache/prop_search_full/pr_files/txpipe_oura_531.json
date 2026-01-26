@@ -1,0 +1,1 @@
+["book/src/sinks/gcp_pubsub.md", "src/bin/oura/dump.rs", "src/bin/oura/main.rs", "src/bin/oura/watch.rs", "src/filters/fingerprint.rs", "src/mapper/map.rs", "src/sinks/elastic/run.rs", "src/sinks/gcp_pubsub/run.rs", "src/sinks/terminal/format.rs", "src/sources/common.rs", "src/utils/mod.rs"]

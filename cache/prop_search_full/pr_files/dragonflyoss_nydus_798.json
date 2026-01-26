@@ -1,0 +1,1 @@
+["app/src/lib.rs", "contrib/nydusify/pkg/checker/tool/builder.go", "contrib/nydusify/pkg/checker/tool/inspector.go", "rafs/src/metadata/layout/v5.rs", "rafs/src/metadata/layout/v6.rs", "rafs/src/metadata/mod.rs", "src/bin/nydus-image/core/context.rs", "src/bin/nydus-image/main.rs", "tests/builder.rs", "tests/inspect.rs"]

@@ -1,0 +1,1 @@
+["examples/send_ckb_multisig_example.rs", "src/transaction/handler/mod.rs", "src/transaction/handler/multisig.rs", "src/transaction/mod.rs", "src/transaction/signer/mod.rs", "src/transaction/signer/multisig.rs", "src/unlock/signer.rs"]

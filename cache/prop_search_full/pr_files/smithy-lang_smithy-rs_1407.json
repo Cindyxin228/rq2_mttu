@@ -1,0 +1,1 @@
+["tools/publisher/Cargo.lock", "tools/publisher/Cargo.toml", "tools/publisher/src/cargo/yank.rs", "tools/publisher/src/main.rs", "tools/publisher/src/subcommand/mod.rs", "tools/publisher/src/subcommand/yank_category.rs", "tools/publisher/src/subcommand/yank_release.rs"]

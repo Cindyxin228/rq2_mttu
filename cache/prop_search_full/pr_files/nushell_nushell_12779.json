@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/Cargo.toml", "crates/nu-cli/src/repl.rs", "crates/nu-cmd-base/src/util.rs", "crates/nu-command/src/filesystem/cd.rs", "crates/nu-command/tests/commands/cd.rs", "crates/nu-engine/src/eval.rs", "crates/nu-protocol/src/engine/engine_state.rs", "crates/nu-protocol/src/engine/stack.rs"]

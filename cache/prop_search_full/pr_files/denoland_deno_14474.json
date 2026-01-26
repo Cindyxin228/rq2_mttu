@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "cli/fmt_errors.rs", "cli/ops/errors.rs", "core/02_error.js", "core/bindings.rs", "core/error.rs", "core/ops_builtin.rs", "runtime/js/40_error_stack.js", "runtime/js/99_main.js"]

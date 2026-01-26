@@ -1,0 +1,1 @@
+["kernel/src/engine/mod.rs", "kernel/src/engine/parquet_row_group_skipping.rs", "kernel/src/predicates/mod.rs", "kernel/src/predicates/parquet_stats_skipping.rs", "kernel/src/predicates/parquet_stats_skipping/tests.rs", "kernel/src/scan/mod.rs"]

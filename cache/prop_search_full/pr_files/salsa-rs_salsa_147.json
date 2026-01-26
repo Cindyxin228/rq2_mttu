@@ -1,0 +1,1 @@
+["components/salsa-macros/src/query_group.rs", "src/derived.rs", "src/derived/slot.rs", "src/doctest.rs", "src/input.rs", "src/interned.rs", "src/lib.rs", "src/plumbing.rs", "src/runtime.rs", "src/runtime/local_state.rs", "tests/cycles.rs", "tests/parallel/cancellation.rs", "tests/parallel/independent.rs", "tests/requires.rs", "tests/transparent.rs"]

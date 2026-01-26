@@ -1,0 +1,1 @@
+["src/bin/common/command.rs", "src/bin/common/config.rs", "src/command.rs", "src/handlers/command_handler.rs", "src/utils/command_pipe.rs"]

@@ -1,0 +1,1 @@
+["src/lib.rs", "src/transport/smtp/async_transport.rs", "src/transport/smtp/mod.rs", "src/transport/smtp/transport.rs", "tests/transport_smtp_pool.rs"]

@@ -1,0 +1,1 @@
+["foundation/auth/Cargo.toml", "foundation/auth/src/credentials.rs", "spanner/Cargo.toml", "spanner/src/row.rs", "spanner/src/statement.rs", "storage/Cargo.toml", "storage/src/http/service_account_client.rs", "storage/src/sign.rs"]

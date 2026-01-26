@@ -1,0 +1,1 @@
+["bitcoin/src/blockdata/script.rs", "bitcoin/src/blockdata/witness.rs", "bitcoin/src/consensus/encode.rs", "bitcoin/src/crypto/ecdsa.rs", "bitcoin/src/lib.rs", "bitcoin/src/merkle_tree/block.rs", "bitcoin/src/psbt/raw.rs", "bitcoin/src/psbt/serialize.rs", "bitcoin/src/sighash.rs", "bitcoin/src/taproot.rs"]

@@ -1,0 +1,1 @@
+["crates/typst-render/src/text.rs", "tests/ref/issue-5262-text-negative-size.png", "tests/ref/issue-5940-text-negative-size-panic.png", "tests/suite/text/font.typ"]

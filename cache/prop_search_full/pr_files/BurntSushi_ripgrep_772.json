@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "build.rs", "complete/_rg", "doc/rg.1", "doc/rg.1.md", "globset/Cargo.toml", "grep/Cargo.toml", "ignore/Cargo.toml", "src/app.rs", "src/args.rs", "src/config.rs", "src/logger.rs", "src/main.rs", "tests/tests.rs", "tests/workdir.rs"]

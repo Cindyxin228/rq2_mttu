@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "benches/main.rs", "benches/python.rs", "benches/short_numbers.json", "src/lazy_index_map.rs", "src/lib.rs", "src/number_decoder.rs", "src/simd_aarch64.rs", "src/string_decoder.rs", "tests/main.rs", "tests/python.rs"]

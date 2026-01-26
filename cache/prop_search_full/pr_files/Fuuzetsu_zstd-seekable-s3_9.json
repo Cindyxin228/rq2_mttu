@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/roundtrip_file.rs", "examples/roundtrip_stream_s3.rs", "rust-toolchain"]

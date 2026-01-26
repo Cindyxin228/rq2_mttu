@@ -1,0 +1,1 @@
+["crates/proto-build/Cargo.toml", "crates/proto-build/pbjson-build/Cargo.toml", "crates/proto-build/src/main.rs", "crates/sui-rpc/Cargo.toml", "crates/sui-rpc/src/proto/generated/google.rpc.rs", "crates/sui-rpc/src/proto/generated/sui.rpc.v2.rs", "crates/sui-rpc/src/proto/generated/sui.rpc.v2beta2.rs"]

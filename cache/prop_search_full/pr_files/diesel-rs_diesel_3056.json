@@ -1,0 +1,1 @@
+["CHANGELOG.md", "diesel_cli/src/infer_schema_internals/data_structures.rs", "diesel_cli/tests/print_schema.rs", "diesel_cli/tests/print_schema/print_schema_array_type/diesel.toml", "diesel_cli/tests/print_schema/print_schema_array_type/postgres/expected.rs", "diesel_cli/tests/print_schema/print_schema_array_type/postgres/schema.sql"]

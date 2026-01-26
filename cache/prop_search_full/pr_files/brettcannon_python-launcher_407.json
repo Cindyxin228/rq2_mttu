@@ -1,0 +1,1 @@
+["docs/install.md", "justfile", "release/requirements.txt", "release/version.py"]

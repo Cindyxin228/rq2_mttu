@@ -1,0 +1,1 @@
+["src/backend/mysql/query.rs", "src/backend/query_builder.rs", "src/query/insert.rs", "tests/mysql/query.rs", "tests/postgres/query.rs", "tests/sqlite/query.rs"]

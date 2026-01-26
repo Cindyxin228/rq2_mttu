@@ -1,0 +1,1 @@
+["libsql-server/src/http/user/mod.rs", "libsql-server/src/http/user/trace.rs", "libsql-server/tests/common/net.rs", "libsql-server/tests/embedded_replica/mod.rs", "libsql-server/tests/standalone/mod.rs", "xtask/src/main.rs"]

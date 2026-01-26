@@ -1,0 +1,1 @@
+["cli/npm/resolution/specifier.rs", "cli/tests/testdata/npm/import_map/import_map.json", "cli/tests/testdata/npm/import_map/main.js", "cli/tests/testdata/npm/import_map/main.out", "cli/tsc/00_typescript.js"]

@@ -1,0 +1,1 @@
+["examples/debuginfo_debug/src/main.rs", "symbolic-debuginfo/src/function_builder.rs", "symbolic-debuginfo/tests/snapshots/test_objects__elf_functions.snap", "symbolic-debuginfo/tests/test_objects.rs", "symbolic-symcache/tests/test_writer.rs", "symbolic-testutils/fixtures/macos/crash.inlines.sym"]

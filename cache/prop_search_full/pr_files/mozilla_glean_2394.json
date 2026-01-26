@@ -1,0 +1,1 @@
+["taskcluster/ci/beetmover/kind.yml", "taskcluster/ci/signing/kind.yml", "taskcluster/glean_taskgraph/loader/build_config.py", "taskcluster/glean_taskgraph/loader/multi_dep.py"]

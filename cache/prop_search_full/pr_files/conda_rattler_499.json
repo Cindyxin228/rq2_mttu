@@ -1,0 +1,1 @@
+["crates/rattler-bin/src/commands/create.rs", "crates/rattler_solve/benches/bench.rs", "crates/rattler_solve/src/lib.rs", "crates/rattler_solve/src/libsolv_c/mod.rs", "crates/rattler_solve/src/resolvo/conda_util.rs", "crates/rattler_solve/src/resolvo/mod.rs", "crates/rattler_solve/tests/backends.rs", "py-rattler/rattler/solver/solver.py", "py-rattler/src/solver.rs"]

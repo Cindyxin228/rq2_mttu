@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "src/client.rs", "src/commands/mod.rs", "src/commands/sentinel.rs", "src/error.rs", "src/lib.rs", "src/modules/globals.rs", "src/modules/types.rs", "src/sentinel.rs", "tests/doc.sh", "tests/run_all.sh"]

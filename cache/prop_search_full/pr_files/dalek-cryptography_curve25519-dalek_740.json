@@ -1,0 +1,1 @@
+["curve25519-dalek/CHANGELOG.md", "curve25519-dalek/README.md", "curve25519-dalek/docs/ifma-notes.md", "curve25519-dalek/src/backend/serial/curve_models/mod.rs", "curve25519-dalek/src/backend/serial/scalar_mul/pippenger.rs", "curve25519-dalek/src/scalar.rs"]

@@ -1,0 +1,1 @@
+["datafusion/optimizer/src/decorrelate_where_in.rs", "datafusion/optimizer/src/lib.rs", "datafusion/optimizer/src/optimizer.rs", "datafusion/optimizer/src/subquery_filter_to_join.rs"]

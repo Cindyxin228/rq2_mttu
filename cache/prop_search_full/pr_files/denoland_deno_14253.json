@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/wpt_epoch.yml", "tools/deno.lock.json", "tools/release/01_bump_crate_versions.ts", "tools/release/02_create_pr.ts", "tools/release/03_publish_crates.ts", "tools/release/04_post_publish.ts", "tools/release/05_create_release_notes.ts"]

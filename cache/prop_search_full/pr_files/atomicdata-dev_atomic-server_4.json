@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "cli/Cargo.toml", "cli/src/main.rs", "lib/examples/basic.rs", "lib/src/atom.rs", "lib/src/lib.rs", "lib/src/serialize.rs", "lib/src/store.rs", "lib/tests/store.rs", "server/Cargo.toml", "server/src/appstate.rs", "server/src/handlers/resource.rs", "server/src/main.rs"]

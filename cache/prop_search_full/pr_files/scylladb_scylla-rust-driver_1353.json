@@ -1,0 +1,1 @@
+["scylla-proxy/src/actions.rs", "scylla/src/client/caching_session.rs", "scylla/tests/integration/statements/prepared.rs"]

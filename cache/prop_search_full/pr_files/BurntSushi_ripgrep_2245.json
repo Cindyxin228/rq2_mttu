@@ -1,0 +1,1 @@
+["crates/cli/src/decompress.rs", "crates/cli/src/lib.rs", "crates/cli/src/process.rs", "crates/core/args.rs", "crates/core/subject.rs", "crates/printer/src/json.rs", "crates/printer/src/standard.rs", "crates/printer/src/summary.rs"]

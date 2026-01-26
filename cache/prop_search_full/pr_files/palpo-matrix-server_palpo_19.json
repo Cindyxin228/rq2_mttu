@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/server/migrations/2024-02-15-063543_main/up.sql", "crates/server/src/bl/room/mod.rs", "crates/server/src/bl/room/thread.rs", "crates/server/src/routing/client/room/thread.rs", "crates/server/src/schema.rs", "tests/complement.sh"]

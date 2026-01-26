@@ -1,0 +1,1 @@
+["esp-hal-common/Cargo.toml", "esp-hal-common/src/interrupt/xtensa.rs", "esp-hal-common/src/peripherals/esp32s2.rs"]

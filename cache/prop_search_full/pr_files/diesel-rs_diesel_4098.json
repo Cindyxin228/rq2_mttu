@@ -1,0 +1,1 @@
+["diesel/src/query_dsl/load_dsl.rs", "diesel_compile_tests/tests/fail/broken_queryable_by_name.stderr", "diesel_compile_tests/tests/fail/derive/queryable_type_mismatch.stderr", "diesel_compile_tests/tests/fail/queryable_with_typemismatch.stderr", "diesel_compile_tests/tests/fail/selectable.stderr", "diesel_compile_tests/tests/fail/selectable_with_typemisamatch.stderr"]

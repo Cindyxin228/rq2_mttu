@@ -1,0 +1,1 @@
+["crates/tutti-cli/src/commands/run.rs", "crates/tutti-cli/src/logger.rs", "crates/tutti-transport/src/client/ipc_client.rs", "crates/tutti-transport/src/server/fanout.rs", "crates/tutti-types/src/lib.rs"]

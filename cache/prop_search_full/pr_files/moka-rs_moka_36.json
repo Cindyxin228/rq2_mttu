@@ -1,0 +1,1 @@
+["tests/ui/future/try_get_with_non_send_future.rs", "tests/ui/future/try_get_with_non_send_future.stderr", "tests/ui/future/try_get_with_non_static_future.rs", "tests/ui/future/try_get_with_non_static_future.stderr"]

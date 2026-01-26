@@ -1,0 +1,1 @@
+["Cargo.lock", "datafusion/context.py", "datafusion/input/__init__.py", "datafusion/input/base.py", "datafusion/input/location.py", "datafusion/tests/test_input.py", "src/common/data_type.rs", "src/expr/table_scan.rs"]

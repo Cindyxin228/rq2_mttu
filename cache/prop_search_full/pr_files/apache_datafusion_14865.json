@@ -1,0 +1,1 @@
+["datafusion/expr/src/lib.rs", "datafusion/functions/src/string/btrim.rs", "datafusion/functions/src/string/ltrim.rs", "datafusion/functions/src/string/rtrim.rs", "datafusion/sqllogictest/test_files/string/string_view.slt"]

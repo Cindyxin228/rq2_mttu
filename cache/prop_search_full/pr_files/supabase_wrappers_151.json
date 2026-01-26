@@ -1,0 +1,1 @@
+["wrappers/Cargo.lock", "wrappers/Cargo.toml", "wrappers/src/fdw/s3_fdw/mod.rs", "wrappers/src/fdw/s3_fdw/parquet.rs", "wrappers/src/fdw/s3_fdw/s3_fdw.rs"]

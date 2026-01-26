@@ -1,0 +1,1 @@
+["Cargo.lock", "deny.toml", "src/bans.rs", "src/bans/diags.rs", "tests/bans.rs", "tests/snapshots/bans__warns_on_unused_wrappers.snap"]

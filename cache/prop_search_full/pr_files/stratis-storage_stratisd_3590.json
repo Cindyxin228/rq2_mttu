@@ -1,0 +1,1 @@
+[".github/workflows/cargo.yml", ".github/workflows/fedora.yml", ".github/workflows/main.yml", ".github/workflows/ubuntu.yml", "CHANGES.txt", "Cargo.lock", "Cargo.toml", "_typos.toml", "src/engine/strat_engine/backstore/blockdevmgr.rs", "src/jsonrpc/client/pool.rs", "systemd/stratis-fstab-setup"]

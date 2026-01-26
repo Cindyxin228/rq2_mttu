@@ -1,0 +1,1 @@
+[".github/workflows/publish.yml", ".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "Cross.toml", "cli/Cargo.toml", "client/Cargo.toml", "server/Cargo.toml"]

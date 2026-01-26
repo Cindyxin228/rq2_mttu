@@ -1,0 +1,1 @@
+[".changelog/unreleased/bug-fixes/4287-consolidate-dust.md", ".changelog/unreleased/improvements/4288-reverse-conversion-at-source.md", ".changelog/unreleased/improvements/4290-remove-reverse-conversions.md", "crates/apps_lib/src/client/rpc.rs", "crates/core/src/masp.rs", "crates/shielded_token/src/masp.rs", "crates/shielded_token/src/masp/shielded_wallet.rs"]

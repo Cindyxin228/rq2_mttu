@@ -1,0 +1,1 @@
+["src/bindgen.rs", "src/build/wasm_target.rs", "src/command/build.rs", "src/emoji.rs", "src/install/mod.rs", "src/installer.rs", "src/manifest/mod.rs", "src/test/webdriver.rs"]

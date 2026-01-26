@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "build.rs", "contrib/completions/_zoxide", "contrib/completions/zoxide.bash", "contrib/completions/zoxide.elv", "contrib/completions/zoxide.fish", "shell.nix", "src/app/_app.rs", "src/main.rs", "xtask/Cargo.toml", "xtask/src/main.rs"]

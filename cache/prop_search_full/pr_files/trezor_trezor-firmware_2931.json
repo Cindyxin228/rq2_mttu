@@ -1,0 +1,1 @@
+["common/defs/fido/apple.json", "common/tools/coin_info.py", "common/tools/cointool.py", "core/.changelog.d/2784.fixed", "core/src/apps/webauthn/credential.py", "core/src/apps/webauthn/fido2.py", "core/src/apps/webauthn/knownapps.py", "core/src/apps/webauthn/knownapps.py.mako"]

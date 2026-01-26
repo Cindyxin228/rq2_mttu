@@ -1,0 +1,1 @@
+["rand_isaac/src/isaac.rs", "rand_isaac/src/isaac64.rs", "src/deprecated.rs", "src/distributions/mod.rs", "src/lib.rs", "src/prng/mod.rs", "src/seq/mod.rs"]

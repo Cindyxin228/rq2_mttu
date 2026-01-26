@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/src/command/completion.rs", "crates/omnix-cli/src/command/mod.rs", "nix/rust.nix"]

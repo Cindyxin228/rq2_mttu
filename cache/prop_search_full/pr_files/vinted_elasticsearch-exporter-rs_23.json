@@ -1,0 +1,1 @@
+[".github/workflows/docker-publish.yml", ".travis.yml", "Dockerfile", "README.md", "ci/before_deploy.ps1", "ci/before_deploy.sh", "ci/docker_push.sh", "ci/install.sh", "ci/script.sh"]

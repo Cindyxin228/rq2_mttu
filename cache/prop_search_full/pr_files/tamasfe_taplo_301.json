@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/lsp-async-stub/Cargo.toml", "crates/taplo-cli/Cargo.toml", "crates/taplo-cli/src/args.rs", "crates/taplo-cli/src/commands/format.rs", "crates/taplo-common/Cargo.toml", "crates/taplo-wasm/Cargo.toml", "taplo.toml"]

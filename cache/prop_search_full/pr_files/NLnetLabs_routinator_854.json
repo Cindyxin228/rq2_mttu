@@ -1,0 +1,1 @@
+["doc/manual/source/prometheus-metrics.rst", "src/engine.rs", "src/http/metrics.rs", "src/http/status.rs", "src/metrics.rs", "src/output.rs", "src/payload/info.rs", "src/payload/validation.rs"]

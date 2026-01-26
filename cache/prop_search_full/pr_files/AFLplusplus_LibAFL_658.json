@@ -1,0 +1,1 @@
+[".github/workflows/build_and_test.yml", "fuzzers/frida_libpng/Makefile.toml", "fuzzers/frida_libpng/harness_win.cpp"]

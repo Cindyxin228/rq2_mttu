@@ -1,0 +1,1 @@
+["fuzz/src/onion_hop_data.rs", "lightning/src/blinded_path/mod.rs", "lightning/src/ln/blinded_payment_tests.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/functional_test_utils.rs", "lightning/src/ln/msgs.rs", "lightning/src/ln/onion_payment.rs", "lightning/src/ln/onion_utils.rs", "pending_changelog/multihop-blinded-recv.txt"]

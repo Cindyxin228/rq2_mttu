@@ -1,0 +1,1 @@
+["integration/tests_ok/option_verbose.err.pattern", "integration/tests_ok/verbose.err.pattern", "integration/tests_ok/very_verbose.err.pattern", "packages/hurl/src/http/client.rs"]

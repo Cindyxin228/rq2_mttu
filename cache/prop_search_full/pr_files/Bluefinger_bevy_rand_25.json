@@ -1,0 +1,1 @@
+["bevy_prng/src/lib.rs", "src/component.rs", "src/prelude.rs", "src/resource.rs", "src/traits.rs", "tests/integration/reseeding.rs"]

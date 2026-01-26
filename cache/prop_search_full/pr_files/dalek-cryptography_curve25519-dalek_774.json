@@ -1,0 +1,1 @@
+["ed25519-dalek/Cargo.toml", "ed25519-dalek/src/batch.rs", "ed25519-dalek/src/batch/strobe.rs", "ed25519-dalek/src/batch/transcript.rs", "ed25519-dalek/src/lib.rs"]

@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion/core/Cargo.toml", "datafusion/expr/Cargo.toml", "datafusion/expr/src/built_in_function.rs", "datafusion/physical-expr/Cargo.toml", "datafusion/physical-expr/src/regex_expressions.rs", "datafusion/sqllogictest/Cargo.toml", "datafusion/sqllogictest/src/engines/datafusion_engine/normalize.rs"]

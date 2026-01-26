@@ -1,0 +1,1 @@
+["precord-core/Cargo.toml", "precord-core/src/lib.rs", "precord-core/src/platform/windows/battery.rs", "precord-core/src/platform/windows/mod.rs", "precord-core/src/platform/windows/utils.rs", "precord-core/src/system.rs"]

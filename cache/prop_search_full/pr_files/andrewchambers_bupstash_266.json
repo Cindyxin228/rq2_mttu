@@ -1,0 +1,1 @@
+["README.md", "cli-tests/cli-tests.bats", "doc/guides/Filesystem Backups.md", "doc/man/bupstash-put.1.md", "src/client.rs", "src/indexer.rs", "src/main.rs"]

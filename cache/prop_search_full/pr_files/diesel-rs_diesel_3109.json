@@ -1,0 +1,1 @@
+["diesel/src/sqlite/connection/row.rs", "diesel/src/sqlite/connection/sqlite_value.rs", "diesel/src/sqlite/connection/statement_iterator.rs", "diesel/src/sqlite/connection/stmt.rs"]

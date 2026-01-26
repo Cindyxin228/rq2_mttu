@@ -1,0 +1,1 @@
+[".github/workflows/demo-ci.yml", "ashpd-demo/Cargo.lock", "ashpd-demo/Cargo.toml", "ashpd-demo/build-aux/com.belmoussaoui.ashpd.demo.Devel.json", "ashpd-demo/data/resources/ui/location.ui", "ashpd-demo/data/resources/ui/window.ui", "ashpd-demo/src/portals/desktop/location.rs", "ashpd-demo/src/window.rs", "src/window_identifier/mod.rs"]

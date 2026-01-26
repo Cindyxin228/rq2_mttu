@@ -1,0 +1,1 @@
+["cot-macros/src/from_request.rs", "cot-macros/src/lib.rs", "cot-macros/tests/compile_tests.rs", "cot-macros/tests/ui/derive_from_request_parts.rs", "cot-macros/tests/ui/derive_from_request_parts_enum.rs", "cot-macros/tests/ui/derive_from_request_parts_enum.stderr", "cot/src/admin.rs", "cot/src/request/extractors.rs", "cot/tests/from_request.rs"]

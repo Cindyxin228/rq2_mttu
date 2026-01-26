@@ -1,0 +1,1 @@
+["crates/swc/tests/tsc-references/enumConstantMemberWithString.2.minified.js", "crates/swc/tests/tsc-references/enumConstantMemberWithTemplateLiterals.2.minified.js", "crates/swc_ecma_transforms_optimization/src/simplify/expr/mod.rs", "crates/swc_ecma_transforms_optimization/src/simplify/expr/tests.rs"]

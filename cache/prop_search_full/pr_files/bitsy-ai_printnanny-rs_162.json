@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "dash/Cargo.toml", "dash/src/auth.rs", "dash/templates/index.html.tera", "services/Cargo.toml", "services/src/config.rs", "services/src/printnanny_api.rs"]

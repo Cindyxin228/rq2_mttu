@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/lair_keystore/Cargo.toml", "crates/lair_keystore_api/Cargo.toml", "crates/lair_keystore_api/src/config.rs", "crates/lair_keystore_api/src/internal/ipc/win_ipc.rs", "crates/lair_keystore_client/Cargo.toml"]

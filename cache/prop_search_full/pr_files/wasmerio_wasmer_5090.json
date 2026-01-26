@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/wasix/src/syscalls/wasix/fd_pipe.rs", "tests/integration/cli/Cargo.toml", "tests/integration/cli/tests/run.rs"]

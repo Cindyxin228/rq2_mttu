@@ -1,0 +1,1 @@
+["src/config/errors.rs", "src/display.rs", "src/display/crossterm.rs", "src/git/commit_diff_loader.rs", "src/input/event.rs", "src/modules/list/tests/toggle_option.rs", "src/process/artifact.rs", "src/todo_file/history/tests.rs"]

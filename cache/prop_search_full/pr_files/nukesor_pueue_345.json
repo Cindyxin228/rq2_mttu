@@ -1,0 +1,1 @@
+["client/client.rs", "client/commands/local_follow.rs", "client/commands/mod.rs", "client/commands/restart.rs", "client/commands/wait.rs", "client/display/follow.rs", "client/display/group.rs", "client/display/helper.rs", "client/display/mod.rs", "client/display/state.rs", "client/main.rs"]

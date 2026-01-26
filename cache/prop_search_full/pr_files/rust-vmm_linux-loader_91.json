@@ -1,0 +1,1 @@
+["rust-vmm-ci", "src/cmdline/mod.rs", "src/configurator/mod.rs", "src/loader/mod.rs", "src/loader/x86_64/elf/mod.rs"]

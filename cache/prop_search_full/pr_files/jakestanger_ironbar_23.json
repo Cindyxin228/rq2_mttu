@@ -1,0 +1,1 @@
+["examples/config.corn", "examples/config.json", "src/bar.rs", "src/config.rs", "src/modules/clock.rs", "src/modules/focused.rs", "src/modules/launcher/item.rs", "src/modules/launcher/mod.rs", "src/modules/mod.rs", "src/modules/mpd/mod.rs", "src/modules/script.rs", "src/modules/sysinfo.rs", "src/modules/workspaces.rs", "src/popup.rs"]

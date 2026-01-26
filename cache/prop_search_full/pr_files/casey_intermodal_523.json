@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "CHANGELOG.md", "bin/gen/src/changelog.rs", "bin/gen/src/common.rs", "bin/gen/src/config.rs", "bin/gen/src/entry.rs", "bin/gen/src/kind.rs", "bin/gen/src/main.rs", "bin/gen/src/metadata.rs", "bin/gen/src/release.rs", "bin/gen/src/subcommand.rs", "bin/gen/src/summary.rs", "bin/gen/templates/SUMMARY.md"]

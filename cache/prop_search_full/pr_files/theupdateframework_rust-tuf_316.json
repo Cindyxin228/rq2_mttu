@@ -1,0 +1,1 @@
+["src/client.rs", "src/crypto.rs", "src/metadata.rs", "src/repo_builder.rs", "src/tuf.rs", "src/verify.rs", "tests/integration.rs", "tests/metadata/generate.rs", "tests/simple_example.rs"]

@@ -1,0 +1,1 @@
+["rustfmt.toml", "src/builder.rs", "src/dot_printer.rs", "src/error.rs", "src/main.rs", "src/manifest.rs", "src/ng/analysis.rs", "src/ng/graph.rs", "src/ng/graph_printer.rs", "src/ng/tree_printer.rs", "src/printer.rs"]

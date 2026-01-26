@@ -1,0 +1,1 @@
+["crankstart-sys/src/bindings_aarch64.rs", "crankstart-sys/src/bindings_playdate.rs", "crankstart-sys/src/bindings_x86.rs", "scripts/generate_bindings.sh"]

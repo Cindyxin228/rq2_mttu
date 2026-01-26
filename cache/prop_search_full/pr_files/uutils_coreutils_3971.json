@@ -1,0 +1,1 @@
+["src/uu/chmod/src/chmod.rs", "src/uu/cp/src/cp.rs", "src/uu/ln/src/ln.rs", "src/uu/rmdir/src/rmdir.rs", "src/uu/sort/src/chunks.rs", "src/uucore/src/lib/features/fs.rs", "src/uucore/src/lib/features/perms.rs", "tests/by-util/test_cp.rs", "tests/common/util.rs"]

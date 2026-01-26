@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "completions/menyoki.bash", "completions/menyoki.elvish", "completions/menyoki.fish", "completions/menyoki.powershell", "completions/menyoki.zsh", "config/menyoki.conf", "man/menyoki.1", "man/menyoki.conf.5", "src/app.rs", "src/args/mod.rs", "src/file/format.rs", "src/file/mod.rs", "src/image/settings.rs", "src/settings.rs"]

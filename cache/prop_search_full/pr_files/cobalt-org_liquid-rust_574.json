@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/core/Cargo.toml", "crates/core/src/model/scalar/ser.rs", "crates/lib/Cargo.toml", "crates/lib/src/jekyll/slugify.rs", "crates/lib/src/stdlib/filters/html.rs", "src/lib.rs"]

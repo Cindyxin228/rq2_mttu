@@ -1,0 +1,1 @@
+["src/chunks/io.rs", "src/chunks/vocab/mod.rs", "src/chunks/vocab/subword.rs", "src/chunks/vocab/wrappers.rs", "src/compat/floret/indexer.rs", "src/embeddings.rs", "src/error.rs"]

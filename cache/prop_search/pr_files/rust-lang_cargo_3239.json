@@ -1,0 +1,1 @@
+[".travis.yml", "Makefile.in", "appveyor.yml", "configure", "src/ci/docker/cross/Dockerfile", "src/ci/docker/dist/Dockerfile", "src/ci/docker/run.sh", "src/ci/docker/x86_64-musl/Dockerfile", "src/ci/run.sh", "src/etc/install-deps.py", "tests/init.rs", "tests/package.rs"]

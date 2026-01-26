@@ -1,0 +1,1 @@
+["crates/noirc_frontend/src/hir/def_collector/dc_crate.rs", "crates/noirc_frontend/src/hir/def_collector/dc_mod.rs", "crates/noirc_frontend/src/hir/def_map/item_scope.rs", "crates/noirc_frontend/src/hir/def_map/mod.rs", "crates/noirc_frontend/src/hir/def_map/module_data.rs", "crates/noirc_frontend/src/hir/resolution/import.rs", "crates/noirc_frontend/src/main.rs"]

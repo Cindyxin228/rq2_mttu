@@ -1,0 +1,1 @@
+["age-core/CHANGELOG.md", "age-core/src/plugin.rs", "age-plugin/examples/age-plugin-unencrypted.rs", "age-plugin/src/identity.rs", "age-plugin/src/lib.rs", "age-plugin/src/recipient.rs", "age/CHANGELOG.md", "age/src/cli_common.rs", "age/src/lib.rs", "age/src/plugin.rs", "age/src/protocol/decryptor.rs", "age/src/ssh/identity.rs", "rage/src/bin/rage/main.rs"]

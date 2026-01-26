@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/crd_api.rs", "kube-derive/Cargo.toml", "kube-derive/src/lib.rs", "kube/Cargo.toml", "kube/src/lib.rs"]

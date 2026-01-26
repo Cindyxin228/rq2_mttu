@@ -1,0 +1,1 @@
+["Cargo.lock", "addons/svm/Cargo.toml", "addons/svm/src/codec/anchor.rs", "addons/svm/src/codec/mod.rs", "addons/svm/src/codec/native.rs", "addons/svm/src/codec/subgraph.rs", "addons/svm/src/commands/deploy_program.rs", "addons/svm/src/commands/deploy_subraph.rs", "addons/svm/src/templates/mod.rs", "crates/txtx-core/src/templates/mod.rs"]

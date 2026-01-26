@@ -1,0 +1,1 @@
+[".github/workflows/bin_tests.yml", ".github/workflows/ops.test.yml", "Cargo.lock", "README.md", "crates/lair_keystore/Cargo.toml", "crates/lair_keystore_api/Cargo.toml", "crates/lair_keystore_api/src/config.rs", "crates/lair_keystore_api/src/internal/ipc/win_ipc.rs", "crates/lair_keystore_client/Cargo.toml"]

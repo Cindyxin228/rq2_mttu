@@ -1,0 +1,1 @@
+["README.md", "examples/custom_client.rs", "examples/from_stream.rs", "examples/infinite_stream.rs", "src/http/mod.rs", "src/http/reqwest_client.rs", "src/lib.rs"]

@@ -1,0 +1,1 @@
+["java/spark/src/main/java/com/lancedb/lance/spark/SparkOptions.java", "java/spark/src/main/java/com/lancedb/lance/spark/write/LanceArrowWriter.java", "java/spark/src/main/java/com/lancedb/lance/spark/write/LanceDataWriter.java", "java/spark/src/test/java/com/lancedb/lance/spark/read/SparkConnectorReadTest.java"]

@@ -1,0 +1,1 @@
+["core/tauri-codegen/src/context.rs", "core/tauri-utils/src/config.rs", "core/tauri/scripts/bundle.js", "core/tauri/src/endpoints/shell.rs", "core/tauri/src/scope/shell.rs", "tooling/api/src/shell.ts"]

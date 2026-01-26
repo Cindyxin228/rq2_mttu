@@ -1,0 +1,1 @@
+[".github/workflows/miri.sh", "arrow/src/array/array_union.rs", "arrow/src/compute/kernels/filter.rs", "arrow/src/util/bit_chunk_iterator.rs"]

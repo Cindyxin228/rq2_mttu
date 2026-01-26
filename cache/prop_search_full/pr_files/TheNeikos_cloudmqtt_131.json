@@ -1,0 +1,1 @@
+["flake.nix", "mqtt-format/clippy.toml", "mqtt-format/src/lib.rs", "mqtt-format/src/v3/subscription_request.rs", "mqtt-format/src/v3/unsubscription_request.rs"]

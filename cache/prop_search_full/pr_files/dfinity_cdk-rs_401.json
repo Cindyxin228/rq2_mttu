@@ -1,0 +1,1 @@
+["e2e-tests/Cargo.toml", "e2e-tests/canisters/canister_info.rs", "e2e-tests/tests/e2e.rs", "scripts/download_state_machine_binary.sh", "src/ic-cdk/CHANGELOG.md", "src/ic-cdk/src/api/management_canister/main/mod.rs", "src/ic-cdk/src/api/management_canister/main/types.rs"]

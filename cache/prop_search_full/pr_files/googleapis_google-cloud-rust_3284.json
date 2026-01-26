@@ -1,0 +1,1 @@
+["src/gax-internal/src/options.rs", "src/gax-internal/tests/http_metadata.rs", "src/gax-internal/tests/http_retry_loop.rs", "src/gax-internal/tests/http_timeout.rs", "src/gax/src/client_builder.rs", "src/integration-tests/tests/bindings.rs"]

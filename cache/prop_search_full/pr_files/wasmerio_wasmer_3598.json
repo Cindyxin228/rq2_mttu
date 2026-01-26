@@ -1,0 +1,1 @@
+["lib/wasi/Cargo.toml", "lib/wasi/src/os/task/process.rs", "lib/wasi/src/os/task/thread.rs", "lib/wasi/src/syscalls/wasix/futex_wait.rs", "lib/wasi/src/syscalls/wasix/thread_spawn.rs"]

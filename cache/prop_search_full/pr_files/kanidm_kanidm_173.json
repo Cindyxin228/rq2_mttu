@@ -1,0 +1,1 @@
+["kanidmd/Cargo.toml", "kanidmd/benches/kanidm_benchmark.rs", "kanidmd/src/lib/access.rs", "kanidmd/src/lib/core.rs", "kanidmd/src/lib/idm/server.rs", "kanidmd/src/lib/plugins/mod.rs", "kanidmd/src/lib/schema.rs", "kanidmd/src/lib/server.rs"]

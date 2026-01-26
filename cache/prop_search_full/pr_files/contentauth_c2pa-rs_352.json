@@ -1,0 +1,1 @@
+["deny.toml", "sdk/src/asset_handlers/bmff_io.rs", "sdk/src/asset_handlers/jpeg_io.rs", "sdk/src/asset_handlers/mp3_io.rs", "sdk/src/asset_handlers/png_io.rs", "sdk/src/asset_handlers/riff_io.rs", "sdk/src/asset_handlers/svg_io.rs", "sdk/src/asset_handlers/tiff_io.rs", "sdk/src/asset_io.rs"]

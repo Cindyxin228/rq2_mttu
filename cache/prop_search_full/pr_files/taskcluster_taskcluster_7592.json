@@ -1,0 +1,1 @@
+["changelog/bihkSU9hSAe8aBJ7aJMLLg.md", "tools/d2g/d2g.go", "tools/d2g/d2gtest/d2g_test.go", "tools/d2g/d2gtest/testdata/testcases/devices_tests.yml", "tools/d2g/d2gtest/testdata/testcases/fuzzing_tests.yml", "workers/generic-worker/d2g_test.go", "workers/generic-worker/loopback_audio_linux.go", "workers/generic-worker/loopback_video_linux.go"]

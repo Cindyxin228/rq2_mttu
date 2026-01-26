@@ -1,0 +1,1 @@
+["Cargo.lock", "codegen/Cargo.toml", "service/tests/resources/not-shuttle/Cargo.lock", "service/tests/resources/sleep-async/Cargo.lock", "service/tests/resources/sqlx-pool/Cargo.lock"]

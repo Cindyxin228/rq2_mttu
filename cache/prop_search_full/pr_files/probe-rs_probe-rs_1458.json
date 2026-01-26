@@ -1,0 +1,1 @@
+["cargo-embed/CHANGELOG.md", "cargo-embed/src/main.rs", "cargo-embed/src/rttui/app.rs", "cargo-embed/src/rttui/channel.rs", "cli/CHANGELOG.md", "cli/src/main.rs", "cli/src/run.rs", "debugger/src/debugger/core_data.rs", "debugger/src/debugger/debug_entry.rs", "debugger/src/debugger/session_data.rs", "debugger/src/main.rs", "probe-rs-cli-util/src/rtt.rs"]

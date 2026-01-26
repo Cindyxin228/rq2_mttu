@@ -1,0 +1,1 @@
+["crates/mun_abi/src/autogen_impl.rs", "crates/mun_runtime/src/assembly.rs", "crates/mun_runtime/tests/marshalling.rs", "crates/mun_runtime_capi/ffi", "crates/mun_runtime_capi/src/lib.rs", "crates/mun_runtime_capi/src/tests.rs"]

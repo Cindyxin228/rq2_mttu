@@ -1,0 +1,1 @@
+[".changelog/unreleased/bug-fixes/1343-fix-header-decoding-error.md", "modules/src/ics02_client/events.rs", "relayer/src/chain/cosmos.rs", "relayer/src/foreign_client.rs"]

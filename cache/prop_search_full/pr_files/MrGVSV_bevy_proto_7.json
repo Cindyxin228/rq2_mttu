@@ -1,0 +1,1 @@
+[".gitignore", ".idea/.gitignore", ".idea/bevy_proto.iml", ".idea/modules.xml", ".idea/vcs.xml", "Cargo.toml", "README.md", "bevy_proto_derive/Cargo.toml", "examples/basic.rs", "examples/bench.rs", "examples/bundles.rs", "examples/templates.rs", "src/components.rs", "src/data.rs", "src/plugin.rs", "src/prototype.rs"]

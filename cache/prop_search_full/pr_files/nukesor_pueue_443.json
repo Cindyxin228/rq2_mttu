@@ -1,0 +1,1 @@
+["CHANGELOG.md", "pueue/src/client/commands/mod.rs", "pueue/src/client/display/follow.rs", "pueue/src/daemon/network/follow_log.rs", "pueue/tests/client/_snapshots/follow__fail_on_disappearing", "pueue/tests/client/_snapshots/follow__fail_on_non_existing", "pueue/tests/client/integration/follow.rs"]

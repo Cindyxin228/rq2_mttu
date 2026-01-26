@@ -1,0 +1,1 @@
+["crates/cdk/src/wallet/balance.rs", "crates/cdk/src/wallet/keysets.rs", "crates/cdk/src/wallet/melt.rs", "crates/cdk/src/wallet/mint.rs", "crates/cdk/src/wallet/mod.rs", "crates/cdk/src/wallet/proofs.rs", "crates/cdk/src/wallet/receive.rs", "crates/cdk/src/wallet/send.rs", "crates/cdk/src/wallet/swap.rs"]

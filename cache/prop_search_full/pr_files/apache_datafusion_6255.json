@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/mod.rs", "datafusion/core/tests/sql/set_variable.rs", "datafusion/core/tests/sqllogictests/test_files/set_variable.slt"]

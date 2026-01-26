@@ -1,0 +1,1 @@
+["examples/rusqlite/src/main.rs", "src/driver/rusqlite.rs", "src/driver/sqlx_sqlite.rs", "src/value.rs"]

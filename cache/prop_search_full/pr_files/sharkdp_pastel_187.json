@@ -1,0 +1,1 @@
+["src/cli/cli.rs", "src/cli/colorspace.rs", "src/cli/commands/color_commands.rs", "src/cli/commands/format.rs", "src/lib.rs", "src/parser.rs"]

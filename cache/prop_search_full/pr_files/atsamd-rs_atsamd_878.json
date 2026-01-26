@@ -1,0 +1,1 @@
+["boards/arduino_mkr1000/Cargo.toml", "boards/arduino_mkr1000/examples/blinky_basic.rs", "boards/arduino_mkr1000/examples/blinky_rtic.rs", "boards/arduino_mkr1000/examples/pwm.rs", "boards/arduino_mkr1000/examples/usb_logging.rs", "boards/arduino_mkr1000/src/lib.rs", "boards/arduino_mkr1000/src/pins.rs", "boards/arduino_mkr1000/src/sercom.rs", "boards/arduino_mkr1000/src/usb.rs"]

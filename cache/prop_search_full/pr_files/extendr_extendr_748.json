@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "extendr-api/src/deserializer.rs", "extendr-api/src/ownership.rs", "extendr-api/src/robj/into_robj.rs", "extendr-api/src/wrapper/dataframe.rs", "extendr-api/src/wrapper/externalptr.rs", "extendr-macros/src/lib.rs"]

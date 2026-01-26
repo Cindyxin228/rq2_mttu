@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bench_util/src/profiling.rs", "cli/lsp/mod.rs", "cli/tools/installer.rs", "core/async_cancel.rs", "core/modules.rs", "core/runtime.rs", "ext/net/ops_tls.rs", "runtime/ops/permissions.rs", "serde_v8/examples/basic.rs", "serde_v8/src/de.rs"]

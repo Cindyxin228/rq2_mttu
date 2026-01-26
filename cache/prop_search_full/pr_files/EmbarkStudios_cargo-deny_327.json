@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "examples/06_advisories/Cargo.lock", "examples/06_advisories/Cargo.toml", "scripts/check_external.rs", "src/diag/obj_grapher.rs", "src/index/mod.rs", "tests/advisories.rs", "tests/test_data/advisories/06_Cargo.lock", "tests/test_data/advisories/06_advisories.json"]

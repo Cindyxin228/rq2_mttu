@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Justfile", "chain/chain/Cargo.toml", "chain/chain/src/tests/mod.rs", "integration-tests/Cargo.toml", "integration-tests/src/tests/client/features/limit_contract_functions_number.rs", "nearcore/Cargo.toml", "neard/Cargo.toml"]

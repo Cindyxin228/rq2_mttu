@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "src/filetransfer/ftp_transfer.rs", "src/filetransfer/mod.rs", "src/filetransfer/scp_transfer.rs", "src/filetransfer/sftp_transfer.rs", "src/lib.rs", "src/ui/activities/filetransfer/session.rs", "src/ui/components/logbox.rs", "src/utils/parser.rs"]

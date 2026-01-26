@@ -1,0 +1,1 @@
+["examples/image.rs", "examples/trace.rs", "src/errors.rs", "src/lib.rs", "src/reference.rs", "src/render.rs", "src/v2/auth.rs", "src/v2/catalog.rs", "src/v2/manifest/manifest_schema1.rs", "src/v2/manifest/manifest_schema2.rs", "src/v2/manifest/mod.rs", "src/v2/mod.rs", "src/v2/tags.rs", "tests/reference.rs"]

@@ -1,0 +1,1 @@
+["bigquery/Cargo.toml", "bigquery/src/client.rs", "bigquery/src/http/bigquery_client.rs", "bigquery/src/http/job/list.rs", "bigquery/src/http/job/mod.rs", "bigquery/src/http/mod.rs", "bigquery/src/http/query.rs", "bigquery/src/lib.rs", "bigquery/src/query.rs", "bigquery/src/storage.rs"]

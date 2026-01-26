@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/clippy-fmt.yml", "actix-router/CHANGES.md", "actix-router/examples/flamegraph.rs", "actix-router/src/lib.rs", "actix-router/src/path.rs", "actix-router/src/resource.rs", "actix-router/src/router.rs", "actix-router/src/url.rs"]

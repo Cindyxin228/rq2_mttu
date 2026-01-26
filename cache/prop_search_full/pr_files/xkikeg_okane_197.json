@@ -1,0 +1,1 @@
+["cli/src/import/config.rs", "cli/src/import/iso_camt053.rs", "cli/src/import/iso_camt053/xmlnode.rs", "cli/tests/test_import_iso_camt.rs", "cli/tests/testdata/iso_camt_wise.xml", "cli/tests/testdata/test_config.yml", "cli/tests/testing/mod.rs", "doc/import.ja.md"]

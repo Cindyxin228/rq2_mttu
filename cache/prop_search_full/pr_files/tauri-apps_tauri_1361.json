@@ -1,0 +1,1 @@
+["tauri/Cargo.toml", "tauri/src/app.rs", "tauri/src/app/webview.rs", "tauri/src/app/webview/wry.rs", "tauri/src/app/webview_manager.rs"]

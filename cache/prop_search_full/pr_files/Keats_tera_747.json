@@ -1,0 +1,1 @@
+[".github/workflows/cargo-deny-cron.yml", ".github/workflows/cargo-deny-pr.yml", "CHANGELOG.md", "Cargo.toml", "deny.toml", "docs/content/docs/_index.md", "src/builtins/filters/common.rs"]

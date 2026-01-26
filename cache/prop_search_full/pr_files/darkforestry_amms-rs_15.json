@@ -1,0 +1,1 @@
+[".gitmodules", "contracts/erc_4626/GetERC4626VaultDataBatchRequest.sol", "src/amm/erc_4626/batch_request/GetERC4626VaultDataBatchRequestABI.json", "src/amm/erc_4626/batch_request/mod.rs", "src/amm/erc_4626/mod.rs", "src/amm/mod.rs", "src/errors.rs", "src/sync/checkpoint.rs", "src/sync/mod.rs"]

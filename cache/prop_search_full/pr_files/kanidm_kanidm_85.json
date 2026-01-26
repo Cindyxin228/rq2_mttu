@@ -1,0 +1,1 @@
+["README.md", "insecure_generate_tls.sh", "rsidm_client/src/lib.rs", "rsidm_client/tests/proto_v1_test.rs", "rsidm_tools/src/main.rs", "rsidmd/Cargo.toml", "rsidmd/src/lib/be/mod.rs", "rsidmd/src/lib/config.rs", "rsidmd/src/lib/core.rs", "rsidmd/src/lib/crypto.rs", "rsidmd/src/lib/lib.rs", "rsidmd/src/server/main.rs"]

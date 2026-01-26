@@ -1,0 +1,1 @@
+["wgpu/src/quad.rs", "wgpu/src/quad/gradient.rs", "wgpu/src/quad/solid.rs", "wgpu/src/shader/color.wgsl", "wgpu/src/shader/quad/gradient.wgsl", "wgpu/src/shader/quad/solid.wgsl", "wgpu/src/shader/triangle/gradient.wgsl", "wgpu/src/shader/triangle/solid.wgsl", "wgpu/src/triangle.rs"]

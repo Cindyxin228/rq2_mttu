@@ -1,0 +1,1 @@
+["crates/proto-build/src/codegen/accessors.rs", "crates/proto-build/src/message_graph.rs", "crates/sui-rpc/src/proto/generated/google.rpc.accessors.rs", "crates/sui-rpc/src/proto/generated/sui.rpc.v2beta2.accessors.rs", "crates/sui-rpc/src/proto/sui/rpc/v2beta2/transaction_execution_service.rs"]

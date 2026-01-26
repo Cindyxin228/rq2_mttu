@@ -1,0 +1,1 @@
+["crux_core/src/testing.rs", "crux_http/tests/with_tester.rs", "crux_macros/src/effect.rs", "docs/src/SUMMARY.md", "docs/src/guide/hello_world.md", "docs/src/guide/testing.md", "examples/cat_facts/shared/src/app.rs", "examples/counter/shared/src/app.rs", "examples/notes/shared/src/app.rs", "examples/notes/shared/src/capabilities/timer.rs"]

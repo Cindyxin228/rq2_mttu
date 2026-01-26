@@ -1,0 +1,1 @@
+["docs/rfcs/0203-remove-credential.md", "examples/s3.rs", "opendal_test/src/services/azblob.rs", "opendal_test/src/services/s3.rs", "src/credential.rs", "src/lib.rs", "src/services/azblob/backend.rs", "src/services/s3/backend.rs", "src/services/s3/mod.rs"]

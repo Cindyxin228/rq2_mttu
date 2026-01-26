@@ -1,0 +1,1 @@
+["Cargo.toml", "opentelemetry-jaeger/src/lib.rs", "opentelemetry-zipkin/src/lib.rs", "src/api/core.rs", "src/exporter/trace/mod.rs", "src/lib.rs", "src/sdk/mod.rs", "src/sdk/resource.rs", "src/sdk/trace/config.rs", "src/sdk/trace/tracer.rs"]

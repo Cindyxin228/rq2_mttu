@@ -1,0 +1,1 @@
+["config/src/credentials.rs", "config/src/lib.rs", "controller-client/src/lib.rs", "python_binding/src/stream_manager.rs", "shared/Cargo.toml", "shared/src/lib.rs", "wire_protocol/src/connection_factory.rs"]

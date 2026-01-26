@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/sccache-dist/main.rs", "src/bin/sccache-dist/token_check.rs", "src/config.rs", "src/dist/client_auth.rs", "src/util.rs", "tests/oauth.rs"]

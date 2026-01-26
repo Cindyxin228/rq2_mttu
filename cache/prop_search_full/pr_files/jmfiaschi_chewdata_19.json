@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/lint.yml", ".github/workflows/release.yml", ".releaserc.json", "CHANGELOG.md", "Cargo.toml", "README.md", "src/step/eraser.rs", "src/step/reader.rs", "src/updater/tera.rs", "src/updater/tera_helpers/function.rs"]

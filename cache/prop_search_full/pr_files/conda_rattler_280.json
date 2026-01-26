@@ -1,0 +1,1 @@
+["crates/rattler-bin/src/commands/create.rs", "crates/rattler/Cargo.toml", "crates/rattler/src/package_cache.rs", "crates/rattler_networking/Cargo.toml", "crates/rattler_networking/src/lib.rs", "crates/rattler_networking/src/retry_policies.rs"]

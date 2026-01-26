@@ -1,0 +1,1 @@
+["crates/ruma-common/CHANGELOG.md", "crates/ruma-common/src/events/unsigned.rs", "crates/ruma-common/tests/events/redacted.rs", "crates/ruma-macros/src/events/event.rs"]

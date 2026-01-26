@@ -1,0 +1,1 @@
+["src/librustc/traits/error_reporting.rs", "src/librustc/traits/mod.rs", "src/librustc/traits/structural_impls.rs", "src/librustc/ty/wf.rs", "src/test/ui/associated-types/point-at-type-on-obligation-failure-2.rs", "src/test/ui/associated-types/point-at-type-on-obligation-failure-2.stderr"]

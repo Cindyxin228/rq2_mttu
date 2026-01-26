@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "registry.json", "src/config/git.rs", "src/config/storage.rs", "src/git/model.rs", "src/git/service.rs", "src/main.rs", "src/mirror.rs", "src/storage.rs", "src/storage/filesystem.rs", "src/storage/s3.rs", "src/tools.rs", "src/web/download.rs", "src/web/publish.rs", "src/web/service.rs", "src/web/yank.rs"]

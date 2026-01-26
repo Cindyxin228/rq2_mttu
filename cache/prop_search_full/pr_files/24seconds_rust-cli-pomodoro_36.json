@@ -1,0 +1,1 @@
+[".cargo/config.toml", "Cargo.lock", "Cargo.toml", "README.md", "resources/test/mock_credential.json", "src/argument.rs", "src/configuration.rs", "src/database.rs", "src/input_handler.rs", "src/logging.rs", "src/main.rs", "src/notification.rs"]

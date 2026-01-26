@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/closure.rs", "examples/drupal_memcache.rs", "examples/session.rs", "examples/simple.rs", "src/logger.rs", "src/metrics.rs"]

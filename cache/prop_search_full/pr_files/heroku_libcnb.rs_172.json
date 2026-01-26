@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "libcnb-data/Cargo.toml", "libcnb-data/src/buildpack.rs", "libcnb-data/src/internals.rs", "libcnb-data/src/launch.rs", "libcnb-data/src/lib.rs", "libcnb-data/src/newtypes.rs", "libcnb-proc-macros/Cargo.toml", "libcnb-proc-macros/src/lib.rs", "libcnb/examples/example-02-ruby-sample/src/main.rs", "libcnb/src/build.rs"]

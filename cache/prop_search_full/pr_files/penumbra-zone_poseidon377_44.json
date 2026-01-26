@@ -1,0 +1,1 @@
+["poseidon-parameters/Cargo.toml", "poseidon-paramgen/Cargo.toml", "poseidon-paramgen/src/alpha.rs", "poseidon-paramgen/src/appendix_g.rs", "poseidon-paramgen/src/mds.rs", "poseidon-paramgen/src/transcript.rs", "poseidon-paramgen/src/utils.rs"]

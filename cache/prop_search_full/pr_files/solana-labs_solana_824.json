@@ -1,0 +1,1 @@
+["ci/metrics_write_datapoint.sh", "ci/testnet-deploy.sh", "src/bin/fullnode.rs"]

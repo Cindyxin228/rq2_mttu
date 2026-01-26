@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/delete-test-env.yml", ".github/workflows/deploy-test-env.yml", "deployment/scripts/fuel-core-deploy.sh"]

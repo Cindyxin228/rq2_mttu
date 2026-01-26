@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Makefile", "glean-core/Cargo.toml", "glean-core/build/Cargo.toml", "glean-core/build/src/lib.rs", "glean-core/ios/sdk_generator.sh", "glean-core/python/glean/__init__.py", "glean-core/python/setup.py", "gradle-plugin/src/main/groovy/mozilla/telemetry/glean-gradle-plugin/GleanGradlePlugin.groovy"]

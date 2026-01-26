@@ -1,0 +1,1 @@
+["src/codegen/expression.rs", "src/lib.rs", "src/sema/builtin.rs", "src/sema/diagnostics.rs", "src/sema/expression.rs", "src/sema/namespace.rs", "src/sema/types.rs", "tests/contract_testcases/substrate/arrays/fixed_bytes_subscript_not_assign.dot", "tests/contract_testcases/substrate/arrays/fixed_bytes_subscript_not_assign.sol", "tests/substrate_tests/arrays.rs"]

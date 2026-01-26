@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/app.rs", "src/cargo.rs", "src/changelog.rs", "src/csproj.rs", "src/github.rs", "src/graph.rs", "src/npm.rs", "src/pypa.rs", "src/zenodo.rs"]

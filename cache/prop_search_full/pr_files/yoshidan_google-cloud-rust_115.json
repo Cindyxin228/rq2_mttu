@@ -1,0 +1,1 @@
+["foundation/auth/Cargo.toml", "foundation/auth/src/credentials.rs", "foundation/auth/src/error.rs", "foundation/auth/src/token_source/service_account_token_source.rs"]

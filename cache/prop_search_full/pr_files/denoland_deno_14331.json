@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "core/examples/http_bench_json_ops.rs", "core/resources.rs", "ext/fetch/lib.rs", "ext/http/lib.rs", "ext/net/io.rs", "ext/net/ops_tls.rs", "runtime/ops/io.rs", "serde_v8/magic/buffer.rs"]

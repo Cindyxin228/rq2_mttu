@@ -1,0 +1,1 @@
+["changelog/issue-5287.md", "package.json", "services/queue/test/helper.js", "workers/docker-worker/package.json", "workers/docker-worker/src/features/bulk_log.js", "workers/docker-worker/src/features/chain_of_trust.js", "workers/docker-worker/src/upload_to_s3.js", "workers/docker-worker/test/upload_to_s3_test.js", "workers/docker-worker/yarn.lock", "yarn.lock"]

@@ -1,0 +1,1 @@
+["cli/bench/console.js", "cli/standalone.rs", "cli/tests/testdata/event_listener_error_immediate_exit.ts.out", "cli/worker.rs", "runtime/examples/hello_runtime.rs", "runtime/js/99_main.js", "runtime/worker.rs", "runtime/worker_bootstrap.rs"]

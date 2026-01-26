@@ -1,0 +1,1 @@
+["Cargo.toml", "ffi/src/common.rs", "ffi/src/sec_handle.rs", "rust-toolchain.toml", "src/credssp/mod.rs", "src/credssp/sspi_cred_ssp/mod.rs", "src/kerberos/client/generators.rs", "src/kerberos/mod.rs", "src/network_client.rs", "src/ntlm/messages/client/authenticate.rs", "src/ntlm/messages/computations.rs", "src/pku2u/mod.rs", "tools/wasm-testcompile/src/lib.rs"]

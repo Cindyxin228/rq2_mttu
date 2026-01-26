@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".github/workflows/dependencies.yml", ".github/workflows/main.yml", "README.md", "deny.toml", "examples/find_executables.rs", "examples/folderid_generator.rs", "examples/list_paths.rs", "examples/locate.rs", "src/lib.rs", "src/linux.rs", "src/windows.rs"]

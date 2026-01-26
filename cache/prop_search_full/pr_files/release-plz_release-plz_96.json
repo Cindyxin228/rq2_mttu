@@ -1,0 +1,1 @@
+[".github/workflows/docker.yml", "Cargo.lock", "crates/release_plz_core/CHANGELOG.md", "crates/release_plz_core/Cargo.toml", "crates/release_plz_core/src/lib.rs", "crates/release_plz_core/src/next_ver.rs", "crates/release_plz_core/src/package_compare.rs", "crates/release_plz_core/tests/all/helpers/comparison_test.rs"]

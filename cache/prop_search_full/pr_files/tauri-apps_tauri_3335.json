@@ -1,0 +1,1 @@
+[".github/workflows/covector-version-or-publish.yml", ".github/workflows/update-docs.yml", ".scripts/covector/generate-cli-doc.js", ".scripts/covector/generate-config-doc.js", ".scripts/covector/templates/cli.md", ".scripts/covector/templates/config.md", "tooling/api/package.json"]

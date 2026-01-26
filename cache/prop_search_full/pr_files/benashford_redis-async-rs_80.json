@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/monitor.rs", "examples/psubscribe.rs", "examples/realistic.rs", "examples/subscribe.rs", "src/client/builder.rs", "src/client/connect.rs", "src/client/mod.rs", "src/client/paired.rs", "src/client/pubsub.rs", "src/error.rs"]

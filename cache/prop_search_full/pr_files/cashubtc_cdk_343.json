@@ -1,0 +1,1 @@
+["crates/cdk-axum/src/router_handlers.rs", "crates/cdk-cln/src/lib.rs", "crates/cdk-fake-wallet/src/lib.rs", "crates/cdk-lnbits/src/lib.rs", "crates/cdk-lnd/src/lib.rs", "crates/cdk-phoenixd/src/lib.rs", "crates/cdk-strike/src/lib.rs", "crates/cdk/src/cdk_lightning/mod.rs", "crates/cdk/src/fees.rs", "crates/cdk/src/nuts/nut04.rs"]

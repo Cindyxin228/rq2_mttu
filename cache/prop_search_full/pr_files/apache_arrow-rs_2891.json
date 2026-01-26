@@ -1,0 +1,1 @@
+[".github/workflows/object_store.yml", "object_store/Cargo.toml", "object_store/src/aws/client.rs", "object_store/src/aws/credential.rs", "object_store/src/aws/mod.rs"]

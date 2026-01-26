@@ -1,0 +1,1 @@
+["diesel_cli/src/print_schema.rs", "diesel_cli/tests/print_schema.rs", "diesel_cli/tests/print_schema/print_schema_datetime_for_mysql/diesel.toml", "diesel_cli/tests/print_schema/print_schema_datetime_for_mysql/mysql/expected.rs", "diesel_cli/tests/print_schema/print_schema_datetime_for_mysql/mysql/schema.sql"]

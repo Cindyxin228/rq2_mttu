@@ -1,0 +1,1 @@
+[".github/workflows/pages.yml", "Cargo.lock", "Makefile", "design/concept_map.opml", "mdbook_rash/Cargo.toml", "rash_book/src/tasks.md", "rash_core/Cargo.toml", "rash_core/src/bin/rash.rs", "rash_core/src/error.rs", "rash_core/src/lib.rs", "rash_core/src/task/mod.rs", "rash_core/src/task/valid.rs", "rash_core/src/vars/builtin.rs"]

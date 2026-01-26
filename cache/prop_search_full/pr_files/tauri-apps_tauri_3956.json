@@ -1,0 +1,1 @@
+[".changes/global-shortcut-feature.md", "core/tauri-codegen/src/context.rs", "core/tauri-runtime-wry/Cargo.toml", "core/tauri-runtime-wry/src/global_shortcut.rs", "core/tauri-runtime-wry/src/lib.rs", "core/tauri-runtime/Cargo.toml", "core/tauri-runtime/src/lib.rs", "core/tauri/Cargo.toml", "core/tauri/src/app.rs", "core/tauri/src/lib.rs", "core/tauri/src/test/mock_runtime.rs"]

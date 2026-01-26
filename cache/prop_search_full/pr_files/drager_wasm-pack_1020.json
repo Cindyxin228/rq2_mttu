@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "docs/index.html", "npm/README.md", "npm/package-lock.json", "npm/package.json", "src/test/webdriver/chromedriver.rs", "src/test/webdriver/geckodriver.rs"]

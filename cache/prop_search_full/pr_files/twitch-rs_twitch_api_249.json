@@ -1,0 +1,1 @@
+["examples/get_moderation.rs", "src/helix/client/client_ext.rs", "src/helix/endpoints/hypetrain/get_hypetrain_events.rs", "src/helix/endpoints/moderation/get_banned_events.rs", "src/helix/endpoints/moderation/get_moderator_events.rs", "src/helix/endpoints/moderation/mod.rs"]

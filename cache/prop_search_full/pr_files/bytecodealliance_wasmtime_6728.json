@@ -1,0 +1,1 @@
+["cranelift/codegen/src/opts/icmp.isle", "tests/misc_testsuite/simd/issue6725-no-egraph-panic.wast"]

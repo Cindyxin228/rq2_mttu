@@ -1,0 +1,1 @@
+["src/collapse/common.rs", "src/collapse/dtrace.rs", "src/collapse/perf.rs", "src/collapse/sample.rs", "src/collapse/vtune.rs", "src/differential/mod.rs", "src/flamegraph/attrs.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/app.rs", "src/app/event_handler.rs", "src/app/events.rs", "src/app/formatter.rs", "src/app/mod.rs", "src/app/ui.rs", "src/database.rs", "src/file_manager.rs", "src/main.rs", "src/output.rs", "src/params.rs", "src/scanner.rs"]

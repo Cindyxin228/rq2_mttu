@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/frame_errors.rs", "scylla-cql/src/frame/request/auth_response.rs", "scylla-cql/src/frame/response/event.rs", "scylla-cql/src/frame/response/result.rs", "scylla-cql/src/frame/server_event_type.rs", "scylla-cql/src/frame/types.rs"]

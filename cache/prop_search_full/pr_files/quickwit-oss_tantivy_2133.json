@@ -1,0 +1,1 @@
+["src/aggregation/bucket/histogram/histogram.rs", "src/aggregation/bucket/range.rs", "src/aggregation/intermediate_agg_result.rs", "src/aggregation/segment_agg_result.rs", "src/directory/directory.rs", "src/indexer/index_writer.rs", "src/indexer/merger.rs", "src/store/compressors.rs"]

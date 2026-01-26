@@ -1,0 +1,1 @@
+["core/store/src/test_utils.rs", "core/store/src/trie/split_state.rs", "integration-tests/src/tests/client/sharding_upgrade.rs"]

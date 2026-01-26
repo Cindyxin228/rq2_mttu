@@ -1,0 +1,1 @@
+[".gitattributes", "docs/src/checks/licenses/cfg.md", "docs/src/checks/licenses/diags.md", "src/licenses.rs", "src/licenses/cfg.rs", "src/licenses/diags.rs", "tests/cfg/licenses.toml"]

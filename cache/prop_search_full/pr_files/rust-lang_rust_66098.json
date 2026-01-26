@@ -1,0 +1,1 @@
+["src/libsyntax/parse/parser/diagnostics.rs", "src/libsyntax/parse/parser/stmt.rs", "src/test/ui/suggestions/type-ascription-instead-of-path-2.rs", "src/test/ui/suggestions/type-ascription-instead-of-path-2.stderr"]

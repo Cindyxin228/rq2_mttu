@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "CHANGELOG.md", "libcnb-cargo/src/cli.rs", "libcnb-cargo/src/package/command.rs", "libcnb-cargo/src/package/error.rs", "libcnb-cargo/tests/test.rs", "libcnb-package/src/lib.rs"]

@@ -1,0 +1,1 @@
+["elliptic-curve/src/arithmetic.rs", "elliptic-curve/src/scalar/non_zero.rs", "elliptic-curve/src/sec1.rs", "elliptic-curve/src/secret_key.rs"]

@@ -1,0 +1,1 @@
+["embassy-stm32/src/qspi/enums.rs", "embassy-stm32/src/qspi/mod.rs", "examples/stm32f7/src/bin/qspi.rs", "examples/stm32h742/src/bin/qspi.rs", "examples/stm32l432/src/bin/qspi_mmap.rs"]

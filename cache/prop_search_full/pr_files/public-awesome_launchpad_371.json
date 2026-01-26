@@ -1,0 +1,1 @@
+["Cargo.lock", "contracts/base-minter/Cargo.toml", "contracts/base-minter/src/contract.rs", "contracts/base-minter/src/integration_tests.rs", "contracts/sg721-nt/Cargo.toml", "contracts/sg721-nt/src/lib.rs"]

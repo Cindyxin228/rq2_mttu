@@ -1,0 +1,1 @@
+["codegen-server/src/main/kotlin/software/amazon/smithy/rust/codegen/server/smithy/generators/ServerOperationHandlerGenerator.kt", "codegen-server/src/main/kotlin/software/amazon/smithy/rust/codegen/server/smithy/generators/protocol/ServerProtocolTestGenerator.kt", "rust-runtime/aws-smithy-http-server/src/extension.rs"]

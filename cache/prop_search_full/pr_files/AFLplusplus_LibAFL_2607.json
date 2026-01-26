@@ -1,0 +1,1 @@
+["fuzzers/binary_only/qemu_launcher/src/client.rs", "fuzzers/binary_only/qemu_launcher/src/fuzzer.rs", "fuzzers/binary_only/qemu_launcher/src/instance.rs", "fuzzers/binary_only/qemu_launcher/src/options.rs", "libafl/src/events/llmp/mgr.rs"]

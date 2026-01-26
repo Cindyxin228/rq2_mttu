@@ -1,0 +1,1 @@
+["docs/user/reference/metrics/rate.md", "docs/user/reference/metrics/text.md", "glean-core/python/glean/metrics/__init__.py", "glean-core/python/tests/metrics/test_rate.py", "glean-core/python/tests/metrics/test_text.py", "glean-core/tests/rate.rs", "glean-core/tests/text.rs"]

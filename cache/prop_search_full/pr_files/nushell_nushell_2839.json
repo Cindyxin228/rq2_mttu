@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/classified/internal.rs", "crates/nu-cli/src/commands/enter.rs", "crates/nu-cli/src/commands/nu/plugin.rs", "crates/nu-cli/src/commands/open.rs", "crates/nu-cli/src/evaluation_context.rs", "crates/nu-cli/src/examples.rs", "crates/nu-cli/tests/commands/enter.rs", "crates/nu-cli/tests/commands/open.rs"]

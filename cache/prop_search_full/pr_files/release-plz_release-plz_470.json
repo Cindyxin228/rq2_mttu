@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/git_cmd/src/lib.rs", "crates/release_plz_core/src/github_client.rs", "crates/release_plz_core/src/release_pr.rs", "crates/release_plz_core/tests/all/helpers/gitea_mock_server.rs", "crates/release_plz_core/tests/all/helpers/github_mock_server.rs", "crates/release_plz_core/tests/all/release_pr.rs"]

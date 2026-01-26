@@ -1,0 +1,1 @@
+["src/bin/cargo/commands/login.rs", "src/bin/cargo/commands/publish.rs", "src/bin/cargo/commands/search.rs", "src/cargo/util/command_prelude.rs", "tests/testsuite/login.rs", "tests/testsuite/publish.rs", "tests/testsuite/search.rs"]

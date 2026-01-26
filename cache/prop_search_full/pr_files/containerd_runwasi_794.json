@@ -1,0 +1,1 @@
+[".github/workflows/action-test-smoke.yml", "scripts/setup-jeager-and-otel.sh", "scripts/verify-jaeger-traces.sh"]

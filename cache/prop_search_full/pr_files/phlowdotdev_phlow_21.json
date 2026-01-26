@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "examples/api-amqp/api.yaml", "modules/amqp/src/setup.rs", "modules/rpc/Cargo.toml", "modules/rpc/phlow.yaml", "modules/rpc/src/client.rs", "modules/rpc/src/lib.rs", "modules/rpc/src/server.rs", "modules/rpc/src/setup.rs", "phlow-runtime/src/loader/mod.rs", "phlow-sdk/Cargo.toml"]

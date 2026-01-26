@@ -1,0 +1,1 @@
+["CHANGELOG_VULKANO.md", "examples/src/bin/shader-include/main.rs", "examples/src/bin/shader-include/relative-shaders/relative-include.glsl", "examples/src/bin/shader-include/standard-shaders/common.glsl", "examples/src/bin/shader-include/standard-shaders/standard-include.glsl", "vulkano-shaders/src/codegen.rs", "vulkano-shaders/src/lib.rs"]

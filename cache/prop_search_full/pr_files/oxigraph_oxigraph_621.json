@@ -1,0 +1,1 @@
+[".github/workflows/artifacts.yml", ".github/workflows/tests.yml", "Cargo.lock", "Cargo.toml", "README.md", "bench/bsbm_oxigraph.sh", "cli/Cargo.toml", "cli/Dockerfile", "cli/README.md", "cli/logo.svg", "cli/src/main.rs", "cli/templates/query.html", "js/Cargo.toml", "lib/README.md", "server", "testsuite/Cargo.toml"]

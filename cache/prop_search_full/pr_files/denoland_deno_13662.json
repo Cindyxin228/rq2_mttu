@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.unstable.d.ts", "ext/ffi/00_ffi.js", "ext/ffi/lib.rs", "test_ffi/src/lib.rs", "test_ffi/tests/ffi_types.ts", "test_ffi/tests/integration_tests.rs", "test_ffi/tests/test.js"]

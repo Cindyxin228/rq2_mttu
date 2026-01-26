@@ -1,0 +1,1 @@
+["datafusion/expr/src/built_in_function.rs", "datafusion/expr/src/signature.rs", "datafusion/expr/src/type_coercion/functions.rs", "datafusion/sqllogictest/test_files/array.slt"]

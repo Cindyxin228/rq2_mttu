@@ -1,0 +1,1 @@
+["metrics-exporter-tcp/build.rs", "metrics-observer/build.rs", "metrics-observer/proto/event.proto", "metrics-observer/src/metrics.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "deny.toml", "src/advisories/mod.rs", "src/cargo-deny/check.rs", "src/cargo-deny/common.rs", "src/cargo-deny/list.rs"]

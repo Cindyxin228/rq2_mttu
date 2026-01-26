@@ -1,0 +1,1 @@
+["crates/adapterlib/src/catalog.rs", "crates/adapters/src/integrated/delta_table/output.rs", "crates/adapters/src/integrated/delta_table/test.rs", "crates/adapters/src/static_compile/seroutput.rs", "crates/adapters/src/transport/file.rs", "crates/feldera-types/src/serde_with_context/serialize.rs", "docs/connectors/sinks/delta.md", "docs/connectors/sources/delta.md"]

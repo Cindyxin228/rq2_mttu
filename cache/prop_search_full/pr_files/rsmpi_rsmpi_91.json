@@ -1,0 +1,1 @@
+[".github/workflows/lint.yaml", ".github/workflows/test.yaml", ".travis.yml", "README.md", "build-probe-mpi/src/os/windows.rs", "ci/install-mpi-windows.sh", "ci/run-examples.sh"]

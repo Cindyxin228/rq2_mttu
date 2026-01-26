@@ -1,0 +1,1 @@
+["src/bp/chain.rs", "src/rgb/bech32.rs", "src/rgb/contract/mod.rs", "src/rgb/contract/nodes.rs", "src/rgb/mod.rs", "src/rgb/schema/mod.rs", "src/rgb/schema/nodes.rs", "src/rgb/schema/schema.rs", "src/rgb/schema/script.rs", "src/rgb/stash/consignment.rs", "src/rgb/stash/mod.rs", "src/rgb/validation.rs"]

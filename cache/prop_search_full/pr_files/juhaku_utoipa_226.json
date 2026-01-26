@@ -1,0 +1,1 @@
+["examples/rocket-todo/src/main.rs", "tests/path_derive_rocket.rs", "utoipa-gen/src/ext.rs", "utoipa-gen/src/ext/actix.rs", "utoipa-gen/src/ext/axum.rs", "utoipa-gen/src/ext/rocket.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/path/parameter.rs", "utoipa-gen/src/schema.rs", "utoipa-gen/src/schema/component.rs", "utoipa-gen/src/schema/into_params.rs"]

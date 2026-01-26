@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "api/Cargo.toml", "api/src/client.rs", "rustfmt.toml", "src/app.rs", "src/common.rs", "src/draw.rs", "src/event.rs", "src/main.rs", "src/widget/chart_configuration.rs", "src/widget/options.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

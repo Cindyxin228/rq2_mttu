@@ -1,0 +1,1 @@
+["crates/ide/src/lib.rs", "crates/ide/src/status.rs", "crates/rust-analyzer/src/handlers.rs", "crates/rust-analyzer/src/lsp_ext.rs", "docs/dev/lsp-extensions.md", "docs/user/manual.adoc", "editors/code/src/commands.ts", "editors/code/src/lsp_ext.ts"]

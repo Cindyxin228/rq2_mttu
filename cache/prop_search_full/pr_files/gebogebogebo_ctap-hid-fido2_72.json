@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "README_Register_and_Authenticate.md", "examples/test-with-pin-rk/main.rs", "src/fidokey/make_credential/make_credential_command.rs", "src/fidokey/make_credential/make_credential_params.rs", "src/fidokey/make_credential/mod.rs", "src/verifier.rs"]

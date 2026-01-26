@@ -1,0 +1,1 @@
+["Cargo.toml", "src/object/instanced_mesh.rs", "src/object/mesh.rs", "src/object/shaders/mesh_color.frag", "src/object/shaders/mesh_texture.frag", "src/object/shaders/mesh_vertex_color.frag", "src/phong/deferred_mesh.rs", "src/phong/forward_mesh.rs"]

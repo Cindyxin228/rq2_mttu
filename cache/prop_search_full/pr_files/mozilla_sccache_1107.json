@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "docs/Rust.md", "src/compiler/rust.rs", "tests/sccache_cargo.rs", "tests/test-crate/Cargo.toml", "tests/test-crate/src/bin.rs", "tests/test-crate/src/lib.rs"]

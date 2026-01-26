@@ -1,0 +1,1 @@
+[".circleci/config.yml", "kube/Cargo.toml", "kube/src/api/remote_command.rs", "kube/src/api/subresource.rs", "kube/src/client/mod.rs", "kube/src/client/ws.rs", "kube/src/config/mod.rs", "kube/src/error.rs", "kube/src/lib.rs", "kube/src/runtime/informer.rs"]

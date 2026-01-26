@@ -1,0 +1,1 @@
+[".travis.yml", "README.md", "integrations/sentry-actix/README.md", "integrations/sentry-actix/src/lib.rs", "src/client.rs", "src/integrations/error_chain.rs", "src/integrations/failure.rs", "src/lib.rs", "src/scope/real.rs"]

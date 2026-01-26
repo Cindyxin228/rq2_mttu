@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "assets/anilist_schema.graphql", "assets/progress_query.graphql", "justfile", "src/anilist.rs", "src/anime.rs", "src/app.rs", "src/cli.rs", "src/errors.rs", "src/macros.rs", "src/main.rs", "src/range.rs", "src/scraper.rs", "src/tui.rs", "src/utils.rs", "src/utils/bars.rs", "src/utils/tui.rs"]

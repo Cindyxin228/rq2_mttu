@@ -1,0 +1,1 @@
+["src/bin/rdcore/cmdline.rs", "src/bin/rdcore/kargs.rs", "src/bin/rdcore/main.rs", "src/install.rs", "src/io/bls.rs", "src/s390x/mod.rs", "src/s390x/zipl.rs"]

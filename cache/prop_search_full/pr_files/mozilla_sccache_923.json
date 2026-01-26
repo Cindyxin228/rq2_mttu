@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lru-disk-cache/Cargo.toml", "src/bin/sccache-dist/build.rs", "src/bin/sccache-dist/main.rs", "src/cache/disk.rs", "src/compiler/compiler.rs", "src/compiler/rust.rs", "src/dist/cache.rs", "src/lib.rs", "src/lru_disk_cache/lru_cache.rs", "src/lru_disk_cache/mod.rs"]

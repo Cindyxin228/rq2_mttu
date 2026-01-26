@@ -1,0 +1,1 @@
+[".evergreen/compile-only.sh", "Cargo.lock", "Cargo.toml", "src/client/auth/aws.rs", "src/client/csfle/state_machine.rs", "src/test/auth/aws.rs"]

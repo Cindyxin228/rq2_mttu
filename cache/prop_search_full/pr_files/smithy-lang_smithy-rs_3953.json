@@ -1,0 +1,1 @@
+["aws/sdk/benchmarks/sdk-perf/Cargo.lock", "aws/sdk/benchmarks/sdk-perf/Cargo.toml", "aws/sdk/benchmarks/sdk-perf/src/ddb_serde.rs", "aws/sdk/benchmarks/sdk-perf/src/main.rs", "aws/sdk/benchmarks/sdk-perf/src/results.rs", "aws/sdk/benchmarks/sdk-perf/src/test_util.rs", "tools/ci-scripts/generate-sdk-perf-bin"]

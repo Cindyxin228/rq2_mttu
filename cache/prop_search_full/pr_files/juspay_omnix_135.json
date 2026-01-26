@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.lock", "Cargo.toml", "src/app/flake.rs", "src/app/health.rs", "src/app/info.rs", "src/app/mod.rs", "src/app/state/datum.rs", "src/app/state/db.rs", "src/app/state/mod.rs", "src/app/widget.rs", "src/main.rs"]

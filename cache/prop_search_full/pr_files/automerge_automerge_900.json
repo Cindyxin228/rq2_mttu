@@ -1,0 +1,1 @@
+["javascript/package.json", "javascript/src/next.ts", "javascript/src/stable.ts", "javascript/test/block_test.ts", "rust/automerge-wasm/package.json", "rust/automerge/src/iter/spans.rs", "rust/automerge/src/read.rs", "rust/automerge/src/transaction/transactable.rs"]

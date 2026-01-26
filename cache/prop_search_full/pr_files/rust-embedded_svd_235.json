@@ -1,0 +1,1 @@
+["svd-rs/CHANGELOG.md", "svd-rs/src/array.rs", "svd-rs/src/cluster.rs", "svd-rs/src/device.rs", "svd-rs/src/enumeratedvalue.rs", "svd-rs/src/field.rs", "svd-rs/src/interrupt.rs", "svd-rs/src/lib.rs", "svd-rs/src/peripheral.rs", "svd-rs/src/register.rs"]

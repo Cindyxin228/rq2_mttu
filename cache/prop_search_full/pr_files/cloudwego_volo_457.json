@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "scripts/clippy-and-test.sh", "scripts/selftest.sh", "scripts/volo-cli-test.sh", "volo-http/src/client/discover/mod.rs", "volo-http/src/server/mod.rs", "volo-http/src/server/utils/file_response.rs"]

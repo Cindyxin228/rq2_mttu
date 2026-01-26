@@ -1,0 +1,1 @@
+["crates/tauri-schema-worker/package.json", "examples/api/package.json", "examples/api/src/main.js", "package.json", "packages/api/package.json", "packages/cli/package.json", "pnpm-lock.yaml"]

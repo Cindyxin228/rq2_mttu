@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "crates/hir-ty/src/infer/closure.rs", "crates/project-model/src/build_dependencies.rs", "xtask/src/tidy.rs"]

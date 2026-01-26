@@ -1,0 +1,1 @@
+[".github/workflows/auto-assign.yml", ".github/workflows/build-assets.yml", ".github/workflows/lint-testing.yml", ".github/workflows/publish-docs.yml", ".github/workflows/release.yml", ".github/workflows/storage-integration.yml", "Cargo.lock", "Cargo.toml", "crates/scouter_types/src/queue/types.rs", "py-scouter/Cargo.toml", "py-scouter/pyproject.toml", "py-scouter/uv.lock"]

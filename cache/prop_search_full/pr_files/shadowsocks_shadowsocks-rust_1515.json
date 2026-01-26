@@ -1,0 +1,1 @@
+["crates/shadowsocks-service/src/config.rs", "crates/shadowsocks/src/relay/tcprelay/aead.rs", "src/service/local.rs", "src/service/manager.rs", "src/service/server.rs", "src/vparser/mod.rs"]

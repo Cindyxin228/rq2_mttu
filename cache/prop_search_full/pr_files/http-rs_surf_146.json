@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "Cargo.toml", "examples/hello_world.rs", "examples/middleware.rs", "examples/next_reuse.rs", "examples/persistent.rs", "examples/post.rs", "src/client.rs", "src/headers.rs", "src/lib.rs", "src/middleware/logger/native.rs", "src/middleware/logger/wasm.rs", "src/middleware/mod.rs", "src/one_off.rs", "src/request.rs", "src/response.rs", "tests/test.rs"]

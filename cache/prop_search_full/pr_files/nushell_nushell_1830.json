@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/open.rs", "crates/nu-cli/src/commands/reject.rs", "crates/nu-cli/src/commands/touch.rs", "crates/nu-cli/src/commands/trim.rs", "crates/nu-cli/src/commands/version.rs", "crates/nu-cli/src/commands/where_.rs"]

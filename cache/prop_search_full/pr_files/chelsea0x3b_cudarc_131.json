@@ -1,0 +1,1 @@
+["examples/07-build-workflow/build.rs", "examples/07-build-workflow/cuda/includes/my_struct.h", "examples/07-build-workflow/cuda/includes/wrapper.h", "examples/07-build-workflow/cuda/kernels/my_struct_kernel.cu", "examples/07-build-workflow/main.rs"]

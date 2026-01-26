@@ -1,0 +1,1 @@
+["polars/polars-time/src/groupby/dynamic.rs", "polars/polars-time/src/windows/groupby.rs", "polars/polars-time/src/windows/test.rs", "polars/polars-time/src/windows/window.rs", "py-polars/polars/internals/dataframe/frame.py", "py-polars/tests/unit/test_datelike.py", "py-polars/tests/unit/test_df.py"]

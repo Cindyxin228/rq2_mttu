@@ -1,0 +1,1 @@
+["examples/value_list.rs", "scylla-macros/src/from_row.rs", "scylla-macros/src/from_user_type.rs", "scylla-macros/src/into_user_type.rs", "scylla-macros/src/parser.rs", "scylla-macros/src/value_list.rs"]

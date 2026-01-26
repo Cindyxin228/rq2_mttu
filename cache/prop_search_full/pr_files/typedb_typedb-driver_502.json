@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".circleci/windows/git.patch", ".factory/automation.yml", "dependencies/vaticle/repositories.bzl", "tool/test/BUILD", "tool/test/EchoJavaHome.java", "tool/test/start-core-server.sh", "tool/test/start-enterprise-servers.sh"]

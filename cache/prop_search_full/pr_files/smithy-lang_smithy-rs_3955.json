@@ -1,0 +1,1 @@
+["aws/rust-runtime/aws-config/Cargo.toml", "aws/rust-runtime/aws-config/src/meta/credentials/chain.rs", "aws/rust-runtime/aws-config/src/meta/token.rs", "aws/rust-runtime/aws-config/src/sts/assume_role.rs"]

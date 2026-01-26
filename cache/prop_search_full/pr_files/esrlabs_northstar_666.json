@@ -1,0 +1,1 @@
+["northstar-client/src/lib.rs", "northstar-runtime/src/api/codec.rs", "northstar-runtime/src/runtime/console/listener.rs", "northstar-runtime/src/runtime/console/mod.rs", "northstar-runtime/src/runtime/console/throttle.rs", "northstar-tests/tests/console.rs"]

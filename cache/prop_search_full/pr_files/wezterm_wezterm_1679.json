@@ -1,0 +1,1 @@
+["wezterm-gui/src/termwindow/mod.rs", "wezterm-gui/src/termwindow/mouseevent.rs", "window/examples/async.rs", "window/src/lib.rs", "window/src/os/macos/window.rs", "window/src/os/wayland/pointer.rs", "window/src/os/wayland/window.rs", "window/src/os/windows/window.rs", "window/src/os/x11/connection.rs", "window/src/os/x11/window.rs"]

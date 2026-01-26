@@ -1,0 +1,1 @@
+["integration_tests/features/TransactionInfo.feature", "integration_tests/features/WalletMonitoring.feature", "integration_tests/features/support/steps.js", "integration_tests/helpers/util.js"]

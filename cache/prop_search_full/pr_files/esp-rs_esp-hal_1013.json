@@ -1,0 +1,1 @@
+["CHANGELOG.md", "esp-hal-common/src/spi/slave.rs", "esp32c2-hal/examples/spi_slave_dma.rs", "esp32c3-hal/examples/spi_slave_dma.rs", "esp32c6-hal/examples/spi_slave_dma.rs", "esp32h2-hal/examples/spi_slave_dma.rs", "esp32s3-hal/examples/spi_slave_dma.rs"]

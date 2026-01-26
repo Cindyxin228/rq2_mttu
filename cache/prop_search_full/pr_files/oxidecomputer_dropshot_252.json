@@ -1,0 +1,1 @@
+["Cargo.lock", "dropshot/src/api_description.rs", "dropshot/src/router.rs", "dropshot/tests/test_openapi.json", "dropshot/tests/test_openapi.rs", "dropshot/tests/test_openapi_fuller.json", "dropshot_endpoint/Cargo.toml", "dropshot_endpoint/src/lib.rs"]

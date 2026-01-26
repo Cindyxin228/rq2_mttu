@@ -1,0 +1,1 @@
+[".github/workflows/CICD.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "Makefile", "build.rs", "clippy.toml", "src/app.rs", "src/cli.rs", "src/exec/job.rs", "src/exec/mod.rs", "src/filter/size.rs", "src/main.rs", "src/walk.rs", "tests/tests.rs"]

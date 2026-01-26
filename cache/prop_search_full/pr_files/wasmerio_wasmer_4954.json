@@ -1,0 +1,1 @@
+["lib/c-api/Cargo.toml", "lib/cli/src/commands/app/create.rs", "lib/config/src/app/mod.rs", "lib/virtual-fs/Cargo.toml", "lib/virtual-net/Cargo.toml", "lib/wasix/Cargo.toml", "tests/lib/wast/Cargo.toml"]

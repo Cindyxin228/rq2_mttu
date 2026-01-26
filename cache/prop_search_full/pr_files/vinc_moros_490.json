@@ -1,0 +1,1 @@
+["CHANGELOG.md", "doc/lisp.md", "dsk/lib/lisp/alias.lsp", "dsk/lib/lisp/core.lsp", "src/usr/lisp/env.rs", "src/usr/lisp/eval.rs", "src/usr/lisp/expand.rs", "src/usr/lisp/mod.rs", "src/usr/lisp/number.rs", "src/usr/lisp/parse.rs", "src/usr/lisp/primitive.rs"]

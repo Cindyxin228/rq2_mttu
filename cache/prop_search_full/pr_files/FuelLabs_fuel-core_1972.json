@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "crates/fuel-gas-price-algorithm/src/lib.rs", "crates/services/gas_price_service/Cargo.toml", "crates/services/gas_price_service/src/fuel_gas_price_updater.rs", "crates/services/gas_price_service/src/fuel_gas_price_updater/tests.rs", "crates/services/gas_price_service/src/lib.rs", "crates/services/gas_price_service/src/static_updater.rs"]

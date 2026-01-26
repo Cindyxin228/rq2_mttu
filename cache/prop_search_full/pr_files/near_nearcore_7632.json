@@ -1,0 +1,1 @@
+["chain/chain/src/store.rs", "chain/chain/src/store_validator.rs", "chain/chain/src/store_validator/validate.rs", "core/primitives-core/src/types.rs", "core/store/src/columns.rs", "core/store/src/db/rocksdb.rs", "test-utils/store-validator/src/main.rs"]

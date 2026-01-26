@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/index.rs", "src/index/cache.rs", "src/index/git.rs", "src/index/git_remote.rs", "src/index/local.rs", "src/index/sparse_remote.rs", "src/krate_name.rs", "src/utils/git.rs"]

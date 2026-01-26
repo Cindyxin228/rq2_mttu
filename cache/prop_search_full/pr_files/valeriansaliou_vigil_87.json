@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "config.cfg", "src/aggregator/manager.rs", "src/config/config.rs", "src/config/defaults.rs", "src/notifier/mod.rs", "src/notifier/zulip.rs"]

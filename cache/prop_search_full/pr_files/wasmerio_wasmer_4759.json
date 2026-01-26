@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/path_open.rs", "tests/wasi-fyi/fs_empty_path.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/scripts/verify_openssl.sh", "Cargo.lock", "fuel-tests/Cargo.toml"]

@@ -1,0 +1,1 @@
+["diesel_cli/src/print_schema.rs", "diesel_cli/tests/generate_migrations/diff_add_table_all_the_types/postgres/schema.rs", "diesel_cli/tests/generate_migrations/diff_add_table_all_the_types/postgres/schema_out.rs/expected.snap", "diesel_cli/tests/generate_migrations/diff_add_table_all_the_types/postgres/up.sql/expected.snap"]

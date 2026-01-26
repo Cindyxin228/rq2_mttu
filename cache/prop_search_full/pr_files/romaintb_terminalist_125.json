@@ -1,0 +1,1 @@
+["src/backend/factory.rs", "src/backend/mod.rs", "src/backend_registry.rs", "src/entities/backend.rs", "src/lib.rs", "src/main.rs", "src/repositories/backend.rs", "src/sync.rs", "src/ui/mod.rs"]

@@ -1,0 +1,1 @@
+["crates/host/src/wasmbus/mod.rs", "crates/runtime/src/actor/component/logging.rs", "crates/runtime/src/actor/module/mod.rs", "crates/runtime/src/capability/builtin.rs"]

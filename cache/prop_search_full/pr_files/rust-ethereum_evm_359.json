@@ -1,0 +1,1 @@
+["Cargo.toml", "features/evm64/Cargo.toml", "fuzz/Cargo.toml", "interpreter/Cargo.toml", "jsontests/Cargo.toml", "precompile/Cargo.toml"]

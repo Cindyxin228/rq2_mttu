@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/nightlies.yaml", "CHANGELOG.md", "Makefile", "Makefile.toml", "devices/stm32n645.yaml", "devices/stm32n647.yaml", "devices/stm32n655.yaml", "devices/stm32n657.yaml", "scripts/makecrates.py", "stm32_part_table.yaml", "svd/cmsis-svd.xsd", "svd/vendor/stm32n6-svd.zip"]

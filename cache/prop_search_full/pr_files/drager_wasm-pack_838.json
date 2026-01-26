@@ -1,0 +1,1 @@
+["src/manifest/mod.rs", "src/manifest/npm/commonjs.rs", "src/manifest/npm/esmodules.rs", "src/manifest/npm/nomodules.rs", "tests/all/manifest.rs", "tests/all/utils/manifest.rs"]

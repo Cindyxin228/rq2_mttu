@@ -1,0 +1,1 @@
+["src/core/error.rs", "src/core/header.rs", "src/core/packet.rs", "src/handshake/handshake.rs", "src/hosts/client.rs", "src/io/stream_manager.rs", "src/io/worker.rs", "src/network/connection.rs"]

@@ -1,0 +1,1 @@
+["datafusion/common/src/config.rs", "datafusion/core/Cargo.toml", "datafusion/core/benches/sql_query_with_io.rs", "datafusion/core/src/datasource/listing/helpers.rs", "datafusion/core/src/physical_plan/planner.rs", "datafusion/core/tests/sqllogictests/test_files/information_schema.slt", "docs/source/user-guide/configs.md"]

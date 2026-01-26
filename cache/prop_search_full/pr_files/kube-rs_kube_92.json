@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/event_informer.rs", "examples/job_openapi.rs", "examples/node_informer.rs", "examples/pod_informer.rs", "src/api/informer.rs", "src/api/reflector.rs", "src/api/typed.rs", "src/client/mod.rs", "src/lib.rs"]

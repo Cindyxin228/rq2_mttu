@@ -1,0 +1,1 @@
+[".travis.yml", "secio/Cargo.toml", "secio/src/lib.rs", "secio/src/secp256k1_compat/mod.rs", "secio/src/secp256k1_compat/native.rs", "secio/src/secp256k1_compat/wasm_compat.rs"]

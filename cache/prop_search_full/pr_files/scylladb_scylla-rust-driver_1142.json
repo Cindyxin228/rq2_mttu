@@ -1,0 +1,1 @@
+["scylla-cql/src/types/serialize/raw_batch.rs", "scylla/tests/integration/batch.rs", "scylla/tests/integration/main.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/webworker-gloo/Cargo.lock", "examples/webworker-gloo/Cargo.toml", "examples/webworker-gloo/index.html", "examples/webworker-gloo/src/bin/app.rs", "examples/webworker-gloo/src/bin/worker.rs", "examples/webworker-gloo/src/lib.rs", "src/pipelines/mod.rs", "src/pipelines/rust.rs"]

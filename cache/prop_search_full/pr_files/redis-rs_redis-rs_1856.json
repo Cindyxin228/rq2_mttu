@@ -1,0 +1,1 @@
+["redis/src/cluster_handling/async_connection/mod.rs", "redis/src/cmd.rs", "redis/tests/test_cache.rs", "redis/tests/test_cluster_async.rs"]

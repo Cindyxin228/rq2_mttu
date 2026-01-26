@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/dprint/Cargo.toml", "crates/dprint/src/commands/general.rs", "crates/dprint/src/utils/logging/confirm.rs", "crates/dprint/src/utils/logging/multi_select.rs", "crates/dprint/src/utils/logging/select.rs", "crates/dprint/src/utils/terminal.rs"]

@@ -1,0 +1,1 @@
+["opentelemetry-otlp/CHANGELOG.md", "opentelemetry-otlp/Cargo.toml", "opentelemetry-otlp/src/lib.rs", "opentelemetry-proto/Cargo.toml", "opentelemetry-proto/src/transform/logs.rs", "opentelemetry-stdout/CHANGELOG.md", "opentelemetry-stdout/Cargo.toml", "opentelemetry-stdout/src/lib.rs", "opentelemetry-stdout/src/logs/transform.rs"]

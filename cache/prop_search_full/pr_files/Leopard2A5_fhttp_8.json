@@ -1,0 +1,1 @@
+["resources/test/requests/dummy.http", "resources/test/requests/gql/request.gql.http", "resources/test/requests/gql/request.http", "src/bin/fhttp.rs", "src/errors.rs", "src/request.rs", "src/request_preprocessor.rs"]

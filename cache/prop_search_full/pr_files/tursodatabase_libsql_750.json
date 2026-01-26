@@ -1,0 +1,1 @@
+["libsql/Cargo.toml", "libsql/src/hrana/connection.rs", "libsql/src/hrana/cursor.rs", "libsql/src/hrana/hyper.rs", "libsql/src/hrana/mod.rs", "libsql/src/hrana/proto.rs", "libsql/src/hrana/stream.rs", "libsql/src/hrana/transaction.rs", "libsql/src/value.rs", "libsql/src/wasm/cloudflare.rs", "libsql/src/wasm/mod.rs"]

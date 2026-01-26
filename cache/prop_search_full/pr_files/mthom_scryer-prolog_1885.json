@@ -1,0 +1,1 @@
+["build/instructions_template.rs", "src/forms.rs", "src/lib/builtins.pl", "src/machine/dispatch.rs", "src/machine/machine_state_impl.rs", "src/machine/mod.rs", "src/machine/system_calls.rs", "src/macros.rs", "src/parser/ast.rs"]

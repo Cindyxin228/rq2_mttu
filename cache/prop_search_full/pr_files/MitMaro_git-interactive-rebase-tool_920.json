@@ -1,0 +1,1 @@
+["Cargo.toml", "src/application.rs", "src/config/git_config.rs", "src/display/utils.rs", "src/editor.rs", "src/git/repository.rs", "src/test_helpers.rs", "src/test_helpers/set_git_directory.rs", "src/test_helpers/with_env_var.rs", "src/test_helpers/with_git_directory.rs", "src/tests.rs"]

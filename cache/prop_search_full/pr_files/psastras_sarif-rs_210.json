@@ -1,0 +1,1 @@
+["sarif-fmt/src/bin.rs", "serde-sarif/src/converters/hadolint.rs", "serde-sarif/src/converters/shellcheck.rs"]

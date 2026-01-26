@@ -1,0 +1,1 @@
+["crates/test-programs/src/bin/cli_no_udp.rs", "crates/wasi/src/preview2/ctx.rs", "crates/wasi/src/preview2/host/udp.rs", "crates/wasi/src/preview2/network.rs", "crates/wasi/src/preview2/udp.rs", "src/commands/run.rs", "tests/all/cli_tests.rs"]

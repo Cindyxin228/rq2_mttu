@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "azure-pipelines.yml", "src/buffer_pool.rs", "src/conn/mod.rs", "src/conn/opts/mod.rs", "src/conn/query.rs", "src/conn/query_result.rs", "src/io/tcp.rs", "src/lib.rs", "tests/client.p12"]

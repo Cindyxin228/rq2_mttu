@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "crates/flakreate/Cargo.toml", "crates/flakreate/LICENSE", "crates/flakreate/README.md", "crates/flakreate/src/flake_template/fileop.rs", "crates/flakreate/src/flake_template/mod.rs", "crates/flakreate/src/flake_template/param.rs", "crates/flakreate/src/lib.rs", "crates/flakreate/src/main.rs", "nix/rust.nix"]

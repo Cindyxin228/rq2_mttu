@@ -1,0 +1,1 @@
+["opentelemetry-contrib/src/trace_propagator/b3_propagator.rs", "opentelemetry-contrib/src/trace_propagator/jaeger_propagator.rs", "src/api/context/propagation/composite_propagator.rs", "src/api/trace/noop.rs", "src/api/trace/span.rs", "src/api/trace/trace_context_propagator.rs", "src/global/trace.rs", "src/sdk/metrics/aggregators/array.rs", "src/sdk/trace/span.rs"]

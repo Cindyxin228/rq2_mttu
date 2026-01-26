@@ -1,0 +1,1 @@
+[".cargo/config.toml", "crates/neon/Cargo.toml", "crates/neon/src/sys/arraybuffer.rs", "crates/neon/src/sys/bindings/functions.rs", "crates/neon/src/sys/bindings/mod.rs", "crates/neon/src/sys/buffer.rs", "crates/neon/src/types_impl/buffer/types.rs", "test/napi/Cargo.toml"]

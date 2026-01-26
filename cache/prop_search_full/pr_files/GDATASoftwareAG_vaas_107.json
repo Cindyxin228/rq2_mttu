@@ -1,0 +1,1 @@
+[".gitignore", "typescript/.devcontainer/Dockerfile", "typescript/.devcontainer/devcontainer.json", "typescript/.vscode/settings.json", "typescript/package-lock.json", "typescript/package.json", "typescript/pnpm-lock.yaml", "typescript/src/Vaas.ts", "typescript/src/VaasErrors.ts", "typescript/tests/test.ts"]

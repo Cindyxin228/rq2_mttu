@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/src/geometry/point.rs", "core/src/geometry/size.rs", "core/src/pixelcolor/binary_color.rs", "core/src/primitives/rectangle/mod.rs", "src/iterator/raw.rs", "src/primitives/arc/mod.rs", "src/primitives/circle/mod.rs", "src/primitives/ellipse/mod.rs", "src/primitives/sector/mod.rs", "src/primitives/styled.rs"]

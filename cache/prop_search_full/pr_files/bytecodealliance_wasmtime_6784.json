@@ -1,0 +1,1 @@
+["crates/test-programs/wasi-tests/src/bin/path_open_preopen.rs", "crates/wasi-preview1-component-adapter/src/lib.rs", "crates/wasi/src/preview2/preview1/mod.rs"]

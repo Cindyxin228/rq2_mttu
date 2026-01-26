@@ -1,0 +1,1 @@
+["Cargo.lock", "packages/fuel-indexer-api-server/src/api.rs", "packages/fuel-indexer-api-server/src/uses.rs", "plugins/forc-index/Cargo.toml", "plugins/forc-index/src/cli.rs", "plugins/forc-index/src/commands/mod.rs", "plugins/forc-index/src/commands/status.rs", "plugins/forc-index/src/ops/forc_index_status.rs", "plugins/forc-index/src/ops/mod.rs"]

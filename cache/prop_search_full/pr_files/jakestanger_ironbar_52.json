@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docs/_Sidebar.md", "docs/modules/MPD.md", "docs/modules/Music.md", "src/bar.rs", "src/clients/mod.rs", "src/clients/mpd.rs", "src/clients/music/mod.rs", "src/clients/music/mpd.rs", "src/clients/music/mpris.rs", "src/config/mod.rs", "src/modules/mod.rs", "src/modules/music.rs"]

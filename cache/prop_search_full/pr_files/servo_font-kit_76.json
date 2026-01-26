@@ -1,0 +1,1 @@
+["examples/render-glyph.rs", "src/canvas.rs", "src/lib.rs", "src/loader.rs", "src/loaders/core_text.rs", "src/loaders/directwrite.rs", "src/loaders/freetype.rs", "src/test.rs"]

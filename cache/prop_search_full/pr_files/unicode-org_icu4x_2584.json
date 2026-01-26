@@ -1,0 +1,1 @@
+["provider/blob/Cargo.toml", "provider/core/Cargo.toml", "provider/core/src/buf.rs", "provider/core/src/serde/mod.rs", "provider/fs/Cargo.toml"]

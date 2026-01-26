@@ -1,0 +1,1 @@
+["README.md", "completions/_rtx", "completions/rtx.bash", "completions/rtx.fish", "src/cli/mod.rs", "src/cli/run.rs", "src/cli/task/edit.rs", "src/cli/task/ls.rs", "src/cli/watch.rs", "src/config/settings.rs"]

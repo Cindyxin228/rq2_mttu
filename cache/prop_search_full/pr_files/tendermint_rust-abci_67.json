@@ -1,0 +1,1 @@
+[".circleci/config.yml", "CONTRIBUTING.md", "Cargo.toml", "src/codec.rs", "src/lib.rs", "src/messages/abci.rs", "src/messages/merkle.rs", "src/messages/types.rs", "src/server.rs"]

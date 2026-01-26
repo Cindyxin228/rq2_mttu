@@ -1,0 +1,1 @@
+["flake.nix", "nix/nixos-test.nix", "nix/test-nixos-configuration.nix", "nix/zerostash-nixos-module.nix"]

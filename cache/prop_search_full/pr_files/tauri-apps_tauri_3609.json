@@ -1,0 +1,1 @@
+[".changes/fs-scope-events.md", "core/tauri/src/app.rs", "core/tauri/src/endpoints/dialog.rs", "core/tauri/src/error.rs", "core/tauri/src/manager.rs", "core/tauri/src/scope/fs.rs", "core/tauri/src/scope/http.rs", "core/tauri/src/scope/mod.rs", "core/tauri/src/scope/shell.rs"]

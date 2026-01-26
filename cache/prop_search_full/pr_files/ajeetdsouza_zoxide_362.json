@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "README.md", "contrib/completions/zoxide.ts", "man/man1/zoxide-init.1", "shell.nix", "src/shell.rs", "templates/bash.txt", "templates/elvish.txt", "templates/fish.txt", "templates/nushell.txt", "templates/posix.txt", "templates/powershell.txt", "templates/xonsh.txt", "templates/zsh.txt", "xtask/src/main.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "bin/Cargo.toml", "bin/src/common/client_datastore.rs", "bin/src/common/lib.rs", "bin/src/common/server.rs", "proto/Cargo.toml", "proto/build.rs", "proto/indradb.capnp", "proto/src/lib.rs", "proto/src/util.rs", "scripts/update_version.py"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "sdk/core/azure_core_test_macros/Cargo.toml", "sdk/cosmos/azure_data_cosmos/Cargo.toml", "sdk/eventhubs/azure_messaging_eventhubs/Cargo.toml", "sdk/keyvault/azure_security_keyvault_secrets/Cargo.toml", "sdk/typespec/typespec_client_core/Cargo.toml"]

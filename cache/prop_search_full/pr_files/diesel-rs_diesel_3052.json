@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "diesel_compile_tests/tests/fail/array_expressions_must_be_same_type.stderr"]

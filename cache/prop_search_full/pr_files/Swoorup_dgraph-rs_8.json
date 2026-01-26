@@ -1,0 +1,1 @@
+["compile-protobufs.rs", "examples/simple/main.rs", "src/client.rs", "src/protos/api.proto", "src/protos/api.rs", "src/protos/mod.rs", "src/txn.rs"]

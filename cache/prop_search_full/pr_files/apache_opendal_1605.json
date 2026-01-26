@@ -1,0 +1,1 @@
+["LICENSE", "bindings/nodejs/.cargo/config.toml", "bindings/nodejs/.gitignore", "bindings/nodejs/Cargo.toml", "bindings/python/opendal.pyi", "licenserc.toml", "src/docs/comparisons/vs_object_store.md", "src/services/ghac/backend.rs", "src/types/scheme.rs"]

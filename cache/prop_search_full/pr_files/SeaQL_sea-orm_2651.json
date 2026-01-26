@@ -1,0 +1,1 @@
+["sea-orm-macros/src/derives/entity_model.rs", "src/entity/column.rs", "src/entity/column_def.rs", "src/schema/entity.rs", "src/tests_cfg/indexes.rs", "tests/common/bakery_chain/lineitem.rs", "tests/common/bakery_chain/schema.rs", "tests/common/setup/mod.rs", "tests/crud/error.rs", "tests/sequential_op_tests.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/test.yaml", ".gitignore", "Makefile", "tests/integration/cli/Cargo.toml", "tests/integration/cli/tests/create_exe.rs", "tests/integration/cli/tests/run.rs"]

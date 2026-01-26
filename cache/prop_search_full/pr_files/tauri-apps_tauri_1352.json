@@ -1,0 +1,1 @@
+[".changes/file-drop-events.md", "api/src/shell.ts", "cli/core/Cargo.lock", "tauri/Cargo.toml", "tauri/examples/api/src-tauri/Cargo.lock", "tauri/examples/helloworld/src-tauri/Cargo.lock", "tauri/examples/multiwindow/src-tauri/Cargo.lock", "tauri/src/app.rs", "tauri/src/app/webview.rs", "tauri/src/app/webview/wry.rs", "tauri/src/app/webview_manager.rs"]

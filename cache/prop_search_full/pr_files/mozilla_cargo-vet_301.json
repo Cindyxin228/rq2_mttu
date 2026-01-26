@@ -1,0 +1,1 @@
+["src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-audit-as-default-root.json.snap", "src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-audit-as-weaker-root.json.snap", "src/tests/snapshots/cargo_vet__tests__vet__builtin-simple-deps-unaudited-adds-uneeded-criteria.json.snap"]

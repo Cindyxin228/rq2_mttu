@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "benches/exec_compare.rs", "rustfmt.toml", "src/cli.rs", "src/commands.rs", "src/main.rs", "src/parser.rs", "src/proces.rs"]

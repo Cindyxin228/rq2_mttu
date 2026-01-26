@@ -1,0 +1,1 @@
+["libafl_qemu/src/modules/usermode/asan_guest.rs", "libafl_qemu/src/modules/usermode/snapshot.rs"]

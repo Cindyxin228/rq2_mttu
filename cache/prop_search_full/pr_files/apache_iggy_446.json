@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/Cargo.toml", "examples/src/basic/consumer/main.rs", "examples/src/basic/producer/main.rs", "examples/src/message-envelope/consumer/main.rs", "examples/src/message-envelope/producer/main.rs", "examples/src/message-headers/consumer/main.rs", "examples/src/message-headers/producer/main.rs"]

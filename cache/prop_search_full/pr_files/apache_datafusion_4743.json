@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/file_format/parquet/page_filter.rs", "datafusion/core/tests/parquet/filter_pushdown.rs", "datafusion/core/tests/parquet/page_pruning.rs", "parquet-test-utils/src/lib.rs", "test-utils/src/data_gen.rs"]

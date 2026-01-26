@@ -1,0 +1,1 @@
+["fuel-tx/src/lib.rs", "fuel-tx/src/transaction.rs", "fuel-tx/src/transaction/types/create.rs", "fuel-tx/src/transaction/types/mint.rs", "fuel-tx/src/transaction/types/script.rs", "fuel-tx/src/transaction/validity.rs", "fuel-tx/src/transaction/validity/error.rs", "fuel-vm/src/checked_transaction.rs", "fuel-vm/src/checked_transaction/types.rs"]

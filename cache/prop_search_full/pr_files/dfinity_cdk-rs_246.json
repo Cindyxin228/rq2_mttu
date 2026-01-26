@@ -1,0 +1,1 @@
+[".github/workflows/e2e.yml", ".github/workflows/test.yml", "Cargo.toml", "e2e-tests/Cargo.toml", "e2e-tests/canisters/simple_kv_store.rs", "e2e-tests/src/lib.rs", "e2e-tests/tests/e2e.rs", "rust-toolchain.toml"]

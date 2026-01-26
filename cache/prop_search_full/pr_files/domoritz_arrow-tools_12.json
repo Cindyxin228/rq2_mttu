@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/arrow-tools/Cargo.toml", "crates/arrow-tools/Readme.md", "crates/arrow-tools/src/lib.rs", "crates/csv2arrow/Cargo.toml", "crates/csv2parquet/Cargo.toml", "crates/json2arrow/Cargo.toml", "crates/json2parquet/Cargo.toml"]

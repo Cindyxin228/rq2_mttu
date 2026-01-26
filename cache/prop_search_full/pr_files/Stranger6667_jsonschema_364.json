@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/python-release.yml", "bindings/python/CHANGELOG.md", "bindings/python/Cargo.toml", "bindings/python/README.rst", "bindings/python/setup.py", "bindings/python/tests-py/test_jsonschema.py", "bindings/python/tox.ini"]

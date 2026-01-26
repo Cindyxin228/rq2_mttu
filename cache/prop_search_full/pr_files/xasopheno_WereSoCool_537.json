@@ -1,0 +1,1 @@
+["Cargo.lock", "ast/Cargo.toml", "ast/src/operations/normalize.rs", "benches/render_batch_bench.rs", "mocks/list/et_list.socool", "parser/src/indices.rs", "shared/src/helpers.rs", "shared/src/lib.rs", "songs/template_1.socool", "songs/test/render_op_get_batch_simple.socool", "src/renderable/mod.rs", "src/testing/hashes.json"]

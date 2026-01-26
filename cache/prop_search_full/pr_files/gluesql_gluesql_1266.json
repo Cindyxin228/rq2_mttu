@@ -1,0 +1,1 @@
+["core/src/ast/function.rs", "core/src/executor/evaluate/function.rs", "core/src/executor/evaluate/mod.rs", "core/src/plan/expr/function.rs", "core/src/translate/function.rs", "test-suite/src/function/mod.rs", "test-suite/src/function/replace.rs", "test-suite/src/lib.rs"]

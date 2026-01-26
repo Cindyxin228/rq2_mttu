@@ -1,0 +1,1 @@
+["burn-tch/src/backend.rs", "burn-tensor/Cargo.toml", "burn-tensor/src/tensor/data.rs", "burn/src/module/param/base.rs", "burn/src/nn/dropout.rs", "burn/src/nn/embedding.rs", "burn/src/nn/gelu.rs", "burn/src/nn/layer_norm.rs", "burn/src/nn/linear.rs", "burn/src/nn/relu.rs", "examples/mnist/src/mlp.rs"]

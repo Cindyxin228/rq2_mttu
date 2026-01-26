@@ -1,0 +1,1 @@
+["examples/dns.rs", "examples/kernel_trace.rs", "examples/multiple_providers.rs", "examples/user_trace.rs", "src/lib.rs", "src/native/tdh_types.rs", "src/parser.rs", "tests/dns.rs", "tests/kernel_trace.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/gen_centos7.yml", "Cargo.lock", "get-deps", "window/Cargo.toml", "window/src/os/x11/connection.rs", "window/src/os/x11/window.rs", "window/src/os/x_and_wayland.rs"]

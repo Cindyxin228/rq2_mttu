@@ -1,0 +1,1 @@
+["crates/nu-cli/src/completion/command.rs", "crates/nu-cli/src/completion/flag.rs", "crates/nu-cli/src/completion/matchers/case_insensitive.rs", "crates/nu-cli/src/completion/matchers/case_sensitive.rs", "crates/nu-cli/src/completion/matchers/mod.rs", "crates/nu-cli/src/completion/mod.rs", "crates/nu-cli/src/completion/path.rs", "crates/nu-cli/src/shell/completer.rs"]

@@ -1,0 +1,1 @@
+["crates/swc_css_minifier/src/compress/keyframes.rs", "crates/swc_css_minifier/src/compress/mod.rs", "crates/swc_css_minifier/src/lib.rs", "crates/swc_css_minifier/tests/fixture/compress-keyframe-selector/input.css", "crates/swc_css_minifier/tests/fixture/compress-keyframe-selector/output.min.css", "crates/swc_css_minifier/tests/fixture/packages/bootstrap_5_1_3/output.min.css"]

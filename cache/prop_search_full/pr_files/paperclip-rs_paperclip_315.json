@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/src/error.rs", "core/src/v2/actix.rs", "plugins/actix-web/src/web.rs", "src/error.rs", "src/v2/codegen/impls.rs", "tests/snapshots/test_codegen__tests__test_k8s__cli__app.yaml.snap", "tests/test_app.rs"]

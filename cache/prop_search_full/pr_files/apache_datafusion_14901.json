@@ -1,0 +1,1 @@
+["datafusion/sqllogictest/Cargo.toml", "datafusion/sqllogictest/regenerate/src/engines/datafusion_engine/runner.rs", "datafusion/sqllogictest/regenerate/src/engines/postgres_engine/mod.rs", "datafusion/sqllogictest/regenerate_sqlite_files.sh"]

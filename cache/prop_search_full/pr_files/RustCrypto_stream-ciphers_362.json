@@ -1,0 +1,1 @@
+["Cargo.lock", "chacha20/Cargo.toml", "chacha20/src/xchacha.rs", "hc-256/Cargo.toml", "rabbit/Cargo.toml", "rc4/Cargo.toml", "rc4/tests/lib.rs", "salsa20/Cargo.toml"]

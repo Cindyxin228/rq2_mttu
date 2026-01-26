@@ -1,0 +1,1 @@
+["cargo-shuttle/src/client.rs", "cargo-shuttle/src/init.rs", "cargo-shuttle/src/provisioner_server.rs", "codegen/src/shuttle_main/mod.rs", "common/src/models/project.rs", "common/src/models/secret.rs", "common/src/models/service.rs", "common/src/project.rs"]

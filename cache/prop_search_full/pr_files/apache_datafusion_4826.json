@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/joins.rs", "datafusion/core/tests/sql/subqueries.rs", "datafusion/expr/src/utils.rs", "datafusion/optimizer/src/decorrelate_where_in.rs"]

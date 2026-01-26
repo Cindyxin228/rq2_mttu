@@ -1,0 +1,1 @@
+["src/client/Cargo.toml", "src/client/src/api/apps.rs", "src/client/src/client.rs", "src/client/src/errors.rs", "src/client/src/token.rs", "src/hyper/src/connector.rs", "src/models/src/apps/manifest.rs", "src/models/src/apps/mod.rs", "src/models/src/common/mod.rs", "src/models/src/lib.rs"]

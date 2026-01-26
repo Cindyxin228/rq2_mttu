@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/client.rs", "src/client/builder.rs", "src/client/disconnect.rs", "src/common/request_builder.rs", "src/common/send_request.rs", "src/ext.rs", "src/ext/make_cookie_string.rs"]

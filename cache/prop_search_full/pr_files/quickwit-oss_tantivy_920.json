@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/query/boolean_query/mod.rs", "src/query/boost_query.rs", "src/query/explanation.rs", "src/query/term_query/mod.rs", "src/query/term_query/term_weight.rs"]

@@ -1,0 +1,1 @@
+["src/decoder/wav.rs", "tests/audacity16bit.wav", "tests/audacity32bit.wav", "tests/lmms16bit.wav", "tests/lmms24bit.wav", "tests/lmms32bit.wav", "tests/wav_test.rs"]

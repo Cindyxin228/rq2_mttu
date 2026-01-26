@@ -1,0 +1,1 @@
+["Cargo.lock", "bindings/Cargo.lock", "bindings/binding_core_node/Cargo.toml", "bindings/binding_core_node/src/transform.rs", "crates/swc/Cargo.toml", "crates/swc/src/plugin.rs"]

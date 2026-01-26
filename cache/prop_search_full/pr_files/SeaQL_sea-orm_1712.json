@@ -1,0 +1,1 @@
+["src/executor/insert.rs", "src/query/insert.rs", "tests/upsert_tests.rs"]

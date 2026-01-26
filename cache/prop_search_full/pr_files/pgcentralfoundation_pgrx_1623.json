@@ -1,0 +1,1 @@
+["pgrx-sql-entity-graph/src/pgrx_attribute.rs", "pgrx-tests/src/tests/aggregate_tests.rs", "pgrx-tests/src/tests/anyarray_tests.rs", "pgrx-tests/src/tests/array_tests.rs", "pgrx-tests/src/tests/bgworker_tests.rs", "pgrx-tests/src/tests/fcinfo_tests.rs", "pgrx-tests/src/tests/postgres_type_tests.rs", "pgrx-tests/src/tests/struct_type_tests.rs"]

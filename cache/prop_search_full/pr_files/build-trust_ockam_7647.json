@@ -1,0 +1,1 @@
+["implementations/rust/ockam/ockam_api/src/authenticator/common.rs", "implementations/rust/ockam/ockam_api/src/authenticator/direct/direct_authenticator.rs", "implementations/rust/ockam/ockam_api/src/authenticator/enrollment_tokens/issuer.rs", "implementations/rust/ockam/ockam_api/tests/direct_authenticator.rs", "implementations/rust/ockam/ockam_api/tests/token_enrollment.rs"]

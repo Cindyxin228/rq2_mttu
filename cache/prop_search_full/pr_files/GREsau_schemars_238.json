@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "docs/4-features.md", "schemars/Cargo.toml", "schemars/src/json_schema_impls/mod.rs", "schemars/src/json_schema_impls/semver.rs", "schemars/tests/expected/semver.json", "schemars/tests/semver.rs"]

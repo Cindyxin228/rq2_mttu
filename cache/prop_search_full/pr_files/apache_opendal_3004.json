@@ -1,0 +1,1 @@
+["bindings/cpp/CMakeLists.txt", "bindings/cpp/include/opendal.hpp", "bindings/cpp/src/lib.rs", "bindings/cpp/src/opendal.cpp", "bindings/cpp/src/reader.rs", "bindings/cpp/src/types.rs", "bindings/cpp/tests/basic_test.cpp"]

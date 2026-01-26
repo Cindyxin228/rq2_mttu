@@ -1,0 +1,1 @@
+[".gitignore", "examples/usb_otg_no_crs_rtic/.cargo/config.toml", "examples/usb_otg_no_crs_rtic/.envrc", "examples/usb_otg_no_crs_rtic/Cargo.toml", "examples/usb_otg_no_crs_rtic/README.md", "examples/usb_otg_no_crs_rtic/memory.x", "examples/usb_otg_no_crs_rtic/rust-toolchain.toml", "examples/usb_otg_no_crs_rtic/shell.nix", "examples/usb_otg_no_crs_rtic/src/main.rs"]

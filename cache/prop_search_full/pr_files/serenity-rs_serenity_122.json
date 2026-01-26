@@ -1,0 +1,1 @@
+["Cargo.toml", "src/client/context.rs", "src/client/dispatch.rs", "src/client/mod.rs", "src/framework/mod.rs", "src/gateway/shard.rs", "src/lib.rs", "src/voice/connection.rs"]

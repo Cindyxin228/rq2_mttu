@@ -1,0 +1,1 @@
+[".dicts/custom.txt", ".github/workflows/cicd.yml", "Cargo.lock", "Cargo.toml", "deny.toml", "fundu-core/Cargo.toml", "fundu-core/src/config.rs", "fundu-core/src/error.rs", "fundu-core/src/lib.rs", "fundu-core/src/parse.rs", "fundu-gnu/src/lib.rs", "fundu-systemd/src/lib.rs", "fundu/src/custom/parser.rs", "fundu/src/lib.rs"]

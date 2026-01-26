@@ -1,0 +1,1 @@
+["scylla-proxy/src/proxy.rs", "scylla/src/client/pager.rs", "scylla/tests/integration/session/pager.rs"]

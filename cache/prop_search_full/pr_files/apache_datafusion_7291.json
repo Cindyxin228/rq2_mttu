@@ -1,0 +1,1 @@
+["datafusion/core/src/execution/context.rs", "datafusion/sql/src/parser.rs", "datafusion/sql/src/statement.rs", "datafusion/sql/tests/sql_integration.rs", "datafusion/sqllogictest/test_files/copy.slt", "datafusion/sqllogictest/test_files/explain.slt"]

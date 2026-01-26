@@ -1,0 +1,1 @@
+["core/store/src/cold_storage.rs", "core/store/src/metrics.rs", "integration-tests/src/tests/client/cold_storage.rs", "nearcore/src/cold_storage.rs", "tools/cold-store/src/cli.rs"]

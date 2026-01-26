@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/providers/Cargo.lock", "flake.lock", "tests/actors/rust/Cargo.lock", "tests/actors/rust/tcp-component-command/Cargo.lock"]

@@ -1,0 +1,1 @@
+["crates/nu-cli/src/types/deduction.rs", "crates/nu-data/src/value.rs", "crates/nu-engine/src/evaluate/operator.rs", "crates/nu-parser/src/parse.rs", "crates/nu-protocol/src/hir.rs"]

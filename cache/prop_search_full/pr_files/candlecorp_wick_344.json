@@ -1,0 +1,1 @@
+["crates/components/wick-sql/src/common/sql_wrapper.rs", "crates/components/wick-sql/src/error.rs", "crates/components/wick-sql/src/mssql_tiberius/component.rs", "crates/components/wick-sql/src/mssql_tiberius/sql_wrapper.rs"]

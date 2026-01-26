@@ -1,0 +1,1 @@
+["utoipa-gen/Cargo.toml", "utoipa-gen/src/component/features.rs", "utoipa-gen/src/component/schema.rs", "utoipa-gen/src/component/serde.rs", "utoipa-gen/src/lib.rs", "utoipa-gen/tests/schema_derive_test.rs", "utoipa/src/openapi/encoding.rs", "utoipa/src/openapi/schema.rs"]

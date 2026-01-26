@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "NEWS", "README.md", "justfile", "src/lib.rs", "src/logic.rs", "src/tasks.rs", "src/values.rs", "src/wal.rs", "tests/async/basic.rs", "tests/async/reopen.rs", "tests/sync/reopen.rs"]

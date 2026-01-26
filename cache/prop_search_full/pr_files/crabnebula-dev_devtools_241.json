@@ -1,0 +1,1 @@
+[".github/workflows/ci-v1.yml", "Cargo.lock", "Cargo.toml", "crates/devtools-core/Cargo.toml", "crates/devtools-core/src/aggregator.rs", "crates/devtools-core/src/layer.rs", "crates/devtools-v1/Cargo.lock", "crates/devtools-v1/Cargo.toml", "examples/tauri-v1/Cargo.lock", "examples/tauri-v1/Cargo.toml"]

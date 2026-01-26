@@ -1,0 +1,1 @@
+["maud/tests/warnings/non-string-literal.stderr", "maud_macros/src/ast.rs", "maud_macros/src/parse.rs"]

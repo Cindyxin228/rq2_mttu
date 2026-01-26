@@ -1,0 +1,1 @@
+["src/event/event_queue.rs", "test/napi/lib/threads.js", "test/napi/src/js/threads.rs", "test/napi/src/lib.rs"]

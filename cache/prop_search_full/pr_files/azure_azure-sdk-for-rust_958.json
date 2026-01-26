@@ -1,0 +1,1 @@
+["sdk/messaging_servicebus/tests/service_bus.rs", "sdk/storage_blobs/tests/append_blob.rs", "sdk/storage_blobs/tests/blob.rs", "sdk/storage_blobs/tests/page_blob.rs", "sdk/storage_blobs/tests/stream_blob00.rs", "sdk/storage_blobs/tests/stream_list_blobs.rs", "sdk/storage_datalake/examples/directory.rs"]

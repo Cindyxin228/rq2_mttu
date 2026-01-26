@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/session/botguard.rs", "src/session/innertube.rs", "src/session/manager.rs", "src/session/mod.rs", "tests/enhanced_session_manager.rs", "tests/session_manager_integration.rs"]

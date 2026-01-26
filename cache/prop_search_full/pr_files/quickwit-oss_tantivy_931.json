@@ -1,0 +1,1 @@
+["src/core/index.rs", "src/directory/file_watcher.rs", "src/directory/tests.rs", "src/directory/watch_event_router.rs", "src/reader/mod.rs"]

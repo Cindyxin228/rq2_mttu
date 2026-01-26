@@ -1,0 +1,1 @@
+["modelator/Cargo.toml", "modelator/src/cli/mod.rs", "modelator/src/error.rs", "modelator/src/model/checker/apalache/mod.rs", "modelator/src/model/language/tla/mod.rs"]

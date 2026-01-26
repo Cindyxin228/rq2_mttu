@@ -1,0 +1,1 @@
+["consensus/src/user/provisioners.rs", "contracts/stake/src/lib.rs", "contracts/stake/src/state.rs", "core/src/stake.rs", "rusk-recovery/src/state/snapshot.rs", "rusk-wallet/src/bin/io/prompt.rs", "rusk/tests/services/contract_stake.rs", "rusk/tests/services/moonlight_stake.rs", "rusk/tests/services/phoenix_stake.rs", "wallet-core/src/ffi.rs"]

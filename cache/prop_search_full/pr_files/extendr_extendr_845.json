@@ -1,0 +1,1 @@
+["CHANGELOG.md", "extendr-api/src/iter.rs", "extendr-api/src/wrapper/rstr.rs", "tests/extendrtests/.Rbuildignore", "tests/extendrtests/R/extendr-wrappers.R", "tests/extendrtests/src/rust/Cargo.toml", "tests/extendrtests/src/rust/src/lib.rs", "tests/extendrtests/src/rust/src/to_unique_character.rs", "tests/extendrtests/tests/testthat/_snaps/macro-snapshot.md"]

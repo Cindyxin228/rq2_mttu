@@ -1,0 +1,1 @@
+["lib/wasi/src/runners/wcgi/handler.rs", "lib/wasi/src/state/builder.rs", "lib/wasi/src/state/capabilities.rs"]

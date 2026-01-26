@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".vscode/settings.json", "CHANGELOG.md", "README.md", "clippy.toml", "schemars/Cargo.toml", "schemars/src/flatten.rs", "schemars/src/gen.rs", "schemars/src/lib.rs", "schemars/src/schema.rs", "schemars_derive/Cargo.toml", "schemars_derive/src/ast/mod.rs", "schemars_derive/src/attr/mod.rs", "schemars_derive/src/regex_syntax.rs"]

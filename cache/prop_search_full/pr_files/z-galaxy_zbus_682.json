@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "zbus/src/address/transport/autolaunch.rs", "zbus/src/connection/socket/tcp.rs", "zbus/src/connection/socket/unix.rs", "zbus/src/message/builder.rs", "zvariant/benches/benchmarks.rs", "zvariant/src/lib.rs"]

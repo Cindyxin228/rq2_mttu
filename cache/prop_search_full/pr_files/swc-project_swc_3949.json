@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/src/compress/optimize/strings.rs", "crates/swc_ecma_minifier/tests/compress/fixture/issues/3710/analysis-snapshot.rust-debug", "crates/swc_ecma_minifier/tests/compress/fixture/issues/3710/config.json", "crates/swc_ecma_minifier/tests/compress/fixture/issues/3710/input.js", "crates/swc_ecma_minifier/tests/compress/fixture/issues/3710/output.js"]

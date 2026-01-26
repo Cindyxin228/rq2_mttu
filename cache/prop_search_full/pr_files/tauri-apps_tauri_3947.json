@@ -1,0 +1,1 @@
+["core/tauri/Cargo.toml", "core/tauri/build.rs", "core/tauri/src/lib.rs", "examples/api/dist/assets/index.js", "examples/api/dist/assets/vendor.js", "examples/api/src-tauri/Cargo.toml", "examples/api/yarn.lock", "tooling/api/src/window.ts"]

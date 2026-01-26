@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/Cargo.toml", "crates/nu-cli/src/repl.rs", "crates/nu-command/Cargo.toml", "crates/nu-command/src/platform/ansi/ansi_.rs", "crates/nu-command/src/strings/char_.rs", "crates/nu-command/src/viewers/icons.rs", "crates/nu-json/Cargo.toml", "crates/nu-json/src/ser.rs", "crates/nu-test-support/Cargo.toml", "crates/nu-test-support/src/locale_override.rs"]

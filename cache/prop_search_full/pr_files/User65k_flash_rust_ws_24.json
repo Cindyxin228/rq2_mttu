@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".github/workflows/windows.yml", "Cargo.toml", "src/config.rs", "src/dispatch/fcgi.rs", "src/dispatch/mod.rs", "src/dispatch/test.rs", "src/dispatch/webpath.rs", "src/dispatch/websocket.rs", "src/main.rs"]

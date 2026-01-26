@@ -1,0 +1,1 @@
+["ci/xtask/Cargo.lock", "ci/xtask/Cargo.toml", "scripts/increment-cargo-version.sh"]

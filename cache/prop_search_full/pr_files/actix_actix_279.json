@@ -1,0 +1,1 @@
+["examples/chat/src/main.rs", "src/actors/mocker.rs", "src/address/channel.rs", "src/address/envelope.rs", "src/address/message.rs", "src/address/mod.rs", "src/contextimpl.rs", "src/contextitems.rs", "src/handler.rs", "src/registry.rs", "src/sync.rs", "src/utils.rs"]

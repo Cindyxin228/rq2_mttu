@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/npm/resolution.rs", "cli/npm/semver/mod.rs", "cli/npm/semver/specifier.rs", "cli/tests/testdata/npm/dual_cjs_esm/main.ts"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "build.rs", "res/seccomp-i686.bpf", "res/seccomp-x86_64.bpf", "src/rua_paths.rs"]

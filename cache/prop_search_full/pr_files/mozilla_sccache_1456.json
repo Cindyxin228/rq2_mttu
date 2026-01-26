@@ -1,0 +1,1 @@
+["scripts/extratest.sh", "tests/sccache_rustc.rs"]

@@ -1,0 +1,1 @@
+["examples/user-account/src/main.rs", "examples/user-account/src/user_account.rs", "lib/src/event_store.rs", "lib/src/types.rs", "test-utils/src/docker.rs", "test-utils/src/dynamodb.rs"]

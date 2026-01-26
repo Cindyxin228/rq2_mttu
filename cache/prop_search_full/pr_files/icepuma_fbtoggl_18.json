@@ -1,0 +1,1 @@
+["Cargo.lock", "src/client.rs", "src/client_tests.rs", "src/commands/reports.rs", "src/commands/time_entries.rs", "src/commands/time_entries_tests.rs", "src/model.rs"]

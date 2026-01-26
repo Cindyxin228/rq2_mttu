@@ -1,0 +1,1 @@
+["README.md", "arrow2_convert/Cargo.toml", "arrow2_convert/src/deserialize.rs", "arrow2_convert/src/field.rs", "arrow2_convert/src/serialize.rs", "arrow2_convert/tests/complex_example.rs", "arrow2_convert/tests/test_round_trip.rs", "arrow2_convert/tests/test_schema.rs", "arrow2_convert/tests/test_serialize.rs", "arrow2_convert_derive/src/_struct.rs"]

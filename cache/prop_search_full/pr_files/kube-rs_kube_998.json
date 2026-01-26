@@ -1,0 +1,1 @@
+["kube-client/src/client/upgrade.rs", "kube-client/src/config/file_config.rs", "kube-client/src/config/incluster_config.rs", "kube-client/src/lib.rs", "kube-core/src/object.rs", "kube-core/src/params.rs", "kube-runtime/src/controller/mod.rs", "kube-runtime/src/scheduler.rs", "kube-runtime/src/utils/mod.rs", "kube/src/lib.rs"]

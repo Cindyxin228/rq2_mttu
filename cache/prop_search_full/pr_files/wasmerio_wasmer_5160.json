@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/fd_seek.rs", "lib/wasix/src/syscalls/wasi/fd_write.rs", "tests/wasi-fyi/fd_seek_append.rs", "tests/wasi-fyi/fs_seek_append_mode.rs", "tests/wasi-fyi/test_fs/fyi/fs_seek_append.dir/file"]

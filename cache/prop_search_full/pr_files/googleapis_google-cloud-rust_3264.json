@@ -1,0 +1,1 @@
+[".github/workflows/sdk.yaml", "src/auth/Cargo.toml", "src/gax/Cargo.toml", "src/generated/cloud/location/.sidekick.toml", "src/generated/iam/v1/.sidekick.toml", "src/generated/longrunning/.sidekick.toml", "src/lro/Cargo.toml", "src/wkt/Cargo.toml"]

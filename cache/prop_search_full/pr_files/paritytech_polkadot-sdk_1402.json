@@ -1,0 +1,1 @@
+[".github/pr-custom-review.yml", ".gitlab-ci.yml", ".gitlab/pipeline/build.yml", ".gitlab/pipeline/check.yml", ".gitlab/pipeline/publish.yml", ".gitlab/pipeline/test.yml", ".gitlab/test_deterministic_wasm.sh"]

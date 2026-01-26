@@ -1,0 +1,1 @@
+["iroh/src/discovery.rs", "iroh/src/discovery/dns.rs", "iroh/src/discovery/mdns.rs", "iroh/src/discovery/pkarr.rs", "iroh/src/discovery/pkarr/dht.rs", "iroh/src/discovery/static_provider.rs", "iroh/src/endpoint.rs"]

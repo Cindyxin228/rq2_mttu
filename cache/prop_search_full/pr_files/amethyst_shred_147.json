@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/batch_dispatching.rs", "src/cell.rs", "src/dispatch/async_dispatcher.rs", "src/dispatch/batch.rs", "src/dispatch/builder.rs", "src/dispatch/dispatcher.rs", "src/dispatch/mod.rs", "src/dispatch/stage.rs", "src/lib.rs"]

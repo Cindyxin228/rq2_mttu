@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/src/option/mod.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/preserver.rs", "crates/swc_ecma_minifier/src/pass/mangle_props.rs", "crates/swc_ecma_minifier/tests/mangle.rs"]

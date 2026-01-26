@@ -1,0 +1,1 @@
+[".envrc", ".github/dependabot.yml", ".github/workflows/daily.yml", ".github/workflows/upgrade_deps.yml", ".gitignore", "flake.lock", "flake.nix", "src/main.rs"]

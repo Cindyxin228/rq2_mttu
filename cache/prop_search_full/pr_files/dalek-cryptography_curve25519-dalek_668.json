@@ -1,0 +1,1 @@
+["curve25519-dalek/src/backend/serial/scalar_mul/precomputed_straus.rs", "curve25519-dalek/src/backend/vector/scalar_mul/precomputed_straus.rs", "curve25519-dalek/src/ristretto.rs", "curve25519-dalek/src/traits.rs"]

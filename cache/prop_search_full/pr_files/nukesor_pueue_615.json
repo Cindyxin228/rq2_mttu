@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "pueue/Cargo.toml", "pueue/src/daemon/internal_state/state.rs", "pueue/src/daemon/mod.rs", "pueue/tests/daemon/integration/restore.rs", "pueue/tests/daemon/state_backward_compatibility.rs", "pueue/tests/tests.rs", "pueue_lib/src/settings.rs", "pueue_lib/tests/settings_backward_compatibility.rs"]

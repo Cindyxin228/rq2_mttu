@@ -1,0 +1,1 @@
+["src/fixtures/containers_response.json", "src/fixtures/filesystem_changes.json", "src/fixtures/image.json", "src/fixtures/image_history.json", "src/fixtures/image_list.json", "src/fixtures/processes.json", "src/fixtures/system_info.json", "src/fixtures/version.json", "src/test.rs"]

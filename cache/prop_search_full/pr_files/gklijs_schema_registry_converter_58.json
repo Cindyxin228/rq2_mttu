@@ -1,0 +1,1 @@
+["Cargo.toml", "src/async_impl/avro.rs", "src/async_impl/easy_avro.rs", "src/async_impl/easy_json.rs", "src/async_impl/easy_proto_decoder.rs", "src/async_impl/easy_proto_raw.rs", "src/async_impl/mod.rs", "src/async_impl/proto_raw.rs", "test_utils/src/lib.rs"]

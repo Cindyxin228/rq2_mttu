@@ -1,0 +1,1 @@
+["schemars/src/_private.rs", "schemars/src/generate.rs", "schemars/src/json_schema_impls/maps.rs", "schemars/src/transform.rs", "schemars/tests/enum_flatten.rs", "schemars/tests/expected/enum_flatten.json", "schemars/tests/expected/enum_flatten_duf.json", "schemars/tests/expected/enum_flatten_duf_draft07.json", "schemars/tests/flatten.rs"]

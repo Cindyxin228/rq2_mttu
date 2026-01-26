@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "application/server/src/server/print.rs", "application/server/src/server/stems.rs", "bin/pad.rs", "bin/real_time.rs", "bin/stems.rs", "bin/wsc.rs", "src/generation/json.rs", "src/generation/parsed_to_render.rs", "src/manager/buffer_manager.rs", "src/manager/mod.rs", "src/manager/render_manager.rs", "src/write.rs"]

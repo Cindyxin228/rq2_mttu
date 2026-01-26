@@ -1,0 +1,1 @@
+["src/quadrature.rs", "src/quadrature/subdivide.rs", "src/quadrature/tensor.rs", "src/quadrature/univariate.rs", "tests/unit_tests/quadrature/mod.rs", "tests/unit_tests/quadrature/subdivide.rs"]

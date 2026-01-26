@@ -1,0 +1,1 @@
+["fuzz/src/router.rs", "lightning-invoice/src/utils.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/routing/router.rs"]

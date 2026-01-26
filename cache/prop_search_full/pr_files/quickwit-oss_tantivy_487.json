@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/fastfield/multivalued/mod.rs", "src/indexer/merger.rs", "src/indexer/segment_writer.rs", "src/lib.rs", "src/postings/postings_writer.rs", "src/query/query_parser/query_parser.rs", "src/schema/document.rs", "src/schema/field_entry.rs", "src/schema/field_type.rs", "src/schema/schema.rs", "src/schema/term.rs", "src/schema/value.rs"]

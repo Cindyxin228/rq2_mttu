@@ -1,0 +1,1 @@
+["Cargo.toml", "ffi/src/credentials_attributes.rs", "ffi/src/sec_handle.rs", "src/dns.rs", "src/kdc.rs", "src/krb.rs", "src/sspi/kerberos.rs", "src/sspi/negotiate.rs"]

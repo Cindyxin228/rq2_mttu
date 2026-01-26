@@ -1,0 +1,1 @@
+["alacritty/src/display/hint.rs", "alacritty/src/display/mod.rs", "alacritty/src/event.rs", "alacritty/src/input.rs", "alacritty/src/string.rs", "alacritty_terminal/src/ansi.rs", "alacritty_terminal/src/grid/row.rs", "alacritty_terminal/src/tty/unix.rs"]

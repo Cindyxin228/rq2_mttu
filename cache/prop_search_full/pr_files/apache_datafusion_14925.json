@@ -1,0 +1,1 @@
+["datafusion/physical-expr/src/equivalence/mod.rs", "datafusion/physical-expr/src/equivalence/properties.rs", "datafusion/physical-expr/src/equivalence/properties/dependency.rs", "datafusion/physical-expr/src/equivalence/properties/joins.rs", "datafusion/physical-expr/src/equivalence/properties/mod.rs", "datafusion/physical-expr/src/equivalence/properties/union.rs"]

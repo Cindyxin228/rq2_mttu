@@ -1,0 +1,1 @@
+["CHANGELOG.md", "client/client.rs", "tests/client_tests.rs", "tests/daemon/add.rs", "tests/daemon/stashed.rs", "tests/daemon_tests.rs", "tests/factories.rs", "tests/helper/task.rs"]

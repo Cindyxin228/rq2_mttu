@@ -1,0 +1,1 @@
+["src/bin/main.rs", "src/build/manifest.hbs", "src/v2/codegen/mod.rs", "src/v2/codegen/state.rs", "tests/snapshots/test_codegen__tests__test_pet__no_root__Cargo.toml.snap", "tests/test_codegen.rs"]

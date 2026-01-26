@@ -1,0 +1,1 @@
+[".github/workflows/actions-nightly.yml", ".github/workflows/actions.yml", ".github/workflows/template-test-current.yml", ".github/workflows/template-test-released.yml", "Cargo.lock", "contracts/core/price-aggregator/scenarios/stress_submit_test.scen.json"]

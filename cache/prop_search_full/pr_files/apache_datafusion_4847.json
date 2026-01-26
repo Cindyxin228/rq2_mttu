@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/aggregate.slt", "datafusion/physical-expr/src/aggregate/stddev.rs", "datafusion/physical-expr/src/aggregate/variance.rs"]

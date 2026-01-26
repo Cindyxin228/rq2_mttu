@@ -1,0 +1,1 @@
+["Cargo.lock", "src/cargo/core/manifest.rs", "src/cargo/core/package.rs", "src/cargo/core/summary.rs", "src/cargo/sources/registry/mod.rs", "src/cargo/util/toml/mod.rs", "src/crates-io/lib.rs", "tests/package.rs", "tests/resolve.rs"]

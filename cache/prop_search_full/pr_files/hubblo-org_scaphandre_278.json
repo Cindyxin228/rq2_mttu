@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docker-compose/dashboards/sample-dashboard.json", "docker-compose/sample.jsonnet", "src/exporters/json.rs", "src/exporters/mod.rs", "src/exporters/stdout.rs", "src/sensors/mod.rs", "src/sensors/utils.rs"]

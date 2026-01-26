@@ -1,0 +1,1 @@
+["Cargo.toml", "src/ipc.rs", "src/platform/inprocess/mod.rs", "src/platform/macos/mod.rs", "src/platform/unix/mod.rs", "src/platform/windows/mod.rs", "src/test.rs"]

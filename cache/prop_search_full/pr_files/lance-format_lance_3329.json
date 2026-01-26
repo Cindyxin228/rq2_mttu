@@ -1,0 +1,1 @@
+["python/python/tests/test_scalar_index.py", "rust/lance-index/src/scalar/bitmap.rs", "rust/lance-index/src/scalar/btree.rs", "rust/lance-index/src/scalar/label_list.rs"]

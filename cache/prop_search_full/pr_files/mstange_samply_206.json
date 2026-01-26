@@ -1,0 +1,1 @@
+["samply/src/windows/chrome_etw_flags.rs", "samply/src/windows/coreclr.rs", "samply/src/windows/etw_gecko.rs", "samply/src/windows/firefox_etw_flags.rs", "samply/src/windows/import.rs", "samply/src/windows/mod.rs", "samply/src/windows/profile_context.rs", "samply/src/windows/profiler.rs"]

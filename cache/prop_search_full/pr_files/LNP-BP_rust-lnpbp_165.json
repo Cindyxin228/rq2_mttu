@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bp/derivation/mod.rs", "src/bp/derivation/slip32.rs", "src/bp/invoice.rs", "src/bp/mod.rs", "src/bp/scripts/descriptors.rs", "src/bp/scripts/mod.rs", "src/bp/scripts/script_pubkey.rs", "src/bp/scripts/tracking.rs", "src/bp/scripts/tweak.rs"]

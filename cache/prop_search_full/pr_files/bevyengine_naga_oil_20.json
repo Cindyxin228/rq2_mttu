@@ -1,0 +1,1 @@
+["Cargo.toml", "readme.md", "src/compose/mod.rs", "src/compose/preprocess.rs", "src/compose/tests/item_import/top.wgsl", "src/derive.rs", "src/lib.rs", "src/prune/mod.rs", "src/util.rs"]

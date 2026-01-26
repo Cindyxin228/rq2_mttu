@@ -1,0 +1,1 @@
+["Cargo.toml", "lib/api/Cargo.toml", "lib/cache/Cargo.toml", "lib/cli/Cargo.toml", "lib/registry/Cargo.toml", "lib/virtual-fs/Cargo.toml", "lib/wasix/Cargo.toml", "tests/integration/cli/Cargo.toml", "tests/lib/wast/Cargo.toml", "tests/wasi-wast/Cargo.toml"]

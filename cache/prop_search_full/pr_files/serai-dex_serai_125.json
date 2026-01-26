@@ -1,0 +1,1 @@
+[".github/actions/build-dependencies/action.yml", "Cargo.lock", "docs/Getting Started.md", "substrate/consensus/src/lib.rs", "substrate/node/Cargo.toml", "substrate/node/src/command.rs", "substrate/node/src/command_helper.rs", "substrate/node/src/service.rs", "substrate/runtime/src/lib.rs"]

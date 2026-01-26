@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/register.rh", "mdbook_rash/src/lib.rs", "rash_book/src/builtins.md", "rash_book/src/module_index.md", "rash_core/Cargo.toml", "rash_core/src/modules/assert.rs", "rash_core/src/modules/command.rs", "rash_core/src/modules/find.rs", "rash_core/src/modules/mod.rs", "rash_core/src/modules/set_vars.rs", "rash_core/src/vars/builtin.rs"]

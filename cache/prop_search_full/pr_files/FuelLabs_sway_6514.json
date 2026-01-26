@@ -1,0 +1,1 @@
+["sway-lib-std/src/auth.sw", "test/src/sdk-harness/test_artifacts/auth_testing_abi/src/main.sw", "test/src/sdk-harness/test_artifacts/auth_testing_contract/src/main.sw", "test/src/sdk-harness/test_projects/auth/mod.rs"]

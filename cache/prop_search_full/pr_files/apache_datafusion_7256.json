@@ -1,0 +1,1 @@
+["datafusion/core/tests/sqllogictests/test_files/scalar.slt", "datafusion/expr/src/operator.rs", "datafusion/sql/src/expr/binary_op.rs"]

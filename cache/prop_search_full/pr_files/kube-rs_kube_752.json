@@ -1,0 +1,1 @@
+["architecture.md", "kube-client/Cargo.toml", "kube-client/src/client/auth/mod.rs", "kube-client/src/client/auth/oauth.rs", "kube-client/src/client/config_ext.rs", "kube-client/src/client/middleware/mod.rs", "kube-client/src/client/middleware/refresh_token.rs"]

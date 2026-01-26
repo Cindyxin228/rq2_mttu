@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/ast.rs", "src/rewriting/mod.rs", "src/sql/expr.rs", "src/sql/mod.rs", "src/sql/query_aliases.rs", "src/sql/relation.rs", "tests/integration.rs"]

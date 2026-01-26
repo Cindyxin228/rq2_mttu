@@ -1,0 +1,1 @@
+["rust/CHANGELOG.md", "rust/automerge-wasm/src/lib.rs", "rust/automerge/Cargo.toml", "rust/automerge/src/autocommit.rs", "rust/automerge/src/transaction/manual_transaction.rs", "rust/automerge/src/transaction/transactable.rs", "rust/automerge/tests/block_tests.rs", "rust/automerge/tests/text.rs"]

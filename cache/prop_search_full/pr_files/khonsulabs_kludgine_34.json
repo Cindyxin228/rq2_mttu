@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/shapes.rs", "src/color.rs", "src/frame.rs", "src/lib.rs", "src/math/point.rs", "src/math/rect.rs", "src/scene.rs", "src/shape/batch.rs", "src/shape/circle.rs", "src/shape/fill.rs", "src/shape/geometry.rs", "src/shape/mod.rs", "src/shape/path.rs", "src/shape/stroke.rs", "src/ui/component.rs", "src/window/renderer.rs"]

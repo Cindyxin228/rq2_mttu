@@ -1,0 +1,1 @@
+["mosec/dry_run.py", "mosec/env.py", "mosec/manager.py", "mosec/server.py", "src/args.rs", "src/main.rs", "src/protocol.rs", "tests/square_service.py", "tests/test_coordinator.py", "tests/test_service.py"]

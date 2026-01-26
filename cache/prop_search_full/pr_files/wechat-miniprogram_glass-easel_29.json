@@ -1,0 +1,1 @@
+["glass-easel/src/backend/backend_protocol.ts", "glass-easel/src/backend/composed_backend_protocol.ts", "glass-easel/src/backend/domlike_backend_protocol.ts", "glass-easel/src/native_node.ts", "glass-easel/src/tmpl/proc_gen_wrapper.ts", "glass-easel/tests/tmpl/lvalue.test.ts"]

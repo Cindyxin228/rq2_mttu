@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "e2e/bash/icx-asset.bash", "ic-asset/Cargo.toml", "ic-asset/src/asset_canister/protocol.rs", "ic-asset/src/asset_config.rs", "ic-asset/src/lib.rs", "ic-asset/src/operations.rs", "ic-asset/src/plumbing.rs", "ic-asset/src/sync.rs", "ic-asset/src/upload.rs"]

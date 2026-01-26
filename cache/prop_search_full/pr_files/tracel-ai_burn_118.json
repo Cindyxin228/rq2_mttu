@@ -1,0 +1,1 @@
+["burn-autodiff/src/ops/tensor.rs", "burn-ndarray/src/tensor.rs", "burn-ndarray/src/tensor_ops.rs", "burn-tch/src/tensor_ops.rs", "burn-tensor/src/tensor/base.rs", "burn-tensor/src/tensor/bool_tensor.rs", "burn-tensor/src/tensor/ops/base.rs", "burn/src/nn/attention/mha.rs", "burn/src/nn/attention/mod.rs", "burn/src/nn/mod.rs"]

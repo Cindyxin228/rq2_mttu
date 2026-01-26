@@ -1,0 +1,1 @@
+["crates/wasi-experimental-http-wasmtime/src/lib.rs", "tests/as/index.ts", "tests/integration.rs", "tests/rust/src/lib.rs"]

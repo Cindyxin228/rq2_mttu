@@ -1,0 +1,1 @@
+[".factory/automation.yml", "RELEASE_NOTES_LATEST.md", "RELEASE_TEMPLATE.md", "VERSION", "dependencies/vaticle/repositories.bzl", "java/test/behaviour/query/QuerySteps.java", "nodejs/BUILD", "nodejs/connection/TypeDBDriverImpl.ts", "nodejs/test/behaviour/query/QuerySteps.ts", "python/tests/behaviour/query/query_steps.py", "rust/tests/behaviour/query/language/steps.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "ffi/src/handle.rs", "ffi/tests/invalid-handle-code/mut-clone-handle.stderr", "ffi/tests/invalid-handle-code/shared-as-mut.stderr", "ffi/tests/invalid-handle-code/shared-not-sync.stderr"]

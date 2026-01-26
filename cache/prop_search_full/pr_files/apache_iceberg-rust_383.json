@@ -1,0 +1,1 @@
+["crates/iceberg/src/arrow/schema.rs", "crates/iceberg/src/spec/datatypes.rs", "crates/iceberg/src/spec/schema.rs", "crates/iceberg/src/writer/base_writer/data_file_writer.rs", "crates/iceberg/src/writer/file_writer/parquet_writer.rs", "crates/iceberg/src/writer/mod.rs"]

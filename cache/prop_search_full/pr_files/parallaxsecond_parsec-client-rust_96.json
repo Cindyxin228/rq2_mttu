@@ -1,0 +1,1 @@
+[".cargo/audit.toml", ".github/workflows/ci.yml", "Cargo.toml", "src/core/basic_client.rs", "src/core/testing/core_tests.rs", "tests/ci.sh", "tests/mock_service.rs"]

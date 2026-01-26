@@ -1,0 +1,1 @@
+["crates/noirc_frontend/src/ast/expression.rs", "crates/noirc_frontend/src/ast/statement.rs", "crates/noirc_frontend/src/parser/errors.rs", "crates/noirc_frontend/src/parser/parser.rs"]

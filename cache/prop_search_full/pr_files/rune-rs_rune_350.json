@@ -1,0 +1,1 @@
+["crates/rune/src/runtime/function.rs", "crates/rune/src/runtime/protocol_caller.rs", "crates/rune/src/runtime/value.rs", "crates/rune/src/runtime/vm.rs"]

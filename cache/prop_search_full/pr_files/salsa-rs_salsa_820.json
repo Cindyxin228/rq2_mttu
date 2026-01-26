@@ -1,0 +1,1 @@
+["components/salsa-macro-rules/src/setup_tracked_fn.rs", "components/salsa-macros/src/tracked_fn.rs", "src/function.rs", "src/lib.rs", "src/update.rs", "tests/compile-fail/tracked_fn_return_not_update.rs", "tests/compile-fail/tracked_fn_return_not_update.stderr", "tests/compile-fail/tracked_struct_not_update.rs", "tests/compile-fail/tracked_struct_not_update.stderr"]

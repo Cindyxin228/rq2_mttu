@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "console-subscriber/examples/app.rs", "console-subscriber/tests/spawn.rs", "console-subscriber/tests/support/mod.rs", "console-subscriber/tests/support/subscriber.rs", "console-subscriber/tests/support/task.rs", "console-subscriber/tests/wake.rs"]

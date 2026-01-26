@@ -1,0 +1,1 @@
+[".github/workflows/bindings_python.yml", "bindings/python/opendal.pyi", "bindings/python/src/asyncio.rs", "bindings/python/src/lib.rs", "bindings/python/tests/test_core.py"]

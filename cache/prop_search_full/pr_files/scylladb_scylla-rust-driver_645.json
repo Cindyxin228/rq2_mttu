@@ -1,0 +1,1 @@
+["scylla/src/transport/connection.rs", "scylla/src/transport/iterator.rs", "scylla/src/transport/query_result.rs", "scylla/src/transport/topology.rs"]

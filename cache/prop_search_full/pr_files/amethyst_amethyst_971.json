@@ -1,0 +1,1 @@
+["amethyst_renderer/src/sprite.rs", "book/src/SUMMARY.md", "book/src/sprites.md", "book/src/sprites/define_the_sprite_sheet.md", "book/src/sprites/load_the_texture.md", "book/src/sprites/orthographic_camera.md", "book/src/sprites/set_up_the_render_pass.md", "book/src/sprites/sprite_render_component.md", "docs/CHANGELOG.md", "examples/sprites_ordered/main.rs"]

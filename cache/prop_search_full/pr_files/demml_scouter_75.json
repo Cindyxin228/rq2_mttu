@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/scouter_events/src/producer/producer_enum.rs", "crates/scouter_server/src/api/archive.rs", "crates/scouter_server/src/main.rs", "crates/scouter_sql/src/sql/scripts/psi/get_bin_count_entities_for_archive.sql", "py-scouter/pyproject.toml"]

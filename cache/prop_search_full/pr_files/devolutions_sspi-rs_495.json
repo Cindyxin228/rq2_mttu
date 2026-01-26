@@ -1,0 +1,1 @@
+["ffi/src/sspi/sec_handle.rs", "src/credssp/mod.rs", "src/credssp/sspi_cred_ssp/mod.rs", "src/kerberos/mod.rs", "src/lib.rs", "src/negotiate.rs", "src/ntlm/mod.rs", "src/pku2u/mod.rs"]

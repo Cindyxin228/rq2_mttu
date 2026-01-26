@@ -1,0 +1,1 @@
+[".devcontainer/devcontainer.json", "examples/Cargo.toml", "examples/crd_derive_multi.rs", "kube-client/src/error.rs", "kube-core/Cargo.toml", "kube-core/src/crd.rs", "kube-derive/src/lib.rs"]

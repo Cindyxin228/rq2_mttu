@@ -1,0 +1,1 @@
+["webrender/src/prim_store/gradient.rs", "wrench/reftests/gradient/linear-hard-stop-ref.png", "wrench/reftests/gradient/linear-hard-stop.yaml", "wrench/reftests/gradient/reftest.list"]

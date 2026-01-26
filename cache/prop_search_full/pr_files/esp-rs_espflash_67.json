@@ -1,0 +1,1 @@
+["espflash/src/flasher.rs", "espflash/src/image_format/esp32bootloader.rs", "espflash/src/image_format/esp8266.rs"]

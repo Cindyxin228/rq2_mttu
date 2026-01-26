@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "app/Cargo.toml", "app/src/main.rs", "crates/git_rev/Cargo.toml", "crates/git_rev/README.md", "crates/git_rev/build.rs", "crates/git_rev/src/lib.rs", "crates/native_std/Cargo.toml", "crates/native_std/src/lib.rs"]

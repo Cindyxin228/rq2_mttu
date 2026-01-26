@@ -1,0 +1,1 @@
+["ffi/src/common.rs", "ffi/src/credentials_attributes.rs", "ffi/src/sec_buffer.rs", "ffi/src/sec_handle.rs", "ffi/src/sec_pkg_info.rs", "ffi/src/security_tables.rs", "ffi/src/sspi_data_types.rs", "src/winapi/mod.rs", "tools/sspi-ffi-attacker/src/types.rs"]

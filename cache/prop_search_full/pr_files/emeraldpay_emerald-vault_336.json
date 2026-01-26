@@ -1,0 +1,1 @@
+["Cargo.lock", "src/sign/bitcoin.rs", "src/sign/ethereum.rs", "src/sign/key_source.rs", "src/storage/vault_bitcoin.rs", "src/storage/vault_ethereum.rs"]

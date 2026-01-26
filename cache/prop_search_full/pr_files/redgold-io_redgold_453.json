@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "bin/gui.sh", "src/gui/app_loop.rs", "src/gui/tabs/server_tab.rs", "src/infra/deploy.rs"]

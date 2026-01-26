@@ -1,0 +1,1 @@
+["hil-test/Cargo.toml", "hil-test/src/bin/clock_monitor.rs", "hil-test/src/bin/critical_section.rs", "hil-test/src/bin/delay_async.rs", "hil-test/src/bin/dma_macros.rs", "hil-test/src/bin/dma_mem2mem.rs", "hil-test/src/bin/init.rs", "hil-test/src/bin/misc_non_drivers.rs", "hil-test/src/bin/misc_simple.rs"]

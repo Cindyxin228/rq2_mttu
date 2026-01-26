@@ -1,0 +1,1 @@
+["Cargo.toml", "requirements.txt", "src/generator/templates/Cargo.toml.mako", "src/generator/templates/api/api.rs.mako", "src/generator/templates/api/lib/mbuild.mako", "src/generator/templates/cli/mkdocs.yml.mako", "src/rust/api/client.rs"]

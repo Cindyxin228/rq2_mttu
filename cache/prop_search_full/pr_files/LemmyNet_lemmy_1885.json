@@ -1,0 +1,1 @@
+["crates/api/src/comment.rs", "crates/api/src/post.rs", "crates/api_crud/src/comment/create.rs", "crates/api_crud/src/post/create.rs", "crates/apub/src/activities/deletion/mod.rs", "crates/apub/src/activity_lists.rs", "crates/apub/src/fetcher/post_or_comment.rs", "crates/apub/src/http/mod.rs"]

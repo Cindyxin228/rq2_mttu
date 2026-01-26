@@ -1,0 +1,1 @@
+["Cargo.toml", "changelog.md", "src/in_game.rs", "src/in_game/types.rs", "src/lib.rs", "src/rest.rs", "src/utils/encoder.rs", "src/utils/process_info.rs", "src/utils/request.rs", "src/utils/setup_tls.rs", "src/ws.rs"]

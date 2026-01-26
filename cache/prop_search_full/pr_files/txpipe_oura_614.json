@@ -1,0 +1,1 @@
+[".github/CONTRIBUTING.md", ".gitignore", "Cargo.lock", "Cargo.toml", "docker-compose.yaml", "examples/rabbitmq/daemon.toml", "src/sinks/mod.rs", "src/sinks/rabbitmq.rs"]

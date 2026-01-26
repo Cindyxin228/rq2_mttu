@@ -1,0 +1,1 @@
+["justfile", "src/server.rs", "src/xml.rs", "testing/fixtures/basic_xml/bar/__manifest__.py", "testing/fixtures/basic_xml/bar/models.py", "testing/fixtures/basic_xml/bar/records.xml", "testing/fixtures/basic_xml/foo/__manifest__.py", "testing/fixtures/basic_xml/foo/records.xml"]

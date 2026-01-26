@@ -1,0 +1,1 @@
+["iceberg-rust/src/model/table_metadata.rs", "iceberg-rust/src/model/view_metadata.rs", "iceberg-rust/src/table/table_builder.rs", "iceberg-rust/src/view/view_builder.rs"]

@@ -1,0 +1,1 @@
+["diesel/src/macros/mod.rs", "diesel/src/pg/query_builder/mod.rs", "diesel/src/query_builder/ast_pass.rs", "diesel/src/query_builder/mod.rs", "diesel/src/sqlite/backend.rs", "diesel/src/sqlite/query_builder/mod.rs", "diesel/src/sqlite/query_builder/returning.rs", "diesel_tests/tests/insert.rs"]

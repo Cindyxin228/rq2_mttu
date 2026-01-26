@@ -1,0 +1,1 @@
+["crates/wasi/src/preview2/pipe.rs", "crates/wasi/src/preview2/preview1.rs", "crates/wasi/src/preview2/stdio/worker_thread_stdin.rs", "tests/all/cli_tests.rs", "tests/all/cli_tests/count-stdin.wat"]

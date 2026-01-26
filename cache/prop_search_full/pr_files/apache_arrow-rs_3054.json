@@ -1,0 +1,1 @@
+["arrow-array/src/array/fixed_size_binary_array.rs", "arrow-select/src/take.rs", "arrow/src/array/ffi.rs", "arrow/src/compute/kernels/comparison.rs", "arrow/src/compute/kernels/sort.rs", "arrow/src/compute/kernels/substring.rs", "arrow/src/ffi.rs", "arrow/src/util/bench_util.rs", "arrow/tests/array_transform.rs"]

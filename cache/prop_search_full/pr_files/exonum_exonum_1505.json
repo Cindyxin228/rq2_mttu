@@ -1,0 +1,1 @@
+["components/crypto/src/proto/schema/types.proto", "components/merkledb/src/proto/list_proof.proto", "components/merkledb/src/proto/map_proof.proto", "components/proto/src/proto/common.proto", "exonum/src/proto/schema/exonum/blockchain.proto", "exonum/src/proto/schema/exonum/consensus.proto", "exonum/src/proto/schema/exonum/runtime.proto"]

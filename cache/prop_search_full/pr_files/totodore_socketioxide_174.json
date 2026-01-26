@@ -1,0 +1,1 @@
+["engineioxide/src/config.rs", "engineioxide/src/lib.rs", "engineioxide/src/service/hyper_v1.rs", "engineioxide/src/service/mod.rs", "engineioxide/src/transport/polling/mod.rs", "socketioxide/src/client.rs", "socketioxide/src/errors.rs", "socketioxide/src/io.rs", "socketioxide/src/lib.rs", "socketioxide/src/packet.rs"]

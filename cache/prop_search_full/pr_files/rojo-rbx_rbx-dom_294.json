@@ -1,0 +1,1 @@
+["rbx_binary/src/cframe.rs", "rbx_binary/src/deserializer/state.rs", "rbx_binary/src/lib.rs", "rbx_binary/src/serializer/state.rs", "rbx_binary/src/text_deserializer.rs", "rbx_types/src/basic_types.rs", "rbx_types/src/error.rs"]

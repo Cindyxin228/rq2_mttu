@@ -1,0 +1,1 @@
+["Cargo.toml", "src/board.rs", "src/custom_engine.rs", "src/evaluate/evaluate_non_nnue.rs", "src/lib.rs", "src/search.rs", "src/sorter.rs", "src/tests.rs", "src/uci.rs", "tests/board.rs", "tests/serde.rs"]

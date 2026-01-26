@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "server/Cargo.toml", "server/src/bin.rs", "server/src/lib.rs", "server/src/serve.rs", "server/src/tray_icon.rs"]

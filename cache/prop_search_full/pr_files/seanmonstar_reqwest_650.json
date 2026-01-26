@@ -1,0 +1,1 @@
+["tests/blocking.rs", "tests/client.rs", "tests/cookie.rs", "tests/gzip.rs", "tests/multipart.rs", "tests/proxy.rs", "tests/redirect.rs", "tests/support/mod.rs", "tests/support/server.rs", "tests/timeouts.rs"]

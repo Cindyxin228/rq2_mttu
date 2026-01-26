@@ -1,0 +1,1 @@
+["docs/src/checks/bans/cfg.md", "src/bans.rs", "tests/bans.rs", "tests/snapshots/bans__allow_git_wildcards_private_package.snap", "tests/test_data/wildcards/allow-git/Cargo.lock", "tests/test_data/wildcards/allow-git/Cargo.toml", "tests/test_data/wildcards/allow-git/src/main.rs"]

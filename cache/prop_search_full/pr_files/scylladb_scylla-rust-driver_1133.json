@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "scylla/Cargo.toml", "scylla/src/lib.rs", "scylla/src/transport/query_result.rs"]

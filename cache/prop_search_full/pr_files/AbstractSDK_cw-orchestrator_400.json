@@ -1,0 +1,1 @@
+["contracts/mock_contract/Cargo.toml", "contracts/mock_contract/README.md", "contracts/mock_contract/src/lib.rs", "packages/cw-orch-mock/src/queriers/wasm.rs"]

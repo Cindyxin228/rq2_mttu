@@ -1,0 +1,1 @@
+["sway-core/src/type_system/unify/unify_check.rs", "test/src/e2e_vm_tests/test_programs/should_fail/impl_self_duplicated/Forc.lock", "test/src/e2e_vm_tests/test_programs/should_fail/impl_self_duplicated/Forc.toml", "test/src/e2e_vm_tests/test_programs/should_fail/impl_self_duplicated/src/main.sw", "test/src/e2e_vm_tests/test_programs/should_fail/impl_self_duplicated/test.toml"]

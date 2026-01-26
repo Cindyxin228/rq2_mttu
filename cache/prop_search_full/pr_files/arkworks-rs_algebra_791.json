@@ -1,0 +1,1 @@
+["curves/bls12_377/scripts/bls12_isogeny_computer.sage", "curves/bls12_381/src/curves/g2.rs", "ec/src/hashing/curve_maps/curve_map_parameter_helper.sage", "ec/src/hashing/curve_maps/elligator2.rs"]

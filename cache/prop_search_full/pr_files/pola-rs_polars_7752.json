@@ -1,0 +1,1 @@
+["polars/polars-lazy/polars-pipe/src/executors/operators/function.rs", "polars/polars-lazy/polars-plan/src/logical_plan/optimizer/projection_pushdown/functions/melt.rs", "polars/polars-lazy/polars-plan/src/logical_plan/optimizer/projection_pushdown/functions/mod.rs", "polars/polars-lazy/src/tests/mod.rs", "py-polars/tests/unit/operations/test_melt.py"]

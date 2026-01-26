@@ -1,0 +1,1 @@
+["Cargo.toml", "src/config.rs", "src/email_bridge.rs", "src/error.rs", "src/handlers/email.rs", "src/handlers/mod.rs", "src/handlers/oauth2.rs", "src/handlers/oidc.rs", "src/middleware/headers.rs", "src/oidc_bridge.rs", "src/store.rs", "src/store_cache.rs", "src/validation.rs"]

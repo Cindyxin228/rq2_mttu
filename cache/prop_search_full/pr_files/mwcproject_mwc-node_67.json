@@ -1,0 +1,1 @@
+["chain/src/pipe.rs", "core/src/consensus.rs", "core/src/core.rs", "core/src/core/block.rs", "core/src/core/transaction.rs", "core/src/global.rs", "core/src/libtx/mod.rs", "core/tests/block.rs", "core/tests/transaction.rs", "p2p/src/msg.rs", "pool/tests/block_max_weight.rs", "pool/tests/nrd_kernels_enabled.rs"]

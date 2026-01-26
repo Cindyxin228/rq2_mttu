@@ -1,0 +1,1 @@
+["client/cli.rs", "client/client.rs", "daemon/network/message_handler/group.rs", "daemon/task_handler/messages/group.rs", "tests/helper/fixtures/mod.rs", "tests/unix/group.rs"]

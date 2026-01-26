@@ -1,0 +1,1 @@
+["testcontainers/Cargo.toml", "testcontainers/tests/dynamodb_local.rs", "testcontainers/tests/elasticmq.rs", "testcontainers/tests/images.rs", "testcontainers/tests/minio.rs"]

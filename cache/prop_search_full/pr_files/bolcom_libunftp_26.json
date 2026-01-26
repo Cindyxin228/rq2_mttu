@@ -1,0 +1,1 @@
+["examples/basic.rs", "examples/gcs.rs", "examples/pam.rs", "examples/rest.rs", "src/auth/mod.rs", "src/auth/pam.rs", "src/auth/rest.rs", "src/lib.rs", "src/server/mod.rs", "tests/main.rs"]

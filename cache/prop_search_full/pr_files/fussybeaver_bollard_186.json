@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.toml", "examples/build.rs", "examples/hoover.rs", "examples/post_dockerfile.rs", "src/container.rs", "src/docker.rs", "src/errors.rs", "src/lib.rs", "src/named_pipe.rs", "src/read.rs"]

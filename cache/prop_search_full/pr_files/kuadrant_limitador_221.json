@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/build-image.yaml", ".github/workflows/coverage.yml", ".github/workflows/e2e.yaml", ".github/workflows/release.yaml", ".github/workflows/rust.yml", "limitador-server/e2e/file-watcher/deployment.yaml"]

@@ -1,0 +1,1 @@
+["bellman/src/lib.rs", "bls12_381/src/notes/design.rs", "pairing/src/bls12_381/ec.rs", "zcash_client_backend/Cargo.toml", "zcash_client_backend/build.rs", "zcash_primitives/src/lib.rs", "zcash_primitives/src/note_encryption.rs", "zcash_primitives/src/transaction/components.rs"]

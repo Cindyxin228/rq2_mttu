@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "naga/Cargo.toml", "naga/src/front/wgsl/error.rs", "naga/src/front/wgsl/mod.rs", "naga/src/front/wgsl/parse/directive.rs", "naga/src/front/wgsl/parse/lexer.rs", "naga/src/front/wgsl/parse/mod.rs"]

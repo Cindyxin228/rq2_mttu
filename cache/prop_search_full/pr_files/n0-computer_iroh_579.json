@@ -1,0 +1,1 @@
+["iroh-gateway/src/config.rs", "iroh-p2p/src/config.rs", "iroh-p2p/src/node.rs", "iroh-rpc-client/src/macros.rs", "iroh-rpc-types/src/addr.rs", "iroh-rpc-types/src/macros.rs", "iroh-store/benches/rpc.rs", "iroh-store/src/config.rs"]

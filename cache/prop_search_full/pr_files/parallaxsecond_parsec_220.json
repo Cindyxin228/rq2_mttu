@@ -1,0 +1,1 @@
+["e2e_tests/src/lib.rs", "e2e_tests/tests/all_providers/mod.rs", "src/authenticators/direct_authenticator/mod.rs", "src/authenticators/mod.rs", "src/back/backend_handler.rs", "src/providers/core_provider/mod.rs", "src/providers/mod.rs", "src/utils/service_builder.rs"]

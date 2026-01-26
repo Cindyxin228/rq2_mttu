@@ -1,0 +1,1 @@
+["bindings/rust/tauri-sys/build.rs", "bindings/rust/tauri-sys/tauri.c", "ui/tauri-cocoa-webview.h", "ui/tauri-cocoa.m", "ui/tauri-gtk-webview.h", "ui/tauri-gtk.c", "ui/tauri-windows-webview.h", "ui/tauri-windows.c", "ui/tauri.h"]

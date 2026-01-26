@@ -1,0 +1,1 @@
+["crates/swc/src/config/mod.rs", "crates/swc/tests/fixture/sourcemap/issue-6552/input-map/output/index.map"]

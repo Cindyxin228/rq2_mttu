@@ -1,0 +1,1 @@
+["drm-ffi/drm-sys/build.rs", "drm-ffi/drm-sys/src/platforms/linux/aarch64/bindings.rs", "drm-ffi/drm-sys/src/platforms/linux/arm/bindings.rs", "drm-ffi/drm-sys/src/platforms/linux/x86/bindings.rs", "drm-ffi/drm-sys/src/platforms/linux/x86_64/bindings.rs"]

@@ -1,0 +1,1 @@
+["examples/python-postgres/main.py", "examples/python-postgres/requirements.txt", "src/providers/python.rs", "tests/docker_run_tests.rs", "tests/snapshots/generate_plan_tests__python_postgres.snap"]

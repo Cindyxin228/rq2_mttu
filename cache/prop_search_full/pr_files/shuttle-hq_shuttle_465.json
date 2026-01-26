@@ -1,0 +1,1 @@
+["common/src/models/error.rs", "gateway/migrations/0002_custom_domains.sql", "gateway/src/custom_domain.rs", "gateway/src/lib.rs", "gateway/src/service.rs"]

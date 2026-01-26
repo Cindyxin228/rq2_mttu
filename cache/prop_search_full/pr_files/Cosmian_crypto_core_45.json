@@ -1,0 +1,1 @@
+[".pre-commit-config.yaml", "Cargo.toml", "src/asymmetric_crypto/curve_25519/ed25519/public_key.rs", "src/bytes_ser_de.rs", "src/symmetric_crypto/key.rs"]

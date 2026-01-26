@@ -1,0 +1,1 @@
+[".envrc", "Cargo.lock", "Cargo.toml", "cli/examples/signatures_in_witness.rs", "cli/examples/verify.rs", "cli/examples/with_pipe.rs", "flake.nix", "lib/Cargo.toml", "lib/src/block_extra.rs", "lib/src/lib.rs", "lib/src/stages/compute_txids.rs", "lib/src/stages/read_detect.rs", "lib/src/utxo/db.rs", "lib/src/utxo/mem.rs", "lib/src/utxo/redb.rs"]

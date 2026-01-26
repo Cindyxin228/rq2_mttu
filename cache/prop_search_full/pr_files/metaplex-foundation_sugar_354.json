@@ -1,0 +1,1 @@
+["script/sugar-cli-test.sh", "src/constants.rs", "src/validate/errors.rs", "src/validate/format.rs", "src/validate/parser.rs", "src/validate/process.rs"]

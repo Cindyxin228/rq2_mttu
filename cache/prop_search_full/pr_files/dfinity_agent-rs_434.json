@@ -1,0 +1,1 @@
+[".gitattributes", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "ic-agent/Cargo.toml", "ic-agent/src/agent/agent_config.rs", "ic-agent/src/agent/agent_error.rs", "ic-agent/src/agent/builder.rs", "ic-agent/src/agent/mod.rs", "ic-agent/src/agent/replica_api.rs", "ic-agent/src/lib.rs", "ic-utils/Cargo.toml", "icx/Cargo.toml", "ref-tests/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/stratis-min/stratisd-min.rs", "src/bin/stratisd.rs", "src/engine/shared.rs", "src/jsonrpc/client/key.rs", "src/jsonrpc/client/pool.rs", "src/jsonrpc/server/server.rs", "src/stratis/udev_monitor.rs"]

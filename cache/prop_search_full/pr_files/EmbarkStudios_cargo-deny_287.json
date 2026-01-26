@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "deny.toml", "src/bans/mod.rs", "src/cargo-deny/check.rs", "src/cargo-deny/common.rs", "src/cargo-deny/fetch.rs", "src/cargo-deny/fix.rs", "tests/utils.rs"]

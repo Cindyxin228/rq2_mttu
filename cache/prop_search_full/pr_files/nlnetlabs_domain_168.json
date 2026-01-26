@@ -1,0 +1,1 @@
+["src/base/charstr.rs", "src/base/message.rs", "src/base/message_builder.rs", "src/base/name/dname.rs", "src/base/name/relative.rs", "src/base/name/uncertain.rs", "src/base/opt/mod.rs", "src/base/opt/rfc5001.rs", "src/base/opt/rfc6975.rs", "src/base/opt/rfc8145.rs", "src/rdata/macros.rs", "src/rdata/mod.rs", "src/rdata/rfc1035.rs"]

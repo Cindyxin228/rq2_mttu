@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/binance_streams.rs", "exc-binance/src/endpoint.rs", "exc-binance/src/websocket/endpoint.rs"]

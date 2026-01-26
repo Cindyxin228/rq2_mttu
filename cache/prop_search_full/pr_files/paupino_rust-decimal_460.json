@@ -1,0 +1,1 @@
+["src/constants.rs", "src/decimal.rs", "src/mysql.rs", "src/ops/array.rs", "src/ops/legacy.rs", "src/postgres.rs", "src/serde.rs"]

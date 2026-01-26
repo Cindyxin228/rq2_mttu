@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "build.rs", "src/lang/jq.lalrpop", "src/lang/lexer.rs", "src/lang/mod.rs", "src/lang/parser.rs", "src/lib.rs", "src/module_loader.rs", "tests/from_manual/condition_and_comparison.rs", "tests/hand_written/mod.rs"]

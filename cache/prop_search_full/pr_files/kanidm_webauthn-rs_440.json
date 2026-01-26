@@ -1,0 +1,1 @@
+["attestation-ca/build.rs", "base64urlsafedata/src/common.rs", "tutorial/wasm/src/lib.rs", "webauthn-authenticator-rs/src/ctap2/ctap21_cred.rs", "webauthn-rs-core/build.rs", "webauthn-rs-proto/src/options.rs", "webauthn-rs-proto/src/wasm.rs"]

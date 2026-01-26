@@ -1,0 +1,1 @@
+["polars/polars-arrow/src/kernels/rolling/no_nulls/variance.rs", "py-polars/tests/unit/test_rolling.py"]

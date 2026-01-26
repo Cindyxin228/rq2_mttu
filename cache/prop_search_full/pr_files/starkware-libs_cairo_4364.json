@@ -1,0 +1,1 @@
+["crates/cairo-lang-starknet/src/allowed_libfuncs_lists/all.json", "crates/cairo-lang-starknet/src/allowed_libfuncs_lists/audited.json", "crates/cairo-lang-starknet/src/allowed_libfuncs_lists/experimental.json"]

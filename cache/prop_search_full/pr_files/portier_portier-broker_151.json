@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "src/bridges/email.rs", "src/bridges/oidc.rs", "src/config.rs", "src/crypto.rs", "src/error.rs", "src/handlers/auth.rs", "src/handlers/mod.rs", "src/handlers/normalize.rs", "src/http.rs", "src/macros.rs", "src/main.rs", "src/webfinger.rs"]

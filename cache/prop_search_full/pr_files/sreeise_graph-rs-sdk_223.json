@@ -1,0 +1,1 @@
+["README.md", "examples/copy.rs", "examples/delete.rs", "graph-oauth/src/auth.rs", "graph-oauth/src/lib.rs", "graph-oauth/src/scopes/mod.rs", "graph-oauth/src/scopes/static_scopes.rs", "src/client/graph.rs", "src/client/macros.rs", "src/drive/request.rs", "src/http/uploadsession.rs", "src/lib.rs", "src/mail/request.rs", "tests/mail_message_request.rs", "tests/onenote_request.rs"]

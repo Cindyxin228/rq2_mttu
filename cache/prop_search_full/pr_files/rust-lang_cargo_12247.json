@@ -1,0 +1,1 @@
+["src/cargo/sources/registry/download.rs", "src/cargo/sources/registry/http_remote.rs", "src/cargo/sources/registry/local.rs", "src/cargo/sources/registry/mod.rs", "src/cargo/sources/registry/remote.rs", "src/cargo/util/config/mod.rs"]

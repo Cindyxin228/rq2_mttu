@@ -1,0 +1,1 @@
+["docker/pleroma/Dockerfile", "docker/pleroma/docker-compose.yml", "docker/pleroma/lemmy.hjson", "docker/pleroma/nginx.conf", "docker/pleroma/pleroma_config.exs", "docker/pleroma/run-pleroma.sh", "docker/pleroma/start-local-instances.bash"]

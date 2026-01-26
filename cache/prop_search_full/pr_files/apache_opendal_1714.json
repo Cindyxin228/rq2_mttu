@@ -1,0 +1,1 @@
+[".github/workflows/publish.yml", "Cargo.toml", "README.md", "bin/oli/Cargo.toml", "bin/oli/src/bin/oli.rs", "bin/oli/src/commands/cli.rs", "bin/oli/src/commands/cp.rs", "bin/oli/src/commands/mod.rs", "bin/oli/src/config/mod.rs", "bin/oli/src/lib.rs", "bin/oli/tests/cp.rs"]

@@ -1,0 +1,1 @@
+["crates/core/src/appservice/query.rs", "crates/server/src/bl/appservice.rs", "crates/server/src/bl/event/pdu.rs", "crates/server/src/bl/room/alias/mod.rs", "crates/server/src/bl/room/alias/remote.rs", "crates/server/src/bl/sending/mod.rs", "crates/server/src/routing/client/room/membership.rs"]

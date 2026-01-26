@@ -1,0 +1,1 @@
+["lib/src/config/mod.rs", "playback/proto/player.proto", "playback/src/gstreamer_backend.rs", "playback/src/lib.rs", "playback/src/mpris.rs", "playback/src/mpv_backend/mod.rs", "playback/src/rusty_backend/mod.rs", "server/src/music_player_service.rs", "server/src/server.rs", "tui/src/ui/playback.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build-test-sources.yaml", ".gitmodules", "README.md", "Setup.hs", "concordium-base.cabal", "concordium-grpc-api", "haskell-src/Concordium/GRPC2.hs", "haskell-src/Concordium/Types/Queries.hs", "package.yaml", "rust-src/concordium_base/src/base.rs"]

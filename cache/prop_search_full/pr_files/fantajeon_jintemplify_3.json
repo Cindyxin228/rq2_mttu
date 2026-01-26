@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/main.yaml.j2", "examples/plugin.yaml.j2", "examples/test.json", "examples/variables.yaml.j2", "src/error.rs", "src/filter.rs", "src/main.rs", "src/plugin.rs", "src/render.rs"]

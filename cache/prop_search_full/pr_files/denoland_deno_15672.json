@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/cache/parsed_source.rs", "cli/main.rs", "cli/tests/integration/bundle_tests.rs", "cli/tests/integration/compile_tests.rs"]

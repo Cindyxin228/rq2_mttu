@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/expression.rs", "src/expression/parser.rs", "src/lexer.rs", "src/lib.rs", "src/licensee.rs", "tests/spdx_list.rs", "tests/validation.rs", "update/src/main.rs"]

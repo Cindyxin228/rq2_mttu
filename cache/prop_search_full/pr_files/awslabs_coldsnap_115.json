@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/coldsnap/client.rs", "src/bin/coldsnap/main.rs", "src/block_device.rs", "src/download.rs", "src/upload.rs", "src/wait.rs"]

@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "node/CHANGELOG.md", "node/src/components/event_stream_server/sse_server.rs", "node/src/components/event_stream_server/tests.rs", "utils/nctl/sh/scenarios/event_stream.sh"]

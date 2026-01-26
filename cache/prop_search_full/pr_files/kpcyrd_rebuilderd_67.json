@@ -1,0 +1,1 @@
+["common/src/api.rs", "daemon/src/api.rs", "daemon/src/models/build.rs", "daemon/src/schema.rs", "tools/src/args.rs", "tools/src/main.rs", "worker/src/auth.rs", "worker/src/main.rs", "worker/src/rebuild.rs"]

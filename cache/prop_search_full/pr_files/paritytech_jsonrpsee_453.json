@@ -1,0 +1,1 @@
+["proc-macros/src/helpers.rs", "proc-macros/src/render_client.rs", "proc-macros/src/render_server.rs", "proc-macros/src/rpc_macro.rs", "proc-macros/tests/ui/correct/rpc_deny_missing_docs.rs"]

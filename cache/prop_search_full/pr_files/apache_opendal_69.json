@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/ops/ops.rs", "docs/rfcs/0069-object-stream.md", "examples/basic.rs", "src/accessor.rs", "src/io.rs", "src/layer.rs", "src/lib.rs", "src/object.rs", "src/operator.rs", "src/ops.rs", "src/services/fs.rs", "src/services/s3.rs", "src/tests/layer.rs", "tests/behavior/behavior.rs", "tests/behavior/s3.rs"]

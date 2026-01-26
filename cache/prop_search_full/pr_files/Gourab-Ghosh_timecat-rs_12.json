@@ -1,0 +1,1 @@
+["Cargo.toml", "src/board.rs", "src/chess/move_generator.rs", "src/chess/position.rs", "src/constants.rs", "src/custom_engine.rs", "src/evaluate/evaluate_non_nnue.rs", "src/lib.rs", "src/nnue/halfkp.rs", "src/search.rs", "src/sort.rs", "src/utils/bitboard.rs", "src/utils/search_utils.rs", "tests/board.rs", "tests/move_generator.rs"]

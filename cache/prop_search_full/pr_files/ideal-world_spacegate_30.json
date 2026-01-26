@@ -1,0 +1,1 @@
+["debug.md", "plugin/Cargo.toml", "plugin/src/model.rs", "plugin/src/plugins/header_modifier.rs", "plugin/src/plugins/redis/redis_dynamic_route.rs", "plugin/src/plugins/rewrite.rs"]

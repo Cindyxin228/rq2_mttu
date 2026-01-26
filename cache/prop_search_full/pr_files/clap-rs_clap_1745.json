@@ -1,0 +1,1 @@
+[".azure-pipelines.yml", ".travis.yml", "clap_derive/tests/macro-errors.rs", "clap_derive/tests/ui/non_existent_attr.stderr", "clap_derive/tests/ui/tuple_struct.stderr", "src/build/app/mod.rs", "src/build/arg/mod.rs", "src/build/arg_group.rs", "src/macros.rs"]

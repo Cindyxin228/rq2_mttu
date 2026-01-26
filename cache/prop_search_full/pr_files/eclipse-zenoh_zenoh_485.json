@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ci/nostd-check/Cargo.toml", "commons/zenoh-keyexpr/Cargo.toml", "commons/zenoh-util/Cargo.toml", "io/zenoh-link-commons/Cargo.toml", "io/zenoh-link/Cargo.toml", "plugins/example-plugin/Cargo.toml", "plugins/zenoh-plugin-storage-manager/Cargo.toml"]

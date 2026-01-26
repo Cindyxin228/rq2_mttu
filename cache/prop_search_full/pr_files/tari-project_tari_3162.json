@@ -1,0 +1,1 @@
+["base_layer/core/src/base_node/state_machine_service/states/block_sync.rs", "base_layer/core/src/base_node/sync/block_sync/error.rs", "base_layer/core/src/base_node/sync/block_sync/synchronizer.rs", "base_layer/core/src/base_node/sync/config.rs", "base_layer/core/src/base_node/sync/header_sync/synchronizer.rs"]

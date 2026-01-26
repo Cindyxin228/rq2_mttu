@@ -1,0 +1,1 @@
+["Cargo.toml", "cmd/qbsdiff.rs", "cmd/qbspatch.rs", "src/bsdiff.rs", "src/bspatch.rs", "tests/compatible.rs", "utils/src/lib.rs"]

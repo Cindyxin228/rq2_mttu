@@ -1,0 +1,1 @@
+["xous-rs/build.rs", "xous-rs/src/arch/hosted/mod.rs", "xous-rs/src/arch/hosted/process.rs", "xous-rs/src/definitions.rs", "xous-rs/src/definitions/messages/envelope.rs", "xous-rs/src/definitions/messages/mod.rs", "xous-rs/src/syscall.rs"]

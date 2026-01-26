@@ -1,0 +1,1 @@
+["src/ctap2/commands/client_pin.rs", "src/ctap2/commands/get_assertion.rs", "src/ctap2/commands/get_info.rs", "src/ctap2/commands/make_credentials.rs", "src/ctap2/commands/mod.rs", "src/transport/mod.rs"]

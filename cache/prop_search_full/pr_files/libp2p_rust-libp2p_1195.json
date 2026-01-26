@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "misc/core-derive/Cargo.toml", "misc/peer-id-generator/Cargo.toml", "protocols/floodsub/Cargo.toml", "protocols/identify/Cargo.toml", "protocols/kad/Cargo.toml", "protocols/ping/Cargo.toml", "protocols/secio/Cargo.toml", "transports/dns/Cargo.toml"]

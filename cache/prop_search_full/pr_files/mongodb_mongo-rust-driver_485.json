@@ -1,0 +1,1 @@
+[".evergreen/check-rustfmt.sh", "rustfmt.toml", "src/cmap/establish/handshake/mod.rs", "src/is_master.rs", "src/sdam/mod.rs", "src/sdam/monitor.rs", "src/sdam/state/mod.rs"]

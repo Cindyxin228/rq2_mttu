@@ -1,0 +1,1 @@
+["examples/config.rs", "examples/full.rs", "examples/switching.rs", "src/backend/mmap.rs", "src/backend/mod.rs", "src/backend/path.rs", "src/deser.rs", "src/error.rs", "src/lib.rs", "tests/integration_tests.rs"]

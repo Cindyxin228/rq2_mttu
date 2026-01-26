@@ -1,0 +1,1 @@
+["clippy.toml", "crates/client/vendor/github.com/containerd/containerd/api/services/events/v1/events.proto", "crates/runc-shim/src/asynchronous/runc.rs", "crates/runc-shim/src/synchronous/task.rs", "crates/shim/src/asynchronous/task.rs", "crates/shim/src/logger.rs", "rust-toolchain.toml"]

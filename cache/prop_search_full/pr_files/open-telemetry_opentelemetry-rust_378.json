@@ -1,0 +1,1 @@
+["opentelemetry-jaeger/CHANGELOG.md", "opentelemetry-jaeger/Cargo.toml", "opentelemetry-jaeger/README.md", "opentelemetry-jaeger/src/exporter/collector.rs", "opentelemetry-jaeger/src/exporter/mod.rs", "opentelemetry-jaeger/src/exporter/uploader.rs", "opentelemetry-jaeger/src/lib.rs", "opentelemetry/src/sdk/export/trace/mod.rs", "scripts/lint.sh"]

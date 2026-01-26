@@ -1,0 +1,1 @@
+["interop-tests/src/lib.rs", "tuf/src/client.rs", "tuf/src/crypto.rs", "tuf/src/interchange/cjson/mod.rs", "tuf/src/interchange/cjson/pretty.rs", "tuf/src/interchange/mod.rs", "tuf/src/metadata.rs", "tuf/src/repository.rs", "tuf/src/util.rs", "tuf/tests/integration.rs", "tuf/tests/simple_example.rs"]

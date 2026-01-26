@@ -1,0 +1,1 @@
+["crates/wasi-http/wit/command-extended.wit", "crates/wasi-http/wit/deps/logging/logging.wit", "crates/wasi-http/wit/deps/logging/world.wit", "crates/wasi/wit/command-extended.wit", "crates/wasi/wit/deps/logging/logging.wit", "crates/wasi/wit/deps/logging/world.wit"]

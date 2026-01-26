@@ -1,0 +1,1 @@
+["CHANGELOG.md", "debugger/src/debug_adapter/dap/adapter.rs", "debugger/src/debug_adapter/protocol.rs", "probe-rs/src/debug/debug_info.rs", "probe-rs/src/debug/source_statement.rs", "probe-rs/src/debug/unit_info.rs"]

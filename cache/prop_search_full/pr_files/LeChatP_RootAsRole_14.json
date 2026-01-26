@@ -1,0 +1,1 @@
+["Makefile", "configure.sh", "ebpf/Makefile", "role-manager/Makefile", "role-manager/addrole.c", "role-manager/deleterole.c", "role-manager/editrole.c", "role-manager/list_manager.h", "role-manager/verifier.c", "role-manager/verifier.h", "role-manager/xmlNode.c", "role-manager/xmlNode.h", "src/roles.c"]

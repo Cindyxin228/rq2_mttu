@@ -1,0 +1,1 @@
+["src/collector/custom_score_top_collector.rs", "src/collector/mod.rs", "src/collector/multi_collector.rs", "src/collector/top_score_collector.rs", "src/error.rs", "src/fastfield/mod.rs", "src/schema/field_entry.rs"]

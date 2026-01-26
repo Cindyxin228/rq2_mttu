@@ -1,0 +1,1 @@
+["protocols/noise/Cargo.toml", "protocols/noise/src/io.rs", "protocols/noise/src/io/handshake.rs", "protocols/noise/src/lib.rs", "protocols/noise/tests/smoke.rs"]

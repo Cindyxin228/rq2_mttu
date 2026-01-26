@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/dprint/Cargo.toml", "crates/dprint/src/environment/environment.rs", "crates/dprint/src/environment/real_environment.rs", "crates/dprint/src/environment/test_environment.rs", "crates/dprint/src/format.rs", "crates/dprint/src/utils/unsync.rs"]

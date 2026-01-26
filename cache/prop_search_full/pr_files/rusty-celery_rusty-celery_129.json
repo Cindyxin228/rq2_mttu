@@ -1,0 +1,1 @@
+[".flake8", ".github/workflows/ci.yml", "CHANGELOG.md", "README.md", "RELEASE_GUIDE.md", "dev-requirements.txt", "examples/celery_app.py", "examples/celery_app.rs", "examples/python_to_rust.sh", "examples/rust_to_python.sh", "pyproject.toml", "requirements.txt", "src/protocol/mod.rs"]

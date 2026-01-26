@@ -1,0 +1,1 @@
+["README.md", "wgpu-core/Cargo.toml", "wgpu-core/build.rs", "wgpu-core/src/hub.rs", "wgpu-core/src/instance.rs", "wgpu-core/src/lib.rs", "wgpu-core/src/macros.rs", "wgpu-hal/src/gles/egl.rs", "wgpu-hal/src/lib.rs", "wgpu/Cargo.toml"]

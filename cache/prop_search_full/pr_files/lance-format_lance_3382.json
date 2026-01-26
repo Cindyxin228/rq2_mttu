@@ -1,0 +1,1 @@
+["protos/transaction.proto", "python/python/lance/dataset.py", "python/python/lance/lance/__init__.pyi", "python/python/tests/test_scalar_index.py", "python/python/tests/test_vector_index.py", "python/src/dataset.rs", "rust/lance-index/src/traits.rs", "rust/lance/src/index.rs"]

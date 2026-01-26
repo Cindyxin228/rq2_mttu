@@ -1,0 +1,1 @@
+["winch/codegen/src/masm.rs", "winch/codegen/src/visitor.rs", "winch/filetests/filetests/x64/br_if/with_machine_stack_entry.wat", "winch/filetests/filetests/x64/call/reg_on_stack.wat"]

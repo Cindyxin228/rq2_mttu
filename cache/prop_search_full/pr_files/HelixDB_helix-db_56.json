@@ -1,0 +1,1 @@
+["hbuild/src/main.rs", "helix-cli/install.sh", "helix-cli/src/main.rs", "helix-container/src/queries.rs", "helixdb/src/grammar.pest", "helixdb/src/helix_engine/graph_core/traversal.rs", "helixdb/src/helix_engine/graph_core/traversal_steps.rs", "helixdb/src/helixc/generator/generator.rs", "helixdb/src/helixc/parser/helix_parser.rs"]

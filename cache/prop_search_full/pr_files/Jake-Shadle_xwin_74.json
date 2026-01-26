@@ -1,0 +1,1 @@
+["Cargo.lock", "deny.toml", "src/ctx.rs", "src/download.rs", "src/splat.rs", "tests/deterministic.rs", "tests/expected.txt", "tests/snapshots/xwin-download.snap", "tests/snapshots/xwin-list.snap", "tests/snapshots/xwin-splat.snap", "tests/snapshots/xwin-unpack.snap", "tests/snapshots/xwin.snap"]

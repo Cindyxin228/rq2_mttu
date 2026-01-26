@@ -1,0 +1,1 @@
+[".gitignore", "README.md", "ci/before_deploy.sh", "dev.fish", "mcfly.fish", "mcfly.zsh", "pkg/brew/mcfly.rb", "src/history/history.rs", "src/history_cleaner.rs", "src/interface.rs", "src/main.rs", "src/settings.rs", "src/shell_history.rs"]

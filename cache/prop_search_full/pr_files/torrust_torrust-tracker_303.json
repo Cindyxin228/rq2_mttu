@@ -1,0 +1,1 @@
+[".github/workflows/publish_docker_image.yml", ".github/workflows/test_build_release.yml", "Cargo.lock", "Cargo.toml", "packages/configuration/Cargo.toml"]

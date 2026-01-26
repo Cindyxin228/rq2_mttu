@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Changelog.md", "src/build_context.rs", "src/build_options.rs", "src/compile.rs", "src/main.rs", "src/module_writer.rs", "test-crates/pyo3-pure/Cargo.lock", "test-crates/pyo3-pure/Cargo.toml"]

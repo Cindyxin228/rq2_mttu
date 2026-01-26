@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/cli.rs", "src/errors.rs", "src/plugins/str.rs", "tests/filter_str_tests.rs"]

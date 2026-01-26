@@ -1,0 +1,1 @@
+["src/cli.rs", "src/config.rs", "src/features/hyperlinks.rs", "src/handlers/blame.rs", "src/parse_styles.rs", "src/subcommands/show_colors.rs", "src/subcommands/show_config.rs", "src/tests/ansi_test_utils.rs"]

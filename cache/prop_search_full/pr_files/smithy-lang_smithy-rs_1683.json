@@ -1,0 +1,1 @@
+["codegen/build.gradle.kts", "codegen/src/main/kotlin/software/amazon/smithy/rust/codegen/smithy/endpoints/EndpointParamsGenerator.kt", "codegen/src/main/kotlin/software/amazon/smithy/rust/codegen/smithy/endpoints/Util.kt", "codegen/src/test/kotlin/software/amazon/smithy/rust/codegen/smithy/endpoints/EndpointParamsGeneratorTest.kt", "settings.gradle.kts"]

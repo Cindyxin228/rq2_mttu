@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/src/main.rs", "js/src/lib.rs", "lib/Cargo.toml", "lib/sparesults/Cargo.toml", "oxrocksdb-sys/Cargo.toml", "oxrocksdb-sys/rocksdb"]

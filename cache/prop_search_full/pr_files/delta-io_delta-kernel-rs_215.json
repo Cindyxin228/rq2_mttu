@@ -1,0 +1,1 @@
+["ffi/src/lib.rs", "ffi/src/scan.rs", "kernel/build.rs", "kernel/src/actions/deletion_vector.rs", "kernel/src/engine/arrow_data.rs", "kernel/src/engine/sync/mod.rs", "kernel/src/lib.rs", "kernel/src/scan/mod.rs", "kernel/src/scan/state.rs"]

@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/value.rs", "scylla-cql/src/types/serialize/mod.rs", "scylla-cql/src/types/serialize/row.rs", "scylla/src/transport/errors.rs"]

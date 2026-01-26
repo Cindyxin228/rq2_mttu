@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/help_operators.rs", "crates/nu-command/tests/commands/assignment/append_assign.rs", "crates/nu-command/tests/commands/assignment/mod.rs", "crates/nu-command/tests/commands/mod.rs", "crates/nu-engine/src/eval.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/ast/operator.rs"]

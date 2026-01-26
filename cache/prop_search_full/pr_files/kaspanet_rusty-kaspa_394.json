@@ -1,0 +1,1 @@
+["wallet/core/src/imports.rs", "wallet/core/src/storage/transaction/record.rs", "wallet/core/src/utxo/context.rs", "wallet/core/src/utxo/pending.rs", "wallet/core/src/utxo/processor.rs", "wallet/core/src/utxo/reference.rs", "wallet/core/src/utxo/scan.rs", "wallet/core/src/utxo/settings.rs", "wallet/core/src/utxo/test.rs"]

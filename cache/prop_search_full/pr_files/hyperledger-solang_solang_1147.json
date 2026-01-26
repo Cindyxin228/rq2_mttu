@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/solana.rs", "tests/solana_tests/balance.rs", "tests/solana_tests/create_contract.rs", "tests/solana_tests/expressions.rs", "tests/solana_tests/math.rs", "tests/solana_tests/primitives.rs", "tests/solana_tests/yul.rs"]

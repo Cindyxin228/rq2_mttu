@@ -1,0 +1,1 @@
+["kraken_futures_rest_client/Cargo.toml", "kraken_futures_rest_client/src/client.rs", "kraken_futures_rest_client/src/error.rs", "kraken_rest_client/Cargo.toml", "kraken_rest_client/src/api/add_order.rs", "kraken_rest_client/src/error.rs", "kraken_rest_client/src/sign.rs", "kraken_ws_client/Cargo.toml", "kraken_ws_client/src/api/add_order.rs"]

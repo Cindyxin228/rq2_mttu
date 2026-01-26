@@ -1,0 +1,1 @@
+["Cargo.lock", "deploy/package-lock.json", "deploy/package.json", "htsget-actix/Cargo.toml", "htsget-actix/src/handlers/mod.rs", "htsget-test/Cargo.toml", "htsget-test/src/server_tests.rs"]

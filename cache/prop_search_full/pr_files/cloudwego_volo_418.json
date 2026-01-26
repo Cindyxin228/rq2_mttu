@@ -1,0 +1,1 @@
+["volo-cli/src/templates/http/cargo_toml", "volo-cli/src/templates/http/src/bin/server_rs", "volo-cli/src/templates/http/src/lib_rs", "volo-http/src/client/mod.rs", "volo-http/src/client/request_builder.rs", "volo-http/src/lib.rs", "volo-http/src/server/mod.rs"]

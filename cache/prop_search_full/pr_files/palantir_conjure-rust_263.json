@@ -1,0 +1,1 @@
+[".circleci/config.yml", "conjure-codegen/Cargo.toml", "conjure-codegen/src/context.rs", "conjure-http/src/server.rs", "conjure-macros/src/client.rs", "conjure-macros/src/endpoints.rs", "conjure-macros/src/lib.rs"]

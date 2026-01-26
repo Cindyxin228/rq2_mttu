@@ -1,0 +1,1 @@
+["crates/rune-cli/src/benches.rs", "crates/rune/src/compile/item.rs", "crates/rune/src/item.rs", "crates/rune/src/runtime/vm.rs", "crates/rune/src/source_id.rs"]

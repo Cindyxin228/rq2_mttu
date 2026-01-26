@@ -1,0 +1,1 @@
+["pkg/agent/server/BUILD.bazel", "pkg/agent/server/plugin_k16sserver.go", "pkg/exporter/go.mod", "pkg/exporter/k16s/BUILD.bazel", "pkg/exporter/k16s/handler.go", "pkg/exporter/k16s/kube.go"]

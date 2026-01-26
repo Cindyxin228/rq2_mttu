@@ -1,0 +1,1 @@
+["spdlog/benches/compare_with_cpp_spdlog_async.rs", "spdlog/benches/spdlog_rs.rs", "spdlog/src/error.rs", "spdlog/src/lib.rs", "spdlog/src/logger.rs"]

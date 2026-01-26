@@ -1,0 +1,1 @@
+["src/cmd/build.rs", "src/cmd/clean.rs", "src/cmd/config.rs", "src/cmd/serve.rs", "src/cmd/watch.rs", "src/config/mod.rs", "src/config/models.rs", "src/config/models_test.rs", "tests/data/bad-build-target.toml", "tests/data/bad-watch-ignore.toml", "tests/data/bad-watch-path.toml"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/main.rs", "src/neovim/client.rs", "src/neovim/integration_tests.rs", "src/server/core.rs", "src/server/integration_tests.rs", "src/server/resources.rs", "src/server/tools.rs", "src/test_utils.rs"]

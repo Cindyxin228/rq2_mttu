@@ -1,0 +1,1 @@
+["src/advisories/diags.rs", "src/advisories/fix.rs", "src/advisories/mod.rs", "src/bans/cfg.rs", "src/bans/mod.rs", "src/index/bare.rs", "src/index/mod.rs", "src/lib.rs", "src/licenses/cfg.rs", "src/licenses/gather.rs", "src/licenses/mod.rs", "src/manifest/dependency.rs", "src/manifest/mod.rs"]

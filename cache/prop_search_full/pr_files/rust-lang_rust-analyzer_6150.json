@@ -1,0 +1,1 @@
+["crates/assists/src/ast_transform.rs", "crates/assists/src/handlers/add_missing_impl_members.rs", "crates/assists/src/handlers/auto_import.rs", "crates/assists/src/handlers/extract_struct_from_enum_variant.rs", "crates/assists/src/handlers/fill_match_arms.rs", "crates/assists/src/utils.rs", "crates/hir/src/lib.rs", "crates/hir_def/src/path.rs"]

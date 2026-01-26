@@ -1,0 +1,1 @@
+["src/clients/beacon/mod.rs", "src/clients/beacon/types.rs", "src/clients/blobscan/mod.rs", "src/clients/blobscan/types.rs", "src/clients/macros.rs", "src/env.rs", "src/indexer/mod.rs", "src/main.rs", "src/network.rs", "src/slots_processor/mod.rs", "src/synchronizer/mod.rs"]

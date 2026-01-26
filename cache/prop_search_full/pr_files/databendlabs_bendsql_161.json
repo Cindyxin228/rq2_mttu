@@ -1,0 +1,1 @@
+["core/src/client.rs", "core/src/error.rs", "driver/src/error.rs", "driver/src/flight_sql.rs"]

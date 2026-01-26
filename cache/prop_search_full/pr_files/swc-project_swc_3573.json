@@ -1,0 +1,1 @@
+[".github/workflows/bot-pr.yml", ".github/workflows/bot.yml", "scripts/bot/README.md", "scripts/bot/package.json", "scripts/bot/src/cargo/bump.ts", "scripts/bot/src/cargo/comment-parser.ts", "scripts/bot/src/cargo/ensure-comment.ts", "scripts/bot/src/util/git.ts", "scripts/bot/src/util/octokit.ts", "scripts/bot/yarn.lock"]

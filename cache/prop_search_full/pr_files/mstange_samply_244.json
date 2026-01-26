@@ -1,0 +1,1 @@
+["samply/src/linux_shared/process.rs", "samply/src/shared/jit_function_recycler.rs", "samply/src/shared/jitdump_manager.rs", "samply/src/shared/perf_map.rs", "samply/src/windows/etw_gecko.rs", "samply/src/windows/profile_context.rs"]

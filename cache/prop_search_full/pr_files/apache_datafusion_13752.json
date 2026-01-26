@@ -1,0 +1,1 @@
+["datafusion/functions/Cargo.toml", "datafusion/functions/benches/initcap.rs", "datafusion/functions/src/string/mod.rs", "datafusion/functions/src/unicode/initcap.rs", "datafusion/functions/src/unicode/mod.rs", "datafusion/sqllogictest/test_files/string/string_query.slt.part", "docs/source/user-guide/sql/scalar_functions.md"]

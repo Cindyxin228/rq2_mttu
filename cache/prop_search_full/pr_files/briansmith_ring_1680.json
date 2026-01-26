@@ -1,0 +1,1 @@
+["src/ec/curve25519/ed25519/ed25519_pkcs8_v2_template.der", "tests/ed25519_tests.rs"]

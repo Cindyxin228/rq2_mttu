@@ -1,0 +1,1 @@
+[".changes/upgrade_digest_package.md", "Cargo.toml", "src/ciphers/aes_cbc.rs", "src/hashes/blake2b.rs", "src/hashes/sha.rs", "src/macs/hmac.rs", "tests/blake2b.rs", "tests/fixtures/blake2b.json"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/compression.rs", "src/read.rs", "src/write.rs", "tests/data/README.md", "tests/data/deflate64.zip", "tests/data/folder/binary.wmv", "tests/deflate64.rs", "tests/end_to_end.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "node/src/mempool.rs", "node/src/vm.rs", "rusk/default.config.toml", "rusk/src/bin/config/chain.rs", "rusk/src/bin/main.rs", "rusk/src/lib/builder/node.rs", "rusk/src/lib/node.rs", "rusk/src/lib/node/rusk.rs", "rusk/src/lib/node/vm.rs", "rusk/tests/common/state.rs", "rusk/tests/services/contract_deployment.rs", "rusk/tests/services/owner_calls.rs"]

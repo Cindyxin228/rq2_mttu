@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/pipelines/copy_dir.rs", "src/pipelines/copy_file.rs", "src/pipelines/css.rs", "src/pipelines/html.rs", "src/pipelines/icon.rs", "src/pipelines/inline.rs", "src/pipelines/js.rs", "src/pipelines/mod.rs", "src/pipelines/rust.rs", "src/pipelines/sass.rs"]

@@ -1,0 +1,1 @@
+["crates/matrix-sdk-appservice/Cargo.toml", "crates/matrix-sdk-crypto/Cargo.toml", "crates/matrix-sdk-indexeddb/Cargo.toml", "crates/matrix-sdk-sled/Cargo.toml", "crates/matrix-sdk/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/core/keys.rs", "src/core/mod.rs", "src/core/upsert.rs", "src/interfaces/cloud.rs", "src/interfaces/ffi/api.rs", "src/interfaces/mod.rs", "src/interfaces/wasm_bindgen/api.rs", "src/lib.rs"]

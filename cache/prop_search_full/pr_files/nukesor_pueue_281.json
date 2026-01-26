@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "client/cli.rs", "client/main.rs", "daemon/cli.rs", "daemon/lib.rs", "daemon/main.rs", "lib/src/settings.rs", "tests/fixtures/daemon.rs"]

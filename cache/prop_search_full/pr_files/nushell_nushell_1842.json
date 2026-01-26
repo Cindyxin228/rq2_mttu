@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/format.rs", "crates/nu-cli/src/evaluate/evaluator.rs", "crates/nu-cli/tests/commands/format.rs", "crates/nu-parser/src/lib.rs", "crates/nu-parser/src/parse.rs"]

@@ -1,0 +1,1 @@
+["esp-hal-common/Cargo.toml", "esp32s2-hal/Cargo.toml", "esp32s2-hal/examples/usb_serial.rs", "esp32s3-hal/Cargo.toml", "esp32s3-hal/examples/usb_serial.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crux_core/Cargo.toml", "crux_core/src/bridge/mod.rs", "crux_core/src/bridge/registry.rs", "crux_core/src/bridge/request_serde.rs", "crux_core/src/bridge/serde.rs", "crux_core/src/capability/mod.rs", "crux_core/src/core/effect.rs", "crux_core/tests/json_bridge.rs", "crux_macros/src/effect.rs"]

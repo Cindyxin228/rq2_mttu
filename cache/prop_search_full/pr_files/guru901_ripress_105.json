@@ -1,0 +1,1 @@
+["README.md", "docs/guides/middleware.md", "scripts/test.sh", "src/app/mod.rs", "src/middlewares/cors.rs", "src/middlewares/logger.rs", "src/middlewares/mod.rs", "src/middlewares/rate_limiter.rs", "src/tests/request/mod.rs", "src/types.rs"]

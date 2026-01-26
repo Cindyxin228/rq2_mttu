@@ -1,0 +1,1 @@
+["opentelemetry-contrib/src/datadog/model/mod.rs", "opentelemetry/benches/trace.rs", "opentelemetry/src/exporter/trace/mod.rs", "opentelemetry/src/sdk/trace/evicted_hash_map.rs", "opentelemetry/src/sdk/trace/evicted_queue.rs", "opentelemetry/src/sdk/trace/span.rs", "opentelemetry/src/sdk/trace/tracer.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "age-core/CHANGELOG.md", "age-core/src/plugin.rs", "age-plugin/CHANGELOG.md", "age-plugin/Cargo.toml", "age-plugin/src/identity.rs", "age-plugin/src/lib.rs", "age-plugin/src/recipient.rs", "age/CHANGELOG.md", "age/src/cli_common.rs", "age/src/encrypted.rs", "age/src/lib.rs", "age/src/plugin.rs"]

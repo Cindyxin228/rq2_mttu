@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.toml", "Dockerfiles/Dockerfile.build", "Dockerfiles/Dockerfile.test", "Makefile", "README.md", "nsm-lib/Cargo.toml", "nsm-test/Cargo.toml", "nsm-test/Makefile", "scripts/run_test.sh"]

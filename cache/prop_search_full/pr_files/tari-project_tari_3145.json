@@ -1,0 +1,1 @@
+["applications/tari_app_grpc/proto/wallet.proto", "applications/tari_app_grpc/src/conversions/transaction.rs", "applications/tari_console_wallet/src/grpc/wallet_grpc_server.rs"]

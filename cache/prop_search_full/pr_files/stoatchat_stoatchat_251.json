@@ -1,0 +1,1 @@
+["crates/delta/src/routes/channels/message_edit.rs", "crates/delta/src/routes/channels/message_send.rs", "crates/delta/src/routes/webhooks/webhook_execute_github.rs", "crates/quark/src/impl/generic/channels/channel.rs", "crates/quark/src/impl/generic/channels/message.rs", "crates/quark/src/models/channels/message.rs", "crates/quark/src/util/result.rs"]

@@ -1,0 +1,1 @@
+["lib/src/cli.rs", "lib/src/container/deploy.rs", "lib/src/container/mod.rs", "lib/src/container/store.rs", "lib/src/tar/write.rs", "lib/tests/it/fixtures/exampleos-derive-v2.ociarchive", "lib/tests/it/main.rs"]

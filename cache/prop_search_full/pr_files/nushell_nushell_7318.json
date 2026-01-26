@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/mut_.rs", "crates/nu-command/tests/commands/mut_.rs", "crates/nu-engine/src/eval.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/shell_error.rs", "crates/nu-protocol/src/value/mod.rs"]

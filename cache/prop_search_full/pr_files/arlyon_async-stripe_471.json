@@ -1,0 +1,1 @@
+["openapi/Cargo.toml", "openapi/src/codegen.rs", "openapi/src/metadata.rs", "openapi/src/url_finder.rs", "src/ids.rs", "src/resources/generated/login_link.rs", "src/resources/generated/subscriptions_trials_resource_trial_settings.rs"]

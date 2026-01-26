@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/hc_sandbox/Cargo.toml", "crates/holochain/Cargo.toml", "crates/holochain_keystore/Cargo.toml", "crates/holochain_state/Cargo.toml", "crates/holochain_util/Cargo.toml", "crates/kitsune_p2p/direct/Cargo.toml", "crates/kitsune_p2p/types/Cargo.toml"]

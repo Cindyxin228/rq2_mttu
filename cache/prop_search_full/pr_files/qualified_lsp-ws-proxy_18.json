@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/client.rs", "src/lsp/error.rs", "src/lsp/framed/codec.rs", "src/lsp/framed/parser.rs", "src/main.rs"]

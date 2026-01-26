@@ -1,0 +1,1 @@
+["sdk/c/include/hedera.h", "sdk/rust/src/ffi/execute.rs", "sdk/rust/src/ffi/nft_id.rs", "sdk/rust/src/query/any.rs", "sdk/rust/src/query/cost.rs", "sdk/rust/src/query/execute.rs", "sdk/rust/src/query/mod.rs", "sdk/swift/Sources/Hedera/Query.swift", "sdk/swift/Sources/Hedera/QueryCost.swift"]

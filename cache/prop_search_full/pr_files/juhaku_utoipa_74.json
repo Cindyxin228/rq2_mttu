@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "Cargo.toml", "README.md", "src/lib.rs", "tests/component_derive_test.rs", "utoipa-gen/Cargo.toml", "utoipa-gen/src/component_type.rs", "utoipa-gen/src/path.rs", "utoipa-gen/src/path/property.rs"]

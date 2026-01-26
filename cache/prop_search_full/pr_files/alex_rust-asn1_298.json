@@ -1,0 +1,1 @@
+["asn1_derive/src/lib.rs", "examples/no_std.rs", "fuzz/fuzz_targets/fuzz_asn1_parse.rs", "src/lib.rs", "src/parser.rs", "src/types.rs", "src/writer.rs", "tests/derive_test.rs", "tests/roundtrip_tests.rs"]

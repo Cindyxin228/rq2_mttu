@@ -1,0 +1,1 @@
+["go.mod", "go.sum", "go/ops_data_test.go", "go/ops_test.go", "go/proof_data_test.go", "go/proof_test.go", "go/vectors_data_test.go", "go/vectors_test.go", "testdata/TestCheckAgainstSpecData.json", "testdata/TestCheckLeafData.json", "testdata/TestDoHashData.json", "testdata/TestExistenceProofData.json", "testdata/TestInnerOpData.json", "testdata/TestLeafOpData.json"]

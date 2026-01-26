@@ -1,0 +1,1 @@
+["docs/posts/announcing-v0.5.0.md", "packages/sycamore/Cargo.toml", "packages/sycamore/src/generic_node/ssr_node.rs", "packages/sycamore/src/rx/effect.rs", "packages/sycamore/src/rx/signal.rs", "packages/sycamore/src/utils/render.rs", "packages/sycamore/tests/ssr/main.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "deny.toml", "src/bin/coreutils.rs", "src/uu/cat/Cargo.toml", "src/uu/kill/Cargo.toml", "src/uu/more/Cargo.toml", "src/uu/more/src/more.rs", "src/uu/nice/Cargo.toml", "src/uu/tail/Cargo.toml", "src/uu/timeout/Cargo.toml", "src/uu/wc/Cargo.toml", "src/uu/yes/Cargo.toml", "src/uucore/Cargo.toml", "tests/by-util/test_pr.rs"]

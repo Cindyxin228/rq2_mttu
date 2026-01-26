@@ -1,0 +1,1 @@
+["azure-pipelines.yml", "c2rust-ast-exporter/build.rs", "scripts/build_translator.py", "scripts/llvm-11.0.0-key.asc", "scripts/provision_mac.sh"]

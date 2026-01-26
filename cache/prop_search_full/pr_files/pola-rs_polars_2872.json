@@ -1,0 +1,1 @@
+["polars/polars-lazy/src/dsl/string.rs", "py-polars/docs/source/reference/expression.rst", "py-polars/docs/source/reference/series.rst", "py-polars/polars/internals/expr.py", "py-polars/polars/internals/series.py", "py-polars/src/lazy/dsl.rs", "py-polars/tests/test_exprs.py"]

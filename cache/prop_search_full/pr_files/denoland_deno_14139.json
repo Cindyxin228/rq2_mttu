@@ -1,0 +1,1 @@
+["cli/config_file.rs", "cli/lsp/capabilities.rs", "cli/lsp/language_server.rs", "cli/lsp/lsp_custom.rs", "cli/tests/integration/lsp_tests.rs"]

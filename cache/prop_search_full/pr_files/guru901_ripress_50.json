@@ -1,0 +1,1 @@
+["src/app.rs", "src/middlewares/cors.rs", "src/middlewares/logger.rs", "src/request.rs"]

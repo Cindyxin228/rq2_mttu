@@ -1,0 +1,1 @@
+[".github/workflows/rust.yaml", "Cargo.lock", "Cargo.toml", "bin/client/main.rs", "bin/client/opts.rs", "bin/server.rs", "deny.toml", "src/authn/oidc.rs", "src/client/mod.rs", "src/client/tokens.rs", "src/invoice/mod.rs", "src/invoice/signature.rs", "src/invoice/verification.rs"]

@@ -1,0 +1,1 @@
+["src/clients/beacon/mod.rs", "src/clients/beacon/types.rs", "src/clients/blobscan/mod.rs", "src/clients/blobscan/types.rs", "src/indexer/error.rs", "src/indexer/event_handlers/finalized_checkpoint.rs", "src/indexer/event_handlers/head.rs", "src/indexer/mod.rs", "src/slots_processor/error.rs", "src/slots_processor/mod.rs", "src/synchronizer/error.rs", "src/synchronizer/mod.rs"]

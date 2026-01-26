@@ -1,0 +1,1 @@
+[".changes/cli-build-no-bundle.md", ".changes/utils-bundle-target-all.md", ".changes/utils-bundle-type-all.md", "core/tauri-utils/src/config.rs", "examples/api/src-tauri/Cargo.lock", "tooling/cli/src/build.rs", "tooling/cli/src/interface/mod.rs", "tooling/cli/src/mobile/android/build.rs", "tooling/cli/src/mobile/ios/build.rs"]

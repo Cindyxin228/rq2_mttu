@@ -1,0 +1,1 @@
+["crates/bevy_input/src/gestures.rs", "crates/bevy_input/src/lib.rs", "crates/bevy_input/src/touchpad.rs", "crates/bevy_window/src/window.rs", "crates/bevy_winit/src/state.rs", "crates/bevy_winit/src/system.rs", "crates/bevy_winit/src/winit_event.rs", "examples/input/mouse_input_events.rs", "examples/mobile/src/lib.rs"]

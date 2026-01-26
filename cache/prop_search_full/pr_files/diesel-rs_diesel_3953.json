@@ -1,0 +1,1 @@
+["diesel/src/mysql/types/date_and_time/chrono.rs", "diesel/src/pg/types/date_and_time/chrono.rs", "diesel/src/sqlite/types/date_and_time/chrono.rs", "diesel_tests/tests/types_roundtrip.rs"]

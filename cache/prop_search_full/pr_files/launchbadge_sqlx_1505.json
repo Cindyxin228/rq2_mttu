@@ -1,0 +1,1 @@
+["Cargo.lock", "sqlx-core/Cargo.toml", "sqlx-core/src/error.rs", "sqlx-core/src/net/tls/mod.rs", "sqlx-core/src/net/tls/rustls.rs", "sqlx-rt/Cargo.toml", "sqlx-rt/src/lib.rs"]

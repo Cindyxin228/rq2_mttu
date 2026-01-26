@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/errors.rs", "src/lib.rs", "src/prelude.rs", "src/request.rs", "src/request/body.rs", "src/request/mod.rs", "src/request/request_type/graphql.rs", "src/request/request_type/mod.rs", "src/request/request_type/rest.rs", "src/response.rs", "src/v2/body.rs"]

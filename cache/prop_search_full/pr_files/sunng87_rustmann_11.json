@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "protos/riemann.proto", "src/client.rs", "src/codec.rs", "src/event.rs", "src/lib.rs", "src/transport.rs", "tests/eventbuilder.rs"]

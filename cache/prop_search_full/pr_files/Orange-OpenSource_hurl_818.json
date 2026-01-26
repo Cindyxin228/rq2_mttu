@@ -1,0 +1,1 @@
+["docs/grammar.md", "docs/spec/hurl.grammar", "integration/tests_ok/assert_json.html", "integration/tests_ok/assert_json.hurl", "integration/tests_ok/assert_json.json", "integration/tests_ok/assert_xpath.html", "integration/tests_ok/assert_xpath.hurl", "integration/tests_ok/assert_xpath.json", "packages/hurl/src/runner/predicate.rs", "packages/hurl_core/src/parser/predicate.rs"]

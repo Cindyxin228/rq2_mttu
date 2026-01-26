@@ -1,0 +1,1 @@
+["src/api/rest/gateway.rs", "src/api/rest/project.rs", "src/api/rest/section.rs", "src/command.rs", "src/lib.rs", "src/projects/mod.rs", "src/projects/project.rs", "src/sections/add.rs", "src/sections/delete.rs", "src/sections/list.rs", "src/sections/mod.rs", "src/sections/section.rs", "src/tasks/add.rs", "src/tasks/list.rs", "src/tasks/mod.rs"]

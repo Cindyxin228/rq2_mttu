@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "packages/client/package.json", "packages/query-core/package.json", "packages/react-query/package.json", "packages/solid-query/package.json", "packages/svelte-query/package.json", "packages/tauri/package.json", "src/lib.rs"]

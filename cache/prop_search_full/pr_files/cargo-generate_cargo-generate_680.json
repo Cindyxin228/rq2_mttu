@@ -1,0 +1,1 @@
+["guide/src/favorites.md", "src/app_config.rs", "src/args.rs", "src/config.rs", "src/hooks/mod.rs", "src/lib.rs", "src/template.rs", "src/user_parsed_input.rs", "tests/integration/basics.rs", "tests/integration/config_file/favorites.rs"]

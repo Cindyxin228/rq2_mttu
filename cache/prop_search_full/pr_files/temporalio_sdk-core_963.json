@@ -1,0 +1,1 @@
+["client/src/callback_based.rs", "client/src/lib.rs", "client/src/metrics.rs", "core-c-bridge/Cargo.toml", "core-c-bridge/include/temporal-sdk-core-c-bridge.h", "core-c-bridge/src/client.rs", "core-c-bridge/src/tests/context.rs", "core-c-bridge/src/tests/mod.rs"]

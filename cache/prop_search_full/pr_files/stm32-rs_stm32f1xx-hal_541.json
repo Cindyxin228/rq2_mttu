@@ -1,0 +1,1 @@
+["examples/blinky_rtcalarm_irq.rs", "examples/blinky_timer_irq.rs", "examples/can-loopback.rs", "examples/can-rtic.rs", "examples/mpu9250.rs", "examples/usb_serial_interrupt.rs", "src/flash.rs", "src/pacext/adc.rs", "src/pacext/uart.rs"]

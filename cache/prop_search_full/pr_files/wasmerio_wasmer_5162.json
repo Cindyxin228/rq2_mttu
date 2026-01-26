@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/fd_write.rs", "lib/wasix/src/syscalls/wasi/path_open.rs", "tests/wasi-fyi/fs_open_append_offset.rs", "tests/wasi-fyi/test_fs/fyi/fs_open_append_offset.dir/.gitignore"]

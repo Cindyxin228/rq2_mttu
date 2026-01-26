@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/tests/testdata/coverage/complex_test.ts", "cli/tests/testdata/test/captured_output.ts", "cli/tests/unit/http_test.ts", "cli/tests/unit/process_test.ts", "third_party"]

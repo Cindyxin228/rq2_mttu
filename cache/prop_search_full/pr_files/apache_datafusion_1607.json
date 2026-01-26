@@ -1,0 +1,1 @@
+["datafusion/src/physical_plan/coercion_rule/binary_rule.rs", "datafusion/src/physical_plan/expressions/coercion.rs", "datafusion/src/physical_plan/expressions/mod.rs", "datafusion/src/physical_plan/expressions/negative.rs"]

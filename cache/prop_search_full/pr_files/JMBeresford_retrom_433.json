@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "packages/client-web/vite.config.ts", "packages/rest-service/Cargo.toml", "packages/rest-service/src/lib.rs", "packages/rest-service/src/middleware/cache_control.rs", "packages/rest-service/src/middleware/cross_origin_isolation.rs", "packages/rest-service/src/middleware/mod.rs", "plugins/retrom-plugin-launcher/src/commands.rs"]

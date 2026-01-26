@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "core-api/src/telemetry.rs", "core/Cargo.toml", "core/src/telemetry/mod.rs", "core/src/telemetry/otel.rs", "tests/global_metric_tests.rs", "tests/integ_tests/metrics_tests.rs"]

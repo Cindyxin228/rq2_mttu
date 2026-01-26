@@ -1,0 +1,1 @@
+["crates/matrix-sdk-base/src/client.rs", "crates/matrix-sdk-base/src/rooms/mod.rs", "crates/matrix-sdk-base/src/rooms/normal.rs", "crates/matrix-sdk/src/encryption/identities/users.rs", "crates/matrix-sdk/src/encryption/mod.rs", "crates/matrix-sdk/src/room/common.rs"]

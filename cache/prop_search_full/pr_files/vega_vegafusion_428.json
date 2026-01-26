@@ -1,0 +1,1 @@
+["python/vegafusion/vegafusion/transformer.py", "vegafusion-core/src/planning/dependency_graph.rs", "vegafusion-core/src/planning/fuse.rs", "vegafusion-core/src/planning/lift_facet_aggregations.rs", "vegafusion-python-embed/src/lib.rs", "vegafusion-runtime/src/data/tasks.rs", "vegafusion-runtime/src/task_graph/runtime.rs", "vegafusion-sql/src/connection/datafusion_conn.rs"]

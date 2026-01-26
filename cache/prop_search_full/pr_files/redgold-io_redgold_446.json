@@ -1,0 +1,1 @@
+["schema/json_build_config.json", "schema/src/address.rs", "schema/src/output.rs", "schema/src/proto/structs.proto", "schema/src/transaction.rs", "schema/src/transaction_builder.rs", "src/api/explorer/mod.rs", "src/api/public_api.rs", "src/multiparty/gg20_sm_manager.rs", "src/multiparty/watcher.rs"]

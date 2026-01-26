@@ -1,0 +1,1 @@
+["fuzz/fuzz_targets/same_result.rs", "src/lib.rs", "src/rewrite.rs", "src/translate.rs", "tests/tests.rs"]

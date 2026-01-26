@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/main.yml", "Cargo.lock", "ci/validate-version-bump.sh", "crates/xtask-bump-check/Cargo.toml", "crates/xtask-bump-check/src/main.rs", "crates/xtask-bump-check/src/xtask.rs", "crates/xtask-unpublished/src/xtask.rs"]

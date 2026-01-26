@@ -1,0 +1,1 @@
+["crates/nu-command/src/viewers/explore.rs", "crates/nu-explore/src/commands/help.rs", "crates/nu-explore/src/commands/nu.rs", "crates/nu-explore/src/commands/preview.rs", "crates/nu-explore/src/commands/quit.rs", "crates/nu-explore/src/commands/try.rs", "crates/nu-explore/src/pager.rs", "crates/nu-explore/src/views/preview.rs", "crates/nu-explore/src/views/record/mod.rs"]

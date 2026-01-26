@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".github/workflows/tls.yml", "scylla/tests/ccm_integration/ccm/cluster.rs", "scylla/tests/ccm_integration/ccm/mod.rs", "scylla/tests/ccm_integration/main.rs", "scylla/tests/ccm_integration/tls.rs", "test/tls/Dockerfile", "test/tls/docker-compose-tls.yml", "test/tls/scylla.yaml"]

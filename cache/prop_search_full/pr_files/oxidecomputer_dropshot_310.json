@@ -1,0 +1,1 @@
+["CHANGELOG.adoc", "dropshot/src/api_description.rs", "dropshot/src/handler.rs", "dropshot/src/lib.rs", "dropshot/tests/fail/bad_endpoint12.stderr", "dropshot/tests/fail/bad_endpoint7.stderr", "dropshot/tests/test_openapi.json", "dropshot/tests/test_openapi.rs", "dropshot/tests/test_openapi_fuller.json"]

@@ -1,0 +1,1 @@
+["crates/holochain/src/conductor/conductor.rs", "crates/holochain/src/conductor/conductor/tests.rs", "crates/holochain/src/conductor/handle.rs", "crates/holochain/src/local_network_tests.rs", "crates/kitsune_p2p/bootstrap/benches/bench.rs", "nix/pkgs/core.nix"]

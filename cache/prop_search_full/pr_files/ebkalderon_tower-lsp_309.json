@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", ".github/workflows/rust.yml", "Cargo.toml", "examples/custom_notification.rs", "examples/stdio.rs", "examples/tcp.rs", "examples/websocket.rs", "src/client.rs", "src/codec.rs", "src/lib.rs", "src/service.rs", "src/transport.rs", "tower-lsp-macros/src/lib.rs"]

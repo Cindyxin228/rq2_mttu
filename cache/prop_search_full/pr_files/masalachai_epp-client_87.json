@@ -1,0 +1,1 @@
+["src/client.rs", "src/common.rs", "src/contact/info.rs", "src/domain.rs", "src/domain/info.rs", "src/error.rs", "src/extensions/consolidate.rs", "src/hello.rs", "src/login.rs", "src/logout.rs", "src/response.rs"]

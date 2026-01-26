@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "README.md", "build.rs", "crates/support/Cargo.toml", "crates/support/src/lib.rs", "examples/foo/Cargo.toml", "examples/foo/locales/en.yml", "examples/foo/src/lib.rs", "src/lib.rs", "tests/intergartion_test.rs", "tests/locales/de.yml", "tests/locales/en.yml", "tests/locales/user.en.yml"]

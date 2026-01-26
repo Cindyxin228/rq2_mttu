@@ -1,0 +1,1 @@
+["Cargo-msrv.lock", "Cargo.toml", "README.md", "build.rs", "examples/cancel_invoice.rs", "examples/getinfo.rs", "examples/getversion.rs", "examples/intercept_htlcs.rs", "examples/subscribe_invoices.rs", "examples/track_payment.rs", "src/error.rs", "src/lib.rs"]

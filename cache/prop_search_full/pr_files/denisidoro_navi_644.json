@@ -1,0 +1,1 @@
+["docs/config_file_example.yaml", "src/config/env.rs", "src/config/mod.rs", "src/config/yaml.rs", "src/env_var.rs", "src/finder/mod.rs", "src/shell.rs", "tests/config.yaml", "tests/helpers.sh", "tests/no_prompt_cheats/cases.cheat", "tests/run"]

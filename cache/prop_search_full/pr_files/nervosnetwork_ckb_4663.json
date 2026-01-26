@@ -1,0 +1,1 @@
+["Cargo.lock", "deny.toml", "util/rich-indexer/Cargo.toml", "util/rich-indexer/src/indexer/insert.rs", "util/rich-indexer/src/indexer/remove.rs", "util/rich-indexer/src/indexer_handle/async_indexer_handle/get_transactions.rs", "util/rich-indexer/src/store.rs", "util/rich-indexer/src/tests/mod.rs"]

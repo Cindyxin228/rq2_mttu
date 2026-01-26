@@ -1,0 +1,1 @@
+["gluesql-js/web/tests/memory_storage.rs", "storages/memory-storage/tests/memory_storage.rs", "storages/shared-memory-storage/tests/shared_memory_storage.rs", "storages/sled-storage/tests/sled_storage.rs", "test-suite/src/tester/mod.rs"]

@@ -1,0 +1,1 @@
+[".clippy.toml", "Cargo.lock", "Cargo.toml", "examples/ddoc/main.rs", "src/class.rs", "src/decorators.rs", "src/enum.rs", "src/interface.rs", "src/lib.rs", "src/module.rs", "src/namespace.rs", "src/params.rs", "src/parser.rs", "src/swc_util.rs", "src/ts_type.rs"]

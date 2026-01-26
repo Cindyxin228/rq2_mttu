@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "c_examples/.gitignore", "c_examples/CMakeLists.txt", "c_examples/README.md", "c_examples/mem-dump.c", "c_examples/pause.c", "c_examples/regs-dump.c", "doc/src/developer/mem_dump/c.md"]

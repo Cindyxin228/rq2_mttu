@@ -1,0 +1,1 @@
+["lib/src/cloud/hyper.rs", "lib/src/cloud/mod.rs", "lib/src/model/response/mod.rs", "lib/src/model/response/template/mod.rs", "lib/tests/resp/headers.rs", "lib/tests/stubs/resp/headers/cache-control.json"]

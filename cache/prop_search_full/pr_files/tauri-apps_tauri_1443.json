@@ -1,0 +1,1 @@
+["tauri-api/Cargo.toml", "tauri-api/src/rpc.rs", "tauri/src/endpoints/global_shortcut.rs", "tauri/src/endpoints/shell.rs", "tauri/src/hooks.rs"]

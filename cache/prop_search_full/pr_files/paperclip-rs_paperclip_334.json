@@ -1,0 +1,1 @@
+[".github/workflows/cicd.yml", "CHANGELOG.md", "Cargo.toml", "core/Cargo.toml", "core/src/v2/actix.rs", "core/src/v2/models.rs", "core/src/v2/schema.rs", "src/error.rs", "src/v2/codegen/emitter.rs", "src/v2/codegen/state.rs"]

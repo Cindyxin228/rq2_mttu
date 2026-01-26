@@ -1,0 +1,1 @@
+["Cargo.toml", "sentry-core/Cargo.toml", "sentry-core/src/client.rs", "sentry-core/src/lib.rs", "sentry-core/src/utils.rs", "sentry-debug-images/Cargo.toml", "sentry-debug-images/src/integration.rs", "sentry-debug-images/src/lib.rs", "sentry-debug-images/src/unix.rs", "sentry/Cargo.toml", "sentry/src/lib.rs"]

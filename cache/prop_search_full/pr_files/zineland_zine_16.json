@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "Cargo.toml", "src/build.rs", "src/engine.rs", "src/entity/article.rs", "src/entity/end_matter.rs", "src/entity/mod.rs", "src/entity/page.rs", "src/entity/season.rs", "src/entity/zine.rs", "src/helpers.rs"]

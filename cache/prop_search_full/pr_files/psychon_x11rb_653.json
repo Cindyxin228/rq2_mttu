@@ -1,0 +1,1 @@
+["generator/src/generator/namespace/request.rs", "generator/src/generator/namespace/struct_type.rs", "src/errors.rs", "src/protocol/render.rs", "src/protocol/screensaver.rs", "src/protocol/sync.rs", "src/protocol/xkb.rs", "src/protocol/xproto.rs", "xcbgen-rs/src/defs/alignment.rs", "xcbgen-rs/src/defs/top_level.rs"]

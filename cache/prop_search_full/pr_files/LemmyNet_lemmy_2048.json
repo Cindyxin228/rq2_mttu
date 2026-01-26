@@ -1,0 +1,1 @@
+["crates/apub/src/lib.rs", "crates/apub/src/protocol/activities/community/report.rs", "crates/apub/src/protocol/activities/private_message/create_or_update.rs", "crates/apub/src/protocol/activities/private_message/delete.rs", "crates/apub/src/protocol/activities/private_message/undo_delete.rs", "crates/apub/src/protocol/objects/chat_message.rs"]

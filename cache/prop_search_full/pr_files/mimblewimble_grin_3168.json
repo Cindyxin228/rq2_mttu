@@ -1,0 +1,1 @@
+["core/tests/consensus.rs", "core/tests/consensus_automated.rs", "core/tests/consensus_floonet.rs", "core/tests/consensus_mainnet.rs"]

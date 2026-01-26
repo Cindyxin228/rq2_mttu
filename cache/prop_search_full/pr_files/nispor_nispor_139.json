@@ -1,0 +1,1 @@
+["src/lib/ifaces/bridge.rs", "src/lib/netlink/bridge_port.rs", "src/lib/tests/bridge.rs", "src/lib/tests/bridge_vlan_filter.rs"]

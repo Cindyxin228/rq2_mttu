@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/basic/Cargo.toml", "src/driver/sqlx_common.rs", "src/entity/base_entity.rs", "src/entity/identity.rs", "src/error.rs", "src/executor/cursor.rs", "src/executor/delete.rs", "src/executor/query.rs", "src/executor/select.rs", "src/executor/update.rs", "src/query/delete.rs", "src/query/update.rs"]

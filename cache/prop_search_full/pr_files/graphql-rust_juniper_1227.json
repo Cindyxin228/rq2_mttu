@@ -1,0 +1,1 @@
+["juniper/CHANGELOG.md", "juniper/src/lib.rs", "juniper/src/schema/model.rs", "juniper/src/validation/mod.rs", "juniper/src/validation/rules/disable_introspection.rs", "juniper/src/validation/rules/mod.rs", "tests/integration/tests/disabled_introspection.rs"]

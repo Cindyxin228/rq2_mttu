@@ -1,0 +1,1 @@
+["Makefile", "evento/.env", "evento/src/event_store.rs", "evento/tests/event_store.rs", "example/.env", "example/migrations/20221022132446_init.down.sql", "example/migrations/20221022132446_init.up.sql", "example/src/main.rs", "migrations/20221022132446_init.down.sql", "migrations/20221022132446_init.up.sql", "sqlx-data.json"]

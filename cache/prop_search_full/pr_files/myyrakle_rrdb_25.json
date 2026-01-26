@@ -1,0 +1,1 @@
+["src/lib/ast/dml/insert.rs", "src/lib/ast/dml/parts/insert_values.rs", "src/lib/ast/dml/parts/mod.rs", "src/lib/parser/core.rs", "src/lib/parser/implements/dml/insert.rs", "src/lib/parser/implements/dml/select.rs", "src/lib/parser/implements/utils.rs", "src/lib/parser/test/insert.rs", "src/lib/parser/test/mod.rs", "src/test.rs"]

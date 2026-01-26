@@ -1,0 +1,1 @@
+["Cargo.lock", "Makefile", "glean-core/Cargo.toml", "glean-core/build/Cargo.toml", "glean-core/build/src/lib.rs", "glean-core/ios/sdk_generator.sh", "glean-core/python/glean/__init__.py", "gradle-plugin/src/main/groovy/mozilla/telemetry/glean-gradle-plugin/GleanGradlePlugin.groovy", "pyproject.toml", "samples/rust/metrics.yaml", "samples/rust/src/main.rs"]

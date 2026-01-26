@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "pueue/tests/daemon/integration/mod.rs", "pueue/tests/daemon/integration/socket_permissions.rs", "pueue_lib/src/network/socket/unix.rs", "pueue_lib/src/settings.rs", "pueue_lib/tests/helper.rs"]

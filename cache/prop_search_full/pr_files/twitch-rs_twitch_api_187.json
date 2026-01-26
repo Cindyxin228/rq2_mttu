@@ -1,0 +1,1 @@
+["src/eventsub/channel/poll/begin.rs", "src/eventsub/channel/subscription/gift.rs", "src/eventsub/channel/subscription/message.rs", "src/helix/users/get_user_block_list.rs", "src/pubsub/hypetrain.rs", "src/pubsub/video_playback.rs"]

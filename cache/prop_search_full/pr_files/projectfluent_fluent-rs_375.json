@@ -1,0 +1,1 @@
+["fluent-bundle/examples/custom_type.rs", "fluent-bundle/examples/functions.rs", "fluent-bundle/src/types/mod.rs", "fluent-bundle/src/types/number.rs", "fluent-bundle/tests/custom_types.rs", "fluent-syntax/src/parser/core.rs", "fluent-syntax/src/parser/slice.rs", "fluent-syntax/tests/helper/mod.rs"]

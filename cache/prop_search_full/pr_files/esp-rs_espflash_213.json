@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-espflash/Cargo.toml", "espflash/Cargo.toml", "espflash/src/flash_target/esp32.rs", "espflash/src/flash_target/esp8266.rs"]

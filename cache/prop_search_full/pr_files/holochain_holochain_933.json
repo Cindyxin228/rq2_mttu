@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "config.nix", "crates/release-automation/Cargo.toml", "crates/release-automation/examples/fix-json.rs", "crates/release-automation/src/release.rs", "default.nix", "nix/pkgs/default.nix", "nix/rust.nix", "nix/shells.nix", "nix/sources.json", "nix/sources.nix", "nix/update.sh", "shell.nix"]

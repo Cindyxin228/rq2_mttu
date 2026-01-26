@@ -1,0 +1,1 @@
+["datafusion/physical-optimizer/src/optimizer.rs", "datafusion/sqllogictest/test_files/explain.slt", "datafusion/sqllogictest/test_files/window.slt"]

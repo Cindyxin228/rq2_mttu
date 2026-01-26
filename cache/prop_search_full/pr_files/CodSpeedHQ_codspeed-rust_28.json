@@ -1,0 +1,1 @@
+["crates/bencher_compat/Cargo.toml", "crates/cargo-codspeed/Cargo.toml", "crates/codspeed/Cargo.toml", "crates/criterion_compat/Cargo.toml"]

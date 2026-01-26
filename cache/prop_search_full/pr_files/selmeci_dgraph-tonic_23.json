@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/client/acl.rs", "src/client/default.rs", "src/client/endpoints.rs", "src/client/mod.rs", "src/errors/client.rs", "src/errors/dgraph.rs", "src/lib.rs", "src/stub.rs", "src/sync/client/default.rs", "src/sync/client/tls.rs"]

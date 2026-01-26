@@ -1,0 +1,1 @@
+["crates/swc_ecma_lints/src/rules/duplicate_bindings.rs", "crates/swc_ecma_lints/tests/fixture.rs", "crates/swc_ecma_lints/tests/pass/issue-3848/1/input.ts"]

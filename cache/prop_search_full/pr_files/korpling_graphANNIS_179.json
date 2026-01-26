@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "capi/cbindgen.toml", "capi/include/graphannis-capi.h", "core/src/graph/update.rs", "webservice/Cargo.toml"]

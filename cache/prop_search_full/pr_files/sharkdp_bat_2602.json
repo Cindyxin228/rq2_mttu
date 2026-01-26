@@ -1,0 +1,1 @@
+[".github/workflows/CICD.yml", "tests/examples/bat-windows.conf", "tests/integration_tests.rs", "tests/mocked-pagers/echo.bat", "tests/utils/mocked_pagers.rs"]

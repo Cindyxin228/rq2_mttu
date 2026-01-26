@@ -1,0 +1,1 @@
+["scylla/benches/benchmark.rs", "scylla/src/client/pager.rs", "scylla/src/client/session_test.rs", "scylla/src/routing/partitioner.rs", "scylla/src/statement/prepared_statement.rs"]

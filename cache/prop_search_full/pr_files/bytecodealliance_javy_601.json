@@ -1,0 +1,1 @@
+[".github/workflows/cargo-vet.yml", "Cargo.lock", "crates/cli/Cargo.toml", "crates/quickjs-wasm-sys/Cargo.toml", "supply-chain/config.toml", "supply-chain/imports.lock"]

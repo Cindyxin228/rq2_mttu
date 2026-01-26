@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_compat/src/es2017/async_to_generator.rs", "crates/swc_ecma_transforms_compat/src/es2017/mod.rs", "crates/swc_ecma_transforms_compat/src/es2018/mod.rs", "crates/swc_ecma_transforms_compat/src/es2018/object_rest_spread.rs", "crates/swc_ecma_transforms_compat/src/es2019/mod.rs", "crates/swc_ecma_transforms_compat/src/es2019/optional_catch_binding.rs"]

@@ -1,0 +1,1 @@
+["src/bucket.rs", "src/db.rs", "src/transaction.rs", "tests/deletes.rs", "tests/multiple_buckets.rs", "tests/multiple_txs.rs", "tests/simple_inserts.rs"]

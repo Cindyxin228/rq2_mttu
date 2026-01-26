@@ -1,0 +1,1 @@
+["Cargo.lock", "src/certs.rs", "src/cmd.rs", "src/command_processor.rs", "src/config/click.rs", "src/config/kube.rs", "src/error.rs", "src/kube.rs", "src/main.rs"]

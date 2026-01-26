@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "flareon-cli/Cargo.toml", "flareon-cli/src/main.rs", "flareon-cli/src/migration_generator.rs", "flareon/Cargo.toml", "flareon/src/db.rs", "flareon/src/db/migrations.rs", "flareon/src/db/sea_query_db.rs", "flareon/src/error_page.rs", "flareon/src/lib.rs", "flareon/src/router.rs", "flareon/src/router/path.rs"]

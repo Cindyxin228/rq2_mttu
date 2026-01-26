@@ -1,0 +1,1 @@
+["core/.changelog.d/2651.changed", "core/src/apps/base.py", "core/src/apps/bitcoin/sign_tx/bitcoin.py", "core/src/apps/debug/__init__.py", "core/src/storage/cache.py", "core/src/trezor/wire/__init__.py", "core/src/trezor/workflow.py", "python/src/trezorlib/debuglink.py", "tests/click_tests/test_autolock.py", "tests/device_tests/test_autolock.py", "tests/ui_tests/fixtures.json"]

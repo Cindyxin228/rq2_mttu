@@ -1,0 +1,1 @@
+["ethers-providers/Cargo.toml", "ethers-providers/src/provider.rs", "ethers-providers/src/transports/mod.rs", "ethers-providers/src/transports/retry.rs"]

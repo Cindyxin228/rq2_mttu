@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_optimizer/repartition.rs", "datafusion/core/src/physical_plan/projection.rs", "datafusion/core/tests/sql/explain_analyze.rs", "datafusion/core/tests/sql/joins.rs", "datafusion/core/tests/sql/window.rs"]

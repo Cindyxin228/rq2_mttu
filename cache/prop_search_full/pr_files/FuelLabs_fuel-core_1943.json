@@ -1,0 +1,1 @@
+[".cargo/config.toml", "crates/chain-config/src/config/contract.rs", "crates/fuel-core/src/database/state.rs", "crates/services/upgradable-executor/build.rs", "crates/services/upgradable-executor/src/executor.rs", "tests/tests/blocks.rs", "tests/tests/poa.rs", "tests/tests/sync.rs"]

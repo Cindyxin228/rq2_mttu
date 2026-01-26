@@ -1,0 +1,1 @@
+["crates/ruma-common/src/events.rs", "crates/ruma-common/src/events/enums.rs", "crates/ruma-common/src/events/kinds.rs", "crates/ruma-common/src/events/room/redaction.rs", "crates/ruma-macros/src/events/event.rs", "crates/ruma-macros/src/events/event_enum.rs", "crates/ruma-macros/src/events/event_parse.rs"]

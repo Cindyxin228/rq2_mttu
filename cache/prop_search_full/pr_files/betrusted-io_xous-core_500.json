@@ -1,0 +1,1 @@
+["emulation/peripherals/WF200.cs", "kernel/src/arch/mod.rs", "kernel/src/main.rs", "kernel/src/mem.rs", "kernel/src/services.rs", "kernel/src/syscall.rs", "xous-rs/src/arch/mod.rs", "xous-rs/src/definitions.rs", "xtask/src/builder.rs", "xtask/src/main.rs", "xtask/src/utils.rs"]

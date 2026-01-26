@@ -1,0 +1,1 @@
+["c2rust-transpile/src/c_ast/mod.rs", "c2rust-transpile/src/lib.rs", "c2rust-transpile/src/translator/mod.rs", "c2rust/src/bin/c2rust-transpile.rs", "c2rust/src/transpile.yaml"]

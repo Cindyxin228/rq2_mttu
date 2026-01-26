@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands/alias.rs", "crates/nu-cli/src/commands/autoview.rs", "crates/nu-cli/src/commands/command.rs", "crates/nu-cli/src/commands/lines.rs", "crates/nu-cli/src/commands/run_external.rs", "crates/nu-cli/src/commands/sum.rs", "crates/nu-cli/src/context.rs", "crates/nu-protocol/src/hir.rs"]

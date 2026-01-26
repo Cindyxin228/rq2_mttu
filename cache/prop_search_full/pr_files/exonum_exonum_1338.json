@@ -1,0 +1,1 @@
+["examples/cryptocurrency-advanced/backend/src/transactions.rs", "exonum/src/blockchain/tests.rs", "exonum/src/runtime/configuration_new/mod.rs", "exonum/src/runtime/dispatcher.rs", "exonum/src/runtime/error.rs", "exonum/src/runtime/mod.rs", "exonum/src/runtime/rust/mod.rs", "exonum/src/runtime/rust/service.rs", "exonum/src/runtime/rust/tests.rs"]

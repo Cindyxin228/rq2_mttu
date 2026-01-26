@@ -1,0 +1,1 @@
+["burn-core/src/nn/attention/mha.rs", "burn-core/src/nn/cache/autoregressive.rs", "burn-core/src/nn/cache/base.rs", "burn-core/src/nn/transformer/decoder.rs", "burn-core/src/nn/transformer/encoder.rs", "burn-core/src/nn/transformer/mod.rs"]

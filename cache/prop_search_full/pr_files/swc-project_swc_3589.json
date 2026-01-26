@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_typescript/tests/fixture/issue-2670/input.ts", "crates/swc_ecma_transforms_typescript/tests/fixture/issue-2670/output.js"]

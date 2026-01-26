@@ -1,0 +1,1 @@
+[".env", "CHANGELOG.md", "examples/album.rs", "examples/blocking/device.rs", "examples/blocking/me.rs", "examples/blocking/search.rs", "examples/blocking/seek_track.rs", "examples/current_user_recently_played.rs", "examples/track.rs", "examples/tracks.rs", "src/blocking/oauth2.rs", "src/lib.rs", "src/oauth2.rs", "tests/test_with_credential.rs"]

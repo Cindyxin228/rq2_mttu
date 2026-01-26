@@ -1,0 +1,1 @@
+["src/schema/bytes_options.rs", "src/schema/date_time_options.rs", "src/schema/facet_options.rs", "src/schema/field_entry.rs", "src/schema/ip_options.rs", "src/schema/json_object_options.rs", "src/schema/numeric_options.rs", "src/schema/text_options.rs"]

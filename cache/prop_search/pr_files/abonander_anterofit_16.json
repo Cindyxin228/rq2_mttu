@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "src/lib.rs", "src/serialize/json.rs", "src/serialize/mod.rs", "src/serialize/rustc/json.rs", "src/serialize/rustc/mod.rs", "src/serialize/serde/mod.rs", "src/serialize/xml.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "example/hello_world/Cargo.toml", "example/serialization/Cargo.toml", "legion_core/Cargo.toml", "legion_core/src/storage.rs", "legion_systems/Cargo.toml"]

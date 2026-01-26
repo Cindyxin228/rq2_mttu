@@ -1,0 +1,1 @@
+["controller/tests/contract_accounts.rs", "controller/tests/contract_accounts_switch.rs", "controller/tests/contract_rsr.rs", "controller/tests/contract_self_spend.rs", "controller/tests/contract_self_spend_custom.rs", "controller/tests/contract_srs.rs"]

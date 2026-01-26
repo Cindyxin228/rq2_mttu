@@ -1,0 +1,1 @@
+["src/mac.rs", "src/mac/errors.rs", "src/mac/minidump_writer.rs", "src/mac/streams/breakpad_info.rs", "src/mac/streams/exception.rs", "src/mac/streams/memory_list.rs", "src/mac/streams/module_list.rs", "tests/mac_minidump_writer.rs"]

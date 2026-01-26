@@ -1,0 +1,1 @@
+["config/defaults.hjson", "crates/apub/src/fetcher/webfinger.rs", "crates/apub_lib/src/object_id.rs", "crates/utils/src/request.rs", "crates/utils/src/settings/structs.rs"]

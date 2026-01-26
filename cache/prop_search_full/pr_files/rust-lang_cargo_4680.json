@@ -1,0 +1,1 @@
+["src/bin/login.rs", "src/bin/owner.rs", "src/bin/publish.rs", "src/bin/search.rs", "src/bin/yank.rs", "src/cargo/core/features.rs", "src/cargo/core/source/source_id.rs", "src/cargo/ops/registry.rs", "src/cargo/util/config.rs", "tests/alt-registry.rs", "tests/cargotest/support/registry.rs", "tests/login.rs"]

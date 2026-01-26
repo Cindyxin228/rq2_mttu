@@ -1,0 +1,1 @@
+["CHANGELOG.md", "e2e/tests-dfx/create.bash", "nix/sources.json", "scripts/update-replica.sh", "scripts/write-dfx-asset-sources.sh", "src/dfx/assets/dfx-asset-sources.toml", "src/dfx/assets/prepare_assets.rs", "src/dfx/src/actors/replica.rs", "src/dfx/src/lib/operations/canister/create_canister.rs"]

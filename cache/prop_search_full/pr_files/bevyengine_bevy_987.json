@@ -1,0 +1,1 @@
+["crates/bevy_render/src/draw.rs", "crates/bevy_render/src/pipeline/render_pipelines.rs", "crates/bevy_render/src/render_graph/nodes/render_resources_node.rs", "crates/bevy_render/src/renderer/render_resource/render_resource_bindings.rs", "crates/bevy_text/src/draw.rs", "crates/bevy_ui/src/widget/text.rs"]

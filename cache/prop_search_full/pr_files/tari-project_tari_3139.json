@@ -1,0 +1,1 @@
+["base_layer/wallet_ffi/src/lib.rs", "integration_tests/features/WalletTransactions.feature", "integration_tests/features/support/steps.js", "integration_tests/helpers/walletProcess.js"]

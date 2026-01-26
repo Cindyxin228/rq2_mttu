@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "crates/nixci/src/lib.rs", "crates/nixci/src/main.rs", "crates/nixci/tests/integration_test.rs", "crates/omnix-cli/Cargo.toml", "crates/omnix-cli/src/command/ci.rs", "crates/omnix-cli/src/command/mod.rs", "crates/omnix-cli/src/main.rs", "crates/omnix-cli/tests/cli.rs", "crates/omnix/src/logging.rs", "nix/rust.nix"]

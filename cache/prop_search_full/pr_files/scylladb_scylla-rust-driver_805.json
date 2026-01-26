@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/response/cql_to_rust.rs", "scylla-cql/src/frame/types.rs", "scylla-cql/src/frame/value_tests.rs", "scylla/src/history.rs", "scylla/src/transport/session_test.rs"]

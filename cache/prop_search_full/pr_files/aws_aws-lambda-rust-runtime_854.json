@@ -1,0 +1,1 @@
+["lambda-events/src/custom_serde/mod.rs", "lambda-events/src/event/apigw/mod.rs", "lambda-events/src/fixtures/example-apigw-custom-auth-response-with-single-value-action.json", "lambda-events/src/fixtures/example-apigw-custom-auth-response-with-single-value-resource.json"]

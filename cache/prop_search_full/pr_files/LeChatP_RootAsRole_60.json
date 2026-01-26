@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "rar-common/Cargo.toml", "rar-common/src/util.rs", "rar-common/src/version.rs", "resources/man/en_US.md", "resources/man/fr_FR.md", "src/chsr/cli/process.rs", "xtask/Cargo.toml", "xtask/src/deploy/debian.rs"]

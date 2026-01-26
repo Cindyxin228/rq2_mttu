@@ -1,0 +1,1 @@
+[".travis.yml", "README.md", "build.rs", "src/output/envvar.rs", "src/output/mod.rs", "testdata/badgit", "testdata/blah/worktrees/vergen-1/HEAD", "testdata/blah2/worktrees/vergen-1/HEAD", "testdata/blahgit", "testdata/blahgit2", "testdata/gitdir/HEAD", "testdata/gitdir/kcov", "testdata/gitdir2/HEAD"]

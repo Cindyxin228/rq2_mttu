@@ -1,0 +1,1 @@
+["macros/Cargo.toml", "macros/src/lib.rs", "macros/tests/invalid/large_scale.rs", "macros/tests/invalid/large_scale.stderr", "macros/tests/invalid/too_big.rs", "macros/tests/invalid/too_big.stderr", "macros/tests/invalid/too_small.rs", "macros/tests/invalid/too_small.stderr", "macros/tests/macro_tests.rs", "src/decimal.rs", "src/error.rs", "src/str.rs", "tests/decimal_tests.rs"]

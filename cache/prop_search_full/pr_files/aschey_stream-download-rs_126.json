@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/stdin.rs", "src/async_read.rs", "src/http/mod.rs", "src/lib.rs", "src/open_dal.rs", "src/settings.rs", "src/source/mod.rs", "tests/integration_test.rs"]

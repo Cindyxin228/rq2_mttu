@@ -1,0 +1,1 @@
+["Cargo.toml", "MANIFEST.in", "README.md", "benchmarks/Cargo.toml", "benchmarks/benches/wigner.rs", "benchmarks/benches/wigners.rs", "benchmarks/benches/wigxjpf.rs", "benchmarks/wigner-symbol.jl", "pyproject.toml", "python/tests/wigner.py", "python/wigners/__init__.py", "setup.cfg", "src/lib.rs", "src/wigner_3j.rs"]

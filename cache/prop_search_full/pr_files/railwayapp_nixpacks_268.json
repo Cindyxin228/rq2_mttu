@@ -1,0 +1,1 @@
+["examples/go-gin/.gitignore", "examples/go-gin/go.mod", "examples/go-gin/go.sum", "examples/go-gin/main.go", "src/providers/go.rs", "tests/generate_plan_tests.rs"]

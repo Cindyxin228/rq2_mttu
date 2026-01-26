@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command/client.rs", "src/command/client/history.rs", "src/command/client/import.rs", "src/command/client/search.rs", "src/command/client/stats.rs", "src/command/client/sync.rs", "src/command/client/sync/login.rs", "src/command/client/sync/register.rs", "src/command/mod.rs", "src/main.rs"]

@@ -1,0 +1,1 @@
+["naga/src/back/spv/block.rs", "naga/src/back/spv/mod.rs", "naga/src/back/spv/writer.rs", "naga/tests/in/6220-break-from-loop.param.ron", "naga/tests/in/6220-break-from-loop.wgsl", "naga/tests/out/spv/6220-break-from-loop.spvasm", "naga/tests/snapshots.rs"]

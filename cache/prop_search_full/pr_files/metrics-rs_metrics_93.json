@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".github/workflows/ci.yml", "ci/azure-install-rust.yml", "ci/azure-rustfmt.yml", "ci/azure-test-minimum.yaml", "ci/azure-test-nightly.yml", "ci/azure-test-stable.yml"]

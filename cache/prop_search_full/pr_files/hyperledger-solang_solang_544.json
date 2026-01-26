@@ -1,0 +1,1 @@
+["src/bin/solang.rs", "src/emit/ethabiencoder.rs", "src/emit/ewasm.rs", "src/emit/mod.rs", "src/emit/solana.rs", "src/emit/substrate.rs", "src/lib.rs", "src/sema/expression.rs", "tests/substrate_tests/primitives.rs", "tests/substrate_tests/value.rs"]

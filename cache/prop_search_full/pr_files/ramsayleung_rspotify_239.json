@@ -1,0 +1,1 @@
+["examples/ureq/search.rs", "examples/ureq/threading.rs", "examples/with_auto_reauth.rs", "examples/with_refresh_token.rs", "src/auth_code.rs", "src/auth_code_pkce.rs", "src/client_creds.rs", "src/clients/base.rs", "src/clients/oauth.rs", "tests/test_with_credential.rs", "tests/test_with_oauth.rs"]

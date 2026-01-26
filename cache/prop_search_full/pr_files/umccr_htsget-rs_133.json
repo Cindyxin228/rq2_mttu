@@ -1,0 +1,1 @@
+[".gitignore", "deploy/README.md", "deploy/bin/htsget-lambda.ts", "deploy/cdk.json", "deploy/config/config_dev_umccr.toml", "deploy/config/config_prod_umccr.toml", "deploy/lib/htsget-lambda-stack.ts", "deploy/package-lock.json", "deploy/package.json", "deploy/tsconfig.json", "htsget-lambda/README.md"]

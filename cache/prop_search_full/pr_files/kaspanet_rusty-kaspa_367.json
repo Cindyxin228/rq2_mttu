@@ -1,0 +1,1 @@
+["wallet/core/src/account/variants/bip32.rs", "wallet/core/src/storage/local/interface.rs", "wallet/core/src/storage/local/transaction/fsio.rs", "wallet/core/src/utxo/context.rs", "wallet/core/src/wallet/mod.rs"]

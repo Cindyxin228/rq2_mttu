@@ -1,0 +1,1 @@
+["command_attr/src/structures.rs", "src/builder/create_scheduled_event.rs", "src/builder/create_sticker.rs", "src/builder/edit_scheduled_event.rs", "src/builder/edit_sticker.rs", "src/http/client.rs", "src/model/guild/emoji.rs", "src/model/guild/guild_id.rs", "src/model/guild/mod.rs", "src/model/guild/partial_guild.rs", "src/model/permissions.rs", "src/model/sticker.rs"]

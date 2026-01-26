@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "docker/Dockerfile", "rust-toolchain", "src/recipe/rust.rs", "templates/c/Makefile", "templates/capsule.toml", "templates/rust/contract/Cargo-manifest.toml", "templates/rust/contract/src/entry.rs", "templates/rust/tests/Cargo-manifest.toml", "tests/Cargo.toml"]

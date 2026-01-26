@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin.rs", "src/cli.rs", "src/commands/build.rs", "src/commands/init.rs", "src/commands/serve.rs", "src/commands/upload.rs", "src/lib.rs"]

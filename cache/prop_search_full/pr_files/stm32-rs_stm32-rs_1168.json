@@ -1,0 +1,1 @@
+["devices/fields/i2c/u0.yaml", "devices/fields/i2c/v2.yaml", "devices/fields/i2c/v2/common.yaml", "devices/fields/i2c/v2/fast.yaml", "devices/fields/i2c/v2/smbus.yaml", "devices/fields/i2c/v3.yaml", "devices/stm32c011.yaml", "devices/stm32c031.yaml", "devices/stm32c071.yaml", "devices/stm32u031.yaml", "devices/stm32u073.yaml", "devices/stm32u083.yaml"]

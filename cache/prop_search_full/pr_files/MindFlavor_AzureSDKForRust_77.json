@@ -1,0 +1,1 @@
+["src/azure/core/parsing.rs", "src/azure/storage/blob/blob_stream.rs", "src/azure/storage/blob/mod.rs", "src/azure/storage/container/requests/create_builder.rs", "src/azure/storage/rest_client.rs", "tests/blob.rs"]

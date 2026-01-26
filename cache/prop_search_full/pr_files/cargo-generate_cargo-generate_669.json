@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/config.rs", "src/hooks/mod.rs", "src/interactive.rs", "src/lib.rs", "src/project_variables.rs", "src/template_variables/crate_type.rs", "src/template_variables/mod.rs", "src/user_parsed_input.rs", "tests/integration/conditionals.rs", "tests/integration/config_file/values.rs", "tests/integration/main.rs"]

@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "crates/ink/macro/src/lib.rs", "crates/ink/tests/ui/chain_extension/E-01-simple.rs", "integration-tests/lang-err-integration-tests/integration-flipper/lib.rs", "linting/src/storage_never_freed.rs", "linting/src/strict_balance_equality.rs"]

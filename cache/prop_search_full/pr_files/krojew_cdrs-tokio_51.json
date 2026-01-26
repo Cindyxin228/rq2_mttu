@@ -1,0 +1,1 @@
+["cassandra-protocol/src/consistency.rs", "cassandra-protocol/src/frame/frame_ready.rs", "cassandra-protocol/src/types.rs", "cassandra-protocol/src/types/decimal.rs", "cassandra-protocol/src/types/value.rs"]

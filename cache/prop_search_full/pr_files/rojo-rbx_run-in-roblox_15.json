@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "demo/default.project.json", "demo/hello.lua", "demo/src/main.server.lua", "src/core.rs", "src/lib.rs", "src/main.rs", "src/message_receiver.rs", "src/place.rs", "src/place_runner.rs", "src/plugin.rs", "src/plugin_main_template.lua"]

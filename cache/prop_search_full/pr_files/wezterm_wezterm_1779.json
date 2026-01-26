@@ -1,0 +1,1 @@
+["wezterm-gui/src/scrollbar.rs", "wezterm-gui/src/termwindow/mod.rs", "wezterm-gui/src/termwindow/mouseevent.rs", "wezterm-gui/src/termwindow/render.rs", "window/src/lib.rs", "window/src/os/macos/window.rs", "window/src/os/parameters.rs", "window/src/os/windows/window.rs"]

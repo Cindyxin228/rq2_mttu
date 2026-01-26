@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/node/src/bundle.rs", "crates/node/src/minify.rs", "crates/node/src/parse.rs", "crates/node/src/print.rs", "crates/node/src/transform.rs", "crates/node/src/util.rs", "crates/swc_plugin_runner/src/cache.rs", "node-swc/src/binding.d.ts", "node-swc/src/binding.js", "node-swc/src/index.ts", "tests/rust-plugins/swc_internal_plugin/Cargo.lock"]

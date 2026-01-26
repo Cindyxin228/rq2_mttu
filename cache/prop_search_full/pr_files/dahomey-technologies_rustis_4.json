@@ -1,0 +1,1 @@
+["Cargo.toml", "certs/ca.crt", "certs/redis.crt", "certs/redis.key", "src/clients/config.rs", "src/error.rs", "src/lib.rs", "src/network/async_excutor_strategy.rs", "src/network/connection.rs", "src/tests/config.rs", "src/tests/connection_commands.rs", "src/tests/mod.rs", "src/tests/scripting_commands.rs", "src/tests/tls.rs", "src/tests/util.rs"]

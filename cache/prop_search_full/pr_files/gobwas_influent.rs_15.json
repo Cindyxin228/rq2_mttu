@@ -1,0 +1,1 @@
+["Cargo.toml", "clippy.toml", "src/client/http.rs", "src/client/mod.rs", "src/client/udp.rs", "src/hurl/hyper.rs", "src/hurl/mod.rs", "src/lib.rs", "src/measurement.rs", "src/serializer/line.rs", "src/serializer/mod.rs", "tests/lib.rs"]

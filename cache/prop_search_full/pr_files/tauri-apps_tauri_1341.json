@@ -1,0 +1,1 @@
+["api/src/shell.ts", "tauri-api/Cargo.toml", "tauri-api/src/error.rs", "tauri-api/src/lib.rs", "tauri-api/src/shell.rs", "tauri/Cargo.toml", "tauri/examples/api/src-tauri/Cargo.lock", "tauri/examples/api/src/components/Window.svelte", "tauri/src/endpoints/shell.rs"]

@@ -1,0 +1,1 @@
+["README.md", "docs/airtable.md", "supabase-wrappers/Cargo.toml", "wrappers/Cargo.toml", "wrappers/dockerfiles/airtable/server.py", "wrappers/src/fdw/airtable_fdw/README.md", "wrappers/src/fdw/airtable_fdw/airtable_fdw.rs", "wrappers/src/fdw/airtable_fdw/mod.rs", "wrappers/src/fdw/airtable_fdw/result.rs", "wrappers/src/fdw/airtable_fdw/tests.rs"]

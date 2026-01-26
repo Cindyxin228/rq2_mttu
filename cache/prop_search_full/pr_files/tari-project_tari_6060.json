@@ -1,0 +1,1 @@
+[".github/workflows/base_node_binaries.json", "applications/minotari_console_wallet/Cargo.toml", "applications/minotari_node/Cargo.toml", "applications/minotari_node/src/config.rs", "base_layer/wallet/src/config.rs", "common/config/presets/c_base_node_c.toml", "common/config/presets/d_console_wallet.toml", "infrastructure/libtor/Cargo.toml"]

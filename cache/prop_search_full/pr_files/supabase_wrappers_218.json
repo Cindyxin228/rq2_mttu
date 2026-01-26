@@ -1,0 +1,1 @@
+[".github/workflows/test_supabase_wrappers.yml", ".github/workflows/test_wrappers.yml", "supabase-wrappers/src/qual.rs", "wrappers/src/fdw/auth0_fdw/auth0_client/rows_iterator.rs", "wrappers/src/fdw/clickhouse_fdw/clickhouse_fdw.rs", "wrappers/src/fdw/clickhouse_fdw/mod.rs", "wrappers/src/fdw/stripe_fdw/tests.rs"]

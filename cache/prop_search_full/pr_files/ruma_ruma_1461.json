@@ -1,0 +1,1 @@
+["Cargo.toml", "contrib/how_to_release.md", "crates/ruma-common/src/serde/base64.rs", "crates/ruma-macros/Cargo.toml", "crates/ruma-macros/src/api.rs", "crates/ruma-signatures/src/functions.rs", "xtask/Cargo.toml"]

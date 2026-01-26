@@ -1,0 +1,1 @@
+["check.sh", "src/cli.rs", "src/client.rs", "src/client_tests.rs", "src/commands/clients.rs", "src/commands/projects.rs", "src/commands/time_entries.rs", "src/commands/time_entries_tests.rs", "src/main.rs", "src/model.rs"]

@@ -1,0 +1,1 @@
+["benches/distributions.rs", "rand_distr/src/binomial.rs", "rand_distr/src/cauchy.rs", "rand_distr/src/dirichlet.rs", "rand_distr/src/exponential.rs", "rand_distr/src/gamma.rs", "rand_distr/src/lib.rs", "rand_distr/src/normal.rs", "rand_distr/src/pareto.rs", "rand_distr/src/poisson.rs", "rand_distr/src/triangular.rs", "rand_distr/src/weibull.rs"]

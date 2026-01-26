@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/read_erase-dynamic_file.rs", "examples/read_erase-file.rs", "src/connector/local.rs", "src/lib.rs", "src/step/eraser.rs", "src/step/mod.rs", "src/step/reader.rs", "src/step/transformer.rs", "src/step/writer.rs", "tests/clear.rs"]

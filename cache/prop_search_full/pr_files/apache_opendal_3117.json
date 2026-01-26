@@ -1,0 +1,1 @@
+["bindings/c/include/opendal.h", "bindings/java/src/lib.rs", "bindings/java/src/operator.rs", "core/src/layers/blocking.rs", "core/src/services/atomicserver/backend.rs", "core/src/types/operator/blocking_operator.rs", "core/tests/behavior/blocking_append.rs"]

@@ -1,0 +1,1 @@
+["core/src/authentication.rs", "core/src/session.rs", "playback/src/audio_backend/jackaudio.rs"]

@@ -1,0 +1,1 @@
+["doc/manual/source/trust-anchor.rst", "src/cli/client.rs", "src/cli/ta/options/proxy.rs", "src/cli/ta/options/signer.rs", "src/cli/ta/signer.rs", "src/commons/error.rs", "src/daemon/ca/manager.rs", "src/daemon/http/server.rs", "src/daemon/krillserver.rs", "src/daemon/mq.rs", "src/daemon/taproxy.rs", "src/tasigner/signer.rs", "tests/functional_ta.rs"]

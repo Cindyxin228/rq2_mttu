@@ -1,0 +1,1 @@
+["datafusion/functions/src/core/greatest.rs", "datafusion/functions/src/core/greatest_least_utils.rs", "datafusion/functions/src/core/least.rs", "datafusion/functions/src/core/mod.rs", "datafusion/sqllogictest/test_files/functions.slt", "docs/source/user-guide/sql/scalar_functions.md"]

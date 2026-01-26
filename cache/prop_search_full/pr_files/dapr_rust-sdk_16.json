@@ -1,0 +1,1 @@
+["build.rs", "dapr/proto/common/v1/common.proto", "dapr/proto/dapr/v1/dapr.proto", "dapr/proto/runtime/v1/dapr.proto", "examples/README.md", "examples/client.rs", "src/client.rs", "src/error.rs", "src/google.protobuf.rs"]

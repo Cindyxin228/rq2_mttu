@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/linux.yml", ".github/workflows/macos.yml", "Cargo.toml", "src/context/mod.rs", "src/event/channel.rs", "src/event/mod.rs", "src/event/task.rs", "src/lib.rs", "src/lifecycle.rs", "src/prelude.rs", "src/types/mod.rs", "src/types/promise.rs", "test/dynamic/native/Cargo.toml", "test/napi/Cargo.toml"]

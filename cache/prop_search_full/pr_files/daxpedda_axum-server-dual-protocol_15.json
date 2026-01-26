@@ -1,0 +1,1 @@
+["Cargo.toml", "clippy.toml", "src/dual_protocol.rs", "src/lib.rs", "tests/dual_protocol.rs", "tests/upgrade_http.rs", "tests/util.rs"]

@@ -1,0 +1,1 @@
+["scripts/cargo-clippy.sh", "scripts/cargo-fmt.sh", "scripts/publish-crate.sh"]

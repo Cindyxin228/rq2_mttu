@@ -1,0 +1,1 @@
+["CHANGELOG.md", "assets/vim_style_key_config.ron", "asyncgit/src/cached/branchname.rs", "asyncgit/src/error.rs", "asyncgit/src/sync/branch.rs", "asyncgit/src/sync/mod.rs", "asyncgit/src/sync/utils.rs", "src/app.rs", "src/components/create_branch.rs", "src/components/mod.rs", "src/keys.rs", "src/queue.rs", "src/strings.rs", "src/tabs/revlog.rs", "src/tabs/status.rs"]

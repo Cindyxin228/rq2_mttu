@@ -1,0 +1,1 @@
+["esp-alloc/src/lib.rs", "esp-hal-procmacros/src/lib.rs", "esp-hal/MIGRATING-1.0.0-rc.0.md", "esp-rtos/Cargo.toml", "esp-rtos/esp_config.yml", "esp-rtos/src/embassy/mod.rs", "esp-rtos/src/lib.rs", "esp-rtos/src/semaphore.rs"]

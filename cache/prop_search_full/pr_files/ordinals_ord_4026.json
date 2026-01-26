@@ -1,0 +1,1 @@
+["src/subcommand/verify.rs", "src/subcommand/wallet/sign.rs", "tests/wallet/sign.rs"]

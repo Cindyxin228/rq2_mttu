@@ -1,0 +1,1 @@
+["etc/docker/Dockerfile.test-cross", "etc/docker/test-cross-context/customize.sh", "etc/docker/test-cross.toml", "gix-config-value/tests/value/path.rs", "justfile", "tests/it/src/args.rs", "tests/it/src/commands/env.rs", "tests/it/src/commands/mod.rs", "tests/it/src/main.rs", "tests/tools/src/lib.rs", "tests/tools/tests/umask.rs"]

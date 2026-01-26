@@ -1,0 +1,1 @@
+["docker/prod/deploy-federation-test.sh", "docker/prod/docker-compose.yml", "docker/prod/migrate-pictshare-to-pictrs.bash", "scripts/release.sh"]

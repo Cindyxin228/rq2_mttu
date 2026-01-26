@@ -1,0 +1,1 @@
+["sentry-backtrace/src/lib.rs", "sentry-backtrace/src/utils.rs", "sentry-core/Cargo.toml", "sentry-core/src/api.rs", "sentry-core/src/error.rs", "sentry-core/src/hub.rs", "sentry-core/src/lib.rs", "sentry-core/src/utils.rs", "sentry-error-chain/src/lib.rs", "sentry-failure/Cargo.toml", "sentry-failure/src/lib.rs", "sentry-panic/src/lib.rs"]

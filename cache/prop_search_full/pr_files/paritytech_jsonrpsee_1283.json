@@ -1,0 +1,1 @@
+["client/http-client/src/client.rs", "client/http-client/src/transport.rs", "client/transport/src/web.rs", "client/transport/src/ws/mod.rs", "core/src/client/error.rs", "core/src/error.rs", "core/src/http_helpers.rs", "core/src/lib.rs", "server/src/transport/http.rs"]

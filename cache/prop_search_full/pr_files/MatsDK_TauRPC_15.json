@@ -1,0 +1,1 @@
+["README.md", "example/bindings.ts", "example/src-tauri/src/main.rs", "example/src/App.svelte", "example/src/lib/bindings.ts", "example/src/lib/ipc.ts", "src/index.ts", "taurpc/src/export.rs", "taurpc/src/lib.rs", "taurpc/taurpc-macros/src/generator.rs", "taurpc/taurpc-macros/src/lib.rs"]

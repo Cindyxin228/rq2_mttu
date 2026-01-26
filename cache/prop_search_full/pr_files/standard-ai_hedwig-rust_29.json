@@ -1,0 +1,1 @@
+["examples/publish.rs", "src/lib.rs", "src/publish/mod.rs", "src/publish/publishers/mock.rs", "src/publish/publishers/null.rs", "src/publish/sink.rs", "src/tests.rs", "src/topic.rs"]

@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/CHANGELOG.md", "crates/matrix-sdk-crypto/src/gossiping/machine.rs", "crates/matrix-sdk-crypto/src/identities/device.rs", "crates/matrix-sdk-crypto/src/olm/group_sessions/outbound.rs", "crates/matrix-sdk-crypto/src/session_manager/group_sessions.rs", "crates/matrix-sdk-crypto/src/store/mod.rs"]

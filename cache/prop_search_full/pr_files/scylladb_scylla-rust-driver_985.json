@@ -1,0 +1,1 @@
+["scylla-cql/src/frame/response/cql_to_rust.rs", "scylla-macros/src/from_row.rs", "scylla-macros/src/parser.rs", "scylla/src/macros.rs"]

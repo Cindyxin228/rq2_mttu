@@ -1,0 +1,1 @@
+[".github/workflows/rust-ci.yml", ".gitignore", "README.md", "docker-compose.yaml", "src/cmd/query.rs", "src/sources/image.rs", "test_data/init.sql", "tests/cmd/test_query.rs"]

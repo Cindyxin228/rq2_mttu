@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "client/cli.rs", "client/client.rs", "client/commands/restart.rs", "daemon/instructions.rs", "daemon/task_handler.rs", "shared/message.rs", "shared/state.rs", "shared/task.rs"]

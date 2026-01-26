@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands.rs", "crates/nu-cli/src/commands/build_string.rs", "crates/nu-parser/src/lite_parse.rs", "crates/nu-parser/src/parse.rs", "tests/shell/pipeline/commands/internal.rs"]

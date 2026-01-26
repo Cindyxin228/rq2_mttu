@@ -1,0 +1,1 @@
+["scylla-cql/src/serialize/row.rs", "scylla/Cargo.toml", "scylla/benches/benchmark.rs", "scylla/src/client/session_test.rs", "scylla/src/cluster/metadata.rs", "scylla/src/cluster/state.rs", "scylla/src/errors.rs", "scylla/src/lib.rs", "scylla/src/routing/partitioner.rs"]

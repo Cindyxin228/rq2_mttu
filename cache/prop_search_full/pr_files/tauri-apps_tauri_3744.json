@@ -1,0 +1,1 @@
+[".cargo/audit.toml", "core/tauri-codegen/Cargo.toml", "core/tauri-runtime/Cargo.toml", "core/tauri/Cargo.toml", "core/tauri/tests/restart/Cargo.lock", "tooling/bundler/Cargo.toml", "tooling/cli/Cargo.lock", "tooling/cli/Cargo.toml"]

@@ -1,0 +1,1 @@
+[".dprint.json", "Cargo.lock", "cli/Cargo.toml", "cli/emit.rs", "cli/lsp/testing/collectors.rs", "cli/tests/integration/repl_tests.rs", "cli/tests/testdata/lint/expected_json.out", "cli/tests/testdata/lint/without_config/malformed.js", "cli/tools/repl/editor.rs", "core/Cargo.toml", "test_util/Cargo.toml"]

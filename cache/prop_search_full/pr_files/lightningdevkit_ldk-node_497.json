@@ -1,0 +1,1 @@
+["bindings/ldk_node.udl", "src/event.rs", "src/payment/bolt11.rs", "src/payment/store.rs", "tests/integration_tests_rust.rs"]

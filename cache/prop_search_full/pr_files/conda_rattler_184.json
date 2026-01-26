@@ -1,0 +1,1 @@
+["crates/rattler_conda_types/src/conda_lock/mod.rs", "crates/rattler_conda_types/src/repo_data/mod.rs", "crates/rattler_conda_types/src/repo_data_record.rs", "crates/rattler_repodata_gateway/src/sparse/mod.rs"]

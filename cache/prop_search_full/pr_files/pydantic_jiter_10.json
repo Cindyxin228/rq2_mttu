@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "Cargo.toml", "fuzz/.gitignore", "fuzz/.rustfmt.toml", "fuzz/Cargo.lock", "fuzz/Cargo.toml", "fuzz/fuzz_targets/compare_to_serde.rs", "src/jiter.rs", "src/number_decoder.rs", "src/parse.rs", "src/string_decoder.rs", "src/value.rs", "tests/main.rs"]

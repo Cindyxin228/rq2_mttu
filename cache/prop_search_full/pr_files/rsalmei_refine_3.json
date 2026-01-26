@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/cli.rs", "src/commands/dupes.rs", "src/commands/join.rs", "src/commands/list.rs", "src/commands/mod.rs", "src/commands/rebuild.rs", "src/commands/rename.rs", "src/entries.rs", "src/main.rs", "src/utils/files.rs", "src/utils/mod.rs"]

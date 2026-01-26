@@ -1,0 +1,1 @@
+["pairing/src/bls12_381/ec.rs", "pairing/src/bls12_381/mod.rs", "pairing/src/bls12_381/tests/mod.rs", "pairing/src/lib.rs", "pairing/src/tests/engine.rs", "zcash_client_backend/Cargo.toml"]

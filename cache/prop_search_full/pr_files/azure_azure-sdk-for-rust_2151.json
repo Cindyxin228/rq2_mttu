@@ -1,0 +1,1 @@
+["eng/pipelines/templates/stages/archetype-rust-release.yml", "eng/scripts/Language-Settings.ps1", "eng/scripts/Pack-Crates.ps1", "eng/scripts/Publish-Crates.ps1", "eng/scripts/Yank-Crates.ps1"]

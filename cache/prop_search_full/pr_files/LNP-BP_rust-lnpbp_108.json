@@ -1,0 +1,1 @@
+["src/bp/chain.rs", "src/bp/strict_encoding.rs", "src/paradigms/client_side_validation.rs", "src/paradigms/strict_encoding.rs", "src/rgb/contract/amount.rs", "src/rgb/contract/assignments.rs", "src/rgb/contract/data.rs", "src/rgb/contract/field.rs", "src/rgb/contract/mod.rs", "src/rgb/contract/seal.rs", "src/rgb/contract/testutils.rs"]

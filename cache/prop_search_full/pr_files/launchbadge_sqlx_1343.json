@@ -1,0 +1,1 @@
+["sqlx-core/src/mssql/types/str.rs", "sqlx-core/src/mysql/types/str.rs", "sqlx-core/src/postgres/types/str.rs", "sqlx-core/src/sqlite/types/str.rs"]

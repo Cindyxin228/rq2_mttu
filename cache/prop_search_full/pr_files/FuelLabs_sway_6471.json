@@ -1,0 +1,1 @@
+["forc-plugins/forc-lsp/src/main.rs", "sway-core/src/lib.rs", "sway-core/src/semantic_analysis/namespace/trait_map.rs", "sway-lsp/benches/bench_main.rs", "sway-lsp/tests/lib.rs"]

@@ -1,0 +1,1 @@
+["src/context/capabilities.rs", "src/debug.rs", "src/draw_parameters/mod.rs", "src/draw_parameters/query.rs", "src/framebuffer/render_buffer.rs", "src/program/raw.rs", "src/program/reflection.rs", "src/program/shader.rs", "src/texture/get_format.rs"]

@@ -1,0 +1,1 @@
+["src/bson.rs", "src/de/serde.rs", "src/extjson/de.rs", "src/ser/mod.rs", "src/tests/modules/document.rs", "src/tests/modules/ser.rs", "src/tests/serde.rs"]

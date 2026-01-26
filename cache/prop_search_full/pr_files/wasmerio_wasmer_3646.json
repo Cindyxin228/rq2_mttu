@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/api/Cargo.toml", "lib/cache/Cargo.toml", "lib/cli-compiler/Cargo.toml", "lib/cli/Cargo.toml", "lib/cli/src/commands/create_exe.rs", "lib/registry/Cargo.toml", "lib/registry/src/lib.rs", "tests/integration/cli/Cargo.toml", "tests/lib/wast/Cargo.toml", "tests/wasi-wast/Cargo.toml"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "wayland-client/src/event_queue.rs", "wayland-protocols/src/misc.rs", "wayland-protocols/src/stable.rs", "wayland-protocols/src/unstable.rs", "wayland-protocols/src/wlr.rs", "wayland-server/src/rust_imp/globals.rs", "wayland-sys/src/server.rs"]

@@ -1,0 +1,1 @@
+["opentelemetry-semantic-conventions/scripts/generate-consts-from-spec.sh", "opentelemetry-semantic-conventions/src/resource.rs", "opentelemetry-semantic-conventions/src/trace.rs"]

@@ -1,0 +1,1 @@
+["naga/src/back/msl/writer.rs", "naga/tests/out/msl/boids.msl", "naga/tests/out/msl/break-if.msl", "naga/tests/out/msl/collatz.msl", "naga/tests/out/msl/control-flow.msl", "naga/tests/out/msl/do-while.msl", "naga/tests/out/msl/overrides-ray-query.msl", "naga/tests/out/msl/ray-query.msl", "naga/tests/out/msl/shadow.msl"]

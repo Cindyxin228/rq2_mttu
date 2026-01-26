@@ -1,0 +1,1 @@
+["python/python/lance/__init__.py", "python/python/lance/dataset.py", "python/python/tests/test_dataset.py", "python/src/dataset.rs", "python/src/dataset/stats.rs", "rust/lance/src/dataset.rs", "rust/lance/src/dataset/fragment.rs", "rust/lance/src/dataset/statistics.rs"]

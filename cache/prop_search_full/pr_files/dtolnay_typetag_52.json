@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/compiletest.rs", "tests/ui/deserialize-generic.rs", "tests/ui/deserialize-generic.stderr", "tests/ui/inherent-impl.rs", "tests/ui/inherent-impl.stderr", "tests/ui/not-trait-or-impl.rs", "tests/ui/not-trait-or-impl.stderr", "tests/ui/unnamed.rs", "tests/ui/unnamed.stderr"]

@@ -1,0 +1,1 @@
+["examples/chat/src/main.rs", "examples/private-messaging/src/handlers.rs", "socketioxide/src/handler/disconnect.rs", "socketioxide/src/handler/extract.rs", "socketioxide/src/handler/mod.rs", "socketioxide/src/layer.rs", "socketioxide/src/lib.rs", "socketioxide/src/service.rs", "socketioxide/src/socket.rs", "socketioxide/tests/disconnect_reason.rs"]

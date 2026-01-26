@@ -1,0 +1,1 @@
+["lib/compute-at-edge-abi/compute-at-edge.witx", "lib/compute-at-edge-abi/typenames.witx", "lib/src/linking.rs", "lib/src/wiggle_abi.rs", "lib/src/wiggle_abi/fastly_purge_impl.rs"]

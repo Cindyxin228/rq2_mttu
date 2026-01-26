@@ -1,0 +1,1 @@
+["examples/cache-optimization/models/member.rs", "examples/cache-optimization/models/voice_state.rs", "twilight-cache-inmemory/src/model/message.rs", "twilight-gateway/src/shard.rs", "twilight-mention/src/parse/impl.rs", "twilight-standby/src/lib.rs"]

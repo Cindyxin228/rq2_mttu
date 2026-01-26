@@ -1,0 +1,1 @@
+["samply/src/linux/profiler.rs", "samply/src/mac/process_launcher.rs", "samply/src/main.rs", "samply/src/shared/recording_props.rs", "samply/src/windows/elevated_helper.rs", "samply/src/windows/gfx.rs", "samply/src/windows/mod.rs", "samply/src/windows/xperf.rs"]

@@ -1,0 +1,1 @@
+["crates/catalog/s3tables/DEPENDENCIES.rust.tsv", "crates/examples/DEPENDENCIES.rust.tsv", "crates/integration_tests/DEPENDENCIES.rust.tsv", "crates/integrations/cache-moka/DEPENDENCIES.rust.tsv", "crates/integrations/cli/DEPENDENCIES.rust.tsv", "crates/sqllogictest/DEPENDENCIES.rust.tsv", "crates/test_utils/DEPENDENCIES.rust.tsv", "deny.toml", "scripts/dependencies.py"]

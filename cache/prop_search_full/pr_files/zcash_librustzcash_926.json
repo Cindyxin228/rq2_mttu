@@ -1,0 +1,1 @@
+["components/zcash_note_encryption/src/lib.rs", "zcash_primitives/src/legacy.rs", "zcash_primitives/src/sapling/note/nullifier.rs", "zcash_primitives/src/sapling/redjubjub.rs", "zcash_primitives/src/transaction/sighash_v4.rs", "zcash_primitives/src/transaction/sighash_v5.rs"]

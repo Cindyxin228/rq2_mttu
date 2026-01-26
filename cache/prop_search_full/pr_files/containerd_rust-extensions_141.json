@@ -1,0 +1,1 @@
+["crates/client/build.rs", "crates/client/src/lib.rs", "crates/client/vendor/github.com/containerd/containerd/api/services/sandbox/v1/sandbox.proto", "crates/client/vendor/github.com/containerd/containerd/api/types/sandbox.proto"]

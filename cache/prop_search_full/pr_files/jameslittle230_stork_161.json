@@ -1,0 +1,1 @@
+["js/loaders/wasmLoader.ts", "js/main.ts", "src/wasm.rs"]

@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.toml", "README.md", "actix-web-location/CHANGELOG.md", "actix-web-location/Cargo.toml", "actix-web-location/GeoLite2-City-Test.mmdb", "actix-web-location/README.md", "actix-web-location/src/domain.rs", "actix-web-location/src/error.rs", "actix-web-location/src/extractors.rs", "actix-web-location/src/lib.rs", "actix-web-location/src/providers.rs"]

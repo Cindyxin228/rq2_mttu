@@ -1,0 +1,1 @@
+[".github/workflows/ci-java.yml", "java/pom.xml", "java/src/main/java/org/extism/sdk/manifest/ManifestHttpRequest.java", "java/src/main/java/org/extism/sdk/manifest/MemoryOptions.java", "java/src/main/java/org/extism/sdk/wasm/ByteArrayWasmSource.java", "java/src/main/java/org/extism/sdk/wasm/PathWasmSource.java"]

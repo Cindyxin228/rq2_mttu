@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "compiler/src/lib.rs", "examples/hello_embed.rs", "examples/mini_repl.rs", "src/shell.rs", "stdlib/src/dis.rs", "vm/src/compiler.rs", "vm/src/eval.rs", "vm/src/import.rs", "vm/src/stdlib/ast.rs", "vm/src/stdlib/builtins.rs", "vm/src/stdlib/symtable.rs", "vm/src/vm/compile.rs", "vm/src/vm/interpreter.rs", "vm/src/vm/mod.rs", "vm/src/vm/vm_new.rs"]

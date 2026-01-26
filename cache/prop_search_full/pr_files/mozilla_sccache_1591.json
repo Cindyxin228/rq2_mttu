@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/bin/sccache-dist/main.rs", "src/bin/sccache-dist/token_check.rs", "src/cache/azure.rs", "src/cache/gcs.rs", "src/cache/gha.rs", "src/cache/memcached.rs", "src/cache/redis.rs", "src/cache/s3.rs", "src/dist/client_auth.rs", "src/dist/http.rs", "src/util.rs"]

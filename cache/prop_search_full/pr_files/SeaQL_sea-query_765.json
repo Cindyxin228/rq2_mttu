@@ -1,0 +1,1 @@
+["Cargo.toml", "sea-query-binder/Cargo.toml", "src/backend/mysql/query.rs", "src/backend/query_builder.rs", "src/query/on_conflict.rs", "tests/mysql/query.rs", "tests/postgres/query.rs", "tests/sqlite/query.rs"]

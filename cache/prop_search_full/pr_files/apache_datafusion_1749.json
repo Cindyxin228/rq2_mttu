@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.toml", "datafusion-cli/src/command.rs", "datafusion-cli/src/exec.rs", "datafusion-cli/src/functions.rs", "datafusion-cli/src/lib.rs", "datafusion-cli/src/main.rs", "datafusion-cli/src/print_format.rs"]

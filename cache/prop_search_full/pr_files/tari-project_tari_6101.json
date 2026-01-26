@@ -1,0 +1,1 @@
+["applications/minotari_app_grpc/proto/base_node.proto", "applications/minotari_node/src/grpc/base_node_grpc_server.rs", "base_layer/wallet_ffi/src/lib.rs", "base_layer/wallet_ffi/wallet.h"]

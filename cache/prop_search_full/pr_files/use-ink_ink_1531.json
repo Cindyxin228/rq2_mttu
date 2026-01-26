@@ -1,0 +1,1 @@
+["crates/e2e/src/client.rs", "crates/ink/codegen/src/generator/metadata.rs", "crates/ink/tests/return_type_metadata.rs", "crates/ink/tests/ui/contract/pass/constructor-return-result-alias.rs"]

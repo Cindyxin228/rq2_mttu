@@ -1,0 +1,1 @@
+["docs/Configuration guide.md", "docs/Scripts.md", "docs/_Sidebar.md", "src/bar.rs", "src/config.rs", "src/modules/clock.rs", "src/modules/custom.rs", "src/modules/focused.rs", "src/modules/launcher/mod.rs", "src/modules/mpd.rs", "src/modules/script.rs", "src/modules/sysinfo.rs", "src/modules/tray.rs", "src/modules/workspaces.rs", "src/script.rs"]

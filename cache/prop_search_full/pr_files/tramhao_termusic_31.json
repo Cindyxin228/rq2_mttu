@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/player.rs", "src/song/mod.rs", "src/song/ogg_picture.rs", "src/song/ogg_reader_writer.rs", "src/songtag/encrypt.rs", "src/songtag/lrc.rs", "src/songtag/mod.rs", "src/ui/components/mod.rs", "src/ui/model/view.rs"]

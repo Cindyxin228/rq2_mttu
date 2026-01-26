@@ -1,0 +1,1 @@
+[".github/workflows/e2e.yml", ".github/workflows/fmt.yml", ".github/workflows/ic-ref.yml", ".github/workflows/lint.yml", ".github/workflows/netlify.yml", ".github/workflows/release.yml", ".github/workflows/shellcheck.yml", ".github/workflows/test.yml"]

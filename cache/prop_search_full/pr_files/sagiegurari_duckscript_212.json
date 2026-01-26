@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "duckscript_cli/Cargo.toml", "duckscript_sdk/Cargo.toml", "duckscript_sdk/src/sdk/std/string/camelcase/mod.rs", "duckscript_sdk/src/sdk/std/string/kebabcase/mod.rs", "duckscript_sdk/src/sdk/std/string/snakecase/mod.rs"]

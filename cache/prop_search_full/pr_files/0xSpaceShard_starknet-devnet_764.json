@@ -1,0 +1,1 @@
+["contracts/test_artifacts/cairo0/ERC20_Mintable_OZ_0.2.0.json", "crates/starknet-devnet-core/src/constants.rs", "crates/starknet-devnet-server/src/api/json_rpc/endpoints.rs", "crates/starknet-devnet-server/src/api/json_rpc/models.rs", "crates/starknet-devnet/src/cli.rs", "tests/integration/general_rpc_tests.rs", "tests/integration/test_messaging.rs"]

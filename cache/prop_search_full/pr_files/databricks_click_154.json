@@ -1,0 +1,1 @@
+[".github/workflows/push-actions.yml", ".travis.yml", "src/certs.rs", "src/cmd.rs", "src/command_processor.rs", "src/completer.rs", "src/config/click.rs", "src/kobj.rs", "src/parser.rs"]

@@ -1,0 +1,1 @@
+["examples/udp_to_kafka/utilities/src/logger/mod.rs", "src/dispatcher/mod.rs", "src/forwarder/mod.rs", "src/receiver/mod.rs", "src/sender/mod.rs", "src/strategies/mod.rs"]

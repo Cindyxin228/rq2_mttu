@@ -1,0 +1,1 @@
+[".changes/remove-tauricon.md", "tooling/cli.js/bin/tauri-icon.js", "tooling/cli.js/bin/tauri.js", "tooling/cli.js/package.json", "tooling/cli.js/rollup.config.js", "tooling/cli.js/src/api/tauricon.ts", "tooling/cli.js/src/helpers/tauricon.config.ts", "tooling/cli.js/src/types/modules.d.ts", "tooling/cli.js/test/jest/__tests__/tauricon.spec.js", "tooling/cli.js/yarn.lock"]

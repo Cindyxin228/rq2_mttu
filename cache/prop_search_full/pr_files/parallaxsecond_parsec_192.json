@@ -1,0 +1,1 @@
+["Cargo.lock", "e2e_tests/src/lib.rs", "e2e_tests/src/raw_request.rs", "e2e_tests/tests/per_provider/normal_tests/create_destroy_key.rs", "e2e_tests/tests/per_provider/normal_tests/ping.rs", "src/front/domain_socket.rs", "systemd-daemon/parsec.service", "systemd-daemon/parsec.socket"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "book/README.md", "book/SUMMARY.md", "book/actix-headers.md", "book/actix-plugin.md", "core/src/v2/actix.rs", "core/src/v2/models.rs", "core/src/v2/schema.rs", "macros/src/actix.rs", "macros/src/lib.rs", "plugins/actix-web/src/lib.rs", "src/error.rs", "src/lib.rs", "tests/test_app.rs"]

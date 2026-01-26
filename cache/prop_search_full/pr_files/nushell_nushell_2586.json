@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/get.rs", "crates/nu-cli/tests/commands/get.rs", "crates/nu-value-ext/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/bin/kp-show-otp.rs", "src/db.rs", "src/lib.rs", "src/otp.rs", "tests/resources/test_db_kdbx4_with_totp_entry.kdbx", "tests/resources/test_db_kdbx4_with_totp_sha512_entry.kdbx"]

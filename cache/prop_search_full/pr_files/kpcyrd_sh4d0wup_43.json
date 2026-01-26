@@ -1,0 +1,1 @@
+["Cargo.lock", "src/check.rs", "src/codegen/c.rs", "src/codegen/go.rs", "src/codegen/mod.rs", "src/codegen/rust.rs", "src/infect/elf/c.rs", "src/infect/elf/rust.rs", "src/infect/elf_fwd_stdin/c.rs", "src/infect/elf_fwd_stdin/go.rs", "src/infect/elf_fwd_stdin/rust.rs", "src/infect/elf_fwd_stdin/rust_nostd.rs", "src/sign/pgp.rs", "src/utils/mod.rs"]

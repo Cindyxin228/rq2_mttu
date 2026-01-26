@@ -1,0 +1,1 @@
+["src/command/describe.rs", "src/command/jobs.rs", "src/command/mod.rs", "src/command/replicasets.rs", "src/command/services.rs", "src/describe/crd.rs", "src/describe/legacy.rs", "src/describe/mod.rs", "src/describe/service.rs", "src/kobj.rs"]

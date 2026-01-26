@@ -1,0 +1,1 @@
+["examples/src/fail_tests/borrowchk_custom_drop.stderr", "examples/src/lib.rs", "examples/src/ok_tests.rs", "ouroboros_macro/src/covariance_detection.rs", "ouroboros_macro/src/generate/mod.rs", "ouroboros_macro/src/generate/summon_checker.rs", "ouroboros_macro/src/lib.rs", "ouroboros_macro/src/parse.rs"]

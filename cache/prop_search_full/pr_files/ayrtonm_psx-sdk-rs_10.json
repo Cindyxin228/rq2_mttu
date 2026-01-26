@@ -1,0 +1,1 @@
+["examples/loader/src/main.rs", "examples/stdout/src/main.rs", "psx/src/panic.rs", "psx/src/sys/fs.rs", "psx/src/sys/gamepad.rs", "psx/src/sys/heap.rs", "psx/src/sys/kernel.rs", "psx/src/sys/mod.rs", "psx/src/sys/rng.rs", "psx/src/sys/trampoline.s", "psx/src/sys/tty.rs", "scripts/gen_bios_mod.rs"]

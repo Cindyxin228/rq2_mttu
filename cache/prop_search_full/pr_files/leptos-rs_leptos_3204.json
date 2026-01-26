@@ -1,0 +1,1 @@
+[".github/dependabot.yml", "Cargo.lock", "any_spawner/Cargo.toml", "examples/todo_app_sqlite_csr/Cargo.toml", "examples/todo_app_sqlite_csr/src/fallback.rs", "integrations/axum/Cargo.toml", "leptos/Cargo.toml", "leptos_config/Cargo.toml", "leptos_macro/Cargo.toml", "oco/Cargo.toml", "reactive_graph/Cargo.toml", "router/Cargo.toml", "server_fn/Cargo.toml", "tachys/Cargo.toml"]

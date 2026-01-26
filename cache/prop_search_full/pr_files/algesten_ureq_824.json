@@ -1,0 +1,1 @@
+["examples/cureq.rs", "src/agent.rs", "src/body/charset.rs", "src/config.rs", "src/error.rs", "src/lib.rs", "src/middleware.rs", "src/pool.rs", "src/request.rs", "src/resolver.rs", "src/run.rs", "src/send_body.rs", "src/timings.rs", "src/tls/mod.rs", "src/transport/mod.rs", "src/transport/socks.rs", "src/transport/tcp.rs"]

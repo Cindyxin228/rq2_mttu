@@ -1,0 +1,1 @@
+["CHANGELOG.md", "crates/e2e/macro/src/codegen.rs", "crates/e2e/macro/src/config.rs", "crates/e2e/src/client_utils.rs", "crates/e2e/src/contract_build.rs", "crates/e2e/src/lib.rs", "integration-tests/upgradeable-contracts/set-code-hash/Cargo.toml", "integration-tests/upgradeable-contracts/set-code-hash/lib.rs"]

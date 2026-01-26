@@ -1,0 +1,1 @@
+["crates/bootstrap/telemetry/Cargo.toml", "crates/ffmpeg/Cargo.toml", "crates/http/Cargo.toml", "crates/metrics/Cargo.toml", "crates/settings/Cargo.toml", "crates/transmuxer/Cargo.toml", "dev-tools/xtask/src/cmd/power_set/mod.rs", "dev-tools/xtask/src/cmd/power_set/utils.rs", "dev-tools/xtask/src/utils.rs"]

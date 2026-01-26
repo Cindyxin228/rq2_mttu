@@ -1,0 +1,1 @@
+["guide/src/migration.md", "newsfragments/3661.changed.md", "pyo3-macros-backend/src/method.rs", "pyo3-macros-backend/src/params.rs", "pyo3-macros-backend/src/pymethod.rs", "pytests/src/awaitable.rs", "pytests/src/pyclasses.rs", "src/coroutine.rs", "src/impl_/pymethods.rs", "src/lib.rs", "src/pyclass.rs", "tests/test_proto_methods.rs"]

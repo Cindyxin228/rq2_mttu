@@ -1,0 +1,1 @@
+["packages/rsx/src/assign_dyn_ids.rs", "packages/rsx/src/attribute.rs", "packages/rsx/src/component.rs", "packages/rsx/src/element.rs", "packages/rsx/src/hot_reload/diff.rs", "packages/rsx/src/template_body.rs", "packages/rsx/tests/hotreload_pattern.rs"]

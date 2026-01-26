@@ -1,0 +1,1 @@
+["glyphs-reader/Cargo.toml", "glyphs-reader/src/font.rs", "glyphs-reader/src/glyphdata.rs", "glyphs-reader/src/lib.rs", "glyphs-reader/src/propagate_anchors.rs", "resources/testdata/glyphs3/PropagateAnchorsTest-propagated.glyphs", "resources/testdata/glyphs3/PropagateAnchorsTest.glyphs"]

@@ -1,0 +1,1 @@
+["ci/ci-tests.sh", "lightning-invoice/Cargo.toml", "lightning-invoice/src/de.rs", "lightning-invoice/src/lib.rs", "lightning-invoice/src/payment.rs", "lightning-invoice/src/utils.rs", "lightning-invoice/tests/ser_de.rs", "lightning/src/ln/msgs.rs", "lightning/src/routing/router.rs"]

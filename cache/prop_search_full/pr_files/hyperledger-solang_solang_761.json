@@ -1,0 +1,1 @@
+["docs/index.rst", "docs/language/imports.rst", "docs/targets/burrow.rst", "docs/targets/solana.rst", "docs/targets/substrate.rst", "examples/spl_token.sol", "integration/solana/package.json", "integration/solana/token.sol", "integration/solana/token.spec.ts", "src/emit/mod.rs"]

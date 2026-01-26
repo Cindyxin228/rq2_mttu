@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cot-cli/src/project_template/Cargo.lock.template", "cot-cli/src/project_template/Cargo.toml.template", "cot/Cargo.toml", "examples/admin/Cargo.toml", "examples/sessions/Cargo.toml", "examples/todo-list/Cargo.toml", "justfile"]

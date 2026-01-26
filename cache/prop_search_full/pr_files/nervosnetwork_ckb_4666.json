@@ -1,0 +1,1 @@
+["util/rich-indexer/resources/create_postgres_index.sql", "util/rich-indexer/resources/create_postgres_table.sql", "util/rich-indexer/resources/create_sqlite_index.sql", "util/rich-indexer/resources/create_sqlite_table.sql", "util/rich-indexer/src/indexer/remove.rs", "util/rich-indexer/src/store.rs"]

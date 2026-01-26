@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "bin/adb_client.rs", "src/adb_tcp_connexion.rs", "src/models/device_long.rs", "src/traits/adb_command_provider.rs"]

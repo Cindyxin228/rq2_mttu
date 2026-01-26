@@ -1,0 +1,1 @@
+["tools/ci-cdk/.gitignore", "tools/ci-cdk/README.md", "tools/ci-cdk/bin/canary-only.ts", "tools/ci-cdk/canary-runner/src/run.rs", "tools/ci-cdk/lib/aws-sdk-rust/canary-stack.ts"]

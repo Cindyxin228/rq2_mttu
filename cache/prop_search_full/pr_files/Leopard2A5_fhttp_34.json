@@ -1,0 +1,1 @@
+["resources/it/requests/invalid_url.http", "src/bin/fhttp.rs", "src/client.rs", "src/errors.rs", "src/lib.rs", "src/profiles/mod.rs", "src/profiles/profile_variable.rs", "src/random_numbers.rs", "src/request/mod.rs", "src/request_preprocessor.rs", "tests/failed_calls.rs", "tests/invalid_url.rs"]

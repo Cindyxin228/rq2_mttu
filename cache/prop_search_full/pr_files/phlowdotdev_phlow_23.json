@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/api-amqp/api.yaml", "examples/api-amqp/consumer.yaml", "modules/amqp/Cargo.toml", "modules/amqp/phlow.yaml", "modules/amqp/src/consumer.rs", "modules/amqp/src/lib.rs", "modules/amqp/src/produce.rs", "modules/amqp/src/setup.rs"]

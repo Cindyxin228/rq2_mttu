@@ -1,0 +1,1 @@
+["nats/Cargo.toml", "nats/Makefile", "nats/codegen.yaml", "nats/src/generated/core.rs", "nats/src/generated/messaging.rs", "nats/src/generated/mod.rs", "nats/src/lib.rs", "nats/src/natsprov.rs"]

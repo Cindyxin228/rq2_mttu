@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "edgee.toml", "flake.nix", "src/config.rs", "src/domains.rs", "src/entrypoint.rs", "src/entrypoints.rs", "src/main.rs", "src/monitor.rs"]

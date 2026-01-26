@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/collapse-recursive.rs", "src/collapse/mod.rs", "src/collapse/recursive.rs", "tests/collapse-recursive.rs", "tests/data/collapse-recursive/basic.txt", "tests/data/collapse-recursive/results/basic-collapsed.txt"]

@@ -1,0 +1,1 @@
+["crates/dprint/src/cli/arg_parser.rs", "crates/dprint/src/cli/commands/formatting.rs", "crates/dprint/src/cli/configuration/resolve_config.rs", "crates/dprint/src/main.rs", "crates/dprint/src/test_helpers.rs", "crates/dprint/src/utils/stdin_reader.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "changelog.md", "examples/mocking.rs", "rdkafka-sys/bindings.h", "rdkafka-sys/src/bindings.rs", "rdkafka-sys/src/types.rs", "rdkafka-sys/update-bindings.sh", "src/client.rs", "src/error.rs", "src/lib.rs", "src/mocking.rs"]

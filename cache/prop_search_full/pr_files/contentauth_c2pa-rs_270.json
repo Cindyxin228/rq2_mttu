@@ -1,0 +1,1 @@
+["make_test_images/Cargo.toml", "sdk/Cargo.toml", "sdk/src/asset_handlers/svg_io.rs", "sdk/src/claim.rs", "sdk/src/manifest_store.rs", "sdk/src/manifest_store_report.rs", "sdk/src/ocsp_utils.rs", "sdk/src/utils/base64.rs", "sdk/src/utils/mod.rs"]

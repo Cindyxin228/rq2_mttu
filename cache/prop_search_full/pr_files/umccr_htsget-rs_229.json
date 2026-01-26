@@ -1,0 +1,1 @@
+["Cargo.lock", "htsget-config/Cargo.toml", "htsget-search/Cargo.toml", "htsget-search/src/htsget/bam_search.rs", "htsget-search/src/htsget/cram_search.rs", "htsget-test/Cargo.toml"]

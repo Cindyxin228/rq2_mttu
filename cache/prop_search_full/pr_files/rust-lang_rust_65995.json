@@ -1,0 +1,1 @@
+["src/libsyntax/error_codes.rs", "src/libsyntax/parse/parser/ty.rs", "src/test/ui/invalid/invalid-variadic-function.stderr", "src/test/ui/parser/variadic-ffi-3.stderr", "src/test/ui/parser/variadic-ffi-4.stderr"]

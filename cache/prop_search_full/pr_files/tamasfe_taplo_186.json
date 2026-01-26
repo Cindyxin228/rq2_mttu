@@ -1,0 +1,1 @@
+["taplo-lsp/Cargo.toml", "taplo-lsp/src/handlers.rs", "taplo-lsp/src/handlers/code_action.rs", "taplo-lsp/src/handlers/completion.rs"]

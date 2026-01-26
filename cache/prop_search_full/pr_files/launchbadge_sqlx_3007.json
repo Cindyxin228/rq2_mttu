@@ -1,0 +1,1 @@
+["sqlx-core/src/lib.rs", "sqlx-core/src/query.rs", "sqlx-core/src/query_as.rs", "sqlx-core/src/query_scalar.rs", "sqlx-core/src/raw_sql.rs", "src/lib.rs", "tests/mysql/mysql.rs", "tests/postgres/postgres.rs", "tests/sqlite/sqlite.rs"]

@@ -1,0 +1,1 @@
+["scripts/test.sh", "tests/playwright.config.ts", "tests/src/global.d.ts", "tests/src/request.spec.ts", "tests/src/wynd-int.spec.ts", "tests/tsconfig.json"]

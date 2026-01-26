@@ -1,0 +1,1 @@
+["crates/cranelift-shared/src/lib.rs", "crates/cranelift/src/compiler.rs", "crates/environ/src/compilation.rs", "crates/wasmtime/src/engine/serialization.rs", "crates/winch/src/compiler.rs", "src/commands/settings.rs"]

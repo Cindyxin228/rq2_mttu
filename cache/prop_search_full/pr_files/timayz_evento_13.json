@@ -1,0 +1,1 @@
+[".env.default", ".gitignore", "Makefile", "evento/src/event_store.rs", "sqlx-data.json"]

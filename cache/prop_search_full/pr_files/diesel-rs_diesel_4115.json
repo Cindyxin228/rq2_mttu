@@ -1,0 +1,1 @@
+["diesel/Cargo.toml", "diesel/src/sqlite/connection/row.rs", "diesel/src/sqlite/connection/statement_iterator.rs"]

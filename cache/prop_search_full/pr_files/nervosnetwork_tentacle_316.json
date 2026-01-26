@@ -1,0 +1,1 @@
+["Makefile", "tentacle/Cargo.toml", "tentacle/src/channel/bound.rs", "tentacle/src/channel/tests/mpsc.rs", "tentacle/src/lib.rs", "tentacle/src/lock/mod.rs", "tentacle/src/lock/native.rs"]

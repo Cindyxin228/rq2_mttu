@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/fd_write.rs", "tests/wasix/pwrite-and-size/main.c", "tests/wasix/pwrite-and-size/run.sh"]

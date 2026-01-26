@@ -1,0 +1,1 @@
+["plugins/zenoh-plugin-trait/src/loading.rs", "zenoh/src/lib.rs", "zenoh/src/net/runtime/adminspace.rs", "zenoh/src/plugins/mod.rs", "zenoh/src/plugins/sealed.rs", "zenoh/src/sample.rs", "zenohd/Cargo.toml", "zenohd/src/main.rs"]

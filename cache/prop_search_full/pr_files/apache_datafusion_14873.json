@@ -1,0 +1,1 @@
+["datafusion/core/src/datasource/file_format/json.rs", "datafusion/core/src/datasource/file_format/mod.rs", "datafusion/core/src/datasource/file_format/parquet.rs", "datafusion/core/src/datasource/physical_plan/parquet/opener.rs", "datafusion/datasource/src/file_format.rs", "datafusion/datasource/src/mod.rs"]

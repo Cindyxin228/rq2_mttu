@@ -1,0 +1,1 @@
+["src/commands/run.rs", "tests/all/cli_tests.rs", "tests/all/cli_tests/print_env.wat"]

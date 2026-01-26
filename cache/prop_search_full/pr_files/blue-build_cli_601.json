@@ -1,0 +1,1 @@
+["Earthfile", "integration-tests/test-repo/recipes/recipe.yml", "process/drivers/cosign_driver.rs", "recipe/src/recipe.rs", "template/templates/Containerfile.j2", "template/templates/stages.j2", "utils/src/constants.rs", "utils/src/semver.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/release.yaml", "Cargo.lock", "Cargo.toml", "docker/Dockerfile", "docker/Dockerfile.multi", "docker/phlow", "phlow-runtime/Cargo.toml", "phlow-runtime/src/main.rs", "phlow-runtime/src/memory.rs"]

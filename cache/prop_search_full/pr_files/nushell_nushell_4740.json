@@ -1,0 +1,1 @@
+["crates/nu-parser/src/lex.rs", "tests/main.rs", "tests/parsing/mod.rs", "tests/parsing/samples/multiline_end_pipe.nu", "tests/parsing/samples/multiline_end_pipe_win.nu", "tests/parsing/samples/multiline_start_pipe.nu", "tests/parsing/samples/multiline_start_pipe_win.nu", "tests/parsing/samples/single_line.nu"]

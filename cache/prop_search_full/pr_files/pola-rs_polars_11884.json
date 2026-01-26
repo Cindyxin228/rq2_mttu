@@ -1,0 +1,1 @@
+["crates/polars-core/src/chunked_array/cast.rs", "crates/polars-core/src/series/mod.rs", "py-polars/tests/unit/datatypes/test_categorical.py"]

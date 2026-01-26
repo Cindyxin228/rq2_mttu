@@ -1,0 +1,1 @@
+["yazi-core/src/manager/commands/open.rs", "yazi-core/src/manager/commands/rename.rs", "yazi-core/src/manager/manager.rs", "yazi-core/src/tab/commands/shell.rs", "yazi-core/src/tab/tab.rs", "yazi-core/src/tasks/commands/mod.rs", "yazi-core/src/tasks/commands/open_with.rs", "yazi-core/src/tasks/tasks.rs", "yazi-fm/src/executor.rs", "yazi-plugin/src/external/shell.rs"]

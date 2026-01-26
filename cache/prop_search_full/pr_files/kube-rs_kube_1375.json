@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/node_watcher.rs", "kube-client/Cargo.toml", "kube-client/src/client/client_ext.rs", "kube-client/src/client/mod.rs", "kube-client/src/config/mod.rs", "kube-client/src/discovery/apigroup.rs", "kube-client/src/error.rs", "kube-client/src/lib.rs", "kube/Cargo.toml"]

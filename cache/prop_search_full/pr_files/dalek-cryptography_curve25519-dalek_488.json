@@ -1,0 +1,1 @@
+["benches/dalek_benchmarks.rs", "src/backend/serial/u32/constants.rs", "src/backend/serial/u64/constants.rs", "src/backend/vector/avx2/edwards.rs", "src/backend/vector/ifma/edwards.rs", "src/constants.rs", "src/edwards.rs", "src/montgomery.rs", "src/ristretto.rs"]

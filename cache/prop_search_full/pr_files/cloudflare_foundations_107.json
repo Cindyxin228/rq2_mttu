@@ -1,0 +1,1 @@
+["foundations/src/telemetry/settings/tracing.rs", "foundations/src/telemetry/tracing/init.rs", "foundations/src/telemetry/tracing/internal.rs", "foundations/src/telemetry/tracing/live/event_output.rs", "foundations/src/telemetry/tracing/live/mod.rs", "foundations/tests/telemetry_server.rs"]

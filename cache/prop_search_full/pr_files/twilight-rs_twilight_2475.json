@@ -1,0 +1,1 @@
+["twilight-http/src/request/channel/get_pins.rs", "twilight-http/src/routing.rs", "twilight-model/src/channel/message/message_pin.rs", "twilight-model/src/channel/message/mod.rs", "twilight-model/src/channel/message/pins_listing.rs", "twilight-validate/src/request.rs"]

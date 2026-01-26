@@ -1,0 +1,1 @@
+["src/lib/executor/executor.rs", "src/lib/executor/implements/ddl/drop_table.rs", "src/lib/pgwire/connection/connection.rs", "src/lib/pgwire/engine/rrdb.rs", "src/lib/server/server.rs"]

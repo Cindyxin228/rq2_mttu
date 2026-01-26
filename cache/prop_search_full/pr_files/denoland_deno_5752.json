@@ -1,0 +1,1 @@
+[".prettierignore", "cli/module_graph.rs", "cli/swc_util.rs", "cli/tests/integration_tests.rs", "cli/tests/swc_syntax_error.ts", "cli/tests/swc_syntax_error.ts.out", "cli/tests/ts_decorators.ts", "cli/tests/ts_decorators.ts.out", "cli/tests/tsconfig.decorators.json", "cli/tsc.rs", "tools/lint.py"]

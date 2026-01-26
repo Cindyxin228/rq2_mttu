@@ -1,0 +1,1 @@
+["Cargo.lock", "gix-features/Cargo.toml", "gix-features/src/fs.rs", "gix-ref/tests/fixtures/generated-archives/make_repo_for_1928_repro.tar", "gix-ref/tests/fixtures/make_repo_for_1928_repro.sh", "gix-ref/tests/refs/file/store/iter.rs", "gix-submodule/tests/file/baseline.rs", "gix/tests/gix/repository/reference.rs"]

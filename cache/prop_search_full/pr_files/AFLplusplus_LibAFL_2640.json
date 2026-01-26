@@ -1,0 +1,1 @@
+["fuzzers/binary_only/frida_executable_libpng/Cargo.toml", "fuzzers/binary_only/frida_libpng/Cargo.toml", "fuzzers/binary_only/frida_windows_gdiplus/Cargo.toml", "libafl_frida/Cargo.toml", "libafl_frida/src/asan/asan_rt.rs", "libafl_frida/src/executor.rs", "libafl_frida/src/helper.rs", "libafl_frida/src/windows_hooks.rs"]

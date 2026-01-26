@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/fingerprint.rs", "src/cargo/core/compiler/mod.rs", "src/cargo/ops/cargo_test.rs", "src/cargo/util/mod.rs", "src/cargo/util/workspace.rs", "tests/testsuite/build_script.rs", "tests/testsuite/cross_compile.rs", "tests/testsuite/doc.rs", "tests/testsuite/lto.rs", "tests/testsuite/rename_deps.rs"]

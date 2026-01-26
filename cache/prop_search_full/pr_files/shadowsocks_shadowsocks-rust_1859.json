@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/shadowsocks-service/Cargo.toml", "crates/shadowsocks-service/src/local/dns/server.rs", "crates/shadowsocks-service/src/local/dns/upstream.rs", "crates/shadowsocks-service/src/local/net/udp/association.rs", "crates/shadowsocks-service/src/server/udprelay.rs", "crates/shadowsocks/Cargo.toml", "crates/shadowsocks/src/relay/mod.rs"]

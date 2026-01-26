@@ -1,0 +1,1 @@
+["Cargo.toml", "tests/client_connect_to_env.rs", "tests/client_connect_to_socket.rs", "tests/client_proxies.rs", "tests/helpers/mod.rs", "wayland-client/src/proxy.rs", "wayland-client/src/rust_imp/proxy.rs"]

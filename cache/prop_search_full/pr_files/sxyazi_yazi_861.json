@@ -1,0 +1,1 @@
+["yazi-core/src/folder/folder.rs", "yazi-core/src/manager/commands/tab_create.rs", "yazi-core/src/manager/tabs.rs", "yazi-core/src/tab/backstack.rs", "yazi-core/src/tab/tab.rs", "yazi-dds/src/body/body.rs", "yazi-dds/src/body/mod.rs", "yazi-dds/src/body/tabs.rs", "yazi-dds/src/body/yank.rs", "yazi-dds/src/client.rs", "yazi-dds/src/payload.rs", "yazi-dds/src/pubsub.rs"]

@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "VERSION", "src/core/downloader.rs", "src/core/error.rs", "src/core/source.rs", "src/core/stream.rs", "src/lib.rs", "src/main.rs", "tests/integration_tests.rs"]

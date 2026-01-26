@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/explain_analyze.rs", "datafusion/optimizer/src/lib.rs", "datafusion/optimizer/src/optimizer.rs", "datafusion/optimizer/src/simplify_expressions/expr_simplifier.rs", "datafusion/optimizer/src/simplify_expressions/mod.rs", "datafusion/optimizer/src/simplify_expressions/unwrap_cast.rs", "datafusion/sqllogictest/test_files/explain.slt"]

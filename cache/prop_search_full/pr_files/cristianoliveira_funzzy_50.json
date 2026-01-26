@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Makefile", "src/cli/watch.rs", "src/main.rs", "src/rules.rs", "tests/integration/.tests.yaml", "tests/integration/functions.sh", "tests/integration/runner.sh", "tests/integration/specs/run-target-task-test.sh"]

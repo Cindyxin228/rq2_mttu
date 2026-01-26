@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/common/mod.rs", "examples/image-labels.rs", "examples/image.rs", "examples/login.rs", "examples/tags.rs", "examples/trace.rs", "src/v2/auth.rs", "src/v2/config.rs", "src/v2/mod.rs", "tests/net/quay_io/mod.rs"]

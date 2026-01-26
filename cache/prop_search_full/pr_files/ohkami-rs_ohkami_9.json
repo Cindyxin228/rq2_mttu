@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/db/rust/Cargo.toml", "examples/simple/Cargo.toml", "examples/simple/src/bin/hello.rs", "examples/simple/src/bin/log_config.rs", "examples/simple/src/bin/path_param.rs", "examples/simple/src/bin/request_body.rs", "src/components/json.rs", "src/lib.rs"]

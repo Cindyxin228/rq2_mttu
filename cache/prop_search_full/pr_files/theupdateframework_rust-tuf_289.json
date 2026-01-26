@@ -1,0 +1,1 @@
+["src/client.rs", "src/metadata.rs", "src/tuf.rs", "tests/interop/main.rs", "tests/simple_example.rs"]

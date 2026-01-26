@@ -1,0 +1,1 @@
+["web3.js/package.json", "web3.js/rollup.config.js", "web3.js/src/__forks__/react-native/fetch-impl.ts", "web3.js/src/connection.ts", "web3.js/src/util/__forks__/react-native/url-impl.ts", "web3.js/src/util/makeWebsocketUrl.ts", "web3.js/src/util/url-impl.ts", "web3.js/yarn.lock"]

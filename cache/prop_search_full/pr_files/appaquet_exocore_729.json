@@ -1,0 +1,1 @@
+[".github/workflows/push-tester.yml", "clients/c/src/lib.rs", "exo/src/main.rs", "store/src/local/entity_index/aggregator.rs", "store/src/remote/client.rs", "tools/coverage.sh"]

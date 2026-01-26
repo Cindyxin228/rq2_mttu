@@ -1,0 +1,1 @@
+["compiler/rustc_infer/src/infer/error_reporting/mod.rs", "src/test/ui/suggestions/lifetimes/missing-lifetimes-in-signature-2.nll.stderr", "src/test/ui/suggestions/lifetimes/missing-lifetimes-in-signature-2.rs", "src/test/ui/suggestions/lifetimes/missing-lifetimes-in-signature-2.stderr"]

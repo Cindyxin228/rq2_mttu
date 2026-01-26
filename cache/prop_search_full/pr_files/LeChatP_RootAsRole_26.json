@@ -1,0 +1,1 @@
+[".vscode/settings.json", "role-manager/src/capabilities.rs", "role-manager/src/config/structs.rs", "role-manager/src/options.rs", "role-manager/src/state.rs", "role-manager/src/state/actor.rs", "role-manager/src/state/role.rs", "src/params.c", "src/xml_manager.c", "tests/unit/test_xml_manager.c"]

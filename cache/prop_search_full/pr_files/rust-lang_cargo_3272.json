@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "Cargo.toml", "Makefile.in", "appveyor.yml", "src/cargo/util/sha256.rs", "src/crates-io/Cargo.toml", "tests/build-auth.rs", "tests/cargotest/Cargo.toml", "tests/cargotest/support/mod.rs", "tests/freshness.rs", "tests/net-config.rs"]

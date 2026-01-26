@@ -1,0 +1,1 @@
+["vulkano-shaders/src/codegen.rs", "vulkano/src/device/extensions.rs", "vulkano/src/extensions.rs", "vulkano/src/instance/extensions.rs", "vulkano/src/swapchain/display.rs", "vulkano/src/sync/future/semaphore_signal.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/pipe.rs", "benches/throughput.rs", "examples/basic.rs", "examples/hypercore.rs", "examples/pipe.rs", "src/builder.rs", "src/channels.rs", "src/lib.rs", "src/noise/handshake.rs", "src/protocol.rs", "src/reader.rs", "src/util.rs", "src/writer.rs", "tests/_util.rs", "tests/basic.rs"]

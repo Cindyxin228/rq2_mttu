@@ -1,0 +1,1 @@
+["Cargo.toml", "src/consume/mod.rs", "src/lib.rs", "src/publish/mod.rs", "src/publish/publishers/googlepubsub.rs", "src/publish/sink.rs", "src/validators/json_schema.rs", "src/validators/mod.rs", "src/validators/prost.rs"]

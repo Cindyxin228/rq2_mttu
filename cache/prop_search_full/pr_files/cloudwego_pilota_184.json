@@ -1,0 +1,1 @@
+["pilota-build/src/codegen/mod.rs", "pilota-build/src/codegen/thrift/mod.rs", "pilota-build/src/lib.rs", "pilota-build/src/middle/context.rs", "pilota-build/src/middle/rir.rs", "pilota-build/src/plugin/mod.rs", "pilota-build/src/resolve.rs", "pilota-build/src/test/mod.rs", "pilota-build/test_data/unknown_fields.rs", "pilota-build/test_data/unknown_fields.thrift"]

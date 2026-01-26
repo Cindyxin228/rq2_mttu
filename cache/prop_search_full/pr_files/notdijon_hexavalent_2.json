@@ -1,0 +1,1 @@
+["Cargo.toml", "src/context.rs", "src/event.rs", "src/event/print.rs", "src/event/server.rs", "src/gui.rs", "src/hook.rs", "src/info.rs", "src/lib.rs", "src/list.rs", "src/list/impls.rs", "src/mode.rs", "src/plugin.rs", "src/pref.rs", "src/state.rs", "src/strip.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "LICENSE-APACHE", "LICENSE-MIT", "gif-afl/Cargo.toml", "gif-afl/src/main.rs", "src/c_api_utils.rs", "src/encoder.rs", "src/lib.rs", "src/reader/mod.rs", "src/traits.rs", "tests/results.txt", "tests/samples/beacon.gif"]

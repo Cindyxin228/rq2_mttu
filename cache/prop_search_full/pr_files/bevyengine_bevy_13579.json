@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/bevy_state/src/lib.rs", "crates/bevy_state/src/state/freely_mutable_state.rs", "crates/bevy_state/src/state/mod.rs", "crates/bevy_state/src/state/transitions.rs", "crates/bevy_state/src/state_scoped.rs", "examples/README.md", "examples/state/custom_transitions.rs", "examples/state/states.rs"]

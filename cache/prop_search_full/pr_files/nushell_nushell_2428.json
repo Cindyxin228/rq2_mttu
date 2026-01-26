@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/commands.rs", "crates/nu-cli/src/commands/path/dirname.rs", "crates/nu-cli/src/commands/path/filestem.rs", "crates/nu-cli/src/commands/path/mod.rs", "crates/nu-cli/src/completion/command.rs"]

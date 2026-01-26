@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "connect/src/spirc.rs", "core/Cargo.toml", "core/src/spclient.rs", "playback/Cargo.toml", "playback/src/audio_backend/gstreamer.rs"]

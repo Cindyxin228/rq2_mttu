@@ -1,0 +1,1 @@
+["diesel_cli/Cargo.toml", "diesel_cli/src/config.rs", "diesel_cli/src/print_schema.rs", "diesel_migrations/migrations_internals/Cargo.toml"]

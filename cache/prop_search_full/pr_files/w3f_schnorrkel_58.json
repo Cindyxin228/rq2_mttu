@@ -1,0 +1,1 @@
+["benches/schnorr_benchmarks.rs", "src/keys.rs", "src/sign.rs"]

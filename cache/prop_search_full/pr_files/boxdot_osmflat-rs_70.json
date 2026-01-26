@@ -1,0 +1,1 @@
+["Cargo.toml", "flatdata/osm.flatdata", "osmflat/Cargo.toml", "osmflat/examples/debug.rs", "osmflat/examples/render-features.rs", "osmflat/examples/render-roads.rs", "osmflat/examples/road-length.rs", "osmflat/src/osmflat_generated.rs", "osmflatc/Cargo.toml", "osmflatc/src/args.rs", "osmflatc/src/main.rs", "osmflatc/src/osmpbf.rs", "osmflatc/src/strings.rs"]

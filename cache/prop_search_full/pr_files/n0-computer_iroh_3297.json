@@ -1,0 +1,1 @@
+["Cargo.lock", "iroh-dns-server/Cargo.toml", "iroh-dns-server/examples/publish.rs", "iroh-dns-server/src/store.rs", "iroh-dns-server/src/store/signed_packets.rs", "iroh/src/discovery/pkarr.rs"]

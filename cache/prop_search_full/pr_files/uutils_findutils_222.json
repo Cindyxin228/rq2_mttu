@@ -1,0 +1,1 @@
+[".pre-commit-config.yaml", "src/find/main.rs", "src/find/matchers/type_matcher.rs", "src/find/mod.rs", "src/testing/commandline/main.rs", "src/xargs/main.rs", "tests/common/test_helpers.rs", "tests/exec_unit_tests.rs", "tests/find_cmd_tests.rs", "tests/find_exec_tests.rs", "tests/xargs_tests.rs"]

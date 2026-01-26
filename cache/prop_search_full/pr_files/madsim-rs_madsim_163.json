@@ -1,0 +1,1 @@
+["madsim-rdkafka/src/sim/broker.rs", "madsim-rdkafka/src/sim/error.rs", "madsim-rdkafka/src/sim/message.rs", "madsim-rdkafka/src/sim/producer/base_producer.rs", "madsim-rdkafka/src/sim/producer/future_producer.rs", "madsim-rdkafka/src/sim/producer/mod.rs", "madsim-rdkafka/src/sim/sim_broker.rs", "madsim-rdkafka/tests/test.rs"]

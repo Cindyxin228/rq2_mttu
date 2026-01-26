@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/swc_ecma_minifier/Cargo.toml", "crates/swc_ecma_minifier/src/pass/mangle_names/analyzer/mod.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/analyzer/scope.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/preserver.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/rename_map.rs"]

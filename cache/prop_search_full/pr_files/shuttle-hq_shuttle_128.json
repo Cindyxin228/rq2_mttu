@@ -1,0 +1,1 @@
+["shell.nix", "terraform/api.tf", "terraform/backend.tf", "terraform/certs.tf", "terraform/output.tf", "terraform/terraform.tfvars", "terraform/variables.tf"]

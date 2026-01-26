@@ -1,0 +1,1 @@
+[".github/workflows/rust_tests.yml", ".gitignore", "Cargo.toml", "README.md", "example-projects/nats-example/Cargo.toml", "example-projects/nats-example/src/main.rs", "src/binding/mod.rs", "src/binding/nats/deserializer.rs", "src/binding/nats/mod.rs", "src/binding/nats/serializer.rs"]

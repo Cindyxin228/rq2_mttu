@@ -1,0 +1,1 @@
+["actix-web-codegen/CHANGES.md", "actix-web-codegen/Cargo.toml", "actix-web-codegen/README.md", "actix-web-codegen/src/route.rs", "actix-web-codegen/tests/test_macro.rs", "actix-web-codegen/tests/trybuild/simple-fail.stderr"]

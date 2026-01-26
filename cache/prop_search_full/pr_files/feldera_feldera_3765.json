@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/adapters/Cargo.toml", "crates/adapters/src/controller/mod.rs", "crates/adapters/src/util.rs", "crates/feldera-types/src/config.rs", "crates/pipeline-manager/src/api/examples.rs", "crates/pipeline-manager/src/db/test.rs", "openapi.json"]

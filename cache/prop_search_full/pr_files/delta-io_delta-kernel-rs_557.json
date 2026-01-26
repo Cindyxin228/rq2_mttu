@@ -1,0 +1,1 @@
+["kernel/src/engine/arrow_get_data.rs", "kernel/src/engine/arrow_utils.rs", "kernel/src/engine/parquet_row_group_skipping.rs", "kernel/src/scan/log_replay.rs"]

@@ -1,0 +1,1 @@
+["libsqlite3-sys/build.rs", "src/error.rs", "src/inner_connection.rs", "src/lib.rs", "src/pragma.rs", "src/transaction.rs", "src/types/from_sql.rs", "src/util/sqlite_string.rs", "src/vtab/csvtab.rs", "src/vtab/mod.rs", "src/vtab/vtablog.rs"]

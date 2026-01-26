@@ -1,0 +1,1 @@
+["diesel_compile_tests/rust-toolchain", "diesel_compile_tests/tests/fail/derive/selectable.rs", "diesel_compile_tests/tests/fail/derive/selectable.stderr", "diesel_compile_tests/tests/fail/derive/unknown_attribute.stderr", "diesel_derives/src/attrs.rs", "diesel_derives/src/field.rs", "diesel_derives/src/selectable.rs", "diesel_derives/tests/selectable.rs"]

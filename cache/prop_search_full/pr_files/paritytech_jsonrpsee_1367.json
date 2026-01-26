@@ -1,0 +1,1 @@
+["proc-macros/tests/ui/incorrect/method/method_non_result_return_type.stderr", "proc-macros/tests/ui/incorrect/rpc/rpc_empty_bounds.stderr"]

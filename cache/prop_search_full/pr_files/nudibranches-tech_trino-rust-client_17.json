@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/client.rs", "src/error.rs", "src/session.rs", "src/ssl.rs", "trino-rust-client-macros/Cargo.toml"]

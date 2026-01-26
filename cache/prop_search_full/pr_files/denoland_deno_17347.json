@@ -1,0 +1,1 @@
+["test_napi/src/array.rs", "test_napi/src/arraybuffer.rs", "test_napi/src/async.rs", "test_napi/src/callback.rs", "test_napi/src/coerce.rs", "test_napi/src/lib.rs", "test_napi/src/numbers.rs", "test_napi/src/object_wrap.rs", "test_napi/src/primitives.rs", "test_napi/src/promise.rs", "test_napi/src/properties.rs", "test_napi/src/strings.rs", "test_napi/src/typedarray.rs"]

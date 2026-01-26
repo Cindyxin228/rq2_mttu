@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nostr-database/Cargo.toml", "crates/nostr-database/examples/memory.rs", "crates/nostr-database/src/lib.rs", "crates/nostr-database/src/memory.rs", "crates/nostr-database/src/options.rs", "crates/nostr-indexeddb/src/lib.rs", "crates/nostr-rocksdb/src/lib.rs", "crates/nostr-sqlite/src/lib.rs"]

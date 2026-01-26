@@ -1,0 +1,1 @@
+["fluent-bundle/src/bundle.rs", "fluent-bundle/src/memoizer.rs", "fluent-bundle/src/resolver/scope.rs", "fluent-bundle/src/types/mod.rs", "fluent-fallback/examples/simple-fallback.rs", "fluent-resmgr/src/resource_manager.rs", "fluent-syntax/src/ast/mod.rs", "fluent-syntax/tests/serializer_fixtures.rs", "fluent/src/lib.rs", "intl-memoizer/src/lib.rs"]

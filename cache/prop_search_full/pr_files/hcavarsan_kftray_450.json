@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "crates/kftui/Cargo.toml", "crates/kftui/src/cli.rs", "crates/kftui/src/cli/args.rs", "crates/kftui/src/cli/config.rs", "crates/kftui/src/cli/handler.rs", "crates/kftui/src/cli/mod.rs", "crates/kftui/src/cli/runner.rs", "crates/kftui/src/main.rs", "crates/kftui/src/stdin.rs"]

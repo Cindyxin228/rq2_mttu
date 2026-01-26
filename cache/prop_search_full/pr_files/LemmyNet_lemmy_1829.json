@@ -1,0 +1,1 @@
+["ansible/ansible.cfg", "ansible/inventory.example", "ansible/lemmy.yml", "ansible/templates/config.hjson", "ansible/templates/nginx.conf", "docker/prod/deploy.sh"]

@@ -1,0 +1,1 @@
+["dist/systemd/system/zincati.service", "src/update_agent/actor.rs", "src/update_agent/mod.rs", "tests/kola/libtest.sh", "tests/kola/misc/data", "tests/kola/misc/test-status.sh"]

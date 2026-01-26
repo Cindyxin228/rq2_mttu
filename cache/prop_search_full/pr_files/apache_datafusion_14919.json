@@ -1,0 +1,1 @@
+["datafusion/core/tests/physical_optimizer/enforce_distribution.rs", "datafusion/core/tests/physical_optimizer/enforce_sorting.rs", "datafusion/core/tests/physical_optimizer/sanity_checker.rs", "datafusion/core/tests/physical_optimizer/test_utils.rs"]

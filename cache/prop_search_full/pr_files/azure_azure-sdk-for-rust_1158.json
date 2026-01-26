@@ -1,0 +1,1 @@
+["sdk/core/Cargo.toml", "sdk/data_cosmos/Cargo.toml", "sdk/data_tables/Cargo.toml", "sdk/identity/Cargo.toml", "sdk/iot_hub/Cargo.toml", "sdk/messaging_servicebus/Cargo.toml", "sdk/storage/Cargo.toml", "sdk/storage_blobs/Cargo.toml"]

@@ -1,0 +1,1 @@
+["examples/handlebars_template.rs", "src/filters/body.rs", "src/filters/cors.rs", "src/filters/ext.rs", "src/filters/sse.rs", "src/reject.rs", "src/reply.rs"]

@@ -1,0 +1,1 @@
+["examples/protocol_test/Cargo.toml", "examples/protocol_test/src/bin/sender.rs", "fe2o3-amqp/Cargo.toml", "fe2o3-amqp/src/connection/builder.rs", "fe2o3-amqp/src/connection/error.rs", "fe2o3-amqp/src/connection/mod.rs", "fe2o3-amqp/src/transport/mod.rs", "fe2o3-amqp/src/transport/protocol_header.rs"]

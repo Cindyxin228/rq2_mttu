@@ -1,0 +1,1 @@
+["coreutils_core/src/os/passwd.rs", "date/src/cli.rs", "dirname/src/main.rs", "du/src/blocksize.rs", "du/src/cli.rs", "du/src/time.rs", "echo/src/main.rs", "mv/src/cli.rs", "nl/src/cli.rs", "rm/src/main.rs", "rmdir/src/main.rs", "seq/src/args.rs", "time/src/output.rs", "touch/src/cli.rs", "touch/src/main.rs", "touch/src/tests.rs", "users/src/main.rs", "who/src/main.rs"]

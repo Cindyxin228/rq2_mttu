@@ -1,0 +1,1 @@
+["fuzz/src/onion_message.rs", "lightning-background-processor/src/lib.rs", "lightning/src/events/mod.rs", "lightning/src/ln/msgs.rs", "lightning/src/ln/peer_handler.rs", "lightning/src/onion_message/functional_tests.rs", "lightning/src/onion_message/messenger.rs"]

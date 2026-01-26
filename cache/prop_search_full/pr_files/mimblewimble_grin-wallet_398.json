@@ -1,0 +1,1 @@
+["api/src/foreign_rpc.rs", "controller/src/command.rs", "impls/src/adapters/file.rs", "impls/src/adapters/http.rs", "impls/src/adapters/mod.rs", "libwallet/src/api_impl/owner.rs", "libwallet/src/internal/tx.rs", "libwallet/src/slate.rs", "libwallet/src/slate_versions/v3.rs", "libwallet/src/slate_versions/v4.rs", "src/bin/grin-wallet.yml", "src/cmd/wallet_args.rs"]

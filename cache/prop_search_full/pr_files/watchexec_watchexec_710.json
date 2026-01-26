@@ -1,0 +1,1 @@
+["README.md", "bin/manpage", "completions/bash", "completions/elvish", "completions/fish", "completions/nu", "completions/powershell", "completions/zsh", "crates/cli/README.md", "crates/cli/src/args.rs", "crates/cli/src/config.rs", "crates/signals/CHANGELOG.md", "crates/signals/src/lib.rs", "doc/watchexec.1", "doc/watchexec.1.md", "doc/watchexec.1.pdf"]

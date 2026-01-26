@@ -1,0 +1,1 @@
+["aws/rust-runtime/aws-runtime/src/auth.rs", "aws/sdk-codegen/src/main/kotlin/software/amazon/smithy/rustsdk/SigV4AuthDecorator.kt", "rust-runtime/aws-smithy-runtime-api/src/client/orchestrator.rs", "rust-runtime/aws-smithy-runtime/src/client/orchestrator/auth.rs"]

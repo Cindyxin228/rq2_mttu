@@ -1,0 +1,1 @@
+["src/crypto.rs", "src/format_hex.rs", "src/interchange/cjson/mod.rs", "src/interchange/cjson/pretty.rs", "src/interchange/cjson/shims.rs", "src/metadata.rs", "src/repository/http.rs", "src/tuf.rs", "src/verify.rs", "tests/metadata/generate.rs"]

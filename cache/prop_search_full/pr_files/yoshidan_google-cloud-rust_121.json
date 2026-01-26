@@ -1,0 +1,1 @@
+["pubsub/src/topic.rs", "storage/src/http/object_access_controls/mod.rs", "storage/src/http/objects/upload.rs", "storage/src/http/resumable_upload_client.rs", "storage/src/http/storage_client.rs", "storage/src/sign.rs"]

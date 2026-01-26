@@ -1,0 +1,1 @@
+[".github/actions/aws_upload/action.yml", ".github/workflows/release-draft-binaries.yml", ".github/workflows/release-ockam-package.yml", ".github/workflows/release-test-draft-binaries.yml", "tools/scripts/release/release.sh"]

@@ -1,0 +1,1 @@
+["examples/go-cgo-enabled/nixpacks.toml", "examples/go-cgo-enabled/test.env", "src/nixpacks/environment.rs", "src/nixpacks/plan/generator.rs"]

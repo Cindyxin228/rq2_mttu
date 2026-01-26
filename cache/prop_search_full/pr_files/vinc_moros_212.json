@@ -1,0 +1,1 @@
+["src/api/console.rs", "src/api/fs.rs", "src/api/mod.rs", "src/api/prompt.rs", "src/sys/console.rs", "src/sys/fs.rs", "src/sys/vga.rs", "src/usr/editor.rs", "src/usr/install.rs", "src/usr/lisp.rs", "src/usr/shell.rs"]

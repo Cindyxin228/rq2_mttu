@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/mockcore/Cargo.toml", "crates/mockcore/src/state.rs", "src/subcommand/wallet.rs", "src/subcommand/wallet/sign.rs", "tests/wallet.rs", "tests/wallet/sign.rs"]

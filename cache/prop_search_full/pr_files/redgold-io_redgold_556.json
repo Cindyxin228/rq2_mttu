@@ -1,0 +1,1 @@
+["data/src/transaction_store.rs", "data/src/utxo_store.rs", "schema/Cargo.toml", "schema/json_build_config.json", "schema/src/lib.rs", "schema/src/util/mod.rs", "src/api/explorer/mod.rs", "src/multiparty/watcher.rs", "src/resources/infra/matrix-base-domain.conf", "src/sanity/historical_parity.rs", "vue-explorer/src/components/hash_types/TransactionDetail.vue"]

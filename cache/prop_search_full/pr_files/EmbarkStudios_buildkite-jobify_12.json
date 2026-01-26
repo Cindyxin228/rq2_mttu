@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "Cargo.toml", "deny.toml", "src/jobifier.rs", "src/k8s/client.rs", "src/k8s/config/apis.rs", "src/main.rs", "src/monitor.rs", "src/scheduler.rs"]

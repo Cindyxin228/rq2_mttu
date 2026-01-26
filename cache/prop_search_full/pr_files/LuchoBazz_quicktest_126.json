@@ -1,0 +1,1 @@
+[".circleci/config.yml", ".github/workflows/macos.yml", "src/controllers/cmd_output_async.rs", "src/controllers/legacy/cmd_output.rs", "src/controllers/mod.rs", "src/main.rs"]

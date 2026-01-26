@@ -1,0 +1,1 @@
+["serde-tests/options.rs", "serde-tests/test.rs", "src/bson.rs", "src/de/mod.rs", "src/de/raw.rs", "src/de/serde.rs", "src/lib.rs", "src/raw/bson.rs", "src/raw/document.rs", "src/ser/mod.rs", "src/ser/serde.rs"]

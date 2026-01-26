@@ -1,0 +1,1 @@
+["crates/mun_codegen/src/ir/body.rs", "crates/mun_codegen/src/ir/file.rs", "crates/mun_codegen/src/snapshots/test__nested_private_fn.snap", "crates/mun_codegen/src/snapshots/test__private_fn_only.snap", "crates/mun_codegen/src/test.rs"]

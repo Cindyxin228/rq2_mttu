@@ -1,0 +1,1 @@
+["examples/PWA-example/Cargo.toml", "packages/dioxus-tui/Cargo.toml", "packages/fullstack/Cargo.toml", "packages/hot-reload/Cargo.toml", "packages/native-core-macro/Cargo.toml", "packages/native-core/Cargo.toml", "packages/rink/Cargo.toml", "packages/router/Cargo.toml", "packages/rsx/Cargo.toml", "packages/signals/Cargo.toml"]

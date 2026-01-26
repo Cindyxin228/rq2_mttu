@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "integration_tests/Cargo.toml", "integration_tests/tests/cognito-sync.rs", "rusoto/services/cognito-sync/Cargo.toml", "rusoto/services/cognito-sync/README.md", "rusoto/services/cognito-sync/src/custom/mod.rs", "rusoto/services/cognito-sync/src/generated.rs", "rusoto/services/cognito-sync/src/lib.rs", "service_crategen/services.json"]

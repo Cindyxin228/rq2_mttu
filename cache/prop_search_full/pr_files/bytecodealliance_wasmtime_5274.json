@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/thread_eager_init.rs", "benches/wasi.rs", "benches/wasi/get-current-time.wat", "benches/wasi/read-arguments.wat", "benches/wasi/read-environment.wat"]

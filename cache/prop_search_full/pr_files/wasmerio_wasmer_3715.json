@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/wasi/src/runners/wasi.rs", "lib/wasi/src/runners/wcgi/handler.rs", "lib/wasi/src/runners/wcgi/runner.rs"]

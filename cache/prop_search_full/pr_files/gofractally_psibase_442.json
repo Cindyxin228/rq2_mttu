@@ -1,0 +1,1 @@
+["CMakeLists.txt", "external/eos-vm", "libraries/psibase/CMakeLists.txt", "libraries/psibase/common/include/psibase/nativeTables.hpp", "libraries/psibase/sdk/psibase-wasm-opt", "libraries/psibase/service/src/memcpy.c", "libraries/psibase/service/src/memmove.c", "libraries/psibase/service/src/memset.c", "programs/psitest/main.cpp", "services/system/VerifyEcSys/CMakeLists.txt"]

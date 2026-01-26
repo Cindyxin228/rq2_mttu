@@ -1,0 +1,1 @@
+["src/array/boolean/mod.rs", "src/array/primitive/mod.rs", "src/bitmap/immutable.rs", "src/buffer/immutable.rs", "src/buffer/mod.rs", "src/ffi/array.rs"]

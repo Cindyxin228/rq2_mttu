@@ -1,0 +1,1 @@
+["crates/typst-pdf/src/tags/context/figure.rs", "tests/ref/pdftags/figure-tags-listing.yml", "tests/ref/pdftags/figure-tags-only-marked-content.yml", "tests/suite/pdftags/figure.typ"]

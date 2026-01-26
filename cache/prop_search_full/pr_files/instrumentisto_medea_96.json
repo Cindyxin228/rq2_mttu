@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Makefile", "jason/Cargo.toml", "jason/src/peer/repo.rs", "jason/tests/peer/mod.rs", "proto/client-api/Cargo.toml", "proto/client-api/src/stats.rs", "src/log/mod.rs"]

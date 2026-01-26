@@ -1,0 +1,1 @@
+["schemars/Cargo.toml", "schemars/src/json_schema_impls/decimal.rs", "schemars/tests/decimal.rs", "schemars/tests/expected/bigdecimal.json", "schemars/tests/expected/rust_decimal.json"]

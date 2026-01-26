@@ -1,0 +1,1 @@
+["examples/golang/components/http-client-tinygo/wasmcloud.toml", "examples/golang/components/http-echo-tinygo/wasmcloud.toml", "examples/golang/components/http-hello-world/wasmcloud.toml", "examples/golang/components/sqldb-postgres-query/wasmcloud.toml"]

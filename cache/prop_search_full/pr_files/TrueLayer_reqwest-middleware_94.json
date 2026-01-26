@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "reqwest-tracing/CHANGELOG.md", "reqwest-tracing/Cargo.toml", "reqwest-tracing/src/lib.rs", "reqwest-tracing/src/middleware.rs", "reqwest-tracing/src/otel.rs", "reqwest-tracing/src/reqwest_otel_span_builder.rs"]

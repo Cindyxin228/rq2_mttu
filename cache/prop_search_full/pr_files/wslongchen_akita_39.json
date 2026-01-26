@@ -1,0 +1,1 @@
+["Cargo.toml", "akita_core/Cargo.toml", "akita_core/src/data.rs", "akita_core/src/types.rs", "akita_core/src/value.rs", "akita_derive/Cargo.toml", "akita_derive/src/table_derive.rs", "src/akita.rs", "src/mapper.rs", "src/platform/mysql.rs", "src/platform/sqlite.rs", "src/pool.rs", "src/wrapper.rs"]

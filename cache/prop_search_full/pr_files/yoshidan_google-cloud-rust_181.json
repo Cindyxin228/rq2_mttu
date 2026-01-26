@@ -1,0 +1,1 @@
+["foundation/auth/src/credentials.rs", "foundation/auth/src/token_source/external_account_source/aws_subject_token_source.rs", "foundation/auth/src/token_source/external_account_source/mod.rs", "foundation/auth/src/token_source/external_account_source/subject_token_source.rs"]

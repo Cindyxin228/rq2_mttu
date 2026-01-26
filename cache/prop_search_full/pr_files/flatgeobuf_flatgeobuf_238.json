@@ -1,0 +1,1 @@
+["src/rust/Cargo.toml", "src/rust/fgbutil/Cargo.toml", "src/rust/src/feature_generated.rs", "src/rust/src/feature_writer.rs", "src/rust/src/file_writer.rs", "src/rust/src/header_generated.rs", "src/rust/src/properties_reader.rs", "src/rust/tests/read.rs", "src/rust/tests/svg.rs"]

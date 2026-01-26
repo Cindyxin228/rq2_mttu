@@ -1,0 +1,1 @@
+["cli/tests/integration/bundle_tests.rs", "cli/tests/integration/coverage_tests.rs", "cli/tests/integration/fmt_tests.rs", "cli/tests/integration/info_tests.rs", "cli/tests/integration/inspector_tests.rs", "cli/tests/integration/install_tests.rs", "cli/tests/integration/lsp_tests.rs", "cli/tests/integration/run_tests.rs", "cli/tests/integration/watcher_tests.rs"]

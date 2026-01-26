@@ -1,0 +1,1 @@
+["Cargo.lock", "samply-symbols/Cargo.toml", "samply-symbols/src/elf.rs", "samply-symbols/src/macho.rs", "samply-symbols/src/symbol_map.rs", "samply-symbols/src/symbol_map_object.rs", "samply-symbols/src/windows.rs"]

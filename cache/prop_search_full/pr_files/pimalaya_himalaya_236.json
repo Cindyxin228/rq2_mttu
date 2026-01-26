@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/domain/mbox/mbox_handler.rs", "src/domain/mbox/mboxes_entity.rs", "src/domain/msg/envelopes_entity.rs", "src/output/mod.rs", "src/output/output_service.rs", "src/output/print.rs", "src/ui/table.rs", "wiki"]

@@ -1,0 +1,1 @@
+["crates/rune/src/compiling/mod.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/query/mod.rs", "crates/rune/src/shared/gen.rs", "crates/rune/src/shared/items.rs", "crates/rune/src/shared/mod.rs", "crates/rune/src/worker/mod.rs", "crates/runestick/src/id.rs"]

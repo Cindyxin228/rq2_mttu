@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/wash-cli/Cargo.toml", "crates/wash-cli/tests/wash_build.rs", "crates/wash-lib/Cargo.toml", "crates/wash-lib/src/cli/claims.rs", "crates/wash-lib/src/config.rs", "crates/wash-lib/src/parser/mod.rs", "crates/wash-lib/src/start/nats.rs", "crates/wash-lib/tests/parser/main.rs"]

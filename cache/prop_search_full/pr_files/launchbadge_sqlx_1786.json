@@ -1,0 +1,1 @@
+["sqlx-core/src/mysql/protocol/connect/handshake.rs", "sqlx-core/src/mysql/protocol/statement/prepare_ok.rs", "sqlx-core/src/mysql/protocol/text/column.rs"]

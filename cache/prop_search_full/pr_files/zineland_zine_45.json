@@ -1,0 +1,1 @@
+["demo/season-1/zine.toml", "demo/season-2/zine.toml", "demo/zine.toml", "src/data.rs", "src/engine.rs", "src/entity/author.rs", "src/entity/zine.rs", "static/zine.css", "static/zine.png", "templates/_macros.jinja", "templates/article.jinja", "templates/author.jinja", "templates/season.jinja"]

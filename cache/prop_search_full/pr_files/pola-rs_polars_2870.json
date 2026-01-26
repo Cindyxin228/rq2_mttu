@@ -1,0 +1,1 @@
+["polars/polars-lazy/src/logical_plan/projection.rs", "polars/polars-lazy/src/physical_plan/expressions/column.rs", "py-polars/polars/internals/lazy_functions.py", "py-polars/tests/test_exprs.py"]

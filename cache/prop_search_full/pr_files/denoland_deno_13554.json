@@ -1,0 +1,1 @@
+["cli/lsp/cache.rs", "cli/lsp/diagnostics.rs", "cli/lsp/documents.rs", "cli/lsp/language_server.rs", "cli/tests/testdata/x_deno_warning_redirect.js", "test_util/src/lib.rs"]

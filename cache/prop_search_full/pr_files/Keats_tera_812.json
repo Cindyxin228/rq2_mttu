@@ -1,0 +1,1 @@
+["benches/dotted_pointer.rs", "benches/json_pointer.rs", "src/builtins/filters/array.rs", "src/context.rs", "src/lib.rs", "src/renderer/call_stack.rs", "src/renderer/processor.rs", "src/renderer/stack_frame.rs", "src/renderer/tests/square_brackets.rs"]

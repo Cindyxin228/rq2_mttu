@@ -1,0 +1,1 @@
+["sway-lib-std/src/asset.sw", "sway-lib-std/src/outputs.sw", "test/src/e2e_vm_tests/test_programs/should_pass/require_contract_deployment/asset_ops_test/src/main.sw", "test/src/sdk-harness/test_artifacts/tx_contract/src/main.sw", "test/src/sdk-harness/test_artifacts/tx_output_contract_creation_predicate/src/main.sw", "test/src/sdk-harness/test_projects/tx_fields/mod.rs"]

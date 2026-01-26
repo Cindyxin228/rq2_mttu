@@ -1,0 +1,1 @@
+["crates/rune/src/ast/pat.rs", "crates/rune/src/compiling/compiler.rs", "crates/rune/tests/test_all/vm_general.rs", "crates/runestick/src/inst.rs", "crates/runestick/src/vm.rs"]

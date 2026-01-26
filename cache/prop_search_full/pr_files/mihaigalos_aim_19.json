@@ -1,0 +1,1 @@
+["Cargo.toml", "LICENSE.md", "src/hash.rs", "src/io.rs", "src/main.rs", "src/netrc.rs", "test/ftp/Justfile", "test/https/Justfile"]

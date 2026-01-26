@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/tests.yml", "Cargo.lock", "Cargo.toml", "Dockerfile", "README.md", "scripts/prepare_ci.sh", "src/cli/errors.rs", "src/cli/setup.rs", "src/client/cluster.rs", "src/config.rs", "src/utils/cert.rs", "src/utils/exec.rs", "src/utils/mod.rs", "src/version.rs"]

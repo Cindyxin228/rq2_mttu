@@ -1,0 +1,1 @@
+[".builds/freebsd.yml", ".builds/linux.yml", ".github/workflows/ci.yml", "CHANGELOG.md", "CONTRIBUTING.md", "Cargo.lock", "alacritty/Cargo.toml", "alacritty/src/cli.rs", "alacritty/src/display/mod.rs", "alacritty/src/display/wayland_theme.rs", "alacritty/src/display/window.rs", "alacritty/src/window_context.rs"]

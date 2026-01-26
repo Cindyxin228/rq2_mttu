@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.toml", "clippy.toml", "docs/k8s/gateway-api-compatibility.md", "kernel/res/spacegate-gateway.yaml", "kernel/src/config/config_by_k8s.rs", "kernel/src/plugins/filters.rs"]

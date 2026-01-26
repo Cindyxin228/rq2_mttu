@@ -1,0 +1,1 @@
+["c2rust-refactor/doc/gen_command_docs.py", "c2rust-refactor/doc/run_literate.py", "c2rust-refactor/gen/process_ast.py", "examples/json-c/translate.py", "examples/libxml2/patch_translated_code.py", "examples/libxml2/translate.py", "examples/robotfindskitten/translate.py", "examples/tinycc/translate.py", "examples/tmux/translate.py", "manual/preprocessors/generator_dispatch.py"]

@@ -1,0 +1,1 @@
+["README.md", "src/lib.rs", "src/providers/doap.rs", "src/providers/go.rs", "src/providers/maven.rs", "src/providers/metainfo.rs", "src/providers/ocaml.rs", "src/providers/perl.rs", "src/providers/r.rs", "src/providers/security_md.rs", "src/repology.rs", "src/vcs.rs", "src/vcs_command.rs"]

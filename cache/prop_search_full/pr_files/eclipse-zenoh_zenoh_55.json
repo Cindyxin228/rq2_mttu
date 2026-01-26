@@ -1,0 +1,1 @@
+["zenoh-protocol/Cargo.toml", "zenoh-protocol/src/link/locator.rs", "zenoh-protocol/src/link/manager.rs", "zenoh-protocol/src/link/mod.rs", "zenoh-protocol/src/link/unixsock_stream.rs", "zenoh-protocol/tests/channel.rs", "zenoh-protocol/tests/locators.rs", "zenoh-protocol/tests/session.rs"]

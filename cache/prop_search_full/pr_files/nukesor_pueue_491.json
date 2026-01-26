@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", ".github/workflows/lint.yml", ".github/workflows/package-binary.yml", ".github/workflows/test.yml", "Cross.toml", "docs/Architecture.md", "docs/Cross.md", "pueue/tests/client/integration/follow.rs", "pueue/tests/helper/daemon.rs", "pueue/tests/helper/fixtures.rs", "pueue/tests/helper/mod.rs", "pueue/tests/helper/wait.rs"]

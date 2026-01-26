@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng_launcher/.gitignore", "fuzzers/libfuzzer_libpng_launcher/src/lib.rs", "libafl/src/bolts/launcher.rs", "libafl/src/bolts/os/unix_shmem_server.rs", "libafl/src/feedbacks/map.rs", "libafl/src/monitors/disk.rs", "libafl/src/monitors/mod.rs", "libafl/src/observers/mod.rs", "libafl/src/stages/sync.rs", "libafl_cc/src/cfg.rs"]

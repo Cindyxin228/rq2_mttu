@@ -1,0 +1,1 @@
+["src/find/matchers/glob.rs", "src/find/matchers/logical_matchers.rs", "src/find/matchers/mod.rs", "src/find/matchers/perm.rs", "src/find/matchers/printf.rs", "src/find/matchers/time.rs", "tests/find_cmd_tests.rs"]

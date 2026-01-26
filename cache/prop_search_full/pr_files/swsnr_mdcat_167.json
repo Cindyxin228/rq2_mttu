@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", ".gitignore", "README.md", "build.rs", "mdcat.1.adoc", "scripts/package", "scripts/release", "src/bin/mdcat/args.rs", "src/bin/mdcat/main.rs", "tests/cli.rs"]

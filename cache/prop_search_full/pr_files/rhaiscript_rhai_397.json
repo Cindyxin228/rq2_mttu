@@ -1,0 +1,1 @@
+["CHANGELOG.md", "scripts/README.md", "scripts/comments.rhai", "scripts/fibonacci.rhai", "scripts/function_decl2.rhai", "src/ast.rs", "src/engine.rs", "src/fn_call.rs", "src/optimize.rs", "src/parse_error.rs", "src/parser.rs", "src/token.rs", "tests/switch.rs"]

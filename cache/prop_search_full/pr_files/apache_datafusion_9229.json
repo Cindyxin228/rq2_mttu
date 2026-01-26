@@ -1,0 +1,1 @@
+["datafusion/common/src/scalar/mod.rs", "datafusion/common/src/scalar/struct_builder.rs", "datafusion/proto/tests/cases/roundtrip_logical_plan.rs"]

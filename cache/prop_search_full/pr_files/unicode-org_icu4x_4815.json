@@ -1,0 +1,1 @@
+["Cargo.lock", "ffi/dart/tools/datagen/Cargo.toml", "provider/datagen/Cargo.toml", "provider/datagen/src/baked_exporter.rs", "provider/datagen/src/lib.rs", "provider/datagen/src/provider.rs", "provider/datagen/src/provider/tests/make_testdata.rs", "provider/datagen/src/registry.rs", "tools/depcheck/src/allowlist.rs"]

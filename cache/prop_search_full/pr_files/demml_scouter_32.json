@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/scouter/src/core/observe/observer.rs", "py-scouter/pyproject.toml", "py-scouter/python/scouter/integrations/fastapi.py", "py-scouter/uv.lock"]

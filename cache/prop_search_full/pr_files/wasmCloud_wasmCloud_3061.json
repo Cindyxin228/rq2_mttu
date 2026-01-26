@@ -1,0 +1,1 @@
+["crates/wash-cli/src/app/mod.rs", "crates/wash-cli/tests/common/mod.rs", "crates/wash-cli/tests/fixtures/wadm/manifests/simple.wadm.yaml", "crates/wash-cli/tests/wash_app.rs", "crates/wash-lib/src/cli/output.rs"]

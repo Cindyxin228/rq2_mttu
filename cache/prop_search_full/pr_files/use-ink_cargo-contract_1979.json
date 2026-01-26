@@ -1,0 +1,1 @@
+["Cargo.lock", "build-image/Dockerfile", "crates/build/src/crate_metadata.rs", "crates/build/src/lib.rs", "crates/cargo-contract/src/cmd/build.rs"]

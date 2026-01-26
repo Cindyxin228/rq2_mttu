@@ -1,0 +1,1 @@
+["Cargo.lock", "examples/server.toml", "kanidm_book/src/administrivia.md", "kanidm_book/src/server_configuration.md", "kanidmd/Cargo.toml", "kanidmd/src/lib/actors/v1_read.rs", "kanidmd/src/lib/config.rs", "kanidmd/src/lib/core/mod.rs", "kanidmd/src/lib/event.rs", "kanidmd/src/lib/interval.rs", "kanidmd/src/server/main.rs"]

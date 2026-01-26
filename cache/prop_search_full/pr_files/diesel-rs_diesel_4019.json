@@ -1,0 +1,1 @@
+["diesel/src/lib.rs", "diesel/src/query_builder/update_statement/mod.rs", "diesel/src/result.rs", "diesel_tests/tests/update.rs"]

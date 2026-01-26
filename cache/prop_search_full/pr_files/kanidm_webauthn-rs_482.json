@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "authenticator-cli/Cargo.toml", "authenticator-cli/src/main.rs", "base64urlsafedata/Cargo.toml", "base64urlsafedata/src/common.rs", "base64urlsafedata/src/lib.rs", "fido-hid-rs/Cargo.toml", "webauthn-authenticator-rs/Cargo.toml", "webauthn-rp-proxy/tests/integration_test.rs", "webauthn-rs-proto/Cargo.toml"]

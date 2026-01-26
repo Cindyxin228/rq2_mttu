@@ -1,0 +1,1 @@
+["src/binding/actix/server_request.rs", "src/binding/actix/server_response.rs", "src/binding/axum/extract.rs", "src/binding/axum/response.rs", "src/binding/rdkafka/kafka_consumer_record.rs", "src/binding/reqwest/client_request.rs", "src/binding/reqwest/client_response.rs", "src/binding/warp/filter.rs", "src/binding/warp/reply.rs", "src/test/fixtures/v10.rs"]

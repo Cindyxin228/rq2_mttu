@@ -1,0 +1,1 @@
+["datafusion/core/src/dataframe/mod.rs", "datafusion/core/src/dataframe/parquet.rs", "datafusion/core/src/execution/context/mod.rs", "datafusion/physical-plan/src/lib.rs"]

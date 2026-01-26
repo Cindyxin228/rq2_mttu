@@ -1,0 +1,1 @@
+["datafusion/src/physical_plan/functions.rs", "datafusion/src/physical_plan/unicode_expressions.rs", "datafusion/src/sql/planner.rs", "datafusion/tests/sql/expr.rs"]

@@ -1,0 +1,1 @@
+["crates/hir/src/diagnostics.rs", "crates/hir_def/src/diagnostics.rs", "crates/hir_def/src/item_tree.rs", "crates/hir_def/src/nameres.rs", "crates/hir_def/src/nameres/collector.rs", "crates/ide/src/diagnostics.rs", "crates/ide/src/diagnostics/field_shorthand.rs", "crates/rust-analyzer/src/handlers.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/github-ci.yml", "Cargo.lock", "engineioxide/src/sid.rs", "examples/chat/Cargo.toml", "socketioxide/Cargo.toml", "socketioxide/benches/packet_decode.rs", "socketioxide/benches/packet_encode.rs", "socketioxide/src/lib.rs"]

@@ -1,0 +1,1 @@
+["docs/_includes/examples/doc_comments.schema.json", "schemars/examples/doc_comments.schema.json", "schemars/tests/docs.rs", "schemars/tests/expected/doc_comments_enum.json", "schemars_derive/src/attr/doc.rs"]

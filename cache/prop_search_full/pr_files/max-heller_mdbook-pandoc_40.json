@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "scripts/cargo-dist-render-books", "src/latex.rs", "src/lib.rs", "src/pandoc.rs", "src/pandoc/renderer.rs", "src/preprocess.rs", "src/snapshots/mdbook_pandoc__tests__rustc_dev_guide.snap"]

@@ -1,0 +1,1 @@
+["config/src/config.rs", "config/src/ssh.rs", "config/src/tls.rs", "config/src/unix.rs", "docs/config/lua/SshDomain.md", "docs/config/lua/TlsDomainClient.md", "docs/multiplexing.md", "wezterm-client/src/domain.rs", "wezterm-client/src/pane/renderable.rs"]

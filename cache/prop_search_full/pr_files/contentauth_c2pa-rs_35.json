@@ -1,0 +1,1 @@
+[".github/dependabot.yml", ".github/workflows/publish.yml", "Cargo.toml", "Makefile", "README.md", "c2patool/Cargo.toml", "c2patool/sample/config.json", "c2patool/sample/es256_certs.pem", "c2patool/sample/es256_private.key", "c2patool/src/README.md", "c2patool/src/config.rs", "c2patool/src/main.rs", "c2patool/src/signer.rs", "c2patool/tests/integration.rs"]

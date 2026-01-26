@@ -1,0 +1,1 @@
+["crates/nostr-sdk/src/client/blocking.rs", "crates/nostr-sdk/src/client/mod.rs", "crates/nostr/README.md", "crates/nostr/src/event/builder.rs", "crates/nostr/src/event/kind.rs", "crates/nostr/src/event/tag.rs", "crates/nostr/src/lib.rs", "crates/nostr/src/nips/mod.rs", "crates/nostr/src/nips/nip58.rs", "crates/nostr/src/nips/nip65.rs", "crates/nostr/src/nips/nip94.rs"]

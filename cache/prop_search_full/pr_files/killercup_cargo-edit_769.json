@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/bin/add/add.rs", "src/bin/rm/rm.rs", "src/bin/set-version/set_version.rs", "src/bin/set-version/version.rs", "src/bin/upgrade/upgrade.rs", "tests/cargo-rm/invalid_arg/stderr.log", "tests/cmd/set-version/relative_absolute_conflict.toml"]

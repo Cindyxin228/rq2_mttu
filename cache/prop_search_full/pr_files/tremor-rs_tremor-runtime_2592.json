@@ -1,0 +1,1 @@
+[".github/workflows/create-release.yaml", ".github/workflows/tests.yaml", "CHANGELOG.md", "Cargo.lock", "src/lib.rs", "tests/flows.rs", "tremor-archive/src/lib.rs", "tremor-cli/src/archive.rs", "tremor-cli/src/cli.rs", "tremor-cli/src/server.rs"]

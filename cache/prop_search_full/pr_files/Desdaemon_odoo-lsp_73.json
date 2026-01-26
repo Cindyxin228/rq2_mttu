@@ -1,0 +1,1 @@
+["src/analyze.rs", "src/backend.rs", "src/backend/tests.rs", "src/index.rs", "src/js.rs", "src/python.rs", "src/python/completions.rs", "src/server.rs", "src/test_utils.rs", "src/xml.rs", "src/xml/tests.rs"]

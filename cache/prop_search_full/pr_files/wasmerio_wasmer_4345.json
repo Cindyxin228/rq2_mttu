@@ -1,0 +1,1 @@
+["lib/cli/src/commands/run/wasi.rs", "lib/wasix/src/runtime/module_cache/filesystem.rs", "lib/wasix/src/runtime/module_cache/mod.rs", "lib/wasix/src/runtime/module_cache/types.rs", "lib/wasix/src/runtime/task_manager/mod.rs", "lib/wasix/src/runtime/task_manager/tokio.rs", "lib/wasix/tests/runners.rs"]

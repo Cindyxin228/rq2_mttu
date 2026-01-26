@@ -1,0 +1,1 @@
+["sqlx-core/src/arguments.rs", "sqlx-core/src/sqlite/connection/explain.rs", "sqlx-macros/src/query/input.rs", "sqlx-macros/src/query/mod.rs", "sqlx-macros/src/query/output.rs", "src/macros.rs", "tests/mysql/macros.rs", "tests/postgres/macros.rs", "tests/sqlite/describe.rs", "tests/sqlite/macros.rs"]

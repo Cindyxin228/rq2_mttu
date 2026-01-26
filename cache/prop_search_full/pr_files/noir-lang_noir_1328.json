@@ -1,0 +1,1 @@
+["crates/nargo_cli/src/cli/mod.rs", "crates/nargo_cli/src/cli/print_acir_cmd.rs", "crates/nargo_cli/tests/prove_and_verify.rs", "crates/noirc_driver/src/lib.rs"]

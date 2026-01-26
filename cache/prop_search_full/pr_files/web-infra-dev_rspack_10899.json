@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/node_binding/Cargo.toml", "crates/rspack_binding_api/Cargo.toml", "crates/rspack_core/Cargo.toml", "crates/rspack_core/src/compiler/mod.rs", "crates/rspack_core/src/utils/queue.rs", "crates/rspack_util/Cargo.toml", "crates/rspack_util/src/debug_tool.rs", "crates/rspack_util/src/lib.rs"]

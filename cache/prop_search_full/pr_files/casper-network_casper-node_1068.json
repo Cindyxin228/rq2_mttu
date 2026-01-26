@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "node/src/components/consensus.rs", "node/src/components/consensus/era_supervisor.rs", "node/src/components/linear_chain_sync.rs", "node/src/types/block.rs", "utils/nctl/sh/scenarios/common/itst.sh"]

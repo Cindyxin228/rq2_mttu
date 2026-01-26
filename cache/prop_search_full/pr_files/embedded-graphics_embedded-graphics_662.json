@@ -1,0 +1,1 @@
+["CHANGELOG.md", "core/src/primitives/rectangle/points.rs", "src/image/image_raw.rs", "src/mock_display/mod.rs", "src/mono_font/mapping.rs", "src/mono_font/mod.rs", "src/primitives/common/line_join.rs", "src/primitives/common/scanline.rs", "src/primitives/polyline/scanline_intersections.rs", "src/text/mod.rs"]

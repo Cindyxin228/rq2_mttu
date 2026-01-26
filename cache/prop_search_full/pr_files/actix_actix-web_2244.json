@@ -1,0 +1,1 @@
+["Cargo.toml", "actix-http/CHANGES.md", "actix-http/Cargo.toml", "actix-http/src/encoding/decoder.rs", "actix-http/src/encoding/encoder.rs", "actix-http/src/header/shared/content_encoding.rs", "tests/test_server.rs"]

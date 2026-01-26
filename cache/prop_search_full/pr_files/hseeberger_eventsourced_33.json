@@ -1,0 +1,1 @@
+["eventsourced-postgres/src/evt_log.rs", "eventsourced-postgres/src/snapshot_store.rs"]

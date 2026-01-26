@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "headers-core/Cargo.toml", "headers-core/src/lib.rs", "src/common/authorization.rs", "src/common/content_disposition.rs", "src/common/host.rs", "src/common/origin.rs", "src/common/sec_websocket_accept.rs", "src/map_ext.rs", "src/util/flat_csv.rs", "src/util/fmt.rs", "src/util/http_date.rs", "src/util/value_string.rs"]

@@ -1,0 +1,1 @@
+["mla-fuzz-afl/Cargo.toml", "mla/src/layers/compress.rs", "mla/src/layers/encrypt.rs"]

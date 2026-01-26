@@ -1,0 +1,1 @@
+["sqlx-core/src/net/tls/mod.rs", "sqlx-core/src/postgres/types/array.rs", "sqlx-core/src/sqlite/options/auto_vacuum.rs", "sqlx-core/src/sqlite/options/locking_mode.rs", "sqlx-core/src/types/json.rs", "sqlx-rt/src/lib.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust_build.yml", ".gitmodules", ".licenserc.yaml", "protos", "rust/build.rs", "rust/proto/apache/rocketmq/v2/admin.proto", "rust/proto/apache/rocketmq/v2/definition.proto", "rust/proto/apache/rocketmq/v2/service.proto"]

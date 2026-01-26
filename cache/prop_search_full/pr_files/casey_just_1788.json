@@ -1,0 +1,1 @@
+["src/compiler.rs", "src/config.rs", "src/justfile.rs", "src/lib.rs", "src/parser.rs", "src/recipe.rs", "src/settings.rs", "src/testing.rs", "src/unresolved_recipe.rs", "tests/modules.rs", "tests/shebang.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/build-release.yml", ".github/workflows/push-tester.yml", "Cargo.lock", "Cargo.toml", "app.yaml", "app/Cargo.toml", "browsers/chrome/manifest.json", "exm/Cargo.toml", "integrations/gmail/Cargo.toml", "ios/Exomind.xcodeproj/project.pbxproj", "ios/Podfile", "ios/Podfile.lock", "protos/Cargo.toml", "web/package.json", "web/yarn.lock"]

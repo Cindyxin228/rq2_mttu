@@ -1,0 +1,1 @@
+["chain/network-primitives/src/network_protocol/mod.rs", "chain/network/src/network_protocol/mod.rs", "chain/network/src/peer/peer_actor.rs", "chain/network/src/peer_manager/peer_manager_actor.rs", "chain/network/src/stats/metrics.rs"]

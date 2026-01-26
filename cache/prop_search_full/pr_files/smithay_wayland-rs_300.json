@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "tests/client_proxies.rs", "wayland-client/src/display.rs", "wayland-client/src/native_lib/display.rs", "wayland-client/src/native_lib/proxy.rs", "wayland-commons/src/wire.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/adc.rs", "src/crc.rs", "src/dma.rs", "src/gpio.rs", "src/i2c.rs", "src/rcc.rs", "src/rtc.rs", "src/timer.rs"]

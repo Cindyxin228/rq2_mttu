@@ -1,0 +1,1 @@
+["examples/pokemon-service-lambda/Cargo.toml", "rust-runtime/aws-smithy-http-server/src/routing/lambda_handler.rs"]

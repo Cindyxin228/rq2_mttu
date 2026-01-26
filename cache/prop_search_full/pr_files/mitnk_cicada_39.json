@@ -1,0 +1,1 @@
+["src/builtins/bg.rs", "src/builtins/fg.rs", "src/builtins/jobs.rs", "src/builtins/utils.rs", "src/core.rs", "src/jobc.rs", "src/main.rs", "src/shell.rs", "src/signals.rs", "src/tools.rs", "src/types.rs"]

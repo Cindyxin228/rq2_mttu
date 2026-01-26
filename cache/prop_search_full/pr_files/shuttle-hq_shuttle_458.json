@@ -1,0 +1,1 @@
+["gateway/migrations/0001_add_top_level_account_perms.sql", "gateway/src/api/latest.rs", "gateway/src/auth.rs", "gateway/src/lib.rs", "gateway/src/service.rs"]

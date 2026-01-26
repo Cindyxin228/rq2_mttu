@@ -1,0 +1,1 @@
+["core/src/core_tests/local_activities.rs", "core/src/core_tests/workflow_tasks.rs", "tests/integ_tests/visibility_tests.rs", "tests/integ_tests/workflow_tests/nexus.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-parser/Cargo.toml", "crates/nu-parser/src/lex.rs", "crates/nu-parser/src/lib.rs", "crates/nu-parser/src/parse.rs", "crates/nu-parser/src/parse/def.rs", "crates/nu-parser/src/parse/def/param_flag_list.rs", "crates/nu-parser/src/parse/util.rs", "crates/nu-protocol/src/signature.rs"]

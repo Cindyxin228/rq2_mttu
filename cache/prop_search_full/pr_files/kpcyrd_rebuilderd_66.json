@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "README.md", "common/src/lib.rs", "contrib/confs/rebuilderd-sync.conf", "daemon/src/versions.rs", "docker-compose.yml", "docs/setup-tails.md", "tools/Cargo.toml", "tools/src/main.rs", "tools/src/schedule/mod.rs", "tools/src/schedule/tails.rs", "worker/Dockerfile.tails", "worker/rebuilder-tails.sh", "worker/src/rebuild.rs"]

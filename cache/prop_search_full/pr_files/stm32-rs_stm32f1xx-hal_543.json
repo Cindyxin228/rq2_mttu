@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/i2c_scanner.rs", "src/i2c.rs", "src/i2c/blocking.rs", "src/i2c/common.rs", "src/i2c/hal_02.rs", "src/i2c/hal_1.rs", "src/prelude.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "contrib/completions/_zoxide", "contrib/completions/zoxide.bash", "man/zoxide-add.1", "man/zoxide-init.1", "man/zoxide-remove.1", "src/app/_app.rs", "src/app/add.rs", "src/app/import.rs", "src/app/query.rs", "src/app/remove.rs", "src/db/mod.rs", "templates/powershell.txt"]

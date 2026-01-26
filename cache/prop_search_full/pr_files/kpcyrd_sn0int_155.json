@@ -1,0 +1,1 @@
+["README.md", "docs/reference.rst", "src/args.rs", "src/engine/ctx.rs", "src/main.rs", "src/paths.rs", "src/runtime/mod.rs", "src/runtime/str.rs", "src/sandbox/seccomp.rs"]

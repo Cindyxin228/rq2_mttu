@@ -1,0 +1,1 @@
+["src/bin/licensa.rs", "src/cli.rs", "src/commands/list.rs", "src/commands/mod.rs", "src/env.rs", "src/lib.rs", "src/license.rs", "src/template/copyright.rs", "src/template/interpolation.rs", "src/template/mod.rs", "src/utils/mod.rs"]

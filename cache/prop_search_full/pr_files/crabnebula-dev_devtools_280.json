@@ -1,0 +1,1 @@
+["clients/web/src/lib/span/format-span.ts", "clients/web/src/lib/span/update/kinds/detectKind.ts", "clients/web/src/lib/span/update/kinds/ipc/detect-ipc-kind.ts", "clients/web/src/lib/span/update/kinds/ipc/detect-ipc-trace.ts", "clients/web/src/lib/span/update/kinds/ipc/ipc-spans.ts"]

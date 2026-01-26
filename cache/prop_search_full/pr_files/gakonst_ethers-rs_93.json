@@ -1,0 +1,1 @@
+["ethers-core/src/types/mod.rs", "ethers-core/src/types/trace/example-trace-str.rs", "ethers-core/src/types/trace/example-traces-str.rs", "ethers-core/src/types/trace/filter.rs", "ethers-core/src/types/trace/mod.rs", "ethers-core/src/types/trace/parity.rs", "ethers-providers/src/lib.rs", "ethers-providers/src/provider.rs"]

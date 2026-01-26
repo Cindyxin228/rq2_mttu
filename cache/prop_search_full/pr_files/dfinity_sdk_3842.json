@@ -1,0 +1,1 @@
+["CHANGELOG.md", "e2e/tests-dfx/ledger.bash", "src/dfx/src/commands/ledger/create_canister.rs", "src/dfx/src/lib/error/notify_create_canister.rs", "src/dfx/src/lib/ledger_types/mod.rs", "src/dfx/src/lib/operations/cmc.rs"]

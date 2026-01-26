@@ -1,0 +1,1 @@
+[".azure-pipelines.yml", ".travis.yml", "Cargo.toml", "examples/client.rs", "examples/server.rs", "src/connector.rs", "src/stream.rs"]

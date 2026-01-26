@@ -1,0 +1,1 @@
+["e2e/tests-dfx/start.bash", "e2e/utils/_.bash", "src/dfx-core/src/config/model/local_server_descriptor.rs", "src/dfx/src/actors/mod.rs", "src/dfx/src/actors/pocketic.rs", "src/dfx/src/actors/pocketic_proxy.rs", "src/dfx/src/actors/post_start.rs", "src/dfx/src/commands/start.rs"]

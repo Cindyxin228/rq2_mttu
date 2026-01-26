@@ -1,0 +1,1 @@
+["lib/cli/src/commands/run/wasi.rs", "lib/wasi-web/src/runtime.rs", "lib/wasix/src/bin_factory/binary_package.rs", "lib/wasix/src/os/console/mod.rs", "lib/wasix/src/runtime/package_loader/builtin_loader.rs", "lib/wasix/src/runtime/resolver/wapm_source.rs", "lib/wasix/tests/runners.rs"]

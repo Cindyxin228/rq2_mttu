@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "common/Cargo.toml", "compiler/Cargo.toml", "compiler/codegen/Cargo.toml", "compiler/core/Cargo.toml", "derive-impl/Cargo.toml", "derive/Cargo.toml", "jit/Cargo.toml", "pylib/Cargo.toml", "scripts/bench.sh", "stdlib/Cargo.toml", "vm/Cargo.toml", "vm/sre_engine/Cargo.toml", "wapm.toml", "wasm/lib/Cargo.toml"]

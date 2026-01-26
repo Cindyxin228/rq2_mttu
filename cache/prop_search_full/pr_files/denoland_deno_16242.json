@@ -1,0 +1,1 @@
+["cli/dts/lib.deno.ns.d.ts", "cli/tests/unit/http_test.ts", "cli/tests/unit/tls_test.ts", "core/resources.rs", "ext/net/lib.deno_net.d.ts", "ext/net/ops_tls.rs", "runtime/ops/http.rs"]

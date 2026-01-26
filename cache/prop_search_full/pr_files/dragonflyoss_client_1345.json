@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "dragonfly-client/src/bin/dfget/main.rs", "dragonfly-client/src/grpc/dfdaemon_download.rs", "dragonfly-client/src/grpc/dfdaemon_upload.rs", "dragonfly-client/src/proxy/mod.rs", "dragonfly-client/src/resource/persistent_cache_task.rs"]

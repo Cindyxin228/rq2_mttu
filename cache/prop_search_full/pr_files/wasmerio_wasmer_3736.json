@@ -1,0 +1,1 @@
+["lib/wasi/src/syscalls/wasi/fd_read.rs", "lib/wasi/src/syscalls/wasi/fd_write.rs", "lib/wasi/src/syscalls/wasix/sock_recv.rs", "lib/wasi/src/syscalls/wasix/sock_send.rs", "lib/wasi/src/syscalls/wasix/sock_send_to.rs"]

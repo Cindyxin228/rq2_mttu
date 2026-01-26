@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "README.md", "reqwest-retry/src/middleware.rs", "reqwest-retry/src/retryable.rs", "reqwest-retry/src/retryable_strategy.rs", "reqwest-retry/tests/all/retry.rs", "reqwest-tracing/src/reqwest_otel_span_builder.rs", "reqwest-tracing/src/reqwest_otel_span_macro.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/async.rs", "src/lib.rs", "src/select.rs", "src/signal.rs", "tests/async.rs", "tests/stream.rs"]

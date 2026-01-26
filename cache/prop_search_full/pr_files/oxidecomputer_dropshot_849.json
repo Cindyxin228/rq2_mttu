@@ -1,0 +1,1 @@
+["CHANGELOG.adoc", "Cargo.lock", "dropshot/Cargo.toml", "dropshot/src/server.rs", "dropshot/tests/common/mod.rs", "dropshot/tests/test_config.rs", "dropshot/tests/test_tls.rs"]

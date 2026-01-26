@@ -1,0 +1,1 @@
+["cranelift/codegen/src/isa/x64/inst.isle", "cranelift/codegen/src/isa/x64/lower.isle", "cranelift/filetests/filetests/isa/x64/uextend-elision.clif"]

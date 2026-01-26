@@ -1,0 +1,1 @@
+[".github/dependabot.yml", "risc0/cargo-risczero/tests/test_crate/Cargo.lock", "risc0/circuit/rv32im/src/execute/executor.rs", "risc0/circuit/rv32im/src/execute/r0vm.rs", "risc0/circuit/rv32im/src/execute/rv32im.rs", "risc0/circuit/rv32im/src/prove/witgen/preflight.rs", "tools/crates-validator/Cargo.lock"]

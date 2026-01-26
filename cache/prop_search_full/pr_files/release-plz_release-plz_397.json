@@ -1,0 +1,1 @@
+["crates/release_plz/src/args/release.rs", "crates/release_plz/src/args/update.rs", "crates/release_plz_core/src/github_client.rs", "crates/release_plz_core/src/release.rs", "crates/release_plz_core/src/repo_url.rs"]

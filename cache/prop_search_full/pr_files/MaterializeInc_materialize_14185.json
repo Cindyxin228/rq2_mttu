@@ -1,0 +1,1 @@
+["misc/kind/cluster.yaml", "misc/python/materialize/cloudtest/application.py", "misc/python/materialize/cloudtest/k8s/environmentd.py", "test/cloudtest/test_antiaffinity.py", "test/cloudtest/test_smoke.py"]

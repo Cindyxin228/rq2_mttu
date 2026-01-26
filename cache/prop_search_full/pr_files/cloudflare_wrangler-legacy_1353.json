@@ -1,0 +1,1 @@
+["src/commands/kv/bulk/delete.rs", "src/commands/kv/key/delete.rs", "src/commands/kv/namespace/delete.rs", "src/commands/secret.rs", "src/commands/subdomain.rs", "src/terminal/interactive.rs"]

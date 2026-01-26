@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/c_api/dict.rs", "src/c_api/list.rs", "src/c_api/mod.rs", "src/haystack/encoding/zinc/decode/id.rs", "src/haystack/encoding/zinc/decode/lexer.rs", "src/haystack/encoding/zinc/encode.rs", "src/haystack/filter/nodes.rs", "src/haystack/filter/parser.rs", "src/haystack/filter/path.rs"]

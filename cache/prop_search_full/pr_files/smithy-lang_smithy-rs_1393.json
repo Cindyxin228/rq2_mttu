@@ -1,0 +1,1 @@
+["tools/ci-build/scripts/check-rust-runtimes-and-tools", "tools/sdk-sync/src/main.rs", "tools/smithy-rs-sync/Cargo.lock", "tools/smithy-rs-sync/Cargo.toml", "tools/smithy-rs-sync/src/fs.rs", "tools/smithy-rs-sync/src/main.rs"]

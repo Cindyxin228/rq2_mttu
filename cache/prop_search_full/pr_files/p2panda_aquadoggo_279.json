@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "aquadoggo/Cargo.toml", "aquadoggo/src/domain.rs", "aquadoggo/src/graphql/client/mutation.rs", "aquadoggo/src/graphql/client/static_query.rs", "aquadoggo/src/lib.rs", "aquadoggo/src/replication/service.rs", "aquadoggo/src/validation.rs"]

@@ -1,0 +1,1 @@
+["schemars/tests/integration/schema_with.rs", "schemars/tests/integration/snapshots/schemars/tests/integration/schema_with.rs~schema_with.json", "schemars_derive/src/ast/from_serde.rs", "schemars_derive/src/ast/mod.rs", "schemars_derive/src/bound.rs", "schemars_derive/src/lib.rs", "schemars_derive/src/name.rs", "schemars_derive/src/schema_exprs.rs"]

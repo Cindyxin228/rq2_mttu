@@ -1,0 +1,1 @@
+["crates/ide/src/completion.rs", "crates/ide/src/completion/completion_context.rs", "crates/ide/src/completion/patterns.rs", "crates/ide/src/completion/test_utils.rs"]

@@ -1,0 +1,1 @@
+["examples/api/yarn.lock", "tooling/bundler/Cargo.toml", "tooling/cli/Cargo.lock", "tooling/cli/Cargo.toml", "tooling/cli/node/index.d.ts", "tooling/cli/src/dev.rs", "tooling/cli/src/lib.rs", "tooling/cli/src/main.rs", "tooling/cli/src/plugin.rs", "tooling/cli/src/plugin/init.rs", "tooling/cli/src/signer.rs"]

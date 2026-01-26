@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "ci.sh", "config.toml", "e2e_tests/Cargo.toml", "e2e_tests/provider_cfg/all/Dockerfile", "e2e_tests/provider_cfg/all/config.toml", "src/authenticators/jwt_svid_authenticator/mod.rs", "src/authenticators/mod.rs", "src/utils/service_builder.rs"]

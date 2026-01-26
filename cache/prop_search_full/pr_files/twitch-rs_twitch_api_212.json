@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/eventsub/channel/goal/begin.rs", "src/eventsub/channel/goal/end.rs", "src/eventsub/channel/goal/mod.rs", "src/eventsub/channel/goal/progress.rs", "src/eventsub/channel/mod.rs", "src/eventsub/mod.rs", "src/helix/goals/get_creator_goals.rs", "src/helix/goals/mod.rs", "src/helix/mod.rs", "src/types.rs", "twitch_oauth2"]

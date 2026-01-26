@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/test_utils/kv_runtime.rs", "chain/epoch-manager/src/adapter.rs", "integration-tests/src/tests/client/features/stateless_validation.rs"]

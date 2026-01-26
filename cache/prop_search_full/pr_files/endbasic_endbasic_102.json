@@ -1,0 +1,1 @@
+["NEWS.md", "cli/examples/tour.bas", "cli/tests/repl/console.bas", "cli/tests/repl/help.out", "std/src/console/cmds.rs", "std/src/console/format.rs", "std/src/console/mod.rs", "std/src/console/readline.rs", "std/src/editor.rs", "std/src/gfx.rs", "std/src/sdl-draw.bmp.gz", "std/src/sdl-sync.bmp.gz", "std/src/sdl.rs", "std/src/terminal.rs", "std/src/testutils.rs", "web/src/lib.rs"]

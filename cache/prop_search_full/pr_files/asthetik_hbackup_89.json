@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "Cargo.toml", "README.md", "README.zh-CN.md", "scripts/build-all.sh", "scripts/test-all.sh", "src/application.rs", "src/commands.rs", "src/common.rs", "src/file_util.rs", "src/lib.rs", "src/main.rs", "src/path_util.rs", "src/sysexits.rs"]

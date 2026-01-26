@@ -1,0 +1,1 @@
+["Cargo.lock", "Justfile", "polite-cli/Cargo.toml", "polite-cli/src/main.rs", "polite-cli/tests/integration.rs", "polite/tests/roundtrip.rs", "polite/tests/verify.rs"]

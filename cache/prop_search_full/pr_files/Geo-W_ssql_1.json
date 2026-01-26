@@ -1,0 +1,1 @@
+["src/lib.rs", "src/macros/filter_cmp.rs", "src/macros/mod.rs", "src/structs/filter.rs", "src/structs/querybuilder.rs", "tests/debugger.rs", "tests/standard_test.rs"]

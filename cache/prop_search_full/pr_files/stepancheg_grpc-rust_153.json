@@ -1,0 +1,1 @@
+["grpc-compiler/test-protoc-plugin/Cargo.toml", "grpc-examples/greeter/Cargo.toml", "grpc-examples/route_guide/Cargo.toml", "grpc/Cargo.toml", "interop/Cargo.toml", "long-tests/with-rust/Cargo.toml"]

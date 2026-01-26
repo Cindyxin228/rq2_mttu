@@ -1,0 +1,1 @@
+["python/vegafusion/tests/test_pretransform.py", "python/vegafusion/vegafusion/connection/duckdb.py", "python/vegafusion/vegafusion/runtime.py", "python/vegafusion/vegafusion/transformer.py", "vegafusion-core/src/spec/visitors.rs", "vegafusion-runtime/src/data/tasks.rs"]

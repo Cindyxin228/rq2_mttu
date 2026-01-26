@@ -1,0 +1,1 @@
+["crates/dprint/src/environment/real_environment.rs", "crates/dprint/src/environment/test_environment.rs", "crates/dprint/src/utils/glob/glob.rs", "crates/dprint/src/utils/glob/glob_matcher.rs", "crates/dprint/src/utils/glob/glob_utils.rs", "crates/dprint/src/utils/glob/mod.rs", "crates/dprint/src/utils/mod.rs"]

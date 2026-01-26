@@ -1,0 +1,1 @@
+["auditor/tests/api/add.rs", "auditor/tests/api/advanced_queries.rs", "auditor/tests/api/client.rs", "auditor/tests/api/get.rs", "auditor/tests/api/get_one_record.rs", "auditor/tests/api/get_since.rs", "auditor/tests/api/update.rs", "collectors/slurm/src/configuration.rs", "media/website/content/_index.md"]

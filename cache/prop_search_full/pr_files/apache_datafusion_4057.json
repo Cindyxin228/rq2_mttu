@@ -1,0 +1,1 @@
+["datafusion-cli/Cargo.lock", "datafusion/core/Cargo.toml", "datafusion/core/src/physical_plan/mod.rs", "datafusion/core/src/physical_plan/planner.rs", "datafusion/physical-expr/Cargo.toml", "datafusion/physical-expr/src/expressions/in_list.rs", "datafusion/physical-expr/src/hash_utils.rs", "datafusion/physical-expr/src/lib.rs"]

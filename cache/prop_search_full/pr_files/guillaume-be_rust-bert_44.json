@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/translation.rs", "src/bart/bart.rs", "src/bart/decoder.rs", "src/bart/embeddings.rs", "src/bart/encoder.rs", "src/bart/mod.rs", "src/lib.rs", "src/marian/marian.rs", "src/marian/mod.rs", "src/pipelines/generation.rs", "src/pipelines/mod.rs", "src/pipelines/translation.rs", "tests/marian.rs", "utils/download-dependencies_marian_mt_en_fr.py"]

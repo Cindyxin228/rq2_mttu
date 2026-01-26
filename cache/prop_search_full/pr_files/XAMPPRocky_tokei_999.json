@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "README.md", "languages.json", "src/language/language_type.rs", "src/language/language_type.tera.rs", "tests/data/NuGet.Config", "tests/data/bazel.bzl", "tests/data/edgeql.edgeql", "tests/data/esdl.esdl"]

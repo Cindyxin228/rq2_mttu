@@ -1,0 +1,1 @@
+["core/src/consensus.rs", "core/src/global.rs", "core/src/pow.rs", "core/src/pow/cuckarooz.rs", "core/tests/consensus_floonet.rs", "core/tests/consensus_mainnet.rs"]

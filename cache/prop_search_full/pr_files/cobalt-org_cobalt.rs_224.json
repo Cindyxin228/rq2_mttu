@@ -1,0 +1,1 @@
+["ci/install.sh", "src/cobalt.rs", "src/config.rs", "src/document.rs", "src/main.rs", "src/new.rs", "src/syntax_highlight.rs", "tests/mod.rs"]

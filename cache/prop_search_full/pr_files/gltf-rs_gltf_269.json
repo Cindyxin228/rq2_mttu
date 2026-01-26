@@ -1,0 +1,1 @@
+["examples/export/main.rs", "gltf-json/src/accessor.rs", "gltf-json/tests/non_sparse_accessor_without_buffer_view.gltf", "gltf-json/tests/test_validation.rs", "src/accessor/mod.rs", "src/accessor/util.rs", "tests/box_sparse.bin", "tests/box_sparse.glb", "tests/box_sparse.gltf", "tests/import_sanity_check.rs", "tests/roundtrip_binary_gltf.rs"]

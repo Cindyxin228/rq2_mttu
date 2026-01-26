@@ -1,0 +1,1 @@
+["stac-cli/CHANGELOG.md", "stac-cli/src/args.rs", "stac-cli/src/subcommand/serve.rs", "stac-server/CHANGELOG.md", "stac-server/src/backend/mod.rs", "stac/CHANGELOG.md", "stac/src/collection.rs", "stac/src/item.rs", "stac/src/lib.rs"]

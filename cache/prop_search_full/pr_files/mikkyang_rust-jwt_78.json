@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/custom_claims.rs", "examples/hs256.rs", "src/algorithm/mod.rs", "src/algorithm/rust_crypto.rs", "src/error.rs", "src/lib.rs", "src/token/signed.rs", "src/token/verified.rs"]

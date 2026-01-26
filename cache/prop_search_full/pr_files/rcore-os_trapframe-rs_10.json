@@ -1,0 +1,1 @@
+["examples/riscv/src/main.rs", "examples/uefi/src/main.rs", "src/arch/aarch64/fncall.rs", "src/arch/aarch64/trap.rs", "src/arch/mipsel/trap.rs", "src/arch/riscv/trap.rs", "src/arch/x86_64/fncall.rs", "src/arch/x86_64/gdt.rs", "src/arch/x86_64/idt.rs", "src/arch/x86_64/syscall.rs", "src/arch/x86_64/trap.rs", "src/lib.rs"]

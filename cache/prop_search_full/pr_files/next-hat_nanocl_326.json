@@ -1,0 +1,1 @@
+["bin/nanocl/src/main.rs", "bin/nanocld/specs/swagger.yaml", "bin/nanocld/src/services/system.rs", "crates/nanocl_stubs/src/cargo.rs", "crates/nanocl_stubs/src/cargo_config.rs", "crates/nanocl_utils/src/ntex/middlewares/versioning.rs", "examples/deploy_example.yml"]

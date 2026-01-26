@@ -1,0 +1,1 @@
+[".ci/general-jobs", ".ci/release.yml", ".ci/test.yml", ".ci/windows-release.yml", ".github/workflows/cd.yaml", ".github/workflows/ci.yaml", "azure-pipelines.yml"]

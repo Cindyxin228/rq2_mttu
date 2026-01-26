@@ -1,0 +1,1 @@
+["docs/src/checks/bans/cfg.md", "src/bans.rs", "src/bans/cfg.rs", "src/bans/diags.rs", "src/bans/snapshots/cargo_deny__bans__cfg__test__deserializes_ban_cfg.snap", "tests/bans.rs", "tests/bans_build.rs", "tests/cfg/bans.toml"]

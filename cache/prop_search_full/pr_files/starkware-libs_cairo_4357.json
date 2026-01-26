@@ -1,0 +1,1 @@
+["corelib/src/fmt.cairo", "corelib/src/test/fmt_test.cairo", "crates/cairo-lang-plugins/src/plugins/derive/debug.rs", "crates/cairo-lang-plugins/src/plugins/derive/mod.rs", "crates/cairo-lang-plugins/src/test_data/derive", "crates/cairo-lang-semantic/src/expr/test_data/inline_macros", "crates/cairo-lang-semantic/src/inline_macros/write.rs"]

@@ -1,0 +1,1 @@
+["migrations/2021-08-16-004209_fix_remove_bots_from_aggregates/down.sql", "migrations/2021-08-16-004209_fix_remove_bots_from_aggregates/up.sql"]

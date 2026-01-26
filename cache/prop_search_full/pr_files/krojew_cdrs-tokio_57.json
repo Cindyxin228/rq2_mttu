@@ -1,0 +1,1 @@
+["cassandra-protocol/src/frame/frame_auth_success.rs", "cassandra-protocol/src/frame/frame_authenticate.rs", "cassandra-protocol/src/frame/frame_response.rs", "cassandra-protocol/src/frame/frame_supported.rs"]

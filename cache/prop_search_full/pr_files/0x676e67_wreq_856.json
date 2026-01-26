@@ -1,0 +1,1 @@
+["src/client/http/mod.rs", "src/core/client/pool.rs", "src/core/client/service/meta.rs", "src/core/client/service/mod.rs", "src/hash/memo.rs", "src/hash/mod.rs", "src/lib.rs", "src/tls/conn/cache.rs", "src/util.rs"]

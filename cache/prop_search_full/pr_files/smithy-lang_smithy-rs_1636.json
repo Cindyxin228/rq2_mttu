@@ -1,0 +1,1 @@
+["codegen/build.gradle.kts", "tools/ci-build/scripts/generate-codegen-diff"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "cli/Cargo.toml", "codegen/Cargo.toml", "examples/Cargo.toml", "macro/Cargo.toml", "metadata/Cargo.toml", "subxt/Cargo.toml", "testing/integration-tests/Cargo.toml", "testing/test-runtime/Cargo.toml", "testing/ui-tests/Cargo.toml"]

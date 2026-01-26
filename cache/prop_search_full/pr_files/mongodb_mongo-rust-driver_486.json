@@ -1,0 +1,1 @@
+[".evergreen/check-clippy.sh", ".evergreen/compile-only-tokio.sh", ".evergreen/config.yml", ".evergreen/run-tokio-tests.sh", "src/client/options/mod.rs", "src/compression/mod.rs", "src/test/mod.rs"]

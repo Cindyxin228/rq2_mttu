@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/contract/assignments.rs", "src/contract/metadata.rs", "src/contract/mod.rs", "src/contract/seal.rs", "src/contract/value.rs", "src/lib.rs", "src/schema/state.rs", "src/validation.rs", "src/vm/embedded.rs"]

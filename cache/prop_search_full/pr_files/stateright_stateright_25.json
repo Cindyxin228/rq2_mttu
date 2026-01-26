@@ -1,0 +1,1 @@
+["examples/2pc.rs", "examples/increment.rs", "examples/increment_lock.rs", "examples/linearizable-register.rs", "examples/paxos.rs", "examples/single-copy-register.rs", "src/checker.rs", "src/lib.rs", "src/report.rs"]

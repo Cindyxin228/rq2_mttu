@@ -1,0 +1,1 @@
+["fluent-fallback/Cargo.toml", "fluent-fallback/examples/simple-fallback.rs", "fluent-fallback/src/bundles.rs", "fluent-fallback/src/generator.rs", "fluent-fallback/src/localization.rs", "fluent-fallback/src/types.rs", "fluent-fallback/tests/localization_test.rs", "fluent-resmgr/Cargo.toml", "fluent-resmgr/src/resource_manager.rs"]

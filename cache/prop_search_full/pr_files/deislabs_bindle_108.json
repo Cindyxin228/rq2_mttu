@@ -1,0 +1,1 @@
+["docs/invoice-spec.md", "docs/label-spec.md", "src/invoice/label.rs", "src/invoice/mod.rs", "test/data/simple-invoice.toml"]

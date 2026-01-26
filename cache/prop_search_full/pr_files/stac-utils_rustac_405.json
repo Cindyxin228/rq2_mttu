@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/src/asset.rs", "core/src/extensions/authentication.rs", "core/src/extensions/electro_optical.rs", "core/src/extensions/mod.rs", "core/src/extensions/projection.rs", "core/src/extensions/raster.rs", "core/src/fields.rs", "core/src/gdal.rs"]

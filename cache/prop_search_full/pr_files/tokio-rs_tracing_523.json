@@ -1,0 +1,1 @@
+["netlify.toml", "tracing-core/Cargo.toml", "tracing-core/src/dispatcher.rs", "tracing-core/src/field.rs", "tracing-core/src/lib.rs", "tracing-core/src/metadata.rs", "tracing-futures/Cargo.toml", "tracing-futures/src/lib.rs", "tracing/Cargo.toml", "tracing/src/dispatcher.rs", "tracing/src/lib.rs", "tracing/src/subscriber.rs"]

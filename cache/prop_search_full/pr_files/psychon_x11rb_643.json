@@ -1,0 +1,1 @@
+["examples/simple_window_manager.rs", "generator/src/generator/namespace/mod.rs", "generator/src/generator/namespace/switch.rs", "generator/src/main.rs", "src/cursor/find_cursor.rs", "src/resource_manager/parser.rs", "src/rust_connection/inner.rs", "src/xcb_ffi/raw_ffi/test.rs", "tests/resource_manager.rs"]

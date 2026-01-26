@@ -1,0 +1,1 @@
+["common/Cargo.toml", "protocols/v2/roles-logic-sv2/Cargo.toml", "roles/roles-utils/rpc/Cargo.toml", "utils/bip32-key-derivation/Cargo.toml"]

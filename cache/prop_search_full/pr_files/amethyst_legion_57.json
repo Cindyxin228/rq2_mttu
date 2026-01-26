@@ -1,0 +1,1 @@
+["docs/book/book.toml", "docs/book/src/01_introduction.md", "docs/book/src/02_hello_world.md", "docs/book/src/SUMMARY.md", "examples/hello_world.rs", "examples/serde.rs", "src/borrow.rs", "src/command.rs", "src/de.rs", "src/entity.rs", "src/resource.rs", "src/schedule.rs", "src/system.rs", "src/world.rs", "tests/world_api.rs"]

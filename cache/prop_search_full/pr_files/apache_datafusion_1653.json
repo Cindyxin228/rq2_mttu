@@ -1,0 +1,1 @@
+["datafusion/src/logical_plan/operators.rs", "datafusion/src/physical_plan/coercion_rule/binary_rule.rs", "datafusion/src/physical_plan/expressions/binary.rs", "datafusion/src/sql/planner.rs"]

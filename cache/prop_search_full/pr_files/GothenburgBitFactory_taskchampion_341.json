@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/src/argparse/subcommand.rs", "cli/src/invocation/cmd/gc.rs", "docs/src/taskdb.md", "integration-tests/Cargo.toml", "integration-tests/tests/update-and-delete-sync.rs", "taskchampion/src/replica.rs", "taskchampion/src/task/task.rs"]

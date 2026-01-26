@@ -1,0 +1,1 @@
+["crates/cairo-lang-parser/src/db.rs", "crates/cairo-lang-parser/src/parser.rs", "crates/cairo-lang-parser/src/parser_test_data/diagnostics/unterminated_string", "crates/cairo-lang-parser/src/parser_test_data/partial_trees/literal", "crates/cairo-lang-parser/src/utils.rs", "crates/cairo-lang-parser/src/validation.rs"]

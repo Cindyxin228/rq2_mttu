@@ -1,0 +1,1 @@
+["drafts/apis.md", "src/commitments/base.rs", "src/commitments/mod.rs", "src/commitments/multimsg.rs", "src/commitments/script.rs", "src/commitments/secp256k1.rs", "src/commitments/tx.rs", "src/commitments/tx_commitment.rs", "src/commitments/txout.rs", "src/lib.rs", "src/vout_locator/mod.rs", "src/vout_locator/traits.rs"]

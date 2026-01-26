@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "build.rs", "src/native/etw_types.rs", "src/native/evntrace.rs", "src/native/mod.rs", "src/native/pla.rs", "src/native/sddl.rs", "src/native/tdh.rs", "src/native/tdh_types.rs", "src/native/version_helper.rs", "src/parser.rs", "src/provider.rs", "src/schema.rs", "src/trace.rs"]

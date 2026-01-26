@@ -1,0 +1,1 @@
+["crates/decals/src/decal.wgsl", "crates/gpu/src/gpu.rs", "crates/renderer/src/renderer_common.wgsl", "crates/renderer/src/shaders/standard.wgsl", "crates/renderer/src/transparent_renderer.rs", "crates/renderer/src/tree_renderer.rs", "crates/settings/src/lib.rs", "crates/settings/src/render.rs", "crates/terrain/src/terrain.wgsl", "guest/rust/Cargo.lock", "recipes.json"]

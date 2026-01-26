@@ -1,0 +1,1 @@
+["boards/atsame54_xpro/examples/mcan.rs", "boards/metro_m4/examples/async_eic.rs", "hal/src/peripherals/eic.rs", "hal/src/peripherals/eic/d11/mod.rs", "hal/src/peripherals/eic/d11/pin.rs", "hal/src/peripherals/eic/d5x/pin.rs"]

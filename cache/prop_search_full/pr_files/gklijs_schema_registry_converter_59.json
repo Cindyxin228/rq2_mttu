@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "RELEASE_NOTES.md", "src/async_impl/avro.rs", "src/async_impl/easy_proto_decoder.rs", "src/async_impl/json.rs", "src/async_impl/proto_decoder.rs", "src/async_impl/proto_raw.rs", "src/blocking/avro.rs", "src/blocking/json.rs", "src/blocking/proto_decoder.rs", "src/blocking/proto_raw.rs"]

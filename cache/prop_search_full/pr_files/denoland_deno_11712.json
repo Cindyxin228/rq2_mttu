@@ -1,0 +1,1 @@
+["cli/flags.rs", "cli/fs_util.rs", "cli/main.rs", "cli/tests/integration/test_tests.rs", "cli/tests/testdata/test/collect.out", "cli/tests/testdata/test/collect/ignore/test.ts", "cli/tests/testdata/test/collect/test.ts"]

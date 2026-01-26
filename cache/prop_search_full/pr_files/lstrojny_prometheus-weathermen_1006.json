@@ -1,0 +1,1 @@
+["README.md", "src/prometheus.rs", "src/providers/deutscher_wetterdienst.rs", "src/providers/meteoblue.rs", "src/providers/mod.rs", "src/providers/open_meteo.rs", "src/providers/open_weather.rs", "src/providers/tomorrow.rs", "weathermen.toml.dist"]

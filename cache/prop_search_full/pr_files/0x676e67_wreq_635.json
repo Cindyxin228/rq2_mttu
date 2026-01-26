@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "examples/headers_order.rs", "examples/set_cookie_provider.rs", "examples/set_cookies.rs", "src/client/client.rs", "src/client/response.rs", "src/cookie.rs", "src/error.rs", "src/lib.rs", "tests/cookie.rs"]

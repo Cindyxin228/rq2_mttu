@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "README.md", "src/client/mod.rs", "src/lib.rs", "src/stream.rs", "src/sync/client/mod.rs", "src/sync/iterator.rs", "src/sync/mod.rs", "src/sync/txn/mod.rs", "src/txn/mod.rs"]

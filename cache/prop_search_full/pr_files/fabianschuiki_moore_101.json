@@ -1,0 +1,1 @@
+["src/svlog/syntax/ast.rs", "src/svlog/syntax/cat.rs", "src/svlog/syntax/lexer.rs", "src/svlog/syntax/parser.rs", "src/svlog/syntax/preproc.rs", "tests/svlog/attributes.sv", "tests/svlog/case_inside.sv", "tests/svlog/cast_size.sv", "tests/svlog/stmt_label.sv"]

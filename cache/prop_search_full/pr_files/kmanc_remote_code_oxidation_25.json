@@ -1,0 +1,1 @@
+[".custom_shields/xor_shellcode.json", ".github/workflows/linux.yml", ".github/workflows/shield_io_updater.yml", ".github/workflows/windows.yml", "Cargo.lock", "Cargo.toml", "README.md", "rco_config/Cargo.toml", "rco_config/src/lib.rs", "rco_utils/Cargo.toml", "rco_utils/src/lib.rs", "xor_shellcode/Cargo.toml", "xor_shellcode/README.md", "xor_shellcode/src/main.rs"]

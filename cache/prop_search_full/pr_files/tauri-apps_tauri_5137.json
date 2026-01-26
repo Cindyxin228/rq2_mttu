@@ -1,0 +1,1 @@
+[".github/workflows/test-core.yml", "core/tauri/scripts/core.js", "core/tauri/scripts/init.js", "core/tauri/scripts/window_dialogs.js", "core/tauri/scripts/window_print.js", "core/tauri/src/manager.rs", "examples/api/src-tauri/Cargo.lock"]

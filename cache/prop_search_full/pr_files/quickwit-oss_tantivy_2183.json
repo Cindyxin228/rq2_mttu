@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", "src/aggregation/agg_limits.rs", "src/aggregation/agg_req_with_accessor.rs", "src/aggregation/bucket/histogram/date_histogram.rs", "src/aggregation/bucket/histogram/histogram.rs", "src/aggregation/intermediate_agg_result.rs"]

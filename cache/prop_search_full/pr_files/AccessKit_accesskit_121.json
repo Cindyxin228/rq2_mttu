@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "platforms/windows/examples/winit.rs", "platforms/winit/Cargo.toml", "platforms/winit/README.md", "platforms/winit/examples/simple.rs", "platforms/winit/src/lib.rs", "platforms/winit/src/platform_impl/mod.rs", "platforms/winit/src/platform_impl/null.rs", "platforms/winit/src/platform_impl/windows.rs", "release-please-config.json"]

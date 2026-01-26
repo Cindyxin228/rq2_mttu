@@ -1,0 +1,1 @@
+["crates/matrix-sdk-crypto/Cargo.toml", "crates/matrix-sdk-crypto/src/store/mod.rs", "crates/matrix-sdk-crypto/src/store/pickle_key.rs"]

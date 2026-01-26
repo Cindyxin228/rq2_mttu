@@ -1,0 +1,1 @@
+["src/sys/console.rs", "src/sys/serial.rs", "src/sys/vga.rs", "src/usr/clear.rs", "src/usr/editor.rs", "src/usr/shell.rs", "src/usr/vga.rs"]

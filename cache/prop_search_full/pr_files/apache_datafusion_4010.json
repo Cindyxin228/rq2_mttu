@@ -1,0 +1,1 @@
+["benchmarks/entrypoint.sh", "benchmarks/tpch-gen.sh", "benchmarks/tpchgen.dockerfile"]

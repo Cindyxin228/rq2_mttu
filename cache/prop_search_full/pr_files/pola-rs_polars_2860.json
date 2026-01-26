@@ -1,0 +1,1 @@
+["polars/polars-core/src/vector_hasher.rs", "polars/polars-lazy/src/frame/mod.rs", "polars/polars-lazy/src/logical_plan/optimizer/predicate_pushdown/mod.rs", "polars/polars-lazy/src/logical_plan/optimizer/predicate_pushdown/utils.rs", "polars/tests/it/lazy/mod.rs", "polars/tests/it/lazy/predicate_queries.rs"]

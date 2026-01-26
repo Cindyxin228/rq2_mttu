@@ -1,0 +1,1 @@
+[".dockerignore", ".github/workflows/docker-build.yaml", ".github/workflows/test-web.yaml", "Cargo.toml", "Dockerfile.flnode", "Dockerfile.signal", "Dockerfile.web", "cli/flnode/Cargo.toml", "cli/flnode/Makefile", "cli/flnode/src/lib.rs", "cli/signal/src/main.rs", "common/Cargo.toml", "common/src/node/config.rs", "wasm/web/Cargo.toml", "wasm/web/Makefile"]

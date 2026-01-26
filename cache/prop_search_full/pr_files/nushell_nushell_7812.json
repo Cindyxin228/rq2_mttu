@@ -1,0 +1,1 @@
+["crates/nu-cli/src/completions/directory_completions.rs", "crates/nu-cli/src/completions/dotnu_completions.rs", "crates/nu-cli/src/completions/file_completions.rs", "crates/nu-protocol/src/engine/engine_state.rs"]

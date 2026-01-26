@@ -1,0 +1,1 @@
+["src/ci/azure-pipelines/auto.yml", "src/ci/docker/dist-i686-linux/Dockerfile", "src/ci/docker/dist-x86_64-linux/Dockerfile", "src/ci/docker/dist-x86_64-linux/build-clang.sh", "src/ci/docker/dist-x86_64-linux/llvm-project-centos.patch", "src/ci/scripts/install-clang.sh"]

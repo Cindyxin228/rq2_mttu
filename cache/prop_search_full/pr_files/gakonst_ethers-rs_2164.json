@@ -1,0 +1,1 @@
+["CHANGELOG.md", "ethers-contract/Cargo.toml", "ethers-contract/ethers-contract-abigen/src/multi.rs", "ethers-contract/src/call.rs", "ethers-contract/src/lib.rs", "ethers-contract/src/multicall/mod.rs", "ethers-contract/src/multicall/multicall_contract.rs", "ethers-contract/tests/it/contract.rs", "ethers-core/src/abi/tokens.rs"]

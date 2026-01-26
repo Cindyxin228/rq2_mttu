@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "schema/src/proto/structs.proto", "src/core/relay.rs", "src/multiparty/watcher.rs", "src/node.rs", "src/node_config.rs", "src/resources/build_number", "vue-explorer/src/components/hash_types/AddressDetail.vue"]

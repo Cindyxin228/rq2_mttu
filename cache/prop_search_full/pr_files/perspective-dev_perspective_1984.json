@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "python/perspective/scripts/test_wheels.sh", "python/perspective/setup.py", "scripts/_requires_python.js", "scripts/build_python.js", "scripts/publish_python.js", "scripts/repl.js", "scripts/script_utils.js", "scripts/test_python.js"]

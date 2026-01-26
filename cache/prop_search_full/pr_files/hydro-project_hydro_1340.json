@@ -1,0 +1,1 @@
+["hydro_deploy/core/src/azure.rs", "hydro_deploy/core/src/gcp.rs", "hydro_deploy/core/src/ssh.rs", "hydro_deploy/hydro_cli/src/lib.rs"]

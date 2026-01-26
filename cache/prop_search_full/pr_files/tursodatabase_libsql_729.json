@@ -1,0 +1,1 @@
+["libsql-ffi/bundled/src/sqlite3.c", "libsql-sqlite3/src/sqliteInt.h", "xtask/src/main.rs"]

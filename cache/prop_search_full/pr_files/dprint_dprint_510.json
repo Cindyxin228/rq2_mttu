@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/dprint/Cargo.toml", "crates/dprint/src/arg_parser.rs", "crates/dprint/src/commands/editor/mod.rs", "crates/dprint/src/commands/formatting.rs", "crates/dprint/src/commands/general.rs", "crates/dprint/src/incremental/mod.rs", "crates/dprint/src/paths.rs", "crates/dprint/src/patterns.rs", "crates/dprint/src/run_cli.rs", "crates/dprint/src/test_helpers.rs"]

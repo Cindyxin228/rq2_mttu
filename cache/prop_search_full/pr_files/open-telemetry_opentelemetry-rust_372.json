@@ -1,0 +1,1 @@
+["README.md", "opentelemetry-contrib/src/trace/exporter/datadog/mod.rs", "opentelemetry-jaeger/src/lib.rs", "opentelemetry-otlp/src/lib.rs", "opentelemetry-zipkin/src/lib.rs", "opentelemetry/src/exporter/trace/stdout.rs"]

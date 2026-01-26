@@ -1,0 +1,1 @@
+["Cargo.toml", "codecov.yml", "js/index.js", "package.json", "src/bin/frontend/argparse.rs", "src/bin/frontend/main.rs", "src/common.rs", "src/common/mod.rs", "src/index_analyzer.rs", "src/index_versions/v2/search.rs", "src/index_versions/v3/search/mod.rs", "src/index_versions/v3/writer.rs", "src/lib.rs", "src/main.rs", "src/searcher/index_analyzer.rs", "src/searcher/mod.rs"]

@@ -1,0 +1,1 @@
+["sentry/src/transports/curl.rs", "sentry/src/transports/reqwest.rs", "sentry/src/transports/ureq.rs", "sentry/tests/test_client.rs"]

@@ -1,0 +1,1 @@
+["core/src/core_tests/activity_tasks.rs", "core/src/worker/activities.rs", "core/src/worker/activities/activity_heartbeat_manager.rs", "core/src/worker/activities/local_activities.rs", "sdk-core-protos/protos/local/temporal/sdk/core/activity_task/activity_task.proto", "sdk-core-protos/src/lib.rs"]

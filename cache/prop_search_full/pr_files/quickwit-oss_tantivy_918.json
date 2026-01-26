@@ -1,0 +1,1 @@
+["src/collector/docset_collector.rs", "src/collector/mod.rs", "src/lib.rs", "src/query/boolean_query/boolean_query.rs", "src/query/boolean_query/mod.rs", "src/query/mod.rs", "src/query/query.rs", "src/query/query_parser/query_parser.rs", "src/schema/term.rs"]

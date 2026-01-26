@@ -1,0 +1,1 @@
+["node/src/chain/acceptor.rs", "rusk-recovery/config/mainnet.toml", "rusk-recovery/config/mainnet_remote.toml", "rusk-recovery/config/testnet.toml", "rusk/src/assets/dusk.cpk", "rusk/src/lib/node/vm/query.rs", "rusk/tests/services/mainnet.rs", "rusk/tests/services/mod.rs"]

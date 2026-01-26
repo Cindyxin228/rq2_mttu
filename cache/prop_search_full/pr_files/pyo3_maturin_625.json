@@ -1,0 +1,1 @@
+["Cargo.lock", "src/auditwheel/audit.rs", "src/auditwheel/manylinux-policy.json", "src/auditwheel/musllinux-policy.json", "src/auditwheel/policy.rs", "test-crates/lib_with_disallowed_lib/Cargo.lock", "test-crates/lib_with_disallowed_lib/Cargo.toml", "test-crates/lib_with_disallowed_lib/src/lib.rs", "tests/manylinux_incompliant.sh"]

@@ -1,0 +1,1 @@
+["core/embed/rust/src/ui/model_tt/layout.rs", "core/mocks/generated/trezorui2.pyi", "core/src/apps/common/passphrase.py", "core/src/apps/management/apply_settings.py", "core/src/trezor/ui/layouts/tt_v2/__init__.py", "tests/device_tests/test_session_id_and_passphrase.py", "tests/ui_tests/fixtures.json"]

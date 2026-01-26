@@ -1,0 +1,1 @@
+["CHANGELOG.md", "naga/src/back/glsl/features.rs", "naga/src/back/glsl/mod.rs", "naga/src/back/hlsl/conv.rs", "naga/src/back/msl/mod.rs", "naga/src/back/spv/writer.rs", "naga/src/back/wgsl/writer.rs", "naga/src/front/glsl/variables.rs", "naga/src/front/spv/convert.rs", "naga/src/lib.rs", "naga/src/valid/interface.rs"]

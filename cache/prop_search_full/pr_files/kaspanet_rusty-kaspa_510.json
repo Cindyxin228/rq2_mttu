@@ -1,0 +1,1 @@
+["components/addressmanager/src/stores/address_store.rs", "crypto/hashes/src/hashers.rs", "crypto/muhash/Cargo.toml", "mining/src/block_template/model/tx.rs", "wallet/core/src/storage/local/transaction/fsio.rs", "wallet/core/src/tx/generator/generator.rs", "wallet/core/src/utxo/context.rs", "wallet/core/src/utxo/processor.rs", "wasm/build/docs/typedoc.json"]

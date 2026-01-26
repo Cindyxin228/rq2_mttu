@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "docker-compose.yaml", "src/async_impl/proto_decoder.rs", "src/avro_common.rs", "src/blocking/avro.rs", "src/blocking/json.rs", "src/blocking/proto_decoder.rs", "src/blocking/proto_raw.rs", "src/lib.rs", "src/proto_common_types.rs", "src/proto_resolver.rs", "tests/blocking/mod.rs", "tests/blocking/proto_consumer.rs", "tests/blocking/proto_tests.rs"]

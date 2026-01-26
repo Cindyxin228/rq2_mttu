@@ -1,0 +1,1 @@
+["client/tinychain/collection/tensor.py", "client/tinychain/shape.py", "host/math/src/einsum.rs", "host/src/route/collection/tensor.rs", "host/tensor/src/dense/access.rs", "host/tensor/src/dense/mod.rs", "host/tensor/src/lib.rs", "host/tensor/src/sparse/access.rs", "host/tensor/src/sparse/mod.rs", "host/tensor/src/transform.rs", "tests/tctest/client/test_operators.py"]

@@ -1,0 +1,1 @@
+["lib/src/config/key.rs", "lib/src/invidious.rs", "lib/src/songtag/mod.rs", "lib/src/utils/mod.rs", "playback/src/playlist.rs", "tui/src/ui/components/config_editor/key_combo.rs", "tui/src/ui/components/config_editor/view.rs", "tui/src/ui/components/podcast.rs", "tui/src/ui/model/update.rs", "tui/src/ui/model/youtube_options.rs"]

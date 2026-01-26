@@ -1,0 +1,1 @@
+["bins/revm-test/src/bin/snailtracer.rs", "crates/interpreter/src/gas.rs", "crates/interpreter/src/interpreter.rs", "crates/interpreter/src/interpreter/bytecode.rs", "crates/interpreter/src/interpreter/contract.rs", "crates/revm/src/evm_impl.rs"]

@@ -1,0 +1,1 @@
+["README.md", "bigtable_rs/Cargo.toml", "bigtable_rs/src/google/google.api.rs", "bigtable_rs/src/google/google.bigtable.v2.rs", "bigtable_rs/src/google/google.cloud.conformance.bigtable.v2.rs", "bigtable_rs/src/google/google.rpc.rs", "examples/src/simple_write.rs"]

@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "benches/bigints_array.json", "benches/main.rs", "src/decode.rs", "src/fleece.rs", "src/lib.rs", "src/number_decoder.rs", "src/parse.rs", "src/string_decoder.rs", "src/value.rs", "tests/main.rs"]

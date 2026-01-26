@@ -1,0 +1,1 @@
+["contracts/feature-tests/multi-contract-config/multicontract.toml", "elrond-wasm-debug/src/meta/mod.rs", "elrond-wasm-debug/src/meta/multi_contract.rs", "elrond-wasm-debug/tests/multi_contract_serialize.rs", "elrond-wasm-derive/src/parse/attributes/label_attr.rs"]

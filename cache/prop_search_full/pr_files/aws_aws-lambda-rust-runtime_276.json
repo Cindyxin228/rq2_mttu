@@ -1,0 +1,1 @@
+["Cargo.lock", "lambda-attributes/Cargo.toml", "lambda-http/Cargo.toml", "lambda/Cargo.toml", "lambda/src/client.rs", "lambda/src/simulated.rs"]

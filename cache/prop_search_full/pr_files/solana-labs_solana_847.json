@@ -1,0 +1,1 @@
+["ci/localnet-sanity.sh", "multinode-demo/common.sh", "multinode-demo/setup.sh", "multinode-demo/validator-x.sh", "multinode-demo/validator.sh"]

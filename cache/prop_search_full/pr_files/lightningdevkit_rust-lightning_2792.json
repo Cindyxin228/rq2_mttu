@@ -1,0 +1,1 @@
+["ci/check-cfg-flags.py", "ci/ci-tests.sh", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/mod.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "wgpu-core/Cargo.toml", "wgpu-core/src/device/mod.rs", "wgpu-core/src/present.rs", "wgpu-hal/Cargo.toml", "wgpu-hal/src/auxil/mod.rs", "wgpu-hal/src/dx12/adapter.rs", "wgpu-hal/src/gles/egl.rs", "wgpu-hal/src/metal/device.rs", "wgpu-hal/src/vulkan/adapter.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/bench.rs", "examples/recursive-snark/constraints.rs", "examples/recursive-snark/groth16.rs", "examples/snark-scalability/constraints.rs", "examples/snark-scalability/groth16.rs", "src/constraints.rs", "src/data_structures.rs", "src/generator.rs", "src/lib.rs", "src/prover.rs", "src/r1cs_to_qap.rs", "src/test.rs", "src/verifier.rs"]

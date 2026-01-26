@@ -1,0 +1,1 @@
+["Cargo.lock", "helix-cli/Cargo.toml", "helix-container/src/queries.rs", "helixdb/Cargo.toml", "helixdb/src/helix_engine/graph_core/config.rs", "helixdb/src/helix_engine/graph_core/ops/util/props.rs", "helixdb/src/helix_engine/graph_core/traversal_iter.rs", "helixdb/src/helixc/analyzer/analyzer.rs", "helixdb/src/protocol/value.rs"]

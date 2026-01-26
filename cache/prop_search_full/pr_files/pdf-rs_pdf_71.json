@@ -1,0 +1,1 @@
+["files/password_protected/passwords_aes_128.pdf", "files/password_protected/passwords_aes_256.pdf", "files/password_protected/passwords_aes_256_hardened.pdf", "files/password_protected/passwords_rc4_rev2.pdf", "files/password_protected/passwords_rc4_rev3.pdf", "pdf/src/crypt.rs", "pdf/src/error.rs", "pdf/src/file.rs", "pdf/tests/integration.rs"]

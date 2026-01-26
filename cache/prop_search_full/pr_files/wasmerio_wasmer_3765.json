@@ -1,0 +1,1 @@
+["lib/wasi/src/fs/mod.rs", "lib/wasi/src/syscalls/wasi/path_filestat_get.rs", "tests/wasi-wast/wasi/snapshot1/inode.wasm", "tests/wasi-wast/wasi/snapshot1/inode.wast", "tests/wasi-wast/wasi/tests/inode.rs"]

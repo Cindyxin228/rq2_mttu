@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/Cargo.toml", "fuzzers/frida_libpng/README.md", "fuzzers/frida_libpng/build.rs", "fuzzers/frida_libpng/harness.cc", "fuzzers/frida_libpng/src/fuzzer.rs", "fuzzers/frida_libpng/src/main.rs", "libafl_frida/Cargo.toml", "libafl_frida/build.rs", "libafl_frida/src/helper.rs", "libafl_frida/src/lib.rs"]

@@ -1,0 +1,1 @@
+["bin/nanocld/specs/swagger.yaml", "bin/nanocld/src/services/openapi.rs", "crates/nanocl_stubs/src/state.rs", "docker-compose.test.yaml", "docker-compose.yaml", "installer.nightly.yml", "installer.yml", "scripts/install_dev_image.sh"]

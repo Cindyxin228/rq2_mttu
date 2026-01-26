@@ -1,0 +1,1 @@
+[".vscode/settings.json", "Cargo.lock", "Cargo.toml", "notes/intents.md", "src/data.rs", "src/data/initialize.rs", "src/main.rs", "src/message.rs", "src/page/content.rs", "src/page/dashboard.rs", "src/page/feed.rs", "src/page/publish.rs", "src/ui/initializer.rs"]

@@ -1,0 +1,1 @@
+["src/bin/cargo/commands/fix.rs", "src/bin/cargo/commands/run.rs", "src/bin/cargo/commands/test.rs", "src/cargo/ops/cargo_compile.rs", "tests/testsuite/test.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "controller/src/display.rs", "impls/src/backends/lmdb.rs", "libwallet/src/slate_versions/ser.rs", "libwallet/src/slate_versions/v4_bin.rs", "libwallet/src/types.rs"]

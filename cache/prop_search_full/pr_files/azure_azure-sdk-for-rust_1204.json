@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "eng/scripts/all_tests.sh", "eng/scripts/autorust_tests.sh", "eng/scripts/cargo_readme.sh", "eng/scripts/code_style.sh", "eng/scripts/e2e_tests.sh", "eng/scripts/sdk_tests.sh", "eng/scripts/services_tests.sh"]

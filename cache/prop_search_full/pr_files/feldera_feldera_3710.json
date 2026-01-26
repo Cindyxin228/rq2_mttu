@@ -1,0 +1,1 @@
+[".gitignore", "crates/adapters/src/test/kafka.rs", "crates/adapters/src/transport/kafka/ft/input.rs", "crates/adapters/src/transport/kafka/nonft/input.rs", "crates/adapters/src/transport/kafka/nonft/test.rs", "crates/feldera-types/src/transport/kafka.rs", "docs/connectors/sources/kafka.md", "openapi.json"]

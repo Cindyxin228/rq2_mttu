@@ -1,0 +1,1 @@
+["opentelemetry-sdk/src/trace/mod.rs", "opentelemetry-zipkin/src/propagator/mod.rs"]

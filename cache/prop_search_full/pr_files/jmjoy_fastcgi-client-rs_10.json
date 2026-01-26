@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".rustfmt.toml", "Cargo.toml", "README.md", "benches/async_client_bench.rs", "benches/common.rs", "rustfmt.toml", "src/client.rs", "src/conn.rs", "src/error.rs", "src/id.rs", "src/lib.rs", "src/meta.rs", "src/response.rs", "tests/async_client_post_test.rs", "tests/client_get.rs", "tests/client_multi.rs", "tests/client_post.rs", "tests/common.rs"]

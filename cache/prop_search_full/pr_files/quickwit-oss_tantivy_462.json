@@ -1,0 +1,1 @@
+["src/common/mod.rs", "src/common/vint.rs", "src/indexer/index_writer.rs", "src/postings/postings_writer.rs", "src/postings/recorder.rs", "src/postings/stacker/expull.rs", "src/postings/stacker/memory_arena.rs", "src/postings/stacker/term_hashmap.rs", "src/schema/facet.rs", "src/termdict/term_info_store.rs"]

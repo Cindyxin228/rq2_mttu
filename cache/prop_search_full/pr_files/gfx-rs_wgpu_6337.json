@@ -1,0 +1,1 @@
+["wgpu-core/src/binding_model.rs", "wgpu-core/src/command/compute.rs", "wgpu-core/src/command/render.rs", "wgpu-core/src/device/resource.rs", "wgpu-core/src/present.rs", "wgpu-core/src/resource.rs", "wgpu-core/src/snatch.rs"]

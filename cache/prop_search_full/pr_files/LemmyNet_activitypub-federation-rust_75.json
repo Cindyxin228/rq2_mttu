@@ -1,0 +1,1 @@
+["Cargo.toml", "docs/05_configuration.md", "docs/09_sending_activities.md", "examples/live_federation/activities/create_post.rs", "examples/local_federation/objects/person.rs", "src/activity_queue.rs", "src/activity_sending.rs", "src/actix_web/inbox.rs", "src/config.rs", "src/http_signatures.rs", "src/lib.rs"]

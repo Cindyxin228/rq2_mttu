@@ -1,0 +1,1 @@
+["README.md", "eventsourced/src/convert/prost.rs", "eventsourced/src/convert/serde_json.rs", "examples/counter-nats/config/default.toml", "examples/counter-nats/src/main.rs", "examples/counter-postgres/config/default.toml", "examples/counter-postgres/src/main.rs"]

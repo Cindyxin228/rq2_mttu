@@ -1,0 +1,1 @@
+["src/entity/article.rs", "src/entity/issue.rs", "src/entity/zine.rs", "static/zine.css", "templates/_macros.jinja", "templates/index.jinja", "templates/issue.jinja"]

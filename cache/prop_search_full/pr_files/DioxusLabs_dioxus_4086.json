@@ -1,0 +1,1 @@
+["packages/cli/src/build/builder.rs", "packages/cli/src/build/request.rs", "packages/cli/src/config/app.rs", "packages/cli/src/config/dioxus_config.rs", "packages/cli/src/main.rs", "packages/cli/src/serve/mod.rs", "packages/cli/src/serve/runner.rs", "packages/cli/src/settings.rs", "packages/cli/src/tailwind.rs", "packages/cli/src/wasm_bindgen.rs", "packages/cli/src/workspace.rs"]

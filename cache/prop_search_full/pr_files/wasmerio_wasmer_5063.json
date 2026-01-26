@@ -1,0 +1,1 @@
+["Cargo.lock", "docs/schema/generated/jsonschema/types/AppConfigV1.schema.json", "lib/backend-api/Cargo.toml", "lib/cli/Cargo.toml", "lib/config/Cargo.toml", "lib/config/src/app/mod.rs", "lib/config/src/bin/generate-core-schemas.rs", "lib/registry/Cargo.toml", "lib/wasix/Cargo.toml"]

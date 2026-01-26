@@ -1,0 +1,1 @@
+["README.md", "fixtures/ignore/.lycheeignore", "fixtures/ignore/TEST.md", "fixtures/ignore/normal-exclude-file", "lychee-bin/src/main.rs", "lychee-bin/src/options.rs", "lychee-bin/tests/cli.rs", "lychee.example.toml"]

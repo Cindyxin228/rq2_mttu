@@ -1,0 +1,1 @@
+["lib/oxrdf/src/dataset.rs", "lib/oxrdf/src/graph.rs", "lib/oxrdfio/src/serializer.rs", "lib/oxsdatatypes/src/double.rs", "lib/oxsdatatypes/src/float.rs", "lib/sparesults/src/lib.rs", "lib/src/io/write.rs", "lib/src/sparql/algebra.rs", "lib/src/store.rs"]

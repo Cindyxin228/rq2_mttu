@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", "Cargo.lock", "Cargo.toml", "README.md", "benches/lzma.rs", "src/basic/compression.rs", "src/send/compression.rs"]

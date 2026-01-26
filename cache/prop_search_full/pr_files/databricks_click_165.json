@@ -1,0 +1,1 @@
+["src/command/crds.rs", "src/command/delete.rs", "src/command/mod.rs", "src/command_processor.rs", "src/crd.rs", "src/k8s.rs", "src/k8s_table.rs", "src/kobj.rs", "src/main.rs"]

@@ -1,0 +1,1 @@
+["base_layer/core/src/base_node/sync/block_sync/synchronizer.rs", "base_layer/core/src/chain_storage/blockchain_backend.rs", "base_layer/core/src/chain_storage/blockchain_database.rs", "base_layer/core/src/chain_storage/lmdb_db/lmdb.rs", "base_layer/core/src/chain_storage/lmdb_db/lmdb_db.rs", "base_layer/core/src/test_helpers/blockchain.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "ethers-providers/Cargo.toml", "ethers-providers/src/transports/common.rs", "ethers-providers/src/transports/http.rs", "ethers-providers/src/transports/ipc.rs", "ethers-providers/src/transports/ws.rs"]

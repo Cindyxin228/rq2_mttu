@@ -1,0 +1,1 @@
+["acceptance/Cargo.toml", "acceptance/build.rs", "acceptance/src/data.rs", "ffi/tests/read-table-testing/expected-data/basic-partitioned.expected"]

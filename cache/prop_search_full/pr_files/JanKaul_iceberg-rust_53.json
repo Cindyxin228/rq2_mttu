@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "iceberg-glue-catalog/Cargo.toml", "iceberg-glue-catalog/src/error.rs", "iceberg-glue-catalog/src/lib.rs", "iceberg-glue-catalog/src/schema.rs", "iceberg-rust-spec/src/spec/tabular.rs"]

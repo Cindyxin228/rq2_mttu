@@ -1,0 +1,1 @@
+["book/src/SUMMARY.md", "book/src/cli/flags-subcommands.md", "book/src/getting-started/initial-setup.md", "config.toml.sample", "src/checkers/history/mod.rs", "src/command/edit.rs", "src/command/init.rs", "src/command/mod.rs", "src/config/builder/envtrie.rs", "src/config/mod.rs", "src/newtypes/environment_name.rs", "tests/hoard_init.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/vorpal.yaml", "Cargo.lock", "README.md", "Vorpal.go.toml", "Vorpal.toml", "cli/Cargo.toml", "cli/src/command.rs", "cli/src/command/artifact/config.rs", "cli/src/command/artifact/make.rs", "cli/src/command/start/registry.rs", "makefile", "script/dev.sh", "script/dev/amber.sh", "script/install.sh"]

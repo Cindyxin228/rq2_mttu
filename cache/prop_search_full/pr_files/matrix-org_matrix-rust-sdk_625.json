@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/style.yml", ".pre-commit-config.yaml", "crates/matrix-sdk-base/README.md", "labs/README.md", "xtask/src/fixup.rs", "xtask/src/main.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "proto/client-api/src/stats.rs", "src/api/control/refs/fid.rs", "src/media/peer.rs", "src/signalling/peers/media_traffic_state.rs", "src/signalling/peers/metrics.rs", "src/signalling/peers/mod.rs", "src/signalling/peers/traffic_watcher.rs", "src/signalling/room/peer_events_handler.rs", "src/signalling/room_service.rs", "tests/e2e/signalling/command_validation.rs"]

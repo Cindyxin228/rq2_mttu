@@ -1,0 +1,1 @@
+["Cargo.lock", "golem-cli/Cargo.toml", "golem-cli/src/api_definition.rs", "golem-cli/src/clients.rs", "golem-cli/src/clients/api_definition.rs", "golem-cli/src/clients/errors.rs", "golem-cli/src/clients/oas_api_definition.rs", "golem-cli/src/clients/template.rs", "golem-cli/src/lib.rs", "golem-cli/src/main.rs", "golem-cli/src/model.rs"]

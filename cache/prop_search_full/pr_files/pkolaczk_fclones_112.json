@@ -1,0 +1,1 @@
+["src/cache.rs", "src/config.rs", "src/dedupe.rs", "src/error.rs", "src/group.rs", "src/hasher.rs", "src/lib.rs", "src/reflink.rs", "src/report.rs", "src/transform.rs"]

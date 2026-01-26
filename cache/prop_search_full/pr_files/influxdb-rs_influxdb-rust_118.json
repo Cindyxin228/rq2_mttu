@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "auxiliary/update_cargo-readme.sh", "influxdb/src/client/mod.rs", "influxdb/src/query/line_proto_term.rs", "influxdb/src/query/mod.rs", "influxdb/tests/derive_integration_tests.rs", "influxdb/tests/integration_tests.rs", "influxdb/tests/integration_tests_v2.rs", "influxdb/tests/utilities.rs"]

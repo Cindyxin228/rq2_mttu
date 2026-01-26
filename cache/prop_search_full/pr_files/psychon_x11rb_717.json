@@ -1,0 +1,1 @@
+["x11rb-protocol/Cargo.toml", "x11rb-protocol/src/x11_utils.rs", "x11rb/Cargo.toml", "x11rb/src/x11_utils.rs", "xtrace-example/Cargo.toml", "xtrace-example/src/connection.rs", "xtrace-example/src/connection_inner.rs"]

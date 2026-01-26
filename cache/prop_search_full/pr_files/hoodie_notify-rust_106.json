@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/actions.rs", "examples/on_close.rs", "examples/on_close_reason.rs", "src/lib.rs", "src/xdg/dbus_rs.rs", "src/xdg/mod.rs", "src/xdg/zbus_rs.rs"]

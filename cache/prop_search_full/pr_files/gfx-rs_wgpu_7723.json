@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "wgpu-core/Cargo.toml", "wgpu-core/src/device/queue.rs", "wgpu-hal/Cargo.toml", "wgpu/Cargo.toml", "wgpu/src/backend/webgpu.rs"]

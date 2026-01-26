@@ -1,0 +1,1 @@
+["src/api/ta.rs", "src/cli/client.rs", "src/cli/ta/options/proxy.rs", "src/cli/ta/options/signer.rs", "src/server/ca/manager.rs", "src/server/manager.rs", "src/server/taproxy.rs", "src/tasigner/signer.rs", "tests/functional_ta.rs"]

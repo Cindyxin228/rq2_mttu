@@ -1,0 +1,1 @@
+["zebra-chain/src/block/height.rs", "zebra-state/src/service/arbitrary.rs", "zebra-state/src/service/non_finalized_state/chain.rs", "zebra-state/src/service/non_finalized_state/tests/prop.rs", "zebra-state/src/service/non_finalized_state/tests/vectors.rs"]

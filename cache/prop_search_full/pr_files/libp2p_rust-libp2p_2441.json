@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/src/connection/error.rs", "core/src/connection/pool.rs", "core/src/network.rs", "core/tests/network_dial_error.rs", "misc/metrics/src/swarm.rs", "protocols/kad/src/behaviour.rs", "swarm/CHANGELOG.md", "swarm/src/lib.rs"]

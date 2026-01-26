@@ -1,0 +1,1 @@
+[".integration/tests/dpc_testnet1.rs", ".integration/tests/dpc_testnet2.rs", "dpc/src/record/ciphertext.rs", "dpc/src/record/decryption_key.rs", "dpc/src/record/record.rs", "dpc/src/record/tests.rs", "dpc/src/transition/transition.rs"]

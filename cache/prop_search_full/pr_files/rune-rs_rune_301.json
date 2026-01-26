@@ -1,0 +1,1 @@
+["crates/rune-languageserver/src/state.rs", "crates/rune/src/compiling/assembly.rs", "crates/rune/src/compiling/mod.rs", "crates/rune/src/compiling/unit_builder.rs", "crates/runestick/src/debug.rs", "crates/runestick/src/label.rs", "crates/runestick/src/source.rs"]

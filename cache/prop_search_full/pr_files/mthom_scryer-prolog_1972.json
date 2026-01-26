@@ -1,0 +1,1 @@
+["src/arena.rs", "src/atom_table.rs", "src/machine/copier.rs", "src/machine/gc.rs", "src/machine/machine_indices.rs", "src/machine/mod.rs", "src/machine/streams.rs", "src/machine/system_calls.rs", "src/macros.rs", "src/types.rs"]

@@ -1,0 +1,1 @@
+["CHANGES.md", "Cargo.toml", "build.rs", "examples/metadata.rs", "examples/spatial_reference.rs", "examples/write_ogr.rs", "gdal-sys/Cargo.toml", "gdal-sys/build.rs", "src/cpl.rs", "src/dataset.rs", "src/raster/types.rs", "src/spatial_ref/srs.rs", "src/vector/geo_to_gdal.rs", "src/vector/geometry.rs"]

@@ -1,0 +1,1 @@
+["src/collector/facet_collector.rs", "src/common/serialize.rs", "src/core/executor.rs", "src/core/index.rs", "src/directory/managed_directory.rs", "src/error.rs", "src/fastfield/facet_reader.rs", "src/fastfield/multivalued/reader.rs", "src/indexer/segment_writer.rs", "src/schema/facet.rs", "src/schema/term.rs", "src/termdict/mod.rs", "src/tokenizer/facet_tokenizer.rs"]

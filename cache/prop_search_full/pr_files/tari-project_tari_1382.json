@@ -1,0 +1,1 @@
+["scripts/code_coverage_crypto.sh", "scripts/code_coverage_merklemountainrange.sh", "scripts/publish_crates.sh", "scripts/test_in_docker.sh"]

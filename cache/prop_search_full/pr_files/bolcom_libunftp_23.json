@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/gcs.rs", "examples/sync_oauth2/Cargo.toml", "examples/sync_oauth2/src/lib.rs", "src/storage/cloud_storage.rs"]

@@ -1,0 +1,1 @@
+["node-data/src/events.rs", "node-data/src/events/blocks.rs", "node-data/src/events/transactions.rs", "node/src/chain/acceptor.rs", "rusk/src/lib/node/events.rs"]

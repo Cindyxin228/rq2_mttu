@@ -1,0 +1,1 @@
+["Cargo.toml", "src/cli.rs", "src/config.rs", "src/env.rs", "src/features/mod.rs", "src/git_config/mod.rs", "src/main.rs", "src/options/get.rs", "src/options/set.rs", "src/options/theme.rs", "src/subcommands/show_colors.rs", "src/subcommands/show_syntax_themes.rs", "src/subcommands/show_themes.rs", "src/tests/integration_test_utils.rs", "src/utils/bat/output.rs"]

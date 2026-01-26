@@ -1,0 +1,1 @@
+["crates/node_binding/package.json", "npm/darwin-arm64/package.json", "npm/darwin-x64/package.json", "npm/linux-x64-gnu/package.json", "npm/wasm32-wasi/package.json", "npm/win32-x64-msvc/package.json", "package.json", "packages/create-rspack/package.json", "packages/rspack-cli/package.json", "packages/rspack-test-tools/package.json", "packages/rspack/package.json"]

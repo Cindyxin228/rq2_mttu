@@ -1,0 +1,1 @@
+["integration_tests/tests/s3.rs", "rusoto/core/Cargo.toml", "rusoto/core/src/lib.rs", "rusoto/core/src/serialization.rs", "rusoto/core/src/signature.rs", "rusoto/services/s3/Cargo.toml", "rusoto/services/s3/src/generated.rs", "rusoto/services/s3/src/lib.rs", "service_crategen/services.json", "service_crategen/src/commands/generate/codegen/rest_xml.rs"]

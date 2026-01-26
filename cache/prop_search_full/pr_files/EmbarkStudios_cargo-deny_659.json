@@ -1,0 +1,1 @@
+[".github/musl-cross.sh", ".github/workflows/ci.yaml", "src/cargo-deny/check.rs", "tests/snapshots/cargo_deny__test__cargo_deny-check.snap"]

@@ -1,0 +1,1 @@
+["cli/tests/integration/memory.rs", "test-fixtures/combined_heap_limits.wat"]

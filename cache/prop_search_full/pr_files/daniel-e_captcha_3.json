@@ -1,0 +1,1 @@
+["examples/build_captchas.rs", "examples/captcha.rs", "examples/perf.rs", "src/filters/cow.rs", "src/filters/dots.rs", "src/filters/grid.rs", "src/filters/mod.rs", "src/filters/noise.rs", "src/filters/wave.rs", "src/fonts/mod.rs", "src/images/mod.rs", "src/lib.rs", "src/samples/mod.rs"]

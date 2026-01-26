@@ -1,0 +1,1 @@
+["applications/tari_base_node/Cargo.toml", "applications/tari_base_node/src/builder.rs", "applications/tari_base_node/src/parser.rs", "comms/src/connection_manager/manager.rs", "comms/src/connection_manager/peer_connection.rs", "comms/src/connection_manager/requester.rs", "comms/src/test_utils/connection_manager_mock.rs"]

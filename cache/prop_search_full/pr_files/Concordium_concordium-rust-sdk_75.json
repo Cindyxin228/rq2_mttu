@@ -1,0 +1,1 @@
+["CHANGELOG.md", "concordium-base", "examples/init-update-contract.rs", "examples/v2_contract_deploy_init_update.rs", "examples/v2_get_module_source.rs", "src/cis0.rs", "src/cis2/mod.rs", "src/endpoints.rs", "src/types/mod.rs", "src/types/smart_contracts.rs", "src/types/summary_helper.rs", "src/v2/conversions.rs", "src/v2/mod.rs"]

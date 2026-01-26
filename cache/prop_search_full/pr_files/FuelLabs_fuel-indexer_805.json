@@ -1,0 +1,1 @@
+["deployment/charts/fuel-indexer/templates/fuel-indexer-deployment.yaml", "deployment/charts/fuel-indexer/values.yaml", "deployment/scripts/.env"]

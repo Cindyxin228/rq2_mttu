@@ -1,0 +1,1 @@
+["templates/classic/_base/Cargo.toml.liquid", "templates/classic/_base/src/config/mod.rs", "templates/classic/_base/src/main.rs.liquid", "templates/classic/rbatis/src/models/mod.rs", "templates/classic/rbatis/src/routers/auth.rs"]

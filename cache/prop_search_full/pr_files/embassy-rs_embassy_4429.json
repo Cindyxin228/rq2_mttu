@@ -1,0 +1,1 @@
+["ci.sh", "embassy-stm32/Cargo.toml", "embassy-stm32/src/flash/u5.rs", "embassy-stm32/src/rcc/c0.rs", "embassy-stm32/src/rcc/hsi48.rs", "embassy-stm32/src/rcc/mco.rs", "tests/stm32/Cargo.toml", "tests/stm32/build.rs", "tests/stm32/src/common.rs"]

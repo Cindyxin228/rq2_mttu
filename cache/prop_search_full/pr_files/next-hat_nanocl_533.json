@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocl/src/commands/state.rs", "bin/ncdns/src/dnsmasq.rs", "bin/ncdns/src/event.rs", "bin/ncdns/src/main.rs", "bin/ncdns/src/services/rule.rs", "bin/ncdns/src/utils.rs", "bin/ncdns/tests/resource_dns.yml", "docker-compose.yaml", "examples/args_advanced.yml"]

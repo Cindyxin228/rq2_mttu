@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/controller.rs", "src/goose.rs", "src/graph.rs", "src/lib.rs", "src/manager.rs", "src/metrics.rs", "src/test_plan.rs", "tests/closure.rs", "tests/controller.rs", "tests/defaults.rs", "tests/error.rs", "tests/one_taskset.rs"]

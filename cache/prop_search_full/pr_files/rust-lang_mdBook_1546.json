@@ -1,0 +1,1 @@
+["guide/src/format/configuration/renderers.md", "guide/src/format/mdbook.md", "src/config.rs", "src/renderer/html_handlebars/hbs_renderer.rs", "tests/rendered_output.rs"]

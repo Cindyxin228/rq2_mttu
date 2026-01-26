@@ -1,0 +1,1 @@
+["datafusion-cli/src/exec.rs", "datafusion/expr/src/logical_plan/builder.rs", "datafusion/expr/src/logical_plan/plan.rs", "datafusion/sql/src/select.rs", "datafusion/sqllogictest/test_files/same_column_name_cross_join.slt"]

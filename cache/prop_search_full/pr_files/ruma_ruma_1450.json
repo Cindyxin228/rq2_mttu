@@ -1,0 +1,1 @@
+["crates/ruma-common/src/events/relation.rs", "crates/ruma-common/src/events/room/encrypted/relation_serde.rs", "crates/ruma-common/src/events/room/message.rs", "crates/ruma-common/src/events/room/message/relation_serde.rs", "crates/ruma-common/tests/events/encrypted.rs", "crates/ruma-common/tests/events/relations.rs"]

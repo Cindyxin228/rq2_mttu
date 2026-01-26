@@ -1,0 +1,1 @@
+["solang-parser/src/solidity.lalrpop", "src/codegen/expression.rs", "src/emit/mod.rs", "tests/solana_tests/expressions.rs"]

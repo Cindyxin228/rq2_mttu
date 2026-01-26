@@ -1,0 +1,1 @@
+["mesquitte-core/src/protocols/v4/publish.rs", "mesquitte-core/src/protocols/v4/read_write_loop.rs", "mesquitte-core/src/protocols/v5/publish.rs", "mesquitte-core/src/protocols/v5/read_write_loop.rs", "mesquitte-core/src/types/outgoing.rs"]

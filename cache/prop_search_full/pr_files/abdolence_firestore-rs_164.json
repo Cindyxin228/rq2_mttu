@@ -1,0 +1,1 @@
+["examples/explain-query.rs", "src/db/query.rs", "src/db/query_models.rs", "src/firestore_meta.rs", "src/fluent_api/select_builder.rs", "src/lib.rs", "src/timestamp_utils.rs"]

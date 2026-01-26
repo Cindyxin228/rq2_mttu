@@ -1,0 +1,1 @@
+["fuzzers/libfuzzer_libpng/Cargo.toml", "fuzzers/libfuzzer_libpng/Makefile.toml", "fuzzers/libfuzzer_libpng/src/lib.rs", "libafl/src/bolts/llmp.rs", "libafl/src/events/llmp.rs", "libafl/src/events/simple.rs", "libafl/src/monitors/mod.rs"]

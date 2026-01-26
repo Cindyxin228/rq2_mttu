@@ -1,0 +1,1 @@
+["flatdata-rs/src/archive.rs", "flatdata-rs/src/arrayview.rs", "flatdata-rs/src/multiarrayview.rs", "flatdata-rs/src/multivector.rs", "flatdata-rs/src/structbuf.rs", "flatdata-rs/src/vector.rs", "flatdata-rs/tests/coappearances/generated.rs", "generator/generators/RustGenerator.py", "tests/generators/test_rust_generator.py"]

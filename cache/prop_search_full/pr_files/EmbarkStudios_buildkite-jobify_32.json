@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "Dockerfile", "README.md", "deny.toml", "release.toml", "src/k8s.rs", "src/k8s/client.rs", "src/k8s/config.rs", "src/lib.rs"]

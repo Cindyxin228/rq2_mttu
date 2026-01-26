@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/platform_impl/web/event_loop/window_target.rs", "src/platform_impl/web/stdweb/canvas.rs", "src/platform_impl/web/stdweb/event.rs", "src/platform_impl/web/web_sys/canvas.rs", "src/platform_impl/web/web_sys/canvas/mouse_handler.rs", "src/platform_impl/web/web_sys/canvas/pointer_handler.rs", "src/platform_impl/web/web_sys/event.rs"]

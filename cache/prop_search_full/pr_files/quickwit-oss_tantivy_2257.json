@@ -1,0 +1,1 @@
+["src/postings/serializer.rs", "src/query/bm25.rs", "src/query/boost_query.rs", "src/query/const_score_query.rs", "src/query/explanation.rs", "src/query/term_query/term_query.rs"]

@@ -1,0 +1,1 @@
+["kube-client/src/client/config_ext.rs", "kube-client/src/client/middleware/mod.rs", "kube-client/src/client/mod.rs", "kube-client/src/config/mod.rs", "kube-runtime/src/reflector/mod.rs"]

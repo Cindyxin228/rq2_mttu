@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "build.rs", "contrib/completions/_zoxide", "contrib/completions/_zoxide.ps1", "contrib/completions/zoxide.bash", "contrib/completions/zoxide.elv", "contrib/completions/zoxide.fish", "src/app.rs", "src/cmd/add.rs", "src/cmd/import.rs", "src/cmd/init.rs", "src/cmd/mod.rs", "src/cmd/query.rs", "src/cmd/remove.rs", "src/main.rs", "src/shell.rs"]

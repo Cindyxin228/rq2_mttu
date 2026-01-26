@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "vegafusion-core/Cargo.toml", "vegafusion-rt-datafusion/Cargo.toml", "vegafusion-rt-datafusion/tests/test_transform_aggregate.rs", "vegafusion-rt-datafusion/tests/util/check.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "wgpu-core/Cargo.toml", "wgpu-core/src/device/mod.rs", "wgpu-core/src/pipeline.rs", "wgpu-hal/Cargo.toml", "wgpu-hal/src/lib.rs", "wgpu/Cargo.toml"]

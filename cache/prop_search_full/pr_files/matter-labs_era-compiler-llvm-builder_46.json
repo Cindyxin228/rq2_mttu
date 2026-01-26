@@ -1,0 +1,1 @@
+[".github/actions/build_and_test/action.yml", ".github/workflows/build-and-test.yaml", ".github/workflows/secrets-scanner.yaml", "deny.toml", "rust-toolchain.toml", "tests/invalid_invocation.rs", "tests/version.rs"]

@@ -1,0 +1,1 @@
+["crates/shim-protos/Cargo.toml", "crates/shim-protos/examples/ttrpc-client.rs", "crates/shim-protos/examples/ttrpc-server.rs", "crates/shim-protos/tests/ttrpc.rs", "crates/shim/src/publisher.rs"]

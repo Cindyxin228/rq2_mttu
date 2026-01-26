@@ -1,0 +1,1 @@
+["src/config.rs", "src/interactive.rs", "src/lib.rs", "src/project_variables.rs", "src/template_variables/mod.rs", "src/user_parsed_input.rs", "tests/integration/helpers/project_builder.rs"]

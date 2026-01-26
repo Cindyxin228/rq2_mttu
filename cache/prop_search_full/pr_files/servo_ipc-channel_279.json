@@ -1,0 +1,1 @@
+["src/ipc.rs", "src/platform/inprocess/mod.rs", "src/platform/test.rs", "src/platform/windows/aliased_cell.rs", "src/platform/windows/mod.rs", "src/router.rs"]

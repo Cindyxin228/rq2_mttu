@@ -1,0 +1,1 @@
+[".cargo/audit.toml", "ergotree-interpreter/Cargo.toml", "ergotree-interpreter/src/sigma_protocol.rs", "ergotree-interpreter/src/sigma_protocol/challenge.rs", "ergotree-interpreter/src/sigma_protocol/private_input.rs", "ergotree-ir/Cargo.toml", "ergotree-ir/src/sigma_protocol/dlog_group.rs"]

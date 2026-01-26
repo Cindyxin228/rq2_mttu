@@ -1,0 +1,1 @@
+["crates/nu-cli/src/eval_file.rs", "crates/nu-protocol/src/shell_error.rs", "tests/shell/environment/env.rs"]

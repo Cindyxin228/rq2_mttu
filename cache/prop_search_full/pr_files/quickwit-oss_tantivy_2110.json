@@ -1,0 +1,1 @@
+["benches/analyzer.rs", "src/indexer/segment_writer.rs", "src/query/more_like_this/more_like_this.rs", "src/tokenizer/tokenizer.rs", "tokenizer-api/src/lib.rs"]

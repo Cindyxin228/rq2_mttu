@@ -1,0 +1,1 @@
+["src/client/client/mod.rs", "src/client/client/service.rs", "src/client/middleware/cookie/layer.rs", "src/client/middleware/cookie/mod.rs", "src/client/middleware/redirect/mod.rs", "src/client/middleware/redirect/policy.rs", "src/client/middleware/retry/mod.rs", "src/client/middleware/timeout/mod.rs", "src/connect.rs", "src/redirect.rs"]

@@ -1,0 +1,1 @@
+["embassy-stm32/build.rs", "embassy-stm32/src/flash/eeprom.rs", "embassy-stm32/src/flash/l.rs", "embassy-stm32/src/flash/mod.rs", "examples/stm32l0/src/bin/eeprom.rs", "examples/stm32l1/src/bin/eeprom.rs", "tests/stm32/Cargo.toml", "tests/stm32/src/bin/eeprom.rs"]

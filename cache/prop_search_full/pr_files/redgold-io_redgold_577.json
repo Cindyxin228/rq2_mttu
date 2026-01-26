@@ -1,0 +1,1 @@
+["src/api/explorer/mod.rs", "src/e2e/mod.rs", "src/node_config.rs", "src/test/mod.rs", "src/test/utxo_dev_debug.rs", "src/test/utxo_dev_e2e_debug.rs", "vue-explorer/src/components/hash_types/TransactionDetail.vue"]

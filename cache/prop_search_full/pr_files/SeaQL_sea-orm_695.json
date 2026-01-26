@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "issues/630/Cargo.toml", "issues/630/README.md", "issues/630/create_underscores_table.sql", "issues/630/src/entity/mod.rs", "issues/630/src/entity/prelude.rs", "issues/630/src/entity/underscores.rs", "issues/630/src/entity/underscores_workaround.rs", "issues/630/src/main.rs", "sea-orm-macros/src/derives/entity_model.rs"]

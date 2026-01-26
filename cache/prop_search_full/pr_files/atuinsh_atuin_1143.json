@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "atuin-client/Cargo.toml", "atuin-client/src/encryption.rs", "atuin-client/src/kv.rs", "atuin-client/src/record/sync.rs", "atuin-server-database/Cargo.toml", "atuin-server-postgres/Cargo.toml", "atuin-server/Cargo.toml", "atuin/Cargo.toml"]

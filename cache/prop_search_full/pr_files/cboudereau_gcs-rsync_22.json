@@ -1,0 +1,1 @@
+["Cargo.toml", "src/gcp/storage/resources/object.rs", "src/gcp/sync/gcs.rs", "tests/config/gcs.rs", "tests/objects_integration_test.rs", "tests/sync_mirror_integration_tests.rs"]

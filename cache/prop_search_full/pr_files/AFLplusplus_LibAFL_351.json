@@ -1,0 +1,1 @@
+["fuzzers/baby_fuzzer_gramatron/src/main.rs", "libafl/Cargo.toml", "libafl/src/bolts/launcher.rs", "libafl/src/bolts/mod.rs", "libafl/src/events/llmp.rs", "libafl/src/events/simple.rs", "libafl/src/executors/inprocess.rs", "libafl/src/executors/mod.rs", "libafl_frida/src/alloc.rs"]

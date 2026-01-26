@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/arg.rs", "src/cache.rs", "src/config.rs", "src/dedupe.rs", "src/file.rs", "src/group.rs", "src/hasher.rs", "src/lock.rs", "src/log.rs", "src/main.rs", "src/path.rs", "src/pattern.rs", "src/reflink.rs", "src/report.rs", "src/selector.rs", "src/transform.rs", "src/util.rs", "src/walk.rs"]

@@ -1,0 +1,1 @@
+["connectorx/src/destinations/arrow2/arrow_assoc.rs", "connectorx/src/destinations/arrow2/typesystem.rs", "connectorx/src/sources/postgres/mod.rs", "connectorx/src/sources/postgres/typesystem.rs", "connectorx/src/transports/postgres_arrow2.rs", "connectorx/tests/test_polars.rs", "scripts/postgres.sql"]

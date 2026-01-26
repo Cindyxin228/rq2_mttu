@@ -1,0 +1,1 @@
+["polars/polars-core/src/datatypes/aliases.rs", "polars/polars-lazy/polars-plan/src/logical_plan/optimizer/cache_states.rs", "polars/polars-lazy/polars-plan/src/logical_plan/optimizer/cse.rs", "polars/polars-lazy/src/tests/cse.rs"]

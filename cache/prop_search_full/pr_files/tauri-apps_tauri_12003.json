@@ -1,0 +1,1 @@
+["crates/tauri-cli/config.schema.json", "crates/tauri-schema-generator/schemas/config.schema.json", "crates/tauri-utils/src/config.rs"]

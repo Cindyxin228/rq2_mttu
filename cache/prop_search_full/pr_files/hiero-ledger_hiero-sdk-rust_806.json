@@ -1,0 +1,1 @@
+["protobufs/protobufs", "src/account/account_create_transaction.rs", "src/account/account_update_transaction.rs", "src/contract/contract_create_flow.rs", "src/contract/contract_create_transaction.rs", "src/contract/contract_update_transaction.rs", "tests/e2e/account/create.rs", "tests/e2e/account/update.rs", "tests/e2e/token/transfer.rs"]

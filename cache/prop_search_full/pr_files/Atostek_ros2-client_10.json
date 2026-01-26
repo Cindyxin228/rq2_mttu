@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/minimal_action_client/main.rs", "examples/minimal_action_server/main.rs", "src/action.rs", "src/action_msgs.rs", "src/builtin_interfaces.rs", "src/message.rs", "src/node.rs", "src/pubsub.rs", "src/service/mod.rs", "src/unique_identifier_msgs.rs"]

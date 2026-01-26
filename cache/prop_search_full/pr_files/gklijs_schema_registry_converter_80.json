@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "RELEASE_NOTES.md", "src/async_impl/avro.rs", "src/async_impl/easy_avro.rs", "src/async_impl/schema_registry.rs", "src/avro_common.rs", "src/blocking/avro.rs", "src/lib.rs", "tests/blocking/avro_consumer.rs", "tests/blocking/avro_tests.rs", "tests/blocking/kafka_producer.rs"]

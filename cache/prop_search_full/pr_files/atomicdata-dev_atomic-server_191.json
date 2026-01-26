@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "server/Cargo.toml", "server/src/appstate.rs", "server/src/config.rs", "server/src/handlers/single_page_app.rs", "server/src/https.rs", "server/src/main.rs", "server/src/serve.rs", "server/static/atomic-data-browser.html"]

@@ -1,0 +1,1 @@
+["docs/src/shell_output/lint", "src/bin/eugene.rs", "src/lints.rs", "src/output.rs", "src/output/lint_report.md.hbs", "src/output/markdown.rs", "src/output/output_format.rs", "src/output/templates.rs", "src/output/trace_report.md.hbs", "src/render_doc_snapshots.rs"]

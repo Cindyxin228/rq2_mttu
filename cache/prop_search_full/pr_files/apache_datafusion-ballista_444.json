@@ -1,0 +1,1 @@
+["dev/docker/builder-entrypoint.sh", "dev/docker/executor-entrypoint.sh", "dev/docker/scheduler-entrypoint.sh"]

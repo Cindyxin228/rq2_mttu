@@ -1,0 +1,1 @@
+["scylla/src/transport/cluster.rs", "scylla/src/transport/session.rs", "scylla/src/transport/session_builder.rs", "scylla/src/transport/session_test.rs", "scylla/src/transport/topology.rs"]

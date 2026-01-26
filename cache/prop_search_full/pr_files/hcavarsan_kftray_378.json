@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/kftray-commons/Cargo.toml", "crates/kftray-portforward/Cargo.toml", "crates/kftray-portforward/src/hostsfile.rs", "crates/kftray-server/Cargo.toml", "crates/kftray-tauri/Cargo.toml", "crates/kftray-tauri/src/init_check.rs", "crates/kftray-tauri/tauri.conf.json", "crates/kftui/Cargo.toml", "docs/kftray/INSTALL.md", "frontend/package.json", "package.json"]

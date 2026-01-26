@@ -1,0 +1,1 @@
+["crates/bevy_ecs/src/lib.rs", "crates/bevy_ecs/src/resource/resource_query.rs", "crates/bevy_ecs/src/resource/resources.rs", "crates/bevy_ecs/src/schedule/parallel_executor.rs", "crates/bevy_ecs/src/schedule/schedule.rs", "crates/bevy_ecs/src/system/into_system.rs", "crates/bevy_render/src/draw.rs"]

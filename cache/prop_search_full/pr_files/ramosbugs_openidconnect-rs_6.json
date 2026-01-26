@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "examples/google.rs", "src/claims.rs", "src/core/crypto.rs", "src/core/jwk.rs", "src/core/mod.rs", "src/discovery.rs", "src/id_token.rs", "src/jwt.rs", "src/lib.rs", "src/registration.rs", "src/types.rs", "src/user_info.rs", "src/verification.rs"]

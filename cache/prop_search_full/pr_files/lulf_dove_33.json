@@ -1,0 +1,1 @@
+["examples/receive.rs", "examples/send.rs", "examples/send_framing.rs", "src/conn.rs", "src/container.rs", "src/convert.rs", "src/driver.rs", "src/error.rs", "src/framing.rs", "src/message.rs", "src/options.rs", "src/sasl.rs", "src/symbol.rs", "src/transport.rs", "src/types.rs", "tests/integration_tests.rs"]

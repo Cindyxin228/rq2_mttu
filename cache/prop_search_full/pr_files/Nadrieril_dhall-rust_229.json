@@ -1,0 +1,1 @@
+["dhall/src/operations/typecheck.rs", "dhall/src/syntax/ast/span.rs", "dhall/src/syntax/text/parser.rs", "dhall/tests/type-inference/failure/unit/RecordLitDuplicateFieldsAbstract.txt", "dhall/tests/type-inference/failure/unit/RecordLitDuplicateFieldsCollidingRecords.txt", "dhall/tests/type-inference/failure/unit/RecordLitDuplicateFieldsNotRecords.txt"]

@@ -1,0 +1,1 @@
+["src/adapter.rs", "src/auth.rs", "src/catalog.rs", "src/config.rs", "src/endpointfilters.rs", "src/identity.rs", "src/lib.rs", "src/session.rs", "src/sync.rs"]

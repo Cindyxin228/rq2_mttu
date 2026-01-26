@@ -1,0 +1,1 @@
+["build/azure-pipeline/workflow-common.yml", "build/scripts/Install-CargoMakeBinary.ps1", "build/scripts/install-cargo-make-binary.sh"]

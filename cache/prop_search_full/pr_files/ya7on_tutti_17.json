@@ -1,0 +1,1 @@
+["crates/tutti-config/src/adapter.rs", "crates/tutti-config/src/lib.rs", "tests/assets/correct_config.toml", "tests/assets/unknown_format.txt"]

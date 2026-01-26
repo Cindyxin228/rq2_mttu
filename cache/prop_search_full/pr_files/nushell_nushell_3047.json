@@ -1,0 +1,1 @@
+["crates/nu-cli/src/cli.rs", "crates/nu-cli/src/completion/engine.rs", "crates/nu-cli/src/shell/helper.rs", "crates/nu-command/src/examples.rs", "crates/nu-parser/src/lex/lexer.rs", "crates/nu-parser/src/lex/tests.rs", "crates/nu-parser/src/lib.rs", "crates/nu-parser/src/parse.rs", "crates/nu-parser/src/parse/def.rs"]

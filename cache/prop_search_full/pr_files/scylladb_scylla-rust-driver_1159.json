@@ -1,0 +1,1 @@
+["scylla/src/client/pager.rs", "scylla/src/client/session.rs", "scylla/src/errors.rs", "scylla/src/observability/history.rs", "scylla/src/policies/speculative_execution.rs", "scylla/tests/integration/history.rs"]

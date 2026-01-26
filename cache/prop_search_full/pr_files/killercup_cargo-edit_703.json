@@ -1,0 +1,1 @@
+["src/bin/set-version/set_version.rs", "src/metadata.rs", "tests/cmd/set-version/upgrade_workspace.in", "tests/cmd/set-version/upgrade_workspace.out/Cargo.toml", "tests/cmd/set-version/upgrade_workspace.out/dependency/Cargo.toml", "tests/cmd/set-version/upgrade_workspace.out/primary/Cargo.toml", "tests/cmd/set-version/upgrade_workspace.toml"]

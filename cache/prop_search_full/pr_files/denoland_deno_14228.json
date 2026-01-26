@@ -1,0 +1,1 @@
+["cli/tests/testdata/workers/test.ts", "core/01_core.js", "core/bindings.rs", "core/examples/hello_world.rs", "core/lib.rs", "core/ops.rs", "core/runtime.rs", "ops/lib.rs"]

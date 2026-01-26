@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "bindings/nostr-sdk-ffi/src/client/options.rs", "bindings/nostr-sdk-js/src/client/options.rs", "crates/nostr-relay-pool/Cargo.toml", "crates/nostr-relay-pool/src/pool/mod.rs", "crates/nostr-sdk/Cargo.toml", "crates/nostr-sdk/src/client/handler.rs", "crates/nostr-sdk/src/client/mod.rs", "crates/nostr-sdk/src/client/options.rs"]

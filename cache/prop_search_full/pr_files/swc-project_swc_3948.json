@@ -1,0 +1,1 @@
+["crates/swc_common/src/source_map.rs", "crates/swc_common/src/syntax_pos.rs", "crates/swc_ecma_codegen/src/text_writer/basic_impl.rs"]

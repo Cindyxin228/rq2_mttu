@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "README.md", "glean-core/Cargo.toml", "glean-core/build/Cargo.toml", "glean-core/rlb/Cargo.toml", "glean-core/src/common_metric_data.rs"]

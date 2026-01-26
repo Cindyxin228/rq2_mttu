@@ -1,0 +1,1 @@
+["build/ncollide3d/tests/pipeline/contact_pairs.rs", "build/ncollide3d/tests/pipeline/mod.rs", "src/bounding_volume/aabb.rs", "src/bounding_volume/mod.rs", "src/query/point/point_aabb.rs", "src/query/point/point_ball.rs", "src/query/point/point_polyline.rs", "src/shape/polyline.rs"]

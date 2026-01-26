@@ -1,0 +1,1 @@
+["datafusion/core/Cargo.toml", "datafusion/core/src/physical_plan/file_format/parquet.rs", "datafusion/core/src/physical_plan/metrics/mod.rs", "datafusion/core/tests/parquet_filter_pushdown.rs", "test-utils/src/data_gen.rs"]

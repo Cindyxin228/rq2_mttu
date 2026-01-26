@@ -1,0 +1,1 @@
+["src/ser/error.rs", "src/ser/mod.rs", "src/tests/modules/ser.rs", "src/tests/spec/corpus.rs", "src/tests/spec/json/bson-corpus/binary.json", "src/tests/spec/json/bson-corpus/dbref.json", "src/tests/spec/json/bson-corpus/document.json", "src/tests/spec/json/bson-corpus/regex.json", "src/tests/spec/json/bson-corpus/top.json"]

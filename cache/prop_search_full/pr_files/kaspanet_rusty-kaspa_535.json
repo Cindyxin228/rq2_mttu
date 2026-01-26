@@ -1,0 +1,1 @@
+["mining/src/manager.rs", "mining/src/mempool/mod.rs", "mining/src/mempool/model/orphan_pool.rs", "mining/src/mempool/model/pool.rs", "mining/src/mempool/model/transactions_pool.rs"]

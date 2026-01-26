@@ -1,0 +1,1 @@
+[".gitignore", "ansible/lemmy.yml", "ansible/lemmy_dev.yml", "ansible/templates/config.hjson", "ansible/templates/nginx.conf", "ansible/uninstall.yml", "crates/utils/src/settings/mod.rs"]

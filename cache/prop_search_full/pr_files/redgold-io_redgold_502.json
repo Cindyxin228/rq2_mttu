@@ -1,0 +1,1 @@
+["schema/src/public_key.rs", "src/api/rosetta/models.rs", "src/gui/tabs/server_tab.rs", "src/infra/deploy.rs", "src/multiparty/mod.rs", "src/multiparty/offline_debug.rs", "src/util/cli/data_folder.rs"]

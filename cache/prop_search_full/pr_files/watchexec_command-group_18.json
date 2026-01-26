@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.toml", "examples/async.rs", "examples/basic.rs", "examples/builder.rs", "examples/daemon.rs", "examples/kill_on_drop.rs", "examples/with_flags.rs", "src/builder.rs", "src/lib.rs", "src/stdlib.rs", "src/stdlib/unix.rs", "src/stdlib/windows.rs", "src/tokio.rs", "src/tokio/unix.rs", "src/tokio/windows.rs", "src/winres.rs"]

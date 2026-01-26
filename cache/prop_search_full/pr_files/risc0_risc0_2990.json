@@ -1,0 +1,1 @@
+["Cargo.lock", "benchmarks/Cargo.lock", "examples/Cargo.lock", "risc0/binfmt/src/image.rs", "risc0/circuit/rv32im/Cargo.toml", "risc0/circuit/rv32im/src/execute/executor.rs", "risc0/circuit/rv32im/src/execute/segment.rs", "risc0/r0vm/Cargo.toml", "risc0/r0vm/src/lib.rs"]

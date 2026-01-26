@@ -1,0 +1,1 @@
+["crates/nu-command/src/filesystem/ls.rs", "crates/nu-command/src/filters/reduce.rs", "crates/nu-command/src/filters/where_.rs", "docs/commands/ls.md", "docs/commands/reduce.md", "docs/commands/where.md"]

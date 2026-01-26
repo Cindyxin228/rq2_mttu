@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Makefile", "src/api/server/sync_io.rs", "src/passthrough/mod.rs", "src/transport/fusedev/linux_session.rs", "src/transport/fusedev/macos_session.rs", "src/transport/fusedev/mod.rs", "tests/example/macfuse.rs", "tests/example/passthroughfs.rs", "tests/macfuse_smoke.rs"]

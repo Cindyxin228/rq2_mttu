@@ -1,0 +1,1 @@
+["src/bin/julialauncher.rs", "src/bin/juliaup.rs", "src/command_link.rs", "src/command_list.rs", "src/command_override.rs", "src/command_remove.rs", "src/config_file.rs", "tests/command_override_test.rs"]

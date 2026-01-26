@@ -1,0 +1,1 @@
+["examples/hackernews/src/routes/nav.rs", "examples/hackernews/src/routes/stories.rs", "examples/hackernews/src/routes/story.rs", "examples/hackernews/src/routes/users.rs", "router/src/flat_router.rs", "router/src/matching/choose_view.rs", "router/src/matching/mod.rs", "router/src/matching/nested/mod.rs", "router/src/matching/nested/tuples.rs", "router/src/static_routes.rs"]

@@ -1,0 +1,1 @@
+["src/query/query_parser/query_grammar.rs", "src/query/query_parser/query_parser.rs", "src/query/term_query/mod.rs", "src/query/term_query/term_query.rs", "src/schema/schema.rs", "src/schema/term.rs"]

@@ -1,0 +1,1 @@
+["arrow-array/src/array/primitive_array.rs", "arrow-integration-test/src/lib.rs", "arrow-select/src/filter.rs", "arrow-select/src/take.rs", "arrow/src/compute/kernels/cast.rs", "arrow/src/compute/kernels/temporal.rs", "arrow/src/csv/writer.rs", "arrow/src/json/writer.rs", "parquet/src/arrow/arrow_writer/mod.rs"]

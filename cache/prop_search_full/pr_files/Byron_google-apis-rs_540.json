@@ -1,0 +1,1 @@
+["etc/api/bigquery/v2/bigquery-api_overrides.yaml", "etc/api/shared.yaml", "etc/bin/mako-render.py", "gen/bigquery2/Cargo.toml", "gen/bigquery2/LICENSE.md", "gen/bigquery2/README.md", "gen/bigquery2/src/api.rs", "gen/bigquery2/src/lib.rs"]

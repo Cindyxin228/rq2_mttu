@@ -1,0 +1,1 @@
+["crates/swc_ecma_minifier/src/lib.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/mod.rs", "crates/swc_ecma_minifier/src/pass/mangle_names/real_impl.rs", "crates/swc_ecma_minifier/tests/exec.rs"]

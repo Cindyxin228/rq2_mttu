@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/codec/capabilities.rs", "src/codec/debug.rs", "src/codec/id.rs", "src/codec/packet/side_data.rs", "src/format/format/flag.rs", "src/lib.rs", "src/util/color/primaries.rs", "src/util/format/pixel.rs", "src/util/frame/side_data.rs"]

@@ -1,0 +1,1 @@
+["saphir/Cargo.toml", "saphir_cli/Cargo.toml", "saphir_cli/src/openapi/generate/mod.rs", "saphir_cli/src/openapi/generate/response_info.rs", "saphir_cli/src/openapi/schema.rs", "saphir_macro/Cargo.toml", "saphir_macro/src/controller/handler.rs"]

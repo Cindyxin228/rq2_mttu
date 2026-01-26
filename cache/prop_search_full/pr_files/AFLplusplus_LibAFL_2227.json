@@ -1,0 +1,1 @@
+["fuzzers/frida_gdiplus/src/fuzzer.rs", "libafl/src/events/launcher.rs"]

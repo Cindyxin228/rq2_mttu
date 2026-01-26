@@ -1,0 +1,1 @@
+["crates/runestick/src/interface.rs", "crates/runestick/src/modules/collections.rs", "crates/runestick/src/object.rs", "crates/runestick/src/protocol.rs", "crates/runestick/src/range.rs", "crates/runestick/src/tuple.rs", "crates/runestick/src/value.rs", "crates/runestick/src/vec.rs", "crates/runestick/src/vm.rs"]

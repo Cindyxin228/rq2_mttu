@@ -1,0 +1,1 @@
+[".github/workflows/rust.yaml", "Cargo.lock", "Cargo.toml", "README.md", "src/analyze.rs", "src/bin/ogni.rs", "src/bin/ognibuild-dist.rs", "src/buildsystem.rs", "src/debian/file_search.rs", "src/session/mod.rs", "src/session/plain.rs", "src/session/unshare.rs"]

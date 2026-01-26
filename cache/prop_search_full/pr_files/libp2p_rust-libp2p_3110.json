@@ -1,0 +1,1 @@
+["Cargo.toml", "core/Cargo.toml", "core/src/transport/memory.rs", "transports/noise/Cargo.toml", "transports/noise/src/protocol.rs", "transports/noise/src/protocol/x25519.rs"]

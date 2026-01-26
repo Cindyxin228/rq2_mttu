@@ -1,0 +1,1 @@
+["zcash_client_sqlite/CHANGELOG.md", "zcash_client_sqlite/Cargo.toml", "zcash_client_sqlite/src/error.rs", "zcash_client_sqlite/src/lib.rs", "zcash_client_sqlite/src/wallet.rs", "zcash_client_sqlite/src/wallet/commitment_tree.rs", "zcash_client_sqlite/src/wallet/init.rs", "zcash_client_sqlite/src/wallet/init/migrations/shardtree_support.rs"]

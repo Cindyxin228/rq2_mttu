@@ -1,0 +1,1 @@
+["src/compile/compiler.rs", "src/vm/bytecode.rs", "src/vm/error.rs", "src/vm/machine.rs", "tests/hand_written/mod.rs"]

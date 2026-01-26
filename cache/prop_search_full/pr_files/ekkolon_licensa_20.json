@@ -1,0 +1,1 @@
+["src/cli/add.rs", "src/cli/apply.rs", "src/cli/mod.rs", "src/cli/verify.rs", "src/config/mod.rs", "src/error.rs", "src/helpers/channel_duration.rs", "src/helpers/mod.rs", "src/main.rs", "src/workspace/_examples.rs", "src/workspace/mod.rs", "src/workspace/stats.rs"]

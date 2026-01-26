@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/simple.jsonld", "rudof_cli/src/data.rs", "rudof_cli/src/data_format.rs", "sparql_service/src/srdf_data/rdf_data.rs", "srdf/Cargo.toml", "srdf/src/rdf_format.rs", "srdf/src/srdf_graph/srdfgraph.rs", "srdf/src/srdf_graph/srdfgraph_error.rs"]

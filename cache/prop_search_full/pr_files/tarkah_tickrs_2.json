@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "api/Cargo.toml", "api/src/client.rs", "api/src/lib.rs", "api/src/model.rs", "src/common.rs", "src/main.rs", "src/service/stock.rs", "src/task/company.rs", "src/task/current_price.rs", "src/task/prices.rs", "src/widget/stock.rs"]

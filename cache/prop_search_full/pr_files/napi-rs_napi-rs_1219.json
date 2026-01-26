@@ -1,0 +1,1 @@
+["crates/backend/src/ast.rs", "crates/backend/src/codegen/fn.rs", "crates/macro/src/parser/attrs.rs", "crates/macro/src/parser/mod.rs", "examples/napi/__test__/strict.spec.ts", "examples/napi/__test__/typegen.spec.ts.md", "examples/napi/__test__/typegen.spec.ts.snap", "examples/napi/index.d.ts", "examples/napi/src/fn_strict.rs"]

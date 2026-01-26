@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/release.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "src/cli.rs", "src/dict/mod.rs", "src/dict/offline.rs", "src/dict/online.rs", "src/dict/stardict/mod.rs", "src/dicts.rs", "src/history.rs", "src/lib.rs", "src/main.rs", "src/pronunciation.rs"]

@@ -1,0 +1,1 @@
+["crates/core/src/file_group/base_file.rs", "crates/core/src/file_group/builder.rs", "crates/core/src/file_group/file_slice.rs", "crates/core/src/file_group/log_file/mod.rs", "crates/core/src/file_group/mod.rs", "crates/core/src/table/mod.rs", "crates/core/src/timeline/mod.rs"]

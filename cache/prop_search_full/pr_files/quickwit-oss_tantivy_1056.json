@@ -1,0 +1,1 @@
+["examples/faceted_search.rs", "src/collector/facet_collector.rs", "src/fastfield/facet_reader.rs", "src/query/query_parser/query_parser.rs", "src/schema/facet.rs", "src/schema/mod.rs"]

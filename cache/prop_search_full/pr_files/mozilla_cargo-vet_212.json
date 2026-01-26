@@ -1,0 +1,1 @@
+["src/cli.rs", "src/editor.rs", "src/main.rs", "src/out.rs", "src/resolver.rs", "src/tests/audit_as_crates_io.rs", "src/tests/certify.rs", "src/tests/mod.rs", "src/tests/snapshots/cargo_vet__tests__certify__mock-simple-certify-flow.snap"]

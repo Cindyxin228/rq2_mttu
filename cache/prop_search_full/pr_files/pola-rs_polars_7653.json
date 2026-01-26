@@ -1,0 +1,1 @@
+["polars/polars-core/src/frame/groupby/mod.rs", "polars/polars-core/src/frame/groupby/perfect.rs", "polars/polars-lazy/polars-pipe/src/executors/sinks/groupby/ooc.rs", "polars/polars-lazy/polars-pipe/src/executors/sinks/groupby/ooc_state.rs"]

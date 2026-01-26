@@ -1,0 +1,1 @@
+["src/platform/windows.rs", "src/platform_impl/android/mod.rs", "src/platform_impl/linux/mod.rs", "src/platform_impl/linux/x11/mod.rs", "src/platform_impl/linux/x11/util/atom.rs", "src/platform_impl/web/stdweb/canvas.rs", "src/platform_impl/web/web_sys/canvas.rs", "src/platform_impl/web/web_sys/canvas/mouse_handler.rs", "src/platform_impl/web/web_sys/canvas/pointer_handler.rs"]

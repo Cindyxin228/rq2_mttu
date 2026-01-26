@@ -1,0 +1,1 @@
+[".github/actions/extend-space/action.yaml", ".github/workflows/test.yaml", "Cargo.lock", "flake.lock", "flake.nix", "src/scaffold/app/gitignore", "src/scaffold/app/nix.rs", "templates/custom-template/custom-template/flake.nix", "templates/ui-frameworks/svelte/web-app/ui/package.json.hbs"]

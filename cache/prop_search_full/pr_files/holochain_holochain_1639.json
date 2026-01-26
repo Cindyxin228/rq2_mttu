@@ -1,0 +1,1 @@
+["crates/release-automation/Cargo.lock", "crates/release-automation/Cargo.nix", "crates/release-automation/Cargo.toml", "crates/release-automation/crate-hashes.json", "crates/release-automation/src/lib/crate_.rs", "crates/release-automation/src/lib/release.rs"]

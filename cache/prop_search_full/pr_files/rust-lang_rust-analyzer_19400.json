@@ -1,0 +1,1 @@
+["crates/ide/src/syntax_highlighting.rs", "crates/ide/src/syntax_highlighting/format.rs", "crates/ide/src/syntax_highlighting/highlight.rs", "crates/ide/src/syntax_highlighting/test_data/highlight_issue_19357.html", "crates/ide/src/syntax_highlighting/tests.rs"]

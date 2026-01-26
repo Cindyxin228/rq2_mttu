@@ -1,0 +1,1 @@
+["compiler/rustc_typeck/src/check/upvar.rs", "src/test/ui/closures/2229_closure_analysis/migrations/precise.rs", "src/test/ui/closures/2229_closure_analysis/migrations/precise.stderr", "src/test/ui/closures/2229_closure_analysis/migrations/precise_no_migrations.rs"]

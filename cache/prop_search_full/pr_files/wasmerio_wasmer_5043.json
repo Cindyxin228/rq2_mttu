@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/config/Cargo.toml", "lib/config/src/package/mod.rs", "lib/types/Cargo.toml", "lib/types/src/module_hash.rs", "lib/wasix/Cargo.toml", "lib/wasix/src/runtime/package_loader/load_package_tree.rs", "lib/wasix/src/runtime/package_loader/mod.rs", "lib/wasix/src/runtime/package_loader/types.rs", "lib/wasix/src/runtime/resolver/inputs.rs"]

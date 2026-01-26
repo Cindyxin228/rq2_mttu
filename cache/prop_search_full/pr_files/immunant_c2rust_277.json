@@ -1,0 +1,1 @@
+["c2rust-ast-exporter/src/AstExporter.cpp", "c2rust-ast-exporter/src/ast_tags.hpp", "c2rust-transpile/src/c_ast/conversion.rs", "c2rust-transpile/src/c_ast/iterators.rs", "c2rust-transpile/src/c_ast/mod.rs", "c2rust-transpile/src/c_ast/print.rs", "c2rust-transpile/src/translator/mod.rs"]

@@ -1,0 +1,1 @@
+["benches/main.rs", "fuzz/fuzz_targets/compare_to_serde.rs", "src/errors.rs", "src/jiter.rs", "src/lib.rs", "src/number_decoder.rs", "src/parse.rs", "src/string_decoder.rs", "src/value.rs", "tests/main.rs"]

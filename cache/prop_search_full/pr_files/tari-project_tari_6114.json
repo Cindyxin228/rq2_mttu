@@ -1,0 +1,1 @@
+["base_layer/wallet/src/utxo_scanner_service/utxo_scanner_task.rs", "base_layer/wallet/tests/support/output_manager_service_mock.rs", "base_layer/wallet/tests/support/transaction_service_mock.rs"]

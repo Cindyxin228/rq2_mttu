@@ -1,0 +1,1 @@
+["aws/sdk/build.gradle.kts", "buildSrc/src/main/kotlin/aws/sdk/ServiceLoader.kt"]

@@ -1,0 +1,1 @@
+[".template.env", "Cargo.lock", "Cargo.toml", "addons/svm/Cargo.toml", "crates/txtx-cli/src/cli/runbooks/mod.rs", "crates/txtx-cli/src/serve/mod.rs", "crates/txtx-cli/src/web_ui/cloud_relayer.rs", "crates/txtx-core/Cargo.toml", "crates/txtx-core/src/lib.rs", "crates/txtx-gql/src/lib.rs", "crates/txtx-test-utils/Cargo.toml", "crates/txtx-test-utils/src/test_harness.rs"]

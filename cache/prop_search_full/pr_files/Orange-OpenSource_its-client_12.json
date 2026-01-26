@@ -1,0 +1,1 @@
+["rust/Cargo.lock", "rust/its-client/Cargo.toml", "rust/its-client/src/main.rs", "rust/libits-client/Cargo.toml", "rust/libits-client/src/analyse/configuration.rs", "rust/libits-client/src/pipeline.rs", "rust/libits-copycat/Cargo.toml"]

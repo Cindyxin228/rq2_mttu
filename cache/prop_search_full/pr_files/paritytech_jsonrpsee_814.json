@@ -1,0 +1,1 @@
+["client/http-client/src/client.rs", "client/http-client/src/lib.rs", "client/http-client/src/transport.rs", "client/transport/src/ws/mod.rs", "client/ws-client/Cargo.toml", "client/ws-client/src/lib.rs"]

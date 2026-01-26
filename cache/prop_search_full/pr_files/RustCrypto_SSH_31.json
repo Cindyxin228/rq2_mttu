@@ -1,0 +1,1 @@
+["ssh-encoding/src/decode.rs", "ssh-encoding/src/encode.rs", "ssh-encoding/src/reader.rs", "ssh-key/src/certificate.rs", "ssh-key/src/certificate/options_map.rs", "ssh-key/src/kdf.rs", "ssh-key/src/private.rs", "ssh-key/src/private/ecdsa.rs", "ssh-key/src/private/ed25519.rs", "ssh-key/src/public/ed25519.rs", "ssh-key/src/signature.rs", "ssh-key/src/sshsig.rs"]

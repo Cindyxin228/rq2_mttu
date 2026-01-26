@@ -1,0 +1,1 @@
+["fuel-core-interfaces/src/p2p.rs", "fuel-core-interfaces/src/txpool.rs", "fuel-core/src/service/modules.rs", "fuel-txpool/src/service.rs", "fuel-txpool/src/txpool.rs", "fuel-txpool/src/types.rs"]

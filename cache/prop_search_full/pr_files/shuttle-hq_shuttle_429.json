@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "plugins/Cargo.toml", "plugins/serenity/Makefile", "plugins/serenity/runtime/Cargo.toml", "plugins/serenity/runtime/README.md", "plugins/serenity/runtime/src/lib.rs", "plugins/serenity/runtime/src/main.rs", "plugins/serenity/wasm/Cargo.toml", "plugins/serenity/wasm/src/lib.rs", "shell.nix"]

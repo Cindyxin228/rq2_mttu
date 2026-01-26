@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "doc/lsd.md", "src/app.rs", "src/config_file.rs", "src/display.rs", "src/flags.rs", "src/flags/truncate_owner.rs", "src/meta/owner.rs", "tests/integration.rs"]

@@ -1,0 +1,1 @@
+[".gitignore", ".vscode/settings.json", "cli/src/main.rs", "lib/examples/query.rs", "lib/src/imdb/db.rs", "lib/src/imdb/db_binary.rs", "lib/src/imdb/mod.rs", "lib/src/imdb/service.rs", "lib/src/imdb/testdata.rs", "lib/src/imdb/title.rs", "lib/src/imdb/title_header.rs", "lib/src/utils/mod.rs", "lib/src/utils/search.rs"]

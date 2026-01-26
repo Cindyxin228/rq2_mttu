@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/common.rs", "src/draw.rs", "src/event.rs", "src/main.rs", "src/opts.rs", "src/task/default_timestamps.rs", "src/widget.rs", "src/widget/chart/mod.rs", "src/widget/chart/prices_candlestick.rs", "src/widget/chart/prices_line.rs", "src/widget/chart/volume_bar.rs", "src/widget/help.rs", "src/widget/stock.rs", "src/widget/stock_summary.rs"]

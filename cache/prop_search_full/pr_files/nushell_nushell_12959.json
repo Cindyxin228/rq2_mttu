@@ -1,0 +1,1 @@
+["crates/nu-command/src/conversions/into/string.rs", "crates/nu-command/src/filters/first.rs", "crates/nu-command/src/filters/last.rs", "crates/nu-command/src/filters/skip/skip_.rs", "crates/nu-command/src/filters/take/take_.rs", "crates/nu-protocol/src/pipeline/byte_stream.rs"]

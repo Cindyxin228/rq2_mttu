@@ -1,0 +1,1 @@
+["benches/benches/benchmarks/overall.rs", "chain/src/tests/util.rs", "network/src/network.rs", "network/src/protocols/test.rs", "resource/ckb.toml", "sync/src/relayer/tests/helper.rs", "util/app-config/src/configs/network.rs"]

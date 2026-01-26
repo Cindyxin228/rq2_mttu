@@ -1,0 +1,1 @@
+["gitoid/Cargo.toml", "gitoid/cbindgen.toml", "gitoid/src/builder.rs", "gitoid/src/error.rs", "gitoid/src/ffi/error.rs", "gitoid/src/ffi/gitoid.rs", "gitoid/src/finder.rs", "gitoid/src/gitoid.rs", "gitoid/src/hash_algorithm.rs", "gitoid/src/lib.rs", "gitoid/src/named_digest.rs", "gitoid/src/object_type.rs", "gitoid/src/tests.rs", "gitoid/test/c/test.c", "omnibor/src/lib.rs"]

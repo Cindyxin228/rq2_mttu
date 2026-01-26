@@ -1,0 +1,1 @@
+["compiler/rustc_mir/src/borrow_check/diagnostics/mutability_errors.rs", "src/test/ui/borrowck/issue-82032.rs", "src/test/ui/borrowck/issue-82032.stderr"]

@@ -1,0 +1,1 @@
+[".gitignore", ".vscode/settings.json", "Cargo.lock", "Cargo.toml", "src/arg_parser.rs", "src/database.rs", "src/main.rs", "src/utils.rs"]

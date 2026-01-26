@@ -1,0 +1,1 @@
+["bin/nanocld/specs/swagger.yaml", "bin/ncdproxy/changelog.md", "bin/ncdproxy/specs/swagger.yaml", "bin/ncdproxy/src/main.rs", "bin/ncdproxy/src/utils.rs", "crates/nanocl_stubs/src/proxy.rs", "examples/disable_logging.yml", "scripts/rust.deps.sh"]

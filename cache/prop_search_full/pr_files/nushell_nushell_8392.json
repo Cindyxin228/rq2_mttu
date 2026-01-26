@@ -1,0 +1,1 @@
+["crates/nu-command/src/default_context.rs", "crates/nu-command/src/strings/encode_decode/decode_hex.rs", "crates/nu-command/src/strings/encode_decode/encode_hex.rs", "crates/nu-command/src/strings/encode_decode/hex.rs", "crates/nu-command/src/strings/encode_decode/mod.rs"]

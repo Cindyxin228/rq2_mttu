@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "celery-codegen/src/task.rs", "dev-requirements.txt", "examples/celery_app.py", "examples/celery_app.rs", "src/app/mod.rs", "src/broker/amqp.rs", "src/broker/mod.rs"]

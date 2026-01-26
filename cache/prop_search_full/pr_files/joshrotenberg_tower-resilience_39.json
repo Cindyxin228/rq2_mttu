@@ -1,0 +1,1 @@
+["tests/bulkhead.rs", "tests/bulkhead/concurrency.rs", "tests/bulkhead/config.rs", "tests/bulkhead/mod.rs", "tests/bulkhead/permits.rs", "tests/bulkhead/timeout.rs", "tests/circuitbreaker.rs", "tests/circuitbreaker_combinations.rs", "tests/circuitbreaker_edge_cases.rs", "tests/circuitbreaker_half_open.rs", "tests/circuitbreaker_reset.rs"]

@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/src/fuzzer.rs", "libafl_frida/src/executor.rs", "libafl_frida/src/lib.rs"]

@@ -1,0 +1,1 @@
+["cargo-audit/src/auditor.rs", "cargo-audit/src/commands/audit.rs", "cargo-audit/src/commands/audit/fix.rs", "cargo-audit/src/lockfile.rs", "cargo-audit/tests/acceptance.rs", "cargo-audit/tests/support/empty/README", "rustsec/src/error.rs"]

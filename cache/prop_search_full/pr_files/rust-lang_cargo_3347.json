@@ -1,0 +1,1 @@
+["src/cargo/ops/cargo_rustc/mod.rs", "tests/bench.rs", "tests/build-lib.rs", "tests/build-script.rs", "tests/build.rs", "tests/cargo_alias_config.rs", "tests/clean.rs", "tests/cross-compile.rs", "tests/doc.rs", "tests/profiles.rs", "tests/run.rs", "tests/rustc.rs", "tests/rustdoc.rs", "tests/test.rs"]

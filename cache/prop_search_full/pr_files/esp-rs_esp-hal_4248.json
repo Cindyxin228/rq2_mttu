@@ -1,0 +1,1 @@
+["esp-hal/CHANGELOG.md", "esp-hal/src/efuse/esp32/mod.rs", "esp-hal/src/efuse/esp32c2/mod.rs", "esp-hal/src/efuse/esp32c3/mod.rs", "esp-hal/src/efuse/esp32c6/mod.rs", "esp-hal/src/efuse/esp32h2/mod.rs", "esp-hal/src/efuse/esp32s2/mod.rs", "esp-hal/src/efuse/esp32s3/mod.rs", "esp-hal/src/efuse/mod.rs", "esp-radio/src/ble/os_adapter_esp32c2.rs"]

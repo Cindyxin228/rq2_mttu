@@ -1,0 +1,1 @@
+["CHANGELOG.md", "contracts/counter/examples/deploy.rs", "cw-orch-daemon/Cargo.toml", "cw-orch-daemon/examples/daemon-capabilities.rs", "cw-orch-daemon/src/tx_resp.rs", "cw-orch-daemon/tests/common/mod.rs", "cw-orch/examples/local_daemon.rs"]

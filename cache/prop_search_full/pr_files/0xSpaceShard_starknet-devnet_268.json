@@ -1,0 +1,1 @@
+["crates/starknet-server/src/api/json_rpc/spec_reader/mod.rs", "crates/starknet-server/test_data/spec/0.5.1/edit_spec_instructions.yaml", "crates/starknet-server/test_data/spec/0.5.1/starknet_trace_api_openrpc.json", "crates/starknet/src/starknet/events.rs", "crates/starknet/src/transactions.rs", "crates/types/src/rpc/emitted_event.rs", "crates/types/src/rpc/transactions.rs"]

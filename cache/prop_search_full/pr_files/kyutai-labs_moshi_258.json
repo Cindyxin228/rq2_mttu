@@ -1,0 +1,1 @@
+["moshi/README.md", "moshi/moshi/__init__.py", "moshi/moshi/models/compression.py", "moshi/moshi/models/lm.py", "moshi/moshi/modules/conv.py", "moshi/moshi/modules/rope.py", "moshi/moshi/modules/seanet.py", "moshi/moshi/modules/streaming.py", "moshi/moshi/modules/transformer.py", "moshi/moshi/utils/compile.py", "scripts/moshi_benchmark.py", "scripts/test_missing_data.py"]

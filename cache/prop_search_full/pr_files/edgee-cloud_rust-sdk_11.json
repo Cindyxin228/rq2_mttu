@@ -1,0 +1,1 @@
+[".gitignore", "edgee.toml", "src/config.rs", "src/domains.rs", "src/entrypoints.rs", "src/logger.rs", "src/main.rs", "src/providers.rs", "src/proxy.rs", "src/proxy/cleartext.rs", "src/proxy/secure.rs"]

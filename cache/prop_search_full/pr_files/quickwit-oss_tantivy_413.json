@@ -1,0 +1,1 @@
+["src/collector/mod.rs", "src/collector/multi_collector.rs", "src/collector/top_collector.rs", "src/collector/top_field_collector.rs", "src/collector/top_score_collector.rs", "src/query/fuzzy_query.rs", "src/query/regex_query.rs", "src/query/term_query/mod.rs"]

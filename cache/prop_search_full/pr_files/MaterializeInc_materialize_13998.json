@@ -1,0 +1,1 @@
+["bin/pytest", "ci/builder/Dockerfile", "ci/nightly/pipeline.yml", "ci/plugins/cloudtest/README.md", "ci/plugins/cloudtest/hooks/command", "ci/plugins/cloudtest/hooks/pre-exit", "ci/plugins/cloudtest/plugin.yml", "misc/python/materialize/cloudtest/k8s/__init__.py"]

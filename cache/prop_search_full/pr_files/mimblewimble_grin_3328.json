@@ -1,0 +1,1 @@
+["core/src/core/pmmr/pmmr.rs", "core/tests/merkle_proof.rs", "core/tests/pmmr.rs", "store/src/prune_list.rs"]

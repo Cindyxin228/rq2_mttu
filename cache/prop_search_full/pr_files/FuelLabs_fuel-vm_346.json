@@ -1,0 +1,1 @@
+["fuel-crypto/Cargo.toml", "fuel-crypto/src/lib.rs", "fuel-crypto/src/message.rs", "fuel-crypto/src/mnemonic.rs", "fuel-crypto/src/public.rs", "fuel-crypto/src/secret.rs", "fuel-crypto/src/signature.rs", "fuel-crypto/tests/mnemonic.rs", "fuel-tx/src/transaction/id.rs", "fuel-tx/src/transaction/validity.rs", "fuel-types/src/types.rs", "fuel-vm/src/interpreter/crypto.rs"]

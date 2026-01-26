@@ -1,0 +1,1 @@
+["utoipa-swagger-ui/Cargo.toml", "utoipa-swagger-ui/build.rs", "utoipa-swagger-ui/src/actix.rs", "utoipa-swagger-ui/src/lib.rs", "utoipa-swagger-ui/src/rocket.rs"]

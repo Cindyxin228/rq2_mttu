@@ -1,0 +1,1 @@
+["crates/wasmtime/src/externals.rs", "crates/wasmtime/src/instance.rs", "crates/wasmtime/src/linker.rs", "tests/all/linker.rs"]

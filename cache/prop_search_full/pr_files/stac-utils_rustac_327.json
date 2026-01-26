@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/Cargo.toml", "core/src/asset.rs", "core/src/lib.rs", "core/src/link.rs", "core/src/mime.rs", "server/CHANGELOG.md", "server/src/api.rs", "server/src/lib.rs", "server/src/routes.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/flamegraph/svg.rs", "tests/data/flamegraph/options/font_type_cursive.svg", "tests/data/flamegraph/options/font_type_fantasy.svg", "tests/data/flamegraph/options/font_type_monospace.svg", "tests/data/flamegraph/options/font_type_sans-serif.svg", "tests/data/flamegraph/options/font_type_serif.svg", "tests/flamegraph.rs"]

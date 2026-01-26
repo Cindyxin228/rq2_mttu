@@ -1,0 +1,1 @@
+["src/addon/cors.rs", "src/addon/file_server/scoped_file_system.rs", "src/addon/file_server/template/explorer.hbs", "src/cli.rs", "src/config/file.rs", "src/utils/url_encode.rs"]

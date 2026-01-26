@@ -1,0 +1,1 @@
+["src/auth.rs", "src/core/basic_client.rs", "src/core/operation_client.rs", "src/core/testing/core_tests.rs", "src/core/testing/mod.rs", "src/error.rs"]

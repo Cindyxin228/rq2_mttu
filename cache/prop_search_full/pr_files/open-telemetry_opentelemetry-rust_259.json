@@ -1,0 +1,1 @@
+["Cargo.toml", "opentelemetry-contrib/Cargo.toml", "opentelemetry-contrib/src/datadog/mod.rs", "opentelemetry-otlp/Cargo.toml", "opentelemetry-zipkin/Cargo.toml", "opentelemetry-zipkin/src/lib.rs", "opentelemetry-zipkin/src/uploader.rs", "src/exporter/trace/mod.rs"]

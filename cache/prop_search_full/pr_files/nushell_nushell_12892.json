@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-command/src/default_context.rs", "crates/nu-command/src/system/mod.rs", "crates/nu-command/src/system/ps.rs", "crates/nu-system/Cargo.toml", "crates/nu-system/src/freebsd.rs", "crates/nu-system/src/lib.rs", "crates/nu-system/src/netbsd.rs"]

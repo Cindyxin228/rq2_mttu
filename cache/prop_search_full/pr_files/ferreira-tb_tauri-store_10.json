@@ -1,0 +1,1 @@
+[".husky/pre-commit", "Cargo.lock", "README.md", "eslint.config.js", "package.json", "packages/guest-js/README.md", "packages/guest-js/package.json", "packages/playground/package.json", "packages/playground/src-tauri/Cargo.toml", "packages/playground/src-tauri/tauri.conf.json", "packages/playground/vite.config.js", "plugin/Cargo.toml", "plugin/src/lib.rs", "pnpm-lock.yaml"]

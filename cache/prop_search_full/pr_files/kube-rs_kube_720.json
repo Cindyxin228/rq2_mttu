@@ -1,0 +1,1 @@
+["examples/dynamic_watcher.rs", "examples/event_watcher.rs", "examples/node_watcher.rs", "kube-runtime/Cargo.toml", "kube-runtime/src/observer.rs", "kube-runtime/src/utils/mod.rs", "kube-runtime/src/utils/stream_backoff.rs", "kube-runtime/src/watcher.rs", "kube/src/lib.rs"]

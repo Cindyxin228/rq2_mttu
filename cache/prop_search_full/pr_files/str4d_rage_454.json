@@ -1,0 +1,1 @@
+["age/CHANGELOG.md", "age/src/cli_common.rs", "age/src/i18n.rs", "rage/i18n/en-US/rage.ftl", "rage/i18n/es-AR/rage.ftl", "rage/i18n/it/rage.ftl", "rage/i18n/zh-CN/rage.ftl", "rage/i18n/zh-TW/rage.ftl", "rage/src/bin/rage/error.rs", "rage/src/bin/rage/main.rs", "rage/tests/cmd/rage/decrypt-missing-identities-file.toml"]

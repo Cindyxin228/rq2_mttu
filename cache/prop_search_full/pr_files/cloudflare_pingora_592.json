@@ -1,0 +1,1 @@
+[".bleep", "pingora-core/src/protocols/http/server.rs", "pingora-core/src/protocols/http/v1/server.rs", "pingora-core/src/protocols/http/v2/server.rs", "pingora-proxy/src/proxy_cache.rs", "pingora-proxy/src/proxy_trait.rs", "pingora-proxy/tests/test_upstream.rs", "pingora-proxy/tests/utils/server_utils.rs"]

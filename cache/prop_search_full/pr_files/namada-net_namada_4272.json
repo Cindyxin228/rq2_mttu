@@ -1,0 +1,1 @@
+[".changelog/unreleased/improvements/4272-disallow-derive-default-hd.md", "crates/apps_lib/src/cli/wallet.rs", "crates/wallet/src/derivation_path.rs", "crates/wallet/src/lib.rs"]

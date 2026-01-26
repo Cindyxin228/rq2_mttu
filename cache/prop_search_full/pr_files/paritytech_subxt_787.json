@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/build.rs", "cli/src/commands/mod.rs", "cli/src/commands/version.rs", "cli/src/main.rs"]

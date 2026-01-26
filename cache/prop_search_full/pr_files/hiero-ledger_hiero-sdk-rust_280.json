@@ -1,0 +1,1 @@
+["sdk/c/include/hedera.h", "sdk/rust/src/ffi/key/private/mod.rs", "sdk/rust/src/key/private_key/mod.rs", "sdk/swift/Sources/Hedera/PrivateKey.swift"]

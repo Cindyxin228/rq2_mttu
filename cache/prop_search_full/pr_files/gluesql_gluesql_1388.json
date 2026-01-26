@@ -1,0 +1,1 @@
+["Cargo.toml", "cli/src/cli.rs", "cli/src/helper.rs", "core/src/ast/query.rs", "core/src/executor/aggregate/mod.rs", "core/src/plan/expr/mod.rs", "core/src/translate/expr.rs", "rust-toolchain", "storages/csv-storage/src/lib.rs", "storages/json-storage/src/store_mut.rs", "storages/memory-storage/src/alter_table.rs", "storages/sled-storage/src/key.rs"]

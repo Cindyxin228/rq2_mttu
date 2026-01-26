@@ -1,0 +1,1 @@
+["examples/todo-list/src/migrations/m_0001_initial.rs", "flareon-cli/src/migration_generator.rs", "flareon/src/auth/db/migrations/m_0001_initial.rs", "flareon/src/db.rs", "flareon/src/db/migrations.rs", "flareon/src/db/migrations/sorter.rs", "flareon/src/lib.rs", "flareon/src/test.rs", "rustfmt.toml"]

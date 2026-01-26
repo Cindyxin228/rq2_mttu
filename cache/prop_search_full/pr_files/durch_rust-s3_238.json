@@ -1,0 +1,1 @@
+[".gitignore", "CONTRIBUTING.md", "README.md", "aws-creds/Cargo.toml", "aws-creds/src/credentials.rs", "aws-creds/src/lib.rs", "aws-region/Cargo.toml", "aws-region/src/region.rs", "s3/Cargo.toml", "s3/src/blocking.rs", "s3/src/bucket.rs", "s3/src/command.rs", "s3/src/request.rs", "s3/src/request_trait.rs", "s3/src/serde_types.rs", "s3/src/surf_request.rs", "s3/src/utils.rs"]

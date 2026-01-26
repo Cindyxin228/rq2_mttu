@@ -1,0 +1,1 @@
+["contract-tests/Cargo.toml", "contract-tests/src/bin/sse-test-api/stream_entity.rs", "eventsource-client/Cargo.toml", "eventsource-client/examples/tail.rs", "eventsource-client/src/client.rs", "eventsource-client/src/lib.rs"]

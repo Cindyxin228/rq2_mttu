@@ -1,0 +1,1 @@
+["crypto/curve25519/asm/x25519-asm-arm.S", "crypto/fipsmodule/modes/asm/aesni-gcm-x86_64.pl", "crypto/fipsmodule/modes/asm/aesv8-gcm-armv8.pl", "crypto/fipsmodule/modes/asm/ghash-x86_64.pl", "crypto/perlasm/arm-xlate.pl", "crypto/perlasm/x86_64-xlate.pl", "crypto/perlasm/x86asm.pl", "crypto/poly1305/poly1305_arm_asm.S"]

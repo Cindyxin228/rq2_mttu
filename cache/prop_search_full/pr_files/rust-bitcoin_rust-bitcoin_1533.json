@@ -1,0 +1,1 @@
+["bitcoin/src/psbt/error.rs", "bitcoin/src/psbt/map/mod.rs", "bitcoin/src/psbt/map/output.rs", "bitcoin/src/psbt/mod.rs", "bitcoin/src/psbt/serialize.rs", "bitcoin/src/taproot.rs", "bitcoin/tests/data/serde/taproot_builder_bincode", "bitcoin/tests/data/serde/taproot_spend_info_bincode", "bitcoin/tests/data/serde/taptree_bincode", "bitcoin/tests/serde.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/release_crates.yaml", "Cargo.lock", "addons/svm/core/Cargo.toml", "addons/svm/core/src/codec/idl/mod.rs", "addons/svm/types/Cargo.toml", "addons/svm/types/src/subgraph/event.rs", "addons/svm/types/src/subgraph/idl.rs", "addons/svm/types/src/subgraph/mod.rs", "addons/svm/types/src/subgraph/pda.rs", "addons/svm/types/src/subgraph/tests.rs"]

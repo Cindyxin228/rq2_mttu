@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/if_.rs", "crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/syntax_shape.rs", "src/tests/test_conditionals.rs"]

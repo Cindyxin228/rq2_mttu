@@ -1,0 +1,1 @@
+["sqlx-core/src/sqlite/options/auto_vacuum.rs", "sqlx-core/src/sqlite/options/journal_mode.rs", "sqlx-core/src/sqlite/options/locking_mode.rs", "sqlx-core/src/sqlite/options/synchronous.rs"]

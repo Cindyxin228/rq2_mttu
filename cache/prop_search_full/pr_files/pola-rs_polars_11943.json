@@ -1,0 +1,1 @@
+["crates/polars-core/src/chunked_array/random.rs", "crates/polars-plan/src/dsl/function_expr/mod.rs", "crates/polars-plan/src/dsl/function_expr/random.rs", "crates/polars-plan/src/dsl/random.rs", "py-polars/polars/dataframe/frame.py", "py-polars/polars/expr/expr.py", "py-polars/src/dataframe.rs", "py-polars/src/expr/general.rs", "py-polars/tests/unit/operations/test_random.py"]

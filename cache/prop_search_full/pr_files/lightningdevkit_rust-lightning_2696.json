@@ -1,0 +1,1 @@
+["fuzz/src/chanmon_consistency.rs", "fuzz/src/full_stack.rs", "lightning/src/chain/chaininterface.rs", "lightning/src/ln/channel.rs", "lightning/src/util/test_utils.rs"]

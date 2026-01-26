@@ -1,0 +1,1 @@
+["scripts/check_coverage.sh", "scripts/quality_check.sh", "src/error/types.rs", "src/session/manager.rs", "src/types/internal.rs", "src/types/mod.rs", "src/types/request.rs", "src/types/response.rs"]

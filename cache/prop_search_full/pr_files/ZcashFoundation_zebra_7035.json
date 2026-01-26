@@ -1,0 +1,1 @@
+["zebra-state/src/request.rs", "zebra-state/src/service/finalized_state.rs", "zebra-state/src/service/finalized_state/zebra_db/block.rs", "zebra-state/src/service/finalized_state/zebra_db/chain.rs", "zebra-state/src/service/finalized_state/zebra_db/shielded.rs", "zebra-state/src/service/non_finalized_state.rs", "zebra-state/src/service/non_finalized_state/tests/vectors.rs"]

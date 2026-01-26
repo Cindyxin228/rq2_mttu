@@ -1,0 +1,1 @@
+["deny.toml", "glommio/Cargo.toml", "glommio/src/executor/mod.rs", "glommio/src/io/directory.rs", "glommio/src/io/glommio_file.rs", "glommio/src/io/mod.rs", "glommio/src/reactor.rs", "glommio/src/sys/blocking.rs", "glommio/src/sys/uring.rs"]

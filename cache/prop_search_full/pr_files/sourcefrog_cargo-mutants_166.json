@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "NEWS.md", "book/src/filter_mutants.md", "book/src/skip_files.md", "src/main.rs", "src/options.rs", "src/snapshots/cargo_mutants__visit__test__expected_mutants_for_own_source_tree.snap", "src/visit.rs", "tests/cli/config.rs"]

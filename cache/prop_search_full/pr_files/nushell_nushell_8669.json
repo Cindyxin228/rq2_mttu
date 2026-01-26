@@ -1,0 +1,1 @@
+["crates/nu-command/src/filters/sort.rs", "crates/nu-command/src/filters/uniq_by.rs", "crates/nu-command/src/sort_utils.rs", "crates/nu-command/tests/commands/sort.rs", "crates/nu-command/tests/commands/sort_by.rs", "crates/nu-command/tests/commands/uniq.rs", "crates/nu-command/tests/commands/uniq_by.rs"]

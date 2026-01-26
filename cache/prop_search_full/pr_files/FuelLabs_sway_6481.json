@@ -1,0 +1,1 @@
+[".github/workflows/bench-lsp.yml", ".github/workflows/benchmark.yml", "Cargo.lock", "sway-lsp/Cargo.toml", "sway-lsp/README.md", "sway-lsp/benches/bench_main.rs", "sway-lsp/benches/lsp_benchmarks/compile.rs", "sway-lsp/benches/lsp_benchmarks/requests.rs", "sway-lsp/benches/lsp_benchmarks/token_map.rs"]

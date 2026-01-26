@@ -1,0 +1,1 @@
+["Cargo.lock", "src/command.rs", "src/config.rs", "tests/commands/fixtures/labels_output", "tests/commands/fixtures/mod.rs", "tests/commands/fixtures/projects_output", "tests/commands/labels.rs", "tests/commands/list.rs", "tests/commands/main.rs", "tests/commands/projects.rs", "tests/commands/setup.rs"]

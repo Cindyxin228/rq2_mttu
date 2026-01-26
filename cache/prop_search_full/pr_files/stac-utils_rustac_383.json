@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/src/args/serve.rs", "pgstac/Cargo.toml", "pgstac/src/client.rs", "pgstac/src/lib.rs", "pgstac/src/tls.rs", "server/CHANGELOG.md", "server/Cargo.toml", "server/src/backend/pgstac.rs"]

@@ -1,0 +1,1 @@
+["lib/wasix/src/runners/wasi.rs", "lib/wasix/src/runtime/package_loader/builtin_loader.rs", "lib/wasix/src/runtime/resolver/in_memory_source.rs", "lib/wasix/src/runtime/resolver/multi_source.rs", "lib/wasix/tests/runners.rs"]

@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/Cargo.toml", "libafl/src/bolts/cli.rs", "libafl/src/bolts/shmem.rs", "libafl/src/executors/inprocess.rs", "libafl/src/executors/mod.rs", "libafl/src/observers/concolic/serialization_format.rs", "libafl_frida/Cargo.toml", "libafl_frida/src/asan/asan_rt.rs", "libafl_frida/src/helper.rs", "libafl_qemu/Cargo.toml"]

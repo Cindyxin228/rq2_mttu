@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/integration_test.rs", "cli/tests/repl/help.in", "cli/tests/repl/help.out", "core/README.md", "core/src/ast.rs", "core/src/exec.rs", "core/src/lexer.rs", "core/src/parser.rs", "core/src/testutils.rs", "std/README.md", "std/src/data.rs", "std/src/help.rs", "std/src/lib.rs", "std/src/storage/cmds.rs", "std/src/storage/fs.rs"]

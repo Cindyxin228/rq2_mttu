@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "lib/Cargo.toml", "lib/src/songtag/kugou/mod.rs", "lib/src/songtag/kugou/model.rs", "lib/src/songtag/migu/mod.rs", "lib/src/songtag/migu/model.rs", "lib/src/songtag/mod.rs", "lib/src/songtag/netease/mod.rs", "lib/src/songtag/netease/model.rs", "tui/src/ui/components/tag_editor/te_table_lyric_options.rs"]

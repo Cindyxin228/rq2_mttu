@@ -1,0 +1,1 @@
+["kernel/Cargo.toml", "kernel/src/mem.rs", "loader/curve25519-dalek-loader/Cargo.toml", "services/aes/Cargo.toml", "services/dns/Cargo.toml", "services/gam/src/main.rs", "services/shellchat/Cargo.toml", "services/trng/Cargo.toml", "services/xous-ticktimer/Cargo.toml"]

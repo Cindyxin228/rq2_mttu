@@ -1,0 +1,1 @@
+["examples/firefish_streaming.rs", "examples/mastodon_streaming.rs", "examples/mastodon_unauthorized_local.rs", "examples/pleroma_streaming.rs", "src/firefish/firefish.rs", "src/friendica/friendica.rs", "src/mastodon/mastodon.rs", "src/megalodon.rs", "src/pleroma/pleroma.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/base/charstr.rs", "src/rdata/rfc1035/hinfo.rs", "src/rdata/rfc1035/minfo.rs", "src/rdata/rfc1035/mx.rs", "src/rdata/rfc1035/null.rs", "src/rdata/rfc1035/soa.rs", "src/rdata/rfc1035/txt.rs"]

@@ -1,0 +1,1 @@
+["bindings/c/Cargo.toml", "common/Cargo.toml", "consumer/Cargo.toml", "platforms/macos/Cargo.toml", "platforms/unix/Cargo.toml", "platforms/windows/Cargo.toml"]

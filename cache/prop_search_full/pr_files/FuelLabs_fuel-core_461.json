@@ -1,0 +1,1 @@
+["fuel-client/assets/schema.sdl", "fuel-client/src/client.rs", "fuel-client/src/client/schema/block.rs", "fuel-core/src/cli/run.rs", "fuel-core/src/config.rs", "fuel-core/src/schema.rs", "fuel-core/src/schema/block.rs", "fuel-tests/tests/blocks.rs"]

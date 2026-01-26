@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "packages/fuel-indexer-database/database-types/Cargo.toml", "packages/fuel-indexer-tests/components/indices/simple-wasm/simple_wasm.wasm", "packages/fuel-indexer/Cargo.toml", "packages/fuel-indexer/assets/schema.sdl", "packages/fuel-indexer/src/executor.rs", "packages/fuel-indexer/src/lib.rs", "packages/fuel-indexer/src/queries.rs"]

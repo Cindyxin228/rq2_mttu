@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/wgpu.rs", "examples/integration/src/main.rs", "wgpu/src/image/cache.rs", "wgpu/src/lib.rs", "wgpu/src/window/compositor.rs"]

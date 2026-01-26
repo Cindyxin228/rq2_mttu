@@ -1,0 +1,1 @@
+["Makefile", "ast/src/lib.rs", "ast/src/lists/mod.rs", "ast/src/lists/normalize_listop.rs", "ast/src/lists/substitute_list.rs", "mocks/list/as_overlay.socool", "mocks/list/as_overlay_fit_length.socool", "parser/src/socool.lalrpop"]

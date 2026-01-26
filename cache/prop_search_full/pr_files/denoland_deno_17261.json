@@ -1,0 +1,1 @@
+["cli/build.rs", "cli/file_fetcher.rs", "cli/tools/check.rs", "cli/tsc/diagnostics.rs", "ext/web/blob.rs", "runtime/ops/web_worker/sync_fetch.rs"]

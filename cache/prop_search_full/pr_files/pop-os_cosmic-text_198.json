@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/editor-orbclient/src/main.rs", "examples/rich-text/src/main.rs", "redoxer.sh", "src/buffer.rs", "src/edit/editor.rs", "src/edit/mod.rs", "src/edit/syntect.rs", "src/edit/vi.rs", "src/lib.rs", "src/shape.rs"]

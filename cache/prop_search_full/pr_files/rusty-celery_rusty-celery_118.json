@@ -1,0 +1,1 @@
+["CHANGELOG.md", "celery-codegen/src/task.rs", "src/app/mod.rs", "src/app/trace.rs", "src/codegen.rs", "src/error.rs", "src/lib.rs", "src/task/mod.rs", "src/task/options.rs", "src/task/signature.rs", "tests/codegen.rs"]

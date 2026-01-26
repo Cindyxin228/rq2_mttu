@@ -1,0 +1,1 @@
+["Cargo.lock", "sqlx-core/Cargo.toml", "sqlx-macros-core/Cargo.toml", "sqlx-mysql/Cargo.toml", "sqlx-postgres/Cargo.toml"]

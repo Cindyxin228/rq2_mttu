@@ -1,0 +1,1 @@
+["lib/backend-api/schema.graphql", "lib/backend-api/src/query.rs", "lib/backend-api/src/types.rs", "lib/cli/src/commands/app/deploy.rs", "lib/cli/src/commands/app/info.rs", "lib/cli/src/commands/app/logs.rs", "lib/cli/src/commands/app/purge_cache.rs", "lib/cli/src/commands/app/version/activate.rs", "lib/cli/src/types.rs"]

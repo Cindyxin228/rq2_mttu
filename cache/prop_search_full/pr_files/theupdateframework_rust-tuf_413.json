@@ -1,0 +1,1 @@
+["interop-tests/Cargo.toml", "interop-tests/src/lib.rs", "interop-tests/src/pretty.rs", "tuf/Cargo.toml", "tuf/src/crypto.rs", "tuf/src/metadata.rs", "tuf/src/pouf/pouf1/mod.rs", "tuf/src/pouf/pouf1/shims.rs", "tuf/src/repository/file_system.rs", "tuf/src/verify.rs"]

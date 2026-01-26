@@ -1,0 +1,1 @@
+["packages/sycamore-macro/src/component/mod.rs", "packages/sycamore-macro/tests/component/component-fail.rs", "packages/sycamore-macro/tests/component/component-fail.stderr", "packages/sycamore-macro/tests/component/component-pass.rs", "packages/sycamore-macro/tests/template_macro.rs", "packages/sycamore-macro/tests/ui.rs", "packages/sycamore-router-macro/tests/ui.rs"]

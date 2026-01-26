@@ -1,0 +1,1 @@
+["src/lib/ifaces/iface.rs", "src/lib/ifaces/mod.rs", "src/lib/ifaces/sriov.rs", "src/lib/lib.rs", "src/lib/netlink/bond.rs", "src/lib/netlink/bridge.rs", "src/lib/netlink/ip.rs"]

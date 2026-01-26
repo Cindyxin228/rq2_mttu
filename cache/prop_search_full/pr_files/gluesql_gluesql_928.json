@@ -1,0 +1,1 @@
+["core/src/data/row.rs", "core/src/executor/context/blend_context.rs", "core/src/executor/context/filter_context.rs", "core/src/executor/evaluate/stateless.rs", "core/src/executor/sort.rs", "core/src/executor/validate.rs"]

@@ -1,0 +1,1 @@
+["examples/k8s-echo/http-routes.yaml", "kernel/src/config/config_by_k8s.rs", "kernel/src/constants.rs", "kernel/src/functions/http_client.rs", "kernel/src/functions/http_route.rs", "kernel/src/functions/websocket.rs", "kernel/src/lib.rs", "kernel/src/plugins/context.rs", "kernel/src/plugins/filters/status.rs"]

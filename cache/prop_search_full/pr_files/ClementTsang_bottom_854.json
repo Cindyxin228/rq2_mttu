@@ -1,0 +1,1 @@
+[".cirrus.yml", ".github/workflows/build_releases.yml", ".github/workflows/deployment.yml", ".github/workflows/nightly.yml", ".markdownlint.json", "README.md", "deployment/cirrus/build.py"]

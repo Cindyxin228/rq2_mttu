@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "justfile", "src/anilist.rs", "src/anime.rs", "src/cli.rs", "src/errors.rs", "src/main.rs", "src/scraper.rs", "src/utils/macros.rs", "src/utils/mod.rs", "src/utils/range.rs", "src/utils/tui.rs"]

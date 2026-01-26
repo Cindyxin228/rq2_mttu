@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/contracts/system_artifacts/udc_2.sierra", "crates/starknet-devnet-core/src/constants.rs", "crates/starknet-devnet-core/src/starknet/mod.rs", "crates/starknet-devnet-core/src/starknet/predeployed.rs", "crates/starknet-devnet-core/src/transactions.rs", "tests/integration/test_subscription_to_events.rs"]

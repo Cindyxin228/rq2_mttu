@@ -1,0 +1,1 @@
+["api/src/http.rs", "api/src/http_endpoint_v1.rs", "src/bin/nydusd/api_server_glue.rs", "src/bin/nydusd/daemon.rs", "src/bin/nydusd/fusedev.rs"]

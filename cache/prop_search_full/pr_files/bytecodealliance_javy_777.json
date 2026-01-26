@@ -1,0 +1,1 @@
+["crates/cli/src/bytecode.rs", "crates/cli/src/codegen/dynamic.rs", "crates/cli/src/javy_quickjs_provider_v2.wasm", "crates/cli/src/js.rs", "crates/test-macros/src/lib.rs"]

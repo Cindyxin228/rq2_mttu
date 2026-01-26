@@ -1,0 +1,1 @@
+["flake.nix", "hooks/pre-push-update-docs.sh", "run-tests.sh", "src/at.rs", "tools/make-binary-release.sh", "tools/update-docs-latest-release.sh"]

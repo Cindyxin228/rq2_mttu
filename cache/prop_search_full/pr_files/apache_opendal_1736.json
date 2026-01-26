@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "bindings/java/Cargo.toml", "bindings/java/pom.xml", "bindings/java/readme.md", "bindings/java/src/lib.rs", "bindings/java/src/main/java/org/apache/opendal/Operator.java", "bindings/java/src/test/java/org/apache/opendal/operator/OperatorTest.java"]

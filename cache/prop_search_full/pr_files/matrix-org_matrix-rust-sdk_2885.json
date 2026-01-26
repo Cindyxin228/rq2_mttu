@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/matrix-sdk-indexeddb/Cargo.toml", "crates/matrix-sdk-indexeddb/src/crypto_store/migrations.rs", "crates/matrix-sdk-indexeddb/src/crypto_store/mod.rs"]

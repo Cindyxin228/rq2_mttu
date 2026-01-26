@@ -1,0 +1,1 @@
+[".github/workflows/cargo-deny.yml", ".github/workflows/deploy.yml", ".github/workflows/devskim.yml", ".github/workflows/rust-clippy.yml", ".github/workflows/rust.yml", ".github/workflows/security-audit.yml"]

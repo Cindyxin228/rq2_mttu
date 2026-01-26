@@ -1,0 +1,1 @@
+["datafusion/optimizer/src/eliminate_filter.rs", "datafusion/optimizer/src/inline_table_scan.rs", "datafusion/optimizer/src/rewrite_disjunctive_predicate.rs", "datafusion/optimizer/src/single_distinct_to_groupby.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/complete.rs", "src/complete/includescanner.rs", "src/config.rs", "src/hover.rs", "src/jump/include.rs", "src/languageserver.rs", "src/utils/findpackage/packagemac.rs", "src/utils/findpackage/packageunix.rs", "src/utils/findpackage/packagewin.rs", "src/utils/findpackage/vcpkg.rs", "src/utils/treehelper.rs"]

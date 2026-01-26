@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/cli/src/commands/run/wasi.rs", "lib/virtual-fs/Cargo.toml", "lib/virtual-fs/src/host_fs.rs", "lib/virtual-fs/src/lib.rs", "lib/virtual-fs/src/overlay_fs.rs", "lib/virtual-fs/src/scoped_directory_fs.rs", "lib/wasix/src/fs/mod.rs", "lib/wasix/src/runners/wasi_common.rs", "tests/lib/wast/src/wasi_wast.rs"]

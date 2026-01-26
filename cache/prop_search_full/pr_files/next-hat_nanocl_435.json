@@ -1,0 +1,1 @@
+["Cargo.lock", "bin/nanocl/changelog.md", "bin/nanocl/src/commands/vm.rs", "bin/nanocld/src/services/vm.rs", "bin/nanocld/src/utils/vm.rs", "bin/ncproxy/src/utils.rs", "crates/nanocld_client/src/http_client.rs", "crates/nanocld_client/src/vm.rs", "docker-compose.yaml", "examples/vm_example.yml"]

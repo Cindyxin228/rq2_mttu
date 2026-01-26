@@ -1,0 +1,1 @@
+[".devcontainer/Dockerfile", ".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "audio/Cargo.toml", "connect/Cargo.toml", "contrib/Dockerfile", "core/Cargo.toml", "discovery/Cargo.toml", "metadata/Cargo.toml", "playback/Cargo.toml", "protocol/Cargo.toml"]

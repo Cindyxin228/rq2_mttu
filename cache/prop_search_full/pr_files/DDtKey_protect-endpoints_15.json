@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "examples/base_example.rs", "examples/jwt-httpauth/Cargo.toml", "proc-macro/Cargo.toml", "proc-macro/src/expand.rs", "proc-macro/src/lib.rs", "src/lib.rs", "src/middleware.rs", "tests/permissions_check/guard_check.rs", "tests/permissions_check/manual_check.rs", "tests/proc_macro/different_fn_types.rs"]

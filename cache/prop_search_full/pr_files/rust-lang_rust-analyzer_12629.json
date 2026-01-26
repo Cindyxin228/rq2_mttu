@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/hir-def/src/nameres/collector.rs", "crates/hir-expand/Cargo.toml", "crates/hir-expand/src/proc_macro.rs", "crates/hir/src/diagnostics.rs", "crates/hir/src/lib.rs", "crates/ide-diagnostics/src/handlers/macro_error.rs", "crates/ide-diagnostics/src/handlers/unresolved_macro_call.rs", "crates/project-model/src/tests.rs", "crates/project-model/src/workspace.rs"]

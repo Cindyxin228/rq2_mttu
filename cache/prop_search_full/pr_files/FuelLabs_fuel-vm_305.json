@@ -1,0 +1,1 @@
+["fuel-asm/src/opcode/consts.rs", "fuel-crypto/src/signature.rs", "fuel-tx/src/checked_transaction.rs", "fuel-tx/src/contract.rs", "fuel-tx/src/transaction.rs", "fuel-tx/src/transaction/checkable.rs", "fuel-tx/src/transaction/types/mint.rs", "fuel-types/src/types.rs", "fuel-vm/src/call.rs"]

@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "cargo-crev/Cargo.toml", "cargo-crev/src/deps.rs", "cargo-crev/src/deps/scan.rs", "cargo-crev/src/main.rs", "cargo-crev/src/repo.rs", "cargo-crev/src/shared.rs", "ci/travis-musl-openssl.sh", "crev-data/Cargo.toml", "crev-lib/Cargo.toml", "crev-lib/src/local.rs"]

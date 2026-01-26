@@ -1,0 +1,1 @@
+["core/runtime.rs", "serde_v8/de.rs", "serde_v8/error.rs", "serde_v8/lib.rs", "serde_v8/magic/detached_buffer.rs", "serde_v8/magic/mod.rs", "serde_v8/magic/zero_copy_buf.rs", "serde_v8/ser.rs"]

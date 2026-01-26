@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", ".github/workflows/test.yaml", "examples/memory.rs", "examples/table.rs", "lib/compiler-llvm/src/config.rs", "lib/compiler-llvm/src/object_file.rs", "lib/compiler-llvm/src/translator/intrinsics.rs", "lib/compiler/src/engine/link.rs", "lib/types/src/compilation/relocation.rs", "tests/compilers/artifact.rs"]

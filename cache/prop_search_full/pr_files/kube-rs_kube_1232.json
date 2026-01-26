@@ -1,0 +1,1 @@
+["examples/node_watcher.rs", "examples/pod_watcher.rs", "kube-runtime/src/controller/mod.rs", "kube-runtime/src/utils/watch_ext.rs", "kube-runtime/src/watcher.rs"]

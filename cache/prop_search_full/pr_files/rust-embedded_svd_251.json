@@ -1,0 +1,1 @@
+["svd-rs/src/addressblock.rs", "svd-rs/src/cluster.rs", "svd-rs/src/cpu.rs", "svd-rs/src/device.rs", "svd-rs/src/dimelement.rs", "svd-rs/src/enumeratedvalue.rs", "svd-rs/src/enumeratedvalues.rs", "svd-rs/src/field.rs", "svd-rs/src/interrupt.rs", "svd-rs/src/peripheral.rs", "svd-rs/src/register.rs", "svd-rs/src/registerproperties.rs"]

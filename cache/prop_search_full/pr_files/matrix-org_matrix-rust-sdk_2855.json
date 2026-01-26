@@ -1,0 +1,1 @@
+["crates/matrix-sdk-base/src/sliding_sync.rs", "crates/matrix-sdk-base/src/sync.rs", "crates/matrix-sdk-ui/tests/integration/timeline/sliding_sync.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "build.rs", "include/deno/razel.ts", "src/bazel_remote_exec/gen/.gitignore", "src/bazel_remote_exec/gen/.gitkeep", "src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/custom_colors.rs", "examples/default_colors.rs", "examples/rgb_colors.rs", "examples/usage.rs", "src/config.rs", "src/lib.rs", "src/loggers/comblog.rs", "src/loggers/termlog.rs"]

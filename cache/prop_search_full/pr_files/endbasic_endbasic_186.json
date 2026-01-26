@@ -1,0 +1,1 @@
+[".github/workflows/release.sh", ".vscode/settings.json", "cli/tests/repl/help.out", "core/src/lexer.rs", "sdl/src/console.rs", "std/src/exec.rs"]

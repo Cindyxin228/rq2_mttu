@@ -1,0 +1,1 @@
+["src/fastfield/multivalued/mod.rs", "src/fastfield/multivalued/writer.rs", "src/indexer/index_writer.rs", "src/postings/mod.rs", "src/postings/postings_writer.rs", "src/postings/stacker/memory_arena.rs", "src/postings/stacker/mod.rs", "src/postings/stacker/term_hashmap.rs"]

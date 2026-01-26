@@ -1,0 +1,1 @@
+["fuel-merkle/src/binary/merkle_tree.rs", "fuel-merkle/src/sparse/hash.rs", "fuel-merkle/src/sparse/merkle_tree.rs", "fuel-merkle/src/sum/merkle_tree.rs", "fuel-vm/src/storage.rs"]

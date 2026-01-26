@@ -1,0 +1,1 @@
+["Cargo.toml", "build.rs", "examples/cancel_invoice.rs", "src/lib.rs", "vendor/invoicesrpc/invoices.proto"]

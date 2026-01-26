@@ -1,0 +1,1 @@
+["gitoid/src/builder.rs", "gitoid/src/ffi/gitoid.rs", "gitoid/src/gitoid.rs", "gitoid/src/hash_algorithm.rs", "gitoid/src/hash_ref.rs", "gitoid/src/lib.rs", "gitoid/src/object_type.rs", "gitoid/src/sealed.rs", "gitoid/src/tests.rs"]

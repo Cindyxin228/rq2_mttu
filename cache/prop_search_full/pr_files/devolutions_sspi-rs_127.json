@@ -1,0 +1,1 @@
+["ffi/src/credentials_attributes.rs", "ffi/src/sec_pkg_info.rs", "ffi/src/sec_winnt_auth_identity.rs", "ffi/src/sspi_data_types.rs", "ffi/src/utils.rs", "tools/sspi-ffi-attacker/src/types.rs"]

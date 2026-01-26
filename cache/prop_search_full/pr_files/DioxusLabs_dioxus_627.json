@@ -1,0 +1,1 @@
+["packages/autofmt/src/buffer.rs", "packages/core/Cargo.toml", "packages/core/src/template.rs", "packages/dioxus/tests/create_dom.rs", "packages/dioxus/tests/miri_stress.rs", "packages/dioxus/tests/vdom_rebuild.rs", "packages/fermi/README.md", "packages/native-core/src/state.rs", "packages/rsx/src/template.rs"]

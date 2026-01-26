@@ -1,0 +1,1 @@
+["crates/rattler-bin/src/commands/create.rs", "crates/rattler/src/install/transaction.rs", "crates/rattler_conda_types/src/repo_data/mod.rs", "crates/rattler_conda_types/src/repo_data/topological_sort.rs", "crates/rattler_repodata_gateway/src/sparse/mod.rs", "crates/rattler_solve/tests/backends.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/adc_dma_rtic.rs", "examples/i2s-audio-out-dma.rs", "examples/spi_dma.rs", "src/dma/mod.rs", "src/dma/traits.rs", "src/i2s.rs"]

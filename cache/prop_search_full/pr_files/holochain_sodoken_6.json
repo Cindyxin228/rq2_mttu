@@ -1,0 +1,1 @@
+["crates/sodoken/Cargo.toml", "crates/sodoken/src/argon2id.rs", "crates/sodoken/src/blake2b.rs", "crates/sodoken/src/box_curve25519xchacha20poly1305.rs", "crates/sodoken/src/buffer_.rs", "crates/sodoken/src/random.rs", "crates/sodoken/src/sign.rs"]

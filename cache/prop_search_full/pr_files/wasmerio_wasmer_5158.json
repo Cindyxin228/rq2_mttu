@@ -1,0 +1,1 @@
+["lib/wasix/src/syscalls/wasi/path_create_directory.rs", "tests/wasi-fyi/fs_create_dir-non_existent.rs", "tests/wasi-fyi/test_fs/fyi/fs_create_dir-non_existent.rs/.ignore"]

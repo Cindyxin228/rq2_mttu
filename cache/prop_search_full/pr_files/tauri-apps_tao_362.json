@@ -1,0 +1,1 @@
+[".changes/refactor-tray-features.md", ".github/workflows/build.yml", "Cargo.toml", "README.md", "src/lib.rs", "src/platform_impl/linux/mod.rs", "src/platform_impl/linux/system_tray.rs"]

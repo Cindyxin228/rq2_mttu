@@ -1,0 +1,1 @@
+["wgpu-core/Cargo.toml", "wgpu-core/build.rs", "wgpu-core/src/instance.rs", "wgpu-core/src/lib.rs", "wgpu-hal/src/metal/surface.rs", "wgpu-hal/src/vulkan/adapter.rs", "wgpu-hal/src/vulkan/instance.rs", "wgpu/Cargo.toml"]

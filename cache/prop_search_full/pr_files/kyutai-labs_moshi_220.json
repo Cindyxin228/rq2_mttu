@@ -1,0 +1,1 @@
+["moshi/moshi/__init__.py", "moshi/moshi/conditioners/base.py", "moshi/moshi/models/lm.py", "moshi/moshi/modules/conv.py", "moshi/moshi/quantization/core_vq.py", "moshi/moshi/utils/compile.py", "moshi/pyproject.toml", "moshi_mlx/pyproject.toml"]

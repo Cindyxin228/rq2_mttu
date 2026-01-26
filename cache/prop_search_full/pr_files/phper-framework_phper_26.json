@@ -1,0 +1,1 @@
+["README.md", "examples/hello/Cargo.toml", "examples/http-client/Cargo.toml", "examples/http-server/Cargo.toml", "examples/logging/Cargo.toml", "phper-alloc/Cargo.toml", "phper-build/Cargo.toml", "phper-macros/Cargo.toml", "phper-sys/Cargo.toml", "phper-test/Cargo.toml", "phper/Cargo.toml", "phper/src/cmd.rs", "tests/integration/Cargo.toml"]

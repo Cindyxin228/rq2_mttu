@@ -1,0 +1,1 @@
+["cli/src/main.rs", "dash/src/debug.rs", "dash/src/home.rs", "dash/src/lib.rs", "dash/src/response.rs", "dash/src/status.rs", "dash/templates/authemail.html.tera", "dash/templates/status.html.tera", "services/src/config.rs", "services/src/mqtt.rs", "services/src/printnanny_api.rs"]

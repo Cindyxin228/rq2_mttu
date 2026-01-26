@@ -1,0 +1,1 @@
+["Cargo.lock", "Makefile.toml", "golem-cli/src/clients/errors.rs", "golem-cli/src/model.rs", "golem-cli/tests/worker.rs", "golem-client/Cargo.toml", "golem-common/src/redis.rs", "golem-worker-executor-base/src/durable_host/filesystem/types.rs", "golem-worker-executor-base/src/durable_host/mod.rs"]

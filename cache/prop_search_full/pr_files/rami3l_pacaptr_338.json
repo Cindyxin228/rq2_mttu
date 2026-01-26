@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "crates/pacaptr-macros/src/test_dsl.rs", "src/exec.rs", "src/pm/conda.rs", "src/pm/xbps.rs", "xtask/src/dispatch/bump_choco.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "proto/api_v1.1.x.proto", "src/api/v1_0_x/api.rs", "src/api/v1_1_x/api.rs", "src/client/mod.rs", "src/client/tls.rs", "src/sync/client/mod.rs", "src/sync/txn/best_effort.rs", "src/sync/txn/default.rs", "src/sync/txn/mod.rs", "src/sync/txn/mutated.rs", "src/sync/txn/read_only.rs", "src/txn/mod.rs"]

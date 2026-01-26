@@ -1,0 +1,1 @@
+["web-spawn/Cargo.toml", "web-spawn/js/spawn.js", "web-spawn/js/spawn.no-bundler.js", "web-spawn/run_tests.sh", "web-spawn/src/js/script_path.js", "web-spawn/src/js/spawner.js", "web-spawn/src/js/worker.js", "web-spawn/src/wasm.rs", "web-spawn/src/wasm/spawner.rs", "web-spawn/src/wasm/utils.rs", "web-spawn/src/wasm/worker.rs"]

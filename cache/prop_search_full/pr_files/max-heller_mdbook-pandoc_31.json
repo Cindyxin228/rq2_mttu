@@ -1,0 +1,1 @@
+["scripts/install-ci-deps", "src/snapshots/mdbook_pandoc__tests__cargo_book.snap", "src/snapshots/mdbook_pandoc__tests__rust_book.snap", "src/snapshots/mdbook_pandoc__tests__rust_embedded.snap", "src/snapshots/mdbook_pandoc__tests__rust_reference.snap"]

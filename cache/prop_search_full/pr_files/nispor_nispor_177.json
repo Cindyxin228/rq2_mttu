@@ -1,0 +1,1 @@
+["src/cli/examples/veth1_add_dynamic_ip.yml", "src/cli/examples/veth1_add_static_ip.yml", "src/cli/examples/veth1_del_ip.yml", "src/lib/Cargo.toml", "src/lib/ip.rs", "src/lib/netlink/ip.rs", "src/lib/tests/ip.rs"]

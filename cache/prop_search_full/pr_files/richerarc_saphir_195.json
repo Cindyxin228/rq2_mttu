@@ -1,0 +1,1 @@
+["saphir/Cargo.toml", "saphir/src/file/middleware.rs", "saphir/src/multipart/parser.rs", "saphir/src/responder.rs", "saphir/src/server.rs", "saphir_cli/src/openapi/generate/controller_info.rs", "saphir_cli/src/openapi/generate/mod.rs"]

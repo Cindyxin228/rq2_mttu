@@ -1,0 +1,1 @@
+["examples/adaptive.rs", "examples/basic_http.rs", "examples/client_options.rs", "examples/custom_client.rs", "examples/from_stream.rs", "examples/infinite_stream.rs", "examples/memory_storage.rs", "examples/retry_middleware.rs", "examples/s3.rs", "examples/stream_progress.rs"]

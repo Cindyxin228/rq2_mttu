@@ -1,0 +1,1 @@
+["Cargo.toml", "src/async_impl/body.rs", "src/async_impl/decoder.rs", "src/async_impl/multipart.rs", "src/async_impl/request.rs", "src/async_impl/response.rs", "src/blocking/client.rs", "src/blocking/response.rs", "src/blocking/wait.rs", "src/connect.rs", "src/dns.rs", "tests/client.rs"]

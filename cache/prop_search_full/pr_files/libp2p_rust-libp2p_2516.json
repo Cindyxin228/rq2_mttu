@@ -1,0 +1,1 @@
+["core/CHANGELOG.md", "core/src/peer_record.rs", "core/src/signed_envelope.rs", "protocols/rendezvous/src/client.rs", "protocols/rendezvous/src/server.rs"]

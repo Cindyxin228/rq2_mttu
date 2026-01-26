@@ -1,0 +1,1 @@
+["nix/modules/devShells.nix", "nix/modules/holochain-crate2nix.nix", "nix/modules/holochain.nix"]

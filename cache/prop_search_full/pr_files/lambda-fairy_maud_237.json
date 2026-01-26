@@ -1,0 +1,1 @@
+["maud/tests/basic_syntax.rs", "maud/tests/control_structures.rs", "maud/tests/misc.rs", "maud/tests/splices.rs", "maud/tests/warnings/keyword-without-at.rs", "maud/tests/warnings/keyword-without-at.stderr", "maud/tests/warnings/keyword_names_without_@.rs"]

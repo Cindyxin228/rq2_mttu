@@ -1,0 +1,1 @@
+["schema/src/lib.rs", "schema/src/pow.rs", "schema/src/proto/structs.proto", "src/core/mempool.rs", "src/core/transact/tx_builder_supports.rs", "src/e2e/tx_gen.rs"]

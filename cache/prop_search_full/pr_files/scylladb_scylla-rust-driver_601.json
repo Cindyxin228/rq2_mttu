@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/custom_deserialization.rs", "scylla-cql/src/frame/response/cql_to_rust.rs", "scylla-cql/src/macros.rs"]

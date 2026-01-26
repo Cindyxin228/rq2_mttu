@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cot-cli/tests/snapshot_testing/cli/snapshots/cli__snapshot_testing__cli__completions_bash.snap", "cot/Cargo.toml", "cot/src/openapi.rs", "cot/src/router.rs", "cot/src/session/store/file.rs", "cot/tests/openapi.rs", "examples/json/Cargo.toml"]

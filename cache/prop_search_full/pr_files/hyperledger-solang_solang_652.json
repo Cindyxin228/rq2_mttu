@@ -1,0 +1,1 @@
+["integration/solana/.gitignore", "integration/solana/setup.ts", "solang-parser/src/solidity.lalrpop", "tests/contract_testcases/solana/asm_reserved_words.dot", "tests/contract_testcases/solana/asm_reserved_words.sol", "tests/contract_testcases/solana/return_in_asm.dot", "tests/contract_testcases/solana/return_in_asm.sol", "vscode/src/test/suite/extension.test.ts"]

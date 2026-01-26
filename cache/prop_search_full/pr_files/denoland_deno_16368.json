@@ -1,0 +1,1 @@
+["Cargo.lock", "core/Cargo.toml", "core/bindings.rs", "ext/ffi/lib.rs", "ext/flash/lib.rs", "ext/napi/function.rs", "ops/lib.rs", "serde_v8/Cargo.toml"]

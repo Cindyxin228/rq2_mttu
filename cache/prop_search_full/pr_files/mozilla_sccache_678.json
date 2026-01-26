@@ -1,0 +1,1 @@
+["src/commands.rs", "src/compiler/c.rs", "src/compiler/rust.rs", "src/server.rs", "src/test/tests.rs", "tests/sccache_cargo.rs"]

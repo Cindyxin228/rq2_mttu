@@ -1,0 +1,1 @@
+["src/agent.rs", "src/resolver.rs", "src/transport/mod.rs", "src/transport/socks.rs", "src/transport/tcp.rs"]

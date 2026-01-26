@@ -1,0 +1,1 @@
+["datafusion/expr-common/src/signature.rs", "datafusion/expr/src/type_coercion/functions.rs", "datafusion/functions-nested/src/extract.rs", "datafusion/functions-nested/src/flatten.rs"]

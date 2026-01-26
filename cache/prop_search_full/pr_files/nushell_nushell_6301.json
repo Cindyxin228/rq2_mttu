@@ -1,0 +1,1 @@
+["crates/nu-command/src/core_commands/overlay/add.rs", "crates/nu-parser/src/errors.rs", "crates/nu-parser/src/parse_keywords.rs", "crates/nu-protocol/src/engine/engine_state.rs", "crates/nu-protocol/src/engine/overlay.rs", "tests/overlays/mod.rs"]

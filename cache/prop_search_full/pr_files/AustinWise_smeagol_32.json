@@ -1,0 +1,1 @@
+[".cargo/config", ".github/workflows/release.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "build.rs", "src/error.rs", "src/main.rs", "src/page.rs", "src/repository.rs", "src/requests.rs", "src/settings.rs", "src/templates.rs", "src/wiki.rs", "templates/edit_page.html", "templates/layout.html"]

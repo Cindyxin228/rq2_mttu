@@ -1,0 +1,1 @@
+[".craft.yml", "Cargo.toml", "cabi/Cargo.lock", "cabi/include/symbolic.h", "debuginfo/Cargo.toml", "debuginfo/src/pdb.rs", "debuginfo/tests/snapshots/test_objects__pdb_functions.snap", "demangle/Cargo.toml", "minidump/Cargo.toml", "unreal/Cargo.toml", "unreal/src/container.rs"]

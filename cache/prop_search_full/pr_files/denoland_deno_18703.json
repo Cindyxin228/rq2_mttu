@@ -1,0 +1,1 @@
+["cli/tests/node_compat/config.json", "cli/tests/node_compat/test/parallel/test-crypto-update-encoding.js", "cli/tests/unit_node/crypto_sign_test.ts", "ext/node/crypto/mod.rs", "ext/node/lib.rs", "ext/node/polyfills/internal/crypto/sig.ts"]

@@ -1,0 +1,1 @@
+["src/linux/vcpu.rs", "src/macos/aarch64/vcpu.rs", "src/macos/x86_64/vcpu.rs", "src/vm.rs"]

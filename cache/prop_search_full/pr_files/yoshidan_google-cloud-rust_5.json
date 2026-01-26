@@ -1,0 +1,1 @@
+["auth/Cargo.toml", "gax/Cargo.toml", "googleapis/Cargo.toml", "metadata/Cargo.toml", "spanner/Cargo.toml", "spanner/README.md", "spanner/src/client.rs", "spanner/src/lib.rs", "spanner/src/statement.rs"]

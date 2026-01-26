@@ -1,0 +1,1 @@
+["kernel/src/expressions/scalars.rs", "kernel/src/scan/mod.rs", "kernel/src/table_changes/mod.rs", "kernel/src/table_changes/physical_to_logical.rs", "kernel/src/table_changes/scan.rs"]

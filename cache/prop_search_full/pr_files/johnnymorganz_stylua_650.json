@@ -1,0 +1,1 @@
+["src/cli/main.rs", "src/cli/output_diff.rs", "src/formatters/assignment.rs", "src/formatters/expression.rs", "src/formatters/table.rs", "src/formatters/trivia_util.rs", "src/lib.rs", "src/shape.rs"]

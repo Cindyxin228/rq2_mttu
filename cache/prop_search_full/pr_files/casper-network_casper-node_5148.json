@@ -1,0 +1,1 @@
+["resources/local/chainspec.toml.in", "resources/production/chainspec.toml", "types/src/chainspec/vm_config/auction_costs.rs", "types/src/chainspec/vm_config/mint_costs.rs"]

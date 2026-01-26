@@ -1,0 +1,1 @@
+["polars/polars-io/src/avro.rs", "polars/polars-io/src/utils.rs", "py-polars/polars/internals/frame.py", "py-polars/polars/io.py", "py-polars/src/dataframe.rs", "py-polars/tests/io/test_avro.py"]

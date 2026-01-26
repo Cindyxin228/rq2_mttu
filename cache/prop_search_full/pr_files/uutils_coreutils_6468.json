@@ -1,0 +1,1 @@
+["src/uu/head/src/head.rs", "src/uu/join/src/join.rs", "src/uu/numfmt/src/numfmt.rs", "src/uu/shuf/src/shuf.rs", "src/uu/sort/src/sort.rs", "src/uu/split/src/filenames.rs", "src/uu/split/src/split.rs", "src/uu/tail/src/chunks.rs", "src/uucore/src/lib/features/sum.rs", "tests/by-util/test_shuf.rs"]

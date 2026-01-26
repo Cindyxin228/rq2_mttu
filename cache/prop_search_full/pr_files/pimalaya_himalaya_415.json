@@ -1,0 +1,1 @@
+[".gitignore", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "src/config/prelude.rs", "src/domain/email/args.rs", "src/domain/email/handlers.rs", "src/domain/tpl/handlers.rs", "src/main.rs", "src/ui/editor.rs"]

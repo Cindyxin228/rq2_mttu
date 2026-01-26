@@ -1,0 +1,1 @@
+[".deploy/local.dockerfile", ".deploy/remote.dockerfile", ".gitignore", "Cargo.lock", "Cargo.toml", "Dockerfile", "README.md", "config.ini.sample", "src/bin/chaiwala_service.rs", "src/bin/test_discord.rs", "src/bin/test_http.rs", "src/bin/test_kucoin_arbitrage.rs", "src/bin/test_ws.rs"]

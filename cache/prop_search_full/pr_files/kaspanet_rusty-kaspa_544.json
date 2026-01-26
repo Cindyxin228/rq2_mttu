@@ -1,0 +1,1 @@
+["rpc/core/src/model/message.rs", "rpc/core/src/model/tests.rs", "rpc/grpc/core/proto/rpc.proto", "rpc/grpc/core/src/convert/message.rs", "rpc/service/src/service.rs", "utils/src/sysinfo.rs"]

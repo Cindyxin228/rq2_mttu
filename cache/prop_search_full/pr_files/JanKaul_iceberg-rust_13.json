@@ -1,0 +1,1 @@
+["datafusion_iceberg/src/materialized_view.rs", "datafusion_iceberg/src/table.rs", "iceberg-rust/src/arrow/write.rs"]

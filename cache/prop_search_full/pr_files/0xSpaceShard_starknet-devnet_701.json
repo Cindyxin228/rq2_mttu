@@ -1,0 +1,1 @@
+["crates/starknet-devnet-core/src/starknet/add_l1_handler_transaction.rs", "tests/integration/common/fees.rs", "tests/integration/general_rpc_tests.rs", "tests/integration/test_gas_modification.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "supabase-wrappers-macros/Cargo.toml", "supabase-wrappers/Cargo.toml", "supabase-wrappers/src/interface.rs", "wrappers/Cargo.lock", "wrappers/Cargo.toml", "wrappers/src/fdw/bigquery_fdw/README.md", "wrappers/src/fdw/bigquery_fdw/bigquery_fdw.rs", "wrappers/src/fdw/bigquery_fdw/tests.rs"]

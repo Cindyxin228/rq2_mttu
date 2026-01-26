@@ -1,0 +1,1 @@
+["Cargo.toml", "bindings/uniffi-bindgen/Cargo.toml", "scripts/uniffi_bindgen_generate_kotlin_android.sh", "scripts/uniffi_bindgen_generate_swift.sh"]

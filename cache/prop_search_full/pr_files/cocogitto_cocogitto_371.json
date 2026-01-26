@@ -1,0 +1,1 @@
+["docs/website/guide/README.md", "src/bin/cog/main.rs", "src/command/bump/mod.rs", "src/command/bump/monorepo.rs", "src/command/bump/package.rs", "src/command/bump/standard.rs", "tests/cog_tests/bump.rs"]

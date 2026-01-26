@@ -1,0 +1,1 @@
+[".cargo/config", "src/commands/connect.rs", "src/controllers/project.rs", "src/controllers/variables.rs", "src/errors.rs", "src/gql/queries/strings/Project.graphql", "src/gql/schema.graphql"]

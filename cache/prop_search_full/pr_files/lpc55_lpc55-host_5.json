@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "Cargo.toml", "example-cfgs/example-cfg.toml", "src/bin/lpc55/cli.rs", "src/bin/lpc55/main.rs", "src/bootloader.rs", "src/bootloader/command.rs", "src/bootloader/property.rs", "src/bootloader/protocol.rs", "src/bootloader/provision.rs", "src/protected_flash.rs", "tests/test-cli.rs"]

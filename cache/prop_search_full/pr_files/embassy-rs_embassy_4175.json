@@ -1,0 +1,1 @@
+["embassy-imxrt/Cargo.toml", "embassy-imxrt/src/clocks.rs", "embassy-imxrt/src/lib.rs", "embassy-imxrt/src/time_driver.rs", "examples/mimxrt6/Cargo.toml"]

@@ -1,0 +1,1 @@
+["datafusion/proto/proto/datafusion.proto", "datafusion/proto/src/bytes/mod.rs", "datafusion/proto/src/from_proto.rs", "datafusion/proto/src/generated/pbjson.rs", "datafusion/proto/src/generated/prost.rs", "datafusion/proto/src/to_proto.rs"]

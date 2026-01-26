@@ -1,0 +1,1 @@
+["Makefile", "contract-tests/src/bin/sse-test-api/main.rs", "eventsource-client/examples/tail.rs", "eventsource-client/src/client.rs", "eventsource-client/src/error.rs", "eventsource-client/src/event_parser.rs", "eventsource-client/test-data/persistent-event-id.sse"]

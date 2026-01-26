@@ -1,0 +1,1 @@
+[".github/workflows/sqlx.yml", "Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-mysql/Cargo.toml", "sqlx-mysql/src/types/chrono.rs", "sqlx-postgres/Cargo.toml", "sqlx-sqlite/Cargo.toml"]

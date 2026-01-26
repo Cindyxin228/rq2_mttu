@@ -1,0 +1,1 @@
+["bin/nanocl/src/commands/context.rs", "bin/nanocl/src/commands/mod.rs", "bin/nanocl/src/config.rs", "bin/nanocl/src/main.rs", "bin/nanocl/src/models/context.rs", "bin/nanocl/src/models/mod.rs", "bin/nanocl/src/utils/context.rs", "bin/nanocl/src/utils/mod.rs", "bin/nanocld/specs/swagger.yaml", "examples/nanocl_context.yml"]

@@ -1,0 +1,1 @@
+[".github/workflows/build.yaml", "Cargo.lock", "Cargo.toml", "docs/git-trim.1", "docs/git-trim.man", "rust-toolchain.toml", "src/bin/build-man.rs", "src/core.rs", "src/simple_glob.rs"]

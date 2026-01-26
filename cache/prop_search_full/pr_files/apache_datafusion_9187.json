@@ -1,0 +1,1 @@
+["Cargo.toml", "benchmarks/Cargo.toml", "datafusion-examples/Cargo.toml", "datafusion/core/Cargo.toml", "datafusion/physical-expr/Cargo.toml", "datafusion/physical-plan/Cargo.toml", "datafusion/proto/Cargo.toml", "datafusion/sqllogictest/Cargo.toml", "datafusion/substrait/Cargo.toml"]

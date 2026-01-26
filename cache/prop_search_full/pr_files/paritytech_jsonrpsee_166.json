@@ -1,0 +1,1 @@
+["benches/benches.rs", "examples/subscription.rs", "examples/ws.rs", "src/client/mod.rs", "src/client/ws/client.rs", "src/client/ws/mod.rs", "src/client/ws/tests.rs", "src/client/ws/transport.rs", "src/http/mod.rs", "src/ws/tests.rs", "tests/helpers.rs", "tests/integration_tests.rs"]

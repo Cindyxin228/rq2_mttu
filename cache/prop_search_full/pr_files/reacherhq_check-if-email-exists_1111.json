@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Dockerfile", "README.md", "core/Cargo.toml", "core/src/smtp/error.rs", "core/src/smtp/mod.rs", "core/src/smtp/parser.rs", "core/src/util/input_output.rs"]

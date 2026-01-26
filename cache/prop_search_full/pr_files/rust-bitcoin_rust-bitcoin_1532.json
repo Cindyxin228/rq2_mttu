@@ -1,0 +1,1 @@
+["bitcoin/src/consensus/encode.rs", "bitcoin/src/consensus/serde.rs", "bitcoin/src/psbt/error.rs", "bitcoin/src/psbt/macros.rs", "bitcoin/src/psbt/map/global.rs", "bitcoin/src/psbt/map/input.rs", "bitcoin/src/psbt/map/output.rs", "bitcoin/src/psbt/mod.rs", "bitcoin/src/psbt/raw.rs", "bitcoin/src/psbt/serialize.rs"]

@@ -1,0 +1,1 @@
+["tools/release/01_bump_crate_versions.ts", "tools/release/02_publish_crates.ts", "tools/release/deno_workspace.ts", "tools/release/deps.ts"]

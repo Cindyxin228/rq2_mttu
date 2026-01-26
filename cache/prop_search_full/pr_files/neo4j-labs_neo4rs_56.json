@@ -1,0 +1,1 @@
+["lib/src/connection.rs", "lib/src/messages.rs", "lib/src/query.rs", "lib/src/stream.rs", "lib/src/txn.rs", "lib/src/types/integer.rs", "lib/src/types/map.rs"]

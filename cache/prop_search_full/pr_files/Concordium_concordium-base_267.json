@@ -1,0 +1,1 @@
+["concordium-contracts-common", "identity-provider-service/Cargo.lock", "idiss/Cargo.lock", "mobile_wallet/Cargo.lock", "mobile_wallet/src/lib.rs", "rust-bins/Cargo.lock", "rust-src/Cargo.lock", "smart-contracts/wasm-chain-integration/Cargo.lock", "smart-contracts/wasm-test/Cargo.lock"]

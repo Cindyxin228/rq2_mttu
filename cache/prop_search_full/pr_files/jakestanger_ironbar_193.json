@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "flake.lock", "nix/default.nix", "src/clients/system_tray.rs"]

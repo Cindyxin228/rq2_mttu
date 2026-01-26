@@ -1,0 +1,1 @@
+["cog.toml", "src/bin/cog/main.rs", "src/command/bump/mod.rs", "src/command/bump/monorepo.rs", "src/command/bump/package.rs", "src/command/bump/standard.rs", "src/settings/mod.rs", "tests/cog_tests/bump.rs", "tests/lib_tests/bump.rs"]

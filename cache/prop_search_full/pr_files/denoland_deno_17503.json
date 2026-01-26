@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "cli/Cargo.toml", "cli/args/lockfile.rs", "cli/args/mod.rs", "cli/npm/registry.rs", "cli/npm/resolution/mod.rs", "cli/tests/integration/npm_tests.rs", "lockfile/Cargo.toml", "lockfile/README.md", "lockfile/lib.rs"]

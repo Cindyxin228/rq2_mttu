@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/Cargo.toml", "vulkano-win/Cargo.toml", "vulkano/Cargo.toml", "vulkano/src/command_buffer/pool/standard.rs", "vulkano/src/descriptor/descriptor_set/fixed_size_pool.rs"]

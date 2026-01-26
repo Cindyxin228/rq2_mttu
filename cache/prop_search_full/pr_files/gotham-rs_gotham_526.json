@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/custom_service/Cargo.toml", "examples/custom_service/README.md", "examples/custom_service/src/main.rs", "gotham/src/lib.rs", "gotham/src/service/mod.rs", "gotham/src/service/trap.rs", "gotham/src/state/mod.rs"]

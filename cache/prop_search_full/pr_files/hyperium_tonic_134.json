@@ -1,0 +1,1 @@
+[".github/workflows/CI.yml", "deny.toml", "tests/included_service/Cargo.toml", "tests/same_name/Cargo.toml", "tests/wellknown/Cargo.toml", "tonic-examples/Cargo.toml", "tonic-interop/Cargo.toml"]

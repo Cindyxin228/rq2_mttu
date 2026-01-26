@@ -1,0 +1,1 @@
+["src/commands/run.rs", "src/commands/service.rs", "src/commands/shell.rs", "src/commands/variables.rs", "src/controllers/mod.rs", "src/controllers/variables.rs", "src/gql/queries/mod.rs", "src/gql/queries/strings/VariablesForPlugin.graphql", "src/gql/queries/strings/VariablesForServiceDeployment.graphql", "src/gql/schema.graphql", "src/main.rs"]

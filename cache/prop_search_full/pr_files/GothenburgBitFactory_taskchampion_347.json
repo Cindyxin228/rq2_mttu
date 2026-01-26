@@ -1,0 +1,1 @@
+["integration-tests/src/bindings_tests/task.c", "lib/src/annotation.rs", "lib/src/kv.rs", "lib/src/replica.rs", "lib/src/string.rs", "lib/src/task.rs", "lib/src/traits.rs", "lib/src/uda.rs", "lib/src/uuid.rs", "lib/taskchampion.h"]

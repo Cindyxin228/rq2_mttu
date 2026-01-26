@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "Cargo.lock", "Cargo.toml", "crates/eframe/Cargo.toml", "crates/egui-winit/Cargo.toml", "crates/egui_demo_app/Cargo.toml", "crates/egui_demo_app/src/web.rs", "crates/egui_demo_lib/Cargo.toml", "crates/egui_glow/Cargo.toml", "scripts/setup_web.sh"]

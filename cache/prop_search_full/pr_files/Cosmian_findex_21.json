@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "Cargo.lock", "src/interfaces/ffi/core/callbacks.rs", "src/interfaces/ffi/core/traits.rs", "src/interfaces/wasm_bindgen/core/types.rs"]

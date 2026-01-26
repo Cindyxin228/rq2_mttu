@@ -1,0 +1,1 @@
+["examples/password_login/src/main.rs", "ricq/Cargo.toml", "ricq/src/client/api/group.rs", "ricq/src/client/api/mod.rs", "ricq/src/client/highway/net.rs", "ricq/src/client/mod.rs", "ricq/src/client/net.rs", "ricq/src/client/processor/message_svc.rs", "ricq/src/client/processor/online_push.rs", "ricq/src/client/tcp.rs"]

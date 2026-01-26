@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".gitignore", "Cargo.toml", "src/bundle/common.rs", "src/bundle/ios_bundle.rs", "src/bundle/linux/common.rs", "src/bundle/linux/deb_bundle.rs", "src/bundle/msi_bundle.rs", "src/bundle/osx_bundle.rs", "src/bundle/settings.rs", "src/main.rs"]

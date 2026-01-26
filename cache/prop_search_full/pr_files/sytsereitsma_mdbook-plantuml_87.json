@@ -1,0 +1,1 @@
+[".clippy.toml", ".github/workflows/CI.yml", "Cargo.lock", "Cargo.toml", "src/backend/factory.rs", "src/backend/server.rs", "src/backend/shell.rs", "src/base64.rs", "src/dir_cleaner.rs", "src/lib.rs", "src/pipeline.rs", "src/renderer.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "generate-protocol.sh", "src/client.rs", "src/commands.rs", "src/compiler/compiler.rs", "src/errors.rs", "src/main.rs", "src/mock_command.rs", "src/protocol.rs", "src/server.rs", "src/simples3/credential.rs", "src/test/system.rs", "src/test/tests.rs", "src/test/utils.rs"]

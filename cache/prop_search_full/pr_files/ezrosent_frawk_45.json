@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bytecode.rs", "src/codegen/intrinsics.rs", "src/codegen/mod.rs", "src/dataflow.rs", "src/harness.rs", "src/interp.rs", "src/runtime/str_impl.rs", "tests/misc.rs", "tests/nawk_p.rs"]

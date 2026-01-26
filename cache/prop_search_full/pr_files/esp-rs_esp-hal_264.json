@@ -1,0 +1,1 @@
+["esp-hal-common/build.rs", "esp-hal-common/src/analog/mod.rs", "esp-hal-common/src/dma/mod.rs", "esp-hal-common/src/embassy.rs", "esp-hal-common/src/i2c.rs", "esp-hal-common/src/lib.rs", "esp-hal-common/src/serial.rs", "esp-hal-common/src/system.rs", "esp-hal-common/src/timer.rs"]

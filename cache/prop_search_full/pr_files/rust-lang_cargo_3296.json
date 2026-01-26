@@ -1,0 +1,1 @@
+["src/bin/cargo.rs", "src/bin/check.rs", "src/cargo/core/manifest.rs", "src/cargo/core/workspace.rs", "src/cargo/ops/cargo_clean.rs", "src/cargo/ops/cargo_compile.rs", "src/cargo/ops/cargo_rustc/context.rs", "src/cargo/ops/cargo_rustc/mod.rs", "src/cargo/util/toml.rs", "src/etc/_cargo", "src/etc/cargo.bashcomp.sh", "src/etc/man/cargo-check.1", "tests/check.rs"]

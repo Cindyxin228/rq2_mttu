@@ -1,0 +1,1 @@
+["cargo-flash/src/main.rs", "cli/src/common.rs", "cli/src/info.rs", "cli/src/main.rs", "ocd/src/probe/debug_probe.rs", "ocd/src/probe/flash/download.rs", "ocd/src/probe/flash/flasher.rs", "ocd/src/probe/flash/loader.rs", "ocd/src/target/info.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/config/generate.rs", "src/data/paths.rs", "src/data/selection.rs", "src/display_other/generic_maps.rs", "src/display_other/wrapper.rs", "src/display_versions/format.rs", "src/display_versions/wrapper.rs", "src/library/utility.rs", "src/lookup/versions.rs"]

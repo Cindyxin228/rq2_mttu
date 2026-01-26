@@ -1,0 +1,1 @@
+["cli/src/command/finalize.rs", "cli/src/command/generate_config.rs", "cli/src/command/generate_template.rs", "cli/src/command/maintenance.rs", "cli/src/command/mod.rs", "cli/src/command/run.rs", "cli/src/command/run_dev.rs", "cli/src/config.rs", "cli/src/password.rs"]

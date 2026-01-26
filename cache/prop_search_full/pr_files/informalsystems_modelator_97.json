@@ -1,0 +1,1 @@
+["modelator/src/cli/mod.rs", "modelator/src/lib.rs", "modelator/src/model/checker/apalache/mod.rs", "modelator/src/model/checker/mod.rs", "modelator/src/model/checker/tlc/mod.rs", "modelator/src/model/checker/tlc/output.rs", "modelator/src/model/language/tla/mod.rs", "modelator/src/step_runner.rs", "modelator/tests/integration/main.rs"]

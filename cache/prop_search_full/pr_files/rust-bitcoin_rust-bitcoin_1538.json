@@ -1,0 +1,1 @@
+["bitcoin/src/psbt/macros.rs", "bitcoin/src/psbt/raw.rs", "bitcoin/src/psbt/serialize.rs", "bitcoin/tests/psbt.rs"]

@@ -1,0 +1,1 @@
+["scylla/Cargo.toml", "scylla/src/transport/connection.rs", "scylla/src/transport/session.rs", "scylla/src/transport/session_builder.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/rust.yml", "gitoid/Makefile", "gitoid/cbindgen.toml", "gitoid/ctest.sh", "gitoid/src/ffi/gitoid.rs", "gitoid/src/gitoid.rs", "gitoid/src/hash_algorithm.rs", "gitoid/src/object_type.rs", "omnibor/Cargo.toml"]

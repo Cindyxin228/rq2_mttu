@@ -1,0 +1,1 @@
+["examples/monty-hall.rs", "rand_distr/src/lib.rs", "rand_distr/src/weighted_alias.rs", "rand_distr/src/weighted_tree.rs", "rand_distr/tests/pdf.rs", "src/distributions/mod.rs", "src/distributions/slice.rs", "src/distributions/weighted.rs", "src/distributions/weighted_index.rs", "src/prelude.rs", "src/seq/index.rs", "src/seq/mod.rs"]

@@ -1,0 +1,1 @@
+["src/cmd/query.rs", "src/shell.rs", "templates/bash.txt", "templates/fish.txt", "templates/nushell.txt", "templates/posix.txt", "templates/powershell.txt", "templates/xonsh.txt", "templates/zsh.txt"]

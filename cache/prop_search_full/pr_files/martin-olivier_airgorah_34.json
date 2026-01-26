@@ -1,0 +1,1 @@
+[".fpm", ".github/assets/illustration.png", ".github/workflows/CI.yml", "Cargo.lock", "Cargo.toml", "README.md", "icons/app_icon.png", "src/error.rs", "src/frontend/connections/app.rs", "src/frontend/connections/scan.rs", "src/frontend/interfaces/app.rs", "src/frontend/interfaces/deauth.rs", "src/frontend/widgets/dialog.rs", "src/globals.rs"]

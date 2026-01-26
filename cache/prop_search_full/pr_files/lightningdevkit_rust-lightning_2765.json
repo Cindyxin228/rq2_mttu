@@ -1,0 +1,1 @@
+["lightning/src/chain/chainmonitor.rs", "lightning/src/chain/channelmonitor.rs", "lightning/src/chain/onchaintx.rs", "lightning/src/chain/package.rs", "lightning/src/ln/channel.rs", "lightning/src/ln/channelmanager.rs", "lightning/src/ln/peer_handler.rs"]

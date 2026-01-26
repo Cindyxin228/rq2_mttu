@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tremor-connectors-gcp/src/gbq/writer.rs", "tremor-connectors-gcp/src/gcs.rs", "tremor-connectors-gcp/src/gcs/resumable_upload_client.rs", "tremor-connectors-gcp/src/gcs/streamer.rs"]

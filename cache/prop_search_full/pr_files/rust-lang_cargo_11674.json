@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/fingerprint.rs", "src/cargo/sources/registry/http_remote.rs", "src/cargo/sources/registry/remote.rs", "tests/testsuite/freshness.rs", "tests/testsuite/registry_auth.rs"]

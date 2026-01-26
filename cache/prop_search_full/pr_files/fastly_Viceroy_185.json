@@ -1,0 +1,1 @@
+["cli/tests/integration/common.rs", "cli/tests/integration/downstream_req.rs", "cli/tests/integration/http_semantics.rs", "cli/tests/integration/memory.rs", "cli/tests/integration/upstream.rs", "cli/tests/integration/upstream_dynamic.rs"]

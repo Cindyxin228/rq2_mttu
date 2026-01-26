@@ -1,0 +1,1 @@
+["src/core/Cargo.toml", "src/core/src/factory.rs", "src/core/src/handle.rs", "src/core/src/lib.rs", "src/render/Cargo.toml", "src/render/src/factory.rs", "src/render/src/lib.rs", "src/render/src/pso/buffer.rs", "src/render/src/pso/mod.rs", "src/render/src/pso/resource.rs", "src/render/src/pso/target.rs", "src/render/src/shade.rs"]

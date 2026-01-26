@@ -1,0 +1,1 @@
+["cli/lsp/documents.rs", "cli/lsp/language_server.rs", "cli/lsp/tsc.rs", "cli/module_loader.rs", "cli/node/mod.rs", "cli/npm/mod.rs", "cli/npm/resolution.rs", "cli/npm/resolvers/mod.rs", "cli/ops/mod.rs", "cli/proc_state.rs", "cli/standalone.rs", "cli/tools/check.rs", "cli/tools/task.rs", "cli/tools/vendor/mod.rs", "cli/tsc/mod.rs", "cli/worker.rs"]

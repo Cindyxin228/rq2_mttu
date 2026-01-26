@@ -1,0 +1,1 @@
+["columnar/src/column/dictionary_encoded.rs", "columnar/src/dynamic_column.rs", "src/aggregation/agg_req_with_accessor.rs", "src/aggregation/bucket/mod.rs", "src/aggregation/bucket/term_agg.rs", "src/aggregation/bucket/term_missing_agg.rs", "src/aggregation/intermediate_agg_result.rs", "src/aggregation/segment_agg_result.rs", "src/fastfield/readers.rs"]

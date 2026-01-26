@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/client/Cargo.toml", "crates/client/build.rs", "crates/client/src/lib.rs", "crates/runc/src/utils.rs", "crates/shim/src/args.rs", "crates/shim/src/lib.rs", "crates/shim/src/sys/mod.rs", "crates/shim/src/sys/windows/named_pipe_logger.rs", "crates/snapshots/build.rs", "rust-toolchain.toml"]

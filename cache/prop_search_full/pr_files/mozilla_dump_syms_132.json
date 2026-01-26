@@ -1,0 +1,1 @@
+["src/dumper.rs", "src/linux/elf.rs", "src/mac/macho.rs", "src/windows/pdb.rs", "src/windows/symbol.rs", "src/windows/types.rs", "src/windows/utils.rs"]

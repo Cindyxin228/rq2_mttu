@@ -1,0 +1,1 @@
+["browser/package.json", "elixir/mix.exs", "elixir/native/extism_nif/Cargo.toml", "libextism.pc", "libextism/Cargo.toml", "manifest/Cargo.toml", "node/package.json", "python/pyproject.toml", "ruby/lib/extism/version.rb", "runtime/Cargo.toml", "rust/Cargo.toml"]

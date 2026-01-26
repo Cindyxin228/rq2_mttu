@@ -1,0 +1,1 @@
+["opentelemetry/src/api/trace/mod.rs", "opentelemetry/src/api/trace/span_processor.rs", "opentelemetry/src/sdk/trace/mod.rs", "opentelemetry/src/sdk/trace/provider.rs", "opentelemetry/src/sdk/trace/span_processor.rs"]

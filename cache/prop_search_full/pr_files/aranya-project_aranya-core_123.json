@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/aranya-quic-syncer/Cargo.toml", "crates/aranya-quic-syncer/benches/quic_syncer.rs", "crates/aranya-quic-syncer/examples/quic_syncer.rs", "crates/aranya-quic-syncer/tests/test.rs", "deny.toml", "supply-chain/audits.toml", "supply-chain/config.toml", "supply-chain/imports.lock"]

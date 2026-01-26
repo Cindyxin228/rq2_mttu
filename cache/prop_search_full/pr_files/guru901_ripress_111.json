@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "scripts/test.sh", "src/app/mod.rs", "src/helpers.rs", "src/middlewares/compression.rs", "src/res/mod.rs", "src/tests/app_test.rs", "src/tests/request/mod.rs", "src/tests/request/query_param.rs", "src/tests/response/mod.rs", "src/types.rs"]

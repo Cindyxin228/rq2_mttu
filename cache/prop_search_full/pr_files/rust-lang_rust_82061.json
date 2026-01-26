@@ -1,0 +1,1 @@
+["compiler/rustc_mir/src/interpret/validity.rs", "src/test/ui/consts/issue-79690.stderr"]

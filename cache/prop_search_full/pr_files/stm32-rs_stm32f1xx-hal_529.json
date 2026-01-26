@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/can-echo.rs", "examples/can-loopback.rs", "examples/can-rtic.rs", "src/afio.rs", "src/can.rs", "src/flash.rs", "src/gpio.rs", "src/i2c.rs", "src/lib.rs", "src/rcc.rs", "src/rcc/enable.rs", "src/rtc.rs", "src/serial.rs", "src/serial/ext.rs"]

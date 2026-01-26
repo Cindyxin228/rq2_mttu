@@ -1,0 +1,1 @@
+["crates/swc_ecma_transforms_module/src/util.rs", "crates/swc_ecma_transforms_module/tests/fixture/commonjs/class-property/input.js", "crates/swc_ecma_transforms_module/tests/fixture/commonjs/class-property/output.js"]

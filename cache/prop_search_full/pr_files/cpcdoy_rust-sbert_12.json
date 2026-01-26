@@ -1,0 +1,1 @@
+[".dockerignore", "Cargo.toml", "README.md", "benches/bench_sbert.rs", "src/layers/dense.rs", "src/layers/pooling.rs", "src/lib.rs", "src/sbert.rs", "src/tokenizers/hf_tokenizers.rs", "src/tokenizers/mod.rs", "src/tokenizers/rust_tokenizers.rs", "src/tokenizers/tokenizer.rs", "tests/test_sbert.rs", "utils/Dockerfile", "utils/prepare_distilbert.py"]

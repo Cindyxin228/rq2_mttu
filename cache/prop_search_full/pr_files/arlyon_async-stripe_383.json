@@ -1,0 +1,1 @@
+["openapi/src/codegen.rs", "src/params.rs", "src/resources/generated/checkout_session.rs", "src/resources/generated/coupon.rs", "src/resources/generated/invoice.rs", "src/resources/generated/price.rs", "src/resources/generated/product.rs", "src/resources/generated/promotion_code.rs", "src/resources/generated/shipping_rate.rs", "tests/price.rs"]

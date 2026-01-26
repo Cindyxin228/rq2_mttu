@@ -1,0 +1,1 @@
+[".github/deploy_doc.sh", ".github/workflows/docs-check.yml", ".github/workflows/docs-deploy.yml", ".github/workflows/node.yml", ".github/workflows/python.yml", ".github/workflows/rust.yml"]

@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "zbus/src/lib.rs", "zbus_macros/src/lib.rs", "zbus_names/src/lib.rs", "zbus_xml/src/lib.rs", "zvariant/src/lib.rs", "zvariant_derive/src/lib.rs"]

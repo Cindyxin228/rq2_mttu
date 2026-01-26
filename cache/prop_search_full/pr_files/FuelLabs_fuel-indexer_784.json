@@ -1,0 +1,1 @@
+["deployment/charts/postgres/templates/postgres-deployment.yaml", "deployment/scripts/.env"]

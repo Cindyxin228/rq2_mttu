@@ -1,0 +1,1 @@
+[".github/workflows/min.yml", "cli/bin/cbor-diag", "src/encode/diag.rs", "src/encode/hex.rs", "src/syntax.rs", "src/syntax/tags.rs", "tests/proptest.proptest-regressions", "tests/proptest.rs", "tests/tags.rs"]

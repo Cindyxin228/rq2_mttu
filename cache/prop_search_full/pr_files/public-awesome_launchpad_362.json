@@ -1,0 +1,1 @@
+["Cargo.lock", "contracts/base-minter/Cargo.toml", "contracts/base-minter/examples/schema.rs", "contracts/base-minter/schema/query_msg.json", "contracts/base-minter/src/contract.rs", "contracts/base-minter/src/integration_tests.rs", "contracts/base-minter/src/msg.rs", "packages/sg4/Cargo.toml", "packages/sg4/src/lib.rs"]

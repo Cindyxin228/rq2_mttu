@@ -1,0 +1,1 @@
+["crates/dpapi/src/client.rs", "crates/dpapi/src/rpc/auth.rs", "ffi/build.rs", "src/lib.rs", "src/negotiate.rs"]

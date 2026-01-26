@@ -1,0 +1,1 @@
+["src/cache/mod.rs", "src/client/context.rs", "src/framework/buckets.rs", "src/framework/command.rs", "src/framework/create_group.rs", "src/framework/mod.rs", "src/gateway/shard.rs", "src/http/mod.rs", "src/http/ratelimiting.rs", "src/model/channel/message.rs", "src/model/event.rs", "src/voice/handler.rs", "src/voice/manager.rs", "src/voice/mod.rs", "src/voice/threading.rs"]

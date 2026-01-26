@@ -1,0 +1,1 @@
+["src/buildsystems/make.rs", "src/buildsystems/meson.rs", "src/debian/file_search.rs", "src/fixers.rs", "src/upstream.rs"]

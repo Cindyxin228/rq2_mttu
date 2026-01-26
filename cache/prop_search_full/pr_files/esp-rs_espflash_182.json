@@ -1,0 +1,1 @@
+["espflash/src/cli/mod.rs", "espflash/src/flash_target/esp8266.rs", "espflash/src/flash_target/ram.rs", "espflash/src/flasher.rs", "espflash/src/image_format/mod.rs", "espflash/src/lib.rs"]

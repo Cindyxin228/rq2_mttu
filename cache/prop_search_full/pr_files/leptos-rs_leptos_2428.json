@@ -1,0 +1,1 @@
+[".github/workflows/run-cargo-make-task.yml", "examples/counter_isomorphic/Cargo.toml", "examples/counter_without_macros/Cargo.toml", "examples/counters_stable/Cargo.toml", "examples/suspense_tests/Cargo.toml", "leptos/tests/ssr.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-dist/Cargo.toml", "cargo-dist/src/announce.rs", "cargo-dist/src/cargo_build.rs", "cargo-dist/src/config.rs", "cargo-dist/src/env.rs", "cargo-dist/src/errors.rs", "cargo-dist/src/generic_build.rs", "cargo-dist/src/init.rs", "cargo-dist/src/lib.rs", "cargo-dist/src/tasks.rs", "cargo-dist/src/tests/mock.rs"]

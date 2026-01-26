@@ -1,0 +1,1 @@
+["examples/rust_bindings/src/rust_bindings_formatted.rs", "packages/fuels-abigen-macro/.gitignore", "packages/fuels-core/src/code_gen/abigen/bindings/contract.rs", "packages/fuels-test-helpers/src/lib.rs", "packages/fuels-test-helpers/src/node.rs", "packages/fuels-test-helpers/src/utils.rs", "packages/fuels/tests/contracts.rs", "packages/fuels/tests/providers.rs"]

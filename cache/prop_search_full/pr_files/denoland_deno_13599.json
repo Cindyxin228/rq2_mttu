@@ -1,0 +1,1 @@
+["cli/compat/esm_resolver.rs", "cli/compat/testdata/subpath/main.js", "cli/compat/testdata/subpath/node_modules/foo/index.js", "cli/compat/testdata/subpath/node_modules/foo/package.json", "cli/compat/testdata/subpath/node_modules/foo/server.js"]

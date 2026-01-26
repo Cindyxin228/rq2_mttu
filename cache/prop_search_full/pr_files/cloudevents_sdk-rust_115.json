@@ -1,0 +1,1 @@
+["src/event/attributes.rs", "src/event/mod.rs", "src/event/types.rs", "src/event/v03/attributes.rs", "src/event/v03/builder.rs", "src/event/v03/format.rs", "src/event/v10/attributes.rs", "src/event/v10/builder.rs", "src/event/v10/format.rs", "src/message/types.rs"]

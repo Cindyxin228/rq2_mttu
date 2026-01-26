@@ -1,0 +1,1 @@
+["libsqlite3-sys/src/lib.rs", "src/blob/pos_io.rs", "src/busy.rs", "src/context.rs", "src/lib.rs", "src/limits.rs", "src/serialize.rs", "src/statement.rs", "src/types/from_sql.rs", "src/types/to_sql.rs", "src/vtab/array.rs", "src/vtab/mod.rs", "src/vtab/series.rs", "src/vtab/vtablog.rs"]

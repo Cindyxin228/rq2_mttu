@@ -1,0 +1,1 @@
+[".github/workflows/main.yml", ".github/workflows/test.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "README.md", "completions/_qrrs", "completions/_qrrs.ps1", "completions/qrrs.bash", "completions/qrrs.fish", "flake.lock", "flake.nix", "man/qrrs.1", "src/cli.rs", "src/lib.rs", "src/qrcode.rs", "tests/test_bin.rs", "tests/test_lib.rs"]

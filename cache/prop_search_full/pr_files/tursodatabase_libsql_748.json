@@ -1,0 +1,1 @@
+["Cargo.lock", "libsql-server/Cargo.toml", "libsql-server/src/replication/primary/replication_logger_wal.rs", "libsql-sys/Cargo.toml", "libsql-sys/src/lib.rs", "libsql-sys/src/wal/mod.rs", "libsql-sys/src/wal/sqlite3_wal.rs"]

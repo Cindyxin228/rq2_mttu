@@ -1,0 +1,1 @@
+["devimint/src/federation.rs", "devimint/src/tests.rs", "fedimint-cli/src/lib.rs", "fedimint-client/src/lib.rs", "fedimint-client/src/module/mod.rs", "fedimint-core/src/config.rs", "fedimint-testing/src/federation.rs", "gateway/ln-gateway/src/state_machine/mod.rs", "modules/fedimint-ln-client/src/lib.rs"]

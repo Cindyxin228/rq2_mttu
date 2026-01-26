@@ -1,0 +1,1 @@
+["examples/fsharp-api/Program.fs", "examples/fsharp-api/fsharp-api.fsproj", "examples/fsharp-cli/Program.fs", "examples/fsharp-cli/fsharp-cli.fsproj", "src/lib.rs", "src/providers/fsharp.rs", "src/providers/mod.rs", "tests/docker_run_tests.rs", "tests/generate_plan_tests.rs"]

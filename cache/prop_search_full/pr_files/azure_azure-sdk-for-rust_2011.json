@@ -1,0 +1,1 @@
+["eng/common/docgeneration/Generate-DocIndex.ps1", "eng/common/docgeneration/templates/matthews/styles/main.js", "eng/common/pipelines/templates/jobs/docindex.yml", "eng/common/scripts/copy-docs-to-blobstorage.ps1"]

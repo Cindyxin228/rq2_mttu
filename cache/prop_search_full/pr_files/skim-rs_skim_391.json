@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".github/workflows/crates.yml", ".github/workflows/publish-github.yml", ".travis.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "README.md", "install", "test/test_skim.py"]

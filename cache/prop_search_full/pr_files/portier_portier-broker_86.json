@@ -1,0 +1,1 @@
+["res/static/fragment_callback.js", "src/config.rs", "src/crypto.rs", "src/email_bridge.rs", "src/handlers/oauth2.rs", "src/main.rs", "src/oidc_bridge.rs", "tmpl/forward.mustache", "tmpl/fragment_callback.mustache"]

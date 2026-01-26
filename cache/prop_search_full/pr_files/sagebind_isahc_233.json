@@ -1,0 +1,1 @@
+["src/client.rs", "src/config/mod.rs", "src/cookies/cookie.rs", "src/cookies/interceptor.rs", "src/cookies/jar.rs", "src/cookies/mod.rs", "src/interceptor/mod.rs", "src/response.rs", "tests/cookies.rs"]

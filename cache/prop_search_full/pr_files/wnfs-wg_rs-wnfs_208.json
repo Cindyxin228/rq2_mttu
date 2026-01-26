@@ -1,0 +1,1 @@
+[".github/workflows/audit.yml", ".github/workflows/checks.yaml", "deny.toml", "wnfs-bench/Cargo.toml", "wnfs-wasm/tests/private.spec.ts", "wnfs-wasm/tests/public.spec.ts", "wnfs-wasm/tests/share.spec.ts"]

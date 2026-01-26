@@ -1,0 +1,1 @@
+["Cargo.lock", "applications/tari_app_grpc/proto/base_node.proto", "applications/tari_base_node/src/grpc/base_node_grpc_server.rs", "integration_tests/features/Mempool.feature", "integration_tests/features/support/steps.js", "integration_tests/helpers/baseNodeClient.js"]

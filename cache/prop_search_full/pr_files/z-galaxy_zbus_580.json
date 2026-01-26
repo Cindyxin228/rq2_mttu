@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "zbus/src/address/transport/mod.rs", "zbus/src/address/transport/unix.rs", "zbus/src/connection/socket/unix.rs", "zbus/src/win32.rs"]

@@ -1,0 +1,1 @@
+["atuin-server/migrations/20220426080938_history-index.sql", "atuin-server/src/database.rs"]

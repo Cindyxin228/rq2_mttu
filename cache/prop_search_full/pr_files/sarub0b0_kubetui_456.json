@@ -1,0 +1,1 @@
+["Cargo.toml", "src/event/kubernetes/pod/log/log_streamer.rs", "test/manifests/running.yaml"]

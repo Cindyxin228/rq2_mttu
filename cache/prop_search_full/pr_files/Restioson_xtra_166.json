@@ -1,0 +1,1 @@
+["src/address.rs", "src/envelope.rs", "src/inbox.rs", "src/inbox/rx.rs", "src/inbox/waiting_receiver.rs", "src/inbox/waiting_sender.rs", "src/send_future.rs"]

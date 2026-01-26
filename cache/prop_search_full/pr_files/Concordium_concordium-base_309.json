@@ -1,0 +1,1 @@
+["identity-provider-service/Cargo.lock", "idiss/Cargo.lock", "idiss/Cargo.toml", "mobile_wallet/Cargo.lock", "rust-bins/Cargo.lock", "rust-src/Cargo.lock", "rust-src/encrypted_transfers/Cargo.toml", "rust-src/id/Cargo.toml", "smart-contracts/wasm-chain-integration/Cargo.lock"]

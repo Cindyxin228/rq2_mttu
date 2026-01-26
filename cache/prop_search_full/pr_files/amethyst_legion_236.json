@@ -1,0 +1,1 @@
+["readme.md", "src/internals/insert.rs", "src/internals/permissions.rs", "src/internals/query/filter/mod.rs", "src/internals/serialize/id.rs", "src/internals/serialize/mod.rs", "src/internals/subworld.rs", "src/internals/world.rs", "src/lib.rs", "src/query.rs", "src/serialize.rs", "src/storage.rs", "src/world.rs"]

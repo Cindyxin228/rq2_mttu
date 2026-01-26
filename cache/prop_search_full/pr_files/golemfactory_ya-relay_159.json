@@ -1,0 +1,1 @@
+["client/src/registry.rs", "client/src/session_manager.rs", "client/src/session_start.rs", "client/src/virtual_layer.rs", "crates/proto/src/codec/forward.rs", "crates/proto/src/proto.rs"]

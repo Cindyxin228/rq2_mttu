@@ -1,0 +1,1 @@
+["Cargo.lock", "samply-symbols/src/shared.rs", "samply/Cargo.toml", "samply/src/linux/profiler.rs", "samply/src/mac/profiler.rs", "samply/src/main.rs", "samply/src/name.rs", "samply/src/server.rs", "samply/src/shared/mod.rs", "samply/src/shared/symbol_props.rs", "samply/src/windows/profiler.rs", "wholesym/src/config.rs", "wholesym/src/helper.rs"]

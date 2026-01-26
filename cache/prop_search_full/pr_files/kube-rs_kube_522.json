@@ -1,0 +1,1 @@
+["CHANGELOG.md", "examples/admission_controller.rs", "kube-core/Cargo.toml", "kube-core/src/admission.rs", "kube-core/src/lib.rs", "kube-core/src/object.rs", "kube-derive/src/custom_resource.rs", "kube-derive/src/lib.rs", "kube/Cargo.toml", "kube/src/api/core_methods.rs", "kube/src/api/mod.rs", "kube/src/client/discovery.rs"]

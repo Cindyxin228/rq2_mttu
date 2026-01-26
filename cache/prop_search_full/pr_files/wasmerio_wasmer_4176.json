@@ -1,0 +1,1 @@
+["lib/api/src/js/externals/table.rs", "lib/api/src/js/instance.rs", "lib/api/src/js/js_handle.rs", "lib/api/src/js/mod.rs", "lib/api/src/js/module.rs", "lib/api/src/js/store.rs", "lib/api/src/js/vm.rs", "tests/wasmer-web/src/lib.rs"]

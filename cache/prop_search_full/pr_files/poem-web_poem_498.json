@@ -1,0 +1,1 @@
+["poem-openapi-derive/src/object.rs", "poem-openapi/src/payload/xml.rs", "poem-openapi/src/payload/yaml.rs", "poem-openapi/tests/response.rs", "poem/src/test/request_builder.rs"]

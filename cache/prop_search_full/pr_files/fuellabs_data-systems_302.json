@@ -1,0 +1,1 @@
+["helm/fuel-streams-publisher/Chart.yaml", "helm/fuel-streams-publisher/templates/service.yaml", "helm/fuel-streams-publisher/templates/statefulset.yaml", "helm/fuel-streams-publisher/values.yaml"]

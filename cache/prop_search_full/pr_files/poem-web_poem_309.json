@@ -1,0 +1,1 @@
+["examples/openapi/custom-payload/Cargo.toml", "examples/openapi/custom-payload/README.md", "examples/openapi/custom-payload/data.bcs", "examples/openapi/custom-payload/src/bcs_payload.rs", "examples/openapi/custom-payload/src/main.rs", "poem-openapi/src/lib.rs", "poem-openapi/src/macros.rs"]

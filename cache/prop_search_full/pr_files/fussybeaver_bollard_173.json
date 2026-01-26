@@ -1,0 +1,1 @@
+[".circleci/config.yml", "examples/kafka.rs", "src/container.rs", "src/docker.rs", "src/image.rs", "src/network.rs", "src/read.rs", "src/system.rs", "src/uri.rs", "src/volume.rs", "tests/common/mod.rs", "tests/container_test.rs", "tests/exec_test.rs", "tests/image_test.rs", "tests/network_test.rs", "tests/version_test.rs", "tests/volume_test.rs"]

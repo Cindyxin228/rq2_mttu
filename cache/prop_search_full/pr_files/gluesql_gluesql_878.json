@@ -1,0 +1,1 @@
+["core/src/ast/query.rs", "core/src/data/table.rs", "core/src/plan/evaluable.rs", "core/src/plan/index.rs", "core/src/plan/planner.rs", "core/src/translate/query.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "e2e_tests/tests/per_provider/normal_tests/key_attributes.rs", "src/providers/tpm_provider/asym_sign.rs", "src/providers/tpm_provider/key_management.rs", "src/providers/tpm_provider/utils.rs", "tests/providers/tpm.rs"]

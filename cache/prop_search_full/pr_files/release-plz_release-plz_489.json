@@ -1,0 +1,1 @@
+["crates/cargo_utils/src/local_manifest.rs", "crates/release_plz/src/args/release_pr.rs", "crates/release_plz/src/update_checker.rs", "crates/release_plz_core/src/cargo.rs", "crates/release_plz_core/src/next_ver.rs", "crates/release_plz_core/src/release.rs", "crates/release_plz_core/src/release_pr.rs", "crates/release_plz_core/src/repo_url.rs"]

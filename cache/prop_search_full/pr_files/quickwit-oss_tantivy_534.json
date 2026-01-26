@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/common/mod.rs", "src/docset.rs", "src/postings/block_search.rs", "src/postings/compression/mod.rs", "src/postings/segment_postings.rs", "src/query/term_query/mod.rs"]

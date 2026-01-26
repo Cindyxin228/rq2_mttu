@@ -1,0 +1,1 @@
+["age/src/cli_common.rs", "age/src/scrypt.rs", "age/src/ssh/identity.rs", "age/src/ssh/recipient.rs", "age/src/x25519.rs"]

@@ -1,0 +1,1 @@
+["kube/check_golem_readiness.sh", "kube/golem-chart/templates/deployment.yaml", "kube/golem-chart/templates/ingress.yaml", "kube/golem-chart/templates/pvc.yaml", "kube/golem-chart/templates/service.yaml", "kube/golem-chart/values.yaml"]

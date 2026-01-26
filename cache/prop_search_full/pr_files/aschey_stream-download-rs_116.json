@@ -1,0 +1,1 @@
+["CONTRIBUTING.md", "Cargo.toml", "README.md", "examples/client_options.rs", "examples/custom_client.rs", "examples/retry_middleware.rs", "src/http/mod.rs", "src/http/reqwest_middleware_client.rs", "src/lib.rs", "src/source.rs", "src/storage/memory.rs"]

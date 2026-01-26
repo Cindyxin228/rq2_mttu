@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/serde.rs", "benches/serde_json.rs", "benches/single.rs", "scripts/travis-test.sh"]

@@ -1,0 +1,1 @@
+["moshi/moshi/conditioners/base.py", "moshi/moshi/models/lm.py", "moshi/moshi/models/loaders.py", "moshi/moshi/modules/transformer.py", "moshi/moshi/run_inference.py", "moshi/moshi/utils/quantize.py", "scripts/export_quantized.py", "scripts/import_lightformer.py", "scripts/update_repo.py"]

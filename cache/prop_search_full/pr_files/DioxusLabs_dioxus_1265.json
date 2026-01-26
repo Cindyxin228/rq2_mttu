@@ -1,0 +1,1 @@
+["packages/html/Cargo.toml", "packages/html/src/web_sys_bind/events.rs", "packages/web/Cargo.toml", "packages/web/src/dom.rs", "packages/web/src/hot_reload.rs", "packages/web/src/lib.rs"]

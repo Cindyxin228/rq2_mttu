@@ -1,0 +1,1 @@
+["esp-hal/CHANGELOG.md", "esp-hal/src/analog/adc/esp32.rs", "esp-hal/src/analog/adc/mod.rs", "esp-hal/src/analog/adc/riscv.rs", "esp-hal/src/analog/adc/xtensa.rs", "esp-hal/src/efuse/esp32c2/mod.rs", "esp-hal/src/sha.rs"]

@@ -1,0 +1,1 @@
+["resources/test/aliases-positions-expected.csv", "resources/test/aliases.csv", "resources/test/positions-aliases-expected.csv", "resources/test/positions.csv", "src/clitypes.rs", "src/cmd/stats.rs", "src/cmd/to.rs", "src/config.rs", "src/util.rs", "tests/test_exclude.rs", "tests/test_stats.rs", "tests/workdir.rs"]

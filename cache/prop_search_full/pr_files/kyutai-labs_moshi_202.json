@@ -1,0 +1,1 @@
+[".gitignore", "README.md", "moshi/moshi/__init__.py", "moshi/moshi/models/lm.py", "moshi/moshi/models/loaders.py", "moshi/moshi/modules/gating.py", "moshi/moshi/modules/transformer.py", "moshi/moshi/run_inference.py", "moshi/moshi/server.py", "moshi/moshi/utils/quantize.py", "moshi/pyproject.toml", "scripts/export_quantized.py"]

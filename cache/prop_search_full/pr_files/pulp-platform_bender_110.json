@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/cli.rs", "src/cmd/checkout.rs", "src/cmd/clone.rs", "src/cmd/config.rs", "src/cmd/packages.rs", "src/cmd/parents.rs", "src/cmd/path.rs", "src/cmd/script.rs", "src/cmd/sources.rs", "src/cmd/vendor.rs", "src/sess.rs"]

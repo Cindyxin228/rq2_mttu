@@ -1,0 +1,1 @@
+["near-sdk-macros/src/core_impl/info_extractor/attr_sig_info.rs", "near-sdk/compilation_tests/all.rs", "near-sdk/compilation_tests/self_forbidden_in_non_init_fn_arg.rs", "near-sdk/compilation_tests/self_forbidden_in_non_init_fn_arg.stderr", "near-sdk/compilation_tests/self_forbidden_in_non_init_fn_return.stderr"]

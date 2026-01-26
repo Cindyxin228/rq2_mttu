@@ -1,0 +1,1 @@
+["lib/cli/src/commands/mod.rs", "lib/cli/src/commands/run/mod.rs", "lib/cli/src/commands/run/wasi.rs", "lib/wasix/src/os/console/mod.rs", "lib/wasix/src/runners/mod.rs", "lib/wasix/src/runners/wasi.rs", "lib/wasix/src/runners/wasi_common.rs", "lib/wasix/src/runners/wcgi/runner.rs", "lib/wasix/src/state/builder.rs"]

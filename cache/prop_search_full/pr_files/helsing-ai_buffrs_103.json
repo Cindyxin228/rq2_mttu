@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/command.rs", "src/credentials.rs", "src/errors.rs", "src/generator.rs", "src/lib.rs", "src/lock.rs", "src/main.rs", "src/manifest.rs", "src/package.rs", "src/registry/artifactory.rs", "src/registry/local.rs", "src/registry/mod.rs"]

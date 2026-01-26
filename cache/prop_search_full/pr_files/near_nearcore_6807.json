@@ -1,0 +1,1 @@
+["chain/client/src/adversarial.rs", "chain/client/src/client_actor.rs", "chain/client/src/lib.rs", "chain/client/src/test_utils.rs", "chain/client/src/view_client.rs", "integration-tests/src/tests/network/runner.rs", "nearcore/src/lib.rs", "tools/mock_node/src/setup.rs"]

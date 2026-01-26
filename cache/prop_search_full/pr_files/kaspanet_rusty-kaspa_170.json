@@ -1,0 +1,1 @@
+["consensus/core/src/errors/pruning.rs", "consensus/src/model/stores/utxo_set.rs", "consensus/src/model/stores/virtual_state.rs", "consensus/src/pipeline/virtual_processor/processor.rs", "consensus/src/processes/pruning_proof/mod.rs", "database/src/access.rs", "indexes/utxoindex/src/index.rs", "protocol/flows/src/v5/blockrelay/handle_requests.rs"]

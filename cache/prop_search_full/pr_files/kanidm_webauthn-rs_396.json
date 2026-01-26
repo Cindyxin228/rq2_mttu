@@ -1,0 +1,1 @@
+["attestation-ca/src/lib.rs", "webauthn-authenticator-rs/src/softtoken.rs", "webauthn-rs-core/src/attestation.rs", "webauthn-rs-core/src/core.rs", "webauthn-rs-core/src/interface.rs", "webauthn-rs-core/src/internals.rs", "webauthn-rs/src/interface.rs", "webauthn-rs/src/lib.rs"]

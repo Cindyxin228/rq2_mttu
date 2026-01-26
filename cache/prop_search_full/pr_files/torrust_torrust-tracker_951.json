@@ -1,0 +1,1 @@
+["Cargo.lock", "packages/configuration/Cargo.toml", "packages/configuration/src/lib.rs", "packages/configuration/src/v2/database.rs", "packages/configuration/src/v2/mod.rs", "packages/configuration/src/v2/tracker_api.rs", "src/bootstrap/app.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "src/lib.rs", "src/wasm.rs", "src/webauthn/authenticator/mod.rs", "src/webauthn/authenticator/responses.rs", "src/webauthn/error.rs", "src/webauthn/mod.rs", "src/webauthn/proto/constants.rs", "src/webauthn/proto/raw_message.rs", "src/webauthn/proto/web_message.rs", "src/webauthn/server/mod.rs", "wasm/build.sh"]

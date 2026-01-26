@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/base.rs", "src/commands.rs", "src/keybindings.rs", "src/main.rs", "src/windows/mod.rs", "src/windows/room/chat.rs", "src/windows/room/mod.rs", "src/windows/room/scrollback.rs", "src/windows/welcome.rs", "src/worker.rs"]

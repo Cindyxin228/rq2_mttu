@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", "wrappers/Cargo.toml", "wrappers/dockerfiles/airtable/server.py", "wrappers/src/fdw/airtable_fdw/result.rs", "wrappers/src/fdw/airtable_fdw/tests.rs"]

@@ -1,0 +1,1 @@
+["packages/hurl/src/http/client.rs", "packages/hurl/src/http/cookie.rs", "packages/hurl/src/http/core.rs", "packages/hurl/src/json/mod.rs", "packages/hurl_core/src/ast/core.rs", "packages/hurl_core/src/format/html.rs", "packages/hurl_core/src/parser/base64.rs", "packages/hurl_core/src/parser/primitives.rs", "packages/hurlfmt/src/format/token.rs"]

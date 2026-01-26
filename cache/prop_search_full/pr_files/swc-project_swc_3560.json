@@ -1,0 +1,1 @@
+[".github/workflows/bot.yml", "scripts/bot/package.json", "scripts/bot/src/auto-rebase.ts", "scripts/bot/src/util/git.ts", "scripts/bot/src/util/octokit.ts", "scripts/bot/tsconfig.json", "scripts/bot/yarn.lock"]

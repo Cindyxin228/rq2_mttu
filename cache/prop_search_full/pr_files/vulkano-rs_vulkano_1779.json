@@ -1,0 +1,1 @@
+["examples/src/bin/clear_attachments.rs", "vulkano/src/command_buffer/auto.rs", "vulkano/src/command_buffer/synced/commands.rs", "vulkano/src/command_buffer/sys.rs", "vulkano/src/image/attachment.rs", "vulkano/src/render_pass/framebuffer.rs", "vulkano/src/render_pass/render_pass.rs"]

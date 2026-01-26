@@ -1,0 +1,1 @@
+["rpc-rs/Cargo.toml", "rpc-rs/codegen.toml", "rpc-rs/src/provider.rs", "rpc-rs/src/provider_main.rs", "rpc-rs/src/wasmbus_core.rs"]

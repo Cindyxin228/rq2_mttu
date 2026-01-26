@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "README.md", "examples/framework_usage/commands/checks.rs", "examples/framework_usage/commands/general.rs", "examples/manual_dispatch/main.rs", "examples/serenity_example_port/main.rs", "macros/src/modal.rs", "src/dispatch/mod.rs", "src/framework/mod.rs", "src/prefix_argument/macros.rs"]

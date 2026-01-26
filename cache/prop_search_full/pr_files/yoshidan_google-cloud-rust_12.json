@@ -1,0 +1,1 @@
+["spanner/Cargo.toml", "spanner/README.md", "spanner/src/lib.rs", "spanner/src/reader.rs", "spanner/src/transaction.rs", "spanner/tests/common.rs", "spanner/tests/transaction_rw.rs"]

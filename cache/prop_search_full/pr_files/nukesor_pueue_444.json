@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", ".github/workflows/lint.yml", ".github/workflows/test.yml", "Cargo.lock", "pueue/Cargo.toml", "pueue/src/client/display/group.rs", "pueue/src/client/display/log/local.rs", "pueue/src/client/display/log/mod.rs", "pueue/src/client/display/log/remote.rs", "pueue/src/client/display/style.rs", "pueue/src/client/display/table_builder.rs"]

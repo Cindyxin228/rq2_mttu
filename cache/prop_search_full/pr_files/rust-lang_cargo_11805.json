@@ -1,0 +1,1 @@
+["src/cargo/ops/cargo_add/mod.rs", "tests/testsuite/cargo_add/cyclic_features/in", "tests/testsuite/cargo_add/cyclic_features/mod.rs", "tests/testsuite/cargo_add/cyclic_features/out/Cargo.toml", "tests/testsuite/cargo_add/cyclic_features/stderr.log", "tests/testsuite/cargo_add/cyclic_features/stdout.log", "tests/testsuite/cargo_add/mod.rs"]

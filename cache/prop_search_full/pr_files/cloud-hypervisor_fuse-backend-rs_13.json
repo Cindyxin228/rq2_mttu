@@ -1,0 +1,1 @@
+["Cargo.toml", "src/abi/virtio_fs.rs", "src/api/filesystem.rs", "src/api/server.rs", "src/lib.rs", "src/transport/file_traits.rs", "src/transport/fusedev/mod.rs", "src/transport/mod.rs", "src/transport/virtiofs/fs_cache_req_handler.rs", "src/transport/virtiofs/mod.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/bin/solang.rs", "src/file_resolver.rs", "src/sema/diagnostics.rs", "src/sema/file.rs", "tests/ewasm.rs", "tests/imports.rs", "tests/solana.rs", "tests/solana_tests/simple.rs", "tests/substrate.rs"]

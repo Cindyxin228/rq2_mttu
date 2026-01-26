@@ -1,0 +1,1 @@
+["hal/src/peripherals/timer/common.rs", "hal/src/peripherals/timer/d11.rs", "hal/src/peripherals/timer/d5x.rs", "hal/src/timer_params.rs"]

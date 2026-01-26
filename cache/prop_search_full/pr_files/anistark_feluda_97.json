@@ -1,0 +1,1 @@
+["src/cli.rs", "src/config.rs", "src/debug.rs", "src/generate.rs", "src/languages/go.rs", "src/languages/node.rs", "src/languages/python.rs", "src/licenses.rs", "src/main.rs", "src/parser.rs", "src/reporter.rs", "src/table.rs", "src/utils.rs"]

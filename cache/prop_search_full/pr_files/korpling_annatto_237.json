@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/bin/annatto.rs", "tests/cli.rs", "tests/snapshots/cli__graph_op_info.snap", "tests/snapshots/cli__module_info.snap"]

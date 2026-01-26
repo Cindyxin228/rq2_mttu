@@ -1,0 +1,1 @@
+["core/src/data/value/error.rs", "core/src/executor/evaluate/function.rs", "docs/docs/sql-syntax/functions/math/gcd.md", "docs/docs/sql-syntax/functions/math/lcm.md", "test-suite/src/function/gcd_lcm.rs"]

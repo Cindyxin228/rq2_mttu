@@ -1,0 +1,1 @@
+["README.rst", "config.toml.dist", "src/config.rs", "src/handlers/oidc.rs", "src/lib.rs", "src/oidc_bridge.rs", "src/serde_types.in.rs", "src/store.rs", "src/store_cache.rs", "src/store_limits.rs"]

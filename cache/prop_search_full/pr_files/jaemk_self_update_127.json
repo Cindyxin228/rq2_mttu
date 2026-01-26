@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/backends/gitea.rs", "src/backends/github.rs", "src/backends/gitlab.rs", "src/backends/s3.rs", "src/update.rs"]

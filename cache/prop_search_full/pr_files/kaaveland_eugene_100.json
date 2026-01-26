@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Dockerfile", "eugene/docs/src/lint.md", "eugene/docs/src/shell_output/lint", "eugene/docs/src/shell_output/trace", "eugene/docs/src/trace.md", "eugene/src/bin/eugene.rs", "eugene/src/error.rs", "eugene/src/git.rs", "eugene/src/lib.rs", "eugene/src/script_discovery.rs"]

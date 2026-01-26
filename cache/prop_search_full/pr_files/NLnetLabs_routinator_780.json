@@ -1,0 +1,1 @@
+[".github/workflows/pkg-docker.yml", ".github/workflows/pkg.yml", "Cargo.toml", "Dockerfile", "pkg/rpm/postinst", "pkg/rpm/postuninst", "pkg/rpm/preuninst", "pkg/rpm/scriptlets.toml", "pkg/rules/cross-targets.yml", "pkg/rules/docker-images-to-build.yml", "pkg/rules/packages-to-build.yml", "pkg/rules/packages-to-test.yml", "pkg/test-scripts/test-routinator.sh"]

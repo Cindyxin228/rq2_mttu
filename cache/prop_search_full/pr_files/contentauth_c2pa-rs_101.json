@@ -1,0 +1,1 @@
+["sdk/Cargo.toml", "sdk/src/asset_handlers/c2pa_io.rs", "sdk/src/claim.rs", "sdk/src/store.rs", "sdk/src/utils/hash_utils.rs"]

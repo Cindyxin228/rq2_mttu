@@ -1,0 +1,1 @@
+["awc/Cargo.toml", "awc/src/builder.rs", "awc/src/connect.rs", "awc/src/lib.rs", "awc/src/middleware/mod.rs", "awc/src/middleware/redirect.rs", "awc/src/response.rs", "src/types/form.rs", "src/types/json.rs"]

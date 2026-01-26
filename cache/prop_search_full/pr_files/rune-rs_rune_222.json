@@ -1,0 +1,1 @@
+["crates/rune/src/ast/item_const.rs", "crates/rune/src/ast/item_fn.rs", "crates/rune/src/attrs/attributes.rs", "crates/rune/src/compiling/compile_error.rs", "crates/rune/src/diagnostics.rs", "crates/rune/src/indexing/index.rs", "crates/rune/src/worker/mod.rs", "tests/tests/test_attribute.rs"]

@@ -1,0 +1,1 @@
+["fvm/src/call_manager/default.rs", "fvm/src/executor/default.rs", "fvm/src/gas/charge.rs", "fvm/src/gas/mod.rs", "fvm/src/gas/price_list.rs", "fvm/src/syscalls/bind.rs", "fvm/src/trace/mod.rs", "testing/conformance/src/vm.rs"]

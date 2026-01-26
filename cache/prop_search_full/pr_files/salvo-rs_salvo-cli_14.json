@@ -1,0 +1,1 @@
+["src/template/src/app_error.hbs", "src/template/src/app_response.hbs", "src/template/src/dtos/user.hbs", "src/template/src/routers/demo.hbs", "src/template/src/routers/user.hbs", "src/template/src/services/user.hbs", "src/utils/create_project.rs"]

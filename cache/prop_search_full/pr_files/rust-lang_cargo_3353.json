@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.lock", "Makefile.in", "appveyor.yml", "configure", "src/ci/docker/cross/Dockerfile", "src/ci/docker/run.sh", "src/ci/run.sh", "tests/cargotest/support/mod.rs", "tests/cargotest/support/paths.rs", "tests/freshness.rs"]

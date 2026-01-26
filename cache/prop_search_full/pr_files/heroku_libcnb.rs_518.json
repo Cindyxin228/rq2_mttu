@@ -1,0 +1,1 @@
+["libcnb-data/src/build_plan.rs", "libcnb-data/src/buildpack/stack.rs", "libcnb-data/src/launch.rs", "libcnb-data/src/newtypes.rs", "libcnb-test/src/app.rs", "libcnb-test/src/pack.rs", "libcnb-test/src/test_runner.rs", "libcnb/src/error.rs", "libcnb/src/generic.rs", "libcnb/src/layer/handling.rs", "libcnb/src/layer/tests.rs", "libcnb/src/runtime.rs", "libcnb/src/sbom.rs"]

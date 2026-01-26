@@ -1,0 +1,1 @@
+["apps/kube/kilobase/README.md", "apps/kube/kilobase/configmap-sql.yaml", "apps/kube/kilobase/kustomization.yaml", "apps/kube/kilobase/namespace.yaml", "apps/kube/kilobase/postgres-cluster.yaml", "apps/kube/kilobase/secrets.yaml", "apps/kube/kilobase/service.yaml"]

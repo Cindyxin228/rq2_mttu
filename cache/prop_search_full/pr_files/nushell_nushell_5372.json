@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/src/completions/file_completions.rs", "crates/nu-cli/src/completions/mod.rs", "crates/nu-cli/tests/test_completions.rs", "tests/fixtures/completions/nushell"]

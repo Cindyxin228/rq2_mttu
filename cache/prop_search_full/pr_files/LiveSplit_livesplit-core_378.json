@@ -1,0 +1,1 @@
+["Cargo.toml", "benches/dummy_rendering.rs", "src/rendering/component/title.rs", "src/rendering/font.rs", "src/rendering/fonts/Timer.ttf", "src/rendering/glyph_cache.rs", "src/rendering/mod.rs", "tests/rendering.rs"]

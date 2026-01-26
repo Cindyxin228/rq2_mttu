@@ -1,0 +1,1 @@
+[".github/workflows/actions.yml", "client/src/spv.rs", "client/src/spv/tests.rs", "node/src/logger.rs", "p2p/src/protocol/cbfmgr.rs", "p2p/src/protocol/cbfmgr/rescan.rs", "p2p/src/protocol/filter_cache.rs", "test/src/block.rs", "wallet/src/logger.rs"]

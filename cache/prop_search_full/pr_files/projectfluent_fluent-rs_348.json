@@ -1,0 +1,1 @@
+["Cargo.toml", "Makefile.internal.toml", "fluent-bundle/Cargo.toml", "fluent-cli/Cargo.toml", "fluent-fallback/Cargo.toml", "fluent-pseudo/Cargo.toml", "fluent-resmgr/Cargo.toml", "fluent-syntax/Cargo.toml", "fluent-testing/Cargo.toml", "fluent/Cargo.toml", "intl-memoizer/Cargo.toml"]

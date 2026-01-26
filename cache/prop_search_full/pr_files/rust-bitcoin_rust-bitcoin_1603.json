@@ -1,0 +1,1 @@
+["bitcoin/src/amount.rs", "bitcoin/src/blockdata/locktime/absolute.rs", "bitcoin/src/blockdata/locktime/relative.rs", "bitcoin/src/blockdata/transaction.rs", "bitcoin/src/pow.rs"]

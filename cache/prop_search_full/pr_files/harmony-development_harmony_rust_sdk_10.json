@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".gitignore", "Cargo.lock", "examples/echo_bot.rs", "examples/message_log.rs", "shell.nix", "src/client/mod.rs"]

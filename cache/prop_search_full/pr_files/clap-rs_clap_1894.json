@@ -1,0 +1,1 @@
+[".travis.yml", "examples/01a_quick_example.rs", "examples/01b_quick_example.rs", "examples/01c_quick_example.rs", "examples/05_flag_args.rs", "examples/18_builder_macro.rs", "src/build/app/mod.rs", "src/macros.rs", "src/output/help.rs", "src/parse/arg_matcher.rs", "tests/app_settings.rs"]

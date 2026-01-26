@@ -1,0 +1,1 @@
+[".github/workflows/lock.yml", "Cargo.lock", "yazi-adaptor/Cargo.toml", "yazi-core/src/lib.rs", "yazi-core/src/manager/commands/update_files.rs", "yazi-core/src/manager/commands/update_mimetype.rs", "yazi-core/src/manager/watcher.rs"]

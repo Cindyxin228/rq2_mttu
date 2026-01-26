@@ -1,0 +1,1 @@
+["datafusion/expr/src/built_in_function.rs", "datafusion/sqllogictest/test_files/array.slt", "datafusion/sqllogictest/test_files/encoding.slt", "datafusion/sqllogictest/test_files/predicates.slt", "datafusion/sqllogictest/test_files/timestamps.slt"]

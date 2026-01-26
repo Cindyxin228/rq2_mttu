@@ -1,0 +1,1 @@
+[".github/workflows/CI.yaml", "CHANGELOG.md", "CLAUDE.md", "README.md", "flake.nix", "scripts/run-cov.sh", "scripts/run-test.sh", "src/neovim/integration_tests.rs", "src/server/integration_tests.rs"]

@@ -1,0 +1,1 @@
+["crates/fiber/src/lib.rs", "crates/wasmtime/src/memory.rs", "crates/wasmtime/src/stack.rs", "tests/all/memory_creator.rs", "tests/all/stack_creator.rs"]

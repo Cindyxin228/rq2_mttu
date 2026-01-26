@@ -1,0 +1,1 @@
+["libsql-sqlite3/src/attach.c", "libsql-sqlite3/src/main.c", "libsql-sqlite3/src/pager.c", "libsql-sqlite3/src/pragma.c", "libsql-sqlite3/src/wal.c"]

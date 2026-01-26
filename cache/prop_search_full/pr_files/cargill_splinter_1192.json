@@ -1,0 +1,1 @@
+["libsplinter/src/rest_api/auth/authorization/allow_keys.rs", "libsplinter/src/store/memory.rs", "libsplinter/src/store/mod.rs", "libsplinter/src/store/postgres.rs", "libsplinter/src/store/sqlite.rs", "splinterd/api/static/openapi.yaml"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", ".justfile", "Cargo.lock", "crates/aligned-buffer/Cargo.toml", "crates/aligned-buffer/src/bytes.rs", "crates/aligned-buffer/src/lib.rs", "crates/aligned-buffer/src/rkyv.rs"]

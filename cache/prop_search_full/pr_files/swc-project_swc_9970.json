@@ -1,0 +1,1 @@
+[".changeset/cuddly-rocks-cross.md", "crates/swc_ecma_parser/src/parser/stmt.rs", "crates/swc_ecma_parser/tests/typescript-errors/issue-1170-1/input.ts.swc-stderr", "crates/swc_ecma_parser/tests/typescript-errors/issue-1391/case1/input.ts.swc-stderr", "crates/swc_fast_ts_strip/tests/errors/invalid-syntax-1.swc-stderr", "crates/swc_fast_ts_strip/tests/errors/invalid-syntax-1.ts"]

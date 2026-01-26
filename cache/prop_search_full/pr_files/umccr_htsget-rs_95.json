@@ -1,0 +1,1 @@
+["htsget-http-actix/benches/request_benchmarks.rs", "htsget-http-core/src/error.rs", "htsget-http-core/src/http_core.rs", "htsget-search/Cargo.toml", "htsget-search/src/htsget/bam_search.rs", "htsget-search/src/htsget/bcf_search.rs", "htsget-search/src/htsget/cram_search.rs", "htsget-search/src/htsget/search.rs", "htsget-search/src/htsget/vcf_search.rs"]

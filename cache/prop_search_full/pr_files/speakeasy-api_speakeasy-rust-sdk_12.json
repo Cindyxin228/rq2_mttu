@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/actix3/src/main.rs", "src/controller.rs", "src/lib.rs", "src/masking.rs", "src/middleware.rs", "src/middleware/actix3.rs", "src/sdk.rs", "src/speakeasy_protos.rs", "src/speakeasy_protos/embedaccesstoken.rs", "src/speakeasy_protos/ingest.rs", "src/transport.rs", "testserver/Cargo.toml", "testserver/src/main.rs"]

@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "cli/src/main.rs", "examples/gameroom/cli/Cargo.toml", "examples/gameroom/cli/src/main.rs", "examples/gameroom/daemon/Cargo.toml", "examples/gameroom/daemon/src/main.rs", "services/scabbard/cli/Cargo.toml", "services/scabbard/cli/src/main.rs"]

@@ -1,0 +1,1 @@
+["zellij-server/src/panes/plugin_pane.rs", "zellij-server/src/panes/terminal_pane.rs", "zellij-server/src/tab/mod.rs", "zellij-utils/assets/prost/api.event.rs", "zellij-utils/src/data.rs", "zellij-utils/src/plugin_api/event.proto", "zellij-utils/src/plugin_api/event.rs"]

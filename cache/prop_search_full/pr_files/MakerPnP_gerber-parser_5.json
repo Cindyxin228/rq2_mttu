@@ -1,0 +1,1 @@
+["Cargo.toml", "src/error.rs", "src/gerber_doc.rs", "src/lib.rs", "src/parser.rs", "tests/component_tests.rs", "tests/reference_file_tests.rs", "tests/utils/mod.rs"]

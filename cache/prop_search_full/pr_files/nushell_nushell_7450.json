@@ -1,0 +1,1 @@
+["crates/nu-parser/src/parser.rs", "crates/nu-protocol/src/syntax_shape.rs", "crates/nu-protocol/src/ty.rs"]

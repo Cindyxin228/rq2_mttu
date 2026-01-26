@@ -1,0 +1,1 @@
+["core/src/protosext/mod.rs", "core/src/worker/workflow/machines/local_activity_state_machine.rs", "core/src/worker/workflow/machines/workflow_machines.rs", "sdk/src/workflow_context/options.rs", "tests/integ_tests/workflow_tests/local_activities.rs"]

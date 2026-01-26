@@ -1,0 +1,1 @@
+["aws-lambda-example/Cargo.toml", "aws-lambda/Cargo.toml", "channels/Cargo.toml", "client/Cargo.toml", "compression/Cargo.toml", "example/Cargo.toml", "http/Cargo.toml", "macros/Cargo.toml", "server-common/Cargo.toml", "smol/Cargo.toml", "sse/Cargo.toml", "static/Cargo.toml", "testing/Cargo.toml", "trillium/Cargo.toml", "websockets/Cargo.toml"]

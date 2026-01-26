@@ -1,0 +1,1 @@
+["fuzzers/fuzzbench_qemu/fuzz.c", "libafl_qemu/build.rs", "libafl_qemu/src/emu.rs", "libafl_qemu/src/helpers.rs", "libafl_qemu/src/hooks.rs"]

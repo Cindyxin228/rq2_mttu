@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/c-api/Cargo.toml", "lib/cli/Cargo.toml", "lib/journal/Cargo.toml", "lib/wasi-types/Cargo.toml", "lib/wasix/Cargo.toml", "tests/lib/wast/Cargo.toml"]

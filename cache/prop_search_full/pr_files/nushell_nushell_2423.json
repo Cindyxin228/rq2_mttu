@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-cli/src/commands/get.rs", "crates/nu-cli/src/commands/insert.rs", "crates/nu-cli/src/commands/move_/column.rs", "crates/nu-cli/src/commands/update.rs", "crates/nu-cli/tests/commands/insert.rs", "crates/nu-cli/tests/commands/update.rs", "crates/nu-value-ext/src/lib.rs"]

@@ -1,0 +1,1 @@
+["licensebat-cli/src/lib.rs", "licensebat-cli/src/main.rs", "licensebat-core/src/collector.rs", "licensebat-core/src/lib.rs", "licensebat-dart/src/lib.rs", "licensebat-js/src/lib.rs", "licensebat-js/src/retriever/npm.rs", "licensebat-rust/src/lib.rs", "licensebat-rust/src/retriever/crates_io.rs", "licensebat-rust/src/retriever/docs_rs.rs"]

@@ -1,0 +1,1 @@
+["make_test_images/tests.json", "sdk/Cargo.toml", "sdk/src/claim.rs", "sdk/src/cose_validator.rs", "sdk/src/manifest.rs", "sdk/src/manifest_store_report.rs", "sdk/src/store.rs", "sdk/src/validator.rs"]

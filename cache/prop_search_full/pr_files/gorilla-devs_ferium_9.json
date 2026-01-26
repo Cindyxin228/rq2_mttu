@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "makefile", "src/cli.rs", "src/error.rs", "src/main.rs", "src/util/json.rs", "src/util/launchermeta.rs", "src/util/mod.rs", "src/util/wrappers.rs", "tests/integration_tests.rs"]

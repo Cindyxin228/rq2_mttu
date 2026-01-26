@@ -1,0 +1,1 @@
+["doc/man/bupstash-list-contents.1.md", "src/client.rs", "src/fmtutil.rs", "src/fsutil.rs", "src/index.rs", "src/indexer.rs", "src/main.rs", "src/xtar.rs", "support/shell.nix"]

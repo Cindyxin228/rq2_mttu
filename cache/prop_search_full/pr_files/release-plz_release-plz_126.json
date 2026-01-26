@@ -1,0 +1,1 @@
+["Cargo.lock", "README.md", "crates/release_plz/Cargo.toml", "crates/release_plz/src/args/update.rs", "crates/release_plz_core/src/changelog.rs", "crates/release_plz_core/src/next_ver.rs", "crates/release_plz_core/tests/all/helpers/comparison_test.rs"]

@@ -1,0 +1,1 @@
+["locustdb-client/src/client.rs", "locustdb-serialization/Cargo.lock", "locustdb-serialization/Cargo.toml", "locustdb-serialization/schemas/api.capnp", "locustdb-serialization/src/api.rs", "locustdb-serialization/src/api_capnp.rs"]

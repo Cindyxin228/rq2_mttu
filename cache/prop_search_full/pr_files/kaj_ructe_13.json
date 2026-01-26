@@ -1,0 +1,1 @@
+["Cargo.toml", "examples/mime03/Cargo.toml", "examples/mime03/src/build.rs", "examples/mime03/src/main.rs", "examples/mime03/static/foo.css", "examples/mime03/static/foo.js", "examples/mime03/static/style.css", "examples/mime03/templates/page.rs.html", "examples/statics/Cargo.toml", "examples/statics/src/main.rs", "src/lib.rs", "src/statics_utils.rs"]

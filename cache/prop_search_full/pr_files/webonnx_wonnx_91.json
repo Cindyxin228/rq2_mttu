@@ -1,0 +1,1 @@
+["Cargo.lock", "wonnx-cli/Cargo.toml", "wonnx-preprocessing/Cargo.toml", "wonnx-py/Cargo.toml", "wonnx-py/tests/test_onnx_backend.py", "wonnx-wasm/Cargo.toml", "wonnx/Cargo.toml", "wonnx/src/compiler.rs", "wonnx/src/utils.rs", "wonnx/templates/endomorphism/broadcast.wgsl", "wonnx/tests/arithmetic.rs", "wonnx/tests/reduce.rs"]

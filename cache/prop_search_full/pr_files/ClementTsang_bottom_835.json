@@ -1,0 +1,1 @@
+["src/app.rs", "src/app/data_harvester.rs", "src/app/data_harvester/memory/general/heim.rs", "src/app/data_harvester/memory/general/sysinfo.rs", "src/app/layout_manager.rs", "src/canvas/widgets/mem_basic.rs", "src/clap.rs", "src/options.rs"]

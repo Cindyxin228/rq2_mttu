@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "docker/docker-compose.yml", "docker/entrypoint.sh", "docker/service.Dockerfile", "docker/start.sh", "packages/db/src/embedded.rs", "packages/service/Cargo.toml", "packages/service/src/lib.rs", "plugins/retrom-plugin-standalone/src/desktop.rs"]

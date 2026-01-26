@@ -1,0 +1,1 @@
+["script/src/lib.rs", "script/src/scheduler.rs", "script/src/syscalls/debugger.rs", "script/src/syscalls/generator.rs", "script/src/types.rs", "script/src/verify.rs", "script/src/verify/tests/ckb_latest/features_since_v2021.rs", "script/src/verify/tests/utils.rs", "verification/src/transaction_verifier.rs"]

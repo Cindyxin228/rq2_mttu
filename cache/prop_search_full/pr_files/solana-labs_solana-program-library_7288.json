@@ -1,0 +1,1 @@
+["Cargo.lock", "libraries/concurrent-merkle-tree/Cargo.toml", "libraries/merkle-tree-reference/Cargo.toml", "managed-token/program/Cargo.toml", "name-service/program/Cargo.toml", "token/confidential-transfer/proof-extraction/Cargo.toml", "token/confidential-transfer/proof-generation/Cargo.toml", "token/confidential-transfer/proof-tests/Cargo.toml"]

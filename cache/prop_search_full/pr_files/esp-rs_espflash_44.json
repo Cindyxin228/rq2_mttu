@@ -1,0 +1,1 @@
+["cargo-espflash/Cargo.toml", "cargo-espflash/src/error.rs", "cargo-espflash/src/main.rs", "espflash/Cargo.toml", "espflash/src/chip/esp8266.rs", "espflash/src/chip/mod.rs", "espflash/src/connection.rs", "espflash/src/error.rs", "espflash/src/flasher.rs", "espflash/src/main.rs", "espflash/src/partition_table.rs"]

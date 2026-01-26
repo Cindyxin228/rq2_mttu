@@ -1,0 +1,1 @@
+["scylla/src/client/pager.rs", "scylla/src/response/query_result.rs", "scylla/src/statement/prepared_statement.rs", "scylla/tests/integration/main.rs", "scylla/tests/integration/statement.rs"]

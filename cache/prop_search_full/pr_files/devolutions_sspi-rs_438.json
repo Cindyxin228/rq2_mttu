@@ -1,0 +1,1 @@
+["crates/dpapi/src/client.rs", "crates/dpapi/src/rpc/auth.rs", "src/credssp/mod.rs", "src/credssp/sspi_cred_ssp/mod.rs", "src/credssp/ts_request/mod.rs", "src/kdc.rs", "src/negotiate.rs", "src/ntlm/mod.rs", "src/pku2u/mod.rs"]

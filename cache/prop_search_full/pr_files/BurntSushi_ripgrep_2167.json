@@ -1,0 +1,1 @@
+["Cargo.lock", "ci/ubuntu-install-packages", "crates/globset/src/glob.rs", "crates/ignore/src/types.rs", "crates/searcher/Cargo.toml", "crates/searcher/src/searcher/core.rs", "crates/searcher/src/searcher/glue.rs", "crates/searcher/src/sink.rs"]

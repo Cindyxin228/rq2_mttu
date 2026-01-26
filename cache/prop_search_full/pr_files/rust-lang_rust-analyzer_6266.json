@@ -1,0 +1,1 @@
+[".gitignore", "crates/hir_def/src/diagnostics.rs", "crates/hir_ty/src/diagnostics.rs", "xtask/src/codegen.rs", "xtask/src/codegen/gen_assists_docs.rs", "xtask/src/codegen/gen_diagnostic_docs.rs", "xtask/src/codegen/gen_feature_docs.rs", "xtask/src/codegen/gen_parser_tests.rs", "xtask/src/release.rs", "xtask/tests/tidy.rs"]

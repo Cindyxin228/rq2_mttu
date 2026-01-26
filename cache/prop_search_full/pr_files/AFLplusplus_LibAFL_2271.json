@@ -1,0 +1,1 @@
+["Cargo.toml", "fuzzers/cargo_fuzz/fuzz/fuzz_targets/fuzz_target_1.rs", "scripts/fmt_all.sh", "utils/libafl_fmt/Cargo.toml", "utils/libafl_fmt/src/main.rs"]

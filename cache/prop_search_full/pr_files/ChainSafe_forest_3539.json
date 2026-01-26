@@ -1,0 +1,1 @@
+["src/cli/subcommands/attach_cmd.rs", "src/cli/subcommands/auth_cmd.rs", "src/cli/subcommands/chain_cmd.rs", "src/cli/subcommands/config_cmd.rs", "src/cli/subcommands/db_cmd.rs", "src/cli/subcommands/info_cmd.rs", "src/cli/subcommands/net_cmd.rs", "src/cli/subcommands/send_cmd.rs", "src/cli/subcommands/shutdown_cmd.rs", "src/cli/subcommands/sync_cmd.rs"]

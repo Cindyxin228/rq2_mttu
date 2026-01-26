@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "VERSION", "src/cli/progress.rs", "src/core/downloader.rs", "src/core/source.rs", "src/core/stream.rs", "src/ffi.rs", "src/main.rs"]

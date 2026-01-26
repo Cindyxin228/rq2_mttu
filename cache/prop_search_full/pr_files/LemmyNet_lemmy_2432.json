@@ -1,0 +1,1 @@
+["migrations/2022-09-07-113813_drop_ccnew_indexes_function/down.sql", "migrations/2022-09-07-113813_drop_ccnew_indexes_function/up.sql", "src/scheduled_tasks.rs"]

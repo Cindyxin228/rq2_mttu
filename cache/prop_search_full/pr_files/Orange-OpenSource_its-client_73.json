@@ -1,0 +1,1 @@
+["THIRD-PARTY.md", "rust/Cargo.lock", "rust/libits-client/Cargo.toml", "rust/libits-client/src/reception/exchange/collective_perception_message.rs", "rust/libits-client/src/reception/exchange/map_extended_message.rs", "rust/libits-client/src/reception/exchange/mobile_perceived_object.rs", "rust/libits-client/src/reception/exchange/reference_position.rs"]

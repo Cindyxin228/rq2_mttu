@@ -1,0 +1,1 @@
+["examples/load_resource.rs", "nae-backend/src/common.rs", "nae-core/src/resources.rs", "nae-gfx/src/draw.rs", "nae-gfx/src/font.rs", "nae-gfx/src/texture.rs", "src/app.rs", "src/res/blob.rs", "src/res/manager.rs", "src/res/mod.rs"]

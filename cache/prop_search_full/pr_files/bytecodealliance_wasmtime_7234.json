@@ -1,0 +1,1 @@
+["crates/test-programs/src/bin/cli_splice_stdin.rs", "crates/wasi-http/wit/deps/io/streams.wit", "crates/wasi/src/preview2/host/io.rs", "crates/wasi/wit/deps/io/streams.wit", "tests/all/cli_tests.rs"]

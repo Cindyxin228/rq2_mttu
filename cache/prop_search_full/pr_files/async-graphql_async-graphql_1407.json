@@ -1,0 +1,1 @@
+["src/registry/export_sdl.rs", "tests/schemas/test_entity_inaccessible.schema.graphql", "tests/schemas/test_entity_tag.schema.graphql", "tests/schemas/test_fed2_compose.schema.graphql", "tests/schemas/test_fed2_link.schema.graphqls"]

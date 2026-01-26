@@ -1,0 +1,1 @@
+["crates/apub/src/activities/block/block_user.rs", "crates/apub/src/activities/block/undo_block_user.rs", "crates/apub/src/activities/community/add_mod.rs", "crates/apub/src/activities/community/remove_mod.rs", "crates/apub/src/activities/deletion/delete.rs", "crates/apub/src/activities/deletion/undo_delete.rs", "crates/apub/src/objects/post.rs"]

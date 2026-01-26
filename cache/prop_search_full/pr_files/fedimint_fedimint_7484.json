@@ -1,0 +1,1 @@
+["fedimint-cli/src/lib.rs", "fedimint-client-wasm/src/lib.rs", "fedimint-client/src/client/builder.rs", "fedimint-load-test-tool/src/common.rs", "fedimint-recurringd/src/lib.rs", "fedimint-testing/src/federation.rs", "fedimint-wasm-tests/src/lib.rs", "gateway/fedimint-gateway-server/src/client.rs"]

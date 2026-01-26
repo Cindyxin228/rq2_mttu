@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/tests/integration/doc_tests.rs", "cli/tests/testdata/deno_doc.out", "cli/tools/doc.rs"]

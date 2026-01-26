@@ -1,0 +1,1 @@
+[".clippy.toml", "capnp/src/lib.rs", "capnp/src/private/arena.rs", "capnp/src/private/layout.rs", "capnp/src/serialize.rs", "capnp/src/serialize/no_alloc_slice_segments.rs", "capnp/src/text.rs"]

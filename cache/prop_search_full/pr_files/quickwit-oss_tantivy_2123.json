@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.toml", "README.md", "src/core/index_meta.rs", "src/store/compression_brotli.rs", "src/store/compression_snap.rs", "src/store/compressors.rs", "src/store/decompressors.rs", "src/store/mod.rs"]

@@ -1,0 +1,1 @@
+["risc0/build/src/docker.rs", "risc0/zkvm/src/host/client/prove/mod.rs", "risc0/zkvm/src/host/server/prove/prover_impl.rs", "risc0/zkvm/src/host/server/prove/tests.rs", "risc0/zkvm/src/receipt/segment.rs"]

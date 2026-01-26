@@ -1,0 +1,1 @@
+["embassy-mspm0/Cargo.toml", "embassy-mspm0/build.rs", "embassy-mspm0/src/dma.rs", "embassy-mspm0/src/gpio.rs", "embassy-mspm0/src/lib.rs", "examples/mspm0g3507/.cargo/config.toml", "tests/mspm0/Cargo.toml", "tests/mspm0/build.rs", "tests/mspm0/memory_g3519.x", "tests/mspm0/src/bin/dma.rs", "tests/mspm0/src/bin/uart.rs"]

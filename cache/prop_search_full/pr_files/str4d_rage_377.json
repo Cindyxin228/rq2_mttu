@@ -1,0 +1,1 @@
+["age/CHANGELOG.md", "age/benches/parser.rs", "age/benches/throughput.rs", "age/src/format.rs", "age/src/primitives/armor.rs", "age/src/protocol.rs", "age/tests/testkit.rs", "fuzz/Cargo.toml", "fuzz/fuzz_targets/decrypt_buffered.rs", "rage/CHANGELOG.md", "rage/src/bin/rage-mount/main.rs", "rage/src/bin/rage/main.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "CHANGELOG.md", "docs/language/meta_maps.md", "koto/tests/libs/random.koto", "koto/tests/meta_maps.koto", "src/bytecode/src/compiler.rs", "src/parser/src/node.rs", "src/parser/src/parser.rs", "src/runtime/src/meta_map.rs", "src/runtime/src/value.rs", "src/runtime/src/vm.rs", "src/runtime/tests/external_value_tests.rs", "src/runtime/tests/vm_tests.rs"]

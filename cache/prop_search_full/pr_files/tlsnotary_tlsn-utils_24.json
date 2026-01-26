@@ -1,0 +1,1 @@
+["Cargo.toml", "serio/Cargo.toml", "serio/LICENSE-APACHE", "serio/LICENSE-MIT", "serio/README.md", "serio/examples/tokio_codec.rs", "serio/src/channel.rs", "serio/src/codec.rs", "serio/src/future.rs", "serio/src/lib.rs", "serio/src/sink.rs", "serio/src/stream.rs"]

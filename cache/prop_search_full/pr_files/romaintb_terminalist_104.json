@@ -1,0 +1,1 @@
+["src/storage/db.rs", "src/storage/tasks.rs", "src/sync.rs", "src/todoist.rs", "src/ui/app_component.rs", "src/ui/components/task_list_component.rs", "src/ui/components/task_list_item_component.rs", "src/ui/core/actions.rs"]

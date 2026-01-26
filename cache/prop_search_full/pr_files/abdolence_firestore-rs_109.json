@@ -1,0 +1,1 @@
+["README.md", "examples/dynamic_doc_level_crud.rs", "src/db/mod.rs", "src/db/parent_path_builder.rs", "src/db/transaction_ops.rs", "src/firestore_serde/mod.rs", "src/firestore_serde/serializer.rs"]

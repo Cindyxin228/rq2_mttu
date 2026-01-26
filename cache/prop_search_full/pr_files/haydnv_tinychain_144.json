@@ -1,0 +1,1 @@
+["client/tinychain/collection/tensor.py", "client/tinychain/generic.py", "client/tinychain/scalar/ref.py", "host/src/route/collection/tensor.rs", "tests/tctest/client/test_operators.py", "tests/tctest/client/test_tensor.py", "tests/tctest/host/test_tensor.py"]

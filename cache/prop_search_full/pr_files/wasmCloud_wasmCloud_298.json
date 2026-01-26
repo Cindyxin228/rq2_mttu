@@ -1,0 +1,1 @@
+["examples/echo/main.rs", "src/actor/component.rs", "src/actor/mod.rs", "src/actor/module/mod.rs", "src/actor/module/wasmbus.rs", "src/capability/logging/discard.rs", "src/capability/logging/log.rs", "src/capability/mod.rs", "src/capability/numbergen/rand.rs", "src/main.rs", "tests/actor_compat.rs", "tests/actor_http_log_rng.rs"]

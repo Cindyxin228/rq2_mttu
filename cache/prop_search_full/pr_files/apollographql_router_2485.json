@@ -1,0 +1,1 @@
+["apollo-router/src/json_ext.rs", "apollo-router/src/query_planner/fetch.rs", "apollo-router/src/query_planner/plan.rs", "apollo-router/src/query_planner/selection.rs", "apollo-router/src/services/execution_service.rs", "apollo-router/src/spec/selection.rs"]

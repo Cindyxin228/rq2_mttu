@@ -1,0 +1,1 @@
+["Cargo.toml", "cot-cli/src/migration_generator.rs", "cot/src/db.rs", "cot/src/db/fields.rs", "cot/src/form/fields.rs", "cot/src/handler.rs", "cot/src/openapi.rs", "cot/src/request/path_params_deserializer.rs", "cot/src/router.rs", "cot/src/router/path.rs", "cot/src/serializers.rs", "cot/src/session/store/redis.rs", "cot/tests/from_request.rs"]

@@ -1,0 +1,1 @@
+["datafusion/common/src/table_reference.rs", "datafusion/core/src/dataframe.rs", "datafusion/expr/src/logical_plan/builder.rs", "datafusion/expr/src/utils.rs", "datafusion/sql/src/relation/join.rs", "docs/source/user-guide/dataframe.md"]

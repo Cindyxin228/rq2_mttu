@@ -1,0 +1,1 @@
+["src/eeprom/types.rs", "src/register.rs", "src/slave/mod.rs", "src/slave/ports.rs", "src/slave_group/configurator.rs", "src/slave_group/mod.rs", "src/slave_group/slave_storage.rs"]

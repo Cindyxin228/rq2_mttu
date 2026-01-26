@@ -1,0 +1,1 @@
+["ricq-core/src/command/config_push_svc/mod.rs", "ricq-core/src/command/wtlogin/mod.rs", "ricq-core/src/jce/mod.rs", "ricq-core/src/protocol/packet.rs", "ricq/src/client/handler/mod.rs", "ricq/src/client/mod.rs", "ricq/src/client/net.rs", "ricq/src/client/processor/c2c/friend_msg.rs", "ricq/src/client/processor/mod.rs", "ricq/src/ext/image.rs"]

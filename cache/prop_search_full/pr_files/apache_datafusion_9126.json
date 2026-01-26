@@ -1,0 +1,1 @@
+["datafusion/proto/Cargo.toml", "datafusion/proto/src/physical_plan/from_proto.rs", "datafusion/proto/src/physical_plan/to_proto.rs", "datafusion/proto/tests/cases/roundtrip_physical_plan.rs"]

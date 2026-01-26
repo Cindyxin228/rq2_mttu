@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "migrations/2023-06-24-185942_aggegates_published_indexes/down.sql", "migrations/2023-06-24-185942_aggegates_published_indexes/up.sql", "src/scheduled_tasks.rs"]

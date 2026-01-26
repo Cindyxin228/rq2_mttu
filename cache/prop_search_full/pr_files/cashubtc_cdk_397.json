@@ -1,0 +1,1 @@
+["crates/cdk-cli/src/main.rs", "crates/cdk-cli/src/sub_commands/list_mint_proofs.rs", "crates/cdk-cli/src/sub_commands/mod.rs", "crates/cdk/src/amount.rs", "crates/cdk/src/nuts/nut00/mod.rs", "crates/cdk/src/wallet/multi_mint_wallet.rs"]

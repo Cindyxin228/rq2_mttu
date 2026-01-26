@@ -1,0 +1,1 @@
+["CHANGELOG.md", "README.md", "codegen/ui_tests/rhai_fn_non_clonable_return.stderr", "codegen/ui_tests/rhai_mod_non_clonable_return.stderr", "codegen/ui_tests/rhai_mod_unknown_type.stderr", "scripts/fibonacci.rhai", "src/dynamic.rs", "src/engine.rs", "src/lib.rs", "src/parse.rs", "src/token.rs", "tests/get_set.rs"]

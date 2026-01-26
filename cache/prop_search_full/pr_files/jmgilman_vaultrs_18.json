@@ -1,0 +1,1 @@
+["Cargo.toml", "src/api/auth.rs", "src/api/auth/kubernetes.rs", "src/api/auth/kubernetes/requests.rs", "src/api/auth/kubernetes/responses.rs", "src/auth.rs", "src/auth/kubernetes.rs", "tests/common.rs", "tests/files/kubernetes/ca.crt", "tests/files/kubernetes/ca.key", "tests/kubernetes.rs"]

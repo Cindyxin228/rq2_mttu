@@ -1,0 +1,1 @@
+["Cargo.toml", "icann-rdap-client/src/md/string.rs", "icann-rdap-common/src/contact/from_vcard.rs", "icann-rdap-srv/src/bin/rdap-srv-test-data.rs", "icann-rdap-srv/src/storage/pg/ops.rs", "icann-rdap-srv/src/storage/pg/tx.rs", "release.md"]

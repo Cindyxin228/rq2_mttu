@@ -1,0 +1,1 @@
+["packages/core/src/nodes.rs", "packages/core/tests/fuzzing.rs", "packages/html/src/events.rs", "packages/native-core/tests/fuzzing.rs", "packages/ssr/src/renderer.rs", "packages/web/src/rehydrate.rs"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "src/lib.rs", "src/transport/mod.rs", "src/transport/smtp/async_transport.rs", "src/transport/smtp/client/tls.rs", "src/transport/smtp/error.rs", "src/transport/smtp/mod.rs"]

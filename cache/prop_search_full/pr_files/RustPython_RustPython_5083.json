@@ -1,0 +1,1 @@
+["compiler/codegen/src/symboltable.rs", "src/shell/helper.rs", "stdlib/src/zlib.rs", "vm/src/frame.rs", "vm/src/import.rs", "vm/src/macros.rs", "vm/src/stdlib/ast.rs", "vm/src/stdlib/sys.rs", "wasm/lib/src/lib.rs"]

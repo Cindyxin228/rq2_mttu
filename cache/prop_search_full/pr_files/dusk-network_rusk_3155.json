@@ -1,0 +1,1 @@
+["rusk-recovery/assets/dusk.address", "rusk-recovery/assets/faucet.moonlight.address", "rusk-recovery/config/testnet.toml", "rusk-recovery/config/testnet_remote.toml", "rusk-recovery/src/state.rs", "rusk-recovery/src/state/snapshot.rs", "rusk/src/bin/args/command/recovery.rs"]

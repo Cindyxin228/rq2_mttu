@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "scylla-cql/src/serialize/row_tests.rs", "scylla-macros/src/deserialize/row.rs", "scylla-proxy/src/proxy.rs", "scylla/src/network/connection.rs", "scylla/tests/integration/macros/hygiene.rs"]

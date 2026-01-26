@@ -1,0 +1,1 @@
+["core/src/value/deserialize.rs", "dictionary-builder/src/main.rs", "encoding/src/text.rs", "encoding/src/transfer_syntax/mod.rs", "parser/src/dataset/mod.rs", "ul/src/pdu/reader.rs", "ul/src/pdu/writer.rs"]

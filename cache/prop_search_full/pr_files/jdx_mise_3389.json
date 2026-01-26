@@ -1,0 +1,1 @@
+["docs/cli/env.md", "e2e/cli/test_env_json", "e2e/cli/test_settings_ls", "mise.usage.kdl", "src/backend/mod.rs", "src/cli/env.rs", "src/cli/settings/ls.rs", "src/config/config_file/mod.rs", "src/github.rs", "src/toolset/mod.rs", "xtasks/fig/src/mise.ts"]

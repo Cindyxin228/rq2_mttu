@@ -1,0 +1,1 @@
+["src/html.rs", "tests/cli/data_url.rs", "tests/cli/local_files.rs", "tests/html/compose_csp.rs", "tests/html/serialize_document.rs"]

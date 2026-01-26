@@ -1,0 +1,1 @@
+["datafusion/core/src/datasource/file_format/csv.rs", "datafusion/core/src/datasource/file_format/json.rs", "datafusion/core/src/datasource/file_format/parquet.rs", "datafusion/core/src/datasource/listing/helpers.rs", "datafusion/core/src/datasource/listing/table.rs"]

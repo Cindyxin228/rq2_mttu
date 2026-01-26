@@ -1,0 +1,1 @@
+["src/backup.rs", "src/busy.rs", "src/cache.rs", "src/collation.rs", "src/column.rs", "src/error.rs", "src/functions.rs", "src/row.rs", "src/session.rs", "src/statement.rs", "src/transaction.rs", "src/types/mod.rs", "src/types/value.rs", "src/types/value_ref.rs", "src/vtab/mod.rs"]

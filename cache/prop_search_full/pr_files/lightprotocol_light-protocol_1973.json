@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "prover/client/Cargo.toml", "scripts/create-release-pr.sh", "scripts/detect-version-changes.sh", "scripts/validate-packages.sh", "sdk-libs/client/Cargo.toml", "sdk-libs/macros/Cargo.toml", "sdk-libs/photon-api/Cargo.toml", "sdk-libs/program-test/Cargo.toml", "sdk-libs/sdk-types/Cargo.toml", "sdk-libs/sdk/Cargo.toml"]

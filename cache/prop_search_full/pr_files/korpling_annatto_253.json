@@ -1,0 +1,1 @@
+[".vscode/settings.json", "docs/README.md", "src/lib.rs", "src/manipulator/check.rs", "src/manipulator/merge.rs", "src/manipulator/mod.rs", "src/manipulator/re.rs", "tests/snapshots/cli__graph_op_info.snap", "tests/snapshots/cli__list_modules.snap"]

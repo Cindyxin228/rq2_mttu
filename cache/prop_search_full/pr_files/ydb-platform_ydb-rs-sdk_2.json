@@ -1,0 +1,1 @@
+[".github/scripts/publish-crate.sh", ".github/workflows/publish-crate.yml", "LICENSE.txt", "ydb-grpc-helpers/Cargo.toml"]

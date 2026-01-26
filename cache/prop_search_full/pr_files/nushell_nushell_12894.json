@@ -1,0 +1,1 @@
+["crates/nu-cmd-base/src/util.rs", "crates/nu-command/src/strings/str_/index_of.rs", "crates/nu-command/src/strings/str_/substring.rs", "crates/nu-command/tests/commands/detect_columns.rs", "crates/nu-command/tests/commands/str_/mod.rs", "tests/repl/test_strings.rs"]

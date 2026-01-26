@@ -1,0 +1,1 @@
+["tests/wellknown-compiled/Cargo.toml", "tests/wellknown-compiled/build.rs", "tests/wellknown-compiled/proto/test.proto", "tests/wellknown-compiled/src/lib.rs", "tonic-build/src/prost.rs"]

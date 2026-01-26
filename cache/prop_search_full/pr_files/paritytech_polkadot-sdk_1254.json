@@ -1,0 +1,1 @@
+["substrate/frame/contracts/fixtures/balance.wat", "substrate/frame/contracts/fixtures/drain.wat", "substrate/frame/contracts/src/exec.rs", "substrate/frame/contracts/src/tests.rs"]

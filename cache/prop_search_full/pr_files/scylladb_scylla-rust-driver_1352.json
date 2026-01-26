@@ -1,0 +1,1 @@
+["scylla/tests/integration/statements/coordinator.rs", "scylla/tests/integration/statements/enforce_coordinator.rs", "scylla/tests/integration/statements/mod.rs"]

@@ -1,0 +1,1 @@
+["ffi/examples/read-table/arrow.c", "ffi/examples/read-table/arrow.h", "ffi/examples/read-table/read_table.c", "ffi/examples/read-table/read_table.h", "ffi/src/engine_funcs.rs", "ffi/src/expressions/kernel.rs", "ffi/src/lib.rs", "ffi/src/scan.rs", "ffi/tests/read-table-testing/expected-data/basic-partitioned.expected", "kernel/src/engine/arrow_expression.rs"]

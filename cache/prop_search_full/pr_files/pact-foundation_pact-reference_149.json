@@ -1,0 +1,1 @@
+["rust/Cargo.lock", "rust/pact_consumer/Cargo.toml", "rust/pact_ffi/Cargo.toml", "rust/pact_mock_server/Cargo.toml", "rust/pact_mock_server_cli/Cargo.toml", "rust/pact_models/Cargo.toml", "rust/pact_verifier/Cargo.toml", "rust/pact_verifier_cli/Cargo.toml", "rust/pact_verifier_cli/README.md"]

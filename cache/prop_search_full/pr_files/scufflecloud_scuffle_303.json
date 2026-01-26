@@ -1,0 +1,1 @@
+["changes.d/pr-303.toml", "crates/ffmpeg/src/filter_graph.rs", "crates/ffmpeg/src/frame.rs", "crates/ffmpeg/src/lib.rs", "crates/ffmpeg/src/rational.rs", "crates/ffmpeg/src/resampler.rs", "crates/ffmpeg/src/scaler.rs"]

@@ -1,0 +1,1 @@
+["crates/rune/src/compile/assembly.rs", "crates/rune/src/compile/unit_builder.rs", "crates/rune/src/compile/v1/assemble.rs", "crates/rune/src/compile/v1/scopes.rs", "crates/rune/src/runtime/inst.rs", "crates/rune/src/runtime/vm.rs"]

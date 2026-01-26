@@ -1,0 +1,1 @@
+["wayland-client/build.rs", "wayland-protocols/build.rs", "wayland-server/build.rs"]

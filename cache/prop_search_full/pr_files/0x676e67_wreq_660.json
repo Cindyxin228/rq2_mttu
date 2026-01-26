@@ -1,0 +1,1 @@
+["src/client/client.rs", "src/client/request.rs", "src/client/websocket/mod.rs", "src/config.rs", "src/connect.rs", "src/core/client/conn/http1.rs", "src/core/client/request.rs", "src/core/ext/mod.rs", "src/dns/resolve.rs", "src/lib.rs"]

@@ -1,0 +1,1 @@
+["examples/shader.rs", "examples/shadows.rs", "examples/vertex_shader.rs", "resources/dimmer.wgsl", "resources/lights.wgsl", "resources/occlusions.wgsl", "resources/shadows.wgsl", "resources/vertex.wgsl", "src/error.rs", "src/graphics/canvas.rs", "src/graphics/internal_canvas.rs", "src/graphics/shader.rs"]

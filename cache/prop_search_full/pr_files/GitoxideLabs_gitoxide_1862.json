@@ -1,0 +1,1 @@
+["Cargo.lock", "gix-command/Cargo.toml", "gix-command/src/lib.rs", "gix-command/tests/command.rs", "gix-credentials/tests/program/from_custom_definition.rs", "gix-path/src/env/auxiliary.rs", "gix-path/src/env/mod.rs", "gix-path/tests/path/env.rs"]

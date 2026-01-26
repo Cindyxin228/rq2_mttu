@@ -1,0 +1,1 @@
+["fuzz/src/peer_crypt.rs", "lightning/src/ln/peer_channel_encryptor.rs", "lightning/src/ln/peer_handler.rs"]

@@ -1,0 +1,1 @@
+[".pre-commit-config.yaml", "src/cobertura.rs", "src/defs.rs", "src/gcov.rs", "src/lib.rs", "src/main.rs", "src/output.rs", "src/parser.rs", "src/producer.rs", "src/reader.rs", "tests/test.rs"]

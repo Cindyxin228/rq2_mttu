@@ -1,0 +1,1 @@
+["crates/api_common/src/community.rs", "crates/api_crud/src/community/list.rs", "crates/db_views_actor/src/community_view.rs"]

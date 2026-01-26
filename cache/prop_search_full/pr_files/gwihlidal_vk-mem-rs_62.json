@@ -1,0 +1,1 @@
+[".gitmodules", "Cargo.toml", "build.rs", "gen/bindings.rs", "src/definitions.rs", "src/defragmentation.rs", "src/ffi.rs", "src/lib.rs", "src/pool.rs", "tests/mod.rs", "vendor/VulkanMemoryAllocator"]

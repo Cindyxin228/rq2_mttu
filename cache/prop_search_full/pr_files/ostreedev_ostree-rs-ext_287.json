@@ -1,0 +1,1 @@
+["ci/priv-integration.sh", "lib/src/cli.rs", "lib/src/container/store.rs", "lib/tests/it/main.rs"]

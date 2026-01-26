@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "benches/large.rs", "benches/norkyst.rs", "src/idx/chunk.rs", "src/idx/dataset/any.rs", "src/idx/dataset/dataset.rs", "src/reader/cache.rs", "src/reader/direct.rs", "tests/read_norkyst.rs"]

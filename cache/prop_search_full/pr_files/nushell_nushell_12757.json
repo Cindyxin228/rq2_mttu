@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/nu-command/src/strings/encode_decode/base64.rs", "crates/nu-command/src/strings/encode_decode/encode_base64.rs", "crates/nu-command/tests/commands/hash_/mod.rs"]

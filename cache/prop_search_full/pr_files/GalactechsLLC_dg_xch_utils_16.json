@@ -1,0 +1,1 @@
+["cli/Cargo.toml", "clients/Cargo.toml", "clients/src/websocket/farmer.rs", "clients/src/websocket/full_node.rs", "clients/src/websocket/harvester.rs", "clients/src/websocket/mod.rs", "clients/src/websocket/wallet.rs"]

@@ -1,0 +1,1 @@
+["bin/fuel-core/src/cli/run.rs", "crates/fuel-core/src/service.rs", "crates/fuel-core/src/service/sub_services.rs", "crates/services/src/service.rs", "crates/services/src/state.rs", "tests/tests/messages.rs"]

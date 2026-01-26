@@ -1,0 +1,1 @@
+["rusoto/Cargo.toml", "rusoto/services/meteringmarketplace/Cargo.toml", "rusoto/services/meteringmarketplace/README.md", "rusoto/services/meteringmarketplace/src/custom/mod.rs", "rusoto/services/meteringmarketplace/src/generated.rs", "rusoto/services/meteringmarketplace/src/lib.rs", "service_crategen/services.json"]

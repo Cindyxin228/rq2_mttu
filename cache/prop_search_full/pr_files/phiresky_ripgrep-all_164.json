@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.lock", "flake.lock", "flake.nix", "src/adapters/zip.rs"]

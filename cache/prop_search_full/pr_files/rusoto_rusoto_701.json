@@ -1,0 +1,1 @@
+["integration_tests/Cargo.toml", "integration_tests/tests/cognito-idp.rs", "rusoto/Cargo.toml", "rusoto/services/cognito-idp/Cargo.toml", "rusoto/services/cognito-idp/README.md", "rusoto/services/cognito-idp/src/custom/mod.rs", "rusoto/services/cognito-idp/src/generated.rs", "rusoto/services/cognito-idp/src/lib.rs", "service_crategen/services.json"]

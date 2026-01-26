@@ -1,0 +1,1 @@
+[".github/workflows/release-executable.yaml", ".github/workflows/release-pypi.yaml", ".github/workflows/release.yml", ".github/workflows/rust.yml", ".github/workflows/scripts/install-rust.sh", ".github/workflows/scripts/make-release-asset.sh", "Cargo.lock", "Cargo.toml", "README.md", "pyproject.toml", "src/lib.rs"]

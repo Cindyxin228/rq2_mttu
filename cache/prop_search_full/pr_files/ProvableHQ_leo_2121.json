@@ -1,0 +1,1 @@
+["compiler/passes/src/code_generation/visit_program.rs", "tests/expectations/compiler/tuple/function_return_single_fail.out", "tests/expectations/compiler/tuple/function_return_zero_fail.out"]

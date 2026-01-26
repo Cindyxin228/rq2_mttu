@@ -1,0 +1,1 @@
+["kernel/Cargo.toml", "kernel/src/arch/riscv/mod.rs", "kernel/src/arch/riscv/process.rs", "kernel/src/mem.rs", "kernel/src/server.rs", "kernel/src/services.rs", "kernel/src/syscall.rs"]

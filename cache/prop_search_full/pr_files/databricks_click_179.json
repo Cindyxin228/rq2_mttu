@@ -1,0 +1,1 @@
+["src/command/configmaps.rs", "src/command/deployments.rs", "src/command/jobs.rs", "src/command/replicasets.rs", "src/command/rollouts.rs", "src/command/secrets.rs", "src/command/statefulsets.rs"]

@@ -1,0 +1,1 @@
+["MANUAL_TEST_CHECKLIST.md", "README.md", "TESTING_PODMAN.md", "crates/executor/src/engine.rs", "crates/executor/src/lib.rs", "crates/executor/src/podman.rs", "crates/ui/src/app/state.rs", "crates/ui/src/handlers/workflow.rs", "crates/ui/src/views/status_bar.rs", "crates/wrkflw/src/main.rs", "test-podman-basic.sh", "test-preserve-containers.sh"]

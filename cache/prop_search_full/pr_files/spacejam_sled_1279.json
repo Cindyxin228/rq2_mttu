@@ -1,0 +1,1 @@
+["scripts/sanitizers.sh", "src/pagecache/mod.rs", "src/pagecache/snapshot.rs", "src/serialization.rs"]

@@ -1,0 +1,1 @@
+["clippy.toml", "src/compaction_filter_factory.rs", "src/db.rs", "src/db_options.rs", "src/merge_operator.rs", "src/prop_name.rs", "src/transactions/optimistic_transaction_db.rs", "src/transactions/transaction.rs", "src/transactions/transaction_db.rs", "tests/test_backup.rs", "tests/test_transaction_db.rs"]

@@ -1,0 +1,1 @@
+[".gitattributes", ".github/workflows/ci.yml", "src/manifest.rs", "src/package.rs", "src/registry/local.rs", "src/registry/mod.rs", "tests/data/test-api-0.1.0.tgz"]

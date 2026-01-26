@@ -1,0 +1,1 @@
+["src/algebra/extendable_matrix.rs", "src/algebra/mod.rs", "src/gaussian_process/builder.rs", "src/gaussian_process/mod.rs", "src/gaussian_process/optimizer.rs", "src/parameters/kernel.rs", "src/parameters/prior.rs"]

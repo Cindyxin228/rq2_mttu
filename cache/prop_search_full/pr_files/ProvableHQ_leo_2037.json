@@ -1,0 +1,1 @@
+["compiler/ast/src/expressions/literal.rs", "compiler/passes/src/type_checking/check_expressions.rs", "tests/compiler/statements/typecheck_statements_fail.leo", "tests/expectations/compiler/statements/compare_diff_types_fail.out", "tests/expectations/compiler/statements/non_existant_vars_mul_fail.out", "tests/expectations/compiler/statements/typecheck_statements_fail.out"]

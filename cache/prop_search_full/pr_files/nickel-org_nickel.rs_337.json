@@ -1,0 +1,1 @@
+[".travis.yml", "tests/compile-fail/inference_no_hints.rs", "tests/compile-fail/inference_request_hinted.rs"]

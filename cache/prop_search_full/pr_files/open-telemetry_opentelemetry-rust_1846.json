@@ -1,0 +1,1 @@
+["examples/self-diagnostics/Cargo.toml", "examples/self-diagnostics/Dockerfile", "examples/self-diagnostics/README.md", "examples/self-diagnostics/docker-compose.yaml", "examples/self-diagnostics/otel-collector-config.yaml", "examples/self-diagnostics/src/main.rs", "opentelemetry-sdk/src/metrics/periodic_reader.rs"]

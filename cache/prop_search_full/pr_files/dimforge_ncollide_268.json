@@ -1,0 +1,1 @@
+["src/pipeline/narrow_phase/contact_generator/ball_convex_polyhedron_manifold_generator.rs", "src/pipeline/narrow_phase/contact_generator/plane_ball_manifold_generator.rs", "src/pipeline/narrow_phase/contact_generator/plane_convex_polyhedron_manifold_generator.rs"]

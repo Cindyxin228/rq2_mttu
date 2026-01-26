@@ -1,0 +1,1 @@
+["rustfmt.toml", "src/auth.rs", "src/crypto.rs", "src/http.rs", "src/options.rs", "src/rest.rs", "src/stats.rs"]

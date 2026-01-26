@@ -1,0 +1,1 @@
+[".cargo/config.toml", ".github/workflows/docker.yml", ".github/workflows/rust.yml", ".gitignore", "Cargo.lock", "Cargo.toml", "Dockerfile", "docker-compose.yml", "server/README.md", "server/src/main.rs"]

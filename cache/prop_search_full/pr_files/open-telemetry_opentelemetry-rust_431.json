@@ -1,0 +1,1 @@
+["opentelemetry/src/metrics/counter.rs", "opentelemetry/src/metrics/descriptor.rs", "opentelemetry/src/metrics/observer.rs", "opentelemetry/src/metrics/up_down_counter.rs", "opentelemetry/src/metrics/value_recorder.rs"]

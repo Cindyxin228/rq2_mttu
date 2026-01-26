@@ -1,0 +1,1 @@
+[".goreleaser.yaml", "Cargo.lock", "Cargo.toml", "build.rs", "src/cli.rs", "src/config.rs", "src/main.rs", "src/parse.rs", "src/parse_test.rs", "tests/tests.rs"]

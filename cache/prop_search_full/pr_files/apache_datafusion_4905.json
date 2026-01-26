@@ -1,0 +1,1 @@
+["datafusion/core/tests/sql/information_schema.rs", "datafusion/core/tests/sqllogictests/test_files/information_schema.slt"]

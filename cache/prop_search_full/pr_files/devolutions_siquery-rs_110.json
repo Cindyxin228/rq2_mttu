@@ -1,0 +1,1 @@
+["siquery/Cargo.toml", "siquery/src/linux/os_version.rs", "siquery/src/linux/system_info.rs", "siquery/src/macos/os_version.rs", "siquery/src/macos/system_info.rs", "siquery_cli/Cargo.toml"]

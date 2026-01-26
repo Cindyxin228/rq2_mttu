@@ -1,0 +1,1 @@
+["acceptance/Cargo.toml", "ffi/Cargo.toml", "kernel/Cargo.toml", "kernel/examples/dump-table/Cargo.toml", "kernel/examples/inspect-table/Cargo.toml", "kernel/examples/read-table-multi-threaded/Cargo.toml"]

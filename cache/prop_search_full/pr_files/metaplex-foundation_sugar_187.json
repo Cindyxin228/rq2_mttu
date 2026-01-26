@@ -1,0 +1,1 @@
+["src/deploy/data.rs", "src/deploy/process.rs", "src/launch/process.rs", "src/main.rs", "src/upload/aws.rs", "src/upload/bundlr.rs", "src/upload/process.rs"]

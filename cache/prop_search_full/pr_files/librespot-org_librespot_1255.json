@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "core/Cargo.toml", "core/src/http_client.rs", "core/src/spclient.rs", "discovery/Cargo.toml", "playback/Cargo.toml", "playback/src/audio_backend/gstreamer.rs", "src/main.rs"]

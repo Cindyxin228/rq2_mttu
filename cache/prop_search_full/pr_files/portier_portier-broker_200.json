@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "Cargo.lock", "Cargo.toml", "src/bridges/email.rs", "src/bridges/mod.rs", "src/bridges/oidc.rs", "src/error.rs", "src/handlers/auth.rs", "src/web.rs"]

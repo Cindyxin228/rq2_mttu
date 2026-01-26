@@ -1,0 +1,1 @@
+[".travis.yml", "Cargo.toml", "README.md", "examples/encode_image.rs", "examples/encode_string.rs", "examples/encode_svg.rs", "src/bin/qrencode.rs", "src/bits.rs", "src/canvas.rs", "src/cast.rs", "src/ec.rs", "src/lib.rs", "src/optimize.rs", "src/render/image.rs", "src/render/mod.rs", "src/render/string.rs", "src/render/svg.rs", "src/types.rs"]

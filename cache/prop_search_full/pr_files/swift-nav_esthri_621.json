@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/esthri-cli/Cargo.toml", "crates/esthri-internals/Cargo.toml", "crates/esthri-test/Cargo.toml", "crates/esthri-test/src/lib.rs", "crates/esthri/Cargo.toml", "crates/esthri/src/aws_sdk.rs", "crates/esthri/src/errors.rs", "crates/esthri/src/lib.rs", "crates/esthri/src/ops/delete.rs"]

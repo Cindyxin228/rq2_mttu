@@ -1,0 +1,1 @@
+[".changelog/unreleased/features/168-add-wasm-client-protos.md", "src/IBC_GO_COMMIT", "src/lib.rs", "src/prost/google.protobuf.rs", "src/prost/google.protobuf.serde.rs", "src/prost/ibc.lightclients.wasm.v1.rs", "src/prost/ibc.lightclients.wasm.v1.serde.rs", "src/prost/proto_descriptor.bin", "tools/proto-compiler/src/cmd/compile.rs"]

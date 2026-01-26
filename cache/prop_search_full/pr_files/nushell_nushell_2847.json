@@ -1,0 +1,1 @@
+["crates/nu-cli/src/commands/do_.rs", "crates/nu-cli/src/commands/math/eval.rs", "crates/nu-cli/src/commands/math/sum.rs", "crates/nu-cli/src/commands/reduce.rs", "crates/nu-cli/src/commands/str_/collect.rs", "crates/nu-cli/tests/commands/math/sum.rs", "crates/nu-cli/tests/commands/reduce.rs", "crates/nu-stream/src/input.rs"]

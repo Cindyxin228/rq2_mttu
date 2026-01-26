@@ -1,0 +1,1 @@
+["src/address.rs", "src/context.rs", "src/inbox.rs", "src/inbox/chan_ptr.rs", "src/inbox/tx.rs", "src/inbox/waiting_receiver.rs", "src/lib.rs", "src/mailbox.rs", "src/message_channel.rs", "src/scoped_task.rs", "src/send_future.rs", "tests/basic.rs", "tests/public_api.rs"]

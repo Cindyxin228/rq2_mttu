@@ -1,0 +1,1 @@
+[".github/workflows/bindings_nodejs.yml", ".github/workflows/ci.yml", ".taplo.toml", "bindings/c/Cargo.toml", "bindings/nodejs/Cargo.toml", "bindings/nodejs/src/lib.rs", "bindings/python/Cargo.toml", "licenserc.toml"]

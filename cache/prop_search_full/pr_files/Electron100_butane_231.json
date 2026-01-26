@@ -1,0 +1,1 @@
+["butane/build.rs", "butane_cli/src/lib.rs", "butane_cli/src/main.rs", "butane_cli/tests/embed.rs", "butane_core/src/migrations/fsmigrations.rs", "butane_core/tests/connection.rs", "example/build.rs", "example/tests/test_cli.rs"]

@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "scripts/validate-stac-geoparquet", "stac-arrow/Cargo.toml", "stac-arrow/examples/extended-item.parquet", "stac-arrow/src/lib.rs", "stac-cli/CHANGELOG.md", "stac-cli/Cargo.toml", "stac-cli/src/error.rs", "stac-cli/src/format.rs", "stac-cli/src/runner.rs", "stac-geoparquet/Cargo.toml", "stac-geoparquet/src/lib.rs"]

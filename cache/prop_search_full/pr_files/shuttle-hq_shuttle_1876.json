@@ -1,0 +1,1 @@
+["cargo-shuttle/src/lib.rs", "cargo-shuttle/src/provisioner_server.rs", "common/src/lib.rs", "common/src/models/resource.rs", "resources/shared-db/src/postgres.rs", "runtime/src/beta.rs"]

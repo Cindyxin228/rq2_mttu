@@ -1,0 +1,1 @@
+["leftwm-core/src/command.rs", "leftwm-core/src/config/mod.rs", "leftwm-core/src/handlers/command_handler.rs", "leftwm-core/src/models/window.rs", "leftwm-core/src/utils/command_pipe.rs", "leftwm/src/bin/leftwm-command.rs", "leftwm/src/command.rs", "leftwm/src/config.rs", "leftwm/src/theme_setting.rs"]

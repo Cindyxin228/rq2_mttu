@@ -1,0 +1,1 @@
+["CHANGELOG.md", "src/dialect_translation/bigquery.rs", "src/dialect_translation/mod.rs", "src/dialect_translation/mssql.rs", "src/dialect_translation/postgresql.rs", "src/expr/sql.rs", "src/io/mod.rs", "src/io/postgresql.rs", "src/relation/sql.rs", "src/sql/expr.rs", "tests/integration.rs"]

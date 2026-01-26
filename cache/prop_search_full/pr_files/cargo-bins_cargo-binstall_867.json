@@ -1,0 +1,1 @@
+["crates/binstalk/src/fetchers/gh_crate_meta.rs", "crates/binstalk/src/fetchers/quickinstall.rs", "crates/binstalk/src/helpers.rs", "crates/binstalk/src/helpers/remote.rs", "e2e-tests/upgrade.sh"]

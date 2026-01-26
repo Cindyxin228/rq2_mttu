@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/repl/help.in", "cli/tests/repl/help.out", "core/examples/dsl.rs", "core/src/eval.rs", "core/src/reader.rs", "core/src/syms.rs", "core/src/testutils.rs", "std/README.md", "std/src/arrays.rs", "std/src/gpio/mod.rs", "std/src/help.rs", "std/src/lib.rs", "std/src/numerics.rs", "std/src/strings.rs"]

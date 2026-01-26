@@ -1,0 +1,1 @@
+[".github/codecov.yml", ".github/workflows/ci.yml", "justfile", "kube-client/src/client/auth/mod.rs"]

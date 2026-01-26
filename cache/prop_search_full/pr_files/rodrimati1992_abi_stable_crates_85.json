@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "abi_stable/src/erased_types/c_functions.rs", "abi_stable/src/erased_types/trait_objects.rs", "abi_stable/src/std_types/map/test.rs", "examples/1_trait_objects/interface/src/which_plugin.rs", "testing/version_compatibility/impl_0/Cargo.toml"]

@@ -1,0 +1,1 @@
+["cranelift/fuzzgen/src/cranelift_arbitrary.rs", "cranelift/fuzzgen/src/function_generator.rs", "cranelift/fuzzgen/src/lib.rs", "cranelift/fuzzgen/src/target_isa_extras.rs", "fuzz/fuzz_targets/cranelift-icache.rs"]

@@ -1,0 +1,1 @@
+["crates/rattler_conda_types/src/repo_data/patches.rs", "crates/rattler_conda_types/src/repo_data/snapshots/rattler_conda_types__repo_data__patches__test__patching.snap", "test-data/channels/patch/linux-64/patch_instructions.json", "test-data/channels/patch/linux-64/repodata_from_packages.json"]

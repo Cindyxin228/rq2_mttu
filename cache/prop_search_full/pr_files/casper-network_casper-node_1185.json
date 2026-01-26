@@ -1,0 +1,1 @@
+["ci/nightly-test.sh", "utils/nctl/sh/scenarios/accounts_toml/bond_its.accounts.toml", "utils/nctl/sh/scenarios/bond_its.sh", "utils/nctl/sh/scenarios/chainspecs/bond_its.chainspec.toml.in", "utils/nctl/sh/scenarios/common/itst.sh"]

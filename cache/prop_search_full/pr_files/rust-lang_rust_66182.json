@@ -1,0 +1,1 @@
+["src/librustc_lint/builtin.rs", "src/test/ui/lint/uninitialized-zeroed.stderr"]

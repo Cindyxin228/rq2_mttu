@@ -1,0 +1,1 @@
+["compat_tester/webauthn-rs-demo/src/actors.rs", "fido-key-manager/Cargo.toml", "fido-key-manager/build.rs", "fido-mds/src/mds.rs", "webauthn-authenticator-rs/Cargo.toml", "webauthn-authenticator-rs/src/nfc/mod.rs", "webauthn-rs-proto/src/wasm.rs"]

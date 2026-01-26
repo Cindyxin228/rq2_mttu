@@ -1,0 +1,1 @@
+["crates/csv2arrow/src/main.rs", "crates/csv2parquet/src/main.rs", "crates/json2arrow/src/main.rs", "crates/json2parquet/src/main.rs"]

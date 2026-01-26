@@ -1,0 +1,1 @@
+["crates/macro/src/html_tree/html_component.rs", "crates/macro/src/html_tree/html_list.rs", "crates/macro/src/html_tree/html_node.rs", "crates/macro/src/html_tree/mod.rs", "crates/macro/src/lib.rs", "src/lib.rs", "src/utils.rs", "tests/macro/html-component-fail.rs", "tests/macro/html-component-fail.stderr", "tests/macro/html-component-pass.rs"]

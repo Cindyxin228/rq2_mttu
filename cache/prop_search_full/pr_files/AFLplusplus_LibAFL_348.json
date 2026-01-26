@@ -1,0 +1,1 @@
+["fuzzers/frida_libpng/src/fuzzer.rs", "libafl/src/bolts/mod.rs", "libafl/src/corpus/minimizer.rs", "libafl/src/feedbacks/map.rs"]

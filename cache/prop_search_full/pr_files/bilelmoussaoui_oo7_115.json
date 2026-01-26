@@ -1,0 +1,1 @@
+["Cargo.lock", "portal/Cargo.toml", "portal/data/meson.build", "portal/data/oo7-portal.desktop.in", "portal/data/oo7-portal.portal.in", "portal/data/oo7-portal.service.in", "portal/data/org.freedesktop.impl.portal.desktop.oo7.service.in", "portal/meson.build", "portal/src/error.rs", "portal/src/main.rs", "portal/src/request.rs"]

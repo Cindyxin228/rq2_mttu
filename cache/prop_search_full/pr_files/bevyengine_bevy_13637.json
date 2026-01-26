@@ -1,0 +1,1 @@
+["crates/bevy_app/Cargo.toml", "crates/bevy_app/src/app.rs", "crates/bevy_app/src/main_schedule.rs", "crates/bevy_app/src/sub_app.rs", "crates/bevy_internal/Cargo.toml", "crates/bevy_internal/src/default_plugins.rs", "crates/bevy_state/Cargo.toml", "crates/bevy_state/src/app.rs", "crates/bevy_state/src/lib.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cargo-pgrx/Cargo.toml", "cargo-pgrx/src/command/init.rs", "cargo-pgrx/src/command/install.rs", "cargo-pgrx/src/command/version.rs", "pgrx-pg-sys/Cargo.toml", "pgrx-pg-sys/build.rs", "pgrx-sql-entity-graph/Cargo.toml", "pgrx-tests/Cargo.toml", "pgrx-tests/src/framework.rs", "pgrx/src/lib.rs"]

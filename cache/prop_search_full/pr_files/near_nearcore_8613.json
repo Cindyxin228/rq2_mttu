@@ -1,0 +1,1 @@
+["core/store/src/cold_storage.rs", "core/store/src/db.rs", "core/store/src/db/colddb.rs", "core/store/src/db/refcount.rs", "core/store/src/db/splitdb.rs", "core/store/src/lib.rs", "core/store/src/test_utils.rs", "integration-tests/src/tests/client/process_blocks.rs", "nearcore/src/cold_storage.rs"]

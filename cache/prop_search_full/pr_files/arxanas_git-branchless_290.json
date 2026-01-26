@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/commands/bug_report.rs", "src/commands/mod.rs", "src/commands/navigation.rs", "src/commands/smartlog.rs", "src/commands/undo.rs", "src/core/node_descriptors.rs", "src/git/repo.rs", "src/opts.rs", "tests/command/test_bug_report.rs", "tests/mod.rs"]

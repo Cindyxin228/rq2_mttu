@@ -1,0 +1,1 @@
+[".github/workflows/audit.yml", ".github/workflows/cd.yml", ".github/workflows/ci.yml", ".github/workflows/deps-review.yml", ".github/workflows/docker-publish.yml", ".gitignore", ".pre-commit-config.yaml", ".renovaterc.json", "Cargo.lock", "Cargo.toml", "Dockerfile", "Makefile", "README.md", "src/main.rs", "src/test.rs", "tests/.gitkeep"]

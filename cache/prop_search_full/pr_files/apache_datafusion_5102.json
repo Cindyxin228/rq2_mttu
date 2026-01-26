@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_plan/metrics/mod.rs", "datafusion/physical-expr/src/aggregate/stats.rs", "datafusion/physical-expr/src/expressions/case.rs", "datafusion/physical-expr/src/window/lead_lag.rs", "datafusion/proto/src/physical_plan/to_proto.rs"]

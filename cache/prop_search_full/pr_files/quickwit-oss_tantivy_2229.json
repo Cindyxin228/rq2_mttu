@@ -1,0 +1,1 @@
+["columnar/src/columnar/writer/mod.rs", "src/indexer/segment_writer.rs", "src/postings/postings_writer.rs", "stacker/src/arena_hashmap.rs"]

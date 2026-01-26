@@ -1,0 +1,1 @@
+["src/cargo/core/compiler/fingerprint/mod.rs", "src/cargo/core/compiler/unit_dependencies.rs", "src/cargo/core/profiles.rs", "src/cargo/core/resolver/features.rs", "src/cargo/ops/cargo_compile/mod.rs", "src/cargo/util/profile.rs"]

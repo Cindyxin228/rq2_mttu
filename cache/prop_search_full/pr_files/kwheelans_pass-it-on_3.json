@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "examples/simple_client.rs", "src/bin/pass-it-on-server.rs", "src/configuration.rs", "src/endpoints.rs", "src/endpoints/discord.rs", "src/endpoints/discord/webhook.rs", "src/error.rs", "src/lib.rs", "src/notifications.rs", "tests/client_configuration_tests.rs", "tests/server_configuration_tests.rs"]

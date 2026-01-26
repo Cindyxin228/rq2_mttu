@@ -1,0 +1,1 @@
+["examples/delta.rs", "examples/reader.rs", "examples/writer.rs", "src/catalog.rs", "src/dataframe.rs", "src/expressions.rs", "src/functions/mod.rs", "src/lib.rs", "src/plan.rs", "src/readwriter.rs"]

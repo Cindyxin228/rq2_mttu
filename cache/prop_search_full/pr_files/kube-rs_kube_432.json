@@ -1,0 +1,1 @@
+["examples/Cargo.toml", "examples/crd_derive.rs", "kube-derive/Cargo.toml", "kube-runtime/Cargo.toml", "kube/Cargo.toml", "tests/Cargo.toml"]

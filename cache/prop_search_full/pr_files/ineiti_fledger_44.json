@@ -1,0 +1,1 @@
+[".github/workflows/docker-build.yaml", "Cargo.lock", "Makefile", "cli/flnode/src/lib.rs", "cli/signal/src/state/internal.rs", "common/src/node.rs", "common/src/node/config.rs", "common/src/node/logic.rs", "common/src/node/version.rs", "common/src/signal/web_rtc.rs", "wasm/web/src/lib.rs"]

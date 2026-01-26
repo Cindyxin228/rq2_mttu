@@ -1,0 +1,1 @@
+["lambda-events/Cargo.toml", "lambda-extension/Cargo.toml", "lambda-http/Cargo.toml", "lambda-integration-tests/Cargo.toml", "lambda-runtime-api-client/Cargo.toml", "lambda-runtime/Cargo.toml"]

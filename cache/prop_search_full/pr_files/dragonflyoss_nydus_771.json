@@ -1,0 +1,1 @@
+["rafs/src/fs.rs", "rafs/src/metadata/cached_v5.rs", "rafs/src/metadata/direct_v5.rs", "rafs/src/metadata/direct_v6.rs", "rafs/src/metadata/layout/v5.rs", "rafs/src/metadata/layout/v6.rs", "rafs/src/metadata/md_v5.rs", "rafs/src/metadata/mod.rs", "rafs/src/mock/mock_inode.rs", "src/bin/nydus-image/inspect.rs"]

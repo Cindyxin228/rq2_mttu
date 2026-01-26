@@ -1,0 +1,1 @@
+[".taskcluster.yml", "ci-scripts/docker-image/Dockerfile", "ci-scripts/docker-image/setup.sh", "ci-scripts/linux-debug-tests.sh", "ci-scripts/linux-release-tests.sh", "ci-scripts/macos-release-tests.sh", "wrench/script/benchmark_server.py", "wrench/script/reftest-debugger.py"]

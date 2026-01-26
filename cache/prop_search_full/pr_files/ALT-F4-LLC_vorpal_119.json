@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/src/main.rs", "registry/Cargo.toml", "registry/src/gha.rs", "registry/src/lib.rs", "registry/src/local.rs", "registry/src/s3.rs"]

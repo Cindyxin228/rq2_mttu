@@ -1,0 +1,1 @@
+["datafusion/common/src/lib.rs", "datafusion/common/src/utils.rs", "datafusion/core/src/datasource/empty.rs", "datafusion/core/src/datasource/listing/table.rs", "datafusion/core/src/physical_plan/memory.rs", "datafusion/core/src/physical_plan/mod.rs", "datafusion/core/tests/custom_sources.rs", "datafusion/core/tests/custom_sources_cases/statistics.rs"]

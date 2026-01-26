@@ -1,0 +1,1 @@
+["test/integration-ebpf/src/bpf_probe_read.rs", "test/integration-test/build.rs", "test/integration-test/src/tests/bpf_probe_read.rs"]

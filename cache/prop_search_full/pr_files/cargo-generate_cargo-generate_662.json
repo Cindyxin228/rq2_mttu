@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "guide/src/templates/README.md", "guide/src/templates/scripting.md", "src/hooks/mod.rs", "src/template.rs", "src/template_filters.rs", "tests/integration/basics.rs", "tests/integration/hooks.rs"]

@@ -1,0 +1,1 @@
+["datafusion/common/src/scalar.rs", "datafusion/core/tests/parquet/test_binary.parquet", "datafusion/core/tests/sql/parquet.rs", "datafusion/proto/src/to_proto.rs"]

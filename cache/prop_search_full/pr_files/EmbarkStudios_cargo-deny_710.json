@@ -1,0 +1,1 @@
+["Cargo.lock", "src/cargo-deny/check.rs", "src/cargo-deny/common.rs", "src/cargo-deny/main.rs", "src/root_cfg.rs", "tests/bans.rs", "tests/snapshots/bans__ignores_unpublished_crates.snap", "tests/snapshots/cargo_deny__test__cargo_deny.snap", "tests/test_data/wildcards/allow-paths-private/Cargo.toml"]

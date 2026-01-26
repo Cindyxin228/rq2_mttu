@@ -1,0 +1,1 @@
+["CHANGELOG.md", "tests/scanner_assets/client_code.rs", "tests/scanner_assets/server_code.rs", "wayland-client/src/lib.rs", "wayland-client/src/proxy.rs", "wayland-cursor/rustfmt.toml", "wayland-scanner/src/common_gen.rs", "wayland-server/src/lib.rs", "wayland-server/src/resource.rs"]

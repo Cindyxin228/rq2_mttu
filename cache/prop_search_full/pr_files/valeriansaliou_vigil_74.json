@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/aggregator/manager.rs", "src/config/config.rs", "src/config/defaults.rs", "src/notifier/matrix.rs", "src/notifier/mod.rs"]

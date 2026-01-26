@@ -1,0 +1,1 @@
+["crates/core/src/events/dom_events.rs", "crates/core/src/events/elements_state.rs", "crates/core/src/events/events_measurer.rs", "crates/core/src/events/freya_events.rs", "crates/core/src/events/mod.rs", "crates/core/src/events/potential_event.rs", "crates/core/src/types.rs", "crates/renderer/src/app.rs"]

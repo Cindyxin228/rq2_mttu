@@ -1,0 +1,1 @@
+["examples/rtu-server.rs", "examples/tcp-server.rs", "src/client/mod.rs", "src/codec/mod.rs", "src/codec/rtu.rs", "src/codec/tcp.rs", "src/frame/mod.rs", "src/lib.rs"]

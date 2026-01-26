@@ -1,0 +1,1 @@
+["crates/macro/src/html_tree/html_tag/mod.rs", "crates/macro/src/html_tree/html_tag/tag_attributes.rs", "tests/macro/html-tag-fail.rs", "tests/macro/html-tag-fail.stderr", "tests/macro/html-tag-pass.rs"]

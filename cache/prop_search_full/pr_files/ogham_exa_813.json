@@ -1,0 +1,1 @@
+["completions/completions.fish", "completions/completions.zsh", "man/exa.1.md", "src/options/flags.rs", "src/options/help.rs", "src/options/view.rs", "src/output/render/groups.rs", "src/output/render/users.rs", "src/output/table.rs"]

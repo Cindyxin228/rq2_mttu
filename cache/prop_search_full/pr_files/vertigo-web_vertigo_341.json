@@ -1,0 +1,1 @@
+["crates/vertigo-cli/src/serve/html/element.rs", "crates/vertigo/src/dom/dom_element.rs", "crates/vertigo/src/dom_macro/dom.rs", "crates/vertigo/src/lib.rs", "crates/vertigo/src/render/dom_value.rs", "crates/vertigo/src/tests/dom/component_dynamic.rs"]

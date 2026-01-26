@@ -1,0 +1,1 @@
+["datafusion/core/src/physical_optimizer/replace_with_order_preserving_variants.rs", "datafusion/core/src/physical_plan/repartition/mod.rs", "datafusion/core/tests/fuzz_cases/sort_preserving_repartition_fuzz.rs"]

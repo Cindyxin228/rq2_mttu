@@ -1,0 +1,1 @@
+["crates/core/src/fnc/type.rs", "crates/core/src/gql/ext.rs", "crates/core/src/gql/tables.rs", "crates/core/src/val/mod.rs", "crates/core/src/val/value/get.rs", "crates/core/tests/select.rs", "crates/language-tests/Cargo.lock"]

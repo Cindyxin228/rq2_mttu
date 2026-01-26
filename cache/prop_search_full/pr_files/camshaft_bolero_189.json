@@ -1,0 +1,1 @@
+["bin/cargo-bolero/Cargo.toml", "lib/bolero-afl/Cargo.toml", "lib/bolero-engine/Cargo.toml", "lib/bolero-generator-derive/Cargo.toml", "lib/bolero-generator/Cargo.toml", "lib/bolero-honggfuzz/Cargo.toml", "lib/bolero-kani/Cargo.toml", "lib/bolero-libfuzzer/Cargo.toml", "lib/bolero/Cargo.toml"]

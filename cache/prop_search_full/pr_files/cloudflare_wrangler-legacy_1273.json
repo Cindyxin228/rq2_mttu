@@ -1,0 +1,1 @@
+["src/commands/build/mod.rs", "src/commands/build/wranglerjs/mod.rs", "src/commands/dev/gcs/watch.rs", "src/commands/mod.rs", "src/commands/preview/mod.rs", "src/lib.rs", "src/watch/mod.rs", "src/watch/watcher.rs"]

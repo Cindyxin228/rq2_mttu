@@ -1,0 +1,1 @@
+[".github/workflows/release-rust.yml", ".github/workflows/release.yml", "Cargo.toml", "scripts/create-release-pr.sh", "scripts/validate-packages.sh"]

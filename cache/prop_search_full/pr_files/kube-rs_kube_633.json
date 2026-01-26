@@ -1,0 +1,1 @@
+["examples/pod_watcher.rs", "kube-core/src/subresource.rs", "kube-runtime/src/lib.rs", "kube-runtime/src/reflector/store.rs", "kube-runtime/src/wait.rs", "kube-runtime/src/watcher.rs"]

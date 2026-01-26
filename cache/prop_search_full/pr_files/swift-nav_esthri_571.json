@@ -1,0 +1,1 @@
+["crates/esthri/src/ops/delete.rs", "crates/esthri/src/ops/sync.rs", "crates/esthri/src/tempfile.rs", "crates/esthri/tests/integration/main.rs", "crates/esthri/tests/integration/presign.rs", "crates/esthri/tests/integration/send_test.rs", "crates/esthri/tests/integration/sync_test.rs", "crates/esthri/tests/integration/upload_test.rs"]

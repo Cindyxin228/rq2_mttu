@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/build.rs", "cli/generated_symbol_exports_list_linux.def", "cli/generated_symbol_exports_list_macos.def", "cli/generated_symbol_exports_list_windows.def", "cli/napi/README.md", "cli/napi/mod.rs", "cli/napi_sym/README.md", "test_napi/src/object_wrap.rs", "tools/napi/generate_link_win.js", "tools/napi/generate_symbols_lists.js"]

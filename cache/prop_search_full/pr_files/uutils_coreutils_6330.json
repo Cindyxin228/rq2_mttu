@@ -1,0 +1,1 @@
+["src/uu/cp/src/cp.rs", "src/uu/csplit/src/csplit.rs", "src/uu/csplit/src/patterns.rs", "src/uu/df/src/filesystem.rs", "src/uu/env/src/env.rs", "src/uu/factor/src/factor.rs", "src/uu/hashsum/src/hashsum.rs", "src/uu/kill/src/kill.rs", "src/uu/nl/src/helper.rs", "src/uu/ptx/src/ptx.rs", "src/uu/tail/src/follow/watch.rs"]

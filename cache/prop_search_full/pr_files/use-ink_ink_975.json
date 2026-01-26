@@ -1,0 +1,1 @@
+["crates/env/src/engine/on_chain/impls.rs", "crates/lang/codegen/src/generator/dispatch.rs", "crates/lang/src/codegen/dispatch/execution.rs", "crates/lang/tests/ui/contract/fail/message-returns-non-codec.stderr"]

@@ -1,0 +1,1 @@
+["crates/swc_html_codegen/src/lib.rs", "crates/swc_html_codegen/tests/fixture/body-noscript/input.html", "crates/swc_html_codegen/tests/fixture/body-noscript/output.html", "crates/swc_html_codegen/tests/fixture/body-noscript/output.min.html", "crates/swc_html_minifier/tests/fixture/text/noscript/output.min.html"]

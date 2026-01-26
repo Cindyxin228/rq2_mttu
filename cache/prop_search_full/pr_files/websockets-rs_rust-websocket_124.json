@@ -1,0 +1,1 @@
+[".travis.yml", "examples/autobahn-client.rs", "src/client/builder.rs", "src/client/sync.rs", "src/codec/ws.rs", "src/dataframe.rs", "src/header/accept.rs", "src/header/extensions.rs", "src/message.rs", "src/receiver.rs", "src/result.rs", "src/server/sync.rs", "src/server/upgrade/mod.rs", "src/ws/dataframe.rs", "src/ws/util/header.rs", "src/ws/util/mod.rs"]

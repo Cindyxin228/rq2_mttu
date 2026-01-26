@@ -1,0 +1,1 @@
+["src/cmd/mod.rs", "src/cmd/process_lines_actions.rs", "src/cmd/sandbox.rs", "src/crates/registry.rs", "src/inside_docker.rs", "src/native/unix.rs", "src/prepare.rs", "src/toolchain.rs", "src/tools/rustup.rs", "src/utils.rs", "tests/buildtest/inside_docker.rs", "tests/integration/purge_caches.rs"]

@@ -1,0 +1,1 @@
+["README.md", "src/cmd/dedup.rs", "src/cmd/frequency.rs", "src/cmd/reverse.rs", "src/cmd/schema.rs", "src/cmd/sort.rs", "src/cmd/stats.rs", "src/cmd/table.rs", "src/cmd/tojsonl.rs", "src/cmd/transpose.rs", "src/util.rs"]

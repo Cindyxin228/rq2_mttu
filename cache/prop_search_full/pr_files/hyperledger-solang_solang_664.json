@@ -1,0 +1,1 @@
+[".github/workflows/release.yml", ".github/workflows/test.yml", "solang-parser/src/lexer.rs", "solang-parser/src/solidity.lalrpop", "vscode/src/test/suite/extension.test.ts"]

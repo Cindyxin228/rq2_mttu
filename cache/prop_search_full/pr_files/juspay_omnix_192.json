@@ -1,0 +1,1 @@
+["crates/nix_health/src/lib.rs", "crates/nix_rs/CHANGELOG.md", "crates/nix_rs/src/flake/eval.rs", "crates/nix_rs/src/flake/url/core.rs", "crates/nix_rs/src/flake/url/mod.rs", "crates/nix_rs/src/flake/url/qualified_attr.rs", "crates/nixci/src/config.rs"]

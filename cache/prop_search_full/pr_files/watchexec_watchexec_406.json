@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/cli/Cargo.toml", "crates/filterer/tagged/Cargo.toml", "crates/ignore-files/Cargo.toml", "crates/ignore-files/src/discover.rs", "crates/lib/Cargo.toml", "crates/project-origins/Cargo.toml"]

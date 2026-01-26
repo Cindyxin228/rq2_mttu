@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/nu-parser/src/hir.rs", "crates/nu_plugin_average/src/main.rs", "src/cli.rs", "src/commands.rs", "src/commands/autoview.rs", "src/commands/classified/internal.rs", "src/commands/classified/pipeline.rs", "src/lib.rs", "src/main.rs"]

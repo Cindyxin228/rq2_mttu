@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "changelogs/0.3.0.md", "examples/query.rs", "src/imdb/basics.rs", "src/imdb/error.rs", "src/imdb/keywords.rs", "src/imdb/mod.rs", "src/imdb/parsing.rs", "src/imdb/ratings.rs", "src/imdb/service.rs", "src/imdb/title.rs", "src/lib.rs", "src/main.rs", "src/trie.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "cli/Cargo.toml", "cli/build.rs", "cli/src/commands/namespace.rs", "cli/src/models/namespace.rs", "client/src/namespace.rs"]

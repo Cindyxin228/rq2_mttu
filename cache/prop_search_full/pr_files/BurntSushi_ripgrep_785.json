@@ -1,0 +1,1 @@
+[".gitignore", ".travis.yml", "Cargo.toml", "FAQ.md", "GUIDE.md", "README.md", "build.rs", "ci/before_deploy.sh", "ci/install.sh", "ci/script.sh", "ci/utils.sh", "compile", "doc/rg.1.txt.tpl", "src/app.rs"]

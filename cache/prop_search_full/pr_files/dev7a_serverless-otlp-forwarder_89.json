@@ -1,0 +1,1 @@
+["forwarders/experimental/aws-span-processor/processor/src/main.rs", "forwarders/experimental/aws-span-processor/processor/src/otlp.rs", "forwarders/experimental/otlp-stdout-kinesis-processor/processor/src/main.rs"]

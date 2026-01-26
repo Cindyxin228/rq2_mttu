@@ -1,0 +1,1 @@
+["examples/codegen.rs", "examples/main.rs", "src/arrays.rs", "src/entry.rs", "src/genc.rs", "src/lib.rs", "src/static/build.rs", "src/static/static_array_types.rs", "src/static/static_cargo.toml", "src/static/static_context.rs", "src/static/static_lib.rs"]

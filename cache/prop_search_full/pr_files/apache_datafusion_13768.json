@@ -1,0 +1,1 @@
+["datafusion/core/src/datasource/physical_plan/parquet/row_group_filter.rs", "datafusion/core/tests/parquet/mod.rs", "datafusion/core/tests/parquet/row_group_pruning.rs"]

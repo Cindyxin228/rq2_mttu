@@ -1,0 +1,1 @@
+[".gitignore", "Cargo.lock", "Cargo.toml", "datafusion_iceberg/src/table.rs", "iceberg-c/iceberg_c.h", "iceberg-c/src/table/transaction.rs", "iceberg-rust/Cargo.toml", "iceberg-rust/src/arrow/write.rs", "iceberg-rust/src/file_format/parquet.rs", "iceberg-rust/src/table/transaction/mod.rs", "iceberg-rust/src/table/transaction/operation.rs"]

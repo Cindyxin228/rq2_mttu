@@ -1,0 +1,1 @@
+["benches/navigation.rs", "src/app.rs", "src/config.rs", "src/default_config.rs", "src/explorer.rs", "src/runner.rs", "src/ui.rs", "tests/mod.rs", "tests/unit/config.rs", "tests/unit/mod.rs", "tests/unit/ui.rs"]

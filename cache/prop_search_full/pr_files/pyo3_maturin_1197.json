@@ -1,0 +1,1 @@
+[".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "Changelog.md", "src/build_options.rs", "src/main.rs", "src/new_project.rs", "src/upload.rs", "tests/cmd/build.stdout", "tests/cmd/develop.stdout", "tests/cmd/init.stdout", "tests/cmd/list-python.stdout", "tests/cmd/new.stdout", "tests/cmd/publish.stdout", "tests/cmd/sdist.stdout", "tests/cmd/upload.stdout"]

@@ -1,0 +1,1 @@
+["crates/teloxide-core/CHANGELOG.md", "crates/teloxide-core/schema.ron", "crates/teloxide-core/src/adaptors/erased.rs", "crates/teloxide-core/src/bot/api.rs", "crates/teloxide-core/src/local_macros.rs", "crates/teloxide-core/src/payloads/send_game.rs", "crates/teloxide-core/src/requests/requester.rs"]

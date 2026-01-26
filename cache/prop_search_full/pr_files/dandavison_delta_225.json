@@ -1,0 +1,1 @@
+["src/cli.rs", "src/config.rs", "src/delta.rs", "src/paint.rs", "src/preset.rs", "src/set_options.rs", "src/style.rs", "src/tests/ansi_test_utils.rs", "src/tests/integration_test_utils.rs", "src/tests/test_example_diffs.rs"]

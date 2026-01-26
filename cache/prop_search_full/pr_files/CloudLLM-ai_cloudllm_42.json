@@ -1,0 +1,1 @@
+["COUNCIL_TUTORIAL.md", "Cargo.toml", "README.md", "changelog.txt", "examples/council_demo.rs", "examples/digimon_vs_pokemon_debate.rs", "examples/venezuela_regime_change_debate.rs", "src/cloudllm/client_wrapper.rs", "src/cloudllm/council.rs", "src/cloudllm/mod.rs", "src/cloudllm/tool_adapters.rs", "src/cloudllm/tool_protocol.rs", "src/lib.rs"]

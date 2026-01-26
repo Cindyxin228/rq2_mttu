@@ -1,0 +1,1 @@
+["crates/core/database/src/events/client.rs", "crates/core/database/src/models/emojis/ops/mongodb.rs", "crates/core/database/src/models/server_members/model.rs", "crates/quark/src/events/client.rs", "crates/quark/src/events/impl.rs", "crates/quark/src/impl/generic/servers/server.rs"]

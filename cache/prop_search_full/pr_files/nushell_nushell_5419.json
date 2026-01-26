@@ -1,0 +1,1 @@
+["crates/nu-cli/src/completions/completion_options.rs", "crates/nu-cli/src/completions/directory_completions.rs", "crates/nu-cli/src/completions/file_completions.rs", "crates/nu-cli/src/completions/mod.rs", "crates/nu-parser/src/lib.rs", "crates/nu-parser/src/parser.rs"]

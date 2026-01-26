@@ -1,0 +1,1 @@
+["volo-build/src/thrift_backend.rs", "volo-thrift/src/server.rs", "volo-thrift/src/tracing.rs", "volo-thrift/src/transport/pingpong/server.rs"]

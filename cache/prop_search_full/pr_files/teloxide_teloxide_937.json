@@ -1,0 +1,1 @@
+["crates/teloxide-macros/CHANGELOG.md", "crates/teloxide-macros/src/attr.rs", "crates/teloxide-macros/src/bot_commands.rs", "crates/teloxide-macros/src/command.rs", "crates/teloxide-macros/src/command_attr.rs", "crates/teloxide-macros/src/command_enum.rs", "crates/teloxide/examples/command.rs", "crates/teloxide/src/utils/command.rs", "crates/teloxide/tests/command.rs"]

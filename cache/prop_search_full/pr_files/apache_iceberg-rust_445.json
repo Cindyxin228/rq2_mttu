@@ -1,0 +1,1 @@
+[".github/actions/setup-builder/action.yml", ".github/workflows/ci.yml", ".github/workflows/publish.yml", "Makefile", "README.md", "crates/iceberg/src/avro/schema.rs", "crates/iceberg/src/writer/file_writer/parquet_writer.rs", "crates/integrations/datafusion/src/schema.rs", "rust-toolchain.toml"]

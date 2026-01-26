@@ -1,0 +1,1 @@
+[".github/workflows/ci.yml", "Cargo.toml", "src/call.rs", "src/context.rs", "src/contract.rs", "src/error.rs", "src/interpreter/memory.rs", "src/state.rs", "src/state/debug.rs"]

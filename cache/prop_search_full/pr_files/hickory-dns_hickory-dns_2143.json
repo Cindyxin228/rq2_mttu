@@ -1,0 +1,1 @@
+["Cargo.lock", "crates/proto/src/rr/rr_set.rs", "crates/proto/src/serialize/binary/decoder.rs", "crates/proto/src/xfer/dnssec_dns_handle.rs", "crates/proto/src/xfer/mod.rs", "crates/server/src/store/sqlite/authority.rs", "tests/integration-tests/tests/sqlite_authority_tests.rs"]

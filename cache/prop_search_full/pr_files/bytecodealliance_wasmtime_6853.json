@@ -1,0 +1,1 @@
+["crates/wasi-nn/spec", "crates/wasi-nn/src/backend/mod.rs", "crates/wasi-nn/src/backend/openvino.rs", "crates/wasi-nn/src/ctx.rs", "crates/wasi-nn/src/lib.rs", "crates/wasi-nn/src/wit.rs", "crates/wasi-nn/src/witx.rs", "crates/wasi-nn/wit/inference.wit", "crates/wasi-nn/wit/types.wit", "crates/wasi-nn/wit/world.wit", "src/commands/run.rs"]

@@ -1,0 +1,1 @@
+[".changelog/unreleased/bug-fixes/4245-fix-tm-mode.md", "crates/apps/src/bin/namada-node/cli.rs", "crates/apps_lib/src/config/mod.rs", "crates/apps_lib/src/tendermint_node.rs", "crates/node/src/lib.rs"]

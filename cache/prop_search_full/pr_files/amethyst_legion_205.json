@@ -1,0 +1,1 @@
+["src/internals/entity.rs", "src/internals/insert.rs", "src/internals/permissions.rs", "src/internals/query/filter/maybe_changed.rs", "src/internals/query/filter/mod.rs", "src/internals/query/mod.rs", "src/internals/query/view/mod.rs", "src/internals/storage/archetype.rs", "src/internals/storage/mod.rs", "src/lib.rs", "src/query.rs", "src/storage.rs", "src/world.rs"]

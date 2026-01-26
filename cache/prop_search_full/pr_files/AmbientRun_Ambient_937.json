@@ -1,0 +1,1 @@
+["app/src/cli/mod.rs", "app/src/client/mod.rs", "crates/network/src/native/client.rs", "crates/network/src/proto/client.rs", "crates/network/src/web/client.rs"]

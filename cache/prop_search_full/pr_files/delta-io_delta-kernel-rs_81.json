@@ -1,0 +1,1 @@
+["kernel/examples/inspect-table/src/main.rs", "kernel/src/actions/mod.rs", "kernel/src/client/expression.rs", "kernel/src/client/json.rs", "kernel/src/expressions/mod.rs", "kernel/src/expressions/scalars.rs", "kernel/src/lib.rs", "kernel/src/scan/data_skipping.rs", "kernel/src/scan/file_stream.rs", "kernel/src/scan/mod.rs", "kernel/src/snapshot.rs", "kernel/tests/read.rs"]

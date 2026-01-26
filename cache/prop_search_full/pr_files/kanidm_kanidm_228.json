@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", ".github/workflows/tag_version.yml", "Cargo.lock", "Makefile", "VERSION", "kanidm_client/Cargo.toml", "kanidm_unix_int/Cargo.toml", "kanidmd/Cargo.toml"]

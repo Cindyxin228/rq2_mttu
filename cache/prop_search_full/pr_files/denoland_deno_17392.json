@@ -1,0 +1,1 @@
+["cli/tests/integration/run_tests.rs", "cli/tests/testdata/run/stdio_streams_are_locked_in_permission_prompt/text.txt", "cli/tests/testdata/run/stdio_streams_are_locked_in_permission_prompt/worker.js", "runtime/permissions/prompter.rs"]

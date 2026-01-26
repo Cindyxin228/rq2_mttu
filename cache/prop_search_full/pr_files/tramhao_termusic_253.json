@@ -1,0 +1,1 @@
+["lib/src/track.rs", "playback/src/gstreamer_backend.rs", "playback/src/lib.rs", "playback/src/playlist.rs", "playback/src/rusty_backend/mod.rs", "server/src/server.rs", "tui/src/ui/components/lyric.rs", "tui/src/ui/components/podcast.rs", "tui/src/ui/components/progress.rs", "tui/src/ui/components/xywh.rs", "tui/src/ui/model/mod.rs", "tui/src/ui/model/update.rs"]

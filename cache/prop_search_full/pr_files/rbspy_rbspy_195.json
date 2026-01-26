@@ -1,0 +1,1 @@
+["ruby-structs/src/lib.rs", "ruby-structs/src/ruby_2_3_8.rs", "ruby-structs/src/ruby_2_4_5.rs", "ruby-structs/src/ruby_2_5_3.rs", "scripts/bindgen.sh", "src/core/initialize.rs", "src/core/ruby_version.rs"]

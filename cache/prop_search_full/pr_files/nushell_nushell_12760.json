@@ -1,0 +1,1 @@
+["crates/nu-command/src/filesystem/cd.rs", "crates/nu-command/tests/commands/cd.rs", "crates/nu-path/src/components.rs", "crates/nu-path/src/lib.rs", "crates/nu-path/src/trailing_slash.rs"]

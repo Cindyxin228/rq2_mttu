@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "Makefile", "crates/core/Cargo.toml", "crates/core/src/execution.rs", "crates/core/src/lib.rs", "crates/plugin-api/CHANGELOG.md", "crates/plugin-api/Cargo.toml", "crates/plugin-api/README.md", "crates/plugin-api/publish.sh", "crates/plugin-api/src/lib.rs", "crates/plugin-api/src/namespace.rs"]

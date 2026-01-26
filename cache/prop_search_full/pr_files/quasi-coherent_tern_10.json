@@ -1,0 +1,1 @@
+["Cargo.lock", "derrick-core/src/migrations/history.rs", "derrick-core/src/migrations/migration.rs", "derrick-migrate/Cargo.toml", "derrick-migrate/src/backends/sqlx/postgres.rs", "derrick-migrate/src/lib.rs", "derrick-migrate/src/migrate/pg.rs", "derrick-migrate/src/report.rs", "derrick-migrate/src/runner.rs", "src/lib.rs"]

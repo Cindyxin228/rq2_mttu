@@ -1,0 +1,1 @@
+["datafusion/src/physical_plan/file_format/avro.rs", "datafusion/src/physical_plan/file_format/csv.rs", "datafusion/src/physical_plan/file_format/json.rs", "datafusion/src/physical_plan/file_format/mod.rs", "datafusion/src/physical_plan/file_format/parquet.rs", "datafusion/src/test_util.rs"]

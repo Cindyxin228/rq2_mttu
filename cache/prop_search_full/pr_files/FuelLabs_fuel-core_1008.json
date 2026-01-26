@@ -1,0 +1,1 @@
+["crates/fuel-core/src/database.rs", "crates/fuel-core/src/database/balances.rs", "crates/fuel-core/src/database/block.rs", "crates/fuel-core/src/database/state.rs", "crates/fuel-core/src/database/storage.rs", "crates/fuel-core/src/executor.rs"]

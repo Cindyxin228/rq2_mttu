@@ -1,0 +1,1 @@
+[".devcontainer/devcontainer.json", ".github/workflows/client.yml", ".github/workflows/deny.yml", ".github/workflows/features.yml", ".github/workflows/lint.yml", ".github/workflows/markdown.yml", ".github/workflows/pr.yml", ".github/workflows/test.yml", "examples/Cargo.toml", "kubert-prometheus-process/Cargo.toml"]

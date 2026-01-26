@@ -1,0 +1,1 @@
+[".changes/capability-context-refactor.md", "core/tauri-config-schema/schema.json", "core/tauri-utils/src/acl/capability.rs", "core/tauri-utils/src/acl/resolved.rs", "core/tests/acl/fixtures/capabilities/file-explorer-remote/cap.toml", "tooling/cli/schema.json", "tooling/cli/src/migrate/config.rs"]

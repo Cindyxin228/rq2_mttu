@@ -1,0 +1,1 @@
+["ci/azure-test-minimum.yaml", "ci/azure-test-nightly.yml", "ci/azure-test-stable.yml", "metrics-runtime/Cargo.toml", "metrics-runtime/benches/histogram.rs", "metrics-runtime/src/common.rs", "metrics-runtime/src/registry/metric.rs", "metrics-runtime/src/sink.rs"]

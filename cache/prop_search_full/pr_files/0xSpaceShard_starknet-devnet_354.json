@@ -1,0 +1,1 @@
+[".circleci/config.yml", "Cargo.lock", "Cargo.toml", "crates/starknet-devnet-types/src/rpc/contract_class/deprecated/json_contract_class.rs", "docker/Dockerfile", "rust-toolchain.toml"]

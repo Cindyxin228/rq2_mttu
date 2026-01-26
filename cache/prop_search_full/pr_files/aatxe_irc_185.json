@@ -1,0 +1,1 @@
+["Cargo.toml", "irc-proto/Cargo.toml", "irc-proto/src/colors.rs", "irc-proto/src/command.rs", "irc-proto/src/error.rs", "irc-proto/src/irc.rs", "irc-proto/src/lib.rs", "irc-proto/src/line.rs", "irc-proto/src/message.rs", "irc-proto/src/mode.rs", "src/client/data/config.rs", "src/client/mod.rs", "src/error.rs", "src/lib.rs"]

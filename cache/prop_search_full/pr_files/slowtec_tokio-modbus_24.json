@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/client/mod.rs", "src/codec/mod.rs", "src/codec/rtu.rs", "src/frame/mod.rs", "src/frame/rtu.rs", "src/service/rtu.rs"]

@@ -1,0 +1,1 @@
+[".changelog/v0.36.0/breaking-changes/147-fix-script-and-protos.md", ".changelog/v0.36.0/summary.md", ".github/workflows/rust.yml", "CHANGELOG.md", "Cargo.toml", "src/prost/ibc.applications.transfer.v1.rs", "tools/proto-compiler/src/cmd/compile.rs"]

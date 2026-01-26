@@ -1,0 +1,1 @@
+["Cargo.toml", "rand_core/Cargo.toml", "rand_core/src/impls.rs", "rand_distr/tests/pdf.rs", "src/distributions/uniform.rs", "src/distributions/utils.rs", "src/lib.rs"]

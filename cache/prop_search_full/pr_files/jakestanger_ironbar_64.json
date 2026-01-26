@@ -1,0 +1,1 @@
+[".github/workflows/build.yml", "Cargo.lock", "Cargo.toml", "README.md", "docs/Compiling.md", "src/bar.rs", "src/clients/compositor/mod.rs", "src/clients/mod.rs", "src/clients/music/mod.rs", "src/config/impl.rs", "src/config/mod.rs", "src/image/gtk.rs", "src/image/mod.rs", "src/image/provider.rs", "src/modules/launcher/mod.rs", "src/modules/mod.rs"]

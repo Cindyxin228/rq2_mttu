@@ -1,0 +1,1 @@
+["Cargo.lock", "pairing/src/bls12_381/ec.rs", "pairing/src/bls12_381/fq12.rs", "pairing/src/bls12_381/fq6.rs", "pairing/src/lib.rs", "sapling-crypto/Cargo.toml", "zcash_client_backend/Cargo.toml", "zcash_client_backend/src/encoding.rs", "zcash_primitives/Cargo.toml", "zcash_primitives/src/note_encryption.rs"]

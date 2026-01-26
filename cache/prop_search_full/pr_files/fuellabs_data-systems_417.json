@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "bun.lock", "crates/core/Cargo.toml", "crates/domains/Cargo.toml", "crates/types/Cargo.toml", "package.json", "services/api/Cargo.toml", "services/consumer/Cargo.toml", "services/publisher/Cargo.toml", "services/webserver/Cargo.toml"]

@@ -1,0 +1,1 @@
+["src/activities/mod.rs", "src/activities/request.rs", "src/client/graph.rs", "src/education/mod.rs", "src/education/request.rs", "src/lib.rs", "src/planner/mod.rs", "src/planner/request.rs", "tests/activities_url.rs", "tests/education_url.rs"]

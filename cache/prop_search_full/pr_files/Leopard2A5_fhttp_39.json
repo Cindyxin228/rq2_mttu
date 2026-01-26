@@ -1,0 +1,1 @@
+["README.md", "fhttp-core/src/client.rs", "fhttp-core/src/request/body.rs", "fhttp-core/src/request/has_body.rs", "fhttp-core/src/request/mod.rs", "fhttp/Cargo.toml", "fhttp/tests/multipart.rs", "resources/it/requests/multipart.http", "resources/it/requests/multipart_content_1.txt", "resources/it/requests/multipart_content_2.txt"]

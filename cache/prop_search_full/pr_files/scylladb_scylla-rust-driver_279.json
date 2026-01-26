@@ -1,0 +1,1 @@
+[".github/workflows/cassandra.yml", "scylla/src/frame/request/query.rs", "scylla/src/frame/response/result.rs", "scylla/src/frame/value.rs", "scylla/src/transport/connection.rs", "scylla/src/transport/connection_keeper.rs", "scylla/src/transport/load_balancing/token_aware.rs", "scylla/src/transport/session.rs", "scylla/src/transport/topology.rs"]

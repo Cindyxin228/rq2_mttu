@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "README.md", "src/document.rs", "src/lib.rs", "src/main.rs", "src/syntax_highlight.rs", "tests/cli.rs", "tests/fixtures/syntax_highlight/rust.md", "tests/mod.rs", "tests/target/syntax_highlight/rust.html"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "wgpu-core/Cargo.toml", "wgpu-core/src/device/mod.rs", "wgpu-core/src/validation.rs", "wgpu-hal/Cargo.toml", "wgpu/examples/shadow/shader.wgsl", "wgpu/examples/water/terrain.wgsl", "wgpu/examples/water/water.wgsl"]

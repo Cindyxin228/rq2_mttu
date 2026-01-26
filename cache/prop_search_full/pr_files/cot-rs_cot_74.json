@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "flareon-cli/tests/migration_generator.rs", "flareon-macros/src/dbtest.rs", "flareon-macros/tests/compile_tests.rs", "flareon/src/auth.rs", "flareon/src/auth/db.rs", "flareon/src/lib.rs", "flareon/src/static_files.rs", "flareon/tests/db.rs", "flareon/tests/flareon_project.rs", "flareon/tests/router.rs"]

@@ -1,0 +1,1 @@
+["controller/tests/payment_proofs.rs", "controller/tests/transaction.rs", "libwallet/src/error.rs", "libwallet/src/internal/tx.rs", "libwallet/src/slate.rs", "libwallet/src/slate_versions/v4.rs", "libwallet/src/slate_versions/v4_bin.rs"]

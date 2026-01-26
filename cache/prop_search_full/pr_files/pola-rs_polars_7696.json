@@ -1,0 +1,1 @@
+["polars/polars-core/src/fmt.rs", "py-polars/polars/config.py", "py-polars/polars/type_aliases.py", "py-polars/src/lib.rs", "py-polars/src/series.rs", "py-polars/tests/unit/test_cfg.py"]

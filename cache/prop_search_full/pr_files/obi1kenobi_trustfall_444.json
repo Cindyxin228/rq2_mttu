@@ -1,0 +1,1 @@
+["scripts/create_execution_error_data.sh", "scripts/create_frontend_error_data.sh", "scripts/create_parse_error_data.sh", "scripts/create_schema_error_data.sh", "scripts/create_valid_query_data.sh", "trustfall_core/test_data/README.md"]

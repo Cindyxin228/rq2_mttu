@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.lock", "Cargo.toml", "crates/dpapi-core/Cargo.toml", "crates/dpapi-fuzzing/Cargo.toml", "crates/dpapi-native-transport/Cargo.toml", "crates/ffi-types/Cargo.toml", "crates/winscard/Cargo.toml", "ffi/Cargo.toml", "ffi/symbol-rename-macro/Cargo.toml"]

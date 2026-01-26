@@ -1,0 +1,1 @@
+["runtime/near-vm-runner/src/near_vm_runner.rs", "runtime/near-vm-runner/src/tests.rs", "runtime/near-vm-runner/src/tests/regression_tests.rs", "runtime/near-vm/vm/src/instance/mod.rs", "runtime/near-vm/vm/src/vmoffsets.rs"]

@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "src/dot.rs", "src/egraph.rs", "src/language.rs", "src/macros.rs", "src/pattern.rs", "src/rewrite.rs", "src/subst.rs", "src/test.rs", "src/util.rs"]

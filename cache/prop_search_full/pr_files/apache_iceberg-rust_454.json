@@ -1,0 +1,1 @@
+["crates/catalog/glue/testdata/glue_catalog/docker-compose.yaml", "crates/catalog/hms/testdata/hms_catalog/docker-compose.yaml", "crates/catalog/rest/testdata/rest_catalog/docker-compose.yaml", "crates/iceberg/testdata/file_io_s3/docker-compose.yaml", "crates/integrations/datafusion/testdata/docker-compose.yaml"]

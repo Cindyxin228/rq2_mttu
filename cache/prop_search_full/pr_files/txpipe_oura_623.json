@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "book/src/sinks/aws_lambda.md", "examples/aws_lambda/daemon.toml", "src/sinks/_pending/aws_lambda/mod.rs", "src/sinks/_pending/aws_lambda/run.rs", "src/sinks/_pending/aws_lambda/setup.rs", "src/sinks/aws_lambda.rs", "src/sinks/mod.rs"]

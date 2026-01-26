@@ -1,0 +1,1 @@
+["rust/Cargo.toml", "rust/src/client.rs", "rust/src/producer.rs", "rust/src/session.rs", "rust/src/simple_consumer.rs"]

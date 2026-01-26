@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "crates/dep_support/src/lib.rs", "dist/azure-build-and-test-vcpkg.yml", "dist/azure-build-and-test.yml", "dist/vcpkg-triplets/x64-windows-static-release.cmake", "docs/src/howto/build-tectonic/cargo-vcpkg-dep-install.md"]

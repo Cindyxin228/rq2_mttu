@@ -1,0 +1,1 @@
+["tests/integration/cli/tests/snapshot.rs", "tests/integration/cli/tests/snapshots/snapshot__snapshot_epoll.snap", "tests/integration/cli/tests/snapshots/snapshot__snapshot_threaded_memory.snap", "tests/integration/cli/tests/wasm/example-epoll.wasm", "tests/integration/cli/tests/wasm/threaded-memory.wasm"]

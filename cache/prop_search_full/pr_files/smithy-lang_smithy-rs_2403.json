@@ -1,0 +1,1 @@
+["tools/ci-build/Dockerfile", "tools/ci-cdk/canary-runner/Cargo.lock", "tools/ci-cdk/canary-runner/additional-ci", "tools/ci-cdk/canary-runner/src/build_bundle.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/import/iso_camt053.rs", "src/import/single_entry.rs", "tests/test_import_csv.rs", "tests/test_import_iso_camt.rs", "tests/testdata/iso_camt.ledger", "tests/testdata/iso_camt.xml"]

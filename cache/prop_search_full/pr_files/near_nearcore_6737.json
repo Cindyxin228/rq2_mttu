@@ -1,0 +1,1 @@
+["chain/chain/src/chain.rs", "chain/chain/src/store.rs", "chain/client/src/view_client.rs", "core/store/src/columns.rs", "integration-tests/src/tests/client/sharding_upgrade.rs"]

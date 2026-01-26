@@ -1,0 +1,1 @@
+[".flake8", ".github/workflows/ci.yml", ".github/workflows/release.yml", "CHANGELOG.md", "Cargo.toml", "dev-requirements.txt", "src/broker/redis.rs", "src/protocol/mod.rs", "src/protocol/tests.rs"]

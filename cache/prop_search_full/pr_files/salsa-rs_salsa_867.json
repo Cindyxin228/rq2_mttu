@@ -1,0 +1,1 @@
+["components/salsa-macros/src/accumulator.rs", "components/salsa-macros/src/input.rs", "components/salsa-macros/src/interned.rs", "components/salsa-macros/src/options.rs", "components/salsa-macros/src/tracked_fn.rs", "components/salsa-macros/src/tracked_struct.rs", "tests/tracked_fn_orphan_escape_hatch.rs"]

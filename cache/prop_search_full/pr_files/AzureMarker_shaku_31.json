@@ -1,0 +1,1 @@
+["Cargo.toml", "shaku_actix/src/lib.rs", "shaku_axum/Cargo.toml", "shaku_axum/examples/autofac_axum/autofac.rs", "shaku_axum/examples/autofac_axum/main.rs", "shaku_axum/src/inject_component.rs", "shaku_axum/src/inject_provided.rs", "shaku_axum/src/lib.rs", "shaku_axum/tests/module_interface.rs"]

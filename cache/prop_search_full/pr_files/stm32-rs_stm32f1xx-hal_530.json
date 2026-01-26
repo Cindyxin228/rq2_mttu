@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/adc-dma-circ.rs", "examples/adc-dma-rx.rs", "examples/adc.rs", "examples/adc_temperature.rs", "src/adc.rs", "src/dma.rs", "src/lib.rs", "src/pacext.rs", "src/pacext/adc.rs", "src/pacext/uart.rs", "src/prelude.rs", "src/rcc/enable.rs", "src/serial.rs"]

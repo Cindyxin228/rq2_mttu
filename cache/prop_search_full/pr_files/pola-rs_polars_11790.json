@@ -1,0 +1,1 @@
+["crates/polars-io/src/cloud/object_store_setup.rs", "crates/polars-ops/src/series/ops/cum_agg.rs", "crates/polars-ops/src/series/ops/pct_change.rs"]

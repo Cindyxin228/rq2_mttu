@@ -1,0 +1,1 @@
+["Cargo.lock", "lib/oxrdf/src/blank_node.rs", "lib/oxrdf/src/literal.rs", "lib/oxrdf/src/variable.rs", "lib/sparesults/Cargo.toml", "lib/sparesults/src/csv.rs", "lib/sparesults/src/json.rs", "lib/sparesults/src/serializer.rs", "lib/sparesults/src/xml.rs"]

@@ -1,0 +1,1 @@
+["lib/api/src/lib.rs", "lib/cache/src/lib.rs", "lib/compiler-cranelift/src/lib.rs", "lib/compiler-cranelift/src/translator/code_translator.rs", "lib/compiler-cranelift/src/translator/func_environ.rs", "lib/compiler/src/lib.rs", "lib/object/src/lib.rs", "lib/types/src/lib.rs", "lib/vm/src/lib.rs", "tests/lib/wast/src/lib.rs"]

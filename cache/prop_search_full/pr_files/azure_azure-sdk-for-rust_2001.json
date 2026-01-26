@@ -1,0 +1,1 @@
+["eng/common/pipelines/templates/steps/save-package-properties.yml", "eng/common/scripts/Generate-PR-Diff.ps1", "eng/common/scripts/Package-Properties.ps1"]

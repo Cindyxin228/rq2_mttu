@@ -1,0 +1,1 @@
+[".github/workflows/coverage.yml", "Cargo.toml", "src/blake2b/blake2b_simd.rs", "src/blake2b/blake2b_soft.rs", "src/classic/crypto_auth.rs", "src/classic/crypto_generichash.rs", "src/classic/crypto_shorthash.rs", "src/poly1305/poly1305_soft.rs", "src/rng.rs", "src/utils.rs"]

@@ -1,0 +1,1 @@
+["crates/wick/wick-runtime/src/components.rs", "crates/wick/wick-runtime/src/runtime.rs", "crates/wick/wick-runtime/src/runtime/scope/child_init.rs", "crates/wick/wick-runtime/src/runtime/scope/utils.rs", "src/commands/invoke.rs", "src/wick_host.rs"]

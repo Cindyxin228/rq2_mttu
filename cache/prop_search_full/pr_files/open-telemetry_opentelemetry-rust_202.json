@@ -1,0 +1,1 @@
+["opentelemetry-contrib/src/lib.rs", "opentelemetry-contrib/src/trace_propagator/aws_xray_propagator.rs", "opentelemetry-contrib/src/trace_propagator/mod.rs"]

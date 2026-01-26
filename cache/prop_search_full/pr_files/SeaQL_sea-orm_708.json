@@ -1,0 +1,1 @@
+[".github/workflows/rust.yml", "examples/rocket_example/migration/Cargo.toml", "sea-orm-cli/src/commands.rs", "sea-orm-cli/template/migration/_Cargo.toml", "sea-orm-migration/src/cli.rs", "sea-orm-migration/src/manager.rs", "sea-orm-migration/src/prelude.rs"]

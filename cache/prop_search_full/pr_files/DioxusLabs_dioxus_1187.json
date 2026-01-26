@@ -1,0 +1,1 @@
+["Cargo.toml", "packages/cli/Cargo.toml", "packages/desktop/Cargo.toml", "packages/dioxus/Cargo.toml", "packages/fullstack/Cargo.toml", "packages/hooks/Cargo.toml", "packages/hooks/src/lib.rs", "packages/hooks/src/use_shared_state.rs", "packages/liveview/Cargo.toml", "packages/router/Cargo.toml", "packages/ssr/Cargo.toml"]

@@ -1,0 +1,1 @@
+["Cargo.toml", "librocksdb-sys/Cargo.toml", "librocksdb-sys/build_version.cc", "librocksdb-sys/rocksdb", "librocksdb-sys/rocksdb_lib_sources.txt", "librocksdb-sys/tests/ffi.rs", "src/db_options.rs", "src/lib.rs", "tests/test_db.rs"]

@@ -1,0 +1,1 @@
+["lib/api/src/engine.rs", "lib/api/src/store.rs", "lib/api/src/sys/externals/memory.rs", "lib/api/src/sys/externals/table.rs", "lib/api/src/sys/module.rs", "lib/wasi/src/bin_factory/exec.rs", "lib/wasi/src/state/env.rs"]

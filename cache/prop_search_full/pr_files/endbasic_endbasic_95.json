@@ -1,0 +1,1 @@
+[".github/workflows/setup-sdl.ps1", ".github/workflows/test.yml", "cli/Cargo.toml", "cli/src/IBMPlexMono-Regular-6.0.0.ttf", "cli/src/lib.rs", "cli/src/main.rs", "cli/src/sdl.rs", "cli/tests/cli/help.out", "cli/tests/cli/help.out.sdl", "std/src/sdl.rs"]

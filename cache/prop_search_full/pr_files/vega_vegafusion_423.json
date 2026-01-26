@@ -1,0 +1,1 @@
+["vegafusion-core/src/planning/projection_pushdown.rs", "vegafusion-core/src/planning/stitch.rs", "vegafusion-core/src/spec/signal.rs", "vegafusion-core/src/spec/values.rs", "vegafusion-core/src/spec/visitors.rs", "vegafusion-runtime/src/task_graph/runtime.rs"]

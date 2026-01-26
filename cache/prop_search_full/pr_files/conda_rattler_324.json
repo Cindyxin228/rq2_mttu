@@ -1,0 +1,1 @@
+["crates/rattler_libsolv_rs/src/id.rs", "crates/rattler_libsolv_rs/src/lib.rs", "crates/rattler_libsolv_rs/src/pool.rs", "crates/rattler_libsolv_rs/src/solvable.rs", "crates/rattler_libsolv_rs/src/solver/mod.rs", "crates/rattler_solve/src/libsolv_rs/input.rs", "crates/rattler_solve/src/libsolv_rs/mod.rs"]

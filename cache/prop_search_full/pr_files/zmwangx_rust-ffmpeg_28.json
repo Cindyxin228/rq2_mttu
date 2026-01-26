@@ -1,0 +1,1 @@
+["Cargo.toml", "README.md", "examples/dump-frames.rs", "examples/transcode-audio.rs", "src/codec/decoder/audio.rs", "src/codec/decoder/opened.rs", "src/codec/decoder/video.rs", "src/codec/encoder/audio.rs", "src/codec/encoder/encoder.rs", "src/codec/encoder/subtitle.rs", "src/codec/encoder/video.rs"]

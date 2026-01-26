@@ -1,0 +1,1 @@
+[".config/nextest.toml", ".github/workflows/test.yml", "Cargo.lock", "Cargo.toml", "justfile", "src/cli.rs", "src/main.rs", "src/stdio.rs", "testing/README.md", "testing/index.rs"]

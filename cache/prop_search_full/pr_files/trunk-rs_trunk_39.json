@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", ".github/workflows/release.yaml", "CONTRIBUTING.md", "Cargo.toml", "README.md", "clippy.toml", "rustfmt.toml", "src/build.rs", "src/cmd/build.rs", "src/cmd/clean.rs", "src/cmd/serve.rs", "src/cmd/watch.rs", "src/common.rs", "src/config.rs", "src/main.rs", "src/watch.rs"]

@@ -1,0 +1,1 @@
+["Cargo.lock", "audio/Cargo.toml", "audio/src/fetch/mod.rs", "audio/src/fetch/receive.rs", "core/Cargo.toml", "core/src/apresolve.rs", "core/src/error.rs", "core/src/http_client.rs", "core/src/spclient.rs", "discovery/Cargo.toml", "discovery/src/lib.rs", "discovery/src/server.rs"]

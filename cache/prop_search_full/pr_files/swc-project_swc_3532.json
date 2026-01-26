@@ -1,0 +1,1 @@
+["crates/swc_css_parser/src/parser/selector/mod.rs", "crates/swc_css_parser/tests/fixture/selector/pseudo-class/an-plus-b/input.css", "crates/swc_css_parser/tests/fixture/selector/pseudo-class/an-plus-b/output.json", "crates/swc_css_parser/tests/fixture/selector/pseudo-class/an-plus-b/span.rust-debug"]

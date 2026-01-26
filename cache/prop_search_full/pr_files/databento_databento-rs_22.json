@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "README.md", "examples/historical.rs", "examples/live.rs", "scripts/build.sh", "src/deserialize.rs", "src/historical.rs", "src/historical/batch.rs", "src/historical/metadata.rs", "src/lib.rs", "src/live.rs", "src/live/client.rs"]

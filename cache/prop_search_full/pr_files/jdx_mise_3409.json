@@ -1,0 +1,1 @@
+["docs/cli/index.md", "docs/cli/ls.md", "e2e/cli/test_upgrade", "man/man1/mise.1", "mise.usage.kdl", "schema/mise.json", "settings.toml", "src/backend/asdf.rs", "src/backend/go.rs", "src/backend/mod.rs", "src/backend/npm.rs", "src/backend/vfox.rs", "src/cli/ls.rs", "src/cli/mod.rs", "src/plugins/core/ruby.rs", "xtasks/fig/src/mise.ts"]

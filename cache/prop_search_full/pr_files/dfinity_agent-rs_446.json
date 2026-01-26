@@ -1,0 +1,1 @@
+["ic-agent/README.md", "ic-agent/src/agent/agent_error.rs", "ic-agent/src/agent/mod.rs", "ic-agent/src/agent/replica_api.rs", "ic-agent/src/agent/response.rs", "ic-agent/src/agent/signed.rs", "ic-agent/src/lib.rs", "ic-utils/src/canister.rs", "ic-utils/src/interfaces/management_canister.rs"]

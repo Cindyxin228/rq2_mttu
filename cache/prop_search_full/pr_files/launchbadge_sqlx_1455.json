@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "sqlx-core/Cargo.toml", "sqlx-core/src/mysql/types/time.rs", "sqlx-core/src/postgres/types/time/date.rs", "sqlx-core/src/postgres/types/time/datetime.rs", "sqlx-core/src/postgres/types/time/mod.rs", "sqlx-core/src/postgres/types/time/time.rs", "sqlx-core/src/postgres/types/time_tz.rs", "tests/mysql/types.rs", "tests/postgres/types.rs"]

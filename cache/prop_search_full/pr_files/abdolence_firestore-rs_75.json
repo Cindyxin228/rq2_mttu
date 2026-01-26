@@ -1,0 +1,1 @@
+["examples/reference.rs", "src/db/parent_path_builder.rs", "src/firestore_serde/mod.rs", "src/firestore_serde/reference_serializers.rs", "src/firestore_serde/serializer.rs", "src/firestore_serde/timestamp_serializers.rs"]

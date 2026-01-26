@@ -1,0 +1,1 @@
+["NEWS.md", "cli/tests/integration_test.rs", "cli/tests/lang/bitwise.bas", "cli/tests/lang/bitwise.out", "cli/tests/repl/help.out", "core/src/eval.rs", "core/src/lexer.rs", "core/src/value.rs", "std/src/help.rs"]

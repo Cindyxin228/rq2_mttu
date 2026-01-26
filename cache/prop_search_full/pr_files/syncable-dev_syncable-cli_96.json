@@ -1,0 +1,1 @@
+["src/analyzer/display.rs", "src/analyzer/display/box_drawer.rs", "src/analyzer/display/detailed_view.rs", "src/analyzer/display/helpers.rs", "src/analyzer/display/json_view.rs", "src/analyzer/display/matrix_view.rs", "src/analyzer/display/mod.rs", "src/analyzer/display/summary_view.rs", "src/analyzer/display/utils.rs"]

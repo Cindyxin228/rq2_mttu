@@ -1,0 +1,1 @@
+["CHANGELOG.md", "Cargo.toml", "examples/adc-dma-circ.rs", "examples/adc-dma-rx.rs", "examples/adc.rs", "examples/adc_temperature.rs", "examples/mfrc522.rs", "examples/spi-dma.rs", "examples/spi-slave.rs", "examples/spi.rs", "src/adc.rs", "src/i2c.rs", "src/i2c/blocking.rs", "src/rcc/enable.rs", "src/spi.rs", "src/time.rs"]

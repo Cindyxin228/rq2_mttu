@@ -1,0 +1,1 @@
+["cli/js/compiler.ts", "cli/module_graph.rs", "cli/tests/integration_tests.rs", "cli/tests/type_directives_redirect.ts", "cli/tests/type_directives_redirect.ts.out", "tools/http_server.py"]

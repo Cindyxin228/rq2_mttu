@@ -1,0 +1,1 @@
+["crates/rattler-bin/src/commands/create.rs", "crates/rattler/src/install/mod.rs", "crates/rattler_conda_types/src/match_spec/mod.rs", "crates/rattler_conda_types/src/match_spec/parse.rs", "crates/rattler_conda_types/src/version/mod.rs", "crates/rattler_solve/src/lib.rs", "crates/rattler_solve/src/libsolv/wrapper/pool.rs"]

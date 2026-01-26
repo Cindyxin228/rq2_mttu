@@ -1,0 +1,1 @@
+["Cargo.toml", "crates/iceberg/Cargo.toml", "crates/iceberg/src/error.rs", "crates/iceberg/src/scan.rs", "crates/iceberg/src/spec/manifest.rs", "crates/iceberg/src/spec/manifest_list.rs"]

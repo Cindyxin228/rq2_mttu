@@ -1,0 +1,1 @@
+["Cargo.lock", "Cargo.toml", "src/domain/msg/msg_arg.rs", "src/domain/msg/msg_entity.rs", "src/domain/msg/msg_handler.rs", "src/domain/msg/parts_entity.rs", "src/domain/msg/tpl_entity.rs", "src/main.rs"]

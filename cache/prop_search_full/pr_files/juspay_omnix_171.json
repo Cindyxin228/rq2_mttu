@@ -1,0 +1,1 @@
+[".github/workflows/ci.yaml", "crates/flakreate/registry/flake.lock", "crates/flakreate/registry/flake.nix", "crates/flakreate/src/flake_template/mod.rs"]

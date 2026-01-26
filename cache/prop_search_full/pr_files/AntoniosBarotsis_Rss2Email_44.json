@@ -1,0 +1,1 @@
+[".env.example", ".github/workflows/ci.yml", "CHANGELOG.md", "Cargo.lock", "Cargo.toml", "src/email/email_provider.rs", "src/email/error.rs", "src/email/mod.rs", "src/email/resend.rs", "src/email/sendgrid.rs", "src/lib.rs", "src/main.rs"]

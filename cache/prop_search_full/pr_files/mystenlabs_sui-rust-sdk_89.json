@@ -1,0 +1,1 @@
+["crates/sui-graphql-client-build/Cargo.toml", "crates/sui-graphql-client/src/lib.rs", "crates/sui-graphql-client/src/query_types/epoch.rs", "crates/sui-graphql-client/src/query_types/mod.rs", "crates/sui-graphql-client/src/query_types/protocol_config.rs", "crates/sui-graphql-client/src/query_types/transaction.rs"]
